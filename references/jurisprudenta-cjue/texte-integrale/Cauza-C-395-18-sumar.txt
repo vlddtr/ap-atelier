@@ -1,0 +1,25 @@
+
+Cauza C- 395/18
+Tribunale Amministrativo Regionale per il Lazio - Tim SpA - Direzione e coordinamento Vivendi SA/Consip SpA, Ministero dell’Economia e delle Finanze
+Hotărârea Curții (Camera a doua)
+30 ianuarie 2020
+
+Identificator ECLI: ECLI:EU:C:2020:58
+EUR-Lex: 62018CJ0395
+Tip procedură: cerere pentru pronunţarea unei hotărâri preliminare
+Materie: libertatea de stabilire, libera prestare a serviciilor, armonizare legislativă
+Subiect (cuvinte cheie): „trimitere preliminară, atribuirea contractelor de achiziție publică de produse, de lucrări sau de servicii, Directiva 2014/24/UE, art. 18 alin. (2), art. 57 alin. (4), motive facultative de excludere, motiv de excludere a unui subcontractant menționat în oferta operatorului economic, încălcarea de către subcontractant a obligațiilor prevăzute de legislația din domeniul mediului, social și al muncii, reglementare națională care prevede excluderea automată a operatorului economic pentru o astfel de încălcare”
+Instanţa de trimitere: Tribunale Amministrativo Regionale per il Lazio (Tribunalul Administrativ Regional din Lazio, Italia)
+Părţi în procedura principală:
+Reclamantă: Tim SpA - Direzione e coordinamento Vivendi SA
+Pârâte: Consip SpA, Ministero dell’Economia e delle Finanze (Ministerul Economiei și Finanțelor, Italia)
+Obiectul cauzei:
+Tribunale Amministrativo Regionale per il Lazio (Tribunalul Administrativ Regional din Lazio, Italia) a formulat o cerere de decizie preliminară în litigiul Tim SpA – Direzione e coordinamento Vivendi SA împotriva Consip SpA și Ministero dell'Economia e delle Finanze (Ministerul Economiei și Finanțelor, Italia) cu privire la excluderea Tim SpA de la o procedură de licitație deschisă organizată de Consip SpA în vederea atribuirii unui contract de furnizare a unui sistem de comunicare optică pentru interconectarea centrului de prelucrare a datelor al mai multor departamente ale Ministerului Economiei și Finanțelor.
+Cadrul juridic: Considerentele (40), (101) si (102), art. 2 alin. (1) punctele 10-12, art. 18, art. 56 alin. (1) lit. (b), art. 57 alin. (4)-(7), art. 71 alin. (6) lit. (b) din Directiva 2014/24/UE
+Întrebări preliminare:
+”Articolul 57 și articolul 71 alineatul (6) din Directiva 2014/24/UE se opun unei reglementări naționale precum cea conținută la articolul 80 alineatul 5 din Decretul legislativ nr. 50 din 2016, care prevede excluderea unui operator economic ofertant în cazul constatării în cadrul unei proceduri de atribuire a unui motiv de excludere referitor la un subcontractant care face parte dintre cei trei subcontractanți indicați în cadrul ofertei, în loc să îi impună ofertantului înlocuirea subcontractantului desemnat?
+Cu titlu subsidiar, în cazul în care Curtea de Justiție ar aprecia că opțiunea excluderii ofertantului se înscrie printre cele permise statului membru, principiul proporționalității, enunțat la articolul 5 din Tratatul Uniunii Europene, amintit în considerentul (101) al Directivei 2014/24/UE și indicat de Curtea de Justiție drept principiu general de drept al Uniunii Europene, se opune unei reglementări naționale precum cea prevăzută la articolul 80 alineatul 5 din Decretul legislativ nr. 50 din 2016, care prevede că, în cazul constatării în cadrul unei proceduri de atribuire a unui motiv de excludere referitor la un subcontractant desemnat, se dispune excluderea operatorului economic ofertant indiferent de situație, inclusiv atunci când există alți subcontractanți neexcluși și care îndeplinesc cerințele pentru executarea prestațiilor care trebuie subcontractate sau când operatorul economic ofertant declară că renunță la subcontractare, întrucât îndeplinește pe cont propriu cerințele pentru executarea prestațiilor?”
+Soluţie:
+”Articolul 57 alineatul (4) litera (a) din Directiva 2014/24/UE a Parlamentului European și a Consiliului din 26 februarie 2014 privind achizițiile publice și de abrogare a Directivei 2004/18/CE nu se opune unei reglementări naționale în temeiul căreia autoritatea contractantă are posibilitatea sau chiar obligația de a exclude operatorul economic care a depus oferta de la participarea la procedura de achiziție publică în cazul în care motivul de excludere prevăzut de această dispoziție este constatat în privința unuia dintre subcontractanții menționați în oferta acestui operator. În schimb, dispoziția menționată coroborată cu articolul 57 alineatul (6) din această directivă, precum și principiul proporționalității se opun unei reglementări naționale care prevede caracterul automat al unei astfel de excluderi.”
+
+

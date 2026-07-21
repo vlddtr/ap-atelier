@@ -1,0 +1,19 @@
+# C-124/17 — Vossloh Laeis
+- Instanță: CJUE (Camera a patra)
+- Data: 2018-10-24
+- ECLI: ECLI:EU:C:2018:855
+- Părți: Vossloh Laeis GmbH împotriva Stadtwerke München GmbH
+- Temă: excludere; self-cleaning / măsuri de remediere; cooperarea cu autoritatea de investigație ȘI cu autoritatea contractantă; momentul de la care curge durata maximă de excludere
+- Cadru juridic: Directiva 2014/25/UE, art. 80, coroborat cu Directiva 2014/24/UE, art. 57 alin. (4), (6) și (7)
+- Instanța de trimitere: Vergabekammer Südbayern (Camera pentru Achiziții Publice din Bavaria de Sud, Germania)
+- Întrebarea preliminară: (1) Este compatibilă cu dreptul UE o normă națională care impune operatorului economic care vrea să își demonstreze fiabilitatea (self-cleaning), în pofida existenței unui motiv de excludere, să clarifice integral faptele cooperând în mod activ nu doar cu autoritatea de investigație, ci și cu autoritatea contractantă? (2) De la ce moment se calculează durata maximă de excludere (de 3 ani, în lipsa unei hotărâri definitive) atunci când motivul de excludere — în speță înțelegerea anticoncurențială, art. 57(4)(d) — a fost sancționat de o autoritate competentă?
+- Soluția (ratio):
+  1. „Articolul 80 din Directiva 2014/25/UE coroborat cu articolul 57 alineatul (6) din Directiva 2014/24/UE trebuie interpretat în sensul că nu se opune unei dispoziții din dreptul național care impune unui operator economic care dorește să își demonstreze fiabilitatea în ciuda existenței unui motiv de excludere relevant să clarifice pe deplin faptele și împrejurările care au legătură cu infracțiunea sau cu abaterea săvârșită, cooperând în mod activ nu numai cu autoritatea însărcinată cu investigația, ci și cu autoritatea contractantă, în cadrul rolului propriu al acesteia din urmă, pentru a aduce dovada restabilirii fiabilității sale, cu condiția ca această cooperare să fie limitată la măsuri strict necesare acestei examinări.”
+  2. „Articolul 57 alineatul (7) din Directiva 2014/24 trebuie interpretat în sensul că, atunci când un operator economic a avut un comportament care intră sub incidența cauzei de excludere prevăzute la articolul 57 alineatul (4) litera (d) din această directivă, care a fost sancționat de o autoritate competentă, durata maximă de excludere se calculează de la data deciziei autorității respective.”
+- Text-cheie verbatim:
+  - „operatorul economic care dorește să își demonstreze fiabilitatea în ciuda existenței unui motiv relevant de excludere prevăzut la alineatele (1) și (4) ale acestui articol dovedește că a plătit sau s‑a angajat să plătească o compensație în ceea ce privește eventualele prejudicii cauzate prin infracțiune”
+  - „operatorul economic care a fost recunoscut responsabil pentru o încălcare a dreptului concurenței să furnizeze decizia autorității de concurență care îl privește”
+  - „operatorul economic interesat își menține, în această perioadă, posibilitatea de a adopta măsurile prevăzute la articolul 57 alineatul (6) din Directiva 2014/24 în scopul de a‑și demonstra fiabilitatea”
+- Relevanță achiziții RO: cauza fundamentală pe self-cleaning. Transpune direct în logica art. 171 din L. 98/2016 (măsuri de remediere prin care operatorul își dovedește credibilitatea în pofida unei situații de excludere de la art. 164/165/167). Confirmă că autoritatea contractantă poate cere operatorului cooperare activă și clarificare integrală a faptelor pentru evaluarea măsurilor de remediere, nu doar dovada cooperării cu organele de investigație — relevant pentru aprecierea pe care AC o face în temeiul art. 171 alin. (3) L. 98/2016. Totodată, pentru motivul de excludere opțional de la art. 167 alin. (1) lit. c) L. 98/2016 (înțelegeri anticoncurențiale), oferă reperul privind momentul de la care curge perioada de excludere (data deciziei autorității de concurență).
+- Sursă oficială: https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62017CJ0124
+- Status: VERIFICAT

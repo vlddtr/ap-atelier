@@ -1,0 +1,695 @@
+DECIZIE CNSC BO2025_3156 — text integral (anonimizat de CNSC la publicare; raționament/considerente complete).
+Citeaz-o prin BO2025_3156.
+
+În conformitate cu prevederile art. 14 alin. (2) și ale art. 27
+alin. (1) din Legea nr. 101/2016 privind remediile și căile de atac în
+materie de atribuire a contractelor de achiziție publică, a
+contractelor sectoriale și a contractelor de concesiune de lucrări și
+concesiune de servicii, precum și pentru organizarea și funcționarea
+Consiliului Național de Soluționare a Contestațiilor, cu modificările și
+completările ulterioare, Consiliul adoptă următoarea
+DECIZIE
+Nr. 3156/C6/3864 
+Data: 21.10.2025
+Prin contestația înregistrată la Consiliul Național de Soluționare a
+Contestațiilor sub nr. 68511/01.10.2025, formulată de ......... SA, cu sediul
+social în ......... ....., ........., înregistrată la Registrul Comerțului sub
+nr. ........., având CUI RO ........., reprezentată legal prin ........., în calitate
+de Director General, împotriva rezultatului procedurii de atribuire și a
+raportului procedurii nr. 149495/24.09.2025, emise de ..... ......... ..... SA,
+cu sediul în ........., ........., et. 5, ........., în calitate de entitate
+contractantă, în cadrul procedurii simplificate, organizată în vederea
+încheierii acordului-cadru de furnizare CONECTOARE, PAPUCI PENTRU
+CABLURI ȘI ELEMENTE TERMINALE PENTRU CONEXIUNI RAPIDE DE TIPUL
+FISELOR PLATE, PRIZE ELECTRICE FISE ȘI STECHERE (8 loturi), referitor la
+lot 1 - Papuci Tip A și lot 2 - Papuci Tip N, s-a solicitat:
+1. ......... pentru loturile 1 și 2;
+2. anularea raportului procedurii nr. 149495/24.09.2025 în ceea ce privește
+deciziile luate cu privire la loturile contestate, ca fiind netemeinice și
+nelegale și, implicit, anularea proceselor verbale menționate în raportul
+procedurii privind evaluarea calificării ofertanților (în baza cărora ofertele
+depuse de ......... SA au fost declarate inacceptabile), precum și cele privind
+evaluarea propunerilor tehnice și a celor financiare, respectiv a deciziei prin
+care oferta depusă de către operatorul economic ..... SRL a fost declarată
+câștigătoare pentru lotul 2;
+3. obligarea entității contractante ca în termen de 10 zile de la soluționarea
+contestației să procedeze la reevaluarea ofertelor depuse pentru lotul 2 cu
+respectarea tuturor prevederilor legale, a cerințelor din caietul de sarcini și a
+întregii documentații de atribuire;
+4. obligarea entității contractante la plata tuturor cheltuielilor de judecată
+generate de prezentul demers judiciar.
+CONSILIUL NAȚIONAL DE SOLUȚIONARE A CONTESTAȚIILOR,
+asupra cauzei de față, constată următoarele:
+Pagina 1 din 15
+
+Consiliul a fost legal sesizat și este competent, potrivit dispozițiilor art.
+12 alin. (1) din Legea nr. 101/2016, să soluționeze contestația de față, prin
+care ......... SA solicită cele menționate în partea introductivă a deciziei.
+Precizează că, valoarea totală estimată a acordului-cadru este de
+412.545,67 lei, fără TVA, din care valoarea loturilor care fac obiectul
+contestației sunt stabilite a fi, pentru lotul 1 - 10.089,16 lei, fără TVA și
+pentru lotul 2 - 166.615,65 lei, fără TVA, iar criteriul de atribuire pentru
+ambele loturi a fost „Prețul cel mai scăzut".
+Susține că a participat la procedură cu oferte individuale, temeinic
+fundamentate, elaborate în acord și cu respectarea strictă a tuturor
+normativelor legale și tehnice în vigoare, dar și a exigențelor documentației
+de atribuire, valoarea financiară a ofertelor depuse fiind pentru lotul 1 -
+5.415,96 lei, plus TVA, și pentru lotul 2 - 67.665,63 lei, plus TVA.
+De asemenea, arată că a depus toate documentele solicitate pentru a
+demonstra cerințele de calificare a ofertanților, inclusiv garanția de
+participare pentru loturile 1 și 2.
+În data de 24.09.2025, entitatea contractantă a publica în SEAP
+raportul procedurii nr. 149494/24.09.2025 prin care a informat-o despre
+decizia de respingere a ofertei sale, ca inacceptabilă, evidențiind în cuprinsul
+raportului faptul că, în urma verificării îndeplinirii condițiilor de participare și
+a cerințelor minime asociate, oferta sa pentru loturile 1 și 2 este respinsă, în
+baza prevederilor art. 143 alin. (1) din HG nr. 394/2016, respectiv garanția
+de participare depusă în SEAP pentru loturile 1 și 2 nu a fost semnată cu
+semnătură electronică bazată pe un certificat digital emis de un furnizor
+acreditat.
+Astfel, consideră decizia entității contractante de respingere a ofertei
+sale netemeinică și nelegală, aducând argumente în acest sens.
+În cadrul procedurii mai sus menționate, a depus oferta completă
+pentru lotul 1, inclusiv garanția de participare în valoare de 61 de lei prin
+virament bancar efectuat cu Ordinul de plată nr. 3281/22.08.2025,
+precizând că ordinul nu a fost semnat. 
+În ceea ce privește lotul 2, a depus, de asemenea, oferta completă,
+inclusiv garanția de participare în valoare de 1.000 lei, sub forma Scrisorii
+de garanție de participare la licitație nr. 34GPL2025-4609, emisă în data de
+25.08.2025 de Banca BRD, în format electronic, semnată electronic cu
+semnătură calificată de către reprezentanții băncii.
+Scrisoarea de garanție bancară a fost semnată digital cu dublă
+semnătură electronică calificată emisă de ....., furnizor de servicii de
+acreditat calificat, înregistrat în Lista de încredere a UE (EU Trusted List), în
+conformitate cu dispozițiile Regulamentului (UE) nr. 910/2014.
+Cu toate acestea, prin comunicarea nr. 149494/24.09.2025, entitatea
+contractantă a respins oferta sa, calificând-o ca inacceptabilă, motivând că
+2
+
+garanția de participare depusă în SEAP pentru loturile 1 și 2 nu ar fi fost
+semnate cu semnătură electronică bazată pe certificat digital emis de un
+furnizor acreditat.
+Consideră că decizia entității contractante este nelegală și
+neîntemeiată, pentru următoarele motive:
+1. Scrisoarea de garanție bancară este valabil semnată cu semnătură
+electronică calificată, în conformitate cu Regulamentul (UE) nr. 910/2014:
+Raportat la situația lotului 1, cerința privind încărcarea unui ordin de
+plată semnat electronic nu este prevăzută expres de lege ca o condiție
+eliminatorie. Astfel, absența semnăturii electronice pe ordinul de plată nu
+poate afecta valabilitatea garanției, atât timp cât viramentul a fost efectuat
+în mod real și integral. Având în vedere că viramentul s-a efectuat în data
+de 22.08.2025 din contul său bancar, deschis la BCR în contul bancar al
+entității contractante, deschis la aceeași bancă, creditarea contului entității
+contractante s-a efectuat în aceeași zi. 
+Prin urmare, la data verificării îndeplinirii condițiilor de participare de
+către comisia de evaluare, 26.08.2025, garanția de participare era efectiv
+constituită nemaifiind nevoie de o dovadă în acest sens.
+În situația lotului 2, scrisoarea de garanție bancară emisă de BRD,
+bancă recunoscută pe piața din România, a fost transmisă în format
+electronic și semnată cu dublă semnătură electronică, emisă de ....., un
+furnizor de servicii de încredere calificat, înregistrat în EU Trusted List.
+Autoritatea pentru Digitalizarea României menționează în mod expres
+pe site-ul oficial https://www.adr.gov.ro/semnatura-electronica-trusted-list
+faptul că, prin intrarea în vigoare a Regulamentului 910/2014, semnăturile
+și sigiliile electronice bazate pe certificate calificate emise de către
+prestatorii de servicii de încredere cu statut de calificat, înscriși în Trusted
+List publicat la nivelul CE sunt valabile la nivelul tuturor statelor membre
+UE, deci și în România (art. 25 punctul 3 din Reg. UE 910/2014), indiferent
+de țara în care își are sediul prestatorul care a emis certificatul.
+Lista completă a prestatorilor de servicii de încredere pentru
+tranzacțiile electronice din statele membre UE, conform prevederilor
+Regulamentului (UE) 910/2014 se regăsește la adresa: https://eidas.ec.
+europa.eu/efda/tl-browser.
+Accesând aceste liste, se poate observa că furnizorul de servicii pentru
+tranzacții electronice, ..... este un furnizor de servicii acreditat atât în
+Franța, cât și în Italia.
+Prin urmare, entitatea contractantă nu are dreptul legal să respingă
+documentele semnate cu o astfel de semnătură, chiar dacă furnizorul
+certificatului nu este înregistrat în România, ci într-un alt stat membru UE.
+Rezultă în mod clar că entitatea contractantă are obligația legală de a
+accepta documente semnate electronic cu semnături calificate emise în orice
+stat membru al Uniunii Europene, inclusiv în cazul furnizorilor de servicii de
+încredere precum ..... (Italia, Franta), conform:
+https://eidas.ec.europa.eu/efda/trust-services/browse/eidas/tls/tl/FR;
+https://eidas.ec.europa.eu/efda/trust-services/browse/eidas/tls/tl/IT.
+Pagina 3 din 15
+
+2. Respingerea ofertei pentru un presupus viciu de semnătură încalcă
+principiile nediscriminării, tratamentului egal și proporționalității:
+Entitatea contractantă a aplicat în mod formalist și excesiv cerința
+privind semnătura electronică, încălcând prevederile art. 2 din Legea nr.
+99/2016, care statuează principiile fundamentale în materia achizițiilor
+publice sectoriale: tratarea egală a operatorilor economici, transparența,
+proporționalitatea.
+În situația lotului 1, documentația de atribuire trebuie interpretată și
+aplicată prin prisma principiului proporționalității și al asigurării accesului
+liber și nediscriminatoriu la procedură. În absența unei prevederi exprese și
+neechivoce care să condiționeze validitatea garanției de prezentarea unui
+ordin de plată semnat electronic, o asemenea exigență nu poate fi
+transformată într-un criteriu de respingere automată a ofertei. Atâta timp
+cât scopul real al cerinței și anume, securizarea procedurii prin blocarea
+sumelor în favoarea entității contractante, a fost pe deplin atins, lipsa unei
+semnături electronice pe documentul bancar nu poate constitui temei legal
+pentru excludere. Fondul prevalează asupra formei, iar în cazul de față,
+fondul - existența efectivă a garanției - nu poate fi contestat.
+Excluderea unui ofertant pentru un viciu strict formal, care nu pune în
+discuție nici realitatea, nici integralitatea garanției de participare, reprezintă
+o măsură vădit disproporționată în raport cu obiectivul urmărit de legislația
+achizițiilor publice. Potrivit jurisprudenței Curții de Justiție a Uniunii
+Europene și practicii naționale în materie, sancțiunea excluderii trebuie
+aplicată numai în situații de neconformități substanțiale, care afectează
+competiția loială ori integritatea procedurii. În speță, absența semnăturii
+electronice pe un document bancar, deși sumele au fost virate, nu
+generează niciun risc pentru autoritatea contractantă și nici nu conferă
+ofertantului un avantaj nejustificat, ceea ce face ca măsura de respingere să
+fie nelegală și excesivă.
+Prin urmare, dacă suma a fost virată și se află în contul entității
+contractante, obligația ofertantului este îndeplinită. 
+Prin urmare, respingerea bazată pe un aspect strict formal contravine
+practicii consolidate și denotă o aplicare rigidă și excesiv formalistă a
+normelor.
+Și în cazul lotului 2, în condițiile în care: (i) scrisoarea de garanție este
+emisă de o instituție bancară autorizată în România (BRD), (ii) este
+completă, conformă ca formă și conținut, și (iii) este semnată electronic
+calificat în conformitate cu dreptul european, respingerea acesteia ca
+„inacceptabilă" nu servește niciun interes legitim al entității contractante și
+nici nu protejează concurența sau corectitudinea procedurii, ci reprezintă o
+interpretare eronată a formei în detrimentul fondului și o încălcare a
+prevederilor legale.
+4
+
+Chiar dacă (în ipoteză teoretică) ar fi existat o nelămurire privind
+constituirea garanției de participare, respectiv validitatea semnăturii
+electronice, entitatea contractantă avea obligația să aplice principiul
+proporționalității și să ceară clarificări sau remedierea erorii, conform art.
+133 și art. 138 din HG nr. 394/2016.
+În schimb, entitatea contractantă a ales să nu respecte aceasta
+obligație și a aplicat direct excluderea ofertei ca inacceptabilă, fără să
+analizeze fondul ofertei tehnice sau financiare, ceea ce prejudiciază grav
+dreptul său de a participa la procedură.
+Respingerea directă, fără parcurgerea acestei etape obligatorii, încalcă
+principiul bunei administrări și pe cel al maximizării concurenței,
+transformând un presupus viciu de semnătură într-un motiv de excludere
+nejustificată.
+3. Entitatea contractantă nu are dreptul de a condiționa acceptarea
+semnăturii electronice de utilizarea unui anumit furnizor sau de înregistrarea
+acestuia într-un registru național:
+Menționează că, România, ca stat membru al Uniunii Europene, în
+temeiul prevederilor art. 25 alin. (3) din Regulamentul (UE) nr. 910/2014,
+are obligația de a recunoaște în mod automat valabilitatea semnăturilor
+electronice calificate emise în alte state membre UE, fără a putea impune
+condiții suplimentare, cum ar fi:
+• înregistrarea furnizorului într-un „registru național";
+• folosirea unui anumit furnizor „acceptat" de autoritatea contractantă;
+• emiterea certificatului doar de furnizori autorizați în România.
+Astfel, practica entității contractante de a respinge documente pe
+motiv că furnizorul semnăturii electronice (.....) nu ar fi „acreditat" în
+România, este contrară dreptului UE și ar putea atrage chiar răspunderea
+statului pentru neaplicarea directă a normelor europene.
+În probațiune a depus înscrisuri.
+Consiliul, prin adresa nr. 68667/3864/C6/02.10.2025, a solicitat
+contestatoarei prezentarea dovezii constituirii legale a cauțiunii, în sensul
+art. 61
+1
+ din Legea nr. 101/2016.
+..... ......... ..... SA, prin adresa nr. 149679/06.10.2025, înregistrată la
+Consiliu sub nr. 69337/06.10.2025, a formulat punct de vedere raportat la
+contestația depusă de ......... SA, atașând și copia dosarului achiziției ce a
+fost cu adresa nr. 149694/07.10.2025, înregistrată sub nr.
+70061/08.10.2025.
+Prin punctul de vedere, aceasta solicită respingerea contestației ca
+nefondată și continuarea procedurii în vederea încheierii acordului-cadru.
+Precizează că, în fișa de date a achiziției (secțiunea IV.4 - Prezentarea
+ofertei/IV.4,3) a prevăzut expres că: 
+„Documentele vor fi semnate cu semnătură electronică calificată, bazată pe un certificat calificat,
+eliberat de un furnizor de servicii de încredere calificat, și încărcate în SEAP."
+Or, este evident din cerința mai sus reprodusă, că ofertantul trebuie să
+facă dovada constituirii garanției de participare semnate cu semnătură
+electronică calificată, cerință aplicabilă identic și în privința ordinului de
+plată.
+Pagina 5 din 15
+
+Consideră că, semnătura electronică calificată este o condiție de
+valabilitate, nu o simplă formalitate. Asumarea prin semnătură electronică
+calificată reprezintă condiția de valabilitate a actelor încărcate în SEAP
+(oferta și documentele care o însoțesc). În absența acesteia, nu există
+manifestare de voință opozabilă autorității, ci doar fișiere și documente, fără
+efect juridic. Pe de altă parte, efectul imediat al nesemnării este declararea
+ofertei ca inacceptabilă. Lipsa semnăturii electronice calificate pe garanția
+de participare (și, după caz, pe alte documente cerute expres a fi semnate)
+privează documentul de efecte în procedură; corelativ, oferta este
+inacceptabilă în temeiul art. 143 alin. (2) lit. j) din HG nr. 394/2016. Norma
+este expresă și nu lasă marjă de regularizare post factum.
+Comisia a aplicat corect art. 143 alin. (1), respingând oferta
+inacceptabilă. Astfel că, a admite „regularizarea" ulterioară ar echivala cu
+transformarea retroactivă a unor documente care nu au îndeplinit condițiile
+impuse prin documentația de participare, într-o ofertă valabilă, ceea ce ar
+contraveni legalității, transparenței și tratamentului egal între ofertanți.
+Mecanismul clarificărilor/completărilor (Legea nr. 99/2016; art. 140-
+141 HG nr. 394/2016) operează numai peste o ofertă valabil depusă și
+vizează elemente confirmabile din documentația încărcată la termen (ex.
+erori aritmetice, precizări). Nesemnarea calificată nu este „viciu de formă"
+remediabil, ci este lipsa condiției de validitate. A permite semnarea
+ulterioară, ar goli de conținut art. 143 alin. (2) lit. j) (principiul efectului
+util).
+De altfel, prevederile art. 138 alin. (3) impune clarificări exclusiv
+asupra condițiilor de formă ale garanției de participare privind cuantumul și
+valabilitatea; nu acoperă lipsa semnăturii electronice calificate. Extinderea
+sa la „autentificarea" ulterioară a documentelor ar fi contrară caracterului
+limitativ al normei speciale. Cerința de semnare calificată a fost indicată
+explicit în fișa de date; operatorii economici au putut anticipa consecințele
+nerespectării. Riscul nesemnării aparține ofertantului (nemo auditur
+propriam turpitudinem allegans) și nu poate fi transferat în sarcina
+autorității printr-o pseudo-regularizare.
+În final, acceptarea semnării ulterioare ar crea un avantaj neloial
+ofertantului care nu a respectat cerința la termen, în detrimentul celor care
+au respectat-o, încălcând tratamentul egal și nediscriminarea. Din acest
+motiv, soluția legală este menținerea respingerii ca inacceptabilă.
+Totodată, consideră că dispozițiile art. 138 alin. (3) din HG nr.
+394/2016 au un domeniu restrâns de aplicare.
+Mai menționează că prevederile Legii nr. 99/2016, HG nr. 394/2016
+art. 140-141 cu privire la limitele clarificărilor, impun ca premisă necesară,
+existența unei oferte valabil depuse și asumate. Mecanismul clarificărilor/
+completărilor (art. 140-141 din HG nr. 394/2016, coroborat cu Legea nr.
+99/2016) operează numai peste o ofertă valabil depusă, adică o ofertă
+6
+
+asumată de ofertant prin semnătură electronică calificată și transmisă în
+termen. Scopul este de a explica sau confirma elemente deja conținute/
+derivabile din documentele depuse la termen, nu de a genera sau complini
+abia ulterior valabilitatea juridică a acestora.
+Clarificările vizează aspecte confirmabile din datele inițiale, precum
+erori aritmetice evidente, precizări tehnice care nu modifică soluția propusă,
+ci o explică, corelări între documente deja depuse (ex. concordanța între
+liste, tabele, fișe tehnice). Aceste intervenții nu „generează" o (nouă)
+ofertă: ele nu suplinesc lipsa unui act juridic (asumarea prin semnătură) și
+nu permit introducerea ulterioară a unor documente a căror valabilitate
+lipsește la momentul depunerii.
+Or, lipsa semnăturii electronice calificate privează documentul de forță
+juridică și, pe cale de consecință, privează oferta de asumarea (cu efect
+obligatoriu) de către ofertant. 
+A accepta semnarea documentelor la un moment ulterior, ar însemna:
+• să se confere retroactiv forță juridică unor documente care, la termenul
+final de depunere, nu corespundeau cerinței exprese și nu erau ofertă în
+sens juridic;
+• să se schimbe starea juridică a depunerii după expirarea termenului, ceea
+ce contravine principiului depunerii la termen a unei oferte complete și
+conforme.
+Admiterea semnării ulterioare de către ofertant (și implicit a însușirii
+documentelor nesemnate inițial) ar avea drept consecință pe de o parte,
+denaturarea competiției, creând un avantaj neloial ofertantului care nu a
+respectat cerința până la termenul limită acordat, în defavoarea celor care
+le-au respectat, iar pe de altă parte, încălcarea legalității (regulile clare ale
+depunerii și asumării), transparența (criterii cunoscute din fișa de date) și
+tratamentul egal (toți ofertanții, aceleași exigențe, același moment de
+referință).
+În concluzie, clarificările/completările formale nu pot valida ulterior
+lipsa semnăturii electronice calificate. Acceptarea semnării ulterioare
+(dincolo de termenul limită impus prin documentație) ar transforma
+retroactiv documentele într-o ofertă valabilă, încălcând legalitatea,
+transparența și tratamentul egal, și ar constitui o încălcare a dispozițiilor art.
+143 alin. (2) lit. j). Soluția legală rămâne respingerea ofertei ca
+inacceptabilă (art. 143 alin. (1) coroborat cu art. 143 alin. (2) lit. j))
+În acest sens prezintă practica CNSC, cum ar fi, în decizii recente, de
+ex. Decizia CNSC nr. 75/C1/2932/2023, speță similară, utilizabilă mutatis
+mutandis, în care Consiliul a reținut că lipsa semnăturii electronice calificate
+la documentele încărcate în SEAP echivalează cu lipsa transmiterii acestora,
+iar autoritatea nu poate solicita/accepta înlocuirea ulterioară cu documente
+semnate, deoarece ar crea un avantaj neloial și ar încălca tratamentul egal.
+Raționamentul este pe deplin aplicabil și în regimul sectorial.
+Având în vedere aspectele mai sus detaliate, consideră că în privința
+capetelor de cerere privind:
+(i) Anularea procedurii/raportului, se impune respingerea acestuia ca
+nefondat. În esență, procedura de achiziție s-a derulat cu respectarea
+Pagina 7 din 15
+
+documentației și a HG nr. 394/2016; respingerea ofertei s-a întemeiat pe un
+caz expres de inacceptabilitate;
+(ii) Reevaluarea ofertelor (Lotul 2), se impune respingerea acestuia ca
+nefondat. Sumar, reevaluarea nu poate substitui lipsa unei condiții de
+valabilitate și, în consecință, nu există temei pentru reluarea analizei unei
+oferte inacceptabile;
+(iii) Anularea deciziei privind câștigătorul (..... SRL, Lotul 2) se impune
+respingerea acestuia ca nefondat. Conform art. 26 alin. (10
+1
+) din Legea nr.
+101/2016, în ipoteza unei reevaluări, Consiliul stabilește limitele acesteia iar
+în prezenta cauză nu sunt incidente motive care să afecteze legalitatea
+desemnării câștigătorului;
+(iv) Acordarea cheltuielilor de judecată se impune a fi respins ca nefondat,
+entitatea contractantă susținând că a acționat legal, fără culpă procesuală și
+deci, contestația este lipsită de temei.
+......... SA a constituit cauțiunea în sumă de 4.244,00 lei, conform art.
+611 alin. (1) din Legea nr. 101/2016, fiind depusă la dosar recipisa de
+consemnare nr. 211728030/1, eliberată de [OPERATOR ECONOMIC], Sucursala
+Victoria, la data de 03.10.2025, fiind transmisă, în original, prin adresa
+înregistrată la Consiliu cu nr. 69043/03.10.2025.
+Din analiza susținerilor părților și a documentelor existente la
+dosarul cauzei, Consiliul reține cele ce urmează:
+..... ......... ..... SA, în calitate de entitate contractantă, a organizat
+procedura simplificată, în vederea încheierii acordului-cadru de furnizare
+CONECTOARE, PAPUCI PENTRU CABLURI ȘI ELEMENTE TERMINALE PENTRU
+CONEXIUNI RAPIDE DE TIPUL FISELOR PLATE, PRIZE ELECTRICE FISE ȘI
+STECHERE, lot 1 - Papuci Tip A, lot 2 - Papuci Tip N, prin publicarea în SEAP
+a anunțului de participare simplificat nr. SCN1166364/06.08.2025. Valoarea
+estimată a acordului-cadru de furnizare este de 412.545,67 lei, fără TVA,
+iar criteriul de atribuire aplicat este „prețul cel mai scăzut”. 
+Împotriva rezultatului procedurii de atribuire și a raportului procedurii
+nr. 149495/24.09.2025 pentru lotul 1 și 2, ......... SA a înaintat Consiliului
+contestația în analiză, solicitând cele menționate în partea introductivă a
+deciziei. 
+Din analiza contestației, Consiliul reține că autoarea acesteia reclamă
+decizia entității contractante de a respinge oferta sa pentru loturile 1 și 2 ca
+inacceptabilă, decizie pe care o consideră nelegală. 
+În soluționarea contestației privind cele două loturi Consiliul va avea în
+vedere faptul că documentația de atribuire, alcătuită din fișa de date, caietul
+de sarcini (părțile tehnice), formularele necesare și modelul contractului de
+achiziție, la care se adaugă clarificările postate în SEAP, prin faptul că au
+depus ofertă, au fost acceptate de către operatorii economici participanți,
+drept pentru care toate prevederile acesteia și-au consolidat forța
+obligatorie atât pentru autoritatea contractantă, cât și pentru operatorii
+8
+
+economici participanți la procedura de atribuire. O astfel de interpretare a
+fost în mod constant subliniată de jurisprudența CJUE, aceasta statuând că
+„în temeiul articolului 2 din Directiva 2004/18, unei autorități contractante îi
+revine sarcina de a respecta cu strictețe criteriile pe care ea însăși le-a
+stabilit” (Hotărârea din 10 octombrie 2013, Manova, C-336/12,
+EU:C:2013:647, punctul 40, și Hotărârea din 6 noiembrie 2014, Cartiera
+dell'Adda, C-42/13, EU:C:2014:2345, punctele 42 și 43, Hotărârea din 2
+iunie 2016, Pippo Pizzo, C-27/15, EU:C:2016:404, punctul 39)".
+În acest sens, Consiliul constată că oferta contestatoarei pentru cele
+două loturi, conform adresei de comunicare a rezultatului procedurii nr.
+149495/24.09.2025, a fost respinsă ca inacceptabilă deoarece garanția de
+participare depusă în SEAP pentru loturile 1 și 2 nu a fost semnată cu
+semnătură electronică bazată pe un certificat digital emis de un furnizor
+acreditat.
+În legătură cu modul de constituire a garanție de participare, conform
+prevederilor fișei de date, cap. III.1.6.a) Garanție de participare, rezultă că
+autoritatea contractantă a stabilit în sarcina ofertanților următoarele
+obligații:
+„Garantia de participare, conform articolului II.2 – Descriere din Fisa de date.
+Valabilitatea GP:3 luni de la term. limita de depunere a ofertelor, cu posib. de prelung. la cererea
+entitatii contractante(EC). Constituire GP: virament bancar sau instrument de garantare(IG),
+irevocabil , emis in cond. legii de instituții de credit bancare sau de instituții financiare nebancare
+din România sau din alt stat; după caz, fie de o soc. de asig. care deține autorizație de funcționare
+emisă în RO sau alt stat membru al UE și/sau care este înscrisă în registrele ASF, fie de societăți
+de asigurare dintr-un stat terț printr-o sucursală autorizată în RO de către ASF;Lichiditati depuse la
+casieria EC, conform prevederilor codului fiscal.Contul EC:RO74 RNCB 0074003698560001-BCR
+Sect 3. Dovada const. GP se ataseaza in SEAP la sect. Doc. de calif, pana cel mai tarziu la data/ora
+limita de depunere a ofertelor. IG trebuie sa prevada ca plata GP se va executa necondiționat,
+respectiv la prima cerere a EC, pe baza declarației cu privire la culpa persoanei garantate. EC are
+dreptul sa rețina GP, atunci când acesta se afla în oricare din urmatoarele situatii:a) si-a retras
+oferta,în perioada de valabilitate a acesteia;b) oferta sa fiind stabilita câstigatoare,refuza sa
+semneze contr. În perioada de valabilitate a ofertei;.GP se elibereaza conf.art.44 din HG394/2016.
+Pt restituirea GP ofertantul va comunica la ..... SA DL-BC nr de cont/banca si numele procedurii.
+Echivalenta pt GP depusa in alta valuta se va face la cursul BNR din data anterioara datei limita de
+depunere a ofertelor cu 5zile”
+pentru ca la cap. VI.3 Informatii suplimentare să stabilească următoarele:
+„6. Referitor la garantia de participare, precizam urmatoarele: Constituirea garantie de participare
+prin: a)virament bancar; b)instrument de garantare emise în conditiile legii astfel: (i) scrisori de
+garanție emise de institutii de credit bancare din Romania sau din alt stat; (ii) scrisori de garanție
+emise de instiitutii. financiare nebancare din Romania sau din alt stat pentru achizitia de lucrări a
+căror valoare estimată <= 40.000.000 lei fără TVA și respectiv. pentru achizitia de produse sau
+servicii a căror valoare estimată <=7.000.000 lei fără TVA; (iii) asigurări de garanții emise: – fie
+de societati de asigurare care dețin autorizații de funcționare emise în Romania sau într-un alt stat
+membru al UE și/sau care sunt înscrise în registrele publicate pe site-ul ASF, după caz; – fie de
+societati de asigurare din state terțe prin sucursale auto.
+Contul entitatii contractante in LEI:RO74 RNCB 0074003698560001-BCR Sector 3, in EURO:
+[IBAN]-BCR Sector 3.
+Dovada constituirii garantiei de participare se ataseaza in SEAP la sectiunea Documente de
+calificare pana cel mai tarziu la data/ora limita de depunere a ofertelor. Instrumentul de garantare
+trebuie sa prevada ca plata garantiei de participare se va executa necondiționat, respectiv la prima
+cerere a entitatii contractante, pe baza declarației cu privire la culpa persoanei garantate.
+Entitatea contractanta are dreptul sa rețina garantia de participare,atunci când acesta se afla în
+oricare din urmatoarele situatii: a) si-a retras oferta, în perioada de valabilitate a acesteia; b)
+oferta sa fiind stabilita câstigatoare,refuza sa semneze contr. în perioada de valabilitate a ofertei.
+Garantia de
+Pagina 9 din 15
+
+participare se elibereaza conform art 164 ^1 din Legea nr. 99/2016. Pentru restituirea garantiei de
+participare ofertantul va comunica la ..... SA DAD-SPAS, nr de cont/banca si numele procedurii.
+Echivalenta pentru garantia de participare depusa in alta valuta se va face la cursul BNR din data
+anterioara datei limita de depunere a ofertelor cu 5 zile”.
+Din analiza acestor prevederi rezultă că autoritatea contractantă a
+stabilit care sunt regulile necesar a fi respectate în vederea constituirii
+garanței de participare, iar printre acestea nu se numără și aceea ca dovada
+constituirii ei să fie semnată electronic, în baza unui certificat digital emis de
+un furnizor acreditat.
+Cât privește condițiile impuse în cadrul cerinței fișei de date, cap.
+IV.4.3 Modul de prezentare al ofertei, respectiv:
+„1.Ofertantul va elabora oferta in conformitate cu prevederile din documentatia de atribuire si va
+indica in cuprinsul acesteia care informatii din propunerea tehnica si/sau din propunerea financiara
+sunt confidentiale, clasificate sau sunt protejate de un drept de proprietate intelectuala, insotita de
+dovada care le confera caracterul de confidentialitate - Formular 6 - pct.xi din modele formulare.
+2. Fiind vorba de o procedura de achizitie desfasurata integral prin mijloace electronice, DUAE se
+completeaza direct in SEAP iar oferta se transmite numai în format electronic in SEAP, la adresa
+www.e-licitatie.ro, si numai pâna la data si ora-limita de depunere a ofertelor prevazute în anuntul
+de participare. Documentele vor fi semnate cu semnatura electronica extinsa, bazata pe un
+certificat calificat, eliberat de un furnizor de servicii de certificare acreditat în conditiile legii, si
+încarcate în SEAP.”). 
+3.Formularul de oferta financiara impreuna cu anexa trebuie obligatoriu incarcate in SEAP la
+sectiunea corespunzatoare, semnate cu semnatura electronica extinsa. Operatorii economici vor
+avea în vedere faptul că lipsa criptării prețului ofertat în S.E.A.P. conduce la imposibilitatea
+accesării eventualelor documente deja încărcate la secțiunile aferente. 
+4. În cazul în care Ofertantul este un Operator Economic Individual și reprezentantul care
+semnează Oferta este altul decât persoana desemnată în DUAE ca împuternicită să reprezinte
+Operatorul Economic pentru scopul acestei proceduri, Ofertantul va prezenta o Împuternicire
+scrisă, care va include informații privind reprezentarea. 
+5.Ofertanții poartă exclusiv răspunderea pentru examinarea cu atenția cuvenită a documentației
+de atribuire, inclusiv a oricărei clarificări aduse documentației de atribuire în timpul perioadei de
+pregătire a ofertei prin răspunsurile entității contractante la solicitările de clarificări, precum si
+pentru obținerea tuturor informațiilor necesare cu privire la orice fel de cerințe/condiții si obligații
+care pot afecta în vreun fel valoarea, condițiile stabilite, natura/conținutul ofertei si/sau execuția
+contractului”, 
+Consiliul reține că se referă la documentele enumerate în cadrul acestor
+cerințe, identificate expres, fără ca printre acestea să se numere și
+”garanția de participare”, document distinct pentru care există o descriere
+separată explicită și nu face parte dintre documentele ofertei sau
+documentele de calificare.
+Pe de altă parte, verificând documentele depuse de contestatoare în
+vederea constituirii garanției de participare pentru cele două loturi, Consiliul
+reține că au fost depuse următoarele:
+- pentru lotul 1: dovada efectuării plății din 22.08.2025, privind transferul
+efectuat de contestatoare prin intermediul BCR (extras din aplicația George
+Business) în contul ..... ........., RO74 RNCB 0074 0036 9856 0001, referință
+plătitor 3281, detalii plată – „garanție LOT 1 – PAPUCI TIP A”, având
+statusul: ”Finalizat” și cu mențiunea ”Acest ordin a fost executat cu succes”;
+10
+
+- pentru lotul 2: Scrisoare de garanție de participare la licitație nr.
+34GPL2025-4609, emisă de BRD – [OPERATOR ECONOMIC], în data de
+25.08.2025, pentru autoritatea contractantă, pentru procedura de față, lot
+2, în valoarea de 1000 lei, semnată electronic din partea reprezentanților
+emitentului ..... Dorina și ..... Simona Gabriela, la ora 13:02 și 12:50, pe
+baza certificat emis de către ”..... CA Firma Qualificata”.
+În evaluarea acestor documente, în cadrul procesului-verbal nr.
+149298/26.08.2025, autoritatea contractantă a reținut următoarele:
+„Garanția de participare depusă in SEAP de societatea ......... SA pentru loturile 1 si 2 nu a fost
+semnată cu semnătură electronică, bazată pe un certificat digital emis de un furnizor acreditat.
+Societatea ......... SA a constituit garanția de participare pentru lotul 1 prin Ordin de Plata , in
+valoare de 61,00 lei si pentru lotul 2 prin Scrisoare de garanție bancara, nr. 34GPL2025-4609 din
+data de 25.08.2025, in valoare de 1.000,00 lei, semnata de către reprezentanții băncii BRD si fara
+semnătură electronică a ofertantului, bazată pe un certificat digital emis de un furnizor acreditat.
+Astfel, comisia de evaluare a concluzionat ca oferta nu îndeplinește cerințele de formă privitoare la
+semnarea electronică a documentelor depuse din coroborarea art. 67 alin. (4) cu art. 67 alin (1)
+din HG 394/2016, rezultă că operatorul economic are obligația sa transmita documentele „semnate
+cu semnătură electronică extinsă, bazată pe un certificat calificat, eliberat de un furnizor de servicii
+de certificare acreditat în condițiile legii și încărcate în SEAP în secțiunile specifice disponibile în
+sistemul informatic și numai de către operatorii economici înregistrați".
+în contextul în care această condiție se regăsește și la pct. IV.4.3. din fișa de date aferentă
+procedurii, este evident că societatea ......... SA a avut cunoștință de această cerință, sens în care
+avea obligația să depună toate documentele de calificare, inclusiv garanția de participare semnate
+cu semnătură electronică extinsă.
+întrucât ofertantul nu s-a conformat acestei cerințe, respectiv prevederilor legale invocate, devin
+aplicabile dispozițiile art. 143, alin. (2) lit. j. coroborat cu art. 131 din HG 394/2016 sens în care,
+oferta ......... SA este declarată ca fiind inacceptabilă”,
+oferta contestatoarei fiind singura ofertă respinsă în această etapă pentru
+cele două loturi.
+Acest proces-verbal a fost asumat de 6 din cei 7 membri ai comisiei de
+evaluare, cel de al șaptelea întocmind Nota individuală nr. 337919/
+02.09.2025, prin care a precizat că se puteau cere clarificări în legătură cu
+cele constatate în evaluarea documentelor depuse de contestatoare. 
+Raportat la data și ora limită de depunere a ofertelor, respectiv
+25.08.2025, ora 15.00, rezultă că documentele depuse de contestatoare
+pentru cele două loturi pentru dovedirea constituirii garanției de participare
+au fost emise anterior acestui termen și respectă forma de constituire
+precizată la art. VI.3 Informatii suplimentare, lit. a) și b) din fișa de date,
+respectiv virament bancar (lot 1) și scrisoare de garanție emisă de o
+instituție bancară (lot 2).
+În același timp, Consiliul constată că deși au fost depuse documente
+considerate relevante de către ofertant în scopul dovedirii constituirii
+garanției de participare, analiza entității contractante s-a rezumat doar la a
+verifica una din condițiile de formă, respectiv dacă acestea sunt purtătoare
+de semnătură electronică din partea ofertantului, fără a analiza natura și
+conținutul lor fiind evident formalismul exagerat de care a dat dovadă
+comisia de evaluare. 
+Astfel, în legătură cu lotul 1 din cadrul procesului-verbal amintit (nr.
+149298/26.08.2025) nu rezultă că autoritatea contractantă a făcut vreo
+verificare a măsurii în care transferul atestat de documentul depus
+contestatoarea era concretizat și suma aferentă de 61 de lei se regăsea în
+contul său, însă deoarece dovada plații acestei sume nu a fost semnată
+Pagina 11 din 15
+
+electronic, în opinia majorității membrilor comisiei de evaluare, a constituit
+un motiv întemeiat de respingere a ofertei petentei.
+Or, o asemenea conduită a entității contractante este în contradicție cu
+dispozițiile legale incidente în speță, invocate chiar de achizitoare în
+formularea apărărilor sale, respectiv cele de la art. 138 alin. (3) din HG nr.
+394/2016, potrivit cărora:
+„În condițiile art. 228 alin. (4) din Lege, comisia de evaluare solicită clarificări, în termen de o zi
+lucrătoare de la data-limită de depunere a ofertelor, privind eventualele neconcordanțe referitoare
+la îndeplinirea condițiilor de formă a garanției de participare, precum și la cuantumul sau
+valabilitatea acesteia, acordând ofertantului un termen de 3 zile pentru a răspunde la solicitarea de
+clarificare, sub sancțiunea respingerii ofertei ca inacceptabilă.”
+Prin urmare, lipsa semnăturii electronice calificate pe dovada efectuării
+plății prin virament bancar în vedere constituirii garanției de participare este
+evident o condiție de formă a documentului prezentat. Având în vedere
+susținerea autorității contractante potrivit căreia, în opinia sa, orice
+document trebuia semnat cu semnătură electronică, deși s-a dovedit
+contrariul, comisia de evaluare era obligată de norma legală citată anterior
+la a solicita clarificări și conformarea la presupusa obligație prevăzută în
+documentația de atribuire.
+Aceste dispoziții, contrar aprecierii autorității contractante, nu
+stabilesc că solicitarea de clarificări privind eventuale neconcordanțe sau
+condiții de formă sunt limitate doar la cuantum și valabilitate, ci dimpotrivă,
+reglementează faptul că solicitarea de clarificări este obligatoriu a fi
+realizată în termen de o zi și privește eventuale neconcordanțe privind în
+îndeplinirea condițiilor de formă, precum și cele privind cuantumul sau
+valabilitatea acesteia, distincție evidentă făcută de legiuitor.
+În deplin acord cu dispozițiile art. 221 din Legea nr. 99/2016, care
+stabilesc că:
+„În cazul în care informațiile sau documentele prezentate de către operatorii economici sunt
+incomplete sau eronate, ori în cazul în care lipsesc anumite documente, entitatea contractantă are
+dreptul de a solicita într-un anumit termen ofertanților/candidaților clarificări și, după caz,
+completări ale documentelor prezentate de aceștia în cadrul ofertelor/solicitărilor de participare, cu
+respectarea principiilor tratamentului egal și transparenței”,
+autoritatea contractantă putea și trebuia să solicite remedierea condiției de
+formă a documentului depus de contestatoare, fiind obligația membrilor
+comisiei de evaluare în a asigura existența la dosarul achiziției a
+documentelor solicitate în forma solicitată dacă aceste documente sunt
+incomplete, eronate sau chiar lipsă.
+Referitor la incidența decizie de respingere a unei oferte invocată de
+autoritatea contractantă atât în apărările formulate, cât și în comunicarea
+rezultatului de procedură, Consiliul reține că dispozițiile art. 143 alin. (2) lit.
+j) din HG nr. 395/2016, potrivit cărora:
+„În condițiile art. 228 alin. (4) din Lege, oferta este considerată inacceptabilă în următoarele
+situații: 
+j) oferta și documentele care o însoțesc nu sunt semnate cu semnătură electronică extinsă, bazată
+pe un certificat calificat, eliberat de un furnizor de servicii de certificare acreditat”; 
+12
+
+nu presupun că autoritatea contractantă trebuie să respingă automat orice
+ofertă în care un document sau chiar mai multe nu ar fi purtătoare de
+semnătură electronică extinsă, bazată pe un certificat calificat, eliberat de
+un furnizor de servicii de certificare acreditat, cu atât mai mult cu cât, așa
+cum s-a stabilit anterior, nu a fost identificată vreo cerință expresă în acest
+sens.
+Prin urmare, dată fiind natura documentului prezentat de ofertant,
+respectiv confirmarea constituirii garanției de participare prin virament
+bancar, a prevederilor documentației de atribuire anterior citate, precum și
+a rolului garanției de participare precizat la art. 41 alin. (1) din HG nr.
+395/2016 („Garanția de participare reprezintă un instrument aferent modului de
+prezentare a ofertei care are drept scop protejarea entității contractante față de
+riscul unui comportament necorespunzător al ofertantului pe toată perioada
+implicării sale în procedura de atribuire.”), Consiliul constată că respingerea
+ofertei contestatoarei pentru lotul 1 este rezultatul unei evaluării eronate,
+incomplete, de un formalism exagerat, fiind lipsită de rigoarea necesară
+unui astfel de proces, motiv pentru care se impune reluarea ei.
+Astfel, Consiliul constată necesitatea reluării evaluării ofertei depusă
+de contestatoare pentru lotul 1 de la etapa analizării îndeplinirii cerinței
+privind constituirea garanției de participare, respectiv verificarea măsurii în
+care suma aferentă garanției de participare a fost virată în contul
+achizitoarei și la ce dată și, în funcție de cele constatate în urma acestor
+verificări, dacă este cazul, se vor solicita clarificări în această privință.
+Referitor la documentul prezentat de către contestatoare pentru lotul 2
+în scopul constituirii garanției de participare, Consiliul constată, din nou,
+formalismul exagerat al autorității contractante în luarea deciziei de
+respingere a ofertei sale.
+În acest sens, fără a mai relua cele deja stabilite anterior în legătură
+cu obligațiile ofertanților rezultate din cuprinsul documentației de atribuire,
+dar și cu privire la prevederile legale aplicabile în speță, Consiliul reține că
+autoarea contestației a depus, în scopul dovedirii îndeplinirii cerinței privind
+garanția de participare, Scrisoare de garanție de participare la licitație nr.
+34GPL2025-4609, emisă de BRD – [OPERATOR ECONOMIC], în data de
+25.08.2025, pentru autoritatea contractantă, pentru procedura de față, lot
+2, în valoarea de 1000 lei, semnată electronic din partea reprezentanților
+emitentului ..... Dorina și ..... Simona Gabriela, la ora 13:02 și 12:50, pe
+baza certificat emis de către ”..... CA Firma Qualificata”.
+Și în acest caz, fără a realiza vreo analiză în privința acestui
+document, autoritatea contractantă a decis respingerea ofertei
+contestatoarei pentru că documentul depus nu a fost purtător de semnătură
+electronică extinsă din partea petentei, bazată pe un certificat calificat,
+eliberat de un furnizor de servicii de certificare acreditat.
+Astfel, autoritatea contractantă a omis luarea în considerare a faptului
+că documentul depus de petentă este semnat electronic de emitentul
+scrisorii și nici nu a solicitat vreo clarificare în acest sens, fără a se achita de
+obligațiile ce-i reveneau conform dispozițiilor coroborate ale art. 138 alin.
+(3) cu cele de la art. 221 din HG nr. 394/2016, citate anterior.
+Pagina 13 din 15
+
+Prin urmare, pentru aceleași motive ca în cazul lotului 1, Consiliul va
+admite criticile contestatoarei și în ceea ce privește evaluarea realizată de
+autoritatea contractantă cu privire la oferta depusă de petentă pentru lotul
+2.
+În aceste condiții, Consiliul constată că oferta contestatoarei a fost
+exclusă în mod eronat din procedura de atribuire pentru loturile 1 și 2,
+motiv pentru care se impune reluarea evaluării ei. 
+Prin aceste motive, constatând necesitatea reluării procesului de
+evaluare a documentelor depuse de contestatoare pentru loturile 1 și 2 în
+scopul dovedirii constituirii garanție de participare, Consiliul va respinge ca
+nefondată cererea petentei de anulare a procedurii de atribuire, întrucât
+remedierea ce se impune respectă principiile stipulate la art. 2 alin. (2) din
+Legea nr. 99/2016.
+Având în vedere aspectele de fapt și de drept mai sus prezentate, în
+temeiul art. 26 alin. (2) și (5) din Legea nr. 101/2016 privind remediile și
+căile de atac în materie de atribuire a contractelor de achiziție publică, a
+contractelor sectoriale și a contractelor de concesiune de lucrări și
+concesiune de servicii, precum și pentru organizarea și funcționarea
+Consiliului Național de Soluționare a Contestațiilor, cu modificările și
+completările ulterioare, pentru considerentele evocate în motivare, Consiliul
+urmează să admită, în parte, contestația depusă de ......... SA, în
+contradictoriu cu ..... ......... ..... SA, și va anula raportul procedurii nr.
+149495/24.09.2025 pentru lotul 1 și 2, actele subsecvente acestuia, inclusiv
+adresele de comunicare a rezultatului procedurii pentru cele două loturi, în
+ceea ce privește evaluarea ofertei ......... SA.
+Va obliga entitatea contractantă la reluarea procedurii de atribuire în
+cauză cu reevaluarea ofertei ......... SA, conform celor precizate în motivare.
+În baza prevederilor art. 26 alin. (6) din Legea nr. 101/2016, va
+respinge ca nefondată cererea contestatoarei de anulare a procedurii de
+atribuire pentru loturile 1 și 2.
+În baza dispozițiilor art. 26 alin. (9) din Legea nr. 101/2016, Consiliul
+va respinge ca nedovedită cererea ......... SA de obligare a autorității
+contractante la plata cheltuielilor ocazionate de judecarea contestației,
+deoarece, până la data pronunțării prezentei decizii, nu au fost depuse
+documente doveditoare privind cuantumul, detalierea și dovada efectuării
+lor.
+Pentru aceste motive,
+în baza legii și a mijloacelor de probă aflate la dosar,
+CONSILIUL DECIDE:
+14
+
+Admite, în parte, contestația formulată de către ......... SA, în
+contradictoriu cu ..... ......... ..... SA, și anulează raportul procedurii nr.
+149495/24.09.2025 pentru lotul 1 și 2, actele subsecvente acestuia, inclusiv
+adresele de comunicare a de comunicare a rezultatului procedurii pentru
+cele două loturi, în ceea ce privește evaluarea ofertei ......... SA.
+Obligă entitatea contractantă ca, în termen de 15 zile de la primirea
+deciziei Consiliului, cu respectarea prevederilor legale, să facă aplicarea
+aspectelor de fapt și de drept, stabilite de Consiliu prin motivarea sa, la
+reluarea procedurii de atribuire în cauză cu reevaluarea ofertei ......... SA,
+conform celor precizate în motivare.
+Respinge ca nefondată solicitarea ......... SA de anulare a procedurii de
+atribuire.
+Respinge ca nedovedite pretențiile ......... SA de obligare a autorității
+contractante la plata cheltuielilor de judecată aferente contestației.
+Prezenta decizie este obligatorie pentru părți, în conformitate cu
+dispozițiile art. 28 alin. (1) din Legea nr. 101/2016. 
+Împotriva ei se poate formula plângere, în termen de 10 zile de la
+comunicare pentru părțile cauzei, respectiv de la data luării la cunoștință de
+către alte persoane vătămate, în temeiul art. 29 din Legea nr. 101/2016.
+ PREȘEDINTE, MEMBRU,MEMBRU,
+... ............
+Redactată practicaua deciziei ...
+Redactată în 4 exemplare, conține 14 pagini.
+Pagina 15 din 15

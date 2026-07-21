@@ -1,0 +1,624 @@
+Decizie nr. RJ 3g9e78889/2023 din 07-iun-2023, Curtea de Apel Bucuresti, litigiu privind achizitiile publice (Contencios administrativ si fiscal)
+
+Decizie
+
+din 7 Iunie 2023 
+
+3978889/2023
+
+Text speță
+
+Societate comercială vs Societate comercială, Societate comercială
+
+Cod ECLI ECLI:RO:CABUC:2023:197.######
+
+Dosar nr. ####/2/2023
+
+R O M Â N I A
+
+CURTEA DE APEL BUCUREȘTI
+
+SECȚIA A X-A C_________ ADMINISTRATIV ȘI FISCAL ȘI PENTRU ACHIZIȚII PUBLICE
+
+DECIZIA CIVILĂ NR. ###
+
+Ședințapublică din data de 07.06.2023
+
+Curtea constituită din:
+
+PREȘEDINTE # ##### ######
+
+JUDECĂTOR # ####### #########-######
+
+JUDECĂTOR # ##### ####### ######
+
+GREFIER # ###### ##### #####
+
+Pe rol se află judecarea cererii în contencios administrativ și fiscal formulate de petenta
+
+RCS & [OPERATOR ECONOMIC], împotriva Deciziei CNSC nr. 1050/C10/766/09.05.2023, în contradictoriu cu intimatele C.N. ##### ###### S.A, ###### ####### [OPERATOR ECONOMIC] având ca obiect litigiu privind achiziții publice-contestație atribuire.
+
+La apelul nominal făcut în ședință publică, la ordine, au răspuns părțile; petenta prin avocat ##### ####### cu împuternicire avocațială pe care o depune în ședință publică, intimata C.N. ##### ###### S.A prin consilier juridic ###### ####### #######, cu împuternicire pe care o depune în ședință publică, iar intimata ###### ####### [OPERATOR ECONOMIC] prin avocat ###### ##### în baza împuternicirii avocațiale aflate la dosarul cauzei la fila 53.
+
+Procedura de citare a părților este legal îndeplinită.
+
+S-a făcut referatul cauzei de către grefierul de ședință, care arată obiectul cauzei, stadiul procesual, modalitatea de îndeplinire a procedurii de citare, precum și faptul că petenta a depus la data de 23.95.2023 prin ##### plângerea în original, la data de 25.05.2023 intimata ###### ####### COMMUNICATIONS a depus întâmpinare prin email iar la data de 29.05.2023 prin #####; la data de 26.05.2023 CNSC a înaintat documentația prin Serviciul Registratură, la data de 29.05.2023 intimata C.N. ##### ###### S.A a depus întâmpinare prin email și la data de 30.05.2023 prin #####; la data de 31.05.2023 petenta a depus prin email dovada comunicării plângerii către părți, după care:
+
+Apărătorul petentei depune dovada primirii confirmării în original așa cum s-a stabilit prin rezoluție.
+
+Curtea aduce la cunoștința părților că se va pronunța atât pe solicitarea de suspendare a contractului de Către Autoritatea Contractantă cât și pe fondul plângerii.
+
+Petenta prin apărător învederează că în aceste condiții nu mai insistă în cererea de suspendare în situația în care instanța va avea în vedere această solicitare odată cu pronunțarea pe fondul cauzei.
+
+Curtea ia de act de precizarea petentei.
+
+Nemaifiind cererii de formulat și probe de administrat în baza art. 244 și 392 C.prc.civ., instanța declară închisă cercetarea judecătorească și deschide dezbaterile asupra plângerii.
+
+Petenta RCS & [OPERATOR ECONOMIC] prin apărător solicită admiterea plângerii așa cum a fost formulată pentru motivele arătate în cuprinsul acesteia. În principal plângerea s-a bazat pe 2 argumente, respectiv pe legalitatea și pe netemeinicia plângerii.
+
+În ceea ce privește legalitatea plângerii, din motivarea extrem de sumară a CNSC înțelege că a fost mai degrabă o pronunțare pe excepție decât pe fond. Precizează că cele mai multe din motivele invocate în fața CNSC nu li-a s-a găsit o soluționare, nu au fost avute arătate argumentele pentru care au fost înlăturate. Astfel că se referă la susținerea RCS RDS la accesul limitat la dosarul de achiziții; susținerea RCS RDS privind lipsa solicitării de explicații suplimentare privind termenul de o zi de instalare oferit de ###### Communications. RCS RDS a susținut că un astfel de termen de o zi nu ar putea fi ofertat, în condițiile în care elementele nu respectă specificațiile tehnice. RCS RDS nu a putut să ofere un astfel de termen deoarece furnizorul său a avut în vedere un termen de livrare de 30 de zile.
+
+Mai arată că referitor la susținerea că RDS RCS ar fi venit cu argumente noi prin concluziile scrise, a expus Consiliului aceste lucruri, încă din cuprinsul contestației, la pagina 7 punctul 1 sau pagina 8 punctul 4 a arătat că autoritatea contractantă avea obligația de a solicita dovezi cu privire la echipamentele pe care le are pe stoc. Autoritatea contractantă și Consiliul au validat această interpretare și s-au rezumat la a lua de bun susținerile ######, prin care a arătat că poate avea în vedere termenul de o zi în condițiile în care ar avea toate traseele.
+
+Furnizorul actual al serviciilor pentru ##### ###### este RCS RDS deci ar fi putut să dețină aceste echipamente, însă specificațiile tehnice nu permite utilizarea acelorași echipamente, a se vedea în acest sens punctul 8 din caietul de sarcini. La răspunderea la clarificări la autoritatea contractantă la solicitarea ######### din 03 februarie 2023 ###### nu a făcut referire la respectarea protocolului, a indicat că va utiliza echipamente #####, care nu suportă protocolul. Astfel este solicitat ofertanților o soluție de corectare.
+
+Conchizând autoritatea contractantă nu și-a îndeplinit obligațiile ce îi reveneau motiv pentru care solicită admiterea plângerii.
+
+Intimata ###### ####### COMMUNICATIONS prin apărător solicită respingerea plângerii formulate de petentă. ##### că întreaga contestație se referă la un factor de evaluare, respectiv la termenul de instalare. #### intimata ###### a oferit ca termen de instalare o zi. Se susține că termenul este nerezonabil, însă CNSC a observat realitatea dincolo de susținerile petentei. Autoritatea contractantă a solicitat în fapt clarificări, intimata ###### a răspuns la clarificări în sensul că fibra există deja, iar RCS RDS era un fost client ######.
+
+#### ceea ce se dorește este ca ofertantul să facă suplimentare la clarificări și ar fi trebuit să facă dovada că existe circuite de fibră la fața locului. Ceea ce este absurd, autoritatea contractantă nu poate cere dovezi/hârtii că acolo există cabluri. Așa cum a reținut Consiliul proba acestei susțineri făcută de ###### cu privire la existența fibrei optice se găsește în materialitatea ei. Astfel că proba termenului de instalare a fost bine luată în considerare de CNSC.
+
+#### de susținerea că fibra nu era conformă pentru a susține FiberChannel over IP, CNSC a reținut că acesta este capăt nou de cerere și în mod corect l-a respins ca inadmisibil. Practic s-a folosit de suspiciunile avute în analiza documentației tehnice deoarece nu a avut acces la documentele confidențiale din documentație și nu a putut știi cu exactitate dacă este vorba de FiberChannel over IP sau nu. În cuprinsul deciziei CNSC a luat act de această reținere a respins-o ca inadmisibilă și a motivat in extenso cu mai multe argumente de ce ###### și autoritatea contractantă au apreciat că și-a îndeplinit obligațiile.
+
+De altfel SNSC raportându-se la factorul de evaluare, termen de instalare de o zi, nu a fost un punct determinant în desemnarea ofertei câștigătoare. Oferta ###### a obținut 100 de puncte.
+
+Astfel că decizia CNSC este pe deplin motivată și toate celelalte susțineri sunt neîntemeiate.
+
+Intimata C.N. ##### ###### S.A prin apărător arată că susține argumentele prezentate de intimata ###### și le completează în sensul în care este de acord cu respingerea plângerii. Susținerile petentei referitoare la nelegalitate sunt nesustenabile având în vedere dispozițiile art. 26.6 coroborat cu art. 27 alin 5 lit. g) din Legea 101. Astfel că CNSC a judecat pe fond contestația analizând-o deși se susține de petentă că acesta nu s-a pronunțat pe excepție. De altfel chiar petenta afirmă în cuprinsul plângerii că CNSC a respins ca nefondată contestația.
+
+Se mai arată că petenta este nemulțumită de termenul de instalare, iar raportat la acest aspect CNSC a reținut că trebuia formulate critici în termenul de 10 zile de la data publicării în SEAP. Petenta nu a formulat contestație cu privire la termen ci cu privire doar la raportul de atribuire.
+
+De asemenea mai arată intimata C.N. ##### ###### S.A prin apărător că CNSC a observat că în contradicție cu art. 21 pct 3 în contestația formulată petenta a venit cu argumente față de termenul de o zi iar prin concluziile scrise a adus alte critici.
+
+Pentru toate cele învederate solicită respingerea plângerii reținând că decizia pronunțată de CNSC este legală și în mod corect s-a respins contestația, CNSC analizând toate argumentele pe fond.
+
+În temeiul art. 394Cod procedură civilă, instanța declară dezbaterile închise și reține cauza în pronunțare.
+
+CURTEA,
+
+Deliberând, constata:
+
+Prin Decizia nr. ####/C10/766/09.05.2023 (in continuare "Decizia/Decizia atacata"), Consiliul Național de Soluționare a Contestațiilor a respins ca nefondată contestația formulată de RCS & ### SA, în contradictoriu cu entitatea contractantă C.N. ##### ###### S.A. si, pe cale de consecinta, a admis cererea de intervenție formulată de ###### ####### ############## SA.
+
+Împotriva Deciziei, contestatoarea RCS & ### SA (in continuare "petenta"), in contradictoriu cu intimatele C.N. ##### ###### S.A. si ###### ####### ############## S.A., a formulat plângerea înregistrată pe rolul Curții de Apel București Secția a X-a C_________ Administrativ și Fiscal și pentru Achiziții Publice sub nr. ####/2/2023, prin care a solicitat:
+
+1) anularea Deciziei atacate, cu rejudecarea cauzei pe fond, în temeiul art. 34 alin. (4) din Legea 101/2016, reevaluarea ofertelor și desemnarea ofertei RCS & RDS drept câștigătoare, așa cum rezultă fără dubiu din toate documentele anexate contestației și din dosarul de achiziție;
+
+2) anularea Deciziei atacate și obligarea autorității contractante la reluarea procedurii de atribuire în etapa evaluării tehnice a ofertelor ###### și RCS & RDS, eliminarea ofertei ###### ca neconforma pentru nerespectarea cerințelor tehnice minime obligatorii și desemnarea ofertei RCS & RDS drept câștigătoare;
+
+3) suspendarea încheierii contractului de către autoritatea contractantă cu ###### până la soluționarea prezentei plângeri, conform art. 33 din Legea 101/2016.
+
+In motivarea plangerii, petenta a aratat urmatoarele:
+
+I. ###### expunere a situației de fapt
+
+Procedura de achiziție: În baza Anunțului de participare CN1049897 din data de 27.11.2022, cod CPV: ##########, ##### ###### a anunțat demararea procedurii de atribuire a contractului Servicii de comunicatii linie (link) VPN principala, conectivitate Layer 2 pentru replicare si accces internet fix pentru o perioada de 48 luni ("Procedura de Atribuire"), având o valoare estimată de 7200000 lei fără TVA ("Acordul - cadru"), contractul urmând să fie încheiat potrivit criteriului cel mai bun raport calitate - preț.
+
+În baza Anunțului, Autoritatea contractantă a solicitat asigurarea lunară de către participanți / ofertanți a următoarelor servicii:
+
+(i) furnizarea serviciilor de transmisii de date (VPN);
+
+(ii) furnizarea serviciilor de conectivitate Layer 2 pentru replicare;
+
+(iii) furnizarea serviciilor de acces la Internet;
+
+Pentru toate serviciile furnizate, se vor asigura:
+
+(iv) livrarea, testarea si instalarea tuturor componentelor sistemului integrat;
+
+(v) mentenanta si suport pe durata furnizarii serviciilor.
+
+Pe parcursul perioadei de la apariția anunțului de participare și până la depunerea ofertelor tehnice și financiare au fost adresate Autorității Contractante mai multe cereri de clarificare de către mai mulți operatori economici cu privire la specificațiile minime din caietul de sarcini, precum și la termenele de instalare.
+
+În cadrul procedurii au depus oferte următorii participanți:
+
+(i) RCS & RDS și
+
+(ii) ######.
+
+La data de 23 ianuarie 2023, au fost accesate în SICAP ofertele celor doi operatori economici participanți, la sediul Autoritatii Contractante, în prezența comisiei de evaluare, iar rezultatele au fost consemnate ulterior în Raportul procedurii nr. 101.1/767/14.03.2023 ("Rezultatul procedurii de atribuire").
+
+Raportat la condițiile tehnice și financiare, în urma publicării Rezultatului procedurii din data de 14.03.2023, RCS & RDS a constatat că oferta RCS & RDS ("Oferta RCS& RDS") a fost declarată admisibilă și s-a clasat pe locul al doilea, în baza criteriului "cel mai bun raport calitate-pret", iar oferta ###### ("Oferta ######") a fost declarată câștigătoare, astfel cum i s-a comunicat prin raportul conținând Rezultatul procedurii de atribuire. Oferta RCS & RDS a obținut un punctaj de 73,5 de puncte, dintre care 15 puncte pentru experți tehnici, 0,33 puncte pentru termenul de instalare, însumand un total de 15,33 puncte pentru componenta tehnică și de 58,17 puncte pentru propunerea financiară. Oferta ###### a totalizat 100 de puncte, dintre care 15 puncte pentru experți tehnici, 15 puncte pentru termenul de instalare, însumând un total de 30 de puncte pentru componenta tehnică și de 70 de puncte pentru propunerea financiară.
+
+Accesul parțial la dosarul achiziției: Întrucât Oferta ###### prezenta un punctaj neobișnuit de mare raportat la criteriul de atribuire termen de instalare în comparatie cu Oferta RCS&RDS (in momentul ofertarii, furnizorul serviciilor de telecomunicatii era RCS&RDS), a cerut, prin adresa CB 2992 din 14.03.2023, accesul la întregul dosar al achiziției, pentru a analiza temeinic toate aspectele referitoare la Oferta ######, declarată câștigătoare, în special cu privire la justificările ######, ca răspuns la solicitarea Autorității Contractante (doar formală, așa cum va arăta în continuare) de a oferi fundamentări pentru termenul de instalare neobisnuit de scăzut. Aceasta cu atât mai mult cu cât, în primă etapă, așa cum rezultă din clarificări, ###### a solicitat extinderea termenului de instalare de la 30, 45, 60 de zile la 180 de zile pentru serviciile de comunicatii linie (link) VPN principala, conectivitate Layer 2 pentru replicare si accces internet fix, inducând astfel în eroare cu privire la termenul de instalare pe care îl va oferi.
+
+La data de 16.03.2023, Autoritatea Contractantă a permis accesul parțial la dosarul achiziției (aspect pe care l-a criticat, prin contestația formulată la CNSC și asupra căruia va reveni în paragrafele următoare). Singurele documente care au putut fi vizualizate au fost cele 6 documente consemnate in procesul verbal 101.1/16.03.2023, atașat prezentei plangeri, respectiv 2 cereri de clarificare adresate de Autoritatea Contractanta catre ######, proces - verbal intermediar 1, proces - verbal evaluare garanție si 2 extrase parțiale din răspunsul ###### la aceste adrese de clarificări.
+
+În baza îndoielilor privind legalitatea Procedurii de Atribuire, în temeiul dispozițiilor art. 8 alin. (1) din Legea 101/2016, Societatea a formulat contestație ("Contestația RCS & RDS") la CNSC împotriva Raportului procedurii nr. 101.1/767/14.03.2023, solicitând în principiu Consiliului:
+
+- să constate că, în mod nelegal, oferta operatorului ###### a fost declarată câștigătoare și, pe cale de consecință, să dispună anularea Rezultatului procedurii de atribuire, precum și a oricăror acte sau măsuri ulteriore, cu consecința reevaluării celor două oferte, desemnând oferta RCS & RDS drept câștigătoare, așa cum rezultă din documentele anexate contestației și din dosarul de achiziție;
+
+- dacă va fi anulat Rezultatul procedurii de atribuire și Consiliul consideră că din informațiile de la dosarul de achiziție nu rezultă fără dubiu calitatea RCS & RDS de ofertant câștigător, conform art. 26 alin. (10) din Legea 101/2016, atunci să dispună obligarea Autorității Contractante la reevaluarea tehnică a celor două oferte, cu consecința declarării ofertei ###### drept necâștigătoare, având în vedere neconformitatea ofertei în privința termenului de 1 zi lucrătoare pentru instalarea unui singur serviciu;
+
+- anularea integrală a procedurii de atribuire și refacerea documentelor pentru reluarea acesteia, dacă se va considera că nu este posibilă remedierea actelor din cursul procedurii de atribuire nici de către Consiliu, nici de către Autoritatea Contractantă.
+
+În data de 28.03.2023, Autoritatea Contractanta a comunicat punctul său de vedere cu privire la Contestatia RCS & RDS, invocând excepția tardivității, făcând referire la modificarea criteriului de atribuire din documentația de atribuire, respectiv la faptul că termenul de instalare s-a modificat în datele de 22.12.2022 și 9.01.2023.
+
+În data de 31.03.2023, RCS&RDS a formulat note scrise, prin adresa CB3010/31.03.2023, prin care a solicitat Consiliului sa constate că Autoritatea avea obligația de a solicita documente suplimentare care să poată susține afirmația ###### privind termenul de instalare de 1 zi lucrătoare. Un astfel de termen trebuia susținut cel puțin prin documente prin care să facă dovada faptului că ###### deține în stoc echipamentele necesare atribuirii, că are instalate 2 trasee de fibră optică între cele 2 sedii ale Autorității Contractante, astfel încât să fie înlăturate dubiile referitoare la posibilitatea ###### de a implementa această soluție.
+
+In data de 04.04.2023, ###### a formulat cerere de intervenție în favoarea Autoritatii Contractante, în care a susținut că oferta sa este conformă din punct de vedere tehnic și, mai mult, că ar fi demonstrat Autorității contractante faptul că termenul de 1 zi lucrătoare pentru instalarea serviciilor de replicare este unul fezabil.
+
+În data de 12.04.2023, prin adresa CNSC nr. ##########C10, a primit acces la dosarul CNSC și a constatat, ca o motivare în plus a neconformității tehnice a Ofertei ######, că echipamentul deținut în stoc de ofertant pentru instalarea serviciului în termen de o zi este un echipament care nu respecta cerintele minime din caietul de sarcini si mai mult este "end of life" la furnizor, încă din 2013 (anexeaza dovada de la furnizorul ##### că echipamentul nu se mai produce din 2013 si nu se mai asigura suport, licente, soft pentru el).
+
+În data de 19.04.2023, prin adresa nr. CB3043/19.04.2023, RCS&RDS, a transmis către CNSC concluzii scrise în care a menționat și observațiile sale legate de echipamentele ######.
+
+Nelegalitatea și netemeinicia Deciziei CNSC: Prin Decizia CNSC, Consiliul a respins Contestația RCS & RDS ca nefondată, fără să analizeze argumentele avansate de către RCS & RDS, motivând succint, în esență, că:
+
+- operatorii participanți la licitație au avut cunoștință de faptul că termenul de instalare se referă la termenul de instalare a link-urilor corespunzătoare ambelor capete ale circuitului de replicare între data centere, iar la data de 09.01.2023, au luat cunoștință de prelungirea termenelor de instalare a serviciilor la 180 de zile calendaristice; prin urmare orice contestație cu privire la aceste modificări sau clarificări putea să fie formulată numai în termenul legal de 10 zile de la publicarea clarificărilor/cerinței (termen care nu a fost respectat de către RCS & RDS, întrucât acesta a formulat contestația la finalul procedurii de atribuire și doar împotriva rezultatului procedurii),
+
+- referitor la motivarea termenului de 1 zi lucrătoare pe care ###### l-a oferit pentru activitățile de instalare pentru link-ul de replicare Bd ##### - ##### Giulești, Consiliul a reținut ca fiind suficientă explicația ###### că are deja instalat suportul de transmisie (fibră optică, linie principală și linie secundară) și că echipamentele sunt deja pe stoc și că, în aceste condiții, activitățile de instalare a echipamentelor și de punere în funcțiune a serviciilor se pot realiza într-o zi cu două echipe care vor lucra în paralel,
+
+- CNSC a respins Contestația RCS & RDS ca nefondată motivand că «punctajul obtinut de SC ###### ####### ############## SA la factorul de evaluare TERMEN DE INSTALARE, adica 15 puncte fata de 0,33 puncte obținute de ofertantul RCS & ### SA, nu a fost determinant in desemnarea ofertei castigatoare, deoarece diferența de punctaj intre cele doua oferte a fost de 26,5 puncte."
+
+Va reveni asupra acestui aspect în motivarea prezentei, însă, dacă ar fi analizat cu temeinicie argumentele RCS & RDS din adresa nr. CB3043/19.04.2023, Oferta ###### ar fi trebuit declarata ca neconforma si descalificata, punctajul obținut nefiind în acest caz relevant.
+
+- referitor la susținerea RCS & RDS din concluziile scrise privind faptul că echipamentele ###### ar fi neconforme, aspect sesizat cu ocazia consultării dosarului la sediul CNSC (respectiv faptul că switch-ul ##### 2960 nu se mai produce din 2013 și nu poate asigura protocolul FiberChannel over IP), Consiliul le-a înlăturat, motivând că acestea sunt argumente noi față de cele formulate prin contestație, deși acestea nu au avut ca scop decât să accentueze caracterul nerealist al termenului de 1 zi lucrătoare ofertat de ###### și implicit faptul că oferta acestuia este neconformă.
+
+Motivele pentru care consideră Decizia CNSC nelegală și netemeinică sunt urmatoarele:
+
+Decizia este nelegală fiind nemotivată
+
+- Consiliul nu a realizat o analiză a fondului argumentelor ridicate de RCS & RDS, ci s-a grăbit să respingă Contestația RCS & RDS, încadrând incorect toate aspectele pe care le-a evidențiat ca referindu-se la întocmirea documentației de atribuire (cu termen de contestare în 10 zile de la publicarea documentației), în temeiul unei excepții pe care nici nu a precizat-o,
+
+- Consiliul a respins Contestația RCS & RDS ca nefondată în temeiul art. 26 alin. (6) din Legea 101/2016, fără a arăta însă care este excepția de procedură sau de fond care, în opinia sa, a împiedicat soluționarea pe fond a Contestației, încălcând astfel dispozițiile art. 27 alin. (5) lit. b) din Legea 101/2016, potrivit cu care hotărârea Consiliului trebuie să conțină, printre altele, motivele de fapt și de drept pe care se întemeiază soluția, arătându-se atât motivele pentru care s-au admis, cât și cele pentru care s-au înlăturat cererile părților.
+
+Decizia este netemeinică
+
+- Decizia este netemeinică, întrucât ignoră faptul că Autoritatea Contractanta nu a analizat și fundamentat temeinic termenul de instalare de o zi oferit de către ######, iar din răspunsurile la clarificările solicitate de catre ##### ######, a rezultat că Autoritatea Contractantă a ignorat faptul că echipamentele ofertate pentru stabilirea termenelor de instalare în care se va executa Contractul nu erau conforme din punct de vedere tehnic, încălcând astfel dispozițiile din legislația în materie de achiziții publice,
+
+- Decizia nu ține cont de accesul limitat pe care RCS & RDS l-a avut la dosarul achiziției, deși acest aspect a fost evidențiat chiar în cuprinsul Contestației RCS & RDS.
+
+Consiliul a respins, fără să analizeze, susținerile RCS & RDS referitoare la echipamentele pe care urmează să le folosească ###### (menționate atât în oferta tehnică a acestuia cât și în cererea de intervenție a ######), motivând că aceste argumente nu au fost prezentate cu ocazia formulării Contestației - deși la momentul formulării Contestației RCS & RDS nu a avut acces la documentele din dosarul achiziției, însă a avut dubii cu privire la respectarea termenului de instalare de o zi de către ######. Mai mult, RCS & RDS a insistat asupra faptului că Autoritatea Contractantă nu a tratat cu seriozitate justificarea ######, nu a solicitat documente de stoc și/sau #### tehnice pentru echipamentele ofertate de ######, aspecte care nu au fost analizate de CNSC.
+
+Decizia CNSC nu ține cont de faptul că RCS & RDS a invocat deja, prin Contestație, neconformitatea tehnică a ofertei ######, având în vedere lipsa unor justificări în privința termenului de 1 zi lucrătoare privind instalarea serviciului de replicare, astfel încât Consiliul a apreciat neîntemeiat că argumentele noastre privind echipamentele ###### ar constitui un capăt nou de cerere.
+
+Cu titlu preliminar, intelege sa solicite suspendarea încheierii contractului de achiziție de către Autoritatea contractantă cu ######, până la soluționarea plângerii, întrucât, prin încheierea contractului, practic Autoritatea ar valida o oferta tehnică neconformă din punct de vedere tehnic, existând o probabilitate mare ca acest contract să fie desființat ulterior ca urmare a soluției pronunțate de instanța de judecată. De asemenea, în lipsa îndeplinirii de către ###### a unor cerințe tehnice minimale din documentația de atribuire, chiar interesul public ar fi lezat, prin încheierea acestui contract, având în vedere că buna funcționare a ###### ###### este importantă pentru acesta.
+
+II. Decizia CNSC este nemotivată
+
+Decizia CNSC nu motivează respingerea argumentelor RCS & RDS. Pentru a îndeplini cerința motivării, Decizia CNSC trebuia să conțină toate elementele de fapt care să permită destinatarilor, pe de o parte, să cunoască și să evalueze temeiurile deciziei, iar pe de altă parte, să facă posibilă exercitarea controlului de legalitate.
+
+Fiind o condiție de legalitate a actului administrativ, lipsa motivării soluției adoptate de către CNSC face ca actul administrativ să fie nelegal.
+
+CNSC nu detaliază motivele pentru care a respins Contestația RCS & RDS, ci se limitează la a arăta că RCS & RDS era obligată să conteste orice nemulțumiri față de documentația de atribuire în termen de 10 zile de la publicarea acesteia, iar în absența respectării acestui termen, orice critică suplimentară nu ar avea de ce să fie analizată de Consiliu.
+
+Așa cum rezultă din Contestația RCS & RDS, ceea ce a dorit să puncteze Consiliului, prin evidențierea modificărilor pe care Autoritatea contractantă le-a adus documentației de atribuire, a fost aspectul că procedura de atribuire viciată a creat premisele unei atribuiri nelegale.
+
+Apoi, chiar dacă ###### a avut o propunere financiară mai bună decât RCS &RDS, faptul că din punct de vedere tehnic nu este clar dacă ###### poate sau nu să aducă la îndeplinire contractul în termenul asumat, dacă are sau nu echipamentele care să respecte cerințele tehnice minime necesare pentru a putea să furnizeze serviciul către Autoritatea Contractantă, toate acestea ridică problema unor costuri suplimentare pe care Autoritatea le poate suporta pe parcursul executării contractului care fac ca atribuirea să nu respecte criteriul eficientei utilizări a resurselor și chiar a neconformității tehnice care împiedică Autoritatea să atribuie contractul acestui operator, care nu respectă cerințe minime din caietul de sarcini.
+
+Nicăieri în cuprinsul Contestației nu a susținut că se impune însă anularea Rezultatului procedurii, întrucât factorul de evaluare utilizat de către Autoritatea Contractantă ar fi incorect. Motivul principal a fost acela al neconformității tehnice a ofertei ######, aspect care rezultă atât din imposibilitatea obiectivă a ofertantului de a respecta termenul de instalare oferit (așa cum a rezultat din tabelul pe care l-a prezentat, cu titlu exemplificativ, în Contestație și pe care îl prezinta din nou la paragraful 44 al prezentei plângeri, termenele pentru instalare depășesc cu mult termenul de 1 zi lucrătoare), precum și din nerespectarea de către Autoritatea contractantă a obligațiilor sale de a solicita explicații cu privire la echipamentele ofertate și suplimentar, referitor la capacitatea ###### de a respecta acest termen.
+
+Autoritatea Contractantă avea cel puțin obligația de a solicita documentația care să facă dovada faptului că ###### deține în stoc echipamente necesare atribuirii, că are instalate 2 trasee de fibră optică între cele 2 sedii ale Autorității Contractante, atfel încât să fie înlăturate dubiile referitoare la posibilitatea ###### de a implementa această soluție. Prin raportare la dispozițiile art. 137 alin. (4) din H.G. nr. 394/2016 potrivit cărora: "fiecare decizie a comisiei de evaluare este fundamentată prin identificarea elementelor concrete ale solicitării de participare/ofertelor în raport cu cerințele definite prin documentele achiziției și prevederile legale", rezultă că evaluarea conformității Ofertei ###### din punct de vedere tehnic a fost una exclusiv formală.
+
+Potrivit art. 133 din Norme Metodologice din 2016 de aplicare a prevederilor referitoare la atribuirea contractului sectorial/acordului-cadru din Legea nr. 99/2016 privind achizițiile sectoriale, comisia de evaluare are, printre atribuții și pe aceea de verificare a conformității propunerilor tehnice ale ofertanților cu prevederile caietului de sarcini. Potrivit art. 138 din Normele metodologice, comisia de evaluare are obligația solicitării documentelor doveditoare privind îndeplinirea criteriilor de calificare ofertantului clasat pe primul loc în urma aplicării criteriului de atribuire. Totodată, ####### de evaluare are obligația de a analiza și de a verifica fiecare ofertă atât din punctul de vedere al elementelor tehnice propuse, cât și din punctul de vedere al aspectelor financiare pe care le implică (art. 139).
+
+În ciuda acestor argumente ridicate, CNSC nu arată motivele pentru care le înlătură, ci reține pe scurt că dovada susținerilor ###### se regăsește, în materialitatea ei, chiar la locul destinat pentru instalare.
+
+O astfel de explicație nu se înscrie în noțiunea de motivare a actului administrativ pe care este ținută să o facă o autoritate administrativ-jurisdicțională. Faptul că ###### are instalat suportul de transmisie, iar echipamentele deja în stoc nu face dovada posibilității de instalare și punere în funcțiune a serviciilor în termen de 1 zi, așa cum concluzionează la o analiză superficială CNSC. Mai mult, Consiliul nu ține cont nici de faptul că Autoritatea Contractantă nu a cerut clarificări suplimentare legate de caracteristicile minime ale acestora, nici măcar fișa tehnică a echipamentului, astfel cum impune pct. IV.4.1 din fișa de date Modul de prezentare al propunerii tehnice, care stabilește foarte clar că "se vor atașa la ofertă fișele de date ale echipamentelor terminale utilizate pentru interfatarea cu echipamentele Beneficiarului din care sa rezulte îndeplinirea cerințelor din caietul de sarcini."
+
+Raportat la toate argumentele ridicate, în mod nelegal Consiliul a decis să respingă Contestația RCS & RDS, în temeiul dispozițiilor art. 26 alin. (6) din Legea 101/2016, conform cărora "Consiliul poate respinge contestația ca fiind nefondată, tardivă, lipsită de interes, lipsită de obiect, introdusă de o persoană fără calitate sau de o persoană care nu are calitatea de reprezentant, precum și pe orice altă excepție de procedură sau de fond, care împiedică soluționarea pe fond a contestației".
+
+De altfel, deși invocă dispozițiile art. 26 alin. (6), CNSC nu arată despre ce excepție de procedură sau de fond este vorba în cauză, astfel încât RCS & RDS nu are posibilitatea de a cunoaște temeiurile pentru decizia de respingere a contestației formulate, iar instanța de judecată nu poate aprecia corectitudinea raționamentului din decizie.
+
+In atare condiții, nu poate decât să fie dispusă anularea în integralitate a Deciziei CNSC și reținerea cauzei spre rejudecare pe fond de către instanța de judecată, în temeiul dispozițiilor art. 34 alin. (4) din Legea 101/2016.
+
+III. Decizia CNSC este netemeinică
+
+Decizia nu ține cont de accesul limitat la dosarul achiziției pe care RCS & RDS l-a avut la Autoritatea Contractantă
+
+În Contestația RCS & RDS a arătat că Societatea a primit acces parțial la dosarul achiziției, fiind excluse de la consultare documentele declarate de ###### drept confidențiale.
+
+Prin urmare, singurele documente care au putut fi vizualizate de societate au fost cererile de clarificare adresate de Autoritatea Contractanta și câteva extrase din răspunsul lui ###### la acestea.
+
+Din acest comportament, rezultă favorizarea de către Autoritate a ofertantului câștigător, nefiind clară și dovedită capacitatea efectivă a acestuia de a oferi un termen de instalare de 1 zi lucrătoare.
+
+Autoritatea Contractantă a acționat discreționar în raport de Societate, clarificările și înscrisurile puse la dispoziție fiind doar Raportul procedurii, precum și o clarificare adresată de către Autoritate și răspunsul parțial al ###### la aceasta, așa cum rezultă din procesul-verbal de predare primire, încheiat la data de 16.03.2023, atașat prezentei.
+
+La data de 12.04.2023, CNSC i-a acordat acces la dosarul achiziției, punându-i în vedere ca, în urma consultării acestuia, să depuna note scrise, în termen de 2 zile, fără a avea posibilitatea de a formula capete noi de cerere sau de a prezenta motive noi pentru a susține contestația depusă la CNSC. Chiar dacă, în urma consultării dosarului, a avut acces la informații tehnice care nu au făcut decât să accentueze susținerea sa privind neconformitatea tehnică a ofertei ###### si implicit incapacitatea acestuia de a instala serviciul de replicare intr-o singura zi, CNSC a decis că nu va analiza suplimentar argumentele de neconformitate pe care le-a adus la cunoștința sa, întrucât acestea ar reprezenta capete noi de cerere sau argumente suplimentare. Or, este necesar a se observa că, prin concluziile scrise formulate, nu a făcut decât să arăte toate indiciile care duc spre aceeași susținere pe care a prezentat-o de la bun început, respectiv aceea de neconformitate tehnică a ofertei ######.
+
+Potrivit dispozițiilor art. 217 din Legea nr. 98/2016, după comunicarea Rezultatului procedurii de atribuire, autoritatea contractantă are obligația de a permite, la cerere, ofertanților, într-un termen care nu poate depăși o zi lucrătoare, accesul neîngrădit la raportul procedurii, precum și la informațiile din cadrul documentelor de calificare, propunerilor tehnice și/sau financiare care nu au fost declarate de către ofertanți ca fiind confidențiale, clasificate sau protejate de un drept de proprietate intelectuală. Accesul se va face în baza Legii nr. 544/2001.
+
+Spre deosebire de Legea nr. 98/2016, care permite accesul la dosarul achiziției doar după comunicarea rezultatului procedurii, în fața instanței sau a C.N.S.C., accesul este permis oricând, conform dispozițiilor art. 19 din Legea nr. 101/2016. De asemenea, în privința confidențializării informațiilor din propunerile tehnice și financiare, CNSC are competența de a interveni să cenzureze o confidențializare excesivă pe care ofertanții o pot face în privința ofertelor tehnice și financiare, astfel încât să permită ofertantului a cărui ofertă este declarată necâștigătoare să poată să analizeze inclusiv conformitatea ofertei celui clasat pe primul loc, în acest fel putându-se respecta principiul concurenței între ofertanții participanți. Ori, cât timp la CNSC a arătat că Autoritatea Contractantă nu i-a permis să vizualizeze decât un număr redus de documente și că numai la sediul CNSC a avut acces pentru prima dată la documente privind oferta tehnică a ######, este complet neîntemeiată respingerea argumentelor sale, fără a face vreo analiză a temeiniciei acestora.
+
+Prin urmare, este necesar a se constata că este nefondată respingerea argumentelor RCS & RDS dezvoltate prin concluziile scrise, formulate ca urmare a accesării dosarului de achiziție la sediul CNSC.
+
+Decizia CNSC ignoră faptul că Autoritatea Contractanta nu a analizat și fundamentat temeinic termenul de instalare de o zi oferit de către ######, iar din răspunsurile la clarificările solicitate de către ##### ######, a rezultat că Autoritatea contractantă nu a analizat conformitatea echipamentelor ofertate pentru stabilirea termenelor de instalare.
+
+Referitor la aspectele tehnice care au reieșit din consultarea dosarului la sediul CNSC, ###### si-a fundamentat ofertarea unui termen de o zi pentru servicii de replicare între data centere cu un router aflat pe stoc, asa cum declara în răspunsul la clarificarea Autoritatii Contractante, echipament care nu îndeplinește specificațiile minimale din punct de vedere al performanței, așa cum au fost ele solicitate de către Autoritatea contractantă, prin caietul de sarcini, respectiv o soluție de conectare Layer 2 cu următorii parametri minimali:
+
+a. "Protocol: FiberChannel over IP
+
+b. Tehnologie transport: DWDM protejat (redundant), încălcând astfel prevederile art. 32 din OUG ######## conform căruia "ofertantul este obligat să elaboreze oferta în conformitate cu prevederile din documentația de atribuire".
+
+Diferența dintre cele două echipamente ofertate, demonstrată atât din descrierea serviciilor, cât și din confirmările indirecte ale Autorității contractante și ale ######, arată că Autoritatea contractantă a acceptat o ofertă care nu corespunde cerințelor tehnice din documentația de atribuire, deoarece serviciile nu pot fi asigurate pe echipamente inferioare din punct de vedere al performantei.
+
+În Caietul de sarcini, la pagina 9, Servicii de replicare intre date centere, printre cerințele menționate de Autoritatea Contractanta, este și aceea ca "Ofertantul va prezenta o soluție tehnică completă și redundantă pentru replicarea datelor între cele 2 Data Centere ale Beneficiarului, oferta incluzând (fără niciun cost suplimentar din partea Beneficiarului) toate elementele de conectică necesare realizării conexiunilor în ambele capete. În acest sens, Furnizorul va prezenta documente care să detalieze modul de asigurare a redundanței canalului de comunicație DWDM"". Tot în Caietul de sarcini, la pagina 5 - Cerinte Obligatorii - este prevăzută sancțiunea aplicabilă pentru neîndeplinirea unei cerințe sau a unui serviciu din specificația tehnică - respectiv eliminarea ofertei: "Neîndeplinirea oricarei cerințe atrage dupa sine respingerea ofertei".
+
+Or, nu doar ca ###### a ofertat un termen de instalare de 1 zi doar in scopul de a obtine cel mai mare punctaj, dar, din răspunsurile la care a avut acces ca urmare a consultarii dosarului achiziției la sediul CNSC, a rezultat că acesta nici nu deține în stoc echipamentul cu specificațiile minime obligatorii care sa ii permita furnizarea serviciilor solicitate de Autoritatea Contractanta. Numai la nivel pur teoretic, ###### își asumă integral termenul de instalare de o zi a serviciilor de replicare, conform Caietului de sarcini, întrucât, din toate documentele prezentate pentru justificarea acestuia, rezultă foarte clar că soluția tehnica oferita nu asigură condițiile minime obligatorii și nici nu respectă cerințele tehnice impuse prin caietul de sarcini la pagina 8.
+
+A arătat, de asemenea, în temeiul dispozițiilor art. 2 alin 2, lit. a), b) si d) din Legea 99/2016, că Autoritatea contractantă trebuie să se asigure că se respectă scopul achiziției, având obligația de a lua toate măsurile necesare pentru a evita apariția unor situații de natură să determine împiedicarea, restrângerea sau denaturarea concurenței, întrucât în procesul de atribuire a contractului de achiziție publică trebuia să țină cont de principiile nediscriminarii, tratamentului egal, transparenței, proporționalității, eficientei utilizări a fondurilor publice.
+
+Or, în condițiile în care documentația de atribuire stabilea că este obligatorie îndeplinirea în întregime a specificațiilor tehnice și RCS & RDS a respectat această obligație, iar ###### nu le-a îndeplinit, oferta acestui participant din urmă fiind desemnată câștigătoare, Autoritatea Contractantă a încălcat principiul tratamentului egal și a denaturat concurența în cadrul procedurii de atribuire.
+
+Realizând o oferta care să corespundă întru totul cerințelor din Caietul de sarcini, Oferta RCS & RDS a cuprins întocmai echipamentele, softul si licentele care sa respecte cerintele minime, ofertand un termen de instalare in concordanta cu termenul de livrare primit de la furnizorul de echipamente, respectiv 45 de zile (echipamentele, licentele, softul au un cost de achizitie de peste 400.000 USD si nu pot fi tinute in stoc de nici un operator ).
+
+Oferta ###### a cuprins doar un router ##### 2960, echipament care nu suportă protocolul Fiber-####### sau Fiber-####### over IP, nerespectând lista de parametri minimali ceruți în caietul de sarcini la pagina 8, permițându-și astfel să oferteze o singură zi de instalare, motivând că deține echipamentul in stoc, iar Autoritatea Contractantă a acceptat o declarație fără să verifice conformitatea echipamentelor ofertate, așa cum impune legislația în materie de achiziții publice.
+
+De altfel, a arătat și în fața Consiliului care sunt etapele și timpii necesari instalării soluției solicitate de Autoritate.
+
+Descriere Activitate
+
+Echipa/nr. persoane
+
+Numar de ore/activitate
+
+1. instalarea fizică a două trasee de fibra optică diferite din punct de vedere al traseului geografic, astfel încât să se asigure redundanțs link-ului solicitata prin caietul de sarcini
+
+2 echipe a câte 4 oameni
+
+24 de ore pentru pregatirea traseului
+
+2. configurarea, instalarea softului, licentelor pe echipamentele DWDM
+
+o echipa de 4 persoane
+
+5 ore
+
+3. configurarea switchurilor FC
+
+o echipă
+
+4 ore
+
+4. instalarea fizica si alimentare electrica a sasiurilor in cele 2 data centere ale clientului
+
+2 echipe, minim 2 oameni pe echipa
+
+2ore
+
+5. configurarea sasiurilor (echipamentelor) pt management, definirea cardurilor si porturilor DWDM, configurarea parametrilor specifici
+
+2 echipe, cate una in fiecare sediu al Autoritatii Contractante care sa comunice cu o a treia echipa din sediul central al Operatorului astfel incat sa se asigure ca toate configurarile si echipamentele sunt in parametri (5 oameni)
+
+2 ore
+
+6. instalarea switchurilor FC in sediul Autoritatii Contractante
+
+2 echipe, cate una in fiecare sediu al Autoritatii Contractante
+
+1 ora
+
+7. realizarea de masuratori specifice (cu analizor de spectru si powermetru) si ajustarea parametrilor optici in conformitate cu realitatea din teren
+
+2 echipe, cate una in fiecare sediu al Autoritatii Contractante care sa comunice cu o a treia echipa din sediul central al Operatorului astfel incat sa se asigure ca toate configurarile si echipamentele sunt in parametri (5 oameni)
+
+3 - 4 ore
+
+8. dupa instalare trebuie efectuate verificari pt a determina daca performantele solutiei sunt conforme cu proiectarea si cerintele din caietul de sarcini
+
+3 echipe
+
+2 ore
+
+În drept, petenta a invocat art. 29 și urm. din Legea 101/2016.
+
+In aparare, intimata C.N. ##### ###### S.A. a formulat întâmpinare, prin care a solicitat respingerea plangerii și menținerea Deciziei atacate, pentru urmatoarele motive:
+
+Chestiuni prealabile
+
+#### de solicitarea formulată de petentă, cu titlu preliminar, privind "suspendarea încheierii contractului de achiziție de către Autoritatea contractantă cu ######, până la soluționarea plăngerii", prin raportare la prevederile exprese ale art. 33 din Legea nr. 101/2016, se impune solutia de respingere, ca neîntemeită, în condițiile în care petenta nu justifică necesitatea suspendării pentru prevenirea unei pagube iminente.
+
+Totodată, argumentele pe care aceasta le aduce se bazează pe simple supoziții privind neconformitatea ofertei tehnice a ######, cu consecința desfințării ulterioare a contractului și lezării interesului public.
+
+Așa cum se poate lesne observa, petenta nu arată în ce fel ar fi lezat interesul public de desființarea ulterioară a contractului și nici nu justifică o pagubă iminentă și ireparabilă, ci se limitează la a da propriilor afirmații valoare de truism.
+
+Or, în procedura preliminară necontencioasă, susținerile petentei și solicitarea de suspendare a procedurii de atribuire au fost respinse de CNSC, iar în fața instanței petenta nu vine decât cu simple supoziții ("există probabilitate mare"/"ar fi lezat"), fară să explice, în concret, în ce constă paguba iminentă și ireparabilă la care este expusă.
+
+Cu privire la criticile petentei privind nelegalitatea Deciziei atacate
+
+In mod greșit, petenta apreciază ca CNSC a încălcat prevederile art. 27. alin. 5 lit. b) din Legea nr. 101/2016, nemotivandu-și decizia.
+
+Raționamentul petentei este unul eronat, deoarece aceasta apreciază că CNSC a respins contestația sa în temeiul unei excepții, făcându-se referire la prevederile art. 26 alin. 6, fără a se arăta și despre ce excepție este vorba, motiv pentru care, în optica petentei, decizia de respingere este nemotivată și deci nelegală.
+
+Așa cum se poate lesne observa, susținerile petentei au în vedere o interpretare eronată a dispozițiilor art. 26 alin. 6 din Legea nr. 101/2016: "Consiliul poate respinge contestația ca fiind nefondată, tardivă, lipsită de interes, lipsită de obiect, introdusă de o persoană fără calitate sau de o persoană care nu are calitatea de reprezentant, precum și pe orice altă excepție de procedură sau de fond, care împiedică soluționarea pe fond a contestației".
+
+Astfel, se apreciază greșit că respingerea plângerii în temeiul art. 26 alin. 1 teza I este o respingere prin soluționarea unei excepții nenumite, nedezvoltate de CNSC în decizia de respingere.
+
+####, prevederile art. 26 alin. 6 nu reglementează soluționarea contestațiilor doar pe excepții. În chiar partea introductivă a alin. 6, legiuitorul a făcut vorbire de posibilitatea de respingere a contestației ca nefondată, situație aplicabilă litigiului pendinte.
+
+De altfel, la fila 37, primul paragraf, din Decizia nr. ####/C10/09.05.2023, Consiliul reține:
+
+"În consecință, luând în considerare cele de mai sus menționate, în temeiul prevederilor art. 26 alin. 6 din Legea nr. 101/2016, Consiliul va respinge ca nefondată contestația formulată de RCS & ### SA".
+
+Totodată, însăși petenta susține, la fila 4 din plângere, că, prin decizia pronunțată, Consiliul a respins contestația RCS & RDS, ca nefondată, fără să analizeze argumentele avansate de către RCS & RDS.
+
+După ce susține că Decizia CNSC este nelegală, pentru că a fost respinsă contestația în temeiul unei excepții nenumite, la fila 7 din plângere, petenta afirmă că Decizia CNSC este nelegală pentru că este nemotivată, încălcându-se deci prevederile art. 27 alin. 5 lit. b) din Legea nr. 101/2016 (care stipulează că Hotărârea Consiliului cuprinde (…) motivele de fapt și de drept pe care se întemeiază soluția, arătându-se atât motivele pentru care s-au admis, cât și cele pentru care s-au înlăturat cererile părților).
+
+Susținerile petentei privind nelegalitatea deciziei CNSC pentru nemotivare nu sunt însă sustenabile, în condițiile în care la fila 35 din decizia contestată, Consiliul reține că:
+
+"În data de 22.12.2022, toți operatorii economici au avut confirmare că factorul de evaluare "Termen de instalare" se referă la termenul de instalare a linkurilor corespunzătoare ambelor capete ale circuitului de replicare între data centere, iar în data de 09.01.2022, au luat la cunoștință de prelungirea termenelor de instalare a serviciilor la 180 de zile calendaristice, orice contestație cu privire la aceste modificări/precizări putând fi formulată numai în termenul legal de 10 zile, ceea ce în fapt nu s-a întâmplat, nici răspunsul consolidat 1-adresa nr. 101.1/5217/22.12.2022, nici raspunsul consolidat 2-adresa nr. 101.1/56/09.01.2023 nefăcând obiectul niciunei contestații. De aceea nu au nicio relevanță alegațiile contestatorului cu privire la inoportuna înlocuire a unui termen de instalare pentru întreaga soluție cu un factor de evaluare neconcludent pentru un singur serviciu, răspunsurile consolidate nr. 1 și nr. 2 publicate în SEAP de către entitatea contractantă fiind parte a documentației pe care, în absența vreunei contestații aceasta era obligată să le respecte.
+
+Așa cum se poate lesne observa, pe de o parte, Decizia CNSC este motivată iar, pe de altă parte, criticile care puteau fi luate în considerare și la care era ținut să răspundă Consiliul nu puteau viza decât Rezultatul procedurii de atribuire, deoarece numai cu privire la acest document petenta era în termen să formuleze obiecțiuni.
+
+####, nemultumirile petentei au vizat și alte documente emise în cadrul procedurii, cu privire la care termenul de contestare se împlinise și cu privire la care Consiliul nu era ținut să îi răspundă.
+
+Referitor la rezultatul procedurii, Consiliul respinge argumentele petentei, motivat de faptul că acordarea punctajului maxim, pentru cel mai mic termen de instalare de 1 zi ofertei ######, pentru linkul replicare Bdul #####-##### Giulești, a fost fundamentată pe suportul de transmisie deja instalat (fibră optică, linie principală și linie secundară), precum și pe echipamentele aflate în stoc, pentru toate celelalte locații, oferta ###### de instalare fiind de aproximativ 150 zile.
+
+De altfel, un alt aspect avut în vedere de Consiliu, atunci când au fost respinse susținerile petentei, privește importanța factorului de evaluare "Termen de instalare" pentru linkul de replicare Bdul #####-##### Giulești, în departajarea celor doi ofertanți. În acest sens, Consiliul reține că diferența de punctaj dintre cele doua oferte a fost de 26,5 puncte și, prin urmare, factorul de evaluare "Termen de instalare" pentru linkul de replicare Bdul #####-##### Giulești nu a fost singular și decisiv în departajarea celor două oferte.
+
+Rezultă, așadar, că decizia ce face obiectul plângerii a fost temeinic motivată de Consiliu, iar faptul că petenta este nemulțumită de această motivare care nu îi este favorabilă nu impietează asupra legalității și temeiniciei deciziei.
+
+Cu privire la criticile petentei privind netemeinicia Deciziei atacate
+
+Petenta amalgamează motivele de nelegalitate cu motivele de netemeinicie și, practic, reia, într-un mod redundant, expunerea făcută pentru susținerea nelegalității deciziei pentru nemotivare "Decizia CNSC este netemeinică deoarece a înlăturat argumentele RCS & RDS fără o analiză a lor".
+
+Totodată, evident este și faptul că invocarea neconformității echipamentelor cu cerințele din documentația de atribuire nu se regăsește în cuprinsul contestației nr. CB/3002/23.03.2023, fiind adusă în discuție, pentu prima dată, prin Concluziile scrise depuse la Consiliu.
+
+Susținerile pe care le face petenta, potrivit cărora necorespunderea din punct de vedere tehnic a ofertei a fost invocată încă de la început nu sunt reale, în condițiile în care, în cuprinsul contestației, aceasta aduce alte argumente privind neconformitatea tehnică a ofertei, respectiv echipamentul/switch-ul ##### 2960 nu se mai produce din anul 2013 și nu se mai asigură suport, licențe și soft.
+
+În mod corect, Consiliul a apreciat că acesta este un nou motiv de contestare deoarece, în contestație, petenta face vorbire de lipsa unor documente justificative și probante, care să ateste faptul că planificarea ofertantului este realistă, astfel încât asumarea unui termen de realizare a activităților din cadrul contractului să nu se facă doar la nivel declarativ, în vederea obținerii unui punctaj mare pentru acest factor de evaluare.
+
+#### de remarcat aspectul că, dacă prin contestația adresată CNSC, petenta apreciază că termenul de o zi lucrătoare trebuia susținut cel puțin prin documentație, care să facă dovada faptului că ###### deține în stoc echipamentele necesare atribuirii, că are instalate 2 trasee de fibră optică între cele două sedii ale Autorității contractante, astfel încât să fie înlăturate orice dubii referitoare la posibilitatea ###### de a implementa această soluție, prin plângerea cu care a sesizat instanța, aceasta pare să nu mai fie mulțumită de dovada că ###### are instalat suportul de transmisie și echipamentele aflate deja în stoc, apreciind, fără temei, că acestea nu fac dovada posibilității de instalare și punere în funcțiune a serviciilor în termen de 1 zi (fila 8 pct. 25).
+
+Contrar celor susținute de petentă, in calitate de Autoritate contractantă, a solicitat clarificări. #### necesara observarea raspunsului ###### nr. ______/OROC/TM/ICT/______ la solicitarea de clarificări nr. 101.1/436/03.02.2023, respectiv răspunsul dat de ###### la solicitarea nr. 5: "Pentru ####-ul Replicare Bdul #####-##### Giulești, ###### are deja instalat suportul de transmisie (fibră optică linie principală și linie secundară), echipamentele sunt în stoc iar activitatea de instalare a echipamentelor și punere în funcțiune a serviciilor se pot realiza într-o zi cu doua echipe care vor lucra în paralel".
+
+Coroborând acest răspuns cu tabelul petentei de la fila 11 din plângerea formulată, rezultă că timpii necesari instalării soluției solicitate se încadrează în termenul de o zi: pct. 2-8, interval de timp apreciat de însăși petentă este de 20 de ore, în condițiile în care cele 24 de ore estimate de petentă ca necesare pentru pregătirea traseului nu se iau în calcul deoarece ###### are deja instalat suportul de transmisie (fibră optică linie principală și linie secundară).
+
+#### de petitul plângerii pendinte, este necesar a se observa că pretențiile petentei sunt contra legem, iar prevederile art. 34 alin. 4 la care aceasta face referire, nu sunt aplicabile.
+
+Reținerea cauzei spre judecare (nu rejudecata în fond, cum se cere), presupune, ab initio, analiza parțială de către CNSC a motivelor cu care a fost sesizat. ####, așa cum se poate constata, analiza făcută de CNSC este exhaustivă și judicioasă.
+
+Mai mult decât atât, în temeiul prevederilor art. 34 alin. 6 coroborat cu alin. 7, instanța nu poate decide atribuirea contractului către un anumit operator economic, așa cum urmărește petenta, prin solicitarea sa de desemnare a ofertei RCS & RDS drept câștigătoare, deoarece nu se verifica in cauza ipoteza de excepție în care RCS & RDS să fi fost desemnat câștigător de autoritatea contractantă și nici nu rezultă din înscrisurile depuse la dosar calitatea sa de ofertant câștigător, contrar susținerilor petentei.
+
+#### cel de al doilea petit al plângerii (pe care este de presupus că petenta îl are în vedere în subsidiar), respectiv obligarea Autorității contractante la reluarea procedurii de atribuire în etapa evaluării tehnice a ofertelor, eliminarea ofertei ###### ca neconforme, pentru nerespectarea cerințelor tehnice minime obligatorii și desemnarea ofertei RCS & RDS drept câștigătoare, nu se încadrează în litera legii, deoarece, în acord cu prevederile art. 34 alin. 6, în situația în care contestația a vizat rezultatul procedurii de atribuire, iar instanța, admițând plângerea, dispune reevaluarea ofertelor, aceasta va indica, în mod clar și precis, limitele reevaluării, respectiv identitatea ofertelor care fac obiectul reevaluării, etapa/etapele procedurii de atribuire vizată/vizate de reevaluare și măsurile concrete pe care le va adopta autoritatea contractantă în cadrul reevaluării.
+
+#### evident că textul legii nu sugerează desemnarea ofertei câștigătoare de către instanță, cum în mod eronat solicită petenta.
+
+In drept, intimata a invocat dispozițiile Legii nr. 101/2016 si ale Codului de procedură civilă.
+
+La randul sau, in aparare, intimata ###### ####### ############## SA a formulat întâmpinare, prin care a solicitat respingerea plangerii și menținerea Deciziei atacate, pentru urmatoarele motive:
+
+Legalitatea Deciziei CNSC. Decizia este pe deplin motivata
+
+Contrar celor susținute de petenta, in conformitate cu prevederile legale, CNSC a procedat la analizarea completa a criticilor formulate, fiind analizate toate criticile formulate de petenta RCS&RDS.
+
+Sub un prim aspect, petenta face dovada unei profunde neînțelegeri a legislației incidente in cauza, susținând ca "Consiliul a respins Contestația RCS&RDS ca nefondata in temeiul art. 26 alin. (6) din Legea 101/2016, fara a arata insa care este excepția de procedura sau de fond care in opinia sa a împiedicat soluționarea pe fond a Contestației, incalcand astfel dispozițiile art. 27 alin. (5) lit. b) din Legea 101/2016, potrivit cu care hotărârea CNSC trebuie sa conțină, printre altele, motivele de fapt si de drept pe care se întemeiază soluția, aratandu-se atat motivele pentru care s-au admis, cat si cele pentru care s-au înlăturat cererile partilor".
+
+In acest context, trebuie avute in vedere prevederile textului de lege invocat de petenta,
+
+potrivit cărora "Consiliul poate respinge contestația ca fiind nefondata, tardiva, lipsita de interes, lipsita de obiect, introdusa de o persoana fara calitate sau de o persoana care nu are calitatea de reprezentant, precum si pe orice alta excepție de procedura sau de fond, care impiedica soluționarea pe fond a contestației."
+
+Textul de lege invocat de petenta subliniază dincolo de orice dubiu, in teza sa inițiala, ca CNSC are, pe de o parte, posibilitatea sa respingă contestațiile formulate in ceea ce privește fondul acestora, iar pe de alta parte, in teza secunda, subliniază ca același Consiliu poate respinge contestațiile in baza unor excepții de procedura sau de fond.
+
+Petenta pare a înțelege textul mai sus invocat ca privind exclusiv excepțiile de procedura sau de fond menționate de legiuitor in teza secunda a acestuia, de unde si pretinsul motiv (ingrosat in cuprinsul Contestației) ca CNSC s-ar fi pronunțat fara a arata "care este excepția de procedura sau de fond care in opinia sa a împiedicat soluționarea pe fond a Contestației".
+
+In realitate, insa, si contrar susținerilor flagrant eronate ale petentei, CNSC a făcut deplina aplicare a textului de lege incident, pronuntandu-se in sensul respingerii Contestației pe fondul acesteia, astfel cum rezulta cu asupra de măsura la o simpla analiza a argumentelor invocate in cuprinsul Deciziei aici atacate.
+
+Sub un al doilea aspect, RCS&RDS susține ca derularea procedurii de atribuire de către Autoritatea Contractanta ar fi fost viciata, ca urmare a faptului ca aceasta din urma ar fi adus modificări substanțiale unui criteriu de atribuire si ca CNSC nu a luat in calcul acest fapt.
+
+In acest sens, petenta susține ca CNSC n-ar fi detaliat, in cuprinsul Deciziei atacate, motivele pentru care contestația acesteia ar fi fost respinsa, ignorând astfel cu desăvârșire motivarea in extenso pe care CNSC a facut-o cu privire la fondul contestației petentei.
+
+In esența, ceea ce susține petenta (printr-o argumentare alambicata si greu de urmărit, si mai ales diferita de cea făcuta in fata CNSC) este faptul ca oferta tehnica a ###### ar fi fost neconforma, pe de o parte, si ca Autoritatea Contractanta nu si-ar fi respectat obligațiile de a solicita explicații cu privire la echipamente, pe de alta parte.
+
+Astfel, este necesar a se observa ca petenta reia, in cuprinsul plângerii, argumentele invocate in fata CNSC, respectiv pretinsa imposibilitate a Orangei de a respecta termenele de instalare specificate in oferta tehnica, si caracterul neconform al deciziei Autorității Contractante de a nu fi solicitat explicații cu privire la aceasta.
+
+Modificandu-si insa susținerile făcute in fata CNSC (asa cum si in fata CNSC si-a modificat susținerile făcute in fata Autorității Contractante, aspect cenzurat in mod just de Consiliu), petenta afirma ca Autoritatea Contractanta avea obligația de a solicita documentații, de a solicita explicații, concluzia petentei fiind ca, in lipsa acestora, evaluarea ofertei ###### ar fi fost una exclusiv formala.
+
+In acest sens, petenta susține (întotdeauna cu referire la termenul de instalare precizat în oferta sa tehnica) ca "Autoritatea Contractanta avea cel puțin obligația de a solicita documentația care sa faca dovada faptului. [...] ca are instalate doua trasee de fibra optica intre cele 2 sedii ale Autorității Contractante, astfel incat sa fie inlaturate dubiile referitoare la posibilitatea ###### de a implementa aceasta soluție".
+
+Argumentele petentei frizează absurdul, iar CNSC le-a respins ca atare, fiind necesar a se observa ca Autoritatea Contractanta nu avea niciun motiv sa ceara documentația care sa arate ca ###### avea instalate traseele de fibra optica, cata vreme traseele existau deja, ele fiind instalate anterior, Autoritatea Contractanta fiind un fost client al ######.
+
+Astfel, este necesar a se observa ca petenta RCS&RDS omite in mod deliberat faptul ca elementele probatorii care făceau dovada susținerilor ###### se aflau deja in situ, împrejurare ce subliniază justețea concluziei Deciziei aici atacate, potrivit căreia "întrucât dovada susținerilor ofertantului SC ###### ####### ############## SA se regăsește, in materialitatea ei, chiar la locul destinat pentru instalare, Consiliul apreciază ca răspunsul acestuia a fost, in mod corect, apreciat drept concludent de către entitatea contracanta."
+
+Ca atare, a fost cu asupra de măsura evident pentru CNSC faptul ca, in cazul acestei
+
+cerințe a caietului de sarcini, ###### a răspuns solicitărilor de clarificări venite din
+
+partea Autorității Contractante, pe de o parte, si ca dovada susținerilor ###### se gaseste, in materialitatea ei, la sediul Autorității Contractante, pe de alta parte.
+
+Petenta susține, in cuprinsul plângerii, ca concluzia Consiliului, in sensul de a fi reținut ca dovezile susținerilor ###### se regăsesc, in materialitatea lor, chiar la locul destinat instalării, nu s-ar încadra in noțiunea de motivare a actului administrativ.
+
+Argumentul petentei frizează, din nou, absurdul ilar. #### vreme Autoritatea Contractanta este un fost client al ######, care are, dincolo de orice dubiu, cunoștința de faptul ca ###### avea instalate in sediul acesteia traseele de fibra optica menționata, este absurda pretenția petentei ca CNSC sa-i fi imputat Autorității nesolicitarea de documente care sa demonstreze același lucru.
+
+Pe cale de consecința, instanța de control este rugata sa constate ca simpla constatare a materialiatii dovezilor solicitate reprezintă suficienta motivare pe care Consiliul era ținut sa o furnizeze in cuprinsul Deciziei aici atacate, consecința directa fiind cea de respingere a pretențiilor petentei de anulare a Deciziei.
+
+Temeinicia Deciziei CNSC. Netemeinicia contestației RCS& RDS
+
+Prin raportare la informațiile primite si analiza documentelor la care a avut acces pana la acest moment, plângerea petentei apare ca fiind vădit neintemeiata.
+
+Sub un prim aspect, si in ceea ce privește capătul de cerere privind pretinsa netemeincie a Deciziei CNSC, petenta are in vedere, in fapt, aceleași argumente care orbiteaza in jurul termenului de instalare (factorului de evaluare pretins viciat de către Autoritatea Contractanta).
+
+Capitolul III al plângerii debutează cu un pretins comportament abuziv al Autorității Contractante, petenta susținând ca aceasta ar fi favorizat ######, prin faptul ca RCS&RDS a primit doar acces parțial la dosarul achiziției, fiind excluse de la consultare documentele declarate de subscrisa ca fiind confidențiale.
+
+Ceea ce petenta omite sa sublinieze este ca si ###### ar fi beneficiat de același tratament, din partea Autorității Contractante, cu privire la documentele petentei, împrejurare care face ca toate afirmațiile acesteia privind un pretins tratament discriminatoriu fata de aceasta sa fie nule si neavenite.
+
+Sub un al doilea aspect, petenta încearcă o data in plus sa acrediteze teza nemodificarii capetelor sale de cerere, susținând in acest sens ca acestea ar reprezenta doar confirmări ale suspiciunilor acesteia cu privire la oferta tehnica a ######.
+
+Astfel, petenta susține ca "Chiar daca in urma consultării dosarului am avut acces la informații tehnice care nu au făcut decât sa accentueze susținerea noastră privind neconformitatea tehnica a ofertei ###### si implicit incapacitatea acestuia de a instala serviciul de replicare intr-o singura zi, CNSC a decis ca nu va analiza suplimentar argumentele de neconformitate pe care le-am adus la cunoștința sa intrucat acestea ar repreznta capete noi de cerere sau argumente suplimentare".
+
+Dincolo de caracterul absolut străveziu al pretinselor suspiciuni ale petentei, este necesar a se observa ca, in fapt, discuția poarta asupra unui nou capăt de cerere invocat de petenta in afara termenului legal, imprejurare care a fost, o data in plus, in mod just soluționata de către CNSC.
+
+Paragraful 31 mai sus citat al plângerii trebuie coroborat cu paragraful 36 al acesteia, in cuprinsul căruia petenta face vorbire despre exact aceleași elemente care au determinat CNSC sa-i respingă susținerile ca reprezentând capete noi de cerere. Astfel, este necesar a se observa ca petenta susține ca: "Referitor la aspectele tehnice care au reieșit din consultarea dosarului la sediul CNSC învederam instanței ca ###### sha fundamentat ofertarea unui termen de o zi pentru servicii de replicare intre data centere cu un router aflat pe stoc, asa cum declara in răspunsul la clarificarea Autorității Centrale, echipament care nu îndeplinește specificațiile minimale din punct de vedere al performantei, asa cum au fost ele solicitate de către Autoritatea Contractanta prin caietul de sarcini, respectiv o soluție de conectare Layer 2 cu următorii parametrii minimali:
+
+a. "Protocol Fiber ####### overlP
+
+b. Tehnologie transport: DWDM protejat (redundant)".
+
+In acest context, este necesar a se observa ca CNSC a dat pe deplin răspuns acestei critici a petentei, reținând, in cuprinsul Deciziei, ca "In ceea ce privește susținerea contestatorului privind faptul ca « oferta ###### ar fi neconforma, ca urmare a depunerii unei propuneri tehnice neconforme (switch-ul ##### 2960 nu se mai produce din 2013 si nu poate asigura protocolul Fiber ####### over IP», aceasta noua critica nu a existat in contestație, a fost formulata prin propunerile scrise, motiv pentru care aceasta este apreciata ca fiind inadmisibila de Consiliu, potrivit prevederilor art. 21 alin. (3) din Legea nr. 101/2016".
+
+Răspunsul CNSC la criticile formulate de către petenta trebuie interpretat prin coroborare cu propriile susțineri ale petentei, aceasta susținând, in cuprinsul plângerii formulate, "In Contestația RCS&RDS am arătat ca Societatea a primit acces parțial la dosarul achiziției, fiind excluse de la consultare documentele declarate de ###### drept confidențiale. Prin urmare, singurele documente care au putut fi vizualizate de subscrisa au fost cererile de clarificare adresate de Autoritatea Contractanta si câteva extrase din răspunsul lui ###### la acestea".
+
+Astfel, este necesar a se observa caracterul judicios al concluziei CNSC, care a constatat faptul ca susținerile petentei se subsumează unui nou capăt de cerere, formulat cu depășirea termenului legal, cu atat mai mult cu cat aspectele pretins neconforme la care petenta face trimitere nu fac parte dintre documentele confidențiale la care aceasta susține ca Autoritatea Contractanta nu i-ar fi acordat acces.
+
+Petenta revine la termenul de instalare de o zi, pe care ###### l-ar fi ofertat "doar pentru a obține cel mai mare punctaj", susținând ca "numai la nivel pur teoretic, ###### isi asuma integral termenul de instalare de o zi a serviciilor de replicare conform Caietului de sarcini, intrucat din toate documentele prezentate pentru justificarea acestuia rezulta foarte clar ca soluția tehnica oferita nu asigura condițiile minime obligatorii si nici nu respecta cerințele tehnice impuse prin caietul de sarcini."
+
+##### in vedere cele menționate in precedent (19 - 24, supra), este necesar a se constata ca analiza timpilor pentru instalarea soluției, astfel cum aceasta este făcuta in cuprinsul plângerii petentei, este fundamental eronata.
+
+Mai mult decât atat, CNSC a dat răspuns acestei critici aduse Autorității Contractante de către petenta, prin intermediul Deciziei. Astfel, Consiliul a reținut ca "entitatea contractanta a solicitat SC ###### ####### ############## SA explicații/detaliere, eventual cu documente doveditoare, privind respectarea reala a termenului de instalare a linkurilor corespunzătoare ambelor capete ale circuitului in termen de 1 zi calendaristica, având in vedere ca ati solicitat decalarea acestui termen (iar entitatea contractanta a acceptat), la 180 de zile. SC ###### ####### ############## SA răspunde la solicitare, in termenul limita prevăzut, precizând: «Pentru ####-ul replicare Bd. ##### - ##### Giulesti, ###### are deja instalat suportul de transmisie (fibra optica, linie principala si linie secundara), echipamentele sunt in stoc, iar activitățile de instalare a echipamentelor si punerea in funcțiune a serviciilor se pot realiza intr-o zi cu doua echipe care pot lucra in paralel."
+
+Nu in ultimul rand, CNSC a constatat ca punctajul obținut de ###### la factorul de evaluare pe care-l invoca petenta, respectiv la termenul de instalare, nu a fost unul determinant in desemnarea ofertei câștigătoare, cata vreme diferența de punctaj dintre cele doua oferte a fost de 26,5 puncte.
+
+Concluzionând, întreaga pretinsa argumentație a petentei este pe deplin neîntemeiata in toate aspectele invocate ca temeiuri de nelegalitate si netemeinicie ale Deciziei atacate.
+
+In drept, intimata si-a intemeiat apararile pe art. 31 alin. (2) din Legea nr. 101/2016, precum si pe orice alta prevedere legala invocata.
+
+Analizând plângerea, Curtea constată următoarele:
+
+1. Prin Decizia atacata, Consiliul Național de Soluționare a Contestațiilor (in continuare "CNSC"/"Consiliul") a respins ca nefondată contestația formulată de RCS & ### SA, în contradictoriu cu entitatea contractantă C.N. ##### ###### S.A. si, pe cale de consecinta, a admis cererea de intervenție formulată de ###### ####### ############## SA.
+
+2. Conform considerentelor Deciziei atacate, motivele care au fundamentat solutia de respingere a contestatiei, ca nefondata, au fost următoarele:
+
+<<[...] Contestatorul sustine nelegalitatea desemnarii castigatoare a ofertei depuse de ###### ####### ############## SA.
+
+Acesta sustine, ca prim aspect, faptul ca entitatea contractanta, prin răspunsul său la clarificări, a adus modificări substanțiale unui criteriu important de atribuire, fără a publica în SICAP erată referitoare la aceste modificări, astfel cum impun dispozițiile art. 62 din Hotărârea de Guvern nr. 394/2016.
+
+Consiliul retine ca, in cadrul solicitarilor de clarificari adresate de operatorii economici entitatii contractante privind documentatia de atribuire, în data de 16.12.2022, s-a adresat urmatoarea intrebare:
+
+"Vă rugăm să precizați pentru ce tip de servicii se va calcula factorul de evaluare "Termen de instalare", având în vedere următoarele cerințe din caietul de sarcini:
+
+Termene de instalare servicii VPN MPLS
+
+• Toate linkurile din Anexa 1 se vor instala respectând parametrii tehnici SLA din Anexa 2 în termen de maximum 60 de zile calendaristice de la data semnării acordului cadru si a primului contract subsecvent.
+
+b. Serviciul de acces Internet
+
+Termene de instalare
+
+• Toate linkurile se vor instala în termen de maximum 30 de zile calendaristice de la data semnării acordului cadru.
+
+c. Servicii de replicare între data centere
+
+Termene de instalare
+
+• Linkurile corespunzătoare ambelor capete ale circuitului se vor instala în termen de maximum 45 de zile calendaristice de la data semnării acordului cadru."
+
+În răspunsul consolidat 1 din adresa nr. 101.1/5217/22.12.2022, publicat în SICAP în data de 22.12.2022, entitatea contractantă a precizat:
+
+"Factorul de evaluare "Termen de instalare" se referă la termenul de instalare a linkurilor corespunzătoare ambelor capete ale circuitului de replicare între data centere."
+
+Ulterior, entitatea contractantă, a acceptat, în răspunsul consolidat 2 - adresa nr. 101.1/56/09.01.2023, urmare a menținerii avizului pozitiv nr. 973CTE/20.10.2022 din partea Comitetului Tehnico-Economic pentru Societatea Informațională, pentru caietul de sarcini, prelungirea termenelor de instalare a serviciilor (VPN MPLS - 60 de zile calendaristice în caietul de sarcini, acces internet - 30 de zile calendaristice în caietul de sarcini și replicare - 45 de zile calendaristice în caietul de sarcini) la 180 de zile calendaristice:
+
+"In caietul de sarcini, cap. IX, Criteriul de atribuire, în #### de date a achiziției, secțiunea II.2.5 Criterii de atribuire punctajul/algoritmul de calcul pentru factorul de evaluare:
+
+"2. TERMEN DE INSTALARE 15 puncte
+
+Punctajul se acordă astfel:
+
+a) Pentru termen de instalare mai mare de 45 de zile, oferta va fi declarată neconformă;
+
+b) Pentru cel mai mic termen de Instalare se acordă punctajul maxim alocat;
+
+c) Pentru celelalte termene de instalare ofertate punctajul T(n) se calculează proporțional, astfel:
+
+T(n) = (Termen minim ofertat/ T(n)) x punctaj maxim alocat."
+
+devine:
+
+"2. TERMEN DE INSTALARE 15 puncte
+
+Punctajul se acordă astfel:
+
+a) Pentru termen de instalare linkuri corespunzătoare ale ambelor capete ale circuitului (pentru servicii de replicare între data centere) mai mare de 180 de zile, oferta va fi declarată neconformă;
+
+b) Pentru cel mai mic termen de instalare se acordă punctajul maxim alocat;
+
+c) Pentru celelalte termene de instalare ofertate punctajul T(n) se calculează proporțional, astfel:
+
+T(n) = (Termen minim ofertat/ T(n)) x punctaj maxim alocat."
+
+Astfel, Consiliul retine că în data de 22.12.2022, toți operatorii economici au avut confirmarea că factorul de evaluare "Termen de instalare" se referă la termenul de instalare a linkurilor corespunzătoare ambelor capete ale circuitului de replicare între data centere, iar în data de 09.01.2023, au luat la cunostinta de prelungirea termenelor de instalare a serviciilor la 180 de zile calendaristice, orice contestatie cu privire la aceste modificari/precizari putand fi formulata numai in termenul legal de 10 zile, ceea ce, in fapt, nu s-a intamplat, nici rapunsul consolidat 1 - adresa nr. 101.1/5217/22.12.2022, nici răspunsul consolidat 2 - adresa nr. 101.1/56/09.01.2023, nefacand obiectul niciunei contestatii.
+
+Nu au, in aceasta situatie, nicio relevanta, alegatiile contestatorului cu privire la inoportuna inlocuire a unui termen de instalare pentru întreaga soluție cu un factor de evaluare neconcludent pentru un singur serviciu, raspunsurile consolidate nr. 1 si nr. 2 publicate in SEAP de catre entitatea contractanta fiind parte a documentatiei pe care, in absenta vreunei contestatii, aceasta era obligata sa le respecte.
+
+Referitor la sustinerile contestatorului privind faptul ca "oferta ###### nu corespunde din punct de vedere tehnic, este neserioasă și nerealistă, iar operatorul economic nu va putea obiectiv să asigure termenul de instalare de o zi ofertat", Consiliul consta ca entitatea contractantă a solicitat SC ###### ####### ############## SA "explicații/detaliere, eventual cu documente doveditoare, privind respectarea reală a termenului de instalare a linkurilor corespunzătoare ambelor capete ale circuitului în termen de 1 zi calendaristica, având în vedere că, ați solicitat decalarea acestui termen (iar entitatea contractantă a acceptat), la 180 de zile."
+
+SC ###### ####### ############## SA răspunde la solicitare, în termenul limită prevăzut, precizând:
+
+"Pentru ####-ul Replicare Bd ##### - ##### Glulești, ###### are deja instalat suportul de transmisie (fibra optică, linie principală și linie secundară), echipamentele sunt în stoc, iar activitățile de instalare a echipamentelor și punere în funcțiune a serviciilor se pot realiza într-o zi cu două echipe care vor lucra în paralel.
+
+Solicitarea pentru extinderea perioadei de instalare și punere în funcțiune a serviciilor a fost adresată pentru toate locațiile din documentația de atribuire. Precizăm că pentru aproximativ 66% dintre cele 1580 locații termenul pentru proiectare, obținerea autorizațiilor și avizelor necesare realizării lucrărilor și instalare va fi de aproximativ 150 de zile."
+
+Intrucat dovada susținerilor ofertantului SC ###### ####### ############## SA se regaseste, în materialitatea ei, chiar la locul destinat pentru instalare, Consiliul apreciaza ca raspunsul acestuia a fost, in mod corect, apreciat drept concludent de catre entitatea contractanta.
+
+Mai mult decat atat, Consiliul retine si faptul ca punctajul obtinut de SC ###### ####### ############## SA la factorul de evaluare TERMEN DE INSTALARE, adica 15 puncte fata de 0,33 puncte obtinute de ofertantul RCS & ### SA, nu a fost determinant in desemnarea ofertei castigatoare deoarece diferenta de punctaj intre cele doua oferte a fost de 26,5 puncte.
+
+In ceea ce priveste sustinerea contestatorului privind faptul ca "oferta ###### ar fi neconformă, ca urmare a depunerii unei propuneri tehnice neconforme (switch-ul ##### 2960 nu se mai produce din 2013 și nu poate asigura protocolul FiberChannel over IP)", acesta noua critica nu a existat in contestatie, a fost formulata prin concluziile scrise, motiv pentru care aceasta este apreciata ca fiind inadmisibila de catre Consiliu, potrivit prevederilor art. 21 alin (3) din Legea nr. 101/2016:
+
+"Art. 21 (3) #### inadmisibilă prezentarea unor noi motive de contestare și/sau formularea unor noi capete de cerere pe calea concluziilor scrise sau orale ori a precizărilor la contestație ulterior termenului legal de formulare a acesteia".
+
+În consecință, luând în considerare cele mai sus menționate, în temeiul prevederilor art. 26 alin. (6) din Legea nr. 101/2016, Consiliul va respinge ca nefondată contestația formulată de RCS & ### SA în contradictoriu cu entitatea contractantă C.N. ##### ###### S.A. [...]>>
+
+3. Soluția de respingere a contestatiei petentei, astfel motivată, este temeinică și legală, prin raportare la criticile din plangerea dedusa judecatii.
+
+4. Spre acest sfarsit, mai intai, criticile petentei privind nelegalitatea Deciziei atacate, sub aspectul încălcarii prevederilor art. 27 alin. (5) lit. b) din Legea 101/2016, nu pot fi primite, deoarece:
+
+(i) pe de o parte, argumentația petentei pornește de la premisa falsă că CNSC ar fi respins contestatia în temeiul unei excepții neprecizate, aspect care ar atrage nelegalitatea Deciziei pentru lipsa motivării;
+
+(ii) conform normei invocata de petentă, mai sus indicata, Consiliul are posibilitatea de a respinge contestația pe fond sau prin admiterea unor excepții de procedură ori de fond; așadar, legea stabilește, fără echivoc, dubla competență a Consiliului: soluționarea pe fondul cauzei sau respingerea acesteia în baza unor vicii procedurale care împiedică analiza propriu-zisă;
+
+(iii) contrar susținerilor petentei, care pretinde în mod greșit că CNSC ar fi trebuit să identifice o excepție procesuală, Consiliul a soluționat cauza prin analizarea fondului contestatiei; eroarea de interpretare a petentei e confirmata de conținutul Deciziei, care demonstrează că respingerea contestației s-a făcut în urma examinării argumentelor de fond, nu în baza unei excepții;
+
+(iv) pe de alta parte, sustinerile petentei in sensul ca Decizia atacata este insuficient/ inadecvat motivată, intrucat Consiliul nu a explicat clar de ce au fost înlăturate argumentele detaliate din cuprinsul contestatiei cu privire la neregulile procedurii, este incorecta; analiza comparativa a continutului contestatiei petentei si a considerentelor Deciziei atacate, mai sus redate, releva că Decizia in discutie a fost motivată corespunzător;
+
+(v) astfel, Consiliul era obligat să analizeze și să răspundă doar criticilor privind Rezultatul procedurii, singurul act pentru care petenta mai era în termenul legal de contestare; celelalte nemulțumiri vizau acte procedurale pentru care dreptul de a contesta fusese deja pierdut, motiv pentru care Consiliul nu avea obligația de a se pronunța asupra lor;
+
+(vi) in fine, contrar sustinerilor petentei, argumentul Consiliului, care a reținut, in esenta, că dovezile invocate de ###### sunt confirmate de situația din teren, reprezintă o motivare adecvată a actului administrativ.
+
+5. Apoi, nici criticile petentei privind netemeinicia Deciziei atacate, sub aspectul gresitei abordari a faptului ca a avut acces limitat la dosarul achiziției, nu pot fi primite, deoarece:
+
+(i) analiza comparativa a contestatiei si a concluziilor scrise formulate de catre petenta releva ca nerespectarea cerințelor din documentația de atribuire nu a făcut obiectul contestației, fiind o critică nouă, formulată prin concluziile scrise;
+
+(ii) contrar celor afirmate de petentă, argumentul ca "oferta ###### ar fi neconformă, ca urmare a depunerii unei propuneri tehnice neconforme (switch-ul ##### 2960 nu se mai produce din 2013 și nu poate asigura protocolul FiberChannel over IP)" a apărut direct în concluziile scrise, cum corect a observat Consiliul, iar elementele criticate nu se regăseau în documentele confidențiale la care petenta pretinde că nu a avut acces.
+
+6. Mai departe, nefondate sunt si criticile petentei privind netemeinicia Deciziei atacate, din perspectiva gresitei solutionari a motivelor din contestatie vizand neconformitatea ofertei tehnice a ######, sub aspectul termenului de instalare de o zi, respectiv nerespectarea de catre Autoritatea contractanta a obligației de a solicita explicații cu privire la echipamentele ofertate, deoarece:
+
+(i) Consiliul a respins in mod judicios argumentatia vadit nefondata a petentei, retinand că autoritatea contractantă nu avea de ce să solicite dovezi privind instalarea fibrei optice de către ######, in conditiile in care autoritatea a fost client al ######, iar rețelele existau la fața locului; din moment ce infrastructura ###### era deja instalată fizic la destinație, Consiliul a stabilit corect că răspunsul ofertantului a fost concludent;
+
+(ii) in acest sens, contrar celor susținute de petentă, autoritatea contractantă a emis solicitarea de clarificări nr. 101.1/436/03.02.2023, la care ###### a transmis raspunsul nr. ______/ OROC/TM/ICT/______, prin care, la solicitarea nr. 5, precizeaza ca: "Pentru ####-ul Replicare Bdul ##### - ##### Giulești, ###### are deja instalat suportul de transmisie (fibră optică linie principală și linie secundară), echipamentele sunt în stoc, iar activitatea de instalare a echipamentelor și punere în funcțiune a serviciilor se pot realiza într-o zi cu doua echipe care vor lucra în paralel";
+
+(iii) din coroborarea acestui răspuns cu datele privind etapele și timpii necesari instalării soluției solicitate, furnizate chiar de catre petentă, prin plangerea formulata, rezultă că execuția se încadrează în termenul de o zi; cele 20 de ore alocate punctelor 2-8 din tabelul prezentat de petenta confirmă posibilitatea încadrării în termen, iar intervalul de 24 de ore pentru pregătirea traseului este exclus din calcul, dat fiind că ###### dispune deja de fibra optică necesară.
+
+(iv) in fine, Consiliul a valorificat cu acribie faptul că factorul privind termenul de instalare nu a fost decisiv în alegerea câștigătorului, deoarece ecartul de 26,5 puncte dintre oferte depășea cu mult valoarea punctajului contestat.
+
+*******
+
+#### de motivele mai sus expuse, facand aplicarea principiului accesorium sequitur principale in ceea ce priveste capatul de cerere privind suspendarea încheierii contractului, în temeiul art. 34 alin. 5 din Legea nr. 101/2016, Curtea urmeaza a respinge plângerea analizată, ca nefondată.
+
+PENTRU ACESTE MOTIVE
+
+ÎN NUMELE LEGII
+
+DECIDE:
+
+Respinge plângerea formulată de petenta RCS & ### S.A., persoană juridică română, cu sediul social în București, str. Dr. N. ########## nr. 75, Forum 2000 Building, sector 5, având codul unic de identificare fiscală [CUI], număr de înregistrare la Registrul Comerțului J40###########, în contradictoriu cu C.N. ##### ###### S.A., cu adresa în ###### ###### ### ###, Bucuresti, sector 2, cod poștal ______, înregistrată la Registrul Comerțului nr. J40##########, având cod unic de înregistrare RO ______ și cu intimata ###### ####### ############## S.A., cu sediul în București, sector 1, ##### ######### nr. 35, #######, având ### ######, înmatriculată la Registrul Comerțului sub nr. J40##########, ca nefondată.
+
+Definitivă.
+
+Pronunțată prin punerea soluției la dispoziția părților, prin mijlocirea grefei instanței, azi, 07.06.2023.
+
+PREȘEDINTE JUDECĂTOR JUDECĂTOR
+
+###### ##### ######-######### ####### ##### ####### ######
+
+GREFIER
+
+#####-##### ######
+
+Red. ######### ######./.....06.2023
+
+2+3 exemplare
+
+Comunicat ……………….
+
+Sursa www.rejust.ro Cod RJ: 3g9e78889
+

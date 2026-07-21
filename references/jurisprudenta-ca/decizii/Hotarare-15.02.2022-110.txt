@@ -1,0 +1,932 @@
+Decizie nr. 110/2022 din 15-feb-2022, Curtea de Apel Bacau, litigiu privind achizitiile publice (Contencios administrativ si fiscal)
+
+Decizie
+
+din 15 Februarie 2022 
+
+110/2022
+
+Text speță
+
+Societate comercială vs Societate comercială
+
+Cod ECLI ECLI:RO:CABAC:2022:011.______
+
+Operator de date cu caracter personal nr. 3666.
+
+R O M Â N I A
+
+CURTEA DE APEL BACĂU
+
+SECȚIA A II-A CIVILĂ, DE C_________ ADMINISTRATIV ȘI FISCAL
+
+Dosar nr. __________ DECIZIE Nr. 110/2022
+
+Ședința publică de la 15 Februarie 2022
+
+Completul constituit din:
+
+PREȘEDINTE - C______ Ș_____
+
+Judecător - C_______ M_______ R___
+
+Judecător - A_______ C_____
+
+Grefier - F________ B____
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+Pe rol fiind pronunțarea asupra plângerii în materia achizițiilor publice, formulată de petenta [OPERATOR ECONOMIC] împotriva Deciziei Consiliului N_______ de Soluționare a Contestațiilor nr.4/C3/3209/03.01.2022, în contradictoriu cu intimata-autoritate contractantă A________ de Dezvoltare Intercomunitară „ECONEAMȚ", având ca obiect litigiu privind achizițiile publice.
+
+Dezbaterile au avut loc în ședința publică din data de 10 februarie 2022, fiind consemnate în încheierea de ședință de la acea dată ce face parte integrantă din prezenta decizie.
+
+C U R T E A
+
+-deliberând-
+
+Asupra plângerii de față constată următoarele:
+
+Prin decizia CNSC nr. 4/C3/3200/3.01.2022 a fost admisă în parte plângerea formulată de [OPERATOR ECONOMIC] Cluj N_____ în contradictoriu cu A________ DE DEZVOLTARE INTERCOMUNITARĂ „ECONEAMȚ" și fiind obligată autoritatea contractantă la luarea următoarelor măsuri privind documentația de atribuire a contractului de „Delegare prin concesiune a gestiunii unor activități componente ale serviciului de salubrizare al unităților administrativ-teritoriale membre ale Asociației de Dezvoltare Intercomunitară ECONEAMȚ din Zona 1, județul N____":
+
+- actualizarea caietului de sarcini și a studiului de oportunitate cu legislația aplicabilă obiectului contractului, de la acest moment;
+
+- corectarea tarifului maximal pentru agenții economici, de la 486,41 lei/tonă, la 498,49 lei/tonă;
+
+- actualizarea Informațiilor privind prognoza pragului de suportabilitate al populației cu datele aferente anului 2020; în situația în care informațiile ar avea influențe asupra tarifelor maxime, achizitorul va proceda la redimensionarea lor;
+
+- breviarul de calcul;
+
+- utilizarea doar a sacilor de 60 L;
+
+- modul de elaborare a Manualului de operare și întreținere;
+
+- art. 29 alin. 3 și 4 din caietul de sarcini, respectiv clarificarea adusă prin punctul de vedere, referitoare la operațiunile de revizie/reparații;
+
+- un minim de caracteristici tehnice pentru tocător;
+
+- specificarea ca presa de balotat să beneficieze de o garanția de producător de 2 ani;
+
+- clarificarea modului de ofertare, din caietul de sarcini, cu Tc urban;
+
+- reformularea riscului nr. 3 din Matricea riscurilor;
+
+- completarea formularului 8.4 cu mențiuni referitoare la antecontracte de vânzare/cumpărare, promisiuni de vânzare etc.
+
+Pentru a pronunța decizia contestată CNSC a reținut următoarele:
+
+Entitatea contractantă A________ DE DEZVOLTARE INTERCOMUNITARĂ „ECONEAMȚ" a Inițiat la 28.11.2021 o licitație deschisă, în vederea atribuirii contractului de „Delegare prin concesiune a gestiunii unor activități componente ale serviciului de salubrizare al unităților administrativ-teritoriale membre ale Asociației de Dezvoltare Intercomunitară ECONEAMȚ din Zona 1, județul N____", prin publicarea în SEAP a anunțului de concesionare nr. PC1Q01810 și a documentației de atribuire.
+
+Contestatorul a solicitat, în principal, anularea procedurii, pentru următoarele motive:
+
+decizia de concesionare nu a fost motivată;
+
+procedura de atribuire a fost organizată și desfășurată pe baza unui număr semnificativ de acte normative abrogate.
+
+procedura discriminează operatorul din zona 1 de operatorii din zonele 2-4 ale județului N____;
+
+în procedură nu se respectă principiul "plătește pentru cât arunci";
+
+se cer ofertanților o ________ investiții care, în mod nelegal, nu beneficiază de regimul juridic al investițiilor.
+
+În subsidiar, contestatorul a solicitat remedierea documentației de atribuire, sub aspectul:
+
+A. motivelor invocate pentru anularea procedurii (lit. a-d, antemenționate);
+
+B. motivelor majore de nelegalitate a procedurii de atribuire ce impun remedieri (lit. a-d).
+
+C. aspecte lipsă, greșite sau vagi din documentația de atribuire, cuimpact asupra posibilității ofertanților de întocmire corectă și completă a propunerilor tehnice și/sau financiare (enumerate de la lit. a-q).
+
+Privitor la criticile invocate pentru anularea procedurii (lit. a-e).
+
+a. Decizia de concesionare nu a fost motivată, întrucât nu ar fi fost estimată valoarea pagubei potențiale pe care operatorul poate să o suporte ca urmare a transferului în sarcina acestuia a riscurilor semnificative de operare.
+
+Legiuitorul a arătat că definirea și cuantificarea riscurilor se poate realiza prin Intermediul matricei riscurilor.
+
+În documentația de atribuire, la cap. 3 din Secțiunea 7 - Studiul de oportunitate pag.160-173) sunt incluse următoarele subcapitole: 3.1 Analiza opțiunilor de delegare a activității de colectare si transport a deșeurilor, 3.2. Analiza opțiunilor privind delegatarul Contractului; 3.3. Modalitatea de atribuire a Contractului de delegare; 3.4. Matricea riscurilor 3.5. Opțiuni privind modalitatea de atribuire a contractului de delegare.
+
+Legiuitorul nu impune ca în documentația de atribuire să fie cuantificate/stabilite valoric pierderile potențiale pe care le-ar suporta concesionarul. Aceste pierderi se pot regăsi sub formă abstractă, prin identificarea riscurilor generate de derularea contractului.
+
+Pe cale de consecință, Consiliul a respins critica pentru netemeinicia ei.
+
+Procedura de atribuire a fost organizată și desfășurată pe baza unui număr semnificativ de acte normative abrogate.
+
+Văzând că, în caietul de sarcini - Legi, standarde și linii directoare (pag. 54-55) și studiul de oportunitate/subcap. 1.8 C_____ legal (la care face referire contestatorul), sunt incluse și acte normative abrogate, Consiliul a obligat entitatea contractantă la actualizare acestor secțiuni, cu legislația aplicabilă obiectului contractului, de la acest moment.
+
+Cererea de constatare a nulității documentației, a fost apreciată ca neîntemeiată, întrucât reclamantul, în afara listelor din cele două documente, nu a identificat reguli sau alte secțiuni ale documentației de atribuire care ar fi afectate de aplicarea vreunui act normativ abrogat.
+
+Procedura discriminează operatorul din zona 1 față de operatorii din zonele 2-4 ale județului N____.
+
+Contestatorul, în critica sa, nu face referire nici la încălcarea vreunei reguli din Legea nr. 100/2016, dar nici la vătămarea pe care ar putea să o sufere din cauza tarifelor impuse. Mai mult decât atât, deși entitatea contractantă, în punctul de vedere, arată existența diferitelor categorii de tarife (pe care reclamantul nu le-a prezentat în susținerea criticii sale și sunt mai mici decât cele din actuala procedură), contestatorul nu formulează nicio apărare, nici în concluziile scrise.
+
+Simpla comparare a tarifelor practicate în diferite zone nu poate fi considerată o abatere de la legislația aplicabila procedurii de concesionare a serviciilor de salubrizare, dacă nu sunt luate în considerare toate elementele care compun acest tarif, riscurile asociate prestării serviciilor în zona respectivă, durata concesiunii, veniturile și cheltuielile estimate etc.
+
+Astfel, în lipsa unei motivări pertinente, care să releve încălcarea, cel puțin a Legii nr. 100/2016, Consiliul a apreciat a fi neîntemeiată această critică.
+
+în procedură nu se respectă principiul „plătește pentru cât arunci"
+
+OUG nr. 92/2021 privind regimul deșeurilor definește, la pct. 21 din anexa nr. 1, conceptul plătești pentru cât arunci - instrument economic care are drept scop creșterea ratei de reutilizare, reciclare și reducere a cantității de deșeuri la depozitare prin stimularea colectării separate a deșeurilor.
+
+La art. 17 alin. (5) din ordonanța amintită, legiuitorul a permisentităților contractante să aleagă modul de implementate a acestui concept: Autoritățile administrației publice locale ale unităților administrativ-teritoriale sau, după caz, subdiviziunile administrativ- teritoriale ale municipiilor, respectiv asociațiile de dezvoltare intercomunitară ale acestora, după caz, au următoarele obligații:
+
+(...) h) să implementeze, cu respectarea prevederilor Ordonanței Guvernului nr.21/1992 privind protecția consumatorilor, republicată, cu modificările și completările ulterioare, instrumentul economic 'plătește pentru cât arunci", bazat pe unul sau mai multe dintre următoarele elemente:
+
+(I) volum;
+
+(II) frecvență de colectare;
+
+(III) greutate;
+
+(IV)saci de colectare personalizați.
+
+Entitatea contractantă a transpus această prevedere în documentațiade atribuire prin dimensionarea cantității de deșeuri care va fi ridicată dela populație, respectiv stabilirea necesarului de saci de plastic de 60 de litri și depubele, pe categorii de deșeuri (secțiunea 2.6.1.1. Investiții in echipamente de colectare deșeuri: containere, pubele și saci din plastic), precum și a frecvenței de colectare a sacilor de deșeuri (anexa 15 a Studiului de oportunitate - Graficul/frecvența de colectare a deșeurilor Zona 1 2022-2031 - Serviciul regulat de colectare}. De asemenea, a impus ca prestatorulsă aibă posibilitatea de cântărire a deșeurilor preluate. Aceste prevederi seregăsesc, cel puțin, în Documentația de atribuire, la pag. 80:
+
+a) Implementarea instrumentului economic „plătește pentru cât arunci"
+
+Legea nr. 211/2011 privind regimul deșeurilor a suferit in cursul anului 2018 modificări importante prin adoptarea O.U.G. nr. 74/2018. In ianuarie 2019, aceasta a fost aprobată prin Legea nr. 31/2019.
+
+Una din modificările importante aduse este aceea a obligativitățiiautorităților administrației publice locale de a implementa începând cu 1 ianuarie 2019, dar nu mai târziu de 30 iunie 2019, instrumentul economic „plătește pentru cât arunci", pe baza unei varietăți de elemente: volum, frecvență de colectare, greutate, saci de colectare personalizați.
+
+În prezentul Studiu, s-a considerat implementarea acestui sistem prin elementul greutate, respectiv prin cântărirea deșeurilor ridicate și tarifarea generatorului pe baza cantității de deșeuri generate și prin introducerea precolectării în saci de colectare personalizați, în mediul urban, fiind modificată și frecvența de colectare actuală.
+
+Această abordare va impune în documentația de atribuire pentru delegarea serviciului de colectare și transport, ca viitorul operator să-și doteze toate mașinile folosite în colectarea tuturor categoriilor de deșeuri, cel puțin în varianta standard cu sisteme de cântărire și emitere a unui bon de cântar, respectiv sa achiziționeze si sa distribuie către populație sacipersonalizați pentru recolectarea diferitelor fracții de deșeuri în mediul urban iar în varianta optimizată mașinile să fie echipate cu sistem de citire RFID a cipurilor și etichetelor tip cod bare cu care vor fi dotați recipienții de precolectare - containere, pubele, saci din plastic.
+
+În consecință, Consiliul a constatat neîntemeiată critica privind nerespectarea principiului "plătește pentru cât arunci".
+
+(e) Se cer ofertanților o ________ investiții care, în mod nelegal, nu beneficiază de regimul juridic al investițiilor.
+
+Contestatorul solicită obligarea entității contractante la refacerea listei cu investițiile, cu indicarea complet și clar a investițiile solicitate, care este costul estimat, pentru ce sunt necesare și care este modalitatea de recuperare prin tarife a acestora, precum și la modificarea duratei contractului.
+
+Consiliul a apreciat netemeinice aceste cereri, deoarece lista cu investițiile pe care trebuie să le realizeze concesionarul este prevăzută în Studiul de oportunitate/secțiunea 2.6.3. Centralizator cheltuieli de investiții, cu 3 categorii de Investiții, costul estimat pentru fiecare și durata de amortizare (10 ani).
+
+Potrivit art. 16 alin. (2) din Legea nr. 100/2016 : Pentru concesiunile de lucrări sau concesiunile de servicii a căror durată estimată este mai mare de 5 ani, durata maximă a concesiunii nu poate depăși timpul estimat în mod rezonabil necesar concesionarului pentru a obține un venit minim care sa permită recuperarea costurilor investițiilor efectuate, a costurilor în legătură cu exploatarea lucrărilor sau a serviciilor, precum și a unui profitrezonabil.
+
+Astfel, durata concesiuni este stabilită la nivelul duratei în care se vor amortiza investițiile respective.
+
+În concluzie, elementele pretins a lipsi pentru justificarea modificării duratei contractului se regăsesc în cuprinsul documentației de atribuire. D____ urmare, Consiliul a respins ca netemeinică și critica referitoare la durata concesiunii.
+
+Cât privește susținerea contestatorului că (prin studiul de oportunitate) operatorul ar fi obligat să facă alte investiții decât cele stabilite la secțiunea 2.6.3, aceasta este extrasă din contextul de la pag. 141 a studiul de oportunitate, unde se prevăd următoarele, referitor lainvestițiile deja existente: (...) Conform datelor prezentate, pentru utilajele si echipamentele pentru manipularea/transportul deșeurilor, care mai au doar 8 luni din perioada normala de funcționare, inclusiv pentru încărcătorul frontal - cu perioada de funcționare expirata, Operatorul delegat poate face investiții pentru menținerea parametrilor tehnici defuncționare si siguranța cheltuieli care, conform prevederii cap. III.2 din Catalog, sunt cheltuieli care. se fac la mijloacele fixe ce au ca scop restabilirea stării inițiale, considerate cheltuieli de reparații.
+
+Textul amintit nu se referă la investiții prin care utilajele existente săfie readuse la starea inițială (cum motivează contestatorul), ci ia cheltuielipentru menținerea parametrilor tehnici de funcționare și siguranță.
+
+Văzând că nu sunt motive de anulare a procedurii de atribuire, pe baza criticilor de la lit. a-e, antemenționate, Consiliul a respins, ca nefondata, cererea.
+
+Privitor la criticile privind motivele majore de nelegalitate a Procedurii de Atribuire ce impun remedieri
+
+Nelegalitatea redevenței contractuale
+
+Contestatorul solicită: (i) obligarea entității contractante la eliminarea cerinței privind redevența, Iar dacă cererea sa va fi respinsă, (ii) obligarea achizitorului la recalcularea redevenței, prin raportare la valoarea de amortizare, în următorii 10 ani, a bunurilor concesionate și a gradului de suportabilitate al populației.
+
+În susținerea primei critici, reclamantul face aprecieri generale, fără a le proba/dovedi, lipsind din contestație date concrete (cum ar fi, raportat la motivările sale, costuri pentru stațiile de la Piatra N____ și R_____, costuri efective care ar fi generate de serviciul de salubrizare).
+
+Opiniile personale, lipsite de dovezi și justificări ale contestatorului, nu pot înlocui studiul de fundamentare/oportunitate și matricea preliminară de repartiție a riscurilor de proiect, emise de entitatea contractantă în precedent, care motivează introducerea redevenței în contract.
+
+D____ urmare, nefiind probată o disproporție între dreptul de a primi redevența și obligațiile contractuale/riscurile concesionarului, solicitarea de eliminare a redevenței se dovedește a fi neîntemeiată.
+
+Consiliul consideră a fi netemeinică și cererea de recalculare a redevenței, pentru argumentele ce urmează.
+
+În stabilirea redevenței, părțile în dispută au ținut cont de dispozițiileart. 29 alin. (11) Legea nr. 51/2006 : (...) m) nivelul redevenței sau al altorobligații, după caz; la stabilirea nivelului redevenței. entitatea publică localăva lua în considerare valoarea calculată similar amortizării pentrumijloacele fixe aflate în proprietate publică și puse ia dispoziție operatoruluiodată cu încredințarea serviciului/activității de utilități publice și gradul desuportabilitate al populației. Nivelul redevenței se stabilește in mod transparent și nediscriminatoriu pentru toți potențialii operatori de servicii de utilități publice, utilizându-se aceeași metodologie de calcul.
+
+Însă, criticile sunt asupra modului de aplicare a acestei prevederi, contestatorul susținând, printre altele, că:
+
+A__ a calculat valoarea de inventar a bunurilor de la stațiile Piatra N____ și R_____ (valoarea de nou); punctele de colectare din Municipiul [localitate] N____ (avute în vederela calculul redevenței) nu sunt supuse amortizării (acele bunuri care facparte din domeniul public nu sunt amortizabile).
+
+Prin art. 29, mai sus amintit, legiuitorul a arătat modul de calculare a redevenței, care este similar amortizării pentru mijloacele fixe. Astfel, redevența se va stabili luând în considerare valoarea bunurilor și numărul de ani necesari derulării contractului de concesiune. Faptul că anumite bunuri nu sunt amortizabile, nu înseamnă că în redevența nu poate ficuprinsă parte din valoarea lor.
+
+Redevența a fost stabilită similar amortizării (pe 10 ani - a valorii bunurilor de retur puse ia dispoziția viitorului operator), nu valoarea neamortizată a bunurilor, cum susține contestatorul.
+
+Contestatorul, prin susținerile sale arată că redevența este compusă din cheltuiala cu amortizarea bunurilor de retur (dar cu luarea în considerare a gradului de suportabilitate a populației), fără a se ține seama de cele neamortizabile ori amortizabile.
+
+Potrivit art. 1 din Legea nr. 15/1994 privind amortizarea capitalului imobilizat în active corporale și necorporale: Unitățile care desfășoară activități economice, denumite în continuare agenți economici, și care imobilizează capital în active corporale si necorporale supuse deprecierii, prin utilizare sau în timp vor calcula, vor înregistra în contabilitate și vorrecupera uzura fizică si morală a acestora, pentru refacerea capitalului angajat. Aceste operațiuni sunt denumite generic, amortizarea capitalului Imobilizat.
+
+Calcularea redevenței, similar modului de stabilire a amortizării, are rolul de a permite proprietarului bunurilor să recupereze, eșalonat, parte din cheltuielile realizate cu obținerea acelor bunuri.
+
+Pe de altă parte, deși, prin concluzii scrise, contestatorul evidențiazăcă nu este relevant de unde a obținut A__ datele și nici faptul că calculele aferente redevenței au fost în prealabil aprobate de UAT [localitate] N____ - și UAT R_____, dacă acestea sunt reșite, Consiliul observă că, în motivarea din contestație, acesta a apelat la aceleași valori ale bunurilor (de exemplu, a se vedea valorile bunurilor care au codurile de inventar 8107 și 8126). Diferența dintre modul de calcul aplicat de părți constă în faptul că entitateacontractantă a luat în considerare valoarea din contabilitate a mijlocului fix, iar contestatorul a preciat că trebuie raportată la o perioadă de amortizare. Așadar, și sub acest aspect al presupusei calculări/înregistrări greșite a valorilor mijloacelor fixe, în contabilitatea UAT-urilor), se dovedește a fi netemeinică solicitarea contestatorului de recalculare a redevenței.
+
+Entitatea Contractantă a desemnat, în mod nelegal, toți funcționarii din cadrul A__ drept „persoane cu funcție de decizie în procedură;
+
+În susținerea acestei critici, contestatorul nu arată prevederea legală încălcată, ci doar prezintă supoziții și expuneri generale, fără elemente concrete/probe (... întrucât efectul numirii unei persoane pe această listă are ca potențial efect generarea unui conflict de interese, cu consecința imposibilității unul anumit operator economic să participe la procedură, persoanele ce nu au legătură efectivă cu procedura și nu o pot influența, nu pot fi trecute pe această listă, în caz contrar se generează un risc delimitare nejustificată a operatorilor economici la procedură). Contestatorul nu identifică nici persoana din cadrul A__ care nu ar avea o funcție de decizie în prezenta procedură, dar nici operatorul economic aflat în imposibilitate de participare, din cauza unui aparent conflict de interese, creat de lista respectivă.
+
+Pe de altă parte, contestatorul nu arată vătămarea ce i se aduce de lista respectivă. D____ pentru care, o astfel de critică se dovedește a fi neîntemeiată.
+
+Documentația de atribuire impune tarife maximale (neindexabile) pentru agenți economia, fără justificare
+
+Referitor la existența a două tarife maximale pentru agenții economici, entitatea contractantă confirmă, în punctul de vedere, a fi corectă valoarea de 498,49 lei/tonă, fără TVA, stabilită în studiul de oportunitate.
+
+Contestatorul susține că entitatea contractantă nu a justificat impunerea unor tarife maximale, iar prin concluziile scrise consideră că stabilirea unui plafon maximal arbitrar este nelegală. însă, în dovedire, nu arată dispozițiile legale încălcate. De asemenea, contestatorul consideră că tarifele maximale nu pot fi ajustate.
+
+Aceste aprecieri ale reclamantului nu pot fi validate de Consiliu,întrucât nu există niciun act normativ care sa interzică stabilirea unor tarifemaximale, dar nici care să impună justificarea acestora. Din contră, entitatea contractantă a respectat regulile stabilite de finanțator - MFE, prin circulara nr. _____/2020.
+
+Trebuie remarcat faptul că, deși contestatorul susține că circulara MFE nu are calitatea de act normativ (deci nu ar trebui luată în considerare), totuși, la alte critici (a se vedea punctul următor analizat de Consiliu), arată că nu au fost respectare prevederile acestei circulare. Astfel, acceptarea circularei ca reguli/bune practici, în lipsa unor prevederi legale relevă că, și sub acest aspect (maximizarea tarifelor nu s-ar putea baza pe circularaMFE), critica este neîntemeiată.
+
+Cât privește aprecierea contestatorului că tarifele maximale nu pot fi majorate, aceasta este neîntemeiată, deoarece în fișa de date a achiziției/secțiunea II.3, s-a prevăzut posibilitatea de ajustare a prețului: Prevederi similare se regăsesc în Secțiunea 4 Clauze contractuale; Secțiunea 5 Regulamentul serviciului public de salubrizare a localităților dmJudețul N____
+
+Așadar, documentația de atribuire a fost elaborată cu respectarea circularei MFE (invocată de contestator), în care se regăsesc următoarele reguli: Planul tarifar anexat la contractul de finanțare poate fi actualizat în conformitate cu valorile actualizate ale datelor pe baza cărora au fost calculate tarifele maxime de salubrizare pentru beneficiarii casnici șibeneficiarii non-casnici la momentul pregătirii aplicației de finanțare și cu prevederile legislative cu incidență asupra calculului tarifelor de salubrizare. (...)
+
+Gradul de suportabilitate al populației a fost stabilit pe bază de date statistice ce nu sunt valabile la data publicării anunțului de concesionare.
+
+Contestatorul arată că entitatea contractantă a luat în calcul informațiile aferente anului 2018, deși avea la dispoziție pe cele aferente anului 2020.
+
+Consiliul reține că în Studiul de oportunitate (pag. 112) s-a stabilit Prognoza pragului de suportabilitate ai populației 2022 - 2031, pe medii de rezidenta.
+
+Determinări conform Circulara MFE nr. _____/03.06.2020 și anexa privind modificări ale proiectelor privind sistemele de management integrat al deșeurilor în vederea asigurării conformării sistemelor cu noile modificări legislative aplicabile, care stipulează faptul ca planul tarifar se poate actualiza în mod justificat cu respectarea principiilor politicii tarifare din aplicația de finanțare, după avizarea justificărilor de către AM.
+
+Tabelar, entitatea contractantă a prezentat indicatori macroeconomici, pentru perioada 2022-2031.
+
+Deși informațiile din studiul de oportunitate se bazează pe informațiile din machetele anexate Circularei MFE nr. _____/03.06.2020, achizitorul nu a ținut cont de Reguli de completare: Se va verifica valabilitatea statisticilor prevăzute în sheet-ul "Statistici". Sursa acestor statistici se regăsește în sheet-ul "Statistici" rândul 44. În situația în care datele statistice nu corespund cu datele statistice și prognozele cefe mai recente comunicatede INS și CNP, se va proceda la actualizarea acestor date aferente județului.
+
+În punctul de vedere, entitatea contractantă se apără doar cu utilizarea machetei de la MFE, fără să confirme/infirme ne/verificarea valabilității datelor statistice.
+
+Întrucât informațiile din Studiul de oportunitate trebuie să cuprindă cele mai recente date comunicate de INS și CNP, Consiliul va obliga entitatea contractantă la actualizarea informațiilor privind Prognoza pragului de suportabilitate al populației cu datele aferente anului 2020.
+
+Iar în situația în care noile informații ar avea influențe asupra tarifelor maxime,achizitorul va interveni și asupra acestora.
+
+Referitor la secțiunea criticile privind aspecte lipsă, greșite sau vagi din documentația de atribuire, cu impact asupra posibilității ofertanților de întocmire corectă și completă a propunerilor tehnice și/sau financiare.
+
+O parte din activitățile impuse de Documentația de atribuire nu sunt descrise de Caietul de Sarcini
+
+Privitor la critica adusă neindicării fluxului tehnologic de operare și a randamentul fiecărei instalații, Consiliul constată netemeinicia ei, având în vedere că reclamantul nu indică prevederile ce ar fi impus în sarcina achizitorului o astfel de obligații.
+
+Netemeinică este și critica de neprezentare a tuturor fișelor tehnice,deoarece contestatorul nu indică instalațiile pentru care apreciază că ar mai fi necesare informații.
+
+Referitor la solicitarea de introducere a unor cerințe minimale pentru ofertanți referitoare la elaborarea ofertei tehnice și financiare, contestatorul nu arată, nici în ce sens, cum ar trebui să fie adoptată remedierea, dar nici eventuala normă încălcată. Simpla cerere de adoptare a unor măsuri nespecificate nu poate fi apreciată ca temeinică de Consiliu.
+
+Relativ la lipsa estimărilor cantităților, pentru activitățile menționate în contestație, Consiliul reține ca achizitorul arată că se regăsesc în Breviarul de calcul, anexat punctului de vedere. în consecință, Consiliul a obligat entitatea contractantă la publicare în SEAP a acestui document, ca parte a documentației de atribuire.
+
+Datele statistice privind cantitățile de deșeuri furnizate in Caietul de sarcini nu sunt actualizate
+
+Contestatorul solicită actualizarea informațiilor din documentația de atribuire pe baza chestionarului MUN 2020, întrucât cele din caietul de sarcini aparțin MUN 2018.
+
+Consiliul ia act de faptul că, la elaborarea documentației de atribuire, entitatea contractantă a ținut cont de datele cuprinse în Avizul de Mediu pentru Planul Județean de Gestionare a Deșeurilor N____, 2019-2025, emis de ANPM, în 2021. Responsabilitatea determinării cantităților de deșeuri prognozate fiind a ANPM, entitatea contractantă are obligația luării lor în considerare.
+
+Pe de altă parte, contestatorul nu arată impedimentele de ofertare care ar fi generate de cantitățile prognozate, existente în caietul de sarcini. Astfel, sub acest aspect, critica se dovedește a fi neîntemeiată.
+
+Clarificarea destinatarilor tarifelor pentru activitățile de sortare, compostare și transfer
+
+Referitor la solicitarea de precizare a destinatarilor tarifelor T10-T13, Consiliul constată că aceștia sunt menționați în Caietul de sarcini și Studiul de oportunitate. Având în vedere că între acești destinatari se regăsesc și cei din zonele 2-4, nu este necesară publicarea unei erate, cum solicită contestatorul, prin concluziile scrise.
+
+Relativ la critica adusă modului de fundamentare a tarifelor, Consiliu a respins-o pentru netemeinicie, deoarece contestatorul nu a indicat nivelul valoric pe care l-ar considera suficient. Iar cât privește susținerea contestatorului, din concluziile scrise, că achizitorul nu ar fi luat în considerare prevederile Ordinului nr. 109/2007, aceasta este invalidată demențiunile din caietul de sarcini (pag. 57): Cuantumul și regimul tarifelorse stabilesc, se ajustează sau se modifică potrivit prevederilor legale învigoare - Ordinul nr, 109/2007 al ANRSC privind aprobarea Normelor metodologice de stabilire, ajustare sau modificare a tarifelor pentru activitățile specifice serviciului de salubrizare a localități lor.
+
+Documentația nu oferă date estimative privind numărul de saci necesari a fi ofertați
+
+Contrar punctului de vedere ai entității contractante (în documentația de atribuire s-a determinat numărul de saci necesari doar pentru cei de 60 L, fără a fi stabilite cantități pentru ale dimensiuni de saci), Consiliul constată că în caietul de sarcini s-a stabilit Colectarea deșeurilor reciclabile din saci din plastic de 5/10/20/60/120 de litri puși la dispoziție de cătreDelegat, cu autovehicule specializate pentru deșeuri reciclabile.
+
+Pentru o informare corectă a operatorilor interesați de participare la licitația deschisă, entitatea contractantă va trebui să publice o clarificare în sensul utilizării doar a sacilor de 60 L.
+
+Nu exista claritate cu privire la cantitățile de deșeuri estimate,necesare pentru fundamentarea tarifelor de la TI la TIS.
+
+Consiliul a constatat netemeinică solicitarea de obligare a entității contractante la actualizarea cantităților estimate pentru anul 2022, (necesare fundamentării tarifelor T1-T16), pe baza datelor statistice valabile la nivelul anului 2021, deoarece datele aferente anului 2021 se vor raporta în martie 2022, conform art. 48 alin. (1) din OUG nr. 92/2021 :Producătorii de deșeuri nepericuloase, unitățile și întreprinderile prevăzute la art. 34, producătorii de deșeuri periculoase și unitățile și întreprinderile care colectează sau transportă deșeuri periculoase, nepericuloase cu titlu profesional sau acționează în calitate de comercianți și de brokeri de deșeuri periculoase și nepericuloase țin o evidență cronologică lunară tabelară și o pun la dispoziția agenției județene pentru protecția mediuluiîn format letric, la cerere, și electronic în sistemul pus la dispoziție de ARM până ia 15 martie anul următor raportării.
+
+Cerințele privind „Manualul de operare si întreținere" sunt în parte imposibil de îndeplinit sau țin de obligațiile Entității Contractante
+
+Prin caietul de sarcini s-a impus, în sarcina ofertanților, elaborarea Manualului de operare și întreținere care va fi prezentat in propunerea tehnica și care va fi transmis elegatarului pana la Data de începere a serviciilor din perioada de mobilizare). Entitatea contractantă va trebui sa clarifice acest aspect, fie prin eliminarea, din cuprinsul manualului, a documentelor care nu se află la dispoziția tuturor operatorilor economici, fie de eliminare a obligației de prezentare a manualului în propunerea tehnică.
+
+Asupra plângerii de față constată următoarele:
+
+Prin decizia CNSC nr. 4/C3/3200/3.01.2022 a fost admisă în parte plângerea formulată de [OPERATOR ECONOMIC] Cluj N_____ în contradictoriu cu A________ DE DEZVOLTARE INTERCOMUNITARĂ „ECONEAMȚ" și fiind obligată autoritatea contractantă la luarea următoarelor măsuri privind documentația de atribuire a contractului de „Delegare prin concesiune a gestiunii unor activități componente ale serviciului de salubrizare al unităților administrativ-teritoriale membre ale Asociației de Dezvoltare Intercomunitarâ ECONEAMȚ din Zona 1, județul N____":
+
+- actualizarea caietului de sarcini și a studiului de oportunitate cu legislația aplicabilă obiectului contractului, de la acest moment;
+
+- corectarea tarifului maximal pentru agenții economici, de la 486,41 lei/tonă, la 498,49 lei/tonă;
+
+- actualizarea Informațiilor privind prognoza pragului de suportabilitate al populației cu datele aferente anului 2020; în situația în care informațiile ar avea influențe asupra tarifelor maxime, achizitorul va proceda la redimensionarea lor;
+
+- breviarul de calcul;
+
+- utilizarea doar a sacilor de 60 L;
+
+- modul de elaborare a Manualului de operare și întreținere;
+
+- art. 29 alin. 3 și 4 din caietul de sarcini, respectiv clarificarea adusă prin punctul de vedere, referitoare la operațiunile de revizie/reparații;
+
+- un minim de caracteristici tehnice pentru tocător;
+
+- specificarea ca presa de balotat să beneficieze de o garanția de producător de 2 ani;
+
+- clarificarea modului de ofertare, din caietul de sarcini, cu Tc urban;
+
+- reformularea riscului nr. 3 din Matricea riscurilor;
+
+- completarea formularului 8.4 cu mențiuni referitoare la antecontracte de vânzare/cumpărare, promisiuni de vânzare etc.
+
+Pentru a pronunța decizia contestată CNSC a reținut următoarele:
+
+Entitatea contractantă A________ DE DEZVOLTARE
+
+INTERCOMUNITARĂ „ECONEAMȚ" a Inițiat la 28.11.2021 o licitație deschisă, în vederea atribuirii contractului de „Delegare prin concesiune a gestiunii unor activități componente ale serviciului de salubrizare al unităților administrativ-teritoriale membre ale Asociației de Dezvoltare Intercomunitară ECONEAMȚ din Zona 1, județul N____", prin publicarea în SEAP a anunțului de concesionare nr. PC1Q01810 și a documentației de atribuire.
+
+Contestatorul a solicitat, în principal, anularea procedurii, pentru următoarele motive:
+
+(a) decizia de concesionare nu a fost motivată;
+
+(b) procedura de atribuire a fost organizată și desfășurată pe baza unui număr semnificativ de acte normative abrogate.
+
+(c) procedura discriminează operatorul din zona 1 de operatorii din zonele 2-4 ale județului N____;
+
+(d) în procedură nu se respectă principiul "plătește pentru cât arunci";
+
+(e) se cer ofertanților o ________ investiții care, în mod nelegal, nu beneficiază de regimul juridic al investițiilor.
+
+În subsidiar, contestatorul a solicitat remedierea documentației de atribuire, sub aspectul:
+
+A. motivelor invocate pentru anularea procedurii (lit. a-d, antemenționate);
+
+B. motivelor majore de nelegalitate a procedurii de atribuire ce impun remedieri (lit. a-d).
+
+C. aspecte lipsă, greșite sau vagi din documentația de atribuire, cu impact asupra posibilității ofertanților de întocmire corectă și completă a propunerilor tehnice și/sau financiare (enumerate de la lit. a-q).
+
+Privitor la criticile invocate pentru anularea procedurii (lit. a-e).
+
+a. Decizia de concesionare nu a fost motivată, întrucât nu ar fi fost estimată valoarea pagubei potențiale pe care operatorul poate să o suporte ca urmare a transferului în sarcina acestuia a riscurilor semnificative de operare.
+
+Legiuitorul a arătat că definirea și cuantificarea riscurilor se poate realiza prin Intermediul matricei riscurilor.
+
+În documentația de atribuire, la cap. 3 din Secțiunea 7 - Studiul de oportunitate (pag.160-173) sunt incluse următoarele subcapitole: 3.1
+
+Analiza opțiunilor de delegare a activității de colectare si transport a deșeurilor, 3.2. Analiza opțiunilor privind delegatarul Contractului; 3.3.
+
+Modalitatea de atribuire a Contractului de delegare; 3.4. Matricea riscurilor
+
+3.5. Opțiuni privind modalitatea de atribuire a contractului de delegare.
+
+Legiuitorul nu impune ca în documentația de atribuire să fie cuantificate/stabilite valoric pierderile potențiale pe care le-ar suporta concesionarul. Aceste pierderi se pot regăsi sub formă abstractă, prin identificarea riscurilor generate de derularea contractului.
+
+Pe cale de consecință, Consiliul a respins critica pentru netemeinicia ei.
+
+(b) Procedura de atribuire a fost organizată și desfășurată pe baza unui număr semnificativ de acte normative abrogate.
+
+Văzând că, în caietul de sarcini - Legi, standarde și linii directoare (pag. 54-55) și studiul de oportunitate/subcap. 1.8 C_____ legal (la care face referire contestatorul), sunt incluse și acte normative abrogate, Consiliul a obligat entitatea contractantă la actualizare acestor secțiuni, cu legislația aplicabilă obiectului contractului, de la acest moment. Cererea de constatare a nulității documentației, a fost apreciată ca neîntemeiată, întrucât reclamantul, în afara listelor din cele două documente, nu a identificat reguli sau alte secțiuni ale documentației de
+
+atribuire care ar fi afectate de aplicarea vreunui act normativ abrogat.
+
+(c) Procedura discriminează operatorul din zona 1 față de operatorii din zonele 2-4 ale județului N____. Contestatorul, în critica sa, nu face referire nici la încălcarea vreunei reguli din Legea nr. 100/2016, dar nici la vătămarea pe care ar putea să o sufere din cauza tarifelor impuse. Mai mult decât atât, deși entitatea contractantă, în punctul de vedere, arată existența diferitelor categorii de tarife (pe care reclamantul nu le-a prezentat în susținerea criticii sale și sunt mai mici decât cele din actuala procedură), contestatorul nu formulează nicio apărare, nici în concluziile scrise.
+
+Simpla comparare a tarifelor practicate în diferite zone nu poate fi considerată o abatere de la legislația aplicabila procedurii de concesionare a serviciilor de salubrizare, dacă nu sunt luate în considerare toate elementele care compun acest tarif, riscurile asociate prestării serviciilor în zona respectivă, durata concesiunii, veniturile și cheltuielile estimate etc.
+
+Astfel, în lipsa unei motivări pertinente, care să releve încălcarea, cel puțin a Legii nr. 100/2016, Consiliul a apreciat a fi neîntemeiată această critică.
+
+(d) în procedură nu se respectă principiul „plătește pentru cât arunci"
+
+OUG nr. 92/2021 privind regimul deșeurilor definește, la pct. 21 din anexa nr. 1, conceptul plătești pentru cât arunci - instrument economic care are drept scop creșterea ratei de reutilizare, reciclare și reducere a cantității de deșeuri la depozitare prin stimularea colectării separate a deșeurilor.
+
+La art. 17 alin. (5) din ordonanța amintită, legiuitorul a permis entităților contractante să aleagă modul de implementate a acestui concept: Autoritățile administrației publice locale ale unităților administrativ-teritoriale sau, după caz, subdiviziunile administrativ- teritoriale ale municipiilor, respectiv asociațiile de dezvoltare intercomunitară ale acestora, după caz, au următoarele obligații:
+
+(...) h) să implementeze, cu respectarea prevederilor Ordonanței Guvernului nr. 21/1992 privind protecția consumatorilor, republicată, cu modificările și completările ulterioare, instrumentul economic 'plătește pentru cât arunci", bazat pe unul sau mai multe dintre următoarele elemente:
+
+(I) volum;
+
+(II) frecvență de colectare;
+
+(III) greutate;
+
+(IV)saci de colectare personalizați.
+
+Entitatea contractantă a transpus această prevedere în documentația de atribuire prin dimensionarea cantității de deșeuri care va fi ridicată de la populație, respectiv stabilirea necesarului de saci de plastic de 60 de litri și de pubele, pe categorii de deșeuri (secțiunea 2.6.1.1. Investiții in echipamente de colectare deșeuri: containere, pubele și saci din plastic), precum și a frecvenței de colectare a sacilor de deșeuri (anexa 15 a Studiului de oportunitate - Graficul/frecvența de colectare a deșeurilor Zona 1 2022- 2031 - Serviciul regulat de colectare}. De asemenea, a impus ca prestatorul să aibă posibilitatea de cântărire a deșeurilor preluate. Aceste prevederi se regăsesc, cel puțin, în Documentația de atribuire, la pag. 80:
+
+a) Implementarea instrumentului economic „plătește pentru cât arunci"
+
+Legea nr. 211/2011 privind regimul deșeurilor a suferit in cursul anului 2018 modificări importante prin adoptarea O.U.G. nr. 74/2018. In ianuarie 2019, aceasta a fost aprobată prin Legea nr. 31/2019.
+
+Una din modificările importante aduse este aceea a obligativității autorităților administrației publice locale de a implementa începând cu 1 ianuarie 2019, dar nu mai târziu de 30 iunie 2019, instrumentul economic „plătește pentru cât arunci", pe baza unei varietăți de elemente: volum, frecvență de colectare, greutate, saci de colectare personalizați.
+
+În prezentul Studiu, s-a considerat implementarea acestui sistem prin elementul greutate, respectiv prin cântărirea deșeurilor ridicate și tarifarea generatorului pe baza cantității de deșeuri generate și prin introducerea precolectării în saci de colectare personalizați, în mediul urban, fiind modificată și frecvența de colectare actuală.
+
+Această abordare va impune în documentația de atribuire pentru delegarea serviciului de colectare și transport, ca viitorul operator să-si doteze toate mașinile folosite în colectarea tuturor categoriilor de deșeuri, cel puțin în varianta standard cu sisteme de cântărire și emitere a unui bon de cântar, respectiv sa achiziționeze si sa distribuie către populație saci
+
+personalizați pentru recolectarea diferitelor fracții de deșeuri în mediul urban iar în varianta optimizată mașinile să fie echipate cu sistem de citire RFID a cipurilor și etichetelor tip cod bare cu care vor fi dotați recipienții de precolectare - containere, pubele, saci din plastic.
+
+În consecința, Consiliul a constatat neîntemeiată critica privind nerespectarea principiului "plătește pentru cât arunci".
+
+(e) Se cer ofertanților o ________ investiții care, in mod nelegal, nu beneficiază de regimul juridic al investițiilor.
+
+Contestatorul solicită obligarea entității contractante la refacerea listei cu investițiile, cu indicarea complet și clar a investițiile solicitate, care este costul estimat, pentru ce sunt necesare și care este modalitatea de recuperare prin tarife a acestora, precum și la modificarea duratei contractului.
+
+Consiliul a apreciat netemeinice aceste cereri, deoarece lista cu investițiile pe care trebuie să le realizeze concesionarul este prevăzută în Studiul de oportunitate/secțiunea 2.6.3. Centralizator cheltuieli de investiții, cu 3 categorii de Investiții, costul estimat pentru fiecare și durata de amortizare (10 ani).
+
+Potrivit art. 16 alin. (2) din Legea nr. 100/2016 : Pentru concesiunile de lucrări sau concesiunile de servicii a căror durată estimată este mai mare de 5 ani, durata maximă a concesiunii nu poate depăși timpul estimat în mod rezonabil necesar concesionarului pentru a obține un venit minim care sa permită recuperarea costurilor investițiilor efectuate, a costurilor în legătură cu exploatarea lucrărilor sau a serviciilor, precum și a unui profit rezonabil.
+
+Astfel, durata concesiuni este stabilită la nivelul duratei în care se vor amortiza investițiile respective.
+
+În concluzie, elementele pretins a lipsi pentru justificarea modificării duratei contractului se regăsesc în cuprinsul documentației de atribuire.
+
+D____ urmare, Consiliul a respins ca netemeinică și critica referitoare la durata concesiunii.
+
+Cât privește susținerea contestatorului că (prin studiul de oportunitate) operatorul ar fi obligat să facă alte investiții decât cele stabilite la secțiunea 2.6.3, aceasta este extrasă din contextul de la pag. 141 a studiul de oportunitate, unde se prevăd următoarele, referitor la investițiile deja existente: (...) Conform datelor prezentate, pentru utilajele si echipamentele pentru manipularea/transportul deșeurilor, care mai au doar 8 luni din perioada normala de funcționare, inclusiv pentru încărcătorul frontal - cu perioada de funcționare expirata, Operatorul delegat poate face investiții pentru menținerea parametrilor tehnici de funcționare si siguranța cheltuieli care, conform prevederii cap. III.2 din Catalog, sunt cheltuieli care. se fac la mijloacele fixe ce au ca scop restabilirea stării inițiale, considerate cheltuieli de reparații.
+
+Textul amintit nu se referă la investiții prin care utilajele existente să fie readuse la starea inițială (cum motivează contestatorul), ci ia cheltuieli pentru menținerea parametrilor tehnici de funcționare și siguranță.
+
+Văzând că nu sunt motive de anulare a procedurii de atribuire, pe baza criticilor de la lit. a-e, antemenționate, Consiliul a respins, ca nefondata, cererea.
+
+Privitor la criticile privind motivele majore de nelegalitate a Procedurii de Atribuire ce impun remedieri
+
+(a) Nelegalitatea redevenței contractuale
+
+Contestatorul solicită: (i) obligarea entității contractante la eliminarea cerinței privind redevența, Iar dacă cererea sa va fi respinsă, (ii) obligarea achizitorului la recalcularea redevenței, prin raportare la valoarea de amortizare, în următorii 10 ani, a bunurilor concesionate și a gradului de suportabilitate al populației.
+
+În susținerea primei critici, reclamantul face aprecieri generale, fără a le proba/dovedi, lipsind din contestație date concrete (cum ar fi, raportat la motivările sale, costuri pentru stațiile de la Piatra N____ și R_____, costuri efective care ar fi generate de serviciul de salubrizare).
+
+Opiniile personale, lipsite de dovezi și justificări ale contestatorului, nu pot înlocui studiul de fundamentare/oportunitate și matricea preliminară de repartiție a riscurilor de proiect, emise de entitatea contractantă în precedent, care motivează introducerea redevenței în contract.
+
+D____ urmare, nefiind probată o disproporție între dreptul de a primi redevența și obligațiile contractuale/riscurile concesionarului, solicitarea de eliminare a redevenței se dovedește a fi neîntemeiată.
+
+Consiliul consideră a fi netemeinică și cererea de recalculare a redevenței, pentru argumentele ce urmează.
+
+În stabilirea redevenței, părțile în dispută au ținut cont de dispozițiile art. 29 alin. (11) Legea nr. 51/2006 : (...) m) nivelul redevenței sau al altor obligații, după caz; la stabilirea nivelului redevenței. entitatea publică locală va lua în considerare valoarea calculată similar amortizării pentru mijloacele fixe aflate în proprietate publică și puse ia dispoziție operatorului odată cu încredințarea serviciului/activității de utilități publice și gradul de suportabilitate al populației. Nivelul redevenței se stabilește in mod transparent și nediscriminatoriu pentru toți potențialii operatori de servicii de utilități publice, utilizându-se aceeași metodologie de calcul.
+
+Însă, criticile sunt asupra modului de aplicare a acestei prevederi, contestatorul susținând, printre altele, că:
+
+- A__ a calculat valoarea de inventar a bunurilor de la stațiile Piatra N____ și R_____ (valoarea de nou);
+
+- punctele de colectare din Municipiul [localitate] N____ (avute în vedere la calculul redevenței) nu sunt supuse amortizării (acele bunuri care fac parte din domeniul public nu sunt amortizabile).
+
+Prin art. 29, mai sus amintit, legiuitorul a arătat modul de calculare a redevenței, care este similar amortizării pentru mijloacele fixe. Astfel, redevența se va stabili luând în considerare valoarea bunurilor și numărul de ani necesari derulării contractului de concesiune. Faptul că anumite bunuri nu sunt amortizabile, nu înseamnă că în redevența nu poate fi cuprinsă parte din valoarea lor.
+
+Redevența a fost stabilită similar amortizării (pe 10 ani - a valorii bunurilor de retur puse ia dispoziția viitorului operator), nu valoarea neamortizată a bunurilor, cum susține contestatorul. Contestatorul, prin susținerile sale arată că redevența este compusă din cheltuiala cu amortizarea bunurilor de retur (dar cu luarea în considerare a gradului de suportabilitate a populației), fără a se ține seama de cele neamortizabile ori amortizabile.
+
+Potrivit art. 1 din Legea nr. 15/1994 privind amortizarea capitalului imobilizat în active corporale și necorporale: Unitățile care desfășoară activități economice, denumite în continuare agenți economici, și care imobilizează capital în active corporale si necorporale supuse deprecierii, prin utilizare sau în timp> vor calcula, vor înregistra în contabilitate și vor recupera uzura fizică si morală a acestora, pentru refacerea capitalului angajat. Aceste operațiuni sunt denumite generic, amortizarea capitalului Imobilizat Calcularea redevenței, similar modului de stabilire a amortizării, are rolul de a permite proprietarului bunurilor să recupereze, eșalonat, parte din cheltuielile realizate cu obținerea acelor bunuri.
+
+Pe de altă parte, deși, prin concluzii scrise, contestatorul evidențiază că nu este relevant de unde a obținut A__ datele și nici faptul că calculele aferente redevenței au fost în prealabil aprobate de UAT [localitate] N____ - și UAT R_____, dacă acestea sunt greșite, Consiliul observă că, în motivarea din contestație, acesta a apelat la aceleași valori ale bunurilor (de exemplu, a se vedea valorile bunurilor care au codurile de inventar 8107 și 8126).
+
+Diferența dintre modul de calcul aplicat de părți constă în faptul că entitatea contractantă a luat în considerare valoarea din contabilitate a mijlocului fix, iar contestatorul a apreciat că trebuie raportată la o perioadă de amortizare. Așadar, și sub acest aspect al presupusei calculări/înregistrări greșite a valorilor mijloacelor fixe, în contabilitatea UAT-urilor), se dovedește a fi netemeinică solicitarea contestatorului de recalculare a redevenței.
+
+(b) Entitatea Contractantă a desemnat, în mod nelegal, toți funcționarii din cadrul A__ drept „persoane cu funcție de decizie în procedură;
+
+În susținerea acestei critici, contestatorul nu arată prevederea legală încălcată, ci doar prezintă supoziții și expuneri generale, fără elemente concrete/probe (... întrucât efectul numirii unei persoane pe această listă are ca potențial efect generarea unui conflict de interese, cu consecința imposibilității unul anumit operator economic să participe la procedură, persoanele ce nu au legătură efectivă cu procedura și nu o pot influența, nu pot fi trecute pe această listă, în caz contrar se generează un risc de limitare nejustificată a operatorilor economici la procedură). Contestatorul nu identifică nici persoana din cadrul A__ care nu ar avea o funcție de decizie în prezenta procedură, dar nici operatorul economic aflat în imposibilitate de participare, din cauza unui aparent conflict de interese, creat de lista respectivă.
+
+Pe de altă parte, contestatorul nu arată vătămarea ce i se aduce de lista respectivă. D____ pentru care, o astfel de critică se dovedește a fi neîntemeiată.
+
+(c) Documentația de atribuire impune tarife maximale (neindexabile) pentru agenți economia, fără justificare
+
+Referitor la existența a două tarife maximale pentru agenții economici, entitatea contractantă confirmă, în punctul de vedere, a fi corectă valoarea de 498,49 lei/tonă, fără TVA, stabilită în studiul de oportunitate.
+
+Contestatorul susține că entitatea contractantă nu a justificat impunerea unor tarife maximale, iar prin concluziile scrise consideră că stabilirea unui plafon maximal arbitrar este nelegală. însă, în dovedire, nu arată dispozițiile legale încălcate. De asemenea, contestatorul consideră că tarifele maximale nu pot fi ajustate.
+
+Aceste aprecieri ale reclamantului nu pot fi validate de Consiliu, întrucât nu există niciun act normativ care sa interzică stabilirea unor tarife maximale, dar nici care să impună justificarea acestora. Din contră, entitatea contractantă a respectat regulile stabilite de finanțator - MFE, prin circulara nr. _____/2020.
+
+Trebuie remarcat faptul că, deși contestatorul susține că circulara MFE nu are calitatea de act normativ (deci nu ar trebui luată în considerare), totuși, la alte critici (a se vedea punctul următor analizat de Consiliu), arată că nu au fost respectare prevederile acestei circulare. Astfel, acceptarea circularei ca reguli/bune practici, în lipsa unor prevederi legale relevă că, și sub acest aspect (maximizarea tarifelor nu s-ar putea baza pe circulara MFE), critica este neîntemeiată.
+
+Cât privește aprecierea contestatorului că tarifele maximale nu pot fi majorate, aceasta este neîntemeiată, deoarece în fișa de date a achiziției/secțiunea II.3, s-a prevăzut posibilitatea de ajustare a prețului: Prevederi similare se regăsesc în Secțiunea 4 Clauze contractuale; Secțiunea 5 Regulamentul serviciului public de salubrizare a localităților din Județul N____.
+
+Așadar, documentația de atribuire a fost elaborată cu respectarea circularei MFE (invocată de contestator), în care se regăsesc următoarele reguli: Planul tarifar anexat fa contractul de finanțare poate fi actualizat în conformitate cu valorile actualizate ale datelor pe baza cărora au fost calculate tarifele maxime de salubrizare pentru beneficiarii casnici și beneficiarii non-casnici la momentul pregătirii aplicației de finanțare și cu prevederile legislative cu incidență asupra calculului tarifelor de salubrizare. (...)
+
+(d) Gradul de suportabilitate al populației a fost stabilit pe bază de date statistice ce nu sunt valabile la data publicării anunțului de concesionare.
+
+Contestatorul arată că entitatea contractantă a luat în calcul informațiile aferente anului 2018, deși avea la dispoziție pe cele aferente anului 2020. Consiliul reține că în Studiul de oportunitate (pag. 112) s-a stabilit Prognoza pragului de suportabilitate ai populației 2022 - 2031, pe medii de rezidență.
+
+Determinări conform Circulara MFE nr. _____/03.06.2020 și anexa privind modificări ale proiectelor privind sistemele de management integrat al deșeurilor în vederea asigurării conformării sistemelor cu noile modificări legislative aplicabile, care stipulează faptul ca planul tarifar se poate actualiza în mod justificat cu respectarea principiilor politicii tarifare din aplicația de finanțare, după avizarea justificărilor de către AM.
+
+Tabelar, entitatea contractantă a prezentat indicatori macroeconomici, pentru perioada 2022-2031.
+
+Deși informațiile din studiul de oportunitate se bazează pe informațiile din machetele anexate Circularei MFE nr. _____/03.06.2020, achizitorul nu a ținut cont de Reguli de completare: Se va verifica valabilitatea statisticilor prevăzute în sheet-ul "Statistici". Sursa acestor statistici se regăsește în sheet-ul "Statistici" rândul 44. În situația în care datele statistice nu corespund cu datele statistice și prognozele cefe mai recente comunicate de INS și CNP, se va proceda la actualizarea acestor date aferente județului.
+
+În punctul de vedere, entitatea contractantă se apără doar cu utilizarea machetei de la MFE, fără să confirme/infirme ne/verificarea valabilității datelor statistice. Întrucât informațiile din Studiul de oportunitate trebuie să cuprindă cele mai recente date comunicate de INS și CNP, Consiliul va obliga entitatea contractantă la actualizarea informațiilor privind Prognoza pragului de suportabilitate al populației cu datele aferente anului 2020. Iar în situația în care noile informații ar avea influențe asupra tarifelor maxime, achizitorul va interveni și asupra acestora.
+
+Referitor la secțiunea criticile privind aspecte lipsă, greșite sau vagi din documentația de atribuire, cu impact asupra posibilității ofertanților de întocmire corectă și completă a propunerilor tehnice și/sau financiare.
+
+(a) O parte din activitățile impuse de Documentația de atribuire nu sunt descrise de Caietul de Sarcini
+
+Privitor la critica adusă neindicării fluxului tehnologic de operare și a randamentul fiecărei instalații, Consiliul constată netemeinicia ei, având în vedere că reclamantul nu indică prevederile ce ar fi impus în sarcina achizitorului o astfel de obligații.
+
+Netemeinică este și critica de neprezentare a tuturor fișelor tehnice, deoarece contestatorul nu indică instalațiile pentru care apreciază că ar mai fi necesare informații.
+
+Referitor la solicitarea de introducere a unor cerințe minimale pentru ofertanți referitoare la elaborarea ofertei tehnice și financiare, contestatorul nu arată, nici în ce sens, cum ar trebui să fie adoptată remedierea, dar nici eventuala normă încălcată. Simpla cerere de adoptare a unor măsuri nespecificate nu poate f» apreciată ca temeinică de Consiliu.
+
+Relativ la lipsa estimărilor cantităților, pentru activitățile menționate în contestație, Consiliul reține ca achizitorul arată că se regăsesc în Breviarul de calcul, anexat punctului de vedere. în consecință, Consiliul a obligat entitatea contractantă la publicare în SEAP a acestui document, ca parte a documentației de atribuire.
+
+(b) Datele statistice privind cantitățile de deșeuri furnizate in Caietul de sarcini nu sunt actualizate
+
+Contestatorul solicită actualizarea informațiilor din documentația de atribuire pe baza chestionarului MUN 2020, întrucât cele din caietul de sarcini aparțin MUN 2018.
+
+Consiliul ia act de faptul că, la elaborarea documentației de atribuire, entitatea contractantă a ținut cont de datele cuprinse în Avizul de Mediu pentru Planul Județean de Gestionare a Deșeurilor N____, 2019-2025, emis de ANPM, în 2021. Responsabilitatea determinării cantităților de deșeuri prognozate fiind a ANPM, entitatea contractantă are obligația luării lor în considerare.
+
+Pe de altă parte, contestatorul nu arată impedimentele de ofertare care ar fi generate de cantitățile prognozate, existente în caietul de sarcini.
+
+Astfel, sub acest aspect, critica se dovedește a fi neîntemeiată.
+
+(c) Clarificarea destinatarilor tarifelor pentru activitățile de sortare, compostare și transfer
+
+Referitor la solicitarea de precizare a destinatarilor tarifelor T10-T13, Consiliul constată că aceștia sunt menționați în Caietul de sarcini și Studiul de oportunitate. Având în vedere că între acești destinatari se regăsesc și cei din zonele 2-4, nu este necesară publicarea unei erate, cum solicită contestatorul, prin concluziile scrise.
+
+Relativ la critica adusă modului de fundamentare a tarifelor, Consiliu a respins-o pentru netemeinicie, deoarece contestatorul nu a indicat nivelul valoric pe care l-ar considera suficient. Iar cât privește susținerea contestatorului, din concluziile scrise, că achizitorul nu ar fi luat în considerare prevederile Ordinului nr. 109/2007, aceasta este invalidată de mențiunile din caietul de sarcini (pag. 57): Cuantumul și regimul tarifelor se stabilesc, se ajustează sau se modifică potrivit prevederilor legale în vigoare - Ordinul nr, 109/2007 al ANRSC privind aprobarea Normelor metodologice de stabilire, ajustare sau modificare a tarifelor pentru activitățile specifice serviciului de salubrizare a localități lor,
+
+(d) Documentația nu oferă date estimative privind numărul de saci necesari a fi ofertați Contrar punctului de vedere ai entității contractante (în documentația de atribuire s-a determinat numărul de saci necesari doar pentru cei de 60 L, fără a fi stabilite cantități pentru ale dimensiuni de saci), Consiliul constată că în caietul de sarcini s-a stabilit Colectarea deșeurilor reciclabile din saci din plastic de 5/10/20/60/120 de litri puși la dispoziție de către Delegat, cu autovehicule specializate pentru deșeuri reciclabile.
+
+Pentru o informare corectă a operatorilor interesați de participare la licitația deschisă, entitatea contractantă va trebui să publice o clarificare în sensul utilizării doar a sacilor de 60 L.
+
+(e) Nu exista claritate cu privire la cantitățile de deșeuri estimate, necesare pentru fundamentarea tarifelor de la TI la TIS.
+
+Consiliul a constatat netemeinică solicitarea de obligare a entității contractante la actualizarea cantităților estimate pentru anul 2022, (necesare fundamentării tarifelor T1-T16), pe baza datelor statistice valabile la nivelul anului 2021, deoarece datele aferente anului 2021 se vor raporta în martie 2022, conform art. 48 alin. (1) din OUG nr. 92/2021 :
+
+Producătorii de deșeuri nepericuloase, unitățile și întreprinderile prevăzute la art. 34, producătorii de deșeuri periculoase și unitățile și întreprinderile care colectează sau transportă deșeuri periculoase, nepericuloase cu titlu profesional sau acționează în calitate de comercianți și de brokeri de deșeuri periculoase și nepericuloase țin o evidență cronologică lunară tabelară și o pun la dispoziția agenției județene pentru protecția mediului în format letric, la cerere, și electronic în sistemul pus la dispoziție de ARM până ia 15 martie anul următor raportării.
+
+(f) Cerințele privind „Manualul de operare si întreținere" sunt în parte imposibil de îndeplinit sau țin de obligațiile Entității Contractante Prin caietul de sarcini s-a impus, în sarcina ofertanților, elaborarea Manualului de operare și întreținere care va fi prezentat in propunerea tehnica si care va fi transmis Delegatarului pana la Data de începere a serviciilor din perioada de mobilizare). Entitatea contractantă va trebui sa clarifice acest aspect, fie prin eliminarea, din cuprinsul manualului, a documentelor care nu se află la dispoziția tuturor operatorilor economici, fie de eliminare a obligației de prezentare a manualului în propunerea tehnică.
+
+De asemenea, Consiliul va obliga entitatea contractantă să elimine prevederile care nu au legătură cu procedura în cauză, cum ar fi cele referitoare la cerințele de calitate și cantitate definite de beneficiarii materialelor și produselor rezultate în cadrul Serviciilor precum și conceptul de asigurare a calității necesar obținerii acestor cerințe.
+
+Cât privește cerința de includere în Manual a operațiunilor specifice sistemului de colectare a apelor reziduale, entitatea contractantă trebuie să prezinte informații referitoare la acest sistem, pentru stația Piatra N____ sau stația R_____.
+
+Cât privește solicitarea de eliminare a cerinței referitoare la prezentarea operațiunilor de cântărire, contestatorul susține că nu se aplică prezentului contract, întrucât nu se respectă principiul plătești pentru cât arunci, Consiliul consideră neîntemeiată o astfel de cerere, având în vedere că documentația de atribuire ține cont și de acest principiu.
+
+(g) Cerințele privind „Programul de execuție" sunt în parte imposibil de îndeplinit sau țin de obligațiile Entității Contractante
+
+Prin concluziile scrise, contestatorul ia act de punctul de vedere al entității contractante și a renunțat la critica sa.
+
+(h) Cerințele cuprinse în art. 29 alin. 3 si 4 din Caietul de sarcini de suplimentare a Instalațiilor, utilajelor sau vehiculelor ieșite din uz sunt nelegale.
+
+Întrucât prevederile caietului de sarcini art. 29 alin. (3) și (4) arată o obligație precisă în sarcina delegatului- de înlocuire a instalațiilor, utilajelor etc., pe cheltuiala delegatului, iar entitatea contractantă se apără, prin punctul de vedere, că acesta trebuie să realizeze doar operațiunile de revizie/reparații, Consiliul va obliga achizitorul să publice clarificarea din punctul de vedere, formulată în acest sens.
+
+(i) Cerința privind achiziția unui tocător de deșeuri nu este justificată La pag. 144 din Studiul de oportunitate, entitatea contractantă a cotat financiar, la Investiții, și un tocător, deci l-a luat în calcul la dimensionarea valorică a contractului de concesiune. Prin critica sa, contestatorul solicită, în fapt, modificarea necesității (de altfel, justificată pertinent, de achizitor), însă, pentru a informa corect și complet ofertanții, entitatea contractantă
+
+va trebui să furnizeze un minim de caracteristici pentru tocător, astfel încât aceștia să poată oferta/livra utilajul solicitat.
+
+(j) Cerința ca presa de balotat pentru stația Piatra N____ să beneficieze de o garanție de producător de 5 ani este limitativă și nejustificată.
+
+Entitatea contractantă, fiind de acord cu o garanție de 2 ani, exprimată în punctul de vedere, va avea obligația publicării în SEAP a acestei modificări a cerinței documentației de atribuire, (k) Cerințele de ofertare a echipamentelor de rezervă nu sunt suficient de concise Solicitarea contestatorului de indicare a numărului echipamentelor de rezervă nu este întemeiată, din moment ce prestatorului îi revine sarcina derulării continue a serviciului de colectare, cu asigurarea mentenanței/reviziei/reparației utilajelor/ echipamentelor/ instalațiilor. Prestatorii serviciilor de salubrizare, care dețin astfel de utilaje, se prezumă că au cunoștințe temeinice despre problemele tehnice care pot interveni pe durata celor 10 ani ai contractului supus atribuirii.
+
+Pe de altă parte, neprestarea serviciilor conform contractului atrage aplicarea cel puțin a penalităților de la art. 19 alin. (2): Se Impun cerințe excesive în ofertare referitoare ia vânzarea deșeurilor reciclabile
+
+Contestatorul susține că, la data întocmirii ofertelor, ofertanții nu au fa dispoziții date estimative privind cantitățile de astfel de deșeuri cc vor rezulta din activitate, date care trebuiau In fapt incluse în Documentația de atribuire.
+
+Consiliul ia act de faptul că, prin anexele la caietul de sarcini, sunt furnizate informații privind cantitățile de deșeuri (pe categorii) prognozate pentru perioada 2022-2031. Fiind cunoscute capacitățile/caracteristicile stațiilor de sortare și compostare (a se vedea anexele la caietul de sarcini), se pot estima cantitățile de deșeuri ce ar rezulta. Astfel, critica se dovedește a fi neîntemeiată.
+
+Susținerile contestatorului nu pot fi validate de Consiliul mal ales că acesta efectuează (in temeiul art. 48 din OUG nr. 92/2021 ) raportări privind cantitatea de produse și materiale care rezultă din pregătirea pentru reutilizare din reciclare sau din alte operațiuni de valorificare; eliminare (fapt confirmat de contestator, el operând, în prezent stația de sortare și compostare Piatra N____).
+
+(l) Legat de tarife, se Impun cerințe contradictorii
+
+În caietul de sarcini. Modul de prezentare al propunerii financiare (pag. 99), s-a prevăzut: Formularul de oferta (Formularul 3 din Secțiunea III - Formulare). In acest formular se va include oferta de preț (tarifele pentru utilizatorii casnici Tc rural, Tc urban R_____ si Tc urban Piatra N____).
+
+Pentru a nu exista îndoieli asupra modului de ofertare (același tarif pentru Piatra N____ și R_____), dar și pentru a fi în concordanță cu informațiile din formularul de oferta-3, precum și cu cele din studiul de oportunitate, Consiliul va obliga entitatea contractantă să modifice sintagma din prevederea de mai sus, astfel Tc urban R_____ si Tc urban Piatra N____ în Tc urban.
+
+(m) Elemente de nelegalitate ale matricei responsabilităților și a riscurilor (pag. 64 si urm. din Caietul de sarcini)
+
+Întrucât contestatorul este de acord cu punctul de vedere al entității contractante, Consiliul va obliga achizitorul să publice în SEAP reformularea propusă de contestator pentru riscului nr. 3 din Matricea riscurilor.
+
+(n) Elemente de nelegalitate ale modelului Contractului
+
+Prin concluzii scrise, contestatorul a renunțat la această critică.
+
+(o) Elemente de nelegalitate ale unora din indicatorii de performantă
+
+Prin concluzii scrise, contestatorul renunță la această critică.
+
+(q) Elemente de nelegalitate a formularelor.
+
+Întrucât entitatea contractantă a fost de acord cu solicitarea contestatorului, respectiv completarea formularului 8.4 cu mențiuni referitoare la antecontracte de vânzare/cumpărare, promisiuni de vânzare etc, îi revine sarcina publicării acestei clarificări/modificări, în SEAP.
+
+Cât privește criticile noi, introduse pe calea concluziilor scrise (detaliate de la 107 la 114, pag, 18-19), Consiliul le-a respins ca inadmisibile, în temeiul art. 21 alin. (3) din Legea nr. 101/2016.
+
+Împotriva deciziei a formulat plângere petenta [OPERATOR ECONOMIC] Cluj N_____ solicitând
+
+I. Suspendarea procedurii de atribuire până la soluționarea Plângerii;
+
+II. Admiterea plângerii și:
+
+A. în principal:
+
+Modificarea Deciziei atacate în sensul anulării procedurii de atribuire ca efect al
+
+nelegalității grave a elementelor criticate din aceasta;
+
+B. în subsidiar:
+
+a. Modificarea Deciziei în sensul obligării Autorității Contractante la adoptarea
+
+măsurilor de remediere impuse de admiterea criticilor dezvoltate prin prezenta Plângere;
+
+b. Obligarea Autorității Contractante la prelungirea termenului limită de depunere a ofertelor într-o măsură suficientă pentru a permite informarea corespunzătoare a potențialilor ofertanți cu privire la remedierile impuse.
+
+Prin încheierea din 20.01.2022 cererea de suspendare a procedurii a fost respinsă ca rămasă fără obiect.
+
+Criticile formulate de petentă cu privire la fondul deciziei atacate vizează următoarele:
+
+I. . Referitor la elementele de nelegalitate cu privire la care a fost solicitată anularea procedurii
+
+(a) Decizia de concesionare nu a fost motivată corect
+
+Potrivit art. 6 alin. 1 și 2 din Legea nr. 100/2016 și art. 13 alin. 1 din HG nr. 867/2016, concesionarea are loc doar atunci
+
+când sunt întrunite cumulativ următoarele condiții prevăzute de aceste texte:
+
+a. Autoritatea Contractantă identifică riscurile de operare specifice contractului -
+
+identificarea riscurilor;
+
+b. Autoritatea Contractantă cuantifică în termeni economici si financiari riscurile
+
+contractului {art. 13 alin. 1 din HG nr. 867/2016 și art. 6 alin. 2 din Legea nr. 100/2016 )
+
+- cuantificarea riscurilor;
+
+c. în baza principiului de repartizare privind persoana cea mai aptă să răspundă manifestării riscurilor, Autoritatea Contractantă constată că riscul semnificativ de operare revine operatorului - repartizarea riscurilor.
+
+În prezenta Procedură, nu s-au cuantificat riscurile de operare în termeni economici și financiari, sens în care nu se poate verifica dacă a avut loc transferul către operator a riscului semnificativ a contractului. Autoritatea Contractantă a întocmit matricea riscurilor (o listă cu riscurile identificate care afectează contractul) și prin aceasta a dispus că majoritatea riscurilor vor fi atribuite operatorului, concluzionând că contractul trebuie să fie de concesiune.
+
+În lipsa cuantificării riscurilor, această concluzie nu are niciun fundament, matricea riscurilor putând să răspundă doar cerinței de identificare a riscurilor și de repartizare a riscurilor .
+
+Prin urmare, în speță, Autoritatea Contractantă nu a ținut cont de art. 6 alin. 2 din Legea nr. 100/2016 și nici de art. 13 alin. 1 din HG nr. 867/_____ în ciuda faptului că Consiliul a citat aceste texte, a ignorat esența lor, concluzionând greșit că „legiuitorul a arătat că definirea și cuantificarea riscurilor se poate realiza prin intermediul matricei riscurilor."
+
+În lipsa analizării existenței unui transfer semnificativ al riscurilor către operator, nu se poate determina dacă contractul poate fi concesionat, lucru care dovedește că decizia de concesionare nu a fost motivată corect. Decizia de concesionare fiind fundamentul întregii proceduri, nelegalitatea acesteia atrage nulitatea procedurii.
+
+(b) Documentația de atribuire este nelegală întrucât a fost întocmită în baza unor acte normative abrogate
+
+CNSC a constatat în mod corect că toate actele normative enumerate prin contestație, care sunt indicate în Documentația de atribuire ca fiind fundamentul Procedurii sunt abrogate, însă consideră că este suficient ca Autoritatea Contractantă să modifice formal lista, în sensul înlocuirii denumirii acestora cu cea a actelor corespunzătoare în prezent în vigoare.
+
+Decizia CNSC ignoră faptul că legea are un conținut care reglementează conform voinței legiuitorului aspecte de fapt și de drept din domeniul de acțiune a legii respective. Totodată, ignoră faptul că dacă o lege a fost abrogată și înlocuită de una nouă, acest lucru a avut loc tocmai pentru că legea nouă conține, cel puțin în parte, alte reglementări decât legea veche.
+
+Acesta fiind cazul, o procedură fundamentată pe legea veche nu mai poate corespunde cerințelor legii noi (în vigoare la data publicării anunțului de concesionare) întrucât aceasta conține alte cerințe. Prin urmare, întrucât nu s-a fundamentat pe legislația în vigoare, Procedura nu este legală și se impune anulată și, simpla înlocuire în cuprinsul său a denumirii actelor normative abrogate cu denumirea actelor normative acum în vigoare, nu este în măsură să schimbe acest lucru.
+
+Decizia CNSC mai reține greșit și faptul că trebuia indicat sub ce aspecte Procedura de atribuire nu corespunde legislației în vigoare. In realitate însă, simpla dovedire a faptului că Procedura este fundamentată pe acte normative abrogate este suficient, principiul esențial al organizării unei proceduri fiind cel al respectării legii, art. 5 alin. 1 din HG nr. 867/2016 stabilind că „Entitatea contractantă este responsabilă pentru modul de realizare a concesiunilor de lucrări sau a concesiunilor de servicii, cu respectarea tuturor dispozițiilor legale aplicabile."
+
+(c) Autoritatea Contractată tratează discriminatoriu operatorii din Zona 1 a județului N____ față de operatorii desemnați în zonele 2-4 ale județului
+
+Consiliul nu a analizat substanța criticilor sub acest aspect, rezumându-se să arate că nu s-a indicat o prevedere din legea nr. 100/2016 care să fi fost încălcată și că compararea tarifelor nu este suficientă pentru a dovedi o tratare discriminatorie a operatorilor.
+
+Cu privire la primul aspect, prevederile art. 1 alin. 5 din HG nr. 867/2016 impun ca în atribuirea unei concesiuni autoritatea contractantă să respecte toate prevederile legale aplicabile. Una dintre aceste prevederi legale aplicabile este art. 9 alin. 1 lit. a) din Legea nr. 101/2006 a serviciului de salubrizare ce stabilește cu titlu imperativ: „în exercitarea prerogativelor acordate prin prezenta lege, autoritățile administrației publice locale au, față de operatorul serviciului de salubrizare, următoarele obligații:
+
+a) să asigure tratament egal pentru toți operatorii serviciilor de salubrizare care acționează în cadrul unității administrativ-teritoriale/sectoarelor municipiului București sau al asociației de dezvoltare intercomunitară, după caz."
+
+Prin urmare legea impune ca operatorii care acționează în cadrul A__ să beneficieze de un tratament egal.
+
+Cu privire la cel de-al doilea aspect, nivelul tarifelor, preluat de pe pagina de internet a A__, dovedește aplicarea unui tratament discriminatoriu între operatori prin faptul că tarifele din zonele 2-4 sunt semnificativ mai mari (cu până la 100%) față de tarifele maximale ce nu pot fi depășite în ofertare în prezenta procedură, tarife maximale stabilite cu justificarea că au fost stabilite la nivelul maxim permis de gradul de suportabilitate a populației.
+
+Cu toate acestea, gradul de suportabilitate a populației este același în tot județul, sens în care dacă respectarea acestuia este obligatorie pentru operatorul din prezenta procedură, acesta trebuia să fie obligatoriu și pentru operatorii din zonele 2-4, sens în care tarifele acestora nu puteau fi mai mari decât cele maximale impuse în prezenta procedură.
+
+Prin faptul că tarifele concrete aplicabile în zonele 2-4 sunt mai mari decât cele maximale impuse în prezenta Procedură, apare dovedit faptul că operatorul din zona 1 este discriminat față de operatorii din zonele 2-4, celui dintâi fiindu-i impusă respectarea gradului de suportabilitate a populației, în timp ce operatorilor din celelalte zone nu.
+
+Apărarea Autorității Contractante din Punctul de Vedere, reținută implicit și de CNSC, privind faptul că tarifele celorlalți operatori se diminuează cu veniturile acestora din vânzarea reciclabilelor nu este relevantă. Aceste venituri potențiale, chiar dacă se scad din veniturile operatorilor obținute din tarife nu pot fi luate în considerare întrucât nici în prezenta
+
+Procedură nu sunt luate în considerare, și nu au fost incluse in valoarea contractului de concesiune. Astfel cum argumentează Autoritatea Contractantă la critica privind modul de calcul a tarifelor TIO - T13, la calculul costurilor finale, nu se iau în calcul veniturile din vânzarea reciclabilelor.
+
+Acest element este suficient pentru dovedirea unui tratament discriminatoriu, contrar Deciziei CNSC, nefiind relevante elementele care compun aceste tarife, riscurile asociate prestării serviciilor în zonele respective, durata concesiunii, veniturile și cheltuielile estimate, etc.
+
+(d) Documentația de atribuire nu face aplicarea principiului „plătește pentru cât arunci
+
+Cu privire la această chestiune atât Autoritatea Contractantă cât și Consiliul sunt într-o gravă eroare. Principiul „plătește pentru cât arunci", așa cum îi arată denumirea, presupune ca utilizatorii serviciului de salubrizare să plătească doar costul ce corespunde cantității de deșeuri pe care o generează. în acest sens OG nr. 17 alin. 5 din OUG nr. 92/2021 privind regimul deșeurilor stabilește că asociațiile de dezvoltare intercomunitară au obligația să implementeze acest principiu, pe baza unuia sau mai multora din elementele (i) volum, (ii) frecvență de colectare, (iii) greutate, (iv) saci de colectare personalizați.
+
+Este adevărat că în prezenta Procedură A__ a implementat formal 2 din elementele enumerate de prevederile invocate mai sus, în speță greutatea (prin instituirea obligației dotării autospecialelor cu cântare) și sacii personalizați (prin obligarea operatorului să oferteze saci de 60 de litrii, personalizați), însă nu a legat aceste elemente de costul pe care trebuie să îl plătească utilizatorii, astfel încât aceștia să plătească pentru cât aruncă.
+
+În ciuda faptului că se cer cântare pe utilajele de colectare a deșeurilor, prețul pe care urmează să îl plătească utilizatorii fost stabilit ca fiind unul forfetar, urmând a se factura o sumă fixă pe fiecare persoană din gospodărie, indiferent de cantitatea de deșeuri generată și "aruncată".
+
+Prin faptul că tariful se cere a fi ofertat pe persoană și nu pe cantitate, tarifarea urmând a fi realizată forfetar, nu pe cât se aruncă, indiferent de faptul că s-a implementat elementul de determinare a greutății și cel privind sacii de colectare personalizați, scopul normei cuprinse în art. 17 alin. 5 din OUG nr. 92/2021 nu poate fi atins prin prezenta procedură întrucât utilizatorii nu plătesc cât aruncă ci plătesc o sumă fixă lunară.
+
+II. Referitor la elementele de nelegalitate cu privire la care au fost solicitate doar remedieri
+
+(a) Nelegalitatea valorii redeventei
+
+Prin Decizia CNSC, Consiliul nu a observat esența, respectiv faptul că redevența ce se plătește pentru bunurile concesionate trebuie să se raporteze exclusiv la durata pentru care aceste bunuri sunt folosite de concesionarul prezentului contract de concesiune. Fără motiv însă. În speță însă, valoarea redeventei a fost stabilită si pentru durata anterioară începerii contractului si pentru durata ulterioară ajungerii la termen a contractului.
+
+În esență, greșeala Autorității Contractante, ce nu a fost sancționată de Consiliu, este aceea că a însumat valoarea totală amortizabilă a tuturor bunurilor concesionate și a împărțit acea valoare la 10 ani cât este durata contractului. întrucât redevența se plătește pentru folosința acestor bunuri de către operator, care le folosește timp de 10 ani, ce trebuia să facă Autoritatea Contractantă pentru a se conforma modului de calcul al redevenței din art. 29 alin. 11 lit. m) din Legea nr. 51/2006 era să ia valoarea de inventar a bunurilor, să o împartă la durata de funcționare a acestora pentru a determina valoarea anuală de amortizare, valoare pe care apoi să o înmulțească cu 10 pentru a determina valoarea redevenței, similar amortizării pe cei 10 ani contractuali.
+
+Majoritatea bunurilor de inventar puse la dispoziție în prezenta Procedură au fost puse în funcțiune în 2007 și au fost folosite de autoritățile publice sau de alți operatori până în 2022, având loc în această perioadă amortizarea. Dacă se menține valoarea redevenței actuale, prin impunerea acesteia operatorului acesta va fi ținut să plătească redevență de amortizare inclusiv pentru perioada anterioară contractului (2007-2022) cât și pentru perioada ulterioară contractului (2032 -), pentru bunurile cu o durată de funcționare mai mare, deși acestea din urmă, se presupune că vor fi preluate de un alt operator, care la rândul or va fi ținut să plătească redevență.
+
+Dacă ar fi validat punctul de vedere al CNSC, conform căruia bunurile ar trebui să se amortizeze integral pe durata concesiunii, indiferent de perioada legală de amortizare, întrucât toate bunurile ce fac obiectul prezentului contract au mai fost anterior concesionate, înseamnă că acestea au fost deja amortizate în baza concesiunii anterioare. în acest caz, raționamentul de calcul al redevenței expus de Autoritatea Contractantă în Documentația de atribuire nu mai este valid, toate calculele realizate fiind nenecesare.
+
+Evident, această concluzie nu se susține. Raportat la prevederile Legii nr. 51/2006 și validată de calculele asumate de Autoritatea Contractantă prin Documentația de atribuire, singura concluzie rezonabilă în cadrul limitelor legale este că bunurile concesionate se amortizează proporțional pe durata contractelor de concesiune (care pot fi consecutive), în limita perioadei de amortizare prevăzută de lege, duratei contractului de concesiune în care acestea sunt folosite de concesionari.
+
+Acest lucru a încercat și A__ să îl justifice prin calculele de redevență din Documentația de atribuire doar că, în loc să determine valoarea anuală de amortizare și să o înmulțească cu 10 ani, a determinat valoarea totală de amortizare la valoarea de inventar (valoare de nou) și a împărțit-o la 10 ani, fiind astfel încălcate prevederile art. 11 , lit m) din Legea nr. 51/2006.
+
+În ceea ce privește punctele de colectare din Piatra N____, enumerate la pag. 90 din Caietul de sarcini, acestea nu _____________________ bunuri amortizabile, motiv pentru care nu se poate percepe redevență.
+
+Chiar și în cazul în care a r fi acceptat punctul de vedere al Consiliului, pentru aceste bunuri redevență a fost calculată nelegal prin însumarea valorii lor totale de inventar și împărțirea acesteia la durata contractului. în realitate însă, și cu privire la acestea, ar trebui avută în vedere doar durata în care aceste bunuri sunt folosite de operator (10 ani) și valoarea de amortizare aferentă acestei perioade.
+
+(b) Autoritatea Contractantă a desemnat în mod nelegal toți funcționarii din cadrul A__ drept „persoane cu funcție de decizie în procedură"
+
+În speță însă, Autoritatea Contractantă a întocmit o listă cu tot personalul său, inclusiv persoane cu contractele de muncă suspendate (pag. 9 din fișa de date- Tabel „Aparat tehnic", poz. 5, 8, 9) sau cu funcții care nu au legătură cu desfășurarea procedurii ori rezultatul acesteia. Acest lucru generează riscul limitării nejustificate a accesului la procedură prin crearea unui risc de conflict de interese între personalul superfluu din lista A__ și personalul oricărui ofertant potențial. Acest lucru este nelegal și în consecință se impune remediat.
+
+(c) Documentația de atribuire nu indică destinatarii tarifelor TIO - TI3, respectiv cum se vor factura aceste tarife utilizatorilor din aria delegării;
+
+Prin contestație, cu privire la tarifele TIO -T13, ce se impun ofertate conform Documentației de atribuire pentru activitățile de transfer a deșeurilor, sortare și compostare, au fost criticate două aspecte tratate incomplet de Consiliu, respectiv:
+
+a. Documentația de atribuire nu indică modul de aplicare a acestor tarife, respectiv dacă trebuie incluse în tarifele activităților de colectare și transport a deșeurilor sau se vor evidenția separat în facturi. în acest din urmă caz, se impune totodată lămurirea modului de includere a acestor tarife și de determinare a cantităților de deșeuri ce trebuie avute în vedere la aplicarea acestora.
+
+b. Dacă activitățile de transfer, sortare și compostare se vor realiza exclusiv pentru utilizatorii din zona 1 a județului N____ sau și în favoarea operatorilor de colectare și transport a deșeurilor din zonele 2-4 ale județului.
+
+Cu privire la prima chestiune, nici Autoritatea Contractantă, prin Punctul de vedere formulat, nici Consiliul nu au adus-o în discuție, sens în care Decizia CNSC nu soluționează această critică, în condițiile art. 34 alin. 4 din Legea nr. 101/2016, se impune judecarea pe fond a acestui motiv din Contestație ce nu au format obiectul analizei Consiliului.
+
+Cu privire la a doua chestiune, prin Punctul de Vedere înaintat de Autoritatea Contractantă către CNSC, aceasta a arătat că activitatea de compostare la stația de compostare Piatra N____ se va presta și în favoarea operatorilor din Zonele 2-4 ale Județului. Aceasta reprezintă o informație nouă ce nu a fost cuprinsă în Documentația de atribuire. Cu toate acestea, în mod eronat, prin Decizia CNSC se reține că informația exista în documentația de atribuire, sens în care nu este necesar să fie adusă la cunoștința operatorilor interesați de procedură, prin publicarea unei erate.
+
+(d) Nelegalitatea unora din clauzele Modelului Contractului
+
+Prin Decizia CNSC, s-a reținut eronat că „Prin concluzii scrise contestatorul renunță la această critică", sens în care Consiliul nu o analizează, apoi, la aceiași pagină consideră că toată contraargumentația subscrisei cu privire la aceste aspecte, cuprinsă la par. 107-114 din Concluziile scrise, constituie motive noi invocate și sunt respinse ca atare în temeiul art. 21 alin. 3 din Legea nr. 101/2016. Renunțarea trebuia însă să fie expresă și la par. 107-112 din Concluziile scrise nu există o astfel de renunțare, sens în care Decizia CNSC sub acest aspect este greșită, fiind aplicabile prevederile art. 34 alin. 4 din Legea nr. 101/2016.
+
+Totodată, este greșită Decizia CNSC și sub aspectul reținerii invocării unor motive noi prin concluziile scrise, aspectele de la par. 107-112 din acestea fiind doar contraargumentele subscrisei la apărările Autorității Contractante față de criticile din Contestație de la paginile 184- 200.
+
+Autoritatea contractantă a formulat întâmpinare prin care a solicitat respingerea plângerii ca nefondată ,arătând următoarele:
+
+I. . Referitor la elementele de nelegalitate cu privire la care a fost solicitată anularea procedurii
+
+a) Decizia de concesionare nu a fost motivată corect
+
+În cadrul documentației de atribuire, Autoritatea contractantă a respectat matricea preliminară de repartiție a riscurilor de proiect cuprinsă în anexa nr. 1 la H.G. nr. 867/2016. Astfel, în cadrul Caietului de sarcini, la cap. 18.2. este prezentata alocarea responsabilităților în cadrul Contractului de delegare, iar la cap. 18.3 este prezentata alocarea riscurilor. Acest fapt nu este contestat de către petenta.
+
+Din Matricea Riscurilor prezentata în Documentația de atribuire, riscul de operare va fi transferat în mare parte viitorului operator de salubrizare, motiv pentru care Contractul de delegare a gestiunii activității de colectare și transport a deșeurilor municipale și de operare a facilităților de tratare a deșeurilor în Zona 1 a județului N____ va fi un Contract de concesiune de servicii și va fi atribuit în baza unei proceduri de licitație publica deschisă conform prevederilor art. 50 din Legea nr. 100/2016 privind concesiunile de lucrări și concesiunile de servicii, fiind respectate prevederile art. 6 și 8 din Lege, invocate de către petentă.
+
+Din analiza prevederilor art. 6 și ort. 8 din Legea nr. 100/2016 rezultă că obligația Autorității contractante este „...să analizeze daca atribuirea contractului implică transferul unei părți semnificative a riscului de operare către operatorul economic" și nu să elaboreze calcule de risc pentru estimarea pagubei potențiale, așa cum solicită petenta.
+
+b) Documentația de atribuire este nelegală întrucât a fost întocmită în baza unor acte normative abrogate
+
+Motivele inițiale formulate de petenta-contestatoare la pct. Ill.(b) din Contestație, echivalente prezentului capăt de cerere, au fost schimbate de petenta, prezenta argumentație constituind motive noi de contestație, fapt ce conduce la încălcarea prevederilor art. 30 alin. (2) din Legea nr. 101/2016 : „în plângere, contestatorul nu poate invoca alte motive împotriva actelor autorității contractante decât cele cuprinse în contestația adresată Consiliului".
+
+Consiliul este de acord cu faptul că, din punctul de vedere al formei, actele normative menționate în cuprinsul documentației de atribuire trebuie să fie în vigoare la data publicării, dar constată că, pe fond, petenta nu a identificat nicio încălcare a legislației aplicabile. Este adevărat că Autoritatea contractantă este obligată să asigure legalitatea procedurii de atribuire, totuși petenta nu răstoarnă prezumția de legalitate a procedurii și nu prezintă dovezile ce au forța probantă necesară în susținerea afirmațiilor sale.
+
+c) Autoritatea Contractantă tratează discriminatoriu operatorii din Zona 1 a județului N____ față de operatorii desemnați în zonele 2-4 ale județului
+
+Temeiul legal invocat de petentă nu este reprezentat de prevederile Legii nr. 100/2016 privind concesiunile de lucrări și concesiunile de servicii. Având în vedere principiul disponibilității, apreciem că obligația legală invocată de petentă, respectiv presupusa încălcare a prevederile art. 9 alin. (1) din Legea nr. 101/2006 a serviciului de salubrizare al localităților, nu este în măsură să afecteze legalitatea organizării prezentei proceduri de atribuire astfel încât să fie incidente cauzele de anulare a procedurii prevăzute la art. 89 alin. (1) lit. c) și alin. (2) din Legea nr. 100/2016, respectiv încălcarea principiilor prevăzute la art. 2 alin. (2) din același act normativ:
+
+a) nediscriminarea;
+
+b) tratamentul egal.
+
+Proiectul SMID în județul N____ presupune delegarea a 5 contracte de concesiune a serviciilor de salubrizare către operatori privați; în prezent sunt delegate zonele de colectare 2, 3 și 4 precum și operarea depozitului județean de deșeuri nepericuloase de la Girov;
+
+Potrivit prevederilor art. 9 alin. (1) din Legea 101/2006 invocat de petenta, „autoritățile administrației publice locale au, față de operatorul serviciului de salubrizare, următoarele obligații: a) să asigure tratament egal pentru toți operatorii serviciilor de salubrizare care acționează în cadrul.... asociației de dezvoltare intercomunitară..."
+
+Legislația aplicabilă, așa cum arată și petenta, a suferit ample modificări de la data organizării și atribuirii contractelor de delegare din Zonele 2, 3 și 4 (anii 2016-2018), actualele cerințe legislative fiind orientate pe reciclarea de înaltă performanță și acoperirea costurilor de operare cu veniturile obținute din valorificarea deșeurilor reciclabile; Zonele de operare nu sunt comparabile, fiind diferite geografic și mai ales demografic, cu o directă afectare a cantităților de deșeuri gestionate și, implicit, a tarifelor pe unitatea de măsură aplicate
+
+Autoritatea contractantă a actualizat plafoanele maximale ale tarifelor conform Decizie CNSC si ținând cont de pragul de suportabilitate al populației. Tarifele pentru zonele 2, 3 și 4 ale județului vor fi actualizate după atribuirea contractului de delegare pentru Zona 1, conform METODOLOGIE DE ACTUALIZARE A PLANULUI TARIFAR, anexată la Circulara MFE-POIM _____/03.06.2020. Așa cum rezultă din conținutul Circularei abia după delegarea tuturor zonelor, plafoanele tarifare se pot aplica și în zonele deja delegate. Practic, lipsa tratamentului egal reclamat de reclamantă va presupune aplicarea prevederilor Circularei _____/03.06.2020 MFE-POIM în Zonele 2, 3 și 4 și nu invers, eludarea prescripțiilor acesteia în Zona 1.
+
+d) Documentația de atribuire nu face aplicarea principiul „plătește pentru cât arunci"
+
+În documentația de atribuire Autoritatea contractantă a prevăzut implementarea principiului „plătește pentru cat arunci" conform prevederilor legale în vigoare, precizate inclusiv de către petentă, prin elementele „greutate" și „saci personalizați" fapt necontestat de către petenta. Elementul „greutate" este implementat prin cerința Autorității contractante ca utilajele/ autovehiculele utilizate pentru activitatea de colectare și transport sa fie dotate cu sistem de cântărire a deșeurilor colectate. Elementul „saci personalizați" este implementat prin cerința Autorității contractante ca operatorul delegat sa distribuie utilizatorilor casnici saci din plastic de 60 litri, personalizați pe culori specifice fiecărui tip de deșeu reciclabil colectat.
+
+Petenta este operatorul actual al serviciului de salubrizare în Mun.. [localitate] N____ și încă 10 UAT- uri rurale din Zona 1 a județului N____, utilizând în prezent, în relația cu utilizatorii casnici tariful „lei/persona/lună", iar acceptarea prezumțiilor petentei ar însemna faptul ca însăși petenta NU respecta prevederile legale privind implementarea principiul „plătește pentru cat arunci" și pe cale de consecința investește instanța sa constate acest fapt.
+
+Este eronată interpretarea petentei-contestatoare de la pct. 45 din Contestație, menționată în Plângere la pct. 47: „Impunerea unui tarif forfetar în lei/ persoană/lună nu poate atinge acest deziderat, fiecare persoană fizică urmând a plăti exact același tarif, indiferent de comportamentul său în materie de reciclare. Implementarea principiului „plătește pentru cat arunci" constituie un „instrument economic care ore drept scop creșterea ratei de reutilizare, reciclare și reducere a cantității de deșeuri la depozitare prin stimularea colectării separate a deșeurilor;' prin elemente tip volum, greutate, saci personalizați în funcție de tipul de deșeu etc. și nu prin tariful sau taxa de colectare instituite. Acest principiu stimulează valorificarea deșeurilor reciclabile și devierea de la depozitare (adică utilizatorii sunt stimulați să sorteze cât mai bine, în locuință deșeurile încât deșeul rezidual - pe care îl separă cu atenție de deșeurile reciclabile, să fie cât mai puțin și în consecință să plătească cât mai puțin pentru serviciile operatorului, iar acesta din urmă să poată aduce în sistem, în compensare, venituri din reciclare a "fracției uscate" cât mai mari. În fapt, contrar aserțiunilor petentei, tarifarea serviciului de salubrizare este exprimată în lei/tona, deci lei/greutate, fiind făcută doar conversia acestui tarif în lei/ persoana/luna după o formula matematica clar definita în documentația de atribuire, respectiv cantitatea de deșeuri colectata anual/lunar raportata la numărul de persoane din mediul urban și rural.
+
+II. Referitor la elementele de nelegalitate cu privire la care au fost solicitate remedieri
+
+(a) Nelegalitatea valorii redevenței
+
+În fapt, în documentația de atribuire, conform prevederi legale aplicabile, Autoritatea contractantă a prevăzut o redevența pentru bunurile proprietate publica care urmează a fi puse la dispoziția viitorului operator delegat. Valoarea redevenței a fost calculata cu respectarea legii. art. 29, alin. 11 lit. m din Legea serviciilor comunitare de utilități publice, similar amortizării, dar nu identic, valorile elementelor patrimoniale aflate în proprietate publica și care vor fi puse la dispoziție operatorului delegat fiind cele din evidentele financiar-contabile ale UAT-urilor Piatra N____ si R_____.
+
+Autoritatea contractantă a prezentat detaliat modul de determinare a redevenței anuale ca fiind valoarea rămasă de amortizat - stabilită conform datelor prezentate de către UAT [localitate] N____ și UAT R_____, împărțită la durata contractului de delegare - determinata la 10 ani. Ea a fost comunicată tuturor potențialilor ofertanți, prin publicare în SEAP, în mod transparent și nediscriminatoriu, redevența constituind una din clauzele obligatorii ale contractului de delegare, fiind astfel respectate cerințele legale.
+
+Referitor la punctele de colectare din Piatra N____ legiuitorul a stabilit In mod clar și fără echivoc faptul ca sunt considerate mijloace fixe amortizabile, investițiile efectuate din surse proprii, concretizate în bunuri noi, de natura celor aparținând domeniului public, implicit deci si punctele de colectare de mai sus.
+
+b) Autoritatea contractantă a desemnat în mod nelegal, toți funcționarii din cadrul A__ drept „persoane cu funcție de decizie în procedura"
+
+Autoritatea contractantă a întocmit și publicat, ca principală măsură necesară și obligatorie pentru prevenirea, identificarea și remedierea situațiilor de conflict de interese, o listă completă a persoanelor ce dețin funcții de decizie în cadrul Autorității contractante, listă ce îndeplinește exigențele legale și cele rezultate din practica CNSC citată de petentă. Lista persoanelor cu funcție de decizie publicată la punctul III.1.1. CERINȚA 2 din Fișa de date a achiziției, respectiv în declarația cuprinsa în Formularul 6.5 din documentația de atribuire, include membrii aparatului tehnic al Asociației, întrucât acesta a fost mandatat să asigure organizarea și desfășurarea procedurii de atribuire a contractului de delegare, respectiv face parte din Comisia de evaluare a ofertelor sau au calitatea de membri ai Comisiei de coordonare și supervizare pentru pregătirea și planificarea prezentului contract de concesiune.
+
+Referitor la lipsa vătămării constatate de CNSC, Petenta nu contestă acest fapt, susținerile referitoare la îngrădirea nejustificate a accesului operatorilor Io procedură (la pct. 69 și 72) prin crearea unui risc de conflict de interese (la pct. 72) nu poate reprezenta o vătămare în condițiile obligațiilor legale ce impuse tuturor participanților la proceduri de achiziție publică, respectiv prevenirea, identificarea și remedierea situațiilor de conflict de interese.
+
+c) Documentația de atribuire nu indică destinatarii tarifelor T10-T13, respectiv cum se vor factura aceste tarife utilizatorilor din aria delegării
+
+Cerința petentei privind modul cum se vor factura aceste tarife utilizatorilor din aria delegării nu a făcut obiectul contestației inițiale. În concret, la acest capăt de cerere petenta- solicita clarificări privind utilizarea tarifelor solicitate în documentația de atribuire pentru tratarea/transferul deșeurilor.
+
+Tarifele distincte pentru operarea facilităților de tratare/transfer a deșeurilor au fost solicitate tocmai pentru a facilita pe de o parte verificarea fundamentării acestora pe baza de costuri, cerința imperativa a Circularei MFE / POIM _____/03 06.2020 .Nnumai tariful T13 - Tarif compostare Stație de compostare Piatra N____ va fi aplicat operatorilor de salubrizare din zonele 2-4, care vor avea impusa obligația de a transporta deșeurile biodegradabile colectate separat la Stația de compostare Piatra N____. Pentru fundamentarea acestor tarife, cantitățile de deșeuri anuale prognozate au fost prezentate detaliat în documentația de atribuire, caracteristicile tehnice ale echipamentelor fiind și acestea prezentate.
+
+d) Nelegalitatea unora din clauzele Modelului Contractului
+
+Art. 10 INDICATORII DE PERFORMANȚĂ alin. (1) din Secțiunea 4 Condiții contractuale prevede obligașia de despăgubire a autorității contractante. În situația neîndeplinirii Indicatorilor de Performanță generali și specifici pe activități de colectare, transport deșeuri și operare instalații sortare Piatra N____ și R_____ și compostare Piatra N____, situație care are drept consecință depozitarea unei cantități de deșeuri peste ținta legală stabilită în OUG 196/2005, conform obligațiilor legale stabilite prin OUG nr. 92/2021. In consecință, este deplin justificat faptul că „se constituie o obligație de plată a Delegatului către Delegator egală cu costul total pentru depozitarea cantității de deșeuri rezultată în urma neîndeplinirii indicatorului de performanță, fiind incluse aici atât costurile directe percepute la depozitarea deșeurilor (tariful la depozitare + CEC de 80lei/tonă) cât și orice altă sumă suplimentară pe care legislația în vigoare o prevede a fi percepută în legătură cu depozitarea deșeurilor (penalitatea de 50 Iei/tonă aplicată UAT).
+
+Obligația criticată corespunde obligației instituite prin art. 17 alin. (5) lit. g) și I) din OUG nr. 92/2021 privind regimul deșeurilor, respectiv includerea în contractele de delegare de penalități pentru nerealizarea indicatorilor de performanță, respectiv suportarea de către operatori a contribuției pentru economia circulară pentru cantitățile de deșeuri municipale destinate a fi depozitate care depășesc cantitățile corespunzătoare indicatorilor de performanta prevăzuți în contracte. Astfel, nu există o dublă reglementare contractuală, așa cum susține reclamanta, sancțiunile contractuale neputându-se confunda cu despăgubirile datorate pentru neîndeplinirea culpabilă a contractului.
+
+Prin Decizia C.A. Bacău nr. 52/2018, instanța s-a pronunțat în legătură cu solicitarea aceleiași petente, solicitare vizând eliminarea art. 10 alin. (1) din Contractul de delegare (identic cu cel contestat în prezenta) astfel că poate fi reținută puterea de lucru judecat a Deciziei menționate asupra acestui motiv al plângerii.
+
+Referitor la conținutul art. 10 ASIGURĂRI alin. (5) din Secțiunea 4 Condiții contractuale, petenta nu dovedește susținerea potrivit căreia „cerința este imposibil de îndeplinit în condițiile actuale ale pieței asigurărilor'’, respectiv „atare clauză, constituie o piedică pentru asigurători să emită polița necesară". Clauza contractuală contestata este necesară în contextul în care, atât Contractul de cât și Caietul de sarcini prevăd activitatea de monitorizare a serviciilor delegate prin prezența fizică a angajaților sau agenților Delegatarului.
+
+Curtea, analizând plângerea, constată că este întemeiată pentru cele ce vor fi arătate în continuare.
+
+I. Referitor la elementele de nelegalitate cu privire la care a fost solicitată anularea procedurii
+
+(a) Decizia de concesionare nu a fost motivată corect
+
+În fundamentarea criticilor sale cu privire la nemotivarea deciziei autorității contractante de a concesiona serviciile de salubritate, petenta pleacă de la ideea că una din cele trei condiții necesare adoptării unei astfel de decizii , respectiv cuantificarea riscurilor, prevăzută în 13 alin. 1 din H.G. nr. 867/2016, nu a fost îndeplinită de intimată. Pentru a ajunge la această concluzie petenta atribuie sintagmei „cuantificarea în termeni economici și financiari a riscurilor de proiect" un înțeles de determinare cantitativă, valorică a riscurilor de proiect.
+
+Curtea constată, la fel cum a făcut și Consiliul, că dispozițiile legale aplicabile și, mai ales, matricea riscurilor recomandată drept model de art. 123 alin. 2 din H.G. nr. 876/2016, nu cuprind însă nicio trimitere care să susțină interpretarea petentei, ea fiind văzută de legiuitor, conform alineatului 3 al aceluiași articol,, drept „ un instrument pentru reprezentarea, compararea și, respectiv, ierarhizarea riscurilor pentru un proiect de concesiune, pe baza unei liste generale de referință a riscurilor identificate". Nu există așadar, nicio trimitere la cuantificări valorice ale riscurilor , întocmirea matricei presupunând identificarea riscurilor și ierarhizarea lor pe baza listei generale de referință a acestora. Or, această operațiune a fost realizată de autoritatea contractantă , studiul de oportunitate cuprinzând detaliat, la paginile 165-170, analiza riscurilor și repartizarea acestora între delegat și delegatar.
+
+Pe cale de consecință, criticile petentei nu pot fi reținute.
+
+b) Documentația de atribuire este nelegală întrucât a fost întocmită în baza unor acte normative abrogate
+
+Petenta critică soluția Consiliului de a obliga autoritatea contractantă la actualizarea caietului de sarcini și a studiului de oportunitate cu legislația aplicabilă obiectului contractului susținând că întemeierea procedurii pe acte normative abrogate este de natură să atragă nulitatea acestei.
+
+Curtea constată că petenta s-a limitat la critici cu caracter general, fără a indica în concret care sunt secțiunile din documentația de atribuire care s-au întemeiat pe acte normative abrogate și nici în ce măsură documentația de atribuire nu respectă legislația aplicabilă la momentul întocmirii ei.
+
+În aceste condiții, actualizarea dispusă prin decizia contestată este suficientă pentru a asigura respectarea principiului legalității, criticile formulate sub acest aspect urmând să fie respinse.
+
+c) Autoritatea Contractantă tratează discriminatoriu operatorii din Zona 1 a județului N____ față de operatorii desemnați în zonele 2-4 ale județului
+
+Petenta își întemeiază aceste critici pe dispozițiile art. 9 alin. 1 din Legea nr. 101/2006, text care prevede că autoritățile administrației publice locale au, față de operatorul serviciului de salubrizare, obligația să asigure tratament egal pentru toți operatorii serviciilor de salubrizare care acționează în cadrul unității administrativ-teritoriale sau al asociației de dezvoltare intercomunitară, după caz, și pe împrejurarea că tarifele aplicate în zonele 2-4 sunt semnificativ mai mari față de cele aplicabile în zona 1.
+
+Curtea constată că, la momentul derulării prezentei proceduri de atribuire, serviciile pentru zonele 2-4 sunt deja atribuite și că între aceste zone și cea care face obiectul prezentei proceduri există diferențe notabile , care merg de la deosebiri geografice și demografice până la utilizarea unor condiții diferite de colectare. Totodată, dispozițiile legale aplicabile au suferit multiple modificări , cerințele actuale punând accent pe reciclare și acoperirea costurilor de operare cu veniturile obținute din valorificarea deșeurilor reciclabile. Or , date fiind aceste diferențe, simpla comparare a tarifelor nu poate susține , după cum a arătat și Consiliul, ideea existenței unei discriminări între operatori, o astfel de susținere reclamând o analiză aprofundată a tuturor factorilor de natură să influențeze tarifele, cu consecința indicării concrete a elementelor de apte să justifice concluzia tratamentului inegal între operatori, aspect care se impunea cu atât mai mult cu cât atribuirea contractelor pentru zonele indicate s-a făcut pe paliere temporale diferite.
+
+De altfel, după cum rezultă din Metodologia de actualizare a planului tarifar, anexată la Circulara _____/3.06.2020 , aceasta se realizează după atribuirea tuturor contractelor de delegare, ceea ce prepune că tratamentul egal al tuturor operatorilor din cele 4 zone va putea fi realizat după delegarea tuturor zonelor, tarifele din zonele 2-4 urmând să fie raportate la cele din zona 1.
+
+Pe cale de consecință, pentru cele arătate mai sus, Curtea nu va reține nici aceste critici.
+
+d) Documentația de atribuire nu face aplicarea principiul „plătește pentru cât arunci"
+
+Principiul „plătește pentru cât arunci" este solicitat a fi implementat prin dispozițiile art. 17 alin. 5 lit. h din O.U.G. nr. 92/2021 fără ca acest act normativ sau legislația secundară să-l detalieze, cu excepția prevederii cuprinse în textul amintit care prevede drept elemente de implementare alternative sau cumulative volumul, greutatea , frecvența de colectare sau sacii personalizați și a celei de la punctul 21 din anexa 1 la lege, prevedere care îl definește drept „instrument economic care are drept scop creșterea ratei de reutilizare, reciclare și reducere a cantității de deșeuri la depozitare prin stimularea colectării separate a deșeurilor."
+
+Autoritatea contractantă, în absența unei reglementări detaliate a acestui principiu, susține că l-a implementat prin cerințele privind dotarea autospecialelor cu cântare și obligarea la ofertarea de saci personalizați de 60 de litri, două din cele 4 elemente avute în vedere de prevederile art. 17 alin. 5 lit. h din O.U.G. nr. 92/2021. Cu toate acestea tarifarea serviciului de salubrizare este realizată prin aplicarea unui tarif în lei /persoană/lună , obținut, susține intimata, prin conversia tarifului în lei/ tonă după o formulă matematică., ceea ce ar reprezenta, în opinia sa, implementarea principiului amintit.
+
+Definiția legală a principiului „plătește cât arunci" cuprinsă în anexa nr. 1 pct . 21, precum și denumirea acestuia, duc însă la concluzia că implementarea acestuia presupune ca utilizatorul final, cel care generează deșeurile, să plătească numai cantitatea de deșeuri efectiv colectată de operator, numai în această situație putându-se obține „creșterea ratei de reutilizare, reciclare și reducere a cantității de deșeuri la depozitare prin stimularea colectării separate a deșeurilor". Aplicarea reală a principiului plătește cât arunci duce, în final, la plata unor sume diferite de către generatorii de deșeuri , în funcție de cantitatea generată și de colectarea selectivă a deșeurilor, cu consecința inducerii în rândul utilizatorului final al serviciului de colectare a unor comportamente precum reducerea deșeurilor generate, creșterea gradului de reciclare și reducerea cantităților depozitate.
+
+Așadar , în raport de cele arătate, câtă vreme tarifarea serviciului de colectare se realizează în continuare prin plata unei taxe lunare pe persoane, calculată în funcție de cantitatea colectată lunar raportată la numărul de beneficiari, după cum chiar intimata arată, și nu prin raportarea la cantitatea de deșeuri colectată, autoritatea contractantă nu a pus în practică principiul „plătește pentru cât arunci", încălcând astfel obligația legală stabilită prin art. . 17 alin. 5 lit. h din O.U.G. nr. 92/2021.
+
+Primind criticile petentei cu privire la acest aspect, Curtea nu poate însă admite cererea de anulare a procedurii, o astfel de soluție putând fi dispusă, conform art. 34 alin. 1 lit. d din Legea nr. 101/2016 , numai în situația în care nu este posibilă remedierea actului atacat. Or autoritatea contractantă a impus deja în documentația de atribuire cerințe care pot sta la baza implementării efective a principiului „plătește cât arunci" ( dotarea autospecialelor cu cântare și sacii personalizați de 60 l ) , elementele indicate putând sta la baza taxării doar a cantității colectate de la fiecare generator de deșeuri,.
+
+Pe cale de consecință, pentru cele anterior arătate, Curtea va primi criticile petentei sub acest aspect și va schimba decizia atacată, obligând autoritatea contractantă la modificarea documentației de atribuire astfel încât principiul „plătește pentru cât arunci " să fie pus în practică. Deși în paragraful anterior s-a arătat că documentația de atribuire cuprinde deja cerințe care pot sta la baza aplicării efective a principiului, nimic nu oprește autoritatea contractantă, în aplicarea dispozițiilor prezentei hotărâri, să îl pună în practică prin utilizarea celorlalte elemente prevăzute de art. 17 alin. 5 lit. h din O.U.G. nr. 92/2021 sau prin combinarea lor cu cele deja prezente în documentație.
+
+II. Referitor la elementele de nelegalitate cu privire la care au fost solicitate remedieri
+
+(a) Nelegalitatea valorii redevenței
+
+Art. 29 alin. 11 lit. m din Legea nr. 85/2006 prevede că „la stabilirea nivelului redevenței, autoritatea publică locală va lua în considerare valoarea calculată similar amortizării pentru mijloacele fixe aflate în proprietate publică și puse la dispoziție operatorului odată cu încredințarea serviciului/activității de utilități publice și gradul de suportabilitate al populației. Nivelul redevenței se stabilește în mod transparent și nediscriminatoriu pentru toți potențialii operatori de servicii de utilități publice, utilizându-se aceeași metodologie de calcul".
+
+Răspunzând criticilor petentei privind calcularea eronată a redevenței prin luarea în calcul a valorii de noi a mijloacelor fixe, care a fost împărțită la cei 10 ani de contract, autoritatea contractantă arată că aceste susțineri nu au corespondent în documentația de atribuire, valoarea luată în calcul pentru stabilirea redevenței fiind valoarea rămasă de amortizat stabilită conform datelor prezentate de către U.A.T R_____ și UAT [localitate] N____.
+
+Analizând documentația de atribuire Curtea constată că din valoarea totală a bunurilor de retur , pentru cele două unități administrativ teritoriale, autoritatea contractantă a scăzut valoarea bunurilor amortizate, rămânând o valoare de amortizat de 32.587.101,48 lei, utilizată ca bază de calcul pentru stabilirea redevenței prin împărțirea acestei la durata contactului( fila 120 studiu de oportunitate).Pentru a ajunge la valoarea rămasă de amortizat arătată, autoritatea contractantă a scăzut din totalul valorii bunurilor de retur valoarea bunurilor amortizate în totalitate. Pentru celelalte bunuri, amortizate parțial, autoritatea contractantă a luat în calcul valoarea de inventar a acestora ( tabelele de la filele 117-119 din studiul de oportunitate) ceea ce înseamnă valoarea deja amortizată nu a fost scăzută din valoarea totală a bunurilor de retur. Nu există însă nicio rațiune pentru care valoarea unui bun total amortizat să nu fie luată în calcul la stabilirea redevenței iar valoarea unui bun parțial amortizat să fie integral utilizată la determinarea redevenței, considerentele care au justificat înlăturarea totală a valorii bunurilor integral amortizate impunând aceeași soluție și pentru valoarea deja amortizată a bunurilor de retur. De altfel, o astfel de rațiune nici nu este înfățișată de autoritatea contractantă, modul de întocmire a documentației de atribuire încercând să acrediteze ideea luării în calcul doar a valorii rămase de amortizat, fără diferențele arătate mai sus. Or, odată ce a optat pentru neluarea în calcul a valorii bunurilor total amortizate aceeași trebuia să fie soluția și pentru valoarea deja amortizată a bunurilor de retur.
+
+Curtea nu este însă de acord cu susținerile petentei conform cărora autoritatea contractantă ar trebui să stabilească valoarea anuală a amortizării, în raport de durata totală de utilizare a bunurilor, pe care ar fi trebuit să o înmulțească cu durata contractului pentru a obține valoarea redevenței întrucât dispozițiile art. 29 alin. 11 lit. m din Legea nr. 85/2006 nu impun o astfel de soluție , termenul folosit de legiuitor fiind „similar" amortizării, ceea ce presupune analogie și nu identitate .
+
+Nici susținerile privind eronata includere în categoria bunurilor amortizabile a punctelor de colectare nu sunt întemeiate , art. 28 alin. 3 și 12 din Codul fiscal prevăzând că investițiile efectuate din surse proprii, concretizate în bunuri noi, de natura celor aparținând domeniului public sunt considerate mijloace fixe amortizabile.
+
+Articolul 29 alin. 11 lit. m din Legea nr. 85/2006 trimite, pentru stabilirea redevenței, la două criterii:
+
+- valoarea mijloacelor fixe a bunurilor aflate în proprietate publică și puse la dispoziția operatorului
+
+- gradul de suportabilitate al populației.
+
+Din analizarea celor două criterii rezultă că stabilirea redevenței nu se rezumă la un simplu calcul matematic de însumare și împărțire pe ani a valorii bunurilor de retur, cum a procedat autoritatea contractantă, ci presupune și o „ ponderare" a valorilor astfel obținute, prin utilizarea celui de-al doilea criteriu , gradul de suportabilitate al populației. Aceasta pentru că valoarea redevenței, care se va reflecta până la urmă în tarife, nu trebuie să devină împovărătoare nici pentru populație și nici pentru operator care trebuie să poată cheltuielilor efectuate cu achiziționarea bunurilor. Or din documentația de atribuire nu rezultă că stabilirea redevenței a ținut seama și de gradul de suportabilitate al populației, criteriu obligatoriu conform 29 alin. 11 lit. m din Legea nr. 85/2006.
+
+Pe cale de consecință, pentru cele arătate anterior, Curtea urmează să admită criticile privind greșita calculare a redevenței și să oblige autoritatea contractantă la modificarea documentației de atribuire în sensul că , la stabilirea redevenței ,autoritatea contractantă va trebui să țină seama și de gradul de suportabilitate al populației conform 29 alin. 11 lit. m din Legea nr. 85/2006.
+
+Totodată, metodologia de calcul a valorii bunurilor de retur folosite la stabilirea redevenței trebuie să fie unitară în sensul că:
+
+- dacă se optează pentru înlăturarea valorii bunurilor amortizate în întregime din totalul valorii bunurilor de retur, aceeași trebuie să fie soluția și pentru valoarea parțial amortizată a bunurilor de retur , valoare care, la rândul ei trebuie înlăturată din totalul valorii bunurilor de retur
+
+- dacă se optează pentru luarea în calcul a valorii de inventar a bunurilor de retur parțial amortizate, aceeași trebuie să fie soluția și pentru bunurile total amortizate, pentru care valoarea luată în calcul va trebui să fie tot valoarea de inventar
+
+b) Autoritatea contractantă a desemnat în mod nelegal, toți funcționarii din cadrul A__ drept „persoane cu funcție de decizie în procedura"
+
+Potrivit art. 47 din Legea nr. 100/2016, autoritatea contractantă are obligația de a preciza în documentele concesiunii numele persoanelor ce dețin funcții de decizie în cadrul autorității contractante. Totodată, art. 5 alin. 1 lit. z din același act normativ circumscrie persoanelor cu funcții de decizie „conducătorul autorității/entității contractante, membrii organelor decizionale ale autorității/entității contractante ce au legătură cu procedura de atribuire, precum și orice alte persoane din cadrul autorității/entității contractante ce pot influența conținutul documentelor concesiunii și/sau desfășurarea procedurii de atribuire".
+
+Curtea constată că la baza soluției Consiliului de respingere a contestației sub acest aspect a stat ideea că nu a fost indicată nicio vătămare suferită prin întocmirea unei listei de către autoritatea contractantă și nici nu a indicat care persoană nu ar avea funcții de decizie dintre cele nominalizate în listă. Aceste susțineri nu sunt însă în acord cu textele de lege anterior citate care limitează aceste persoane la conducători și membrii organelor decizionale ale autorității și la orice persoană care poate influența conținutul documentației sau procedura de atribuire. Rațiunea unei astfel de limitări este dată necesitatea evitării potențialelor conflictelor de interese care pot fi generate într-un număr mult mai mare și în situații neavute în vedere de legiuitor .
+
+Prin urmare, lista persoanelor cu funcții de decizie în procedură nefiind întocmită cu respectarea dispozițiilor art. 5 alin. 1 lit. z din Legea nr. 100/2016 se impune admiterea plângerii și obligarea autorității contractante la întocmirea acesteia cu respectarea dispozițiilor legale arătate.
+
+c) Autoritatea Contractantă tratează discriminatoriu operatorii din Zona 1 a județului N____ față de operatorii desemnați în zonele 2-4 ale județului
+
+Curtea constată întemeiate susținerile petentei referitoare la neexaminarea de către Consiliu a criticilor referitoare la faptul că documentația de atribuire nu indică modul de aplicare a tarifelor T10-T13, respectiv dacă trebuie incluse în tarifele activităților de colectare și transport a deșeurilor sau se evidențiază separat în facturi. Soluționând contestația sub acest aspect, Consiliul a examinat doar motivul privind realizarea activităților de transfer, sortare și compostare doar pentru utilizatorii din zona 1 a județului N____ sau și în favoarea operatorilor de colectare și transport a deșeurilor din zonele 2-4 ale județului.
+
+Neanalizarea acestei critici impune soluționarea pe fond a acestui motiv de către instanță, în cauză devenind aplicabile dispozițiile art. 34 alin. 4 din Legea nr. 101/2016, plângerea fiind întemeiată sub acest aspect. Cu ocazia soluționării pe fond, pentru o soluționare unitară, Curtea va analiza și celelalte critici din contestație privind tratarea discriminatorie a operatorilor operatorii din Zona 1 a județului N____ față de operatorii desemnați în zonele 2-4 ale județului.
+
+d) Nelegalitatea unora din clauzele Modelului Contractului
+
+Motivele invocate prin contestație cu privire la art. 10 alin. 1 și 12 alin. 5 din Modelul
+
+Contractului nu au fost analizate prin decizia atacată , Consiliul considerând că prin concluziile scrise contestatoarea a renunțat la acestea iar argumentele invocate în concluziile scrise constituie motive noi care nu puteau fi primite în raport de dispozițiile art. 21 alin. 3 din Legea nr. 101/2016.
+
+Susținerile Consiliului nu au corespondent în actele dosarului, concluziile scrise formulate necuprinzând nicio mențiune cu privire la renunțarea la aceste critici. Dimpotrivă, în concluziile scrise, pentru ambele clauze contestate, contestatoarea face mențiunea că își menține criticile din contestație, concluzia Consiliului cu privire la renunțarea la critici fiind, așadar, eronată.
+
+Neexaminarea susținerilor contestatoarei determină, în raport de prevederile art. 34 alin.4 din Legea nr.101/2016, admiterea plângerii și examinarea acestora pe fond de către instanță, la un termen ulterior.
+
+Pe cale de consecință, pentru toate cele arătate anterior, în temeiul art. 34 alin.1 lit. b din legea nr.101/2016 Curtea va admite plângerea și va modifica în parte decizia CNSC nr.4/C3/3200/3.01.2022 în sensul că va admite criticile din contestație vizând: aplicarea principiului „plătește pentru cât arunci", modul de calcul al redevenței și desemnarea persoanelor cu funcții de decizie în procedură, obligând autoritatea contractantă la modificarea documentației de atribuire conform celor arătate mai sus la punctele Id , IIa și IIb .
+
+În temeiul art. 34 alin.4 va reține cauza spre rejudecare pe fond în privința criticilor din contestație vizând indicarea destinatarilor tarifelor T10-T13 și nelegalitatea art. 10 al. 1 și art. 12 al. 5 din modelul contractului de achiziție și va ,menține celelalte măsuri dispuse de consiliu prin decizia contestată.
+
+La termenul ce va fi stabilit Curtea se va pronunța și asupra cererii de prelungire a termenului limită de depunere a ofertelor Cerințele cuprinse în art. 29 alin. 3 si 4 din Caietul de sarcini de suplimentare a Instalațiilor, utilajelor sau vehiculelor ieșite din uz sunt nelegale.
+
+PENTRU ACESTE MOTIVE,ÎN NUMELE LEGII
+
+DECIDE
+
+Admite plângerea formulată de petenta [OPERATOR ECONOMIC] cu sediul ales la C__. Av. C______ C______ în mun. Cluj N_____, ______________________.38-40, ___________________ împotriva Deciziei Consiliului N_______ de Soluționare a Contestațiilor nr.4/C3/3209/03.01.2022, în contradictoriu cu intimata-autoritate contractantă A________ de Dezvoltare Intercomunitară „ECONEAMȚ", cu sediul în mun. Piatra N____, ______________________, nr.27, județul N____.
+
+Modifică în parte decizia CNSC nr.4/C3/3200/3.01.2022 în sensul că admite criticile din contestație vizând: aplicarea principiului „plătește pentru cât arunci", modul de calcul al redevenței și desemnarea persoanelor cu funcții de decizie în procedură. Obligă autoritatea contractantă să modifice documentația de atribuire contestată potrivit considerentelor prezentei decizii.
+
+Reține cauza spre rejudecare pe fond în privința criticilor din contestație vizând indicarea destinatarilor tarifelor T10-T13 și nelegalitatea art. 10 al. 1 și art. 12 al. 5 din modelul contractului de achiziție.
+
+Stabilește termen de judecată la 10.03.2022, ora 9,00, pentru când se vor cita părțile.
+
+Menține măsurile dispuse prin decizia CNSC contestată.
+
+Definitivă.
+
+Pronunțată prin punerea soluției la dispoziția părților de către grefa instanței, azi 15.02.2022.
+
+Președinte,
+
+C______ Ș_____
+
+pt.Judecător,
+
+C_______ M_______ R___ aflată la seminar, semnează Președinte complet de judecată
+
+Judecător,
+
+A_______ C_____, aflată în C.O., semnează Președinte complet de judecată
+
+Grefier,
+
+F________ B____
+
+Tehnored. dec. C.Ș. - 24.02.2022
+
+F.B. /4 ex. -24.02.2022
+
+Acest document este preluat și procesat de o aplicație realizată gratuit de Wolters Kluwer Romania pentru Fundatia RoLII.
+
+Conținutul său poate fi preluat și utilizat cu citarea sursei: www.rolii.ro
+

@@ -1,0 +1,23 @@
+
+Cauza C-387/19
+Raad van State - RTS infra BVBA, Aannemingsbedrijf Norré-Behaegel/Vlaams Gewest
+Hotărârea Curții (Camera a patra)
+14 ianuarie 2021
+Identificator ECLI: ECLI:EU:C:2021:13
+EUR-Lex: 62019CN0387
+Tip procedură: cerere pentru pronunţarea unei hotărâri preliminare
+Materie: libertatea de reglementare, libera prestare a serviciilor, armonizare legislativă
+Subiect (cuvinte cheie): ”trimitere preliminară, achiziții publice, Directiva 2014/24/UE – art. 57 alin. (6), motive facultative de excludere, măsuri luate de operatorul economic pentru a‑și demonstra fiabilitatea în pofida existenței unui motiv facultativ de excludere, obligația operatorului economic de a face dovada acestor măsuri din proprie inițiativă, efect direct”
+Instanţa de trimitere: Raad van State (Consiliul de Stat, Belgia)
+Părţi în procedura principală:
+Reclamante: RTS infra BVBA, Aannemingsbedrijf Norré-Behaegel
+Pârâtă: Vlaams Gewest
+Obiectul cauzei: Raad van State (Consiliul de Stat, Belgia) a formulat o cerere de decizie preliminară în litigiul RTS infra BVBA, Aannemingsbedrijf Norré-Behaegel împotriva Vlaams Gewest cu privire la excluderea asocierii de întreprinderi Norré Behaegel‑RTS infra BVBA de la procedura de atribuire a contractului de lucrări X40/N60/54 privind recondiționarea nodului rutier Nieuwe Steenweg (N60) și a drumurilor de acces și de ieșire ale E17 din De Pinte
+Cadrul juridic: Legislaţie relevantă invocată: Considerentul (102), art. 18 alin. (1), art. 57 alin. (4)- (7), art. 59 alin. (1) si (2), art. 69 alin. (1), art. 90 alin. (1) din Directiva 2014/24/UE, anexa 2 partea III C din Regulamentul de punere în aplicare al Comisiei din 5 ianuarie 2016 de stabilire a formularului standard pentru documentul european de achiziție unic
+Întrebări preliminare:
+”Dispozițiile prevăzute la articolul 57 alineatul (4) [literele] (c) și (g) coroborat cu alineatele (6) și (7) din Directiva 2014/24/UE a Parlamentului European și a Consiliului din 26 februarie 2014 privind achizițiile publice și de abrogare a Directivei 2004/18/CE trebuie interpretate în sensul că acestea se opun aplicării unei prevederi care obligă operatorul economic să facă dovada, din proprie inițiativă, a măsurilor pe care operatorul economic le-a luat pentru a-și demonstra fiabilitatea?
+În caz afirmativ, dispozițiile prevăzute la articolul 57 alineatul (4) [literele] (c) și (g) coroborat cu alineatele (6) și (7) din [Directiva 2014/24], astfel interpretate, au efect direct?”
+Soluţie:
+”1) Articolul 57 alineatul (6) din Directiva 2014/24/UE a Parlamentului European și a Consiliului din 26 februarie 2014 privind achizițiile publice și de abrogare a Directivei 2004/18/CE, astfel cum a fost modificată prin Regulamentul delegat (UE) 2015/2170 al Comisiei din 24 noiembrie 2015, trebuie interpretat în sensul că se opune unei practici în temeiul căreia un operator economic este obligat să facă în mod spontan, la momentul depunerii cererii sale de participare sau a ofertei sale, dovada măsurilor corective luate pentru a demonstra fiabilitatea sa, în pofida existenței în privința sa a unui motiv facultativ de excludere prevăzut la articolul 57 alineatul (4) din această directivă, astfel cum a fost modificată prin Regulamentul delegat 2015/2170, în condițiile în care o asemenea obligație nu rezultă nici din reglementarea națională aplicabilă, nici din documentele achiziției. În schimb, articolul 57 alineatul (6) din directiva menționată, astfel cum a fost modificată prin Regulamentul delegat 2015/2170, nu se opune unei asemenea obligații atunci când este prevăzută în mod clar, precis și neechivoc în reglementarea națională aplicabilă și este adusă la cunoștința operatorului economic în cauză prin intermediul documentelor achiziției.
+2) Articolul 57 alineatul (6) din Directiva 2014/24, astfel cum a fost modificată prin Regulamentul delegat 2015/2170, trebuie interpretat în sensul că produce efect direct..”
+

@@ -1,0 +1,16 @@
+# C-532/06 — Lianakis
+
+- Instanță: CJUE (Camera întâi)
+- Data: 2008-01-24
+- ECLI: ECLI:EU:C:2008:40
+- Părți: Emm. G. Lianakis AE, Sima Anonymi Techniki Etaireia Meleton kai Epivlepseon, Nikolaos Vlachopoulos împotriva Dimos Alexandroupolis (Municipiul Alexandroupolis) și alții; cerere de decizie preliminară formulată de Symvoulio tis Epikrateias (Consiliul de Stat, Grecia)
+- Temă: criterii de atribuire; oferta cea mai avantajoasă din punct de vedere economic (MEAT); distincția dintre criteriile de SELECȚIE/CALIFICARE și criteriile de ATRIBUIRE; interdicția stabilirii ulterioare a ponderilor și subcriteriilor
+- Cadru juridic: Directiva 92/50/CEE (achiziții publice de servicii) — art. 23, art. 36(1) și (2). Principiile egalității de tratament și transparenței.
+- Întrebarea preliminară (sinteză): Dacă, atunci când anunțul de participare stabilește doar ordinea de prioritate a criteriilor de atribuire fără ponderi, art. 36(2) din Directiva 92/50 permite comisiei de evaluare să stabilească ulterior coeficienți de ponderare și subcriterii pentru criteriile de atribuire.
+- Soluția (ratio): Art. 36(2) din Directiva 92/50 (coroborat cu principiul egalității de tratament și obligația de transparență) SE OPUNE ca, într-o procedură de atribuire, autoritatea contractantă să stabilească ULTERIOR (după publicarea caietului de sarcini sau a anunțului) coeficienți de ponderare și subcriterii pentru criteriile de atribuire. Mai mult — și esențial pentru practică — criterii precum experiența, calificările și mijloacele (capacitatea de a asigura buna execuție) sunt criterii de SELECȚIE/CALIFICARE a ofertanților (verificarea aptitudinii de a executa), iar NU criterii de ATRIBUIRE (care servesc identificării ofertei celei mai avantajoase economic). Cele două operațiuni — verificarea aptitudinii ofertanților și atribuirea contractului — sunt distincte și guvernate de norme diferite; aceleași elemente nu pot fi folosite ca factori de evaluare a ofertelor.
+- Text-cheie verbatim:
+  - „[...] «verificarea aptitudinii» ofertanților [...] și «atribuirea» contractului reprezintă două operațiuni distincte în cadrul procedurii de atribuire a unui contract de achiziții publice și sunt guvernate de norme diferite.”
+  - „[...] sunt excluse drept «criterii de atribuire» criterii care nu urmăresc identificarea ofertei celei mai avantajoase din punct de vedere economic, ci care sunt legate în esență de aprecierea aptitudinii ofertanților de a executa contractul în cauză.”
+- Relevanță achiziții RO: Reper fundamental pentru separarea criteriilor de calificare/selecție (art. 163-178 L. 98/2016 — capacitate tehnică, experiență similară, personal) de factorii de evaluare/criteriul de atribuire (art. 187 L. 98/2016). Confirmă că experiența/calificările operatorului NU pot fi factori de evaluare a ofertelor (sub rezerva excepției ulterioare din C-601/13 Ambisig pentru servicii intelectuale unde calitatea echipei concrete ține de execuție). Confirmă și interdicția de a stabili ponderi/subcriterii după publicarea documentației. Foarte folosit în contestații CNSC pe factori de evaluare nelegali.
+- Sursă oficială: https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62006CJ0532
+- Status: VERIFICAT

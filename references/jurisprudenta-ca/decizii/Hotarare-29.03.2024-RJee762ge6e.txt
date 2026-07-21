@@ -1,0 +1,312 @@
+Decizie nr. RJ ee762ge6e/2024 din 29-mar-2024, Curtea de Apel Bucuresti, litigiu privind achizitiile publice (Contencios administrativ si fiscal)
+
+Decizie
+
+din 29 Martie 2024 
+
+7626/2024
+
+Text speță
+
+Persoană fizică vs Minister
+
+Cod ECLI ECLI:RO:CABUC:2024:197.######
+
+Dosar nr. #####/3/2023
+
+R O M Â N I A
+
+CURTEA DE APEL BUCUREȘTI
+
+SECTIA A X-A DE C_________ ADMINISTRATIV SI FISCAL SI PENTRU ACHIZITII PUBLICE
+
+Decizia civilă nr. ###
+
+Ședințapublică de la 29 ###### 2024
+
+Completul compus din:
+
+PREȘEDINTE #### #####
+
+Judecător #####-######## ########
+
+Judecător ###### ##### #######
+
+Grefier ##### ######### ##########
+
+Pe rol se află soluționarea recursului formulat de către recurenta-reclamantă UAT [localitate] împotriva sentinței civile nr. #### pronunțată la data de 20.10.2023 în dosarul nr. #####/3/2023 de către Tribunalul București, în contradictoriu cu intimatul-pârât MINISTERUL INVESTIȚIILOR ȘI PROIECTELOR EUROPENE (MINISTERUL DEZVOLTĂRII, LUCRĂRILOR PUBLICE ȘI ADMINISTRAȚIEI BUCUREȘTI), având ca obiect litigiu privind achizițiile publice.
+
+Dezbaterile au avut loc în ședința publică de la 14.03.2024, fiind consemnate în încheierea de ședință de la acea dată care face parte integrantă din prezenta, când instanța, având nevoie de timp pentru a delibera, a amânat pronunțarea pentru azi 29.03.2024, când a hotărât următoarele:
+
+CURTEA,
+
+Asupra recursului de față, reține următoarele:
+
+I.Procedura în fața instanței de fond:
+
+1. Soluția instanței de fond:
+
+Prin sentința civilă nr. #### pronunțată la data de 20.10.2023 în dosarul nr. #####/3/2023, Tribunalul București a respins cererea formulată de către reclamanta UAT [localitate] , în contradictoriu cu pârâtul MINISTERUL DEZVOLTĂRII REGIONALE ȘI ADMINISTRAȚIEI PUBLICE – DIRECȚIA GENERALĂ PROGRAMUL OPERAȚIONAL REGIONAL, ca neîntemeiată.
+
+II. Cererile și apărările părților în recurs:
+
+1.Cererea de recurs:
+
+Împotriva acestei soluții a formulat recurs reclamantul UAT [localitate] criticând-o pentru netemeinicie și nelegalitate.
+
+A solicitat ca, în urma reanalizării probatoriului administrat, a normelor legale incidente spetei (norme de drept material) si a argumentelor prezentate în motivele de recurs, în temeiul prevederilor art. 488, alin.l, pct. 6 și 8 din Codul de procedura civilă, văzând și prevederile art. 496, alin.l si alin. 2, cu argumentul de text de lege al art. 496 alin 1 din Codul de procedura civila, să se admită recursul, să se caseze în tot sentința civila recurată și în consecința, rejudecând cauza, să fie admisă cererea introductivă.
+
+În ce privește aprecierea instanței de fond că #### de conformitate nr. _____.1 Bis/29.09.2022 nu a fost emisă cu încălcarea termenului de 90 de zile de la data expirării termenului de maxim de 5 zile lucrătoare de la primirea de către structura de control competenta.
+
+Astfel, #### de neconformitate nr. _____.1BIS/29.09.2022 a fost întocmită: după 150 de zile de la data 27.04.2022, contrar prevederilor legale prevăzute la art. 21, alin. (23) si (2) din OUG nr. 66/29.06.2011 privind prevenirea, constatarea și sancționarea neregulilor apărute în obținerea și utilizarea fondurilor europene și/sau a fondurilor publice naționale aferente acestora, drept urmare, acest document este nul, fiind emis cu încălcarea prevederilor legale.
+
+- In ce privește interpretarea eronată a instanței de fond privind aplicabilitatea art.2 alin(7) din cadrul OG. 15/2021, referitor la Actele Adiționale nr. 2/04.10.2021;
+
+A citat dispozițiile art.l alin (1), cadrul art.2 alin. (8) și art.5 din OG. 15/2021 și Ordinul nr 1336/21.09.2021 susținând că legiuitorul a stabilit în mod clar "expresis verbis", modul de aplicare a ajustării, privind actualizarea preturilor aferente materialelor pentru contractele de achiziție publică/sectorială de lucrări aferente proiectelor finanțate din fonduri europene.
+
+A precizat, de asemenea, că în cazul în care legiuitorul considera că ajustarea, prin actualizarea prețului materialelor trebuie să se aplice în mod unitar tuturor contractelor de achiziție publică/sectorială de lucrări, indiferent de sursa de finanțare a obiectivelor/proiectelor de investiții, nu ar mai fi prevăzut în cadrul actului normativ OG nr. 15/2021, condiții aplicabile proiectelor finanțate din fonduri europene.
+
+Astfel în scopul respectării prevederilor Ordonanței 15/2021, art.l, alin (1), coroborate cu cele ale art.2, alin (8), si cu cele ale art.5, respectând întocmai prevederile Ordinului 1336/21.09.2021, autoritatea contractanta UAT #### ABRUD a încheiat Actul adițional nr. 2/04.10.2021, cu includerea formulei de ajustare conform prevederilor actelor normative.
+
+A precizat ca art.l al Ordinului ######### prevede: ″Se aproba metodologia privind ajustarea preturilor aferente materialelor de construcții pentru contractele de achiziție publica /contractele sectoriale de lucrări finanțate prin Programul Operațional Regional #########, în vederea punerii în aplicare a Ordonanței nr, 15/2021. Metodologia este prevăzută in anexa care face parte din prezentul ordin″.
+
+În conformitate cu prevederile Metodologiei, se precizează la punctul III. Metodologia de ajustare a prețului la materiale:
+
+- Formula de ajustare care se va aplica pentru ajustarea prețului contractului, având în vedere ca Ordonanța permite doar ajustarea cheltuielilor aferente materialelor, este:
+
+- An=av+m*Mn/Mo
+
+Unde:
+
+- ,,An" este coeficientul de ajustare care urmează a fi aplicat valorii cheltuielilor cu materialele din cadrul situațiilor de lucrări care vor fi prezentate la plată.
+
+- "av" este un coeficient fix și reprezintă valoarea procentuală a plătii în avans conform contractului;
+
+- "m" reprezintă ponderea indicelui de cost în construcții pentru costul materialelor;
+
+- "Mn" reprezintă indicele de cost în construcții pentru costul materialelor aferent lunii "n" de referință aplicabil la data cu 60 de zile înainte de ultima zi a lunii "n". Valoarea indicelui este publicată de Institutul Național de S_________ în Buletinul Statistic de Prețuri, în tabelul 15 (https://insse.ro/cms/ => Produse statistice => Publicații statistice=> Publicații=> Data apariției => Ultimele 12 luni => Filtrează => Vor apărea publicațiile, printre care și Buletinele statistice de prețuri sau https://insse.ro/cms/ => Buletin statistic de preturi);
+
+- "Mo" reprezintă indicele de cost în construcții pentru costul materialelor aferent lunii ianuarie 2021.
+
+#### de cele mai sus menționate:
+
+- Mo - este definit ca indice de cost in construcții , pentru costul materialelor aferent lunii ianuarie 2021, fiind astfel un indice constant (cert) nu variabil în funcție de o dată de referință.
+
+În cadrul Ordinului MDLPA nr. ######### nu se regăsește indicele ICCM ian2021, ca reprezentând indicele cost in referința, notat cu Mo, așa cum instanța de fond precizează in cadrul punctului 5, alin 7.
+
+Astfel, în conformitate cu prevederile Legii nr. 24/2000 privind normele de tehnică legislativă pentru elaborarea actelor normative, art.69, alin Intervențiile legislative pentru clarificarea sensului unor norme legale se realizează printr-un act normativ interpretativ de același nivel cu actul vizat, prin dispoziții interpretative cuprinse într-un nou act normativ sau prin modificarea dispoziției al cărui sens trebuie clarificat", si cele ale alin (2)"Interpretarea legală intervenită potrivit alin. (1) poate confirma sau, după caz, infirma ori modifica interpretările judiciare, arbitrate sau administrative, adoptate până la acea dată, cu respectarea drepturilor câștigate. ", nu au fost operate modificări in Ordinul #########. Actele adiționale nr. 2 si nr. 4 fiind încheiate in conformitate cu Ordinul ######### in vigoare la acea data.
+
+A învederat, de asemenea, că aplicabilitatea art.2 alin(7), coroborate cu cele ale art.2 alin(6) si cele ale art.l, se impune obiectivelor/proiectelor de investiții finanțate, integral sau parțial, din fondurile publice prevăzute din fondurile publice prevăzute la art. 1 alin. (2) din Legea nr. 500/2002 privind finanțele publice, și, respectiv, la art. 1 alin. (2) din Legea nr. 273/2006 privind finanțele publice locale, excepție făcând cele finanțate din fonduri europene, cărora li se aplica prevederile art.l, coroborate cu cele ale art.5, si art.2, alin(8).
+
+A mai susținut interpretarea eronată a instanței de fond a dispozițiilor art 28.3. din Contractul de execuție lucrări Nr. _____/14.06.2021.
+
+În ce privește aprecierea eronata a instanței de fond privind aplicabilitatea art 4 alin(3) din Instrucțiunea ANAP NR. 1/2021, în temeiul căreia a constat că degradările clădirii nu au fost determinate de factori cu caracter extraordinar, astfel, a apreciat că autoritatea contractantă a modificat contractul substanțial in sensul art.221, alin(7) din Legea 98/2016,
+
+Prevederile art.4, alin (3) din Instrucțiunea 1/2021 invocate de instanța de fond, se regăsesc în cadrul Secțiunii 3 - Circumstanțe pe care o autoritatea / entitate contractantă diligentă nu ar fi putut să le prevadă din Instrucțiunea 1/2021, aplicabila modificării contractului în conformitate cu prevederile art.221, lit.c) din Legea 98/2016.
+
+A reiterat faptul ca autoritatea contractanta a modificat contractul de achiziție publică în temeiul articolului 221, lit, b din Legea 98/2016 (aceasta fiind o modificare distinctă) fiind aplicabile astfel prevederile Secțiunii 2- Lucrari/servicii/bunuri suplimentare, astfel:
+
+ART. 3 (1) In cazul în care este necesară achiziționarea unor produse/servicii/lucrări suplimentare de la contractantul inițial, indispensabile atingerii rezultatelor și indicatorilor specifici de performanță sau calitate aferenți respectivului contract iar autoritatea/entitatea contractantă nu poate atribui un contract nou pentru că se află în imposibilitatea schimbării contractantului inițial din motive economice sau tehnice și pentru că schimbarea ar cauza autorității contractante dificultăți semnificative sau creșterea semnificativă a costurilor, se aplică prevederile art. 221 alin. (1) lit. b), art. 221 alin. (3) din Legea nr. 98/2016, respectiv ale art. 237 din Legea nr. 99/2016; noțiunea de produse/servicii/lucrări suplimentare poate acoperi atât produse/servicii/lucrări noi cât și creșterea cantităților de produse/servicii/lucrări inițial prevăzute. (2) Condițiile cumulative care permit modificarea contractului conform prevederilor art. 221 alin. (1) lit. b), art. 221 alin.(3), art. 221 alin. (4) din Legea nr. 98/2016, respectiv ale art. 237 din Legea nr. 99/2016, sunt: a) schimbarea contractantului este imposibilă din motive economice sau tehnice, precum cerințe privind interschimbabilitatea sau interoperabilitatea cu echipamentele, serviciile sau instalațiile existente achiziționate în cadrul procedurii de achiziții inițiale, b) schimbarea contractantului ar cauza autorității contractante dificultăți semnificative sau o creștere semnificativă a costurilor, c) creșterea prețului, în cazul contractelor ce se supun dispozițiilor Legii nr. 98/2016, nu depășește 50% din valoarea contractului inițial.
+
+In conformitate cu prevederile legale aplicabile modificării contractului, conform articolului 221, lit b), modificarea contractului nu a survenit ca urmare a apariției unor circumstanțe care nu puteau fi prevăzute, așa cum se menționează în cadrul contestației, ci survine urmare a necesității autorității contractante de a achiziționa cantități de lucrări suplimentare în scopul respectării prevederilor Legii nr.10/1995 privind calitatea în construcții, așa cum autoritatea contractantă a justificat în cadrul Notei justificative nr. 16.295/17.11.2021 si în cadrul răspunsului nr. _____/27.04.2022 (însoțit de Memoriu justificativ întocmit de SC ###### ### SRL - in calitate de proiectant si expertiza tehnica nr.180/2021 întocmită de expert tehnic MLPAT- A1,A2 prof.dr.ing. ###### ####### ).
+
+Orașul [localitate] nu a modificat contractul prin Actul Adițional nr. 4/2021 în temeiul art.221, alin(l) lit c, așa cum susține instanța de fond, ci în temeiul art.221, alin(l) lit.b, coroborate cu prevederile Instrucțiunii ANAP nr. 1/2021, secțiunea 2, art3, aceasta fiind distincta si neavând ca și cauze circumstanțe neprevăzute ci necesitatea adiționării de lucrări.
+
+Cantitățile de lucrări suplimentare, identificate în urma realizării expertizei, necesare a fi realizate în scopul realizării unui obiectiv corespunzător din punct de vedere calitativ, în concordanță cu obligativitățile și răspunderile proiectanților, executanților (respectiv a beneficiarului) reglementate prin Legea 10/1995, impun generarea unor cheltuieli suplimentare.
+
+Avându-se in vedere obiectul contractului constituit atât din execuția de lucrări cât și din servicii de proiectare( DATC, PT, documentații obținere avize - inclusiv ISU) și verificare a proiectului, privit astfel ca un bun livrabil în integralitatea acestuia(recepționarea activității privind proiectare ( faza PT) implică execuția în consecință a lucrărilor prevăzute de PT)), prevederile documentației de atribuire si ale contractului încheiat, autoritatea contractantă a decis modificarea contractului prin încheierea unui act adițional in temeiul art.221, alin(l) lit.b, întocmindu-se în acest sens nota justificativa însoțită de memorii justificative asumate de proiectant.
+
+Astfel, având în vedere motivele mai sus menționate, a solicitat admiterea recursului așa cum a fost formulat.
+
+2.Apărările intimaților:
+
+La data de 08.2.2024 intimatul-pârât MIPE a depus întâmpinare prin care a solicitat respingerea, ca nefondat, a recursului și menținerea Sentinței nr. ####/20.10.2023.
+
+Soluția de respingere a cererii de chemare în judecată s-a bazat pe o analiză corectă a situației de fapt raportat la dispozițiile de drept material relevante în cauză, prima instanță sesizând, în mod corect, faptul că, reclamanta nu a respectat art. 221 alin. (1) lit. b) din Legea nr. 98/2016 și art. 4 alin. (3) din Instrucțiunea ANAP nr. 1/2021.
+
+În continuare, a arătat faptul că deși recurenta își întemeiază recursul pe art. 488 art. 6 și 8 din Legea nr. 134/2010, calea de atac conține critici care se subsumează, strict, motivului de casare prevăzut la art. 488 pct. 8, nefiind formulate obiecțiuni în ceea ce privește motivarea Sentinței nr. ####/20.10.2023.
+
+Referitor la critica privind nerespectarea dispozițiilor art. 21 alin. (23) și alin. (2) din OUG nr. 66/29.06.2011, a susținut că aceasta nu a fost invocată pe calea contestației administrative, așa încât este inadmisibilă în recurs.
+
+#### de neconformitate a fost emisă în contextul autorizării cererii de rambursare nr. 3, motiv pentru care, în speță nu este incident art. 21 din OUG nr. 66/2011, care se aplică proceselor-verbale de constatare a neregulilor și de stabilire a creanțelor bugetare/notelor de constatare a neregulilor și de stabilire a corecțiilor financiare, ci art. 6 din OUG nr. 66/2011.
+
+Referitor la criticile privind interpretarea eronată de către prima instanță a dispozițiilor OG nr. 15/2021, arată că, prin Actul adițional nr. 2 la contractul de execuție lucrări nr. _____/14.06.2021 au fost introduse clauzele de ajustare a contractului, în conformitate cu art. 7 alin. (3) din Ordonanța Guvernului nr. 15/2021 privind reglementarea unor măsuri fiscal-bugetare pentru ajustarea prețurilor contractelor de achiziție publică, Ordinul MDLPA nr. 1336/21.09.2021 și art. 221 alin. (1) lit. e) din Legea nr. 98/2016 privind achizițiile publice. în cadrul formulei de ajustare, beneficiarul a utilizat indicele de preț de referință "Mo" ca fiind cel aferent lunii ianuarie 2021.
+
+Potrivit art. 2 alin. (7) din O.G. nr. 15/2021: ″Pentru contractele de achiziții publică/sectoriale/de concesiune/acorduri le-cadru de lucrări încheiate începând cu data de 1 februarie 2021, ICCM ian.2021 se asimilează indicelui de cost în construcții pentru costurile materialelor aferent lunii încheierii contractului".
+
+Indicele ICCM ian.2021 reprezintă indicele de cost în referință, notat cu "Mo" în cuprinsul Ordinului MDLPA nn##########, modificat prin Ordinul nr. 2050/2021, prin care a fost aprobată metodologia privind ajustarea prețului contractului pentru lucrările finanțate prin Programul Operațional Regional.
+
+##### în vedere că, în cadrul formulei de ajustare a prețului contractului, a fost utilizat indicele aferent lunii ianuarie, iar nu cel aferent lunii iunie (luna încheierii contractului), beneficiarul a utilizat un alt indice de preț decât cel precizat în legislația în vigoare la momentul semnării actului adițional.
+
+Sub condiția respectării legislației specifice, prețul contractului poate fi ajustat, dar utilizând, în cadrul formulei de ajustare, "Mo" ca reprezentând indicele de preț aferent lunii iunie (luna semnării contractului).
+
+Referitor la criticile recurentei privind aplicabilitatea art. 4 alin. (3) din Instrucțiunea ANAP nr. 1/2021, în temeiul căreia a constatat că degradările clădirii nu au fost determinate de factori cu caracter extraordinar, astfel, a apreciat că autoritatea contractantă a modificat contractul substanțial, în sensul art. 221 alin. (7) din Legea nr. 98/2016", a arătat următoarele:
+
+Punctul de plecare îl reprezintă încheierea Actului adițional nr. 4 la contractul de execuție lucrări nr. _____/14.06.2021, prin care a fost majorată valoarea contractului cu suma de 672.817,85 lei fără TVA (reprezentând 21,44% din valoarea inițială a contractului), urmare finalizării proiectului tehnic.
+
+Recurenta a încadrat modificarea în prevederile art. 221 alin. (1) lit b), alin. (3), (4), (5), (6), (10) din Legea nr. 98/2016, coroborate cu cele ale art. 1, alin. (5) - A. Modificări nesubstanțiale din Instrucțiunea ANAP nr. 1/2021.
+
+Conform prevederilor art. 4 alin. (3) lit a) din Instrucțiunea ANAP ______, modificarea contractului, urmare unor circumstanțe care nu ar fi putut fi prevăzute, poate fi justificată, de exemplu, de: a) evoluția degradării structurilor, dacă aceasta a fost cauzată de factori care nu au fost și care nu puteau fi anticipați din cauza caracterului lor extraordinar, neobișnuit pentru zona și condițiile în care s-au produs; în schimb, evoluția normală a degradărilor structurilor, generată de timpul scurs între perioada elaborării studiului de fezabilitate și perioada derulării procedurii de atribuire, respectiv data de clarificare, este o situație pe care o autoritate/entitate contractantă diligentă o putea anticipa.
+
+Degradările clădirii nu au fost determinate de factori cu caracter extraordinar, ci de scurgerea timpului - 3 ani calculați de la efectuarea expertizei, respectiv a întocmirii studiului de fezabilitate #### (anul 2018) și demararea procedurii de achiziție (anul 2021). Planificarea defectuoasă a achiziției nu poate justifica modificarea contractului în baza art. 221 alin (1) lit. b) din Legea nr. 98/2016
+
+Astfel, în mod corect, a reținut prima instanță că, recurenta a modificat substanțial contractul de lucrări, în sensul art. 221 alin. (7) din Legea 98/2016, prin suplimentarea, valorii contractului cu - suma de 672.817,85 lei, reprezentând 21,44% din valoarea inițială a contractului.
+
+#### de aspectele prezentate, a solicitat respingerea recursului, ca nefondat.
+
+III.Considerentele Curții de Apel București asupra recursului declarat în cauză:
+
+Examinând legalitatea sentinței recurate, prin prisma criticilor formulate și a dispozițiilor legale incidente, constatând că este competentă să procedeze la soluționare în condițiile art.483 alin.4 C__ rap. la art.10 alin.2 din Legea nr.554/2004, Curtea reține:
+
+Potrivit art.488 alin.1 C__ ″Casarea unor hotărâri se poate cere numai pentru următoarele motive de nelegalitate: (…)6. când hotărârea nu cuprinde motivele pe care se întemeiază sau când cuprinde motive contradictorii ori numai motive străine de natura cauzei; 8. când hotărârea a fost dată cu încălcarea sau aplicarea greșită a normelor de drept material″;
+
+Totodată, art. 483 C__ prevede că ″(3) Recursul urmărește să supună Înaltei ##### de Casație și Justiție examinarea, în condițiile legii, a conformității hotărârii atacate cu regulile de drept aplicabile. (4) În cazurile anume prevăzute de lege, recursul se soluționează de către instanța ierarhic superioară celei care a pronunțat hotărârea atacată. Dispozițiile alin. (3) se aplică în mod corespunzător″.
+
+Din interpretarea dispozițiilor citate în precedent, Curtea reține că recursul reprezintă acea cale extraordinară de atac prin care hotărârea atacată este supusă controlului judiciar prin prisma conformității sale cu regulile de drept aplicabile, ceea ce implică recunoașterea posibilității părții interesate de a o critica doar pentru motive de nelegalitate.
+
+Preliminar, Curtea constată că deși recurenta își întemeiază recursul pe dispozițiile art.488 pct.6 și 8 C..pr.civ, criticile se circumscriu exclusiv motivului ce vizează interpretarea și aplicarea normelor de drept substanțial, așa încât motivul de recurs reglementat de art.488 pct.6 a fost invocat în mod formal, fără a fi indicate argumente concrete în ceea ce privește motivarea sentinței.
+
+În analiza motivului reglementat de art.488 pct.8, Curtea reține că recurenta reclamantă a solicitat, pe calea prezentului demers judiciar, anularea anularea Deciziei nr. #/06.01.2023 precum și a Notei de neconformitate nr. _____.1BIS/29.09.2022, prin care s-a stabilit aplicarea unor corecții financiare.
+
+În concret, s-a reținut că prin actul adițional nr. 2/04.10.2021, la contractul de execuție lucrări nr. 10.920/14.06.2021, s-au introdus clauze de ajustare a contractului, în conformitate cu prevederile OG nr. 15/2021, fiind utilizat în formula de ajustare prevăzută de Ordinul nr. ######### un alt indice de preț de referință decât cel prevăzut de legislația în vigoare, ceea ce a condus la încălcarea prevederilor art. 7 alin. (3) din O.G. nr. 15/2021. Această neconformitate a atras aplicarea unei corecții financiare de 100% din valoarea suplimentară a contractului, calculată prin aplicarea formulei de ajustare.
+
+S-a mai reținut că modificarea contractului, prin actul adițional nr. 4/16.466/23.11.2021, de majorare a valorii acestuia cu suma de 672.817,85 lei, a încălcat dispozițiile legale incidente în condițiile în care cerințele legale impuse de articolului 221 lit, b din Legea 98/2016, invocate de reclamantă în justificarea modificării, nu sunt în mod cumulativ îndeplinite.
+
+Cererea a fost respinsă de instanța de fond care a validat punctul de vedere al pârâtului, reținând legalitatea actelor întocmite.
+
+Prin cererea de recurs sunt reiterate criticile de fond, recurenta susținând aplicarea greșită, de către prima instanță, a dispozițiilor de drept material.
+
+În concret, prima critică susține nelegalitatea Notei de neconformitate care a fost întocmită după expirarea termenului impus de dispozițiile art.21 alin.23 din OUG 66/2011.
+
+Critica este neîntemeiată, fiind corect respinsă și de instanța de fond.
+
+Conform art. 21 alin. (23) din O.U.G. nr. 66/2011,termenul maxim de efectuare a verificării și de emitere a proceselor-verbale de constatare a neregulilor și de stabilire a creanțelor bugetare/notelor de constatare este de 90 de zile de la expirarea termenului prevăzut la alin. (2), cu excepțiile prevăzute la alin. (25) și (26), iar conform art. 21 alin. (2), în termen de maximum 5 zile lucrătoare de la primirea de către structura de control competentă conform prevederilor art. 20 a oricărei solicitări ca urmare a aplicării prevederilor art. 18, aceasta are obligația organizării activității de constatare a neregulilor și de stabilire a creanțelor bugetare.
+
+În primul rând, deși textul impune un termen maxim de verificare, nu stabilește vreo sancțiune pentru nerespectarea acestuia.
+
+În al doilea rând, dispozițiile sunt aplicabile proceselor-verbale de constatare a neregulilor și de stabilire a creanțelor bugetare/notelor de constatare emise în activitatea în activitatea de constatare a neregulilor și de stabilire a creanțelor bugetare/corecțiilor financiare, reglementată la art. 20.
+
+Or, nota de constatare contestată în prezenta cauză a fost emisă în soluționarea cererii de rambursare nr.3, având ca temei dispozițiile art.6 din OUG 66/2011 potrivit cărora: ″Autoritățile cu competențe în gestionarea fondurilor europene au obligația de a exclude integral sau parțial de la rambursarea/plata cheltuielilor efectuate și declarate de beneficiari acele cheltuieli care nu respectă condițiile de legalitate, regularitate ori conformitate stabilite prin prevederile legislației naționale și comunitare în vigoare, în situația în care - în procesul de verificare a solicitărilor de plată - acestea determină existența unor astfel de cheltuieli″.
+
+În continuare, art.7 alin.2 stabilește: ″ Verificările efectuate de structurile de control prevăzute la art. 20 alin. (1), alin. (2) lit. b) și alin. (4) în vederea constatării caracterului eligibil al unor cheltuieli solicitate de un beneficiar înainte de rambursarea/plata lor de către autoritățile cu competențe în gestionarea fondurilor europene se organizează și se desfășoară după proceduri proprii și reprezintă o activitate distinctă de activitatea organizată și desfășurată în aplicarea prevederilor art. 21 alin. (1)-(16)″.
+
+Mai departe, art.9 stabilește: ″(1)Pentru cheltuielile incluse în solicitările/cererile de plată ale beneficiarilor care nu respectă condițiile de legalitate și regularitate stabilite prin prevederile legislației naționale și europene, identificate de autoritățile cu competențe în gestionarea fondurilor europene înainte de efectuarea plății, nu se aplică:a)procedura de constatare a neregulii prevăzută la art. 21 ″.
+
+În consecință, nu este aplicabil nici termenul invocat de recurentă.
+
+Cea de-a doua critică vizează corecția financiară aplicată valorii suplimentare a contractului, conform actului adițional nr. 2;
+
+A susținut reclamanta că dispozițiile legale stabilesc formula de ajustare folosind ca indice de preț de referință cel aferent lunii ianuarie 2021.
+
+Dispozițiile legale incidente prevăd:
+
+Art.2 alin.7 din OG ″(7)Coeficientul de ajustare prevăzut la alin. (6) se calculează utilizând următoarea formulă:
+
+C = (ICCM) n/(ICCMian.2021) x P + (1 - P),
+
+unde: (...)
+
+"P" reprezintă ponderea determinată în raport cu obiectul contractului, potrivit alin. (3), "ICCMn" reprezintă indicele de cost în construcții pentru costul materialelor aferent lunii anterioare solicitării de plată pentru care există valori ale acestuia diseminate oficial, iar "ICCMian.2021" reprezintă indicele de cost în construcții pentru costul materialelor aferent lunii ianuarie 2021. Pentru contractele de achiziție publică/sectoriale/de concesiune/acordurilor-cadru de lucrări încheiate începând cu data de 1 februarie 2021, "ICCMian.2021" se asimilează indicelui de cost în construcții pentru costul materialelor aferent lunii încheierii contractului″.
+
+Întrucât contractul a fost încheiat în 14.06.2021 este dincolo de orice dubiu că aceste dispoziții sunt aplicabile; or, conform acestor dispoziții ICCMian.2021 se asimilează indicelui de cost în construcții pentru costurile materialelor aferent lunii încheierii contractului.
+
+Potrivit Ordinului MDLPA nr. 1336/2021, invocat de reclamantă, indicele ICCMian.2021 reprezintă indicele cost în referință, notat cu Mo.
+
+Aplicând aceste dispoziții, rezultă că reclamanta trebuia să utilizeze, în formula de calcul, indicele de cost aferent lunii încheierii contractului, respectiv cel aferent lunii iunie 2021, și nu cel din ianuarie, utilizat în actul adițional nr. 2/04.10.202.
+
+#### prevederile Legii nr. 24/2000 nu pot susține opinia recurentei, în condițiile în care Ordinului MDLPA nr. ######### a fost emis în aplicarea OG 15/2021, așa încât nu poate deroga de la normele OG 15/2021, act normativ de nivel superior.
+
+A mai susținut recurenta că dispozițiile art.2 alin(7), nu sunt aplicabile obiectivelor/proiectelor finanțate din fonduri europene cărora li se aplică art.2, alin(8).
+
+Apărarea este contradictorie în condițiile în care reclamanta însăși a folosit formula stabilită de art.2 alin(7) din OG 15/2021.
+
+În consecință, critica este nefondată; așa cum a arătat și pârâtul, prețul contractului poate fi ajustat, cu condiția utilizării, în cadrul formulei de ajustare, a indicelui de preț aferent luni iunie (luna încheierii contractului).
+
+În sfârșit, o ultimă critică, a vizat interpretarea eronată a instanței de fond a dispozițiilor art. 28.3. din Contractul de execuție lucrări nr. _____/14.06.2021, însă recurenta s-a limitat la enunțarea dispozițiilor contractuale, fără a arăta, în concret, care ar fi, în opinia sa, interpretarea corectă.
+
+În mod similar, a susținut și că dispozițiile din Instrucțiunea ANAP nr.1/2021 au fost reținute greșit, în condițiile în care se referă la modificarea contractului de achiziție publică în conformitate cu prevederile art.221 lit.c din Legea 98/2016, dispoziții care, însă, nu au fost avute în vedere de autoritatea contractantă.
+
+Referitor la această critică, Curtea reține că prin actul adițional nr. 4 la contractul nr. ########## a fost modificat prețul contractului, în temeiul art. 221 alin. (1) lit. b) din Legea nr. 98/2016, fiind majorat cu suma de 672.817,5 lei fără TVA, reprezentând 21,44% din valoarea inițială a contractului în urma finalizării proiectului tehnic.
+
+În justificarea acestei modificări, în memoriul justificativ al proiectantului se precizează: ″avându-se în vedere expertiza tehnică structurală, aferentă corp C1 realizată ca urmare a degradării clădirii în timpul scurs de la efectuarea expertizei respectiv întocmirea studiului de fezabilitate și finalizarea proiectului, s-au identificat cantități de lucrări suplimentare necesare a se executa în scopul realizării unui obiect corespunzător din punct de vedere calitativ. Prin proiectul tehnic s-au prevăzut o ________ cantități suplimentare datorită faptului că clădirea fiind expusă factorilor de mediu a fost afectată în mod continuu de degradări, până în momentul când încep lucrările de reabilitare, cum ar fi: refacerea șarpantei și învelitorii, închiderea golurilor, refacerea structurilor portante afectate care sunt menite să asigure conservarea în timp a construcției. Cantitățile suplimentare generează execuția de lucrări suplimentare care sunt indisolubil legate de celelalte lucrări, prevăzute a se realiza conform ####, constând într-o completare a acestora. Așadar este imposibilă separarea execuției acestor lucrări din punct de vedere tehnologic, față de cele licitate la nivelul ####, care facem mențiunea că prevedea lucrări de reabilitare structurale dar la o scară mai mică, adaptate situației clădirii de la acea vreme. Pentru exemplificare enumerăm câteva dintre aceste lucrări necesare a se executa, conform listelor de cantități suplimentare: #### necesară refacerea unei cantități mai mari de diafragme de zidărie față de cele prevăzute inițial(...)″.
+
+În nota justificativă nr._____/17.11.2021 autoritatea contractantă face următoarele precizări cu privire la încadrarea în prevederile art.221 alin.1 lit.b: ″ Achiziționarea uor servicii de proiectare pentru elaborarea unui proiect adițonal aferent degradărilor suferite în timp (de la data elaborării #### până la data elaborării PT) ar afecta dreptul de proprietate intelectuală a proiectantului inițial; achiziționareade servicii presupune și costuri suplimentare aferente elaborării PT; mai mult decât atât, achiziționarea unor servicii lucrări suplimentare dela un alt ofertant ar presupune extensii de termene, generate de aplicarea procedurilor de achiziții și ar afecta atât garanția de bună execuție constituită în favoarea autorității contractante cât și modul de efectuare a recepției la terminarea lucrărilor (…) ″.
+
+Potrivit dispozițiilor legale care a întemeiat decizia de modificare a contractului:
+
+″(1)Contractele de achiziție publică/Acordurile-cadru pot fi modificate, fără organizarea unei noi proceduri de atribuire, în următoarele situații:
+
+b)pentru lucrările, serviciile sau produsele adiționale din partea contractantului inițial, în limita a maximum 50% din valoarea contractului inițial, care au devenit necesare și nu au fost incluse în procedura de achiziție inițială, iar schimbarea contractantului:
+
+1.(i) este imposibilă din motive economice sau tehnice, precum cerințe privind interschimbabilitatea sau interoperabilitatea cu echipamentele, serviciile sau instalațiile existente achiziționate în cadrul procedurii de achiziții inițiale; și
+
+2.(ii) ar cauza autorității contractante o creștere semnificativă a costurilor;″.
+
+În raport de dispozițiile legale invocate, Curtea constată că, în mod corect, pârâtul a apreciat ca nefiind îndeplinite condițiile impuse de textul legal.
+
+În acest sens, sunt de reținut și dispozițiile Instrucțiunii ANAP nr.1/2021, emisă în aplicarea dispozițiilor art.221 din ####, care stabilesc:
+
+″ Art.1 alin. (2) În situația în care, pe parcursul derulării unui contract sau a unui acord-cadru, apare necesitatea unei modificări a acestuia, autoritatea/entitatea contractantă va stabili, înainte de aprobarea și formalizarea efectuării respectivei modificări, dacă aceasta ar reprezenta o modificare nesubstanțială a contractului fără a fi necesară organizarea unei noi proceduri sau o modificare substanțială care ar necesita organizarea unei noi proceduri de atribuire.
+
+Secțiunea 2- Lucrari / servicii / bunuri suplimentare
+
+Art . 3 (1) În cazul în care este necesară achiziționarea unor produse/servicii/lucrări suplimentare de la contractantul inițial, indispensabile atingerii rezultatelor și indicatorilor specifici de performanță sau calitate aferenți respectivului contract iar autoritatea/entitatea contractantă nu poate atribui un contract nou pentru că se află în imposibilitatea schimbării contractantului inițial din motive economice sau tehnice și pentru că schimbarea ar cauza autorității contractante dificultăți semnificative sau creșterea semnificativă a costurilor, se aplică prevederile art. 221 alin. (1) lit. b), art. 221 alin. (3) din Legea nr. 98/2016, respectiv ale art. 237 din Legea nr. 99/2016; noțiunea de produse/servicii/lucrări suplimentare poate acoperi atât produse/servicii/lucrări noi cât și creșterea cantităților de produse/servicii/lucrări inițial prevăzute.
+
+Reiese foarte clar din dispozițiile enunțate că situația premisă a oricăror modificări permise o constituie apariția necesității achiziționării unor produse/servicii/lucrări suplimentare, pe parcursul executării contractului; cu alte cuvinte, această necesitate trebuie să survină ulterior atribuirii contractului, situația contrară, a cunoașterii acestei necesități anterior atribuirii contractului, impunând rezolvarea acesteia prin includerea în obiectul achiziției.
+
+Or, reclamanta invocă, în justificarea modificării, ″perioada de 3 ani scursă de la data întocmirii expertizei și până la realizarea proiectului tehnic″, motiv preexistent demarării procedurii de atribuire și care nu poate justifica modificarea operată, relevând doar lipsa de diligență a autorității contractante în a prevedea încă de la momentul întocmirii documentației de atribuire necesitățile respective.
+
+În plus, circumstanțele invocate de reclamantă sunt reținute și în Instrucțiunea ANAP care, la art.4 alin.3 prevede: ″ Modificarea contractului ca urmare a unor circumstanțe care nu ar fi putut fi prevăzute poate fi justificată, de exemplu, de: 12 a) evoluția degradării structurilor, dacă aceasta a fost cauzată de factori care nu au fost și care nu puteau fi anticipați din cauza caracterului lor extraordinar, neobișnuit pentru zona și condițiile în care s-au produs; în schimb, evoluția normală a degradărilor structurilor, generată de timpul scurs între perioada elaborării studiului de fezabilitate și perioada derulării procedurii de atribuire, respectiv data de clarificare, este o situație pe care o autoritate / entitate contractantă diligentă o putea anticipa″.
+
+De altfel, aceste dispoziții au fost reținute și de pârât, în cuprinsul Notei de neconformitate, însă nu pentru a schimba temeiul juridic invocat de reclamantă în justificarea modificării operate, ci pentru a sublinia că situația prezentată, identic reținută și în Instrucțiunea ANAP, nu poate justifica modificarea contractului prin actul adițional nr. 4 la contractul nr. ##########.
+
+Nu în ultimul rând, Curtea observă că reclamanta însăși și-a asumat, prin nota justificativă nr._____/16.11.2021, că suma de 672.817,85 lei este considerată cheltuială neeligibilă și va fi suportată din fonduri proprii, confirmând deci că situația prezentată nu poate justifica modificarea contractului.
+
+#### critica referitoare la greșita interpretare a dispozițiilor contractuale nu se relevă; potrivit art.28.3 ″În sensul prevederilor legale, modificarea contractului este permisa numai pentru modificări nesubstanțiale, asa cum sunt acestea definite de legislația în materie de achiziții publice″.
+
+Potrivit art.221 din ####,
+
+(1)Contractele de achiziție publică/Acordurile-cadru pot fi modificate, fără organizarea unei noi proceduri de atribuire, în următoarele situații: (...) e)atunci când modificările, indiferent de valoarea lor, nu sunt substanțiale;
+
+(7)În sensul alin. (1) lit. e), modificarea unui contract sau a unui acord-cadru, pe durata sa, este considerată a fi substanțială doar atunci când prin această modificare contractul sau acordul-cadru prezintă caracteristici care diferă în mod substanțial de cele ale documentului inițial. Fără a aduce atingere prevederilor alin. (1), o modificare a unui contract de achiziție publică/acord-cadru, pe durata sa, este considerată modificare substanțială atunci când este îndeplinită cel puțin una dintre următoarele condiții: (...) c)modificarea extinde în mod considerabil obiectul contractului de achiziție publică/acordului-cadru;
+
+Or, suplimentarea valorii contractului cu suma de 672.817,85 lei reprezentând 21,44% din valoarea inițială reprezintă o modificare substanțială a contractului față de dispozițiile art.221 alin.1 lit.f: ″f)fără a exista nevoia de a verifica dacă sunt îndeplinite condițiile prevăzute la alin. (7) lit. a)-d), atunci când sunt îndeplinite în mod cumulativ următoarele condiții:1.(i) valoarea modificării este mai mică decât pragurile valorice corespunzătoare prevăzute la art. 7 alin. (1); 2.(ii) valoarea modificării este mai mică decât 10% din prețul contractului de achiziție publică inițial, în cazul contractelor de achiziție publică de servicii sau de produse, sau mai mică decât 15% din prețul contractului de achiziție publică inițial, în cazul contractelor de achiziție publică de lucrări; 3.(iii) modificarea nu aduce atingere caracterului general al contractului sau al acordului-cadru în baza căruia se atribuie contractul subsecvent respectiv″.
+
+În consecință, Curtea constată că sentința pronunțată de instanța de fond este consecința interpretării și aplicării corecte a dispozițiilor legale incidente, motiv pentru care recursul urmează a fi respins, ca nefondat.
+
+PENTRU ACESTE MOTIVE
+
+ÎN NUMELE LEGII
+
+DECIDE
+
+Respinge recursul formulat de către recurenta-reclamantă UAT [localitate] cu sediul în Abrud, #### ##### ####### ### #, Cod postal ______, ##### ####, împotriva sentinței civile nr. #### pronunțată la data de 20.10.2023 în dosarul nr. #####/3/2023 de către Tribunalul București, în contradictoriu cu intimatul-pârât MINISTERUL INVESTIȚIILOR ȘI PROIECTELOR EUROPENE (MINISTERUL DEZVOLTĂRII, LUCRĂRILOR PUBLICE ȘI ADMINISTRAȚIEI BUCUREȘTI) cu sediul în sector 1, București, Șos. București-Ploiești, Clădirea ######## Office, nr. 1-1B, Cod postal ______, ca nefondat.
+
+Definitivă.
+
+Pronunțată azi, 29 martie 2024, prin punerea soluției la dispoziția părților prin intermediul grefei instanței.
+
+Președinte,
+
+#### #####
+
+Judecător,
+
+#####-######## ########
+
+Judecător,
+
+###### ##### #######
+
+Grefier,
+
+##### ######### ##########
+
+Red. #### ###.I./29.03.2024/2ex
+
+Dact.###/29.03.2024
+
+Comunicat 2 ex
+
+Sursa www.rejust.ro Cod RJ: ee762ge6e
+

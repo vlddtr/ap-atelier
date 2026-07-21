@@ -1,0 +1,278 @@
+Decizie nr. 957/2021 din 07-oct-2021, Curtea de Apel Pitesti, litigiu privind achizitiile publice (Contencios administrativ si fiscal)
+
+Decizie
+
+din 7 Octombrie 2021 
+
+957/2021
+
+Text speță
+
+Societate comercială vs Consiliu Local
+
+Document finalizat
+
+Cod ECLI ECLI:RO:CAPIT:2021:002.______
+
+Operator date 3918
+
+R O M Â N I A
+
+CURTEA DE APEL PITEȘTI
+
+SECȚIA A II-A CIVILĂ, DE C_________ ADMINISTRATIV ȘI FISCAL
+
+DOSAR NR. ____________ DECIZIE NR. 957/R-C___
+
+Ședința publică din 07 Octombrie 2021
+
+Curtea compusă din:
+
+Președinte: E____ M____ S___, judecător
+
+Judecător A___ A______ T_____
+
+Judecător A______ E____ T_____
+
+Grefier I______ E____ P____
+
+S-a luat în examinare, pentru soluționare, plângerea formulată de petenta A_______ A___ A_____ & [OPERATOR ECONOMIC], cu sediul în Voluntari, ______________________. 15-17-19-21-23-25, Clădirea Swan Office & Technology Park, __________________, cu sediul ales pentru comunicarea actelor de procedură la SCA I______ și S___, din București, _____________________, _______________, împotriva Deciziei nr. 2043/C6/2107 pronunțată la data de 14 septembrie 2021 în dosarul nr. 2107/2021, intimat fiind B_________ B______ – B________ B____ al Municipiului Pitești, cu sediul în Pitești, _____________________, județul [localitate].
+
+La apelul nominal, făcut în ședința publică, au răspuns avocat I______ R. și avocat T____ A. pentru petentă, în baza împuternicirii avocațiale pe care o depun la dosar și consilier juridic S___ V_______ pentru intimat, potrivit delegației de reprezentare pe care o depune în ședință publică.
+
+Procedura de citare este legal îndeplinită.
+
+S-a făcut referatul cauzei de către grefierul de ședință, prin care s-au evidențiat părțile, obiectul litigiului, stadiul procesual și modul de îndeplinire a procedurii de citare.
+
+De asemenea, se învederează că la dosarul cauzei s-au depus următoarele înscrisuri: la data de 04.10.2021, intimatul a depus la dosar întâmpinare; la data de 05.10.2021, petenta a depus la dosar note de ședință; la data de 06.10.2021, a fost atașat dosarul Consiliului N_______ de Soluționare a Contestațiilor, înregistrat sub nr. 2107/2021.
+
+Nemaifiind cereri prealabile de formulat, excepții de invocat sau probe de administrat, Curtea constată plângerea în stare de judecată și acordă cuvântul în dezbateri asupra acesteia.
+
+Avocat I______ R., pentru petentă, solicită admiterea plângerii astfel cum a fost formulată și modificarea în tot a deciziei CNSC cu consecința anulării actelor vătămătoare întocmite de autoritatea contractantă, obligarea acesteia la reevaluarea ofertei petentei și declararea ei ca fiind câștigătoare.
+
+Prima greșeală din decizia CNSC este calificarea apărărilor petentei ca fiind critici la documentația de atribuire. Petenta nu a criticat niciodată această documentație, ci acriticat încălcarea de către autoritatea contractantă a propriei documentații.
+
+Autoritatea nu a înțeles ce a solicitat prin această documentație. Cu privire la factorul de evaluare „timp mediu" dedicat intervențiilor planificate, în documentația de atribuire se arată că această valoare se obține prin media aritmetică a orelor alocate reviziilor pe întreaga perioadă de garanție și pentru toate autobuzele, raportat la numărul de ani și numărul de autobuze.
+
+Însă, atunci când face calculul acestui factor, autoritatea uită să mai împartă. Astfel, se impunea împărțirea orelor alocare reviziilor planificate pe întreaga perioadă de garanție pentru toate autobuzele, la numărul de ani și la numărul de autobuze. Când calculează cifra maximă de 320 de ore pe an indicată în documentație ca limită maximă, autoritatea uită să mai împartă la numărul de autobuze. Acest aspect reiese și din întâmpinarea formulată în acest dosar.
+
+Această definiție nu este apanajul autorității contractante UAT [localitate] . Arată că a fost copiată din procedura de licitație organizată de Orașul [localitate] în anul 2020.
+
+Prin modul în care autoritatea a înțeles să aplice această formulă, autoritatea realizează o veritabilă modificare a propriei documentații de atribuire, în faza evaluării ofertelor, ceea ce este nepermis.
+
+Documentația de atribuire este foarte clară, inclusiv sub aspectul la care a făcut vorbire anterior. Acesta este motivul pentru care niciunul dintre ceilalți ofertanți interesați nu a solicitat clarificări cu privire la acest aspect, fiind însă formulate solicitări de clarificări cu privire la alte aspecte din documentație.
+
+Abia în solicitarea de clarificări nr. 5 venită din partea autorității la data de 30.06.2021 petenta și-a dat seama de confuzia făcută de autoritate cu privire la această definiție.
+
+Cu această ocazie, petenta și-a reverificat toată oferta, constatând că documentația nu a fost greșită sub acest aspect, însă a constatat erori strecurate cu privire la: introducerea în lista de operațiuni ce fac parte din factorul de evaluare a unor operațiuni ce vizau revizii extinse, neincluse de autoritate în definiția factorului, astfel că a procedat la eliminarea acestora; introducerea unei operațiuni care nu se aplica autobuzelor ofertate, ce nu făcea parte din factorul de evaluare.
+
+Eroarea a fost determinată de faptul că sistemul informatic ce generează aceste valori nu permite din punct de vedere tehnic introducerea cifrei zero pentru anumite operațiuni, astfel că petenta a ales să introducă valoarea 001. Însă intenția de a trece valoarea zero este evidentă, întrucât valoarea 001 ar presupune 36 secunde, neputându-se imagina ca o operațiune de mentenanță a unui autobuz să se desfășoare în 36 de secunde.
+
+La acel moment petenta a ales să nu conteste modul de aplicare de către autoritatea contractantă a factorului de evaluare, interesul ei fiind să verifice dacă se înscrie în limitele avute în vedere de autoritate, cât și acela de a câștiga licitația, demonstrând că îndeplinea limitele impuse de autoritate, chiar și în modul greșit în care autoritatea aplica factorul.
+
+Douăzeci de zile mai târziu petenta revine cu precizări extinse asupra acestui aspect, pe care autoritatea recunoaște că le-a primit și le-a citit, însă arată la CNSC că nu le-a luat în considerare întrucât nu au fost depuse în sistemul informatic în conformitate cu procedura de depunere.
+
+Astfel cum petenta a dovedit cu actele depuse la dosar, petenta a făcut demersuri la autoritate pentru a-i permite depunerea lor în conformitate cu procedura prevăzută în procedura de atribuire, însă autoritatea a refuzat această solicitare, știut fiind că în faza de evaluare a ofertelor numai autoritatea poate deschide sistemul informatic, pentru ca ofertanții să încarce documente în sistem. Este însă neîndoielnic că autoritatea a primit aceste justificări.
+
+Cu privire la cele 320 de ore, arată că acestea presupun 20 de zile, adică 5% dintr-un an, astfel că autobuzele vor fi disponibile 95% din perioada unui an, reprezentând un timp rezonabil pentru funcționarea autobuzelor.
+
+Numai în cazul producătorului A_______ A___ este posibil ca un autobuz să aibă timp afectat o singură zi, având în vedere că acesta fabrică autobuze hibrid, cu componente integrate, în timp ce toți ceilalți producători achiziționează sistemele de la alți producători, având timpii de revizie mai mari.
+
+În urma solicitării de clarificări nr. 5 au existat două corecții: eliminarea reviziilor neplanificate extinse și eliminarea de facto a operațiunii ce nu se aplică autobuzului ofertat. Deși cele două au rațiune identică pentru eliminare, respectiv nu ____________________________ de evaluare, autoritatea și CNSC au ales să le aplice un tratament diferit, în sensul că au fost de acord cu eliminarea celor dintâi, nu însă și cu eliminarea celor din urmă.
+
+Astfel este încălcat grav principiul proporționalității statuat de legislația în domeniul achizițiilor publice, prin sancționarea și anularea unei întregi proceduri numai ca urmare a unui aspect pur formal.
+
+Nu se poate susține aspectul reținut de CNSC conform căruia corecția nu se încadrează în noțiunea de abatere tehnică minoră, ce poate fi corectată, pentru că ar schimba clasamentul potențialilor ofertanți. Legea, însă, se referă la clasamentul ofertanților, deci al celor ce participă efectiv la procedură.
+
+Corectarea acestei abateri minore nu ar fi afectat nici prețul, și nici clasamentul, petenta fiind singurul ofertant din procedură.
+
+Autoritatea contractantă încearcă să acrediteze o lipsă de seriozitate din partea petentei.
+
+Însă, și eroarea cu privire la menționarea celor 60.000 km vine tot din lipsa de experiență a autorității contractante în desfășurarea unor astfel de proceduri. Autoritatea a solicitat inițial factor de evaluare mentenanța pentru 70.000 km și factor de calificare garanție obligatorie 5 ani cu câte 70.000 km/zi.
+
+În urma solicitărilor de clarificări venite din partea posibililor ofertanți, s-a indicat că se solicită garanție pe 70.000 km, care ar fi fost puțin probabil să fie făcuți, și ar fi presupus o creștere artificială a costurilor. Atunci, autoritatea a modificat garanția la 60.000 km, însă factorul de evaluare revizii tehnice planificate a rămas la 70.000 km.
+
+Petenta a făcut calculul inițial al orelor necesare raportat la valorile documentației inițiale, această eroare neimpactând în niciun fel numărul de ore afectate.
+
+Decizia CNSC este eronată, acesta ignorând și mențiunea de medie aritmetică, și prevederile legislației în domeniul achizițiilor publice cu privire la noțiunea de abatere tehnică minoră.
+
+Arată că va solicita cheltuielile de judecată pe cale separată.
+
+Reprezentanta intimatului solicită respingerea plângerii potrivit întâmpinării și menținerea deciziei CNSC ca legală și temeinică.
+
+Petenta a arătat că a mai participat la o licitație la Reghin, astfel că ar fi avut experiența de lucru cu o astfel de procedură, și deci nu trebuia să facă astfel de greșeli, mai ales având în vedere că documentația a fost clară.
+
+Cu privire la clarificări, arată că petenta nu a completat cu argumente, ci și-a reprecizat punctele care nu îndeplineau condițiile, reglându-și cifrele, astfel încât să se încadreze în ofertă.
+
+În replică, reprezentantul petentei arată că nu a participat la licitația organizată la Reghin, susținerea sa fiind în sensul că documentația de la Reghin a fost copiată de autoritatea contractantă, însă la Reghin factorul de evaluare a fost interpretat în mod corect.
+
+C U R T E A
+
+Asupra plângerii de față, constată că:
+
+La data de 28.09.2021 s-a înregistrat la Curtea de Apel Pitești plângerea formulată de petenta A_______ A___ A_____ & [OPERATOR ECONOMIC], în contradictoriu cu intimatul B_________ B______ – B________ B____ al Municipiului Pitești, împotriva Deciziei Consiliului N_______ de Soluționare a Contestațiilor nr. 2043/C6/2107, pronunțată la data de 14.09.2021 în dosarul nr. 2107/2021, solicitând desființarea acesteia în ceea ce privește criticile respinse de Consiliu ca fiind tardiv formulate, respectiv modificarea Deciziei atacate în ceea ce privește celelalte soluții și considerente, în sensul admiterii contestației formulate de petentă, cu consecința: 1. anulării integrale a Raportului procedurii nr. _____/02.08.2021 comunicat de autoritatea contractantă prin intermediul S.E.A.P. la data de 03.08.2021 și a Comunicării nr. _____/05.08.2021 privind rezultatul procedurii de atribuire a contractului de achiziție publică, ambele emise în cadrul procedurii, precum și cea a anulării oricăror acte juridice subsecvente emise de autoritatea contractantă în cadrul procedurii; 2. obligării autorității contractante la reevaluarea ofertei petentei din punctul de vedere al admisibilității, cu consecința declarării ofertei acesteia drept conformă și admisibilă.
+
+În motivare, petenta susține nelegalitatea și netemeinicia soluției C.N.S.C. de respingere a apărării sale privind încălcarea forței obligatorii a documentației de atribuire. Se arată că documentația de atribuire este clară, iar reinterpretarea sa de către autoritatea contractantă, direct în cadrul actelor de respingere a ofertei, se transpune într-o încălcare a forței obligatorii a documentației de atribuire.
+
+Consiliul a schimbat în întregime sensul expres al apărării petentei în baza unui citat preluat în mod selectiv și incomplet din apărările formulate. Din conținutul complet al acestor apărări rezultă că petenta a criticat atitudinea autorității contractante de a fi nesocotit interpretarea logică a mențiunilor din documentația de atribuire, nicidecum (ne)claritatea documentației.
+
+„Timpul afectat reviziilor planificate" are algoritmul de calcul indicat în primul rând al descrierii factorului, respectiv: „Se calculează ca număr mediu de ore/an/autobuz, luând în considerare un rulaj de 70.000 km parcurși pe an, raportat la perioada de garanție ofertată". Prin raportarea descrierii algoritmului de calcul la semnificația matematică a termenilor utilizați, rezultă că Timpul afectat reviziilor planificate a fost conceput ca o medie aritmetică, deci că rezultat al unei operațiuni matematice de împărțire, și că acesta caracterizează un singur autobuz.
+
+Or, în condițiile în care sub-factorii au fost concepuți pentru a reprezenta limite ale factorului Timpul afectat reviziilor planificate - din al cărui algoritm de calcul rezultă în mod clar că este conceput drept o medie aritmetică -, rezultă că și acești sub-factori se calculează tot ca medii aritmetice și reprezintă tot numere de ore ce caracterizează un singur autobuz într-un an [aceasta deoarece intervalele ce caracterizează o valoare determinată prin algoritm nu pot avea altă natură decât valoarea pe care o mărginesc). În condițiile în care Tmin și Timpul mediu maxim alocat reviziilor planificate au aceeași natură, care se observă mai bine atunci când cele două noțiuni se suprapun în cazul unei oferte unice care nu depășește 320 ore/an, rezultă că și Timpul mediu maxim alocat reviziilor planificate reprezintă tot o medie aritmetică ce caracterizează un singur autobuz.
+
+Petenta susține nelegalitatea și netemeinicia soluției C.N.S.C. de respingere a apărării sale privind incidența erorii materiale și a abaterii tehnice minore, cu consecința salvgardării ofertei.
+
+În oferta anterioară solicitării de clarificări nr. 5 se strecuraseră două erori:
+
+- o eroare de tehnoredactare ce a condus la redactarea cumulată a valorilor și operațiunilor de mentenanță preventivă și de mentenanță planificată în cadrul centralizatorului factorilor de evaluare, în ceea ce privește Factorul de evaluare Timpul afectat reviziilor planificate (nr. mediu ore/an);
+
+- dintr-o eroare de tehnoredactare a fost menținută o operațiune inaplicabilă din punct de vedere tehnic autobuzelor ofertate, respectiv operațiunea având cod de identificare 00-4030, denumită „Convertor de tensiune. Verificarea siguranței operaționale a unității de joasă tensiune montată (30-1,000 volți AC) (se va factura separat)".
+
+Petenta arată că prin Răspunsul la solicitarea de clarificări nr. 5, a înțeles cu bună-credință să înlăture erorile menționate în următoarele modalități: defalcarea și prezentarea separată a operațiunilor de mentenanță preventivă față de cele de mentenanță planificată; atribuirea unui număr de ore strict simbolic, respectiv de 0001 ore, operațiunii „Convertor de tensiune. Verificarea siguranței operaționale a unității de joasă tensiune montată (30- 1,000 volți AC) (se va factura separat}", astfel încât să oferim garanțiile că această operațiune nu va fi niciodată aplicată în practică, însă fără modificarea structurii tabelelor din centralizator.
+
+La acel moment, de bună-credință fiind, petenta a apreciat că eliminarea în întregime a operațiunii menționate, cu consecința modificării tabelului centralizat, ar fi fost mai curând interpretată drept o modificare a ofertei decât modalitatea pentru care a optat în cele din urmă.
+
+Coroborând mențiunile din Raportul procedurii și din Comunicare privind rezultatele procedurii, rezultă că unica modificare imputată de autoritatea contractantă a fost cea referitoare la reducerea numărului de ore alocat operațiunii „Convertor de tensiune. Verificarea siguranței operaționale a unității de joasă tensiune montată (30-1,000 volți AC) (se va factura separat)", fără a fi luate însă în calcul argumentele și dovezile din Comunicarea din data de 21.07.2021 privind informații suplimentare la solicitarea de clarificări nr. 5, din care rezultă că eliminarea acestei operațiuni a fost realizată pentru corectarea unei abateri tehnice minore.
+
+Din conținutul art. 134 alin. 7 lit. a) din Normele de aplicare rezultă că modificările ofertei generate de corectarea unor erori materiale sunt permise.
+
+Înlăturarea operațiunii în discuție este posibilă din perspectiva instituției abaterii tehnice minore, potrivit art. 134 alin. 7 lit. b) din Normele de aplicare.
+
+Natura de abatere tehnică minoră a operațiunii modificate rezultă din următoarele argumente:
+
+- înlăturarea operațiunii nu a condus la modificarea prețului total al ofertei, iar dacă o astfel de modificare ar fi avut loc, aceasta nu ar fi schimbat clasamentul ofertelor, petenta fiind singurul ofertant în cadrul Procedurii;
+
+- operațiunea reprezintă o abatere tehnică, deoarece era inaplicabilă modelelor ofertate și viza componenta tehnică a ofertei;
+
+În mod concret, în platforma Service pentru autovehiculele Mercedes-Benz și Setra („OMNIplus") se precizează de către producătorul autovehiculelor că operațiunea de testare a siguranței operaționale a instalației de joasă tensiune (30-1,000 V CA) se realizează numai pentru autobuzele care dețin următoarele dotări opționale identificate prin cod unic: invertor „ES4" de 230 V sau cu invertor de 230 V pe partea stângă din fața punții spate „EK81" sau cu invertor de 230 V în portbagajul din spatele punții directoare „EK82" sau cu invertor 230 V pe partea stângă din fața punții spate „EK83" sau cu invertor de 230 V în portbagaj „EK84". Or, din documentul Specificație tehnică Mercedes-Benz Citaro Hybrid din cadrul ofertei tehnice rezultă că modelul de autobuze ofertat de petentă în cadrul procedurii nu era dotat cu specificațiile având codurile unice „ES4", „EK81", „EK82", „EK83" ori „EK84", deci nu necesitau operațiunea „Convertor de tensiune, verificarea siguranței operaționale a unității de joasă tensiune montată (30-1000 volți AC)", cum dintr-o eroare materială s-a menționat în documentația tehnică a ofertei înaintate de petentă (anterior răspunsurilor la Solicitarea de clarificări nr. 5).
+
+- abaterea tehnică este una minoră, deoarece corectarea să s-a putut realiza prin simpla eliminare a operațiunii (nefiind necesară de la bun început), fără a atrage reconfigurarea altor părți ale ofertei tehnice și având în vedere și ponderea sa în cadrul factorului de evaluare (a reprezentat o singură operațiune printre multe altele care au fost ofertate în cadrul factorului de evaluare).
+
+Natura de abatere tehnică minoră a operațiunii menționate nu a fost niciodată contestată de autoritatea contractantă, nici în cadrul actelor de respingere a ofertei și nici pe calea Punctului de vedere formulat în etapa administrativ-jurisdicțională.
+
+Consiliul a reținut în mod artificial, fără a analiză în substanța lor apărările petentei privind incidența unei abateri tehnice minore și recunoașterile autorității contractante, că modificarea valorii ofertate factorului Timp mediu alocat reviziilor planificate ar fi generat un avantaj injust față de alți potențiali ofertanți, făcând abstracție de faptul că petenta a fost singurul ofertant în cadrul Procedurii, aspect ce exclude efectul schimbării clasamentului ofertanților și pe cel al creării unui așa-zis avantaj injust față de alți competitori.
+
+În speță este incident principiul proporționalității prevăzut de art. 2 alin. 2 lit. b) din Legea nr. 98/2016, care, în condițiile în care petenta a înlăturat o operațiune inaplicabilă bunurilor ofertate fără ca aceasta să conducă la reconfigurarea ofertei tehnice și a celei financiare și fără ca inaplicabilitatea acestei operațiuni să fie contestată, ar fi impus salvgardarea ofertei unice și a Procedurii.
+
+Petenta susține că apărările sale referitoare la nelegalitatea respingerii cumulative a ofertei drept neconformă și inacceptabilă, prin raportare la particularitățile concrete ale Procedurii, au rămas neanalizate de către Consiliu:
+
+- utilizarea de către autoritatea contractantă a dublei măsuri, deci a arbitrarului, în cadrul tratamentului acordat petentei, în contextul în care nu a acordat același tratament operațiunii de eliminare a abaterii tehnice minore precum cel acordat altor operațiuni de îndreptare a unor erori materiale, care au fost eliminate fără ca acestea să mai figureze în motivele respingerii ofertei [a se vedea par. nr. 6-8, pag. nr. 2-3 ale concluziilor scrise);
+
+- motivarea soluției de respingere a ofertei direct în cadrul Punctului de vedere exprimat în fața Consiliului;
+
+- invocarea direct în Punctul de vedere exprimat în fața Consiliului a unor pretexte pentru justificarea refuzului de a lua în considerare conținutul Comunicării din data de 21.07.2021 privind informații suplimentare la solicitarea de clarificări nr. 5.
+
+Prin prisma dreptului de acces efectiv la dublul grad de jurisdicție, petenta solicită instanței să analizeze toate aceste argumente ce au fost omise în analiza Consiliului.
+
+B_________ B______ – B________ B____ al municipiului Pitești a formulat întâmpinare, prin care a solicitat respingerea contestației.
+
+Referitor la critica enunțată de contestator în cadrul contestației, cu privire la faptul că autoritatea contractantă a interpretat în mod eronat, în contradicție cu mențiunile cuprinse în documentația de atribuire, noțiunea de timp mediu maxim alocat reviziilor planificate, coroborată cu concluzia enunțată la punctul 28 din cadrul aceleiași contestații, conform căreia timpul mediu maxim de 320 de ore de revizie planificată/an a fost stabilit pentru un singur autobuz, intimatul precizează că autoritatea contractantă considera că documentația de atribuire a fost corect întocmită, stabilirea factorilor de evaluare, a ponderii acestora, precum și a detaliilor privind aplicarea algoritmului de calcul fiind astfel realizate încât toți operatorii economici interesați să-și formeze o viziune unitară asupra modului în care trebuie să fie întocmita oferta, în concordanță și cu cerințele din cadrul caietului de sarcini. În perioada de timp în care se puteau solicita clarificări înainte de data limita de depunere a ofertelor nu a fost înregistrată nicio solicitare cu privire la detalierea insuficientă sau ambiguă a aplicării algoritmului de calcul. De altfel, faptul că interpretarea conform căreia timpul mediu maxim de 320 de ore de revizie planificată/ an a fost stabilit pentru un singur autobuz este eronată, este susținut de explicația pe care autoritatea contractantă a înțeles să o ofere în cadrul fișei de date, conform căreia „aceasta valoare se obține prin media aritmetica a orelor alocate reviziilor pe întreaga perioada de garanție și pentru toate autobuzele, raportat la numărul de ani și numărul de autobuze".
+
+Referitor la critica enunțata de contestator în cadrul contestației, cu privire la faptul că soluția autorității contractante de respingere a ofertei acestuia ca neconformă este nemotivată, deoarece nu conține calculele și referințele utilizate pentru obținerea rezultatelor indicate în actele care fac obiectul contestației, intimatul arată că la calcularea valorii reprezentând timpul mediu maxim alocat reviziilor planificate pe autobuze/an, comisia de evaluare a avut în vedere informațiile prezentate de ofertant în cadrul următoarelor documente încărcate în SICAP. Autoritatea contractantă nu a luat în calcul nicio altă explicație suplimentară din partea ofertantului înaintată de către acesta prin intermediul altor mijloace decât cele stabilit; prin documentația de atribuire, cap. IV.4.1 Modul de prezentare al propunerii tehnice, respectiv transmiterea documentelor în SICAP în format electronic, semnate cu semnătura electronică extinsă, bazată pe un certificat calificat, eliberat de un furnizor de servicii de certificare acreditat.
+
+Comisia de evaluare a verificat răspunsul ofertantului la solicitarea de clarificări nr. _____/ 30.06.2021, constatând că, prin răspunsul transmis, ofertantul precizează că în cadrul Centralizatorului factorilor de evaluare a fost înscrisă valoarea rezultată din însumarea a două componente ale mentenanței, cea preventivă și cea corectivă.
+
+Astfel, pentru factorul de evaluare - timpul afectat reviziilor planificate (nr. mediu de ore/an) - comisia de evaluare a avut în vedere numărul de ore specificat în planul de revizie prezentat inițial în cadrul ofertei, aferent primelor două componente, respectiv 834 ore, rezultând un total de 332,4 ore, comisia de evaluare aplicând următoarea formula de calcul: 83,1 ore/5 ani x 20 autobuze = 332,4 ore/autobuze/an. În acest sens, comisia de evaluare a constatat că timpul mediu maxim alocat reviziilor planificate pe autobuze/an de 20 zile a câte 16 ore/zi (total - 320 ore pe an), astfel cum este prevăzut în fișa de date a achiziției, a fost depășit, oferta fiind declarată neconformă.
+
+De asemenea, comisia de evaluare a constatat că ofertantul, prin răspunsul transmis la solicitarea de clarificări nr. _____/ 30.06.2021, a adus modificări planului de revizii planificate (mentenanța preventivă), în sensul modificării, pentru fiecare dintre cele cinci intervale, a numărului de ore necesare pentru revizia aferentă operației - Convertor de tensiune, verificarea siguranței operaționale a unității de joasă tensiune montată (30-1,000) volți AC), respectiv de la 1 ora la 0,01 ore, ceea ce conduce la considerarea ca inacceptabilă a ofertei, deoarece prin răspunsul său la solicitarea de clarificări din partea comisiei de evaluare, ofertantul a modificat conținutul propunerii tehnice, fiind aplicabile prevederile art. 134 alin. (6) din H.G.R. nr. 395/2016, cu modificările și completările ulterioare.
+
+Intimatul consideră că modificarea timpilor alocați reviziei pentru oricare operație din cadrul planului de revizii nu-și găsește justificare, prin modificarea efectuată și constatată de comisia de evaluare ofertantul recurgând practic la un artificiu de calcul care să permită ofertei îndeplinirea cerinței de conformitate și încadrarea în timpul mediu maxim alocat reviziilor planificate pe autobuze/an prevăzut în documentația de atribuire, respectiv 320 ore/autobuze/an (20 zile a câte 16 ore/zi).
+
+Analizând plângerea formulată, Curtea constată că este nefondată, din următoarele considerente:
+
+O primă critică adusă de contestatoare deciziei CNSC o reprezintă respingerea, ca tardivă, a apărării sale privind caracterul obligatoriu al documentației de atribuire, în condițiile în care, susține contestatoarea, nu a criticat documentația de atribuire, ci, dimpotrivă, a susținut caracterul ei obligatoriu, pe care autoritatea contractantă nu l-ar fi respectat.
+
+Cu privire la această critică, Curtea constată că petenta critică respingerea ca tardivă a unei critici pe care susține că nu a formulat-o. Astfel, ea susține că CNSC a scindat un enunț formulat de ea în contestație, la punctul 25, în care a arătat că „În acest punct al elaborării documentației de atribuire intervine o aparentă neclaritate generată de caracterul lacunar și impropriu al formulării utilizate, înlăturată însă de interpretarea logică și sistematică a algoritmului de calcul al factorului de evaluare". Potrivit susținerilor petentei, Consiliul, ignorând partea a doua a enunțului, CNSC a respins ca tardive criticile ce privesc „caracterul lacunar și impropriu al formulării utilizate", când ea de fapt susținea claritatea documentației de atribuire, prin prisma interpretării logice și semantice.
+
+Instanța constată că, în realitate, contestatoarea a susținut o anumită interpretare a criteriului de atribuire referitor la "Timpul afectat reviziilor planificate", pe care o consideră ca fiind logică și respectând semantica termenilor folosiți de autoritate, însă această interpretare a fost necesară pentru că, potrivit chiar susținerilor petentei, formularea factorului de evaluare nu era tocmai clară. De altfel, interpretarea unei fraze, a unor enunțuri, a unui conținut este necesară tocmai în situațiile în care formularea textului în cauză nu sunt lămuritoare prin ea însăși, fiind necesar a se recurge la metode de interpretare pentru a suplini acest neajuns. Așadar, chiar dacă acum petenta susține caracterul clar al documentației, în realitate, în contestația adresată consiliului a susținut neclaritatea formulării, ceea ce a impus, potrivit propriilor susțineri, interpretarea logică și sistematică a algoritmului de calcul al factorului de evaluare.
+
+Pe de altă parte, faptul că ar fi respins ca tardivă o critică pe care petenta susține că nu ar fi formulat-o nu este susceptibilă să îi aducă nicio vătămare acesteia, ci ar reprezenta cel mult un considerent inutil al deciziei CNSC, în condițiile în care, din analiza efectuată de Consiliu rezultă că acesta s-a întemeiat pe dispozițiile exprese ale documentației de atribuire, pe care le-a citat și a arătat că acestea sunt opozabile contestatoarei în cel mai mic detaliu, că depunerea ofertei semnifică însușirea fără rezerve a documentației de atribuire; așadar, într-o manieră implicită, Consiliul a considerat că interpretarea „logică și sistematică" propusă de contestatoare nu corespunde modului în care a fost formulat expres criteriul de atribuire solicitat de documentația achiziției, ci reprezintă mai degrabă o critică privind modul în care a fost formulat aceasta.
+
+Curtea, efectuând propria verificare a modului de interpretare propus de petentă, constată că, într-adevăr, în cadrul Fișei de date, autoritatea contractantă definește factorul de evaluare „timpul mediu afectat reviziilor planificate" ca fiind „număr mediu de ore/an/autobuz, luând in considerare 70.000 de km parcurși pe an" (s.n.); totuși, atunci când stabilește valoarea minimă a timpului mediu alocat reviziilor planificate, sub care oferta nu va fi punctată suplimentar, precum și valoarea maximă, peste care oferta va fi declarată conformă, autoritatea contractantă precizează expressis verbis că are în vedere timpul alocat reviziilor pe autobuze/an: „Timpul mediu minim alocat reviziilor planificate pe autobuze/an sub care oferta nu va fi punctata suplimentar este de: 10 zile a cate 16 ore/zi. Timpul mediu maxim alocat reviziilor planificate pe autobuze/an peste care oferta va fi declarata neconforma este de: 20 zile a cate 16 ore/zi." (s.n.)
+
+Chiar dacă o atare formulare vădește o anumită inconsecvență în folosirea termenilor – sub aspectul singularului, respectiv pluralului substantivului „autobuz" - , totuși petenta, care avea posibilitatea de a solicita autorității clarificări ale documentației de atribuire, nu a efectuat un astfel de demers; în consecință, mențiunile documentației de atribuire produc efecte obligatorii în maniera în care au fost formulate, organul de jurisdicție neputând, prin demersul interpretativ solicitat de petentă, să schimbe o mențiune expresă din fișa de date, și anume înlocuirea pluralului substantivului cu singularul acestuia; interpretarea este o operațiune de decelare a sensului termenilor atunci când aceștia sunt neclari, ceea ce nu este cazul în speță, fiind evident că durata maximă de 20 zile a cate 16 ore/zi ( total 320 ore) se referă la autobuze (în număr de 20), iar nu la unul singur.
+
+Așadar, Curtea reține că în mod corect autoritatea contractantă și Consiliul au avut în vedere că, potrivit mențiunilor exprese și necontestate din fișa de date a achiziției, timpul mediu maxim alocat reviziilor planificate, a cărui depășire atrage declararea ofertei ca fiind neconformă, este de 20 zile a câte 16 ore/zi, pe an, pentru toate autobuzele, iar nu pentru unul singur, așa cum tinde să demonstreze petenta.
+
+Așadar, este nefondată critica privind încălcarea forței obligatorii a documentației de atribuire, în realitate petenta fiind cea care tinde să schimbe, pe cale de interpretare, înțelesul expres al acesteia.
+
+O altă critică a petentei vizează încălcarea dreptului său de a înlătura erorile materiale și abaterile tehnice minore. Astfel, petenta susține că a inserat în oferta sa o operațiune tehnică de mentenanță ce nu era aplicabilă modelelor de autobuze din ofertă, și anume „Convertor de tensiune, verificarea siguranței operaționale a unității de joasă tensiune montată (30-1,000 volți AC)".
+
+Astfel, după ce autoritatea contractantă i-a adresat solicitarea de clarificări din 30.062.2021, petenta, prin răspunsul său din 1.07.2021, a schimbat numărul de ore necesare acestei operații, pentru fiecare din cele cinci intervale, de la 1 oră la 0,01 ore. În cadrul contestației susține că această schimbare nu reprezintă o modificare a propunerii tehnice, ci o corecție operată pentru înlăturarea unei erori materiale și a unei abateri tehnice minore.
+
+Petenta tinde să demonstreze, prin răspunsul la solicitarea de clarificări, că operațiunea tehnică respectivă nu era aplicabilă modelelor de autobuze ofertate de ea. În acest sens, pentru a dovedi inaplicabilitatea operațiunii, a făcut referire la datele menționate în platforma Service pentru autovehiculele A_______ A___ și Setra, confirmate de o informare emisă de reprezentantul producătorului, atașată contestației, pe care le coroborează cu datele din specificațiile tehnice din cadrul ofertei tehnice.
+
+Curtea constată că această modificare a timpului afectat unei operațiuni tehnice de mentenanță planificată nu reprezintă o corecție a unei erori materiale sau a unei abateri tehnice minore, ci o modificare a conținutului propunerii tehnice, ceea ce atrage, potrivit art. 134 al. 6 din HG 395/2016, inacceptabilitatea ofertei.
+
+Astfel, se constată că, pentru a demonstra inaplicabilitatea operațiunii tehnice, petenta se prevalează de informații suplimentare, care nu sunt conținute în oferta depusă, ci sunt obținute prin accesarea ulterioară a unor surse externe - platforma service și punct de vedere al reprezentantului producătorului, din care ar rezulta că testarea siguranței operaționale a unității de joasă tensiune este necesară numai pentru autobuzele care dețin dotări opționale identificate prin anumite coduri; confruntând aceste coduri cu cele din specificațiile tehnice din cadrul propunerii tehnice inițiale ar rezulta, potrivit petentei, că autobuzele ofertate nu erau dotate cu unități având acele coduri unice, de unde rezultă că revizia aferentă operației respective nu era necesară deloc, fiindu-i în mod greșit alocată de către ea o durată de timp.
+
+O atare demonstrație, care presupune coroborarea unor date din documentele ofertei cu unele ce nu se regăsesc în aceasta, ci au fost obținute și depuse ulterior, reprezintă corectarea unor greșeli de substanță ale propunerii, iar nu a unor simple vicii de formă. Astfel, viciile de formă reprezintă „acele erori sau omisiuni din cadrul unui document a căror corectare/completare este susținută în mod neechivoc de sensul și de conținutul altor informații existente inițial în alte documente prezentate de ofertant sau a căror corectare/completare are rol de clarificare sau de confirmare, nefiind susceptibile de a produce un avantaj incorect în raport cu ceilalți participanți la procedura de atribuire" (art. 135 al. 3 din HG 395/2006 ).
+
+Faptul că în procedura de atribuire nu există alți participanți nu înseamnă că pot fi calificate ca abateri tehnice minore orice modificări ale propunerii tehnice sau financiare, pe motiv că nu s-ar pune problema unui avantaj incorect față de ceilalți participanți. Condiția principală pentru se încadra în noțiunea de abatere tehnică minoră o reprezintă faptul că existența erorilor sau omisiunilor rezultă din însăși conținutul inițial al ofertei, pe care îl clarifică sau îl confirmă, ceea ce nu este cazul în speță; petenta nu a indicat niciun element din oferta inițială care să susțină în mod neechivoc că autobuzele cu anumite coduri nu necesită revizia aferentă acelei operații. Nu au acest caracter informațiile și documentele obținute ulterior care, coroborate cu cele din ofertă, conduc la concluzia că propunerea inițială era greșit configurată; departe de a aduce o clarificare sau o confirmare a elementelor din ofertă, acestea în realitate infirmă elementele menționate în oferta inițială. Numai dacă această condiție de bază ar fi fost îndeplinită, și anume să aibă rol de clarificare sau de confirmare a informațiilor existente inițial, se analiza suplimentar dacă efectuarea corecției este susceptibilă de a produce un avantaj incorect în raport cu ceilalți participanți la procedura de atribuire.
+
+Legislația secundară adoptată în aplicarea prevederilor referitoare la atribuirea contractului de achiziție publică și în particular cu referire la clarificările oferite la solicitarea autorității contractante oferă reperele pentru ca o corecție adusă de ofertant propunerii tehnice, cu această ocazie, să fie considerată o abatere minoră, susceptibilă de a fi luată în considerare fără a duce la inacceptabilitatea ofertei.
+
+Astfel, art. 134 al. 9 lit. e) din HG 395/2006 exclude din sfera abaterilor tehnice minore situația în care modificarea vizează o parte din ofertă pentru care documentația de atribuire a exclus în mod clar posibilitatea ca ofertanții să se abată de la cerințele exacte ale respectivei documentații, iar oferta inițială nu a fost în conformitate cu aceste cerințe. În cauză, prin fișa de date autoritatea contractantă a specificat clar că „Timpul mediu maxim alocat reviziilor planificate pe autobuze/an peste care oferta va fi declarata neconforma este de: 20 zile a cate 16 ore/zi.", rezultând în mod clar că propunerile tehnice care alocă o durată a reviziilor planificate mai mare de 320 de ore/ autobuze/an vor fi declarate neconforme. Or, prin oferta inițială, alocarea de timp (1 oră pentru fiecare din cele 5 intervale) pentru operațiunea tehnică de mentenanță preventivă „Convertor de tensiune, verificarea siguranței operaționale a unității de joasă tensiune" a condus la depășirea cerinței privind numărul maxim de ore, deși documentația de atribuire a exclus în mod clar posibilitatea ca ofertanții să se abată de la acel număr maxim.
+
+Aceeași concluzie rezultă și din art. 134 al. 9 lit. c) din aceleași Norme metodologice, din care rezultă că nu poate fi considerată o abatere tehnică minoră situația în care, în urma corectării respectivei abateri/omisiuni, se constată că s-ar schimba clasamentul ofertanților. Rezultă așadar din acest text că o abatere rămâne minoră atâta timp cât este lipsită de consecințe sub aspectul clasamentului candidaților, de unde rezultă, a fortiori, că acest caracter se pierde în cazul în care corecția ar determina o schimbare a ofertei din neconformă - ceea ce implică faptul că nu face parte din clasament, acesta cuprinzând numai ofertele admisibile - într-una conformă, așadar una inclusă în clasament.
+
+Petenta critică decizia CNSC și actele autorității contractante și din perspectiva pretinsei încălcări a principiul proporționalității; subsumat acestui principiu aduce în discuție lipsa altor competitori în procedură și faptul că înlăturarea de către ea a unei operațiuni inaplicabile bunurilor ofertate nu a fost contestată pe fond, iar acceptarea acestei corecții ar fi impus salvgardarea ofertei unice și a procedurii.
+
+Curtea constată că, invocând principiul proporționalității cu referire la lipsa altor competitori în procedură, petenta face abstracție de celelalte principii ale procedurii de achiziție publică, statuate de art. 2 al. 2 din Legea 98/2015, și anume nediscriminarea, tratamentul egal, transparența. Toate principiile trebuie aplicate concomitent, fără a se da prevalență unuia în detrimentul celorlalte, întrucât enumerarea lor nu implică și o ordine de preferință.
+
+Astfel, potrivit unei jurisprudențe constante constante a CJUE, principiile procedurii de achiziție tind să protejeze nu numai ofertanții direct implicați într-o procedură de achiziție publică, ci în egală măsură și potențialii ofertanți; astfel, s-a decis că „principiul egalității de tratament implică principiul transparenței. Aceste principii, care constituie baza directivelor comunitare în materia contractelor de achiziții publice, au drept semnificație în special faptul că ofertanții, chiar potențiali, trebuie să se afle în general pe o poziție de egalitate și să dispună de aceleași șanse în legătură cu formularea termenilor cererilor lor de participare sau a ofertelor lor" (Hotărârea Curții din 12 noiembrie 2009, Comisia Comunităților Europene /Republica Elenă, C-199/07, parag. 37).
+
+Or, în condițiile în care documentația de atribuire a prevăzut în mod transparent drept condiție încadrarea într-o limită maximă a timpului afectat reviziilor planificate, salvgardarea procedurii în maniera solicitată de petentă ar aduce atingere principiilor egalității de tratament și transparenței, în detrimentul potențialilor ofertanți, eventual descurajați de o cerință pe care autoritatea contractantă a impus-o, iar ulterior nu ar mai aplica-o.
+
+Totodată, este greșită aserțiunea petentei, în sensul că, de vreme ce autoritatea contractantă nu a combătut lipsa necesității operațiunii de mentenanță privind verificarea convertoarelor, este disproporționată respingerea ei ca neconformă. De esența neconformității este faptul că o ofertă care a dobândit acest caracter nu se mai impune a fi analizată pe fond, fără ca acest lucru să semnifice lipsa de importanță a cerinței în discuție (și subsecvent lipsa de proporționalitate a sancțiunii), ci dimpotrivă, subliniind caracterul ei peremptoriu.
+
+A mai criticat petenta faptul că prin actele contestate, autoritatea contractantă i-ar fi respins oferta ca fiind neconformă și în același timp ca inacceptabilă, susținând că cele două soluții nu ar putea fi pronunțate simultan. Or, în condițiile în care cele două sancțiuni sunt expres prevăzute de norme distincte, art. 215 al. 5 din Legea 98/2016, respectiv art. 134 al. 6 din HG 395/2016, situațiile în care intervin sunt diferite - nerespectarea cerințelor prezentate în documentele achiziției, respectiv modificarea conținutului propunerii tehnice – nu există niciun impediment pentru aplicarea ambelor soluții, ci dimpotrivă. Inacceptabilitatea ofertei este consecința modificării ei, iar declararea ca neconformă este rezultatul neluării în considerare a modificării. Particularitatea speței este aceea că, alături de modificarea propunerii prin alocarea unei durate mult mai mici pentru una din operațiuni, contestatoarea efectuase, în cadrul aceluiași răspuns la solicitarea autorității contractante, și o altă clarificare a propunerii tehnice, constând în defalcarea operațiunilor de mentenanță preventivă de cele de mentenanță corectivă, iar autoritatea contractantă a acceptat această clarificare ca fiind o corecție a unui viciu de formă, dându-i eficiență sub aspectul modului de calcul al timpului alocat reviziilor planificate, în sensul că a luat în considerare doare mentenanța preventivă. Chiar și așa, după defalcarea celor două tipuri de mentenanță și menținerea în calculul duratei doar a componentei preventive, timpul afectat de contestatoare reviziilor planificate a depășit durata maximă stabilită prin fișa de date ( 332,4 ore/autobuze/an, față de 320 ore/autobuze/an), ceea ce a atras respingerea ofertei ca fiind neconformă, soluție prevăzută expres prin fișa de date.
+
+Nu este nicio contradicție între faptul că autoritatea a calificat doar una dintre corecții efectuate de contestatoare în cadrul răspunsului la solicitarea de clarificări ca fiind un viciu de formă, iar pe cealaltă nu. Dimpotrivă, autoritatea a făcut o corectă aplicare a disp. art. 134 al. 6-10 .i art. 135 al. 3 din HG 395/2016, analizând în mod particularizat fiecare din cele două corecții pentru a constatata dacă au caracter formal, dacă aduc clarificări sau confirmări ale unor elemente ce se regăsesc în oferta inițială și a constatat că aceste condiții sunt îndeplinite numai în cazul uneia din cele două pretinse erori materiale corectate de ofertantă.
+
+De asemenea, este nefondată critica privind faptul că autoritatea contractantă ar fi motivat soluția de respingere a ofertei direct în punctul de vedere exprimat în fața CNSC, iar organul jurisdicțional a omis să analizeze această critică.
+
+Curtea constată, contrar susținerilor petentei, că în Decizia atacată cu prezenta plângere, Consiliul a răspuns acestei critici, arătând, în mod just, că autoritatea contractantă, în cadrul comunicării rezultatului procedurii nr. _____/05.08.2021, a respectat dispozițiile art. 216 alin. (2) lit. (b) și (g) alin. (3) lit. (b) din Legea nr. 98/2016 privind achizițiile publice, iar informațiile conținute în acel document au fost suficiente contestatoarei pentru a-și exercita dreptul la apărare, consacrat la art. 15 alin. (1) din Legea nr. 101/2016 și de a formula, în termenul legal contestația dedusă soluționării.
+
+Astfel, Curtea are în vedere că, într-adevăr, prin adresa nr. _____/05.08.2021, autoritatea contractantă a adus la cunoștința petentei motivele respingerii ofertei sale, temeiurile juridice și elementele faptice care au condus la aplicarea acestora, inclusiv valoarea calculată de comisia de evaluare pe baza documentelor prezentate de ofertant (după excluderea modificării numărului de ore afectat operației „Convertor de tensiune(...)") , a cărei depășire a atras neîndeplinirea criteriului de calificare.
+
+În concluzie, Curtea, constatând nefondate toate criticile petentei, va respinge ca nefondată plângerea formulată, în baza art. 34 al. 5 din Legea nr. 101/2016.
+
+PENTRU ACESTE MOTIVE
+
+ÎN NUMELE LEGII
+
+DECIDE
+
+Respinge ca nefondată plângerea formulată de petenta A_______ A___ A_____ & [OPERATOR ECONOMIC], J____________, CUI [CUI], cu sediul în Voluntari, ______________________. 15-17-19-21-23-25, Clădirea Swan Office & Technology Park, __________________, cu sediul ales pentru comunicarea actelor de procedură la SCA I______ și S___, din București, _____________________, _______________, împotriva Deciziei nr. 2043/C6/2107 pronunțată la data de 14 septembrie 2021 în dosarul nr. 2107/2021, intimat fiind B_________ B______ – B________ B____ al Municipiului Pitești, cu sediul în Pitești, _____________________, județul [localitate].
+
+Definitivă.
+
+Pronunțată în ședință publică, astăzi 07 octombrie 2021, la Curtea de Apel Pitești – Secția a II-a civilă, de contencios administrativ și fiscal.
+
+Președinte,
+
+E____ M____ S___
+
+Judecător,
+
+A___ A______ T_____
+
+Judecător,
+
+A______ E____ T_____
+
+Grefier,
+
+I______ E____ P____
+
+Pentru grefier aflat în concediu semnează prim-grefier
+
+Red.A.A.T./13.10.2021
+
+Tehnored. I.C./4 ex
+
+Acest document este preluat și procesat de o aplicație realizată gratuit de Wolters Kluwer Romania pentru Fundatia RoLII.
+
+Conținutul său poate fi preluat și utilizat cu citarea sursei: www.rolii.ro
+

@@ -1,0 +1,17 @@
+# C-6/15 — TNS Dimarso
+
+- Instanță: CJUE (Camera a patra)
+- Data: 2016-07-14
+- ECLI: ECLI:EU:C:2016:555
+- Părți: TNS Dimarso NV împotriva Vlaams Gewest (Regiunea Flamandă, Belgia); cerere de decizie preliminară formulată de Raad van State (Consiliul de Stat, Belgia)
+- Temă: criterii de atribuire; oferta cea mai avantajoasă din punct de vedere economic (MEAT); metoda de evaluare / grila de notare; obligația (sau nu) de a comunica prealabil metoda de evaluare; transparență și egalitate de tratament
+- Cadru juridic: Directiva 2004/18/CE — art. 53(2) (criterii de atribuire și ponderarea lor). Principiile egalității de tratament a operatorilor economici și obligația de transparență ce decurge din acestea.
+- Întrebarea preliminară (sinteză): Art. 53(2) din Directiva 2004/18, coroborat cu principiul egalității de tratament și cu obligația de transparență, trebuie interpretat în sensul că autoritatea contractantă este obligată să aducă la cunoștința ofertanților potențiali, în anunțul de participare sau în caietul de sarcini, metoda de evaluare (grila de notare) pe baza căreia va aprecia și clasifica în concret ofertele în raport cu criteriile de atribuire și ponderea lor stabilite în prealabil?
+- Soluția (ratio): Autoritatea contractantă NU are obligația să aducă la cunoștința ofertanților potențiali, în anunț sau în caietul de sarcini, metoda de evaluare pe care o va aplica pentru a evalua și clasifica în concret ofertele. ÎNSĂ această metodă de evaluare este supusă unor limite stricte: (1) nu poate avea ca efect modificarea criteriilor de atribuire și a ponderii lor relative, astfel cum au fost definite și publicate în prealabil; (2) nu poate, în principiu, să fie stabilită după deschiderea ofertelor; și (3) nu poate cuprinde elemente care, dacă ar fi fost cunoscute la momentul pregătirii ofertelor, ar fi putut influența această pregătire. Astfel se asigură respectarea egalității de tratament și a transparenței.
+- Text-cheie verbatim:
+  - Dispozitiv: „Articolul 53 alineatul (2) din Directiva 2004/18/CE [...] trebuie interpretat în sensul că [...] [autoritatea contractantă] nu are obligația să aducă la cunoștința ofertanților potențiali [...] metoda de evaluare aplicată de autoritatea contractantă pentru a evalua și a clasifica în mod concret ofertele. În schimb, metoda menționată nu poate avea ca efect modificarea criteriilor de atribuire și a ponderii lor relative.”
+  - „Stabilirea de către autoritatea contractantă a metodei de evaluare după publicarea anunțului de participare [...] nu poate avea ca efect modificarea criteriilor de atribuire și nici a ponderii lor relative.” (pct. 32)
+  - „[...] metoda de evaluare aplicată [...] nu poate, în principiu, să fie stabilită după deschiderea ofertelor de către autoritatea contractantă.” (pct. 31)
+- Relevanță achiziții RO: Clarifică, pentru art. 187 L. 98/2016 și pentru algoritmul de calcul/factorii de evaluare, faptul că AC nu este obligată să publice prealabil întreaga „metodă/grilă internă” de evaluare, dar factorii de evaluare, ponderile și algoritmul de calcul publicate nu pot fi modificate ulterior, iar metoda de notare nu poate fi croită după deschiderea ofertelor. Reper pentru contestații CNSC privind modificarea/clarificarea ulterioară a modului de punctare și pentru limita dintre marja de apreciere a comisiei și interdicția schimbării regulilor în timpul evaluării.
+- Sursă oficială: https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62015CJ0006
+- Status: VERIFICAT

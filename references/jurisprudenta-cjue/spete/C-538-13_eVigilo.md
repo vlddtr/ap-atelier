@@ -1,0 +1,16 @@
+# C-538/13 — eVigilo
+
+- Instanță: CJUE (Camera a cincea)
+- Data: 2015-03-12
+- ECLI: ECLI:EU:C:2015:166
+- Părți: eVigilo Ltd împotriva Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų ministerijos (Departamentul pentru prevenirea incendiilor și salvare din cadrul Ministerului de Interne, Lituania)
+- Temă: conflict de interese; imparțialitate; sarcina probei; obligația activă a autorității contractante
+- Cadru juridic: Directiva 89/665/CEE (privind căile de atac), astfel cum a fost modificată prin Directiva 2007/66/CE — art. 1(1) și art. 2(1)(b); Directiva 2004/18/CE — art. 2 (principiile egalității de tratament, nediscriminării și transparenței), art. 44(1), art. 53(1)(a).
+- Întrebarea preliminară (sinteză): (1) Dacă dispozițiile dreptului UE trebuie interpretate în sensul că o eventuală nelegalitate a evaluării ofertelor poate fi constatată ca urmare a unor legături semnificative dintre experții autorității contractante și specialiștii ofertantului câștigător, fără ca ofertantul nemulțumit să fie obligat să dovedească în concret parțialitatea evaluatorilor; (2) ce efecte are constatarea lipsei de imparțialitate asupra deciziei de atribuire; (3) momentul de la care curge termenul de introducere a căii de atac; (4) dacă „gradul de conformitate” cu specificațiile tehnice (descrierea ofertei) poate fi utilizat drept criteriu/subcriteriu de atribuire.
+- Soluția (ratio): Autoritatea contractantă are o obligație ACTIVĂ de a verifica existența eventualelor conflicte de interese și de a lua măsurile adecvate pentru a le preveni, identifica și remedia. Atunci când un ofertant prezintă elemente obiective care pun la îndoială imparțialitatea unui expert al autorității contractante, sarcina probei se inversează: nu ofertantul reclamant trebuie să dovedească parțialitatea concretă, ci autoritatea contractantă trebuie să examineze toate împrejurările relevante și să demonstreze, dacă este cazul, că nu a existat o atingere adusă imparțialității. Conflictul de interese implică riscul ca autoritatea să se lase ghidată de considerații străine contractului și să acorde o preferință unui ofertant pentru acest simplu motiv. Revine instanței naționale să verifice, conform dreptului național, efectele parțialității constatate asupra deciziei.
+- Text-cheie verbatim:
+  - „autoritatea contractantă este, în orice caz, obligată să verifice existența unor eventuale conflicte de interese și să adopte măsurile adecvate pentru a le preveni, a le identifica și a le remedia” (pct. 43).
+  - „Ar fi incompatibil cu acest rol activ să se impună reclamantului [...] sarcina de a dovedi, în cadrul procedurii căii de atac, parțialitatea concretă a experților autorității contractante.” (pct. 43).
+- Relevanță achiziții RO: Fundamentează regimul conflictului de interese din art. 59-62 L. 98/2016 (definiție, obligația de prevenire/identificare/înlăturare, măsuri ale autorității contractante) și principiile din art. 2 L. 98/2016. Confirmă natura activă a obligației AC și standardul probatoriu („elemente obiective” suficiente, fără dovada parțialității efective) — relevant și pentru art. 187 L. 98/2016 (criterii de atribuire/evaluare prin experți). Util în contestațiile CNSC pe conflict de interese al evaluatorilor.
+- Sursă oficială: https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62013CJ0538
+- Status: VERIFICAT

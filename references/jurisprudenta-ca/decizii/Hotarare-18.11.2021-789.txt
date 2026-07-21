@@ -1,0 +1,320 @@
+Decizie nr. 789/2021 din 18-nov-2021, Curtea de Apel Bacau, litigiu privind achizitiile publice (Contencios administrativ si fiscal)
+
+Decizie
+
+din 18 Noiembrie 2021 
+
+789/2021
+
+Text speță
+
+Societate comercială vs Societate comercială, Persoană fizică
+
+Cod ECLI ECLI:RO:CABAC:2021:011.______
+
+Operator de date cu caracter personal nr. 3666.
+
+Dosar nr. ___________
+
+R O M Â N I A
+
+CURTEA DE APEL BACĂU
+
+SECȚIA A II-A CIVILĂ, DE C_________ ADMINISTRATIV ȘI FISCAL
+
+DECIZIE Nr. 789/2021
+
+Ședința publică de la 18 Noiembrie 2021
+
+Curtea constituită din:
+
+PREȘEDINTE C______ P______
+
+Judecător C_______ M_______ R___
+
+Judecător L_______ A______
+
+Grefier I_____ Ș_______
+
+Pe rol se află soluționarea contestației formulate de contestatoarea [OPERATOR ECONOMIC] București împotriva Deciziei nr. 2148/C1/2272 din 27 septembrie 2021 pronunțată de Consiliul N_______ de Soluționare a Contestațiilor în contradictoriu cu intimații C_________ C_____ C____ și [OPERATOR ECONOMIC] B_____, având ca obiect litigiu privind achizițiile publice.
+
+Desfășurarea ședinței de judecată a fost înregistrată cu mijloace tehnice audio, conform dispozițiilor art. 231 alin. 4 din Codul de procedură civilă .
+
+La apelul nominal făcut în ședința publică, la strigarea cauzei la ordine, se prezintă avocat A__ P____ pentru contestatoarea [OPERATOR ECONOMIC] București (cu împuternicire la fila 189, vol.I dosar), consilier juridic R_____ M_____ pentru intimatul C_________ C_____ C____ (cu delegație la fila 190,vol. I dosar) și avocat A____ I______ pentru intimata [OPERATOR ECONOMIC] B_____ (cu împuternicire avocațială la fila 188, vol.I dosar).
+
+Procedura de citare este legal îndeplinită.
+
+S-a făcut referatul cauzei de către grefierul de ședință, care învederează instanței următoarele:
+
+- cauza are ca obiect „achiziții publice";
+
+- procedura de citare este legal îndeplinită;
+
+- la data de 9.11.2021 intimatul C_________ C_____ C____ a înaintat la dosar note scrise;
+
+- astăzi, prin Serviciul Registratură, contestatoarea [OPERATOR ECONOMIC] București a depus concluzii scrise.
+
+Avocat A____ I______, reprezentant convențional al intimatei [OPERATOR ECONOMIC] B_____, depune la dosar un set de înscrisuri reprezentând note scrise.
+
+Întrebată fiind dacă partea adversă a consultat aceste înscrisuri, reprezentata convențională a intimatei [OPERATOR ECONOMIC] B_____ arată că contestatoarea [OPERATOR ECONOMIC] București nu a studiat notele scrise pe care le-a depus astăzi.
+
+Pentru a da posibilitatea contestatoarei să lectureze notele scrise depuse la acest termen de judecată de către intimata [OPERATOR ECONOMIC] B_____, instanța lasă cauza la a doua strigare.
+
+La al doilea apel nominal făcut în ședința publică se prezintă avocat A__ P____ pentru contestatoarea [OPERATOR ECONOMIC] București (cu împuternicire la fila 189, vol.I dosar), consilier juridic R_____ M_____ pentru intimatul C_________ C_____ C____ (cu delegație la fila 190,vol. I dosar) și avocat A____ I______ pentru intimata [OPERATOR ECONOMIC] B_____ (cu împuternicire avocațială la fila 188, vol.I dosar).
+
+Instanța constată că la dosar au fost depuse note scrise de către intimata [OPERATOR ECONOMIC] B_____ la care sunt atașate o fișă de date și decizia C.N.S.C. nr. 1643/C1/1702 din 28 iulie 2021.
+
+Nemaifiind alte cereri de formulat și probe de administrat, instanța constată contestația în stare de judecată și acordă cuvântul în dezbateri părților.
+
+Avocat A__ P____, reprezentant convențional al contestatoarei [OPERATOR ECONOMIC] București, având cuvântul, solicită menținerea deciziei C.N.S.C., arătând că tardivitatea invocată de intimatul C_________ C_____-N____ nu este întemeiată întrucât nu se critică documentația de atribuire, fișele de date sau caietul de sarcini. Arată că partea pe care o reprezintă a venit cu o interpretare proprie referitoare la modul de respectare a caietului de sarcini deoarece, în calitate de ofertant, societatea [OPERATOR ECONOMIC] București este interesată de câștigarea licitației.
+
+Învederează instanței că la momentul în care au fost date rezultatele s-a stabilit că autonomia bicicletelor electrice reprezintă 20% din punctaj și arată că societatea [OPERATOR ECONOMIC] B_____ a obținut punctajul maxim de 20%, iar societatea [OPERATOR ECONOMIC] București a obținut 7,8%, aproximativ de 3 ori mai puțin decât punctajul obținut de către [OPERATOR ECONOMIC] B_____. În acest sens, precizează că autonomia [OPERATOR ECONOMIC] București este de 80 km, iar ca punctajul să fie de 3 ori mai mic ar însemna că autonomia [OPERATOR ECONOMIC] B_____ trebuie să fie de 3 ori mai mare, respectiv cam de 240 km. În realitate, susține că autonomia [OPERATOR ECONOMIC] B_____ nu este de 240 km, ci de 550 km, această situație determinând societatea pe care o reprezintă să efectueze verificări în caietul de sarcini, pe care nu-l contestă.
+
+În acest context, menționează că la pct. 5.7. „cerințe privitoare la execuția lucrărilor și furnizarea echipamentelor", fila 34, din caietul de sarcini, se prevede că: „Baterie încapsulată în cadrul bicicletei: Li-I__ 36 V, 10h cu capacitate de min.70% după 1000 de cicluri de încărcare...motor 36 V pe roata din spate, putere 250 W". Din această prevedere rezultă că se stabilește un motor și o baterie. Potrivit fișei producătorului, pentru ofertantul [OPERATOR ECONOMIC] B_____, în anexa „specificații tehnice" sunt prevăzute 2 motoare și 2 baterii, iar acesta este motivul pentru care a rezultat o autonomie imensă. Mai învederează instanței că există un motor de 250 w și 36 v și încă un motor pe roata din spate și încă o baterie.
+
+În aceste condiții, susține că autoritatea contractantă, verificând autonomia propusă, de 550 km, a făcut o solicitare de clarificări cu nr. 13.511/29.04.2021, care nu a fost anulată de către C.N.S.C., în care s-a precizat că: „referitor la caracteristicile bicicletei electrice prezentate în cadrul ofertei tehnice la pag.288, vă rugăm să clarificați dacă acestea vor fi echipate inclusiv cu motorul opțional și bateria secundară opțională sau aceste elemente vor trebui achiziționate separat de autoritatea contractantă". Susține că răspunsul dat de societatea [OPERATOR ECONOMIC] B_____ a fost în sensul că acestea vor fi incluse în cadrul bicicletelor.
+
+Ulterior, nefiind lămurită, autoritatea contractantă a formulat o nouă solicitare de clarificări, tot cu privire la autonomie, prin care a întrebat dacă există documente de omologare. Arată că această solicitare a fost apreciată ca fiind nelegală de către C.N.S.C., reținându-se că nu este nevoie de omologare. Susține că autoritatea contractantă a rămas în continuare nelămurită și, chiar dacă nu a fost nevoie de omologare, nu s-a explicat cum s-a ajuns la o autonomie de 550 km.
+
+În această împrejurare, face precizarea că în răspunsul nr. 5256/07.06.2021 dat de [OPERATOR ECONOMIC] B_____ sunt evidențiate niște calcule, însă [OPERATOR ECONOMIC] București a făcut propriile calcule, prin raportare la autonomia și caracteristicile bicicletei, din care au rezultat 2 tipuri de concluzii nerealiste. Astfel, susține că bicicleta Wind ar trebui să parcurgă o autonomie de 550 km în 2,5 h, în opinia sa, acest lucru nefiind posibil. De asemenea, arată că a mai făcut un calcul cu privire la cele 2 motoare și la cele 2 baterii din care rezultă un consum de 2,27 w/km și, prin aplicarea regulii de 3 simplă, rezultă că, în realitate, în varianta inversă consumul ar determina o viteză de 4,25 km x 4 km/h, mai exact o viteză mai mică decât face o persoană pe jos.
+
+Fiind interpelată de instanță dacă a avut acces la analiza tehnică, reprezentanta convențională a contestatoarei precizează că a avut acces însă nu în totalitate. Menționează că a avut acces la fișa tehnică a producătorului.
+
+În concluzie, solicită admiterea contestației, menținerea deciziei pronunțate de către C.N.S.C. și, în rejudecare, respingerea plângerii formulate de către intimata [OPERATOR ECONOMIC] B_____. În afară de cheltuielile deja depuse, arată că nu are alte cheltuieli de solicitat.
+
+Consilier juridic R_____ M_____, reprezentant convențional al intimatului C_________ C_____ C____, având cuvântul, susține că criticile aduse formulei de calcul a autonomiei bicicletelor electrice și a procedurii de atribuire sunt nefondate, întrucât procedura de atribuire s-a desfășurat conform prevederilor existente în caietul de sarcini.
+
+Afirmă că autoritatea contractantă a stabilit în mod legal și corect modalitatea de atribuire, autonomia bicicletelor electrice putându-se dovedi cu fișa tehnică a producătorului.
+
+Învederează Curții că nu a existat o solicitare de clarificări cu privire la formula de calcul în timpul procedurii deoarece autonomia a fost dovedită prin fișele tehnice depuse de către producători. În acest context, din punctul său de vedere, contestarea acestui aspect după comunicarea rezultatului procedurii este neîntemeiată și tardivă.
+
+Mai mult, arată că Comisia de evaluare a evaluat ofertele operatorilor economici, ținând cont de criteriul de atribuire „cel mai bun raport calitate-preț", punctajele obținute la componenta financiară și tehnică, conform dispozițiilor și criteriilor stabilite în caietul de sarcini, de care atât [OPERATOR ECONOMIC] B_____, cât și [OPERATOR ECONOMIC] București au avut cunoștință și pe care și le-au asumat întocmai.
+
+În urma evaluării, menționează că [OPERATOR ECONOMIC] B_____ s-a clasat pe locul I cu 98 de puncte întrucât această societate a declarat o autonomie maximă de 550 km, pe când societatea [OPERATOR ECONOMIC] București a declarat o autonomie maximă de 215 km.
+
+Mai învederează Curții că, pentru egalitate de tratament al ofertanților, autoritatea contractantă a făcut o solicitare de clarificări prin care a solicitat societății [OPERATOR ECONOMIC] București să declare autonomia maximă întrucât, inițial, a declarat o autonomie medie, motiv pentru care autoritatea contractantă nu a putut compara autonomia medie declarată de către [OPERATOR ECONOMIC] București și autonomia maximă declarată de către [OPERATOR ECONOMIC] B_____.
+
+Din punct de vedere tehnic, susține că o autonomie de 550 km nu este imposibilă deoarece bicicletele electrice prezentate de către [OPERATOR ECONOMIC] B_____ vor fi prevăzute cu 2 baterii care permit o asemenea autonomie. Mai arată că o autonomie mare este reprezentată de durata de timp, fără necesitatea încărcării bateriei, considerent pentru care oferta [OPERATOR ECONOMIC] B_____ este cea mai promițătoare atât tehnic, cât și financiar.
+
+Precizează că [OPERATOR ECONOMIC] București nu a prezentat nicio probă din care să rezulte fără echivoc că oferta [OPERATOR ECONOMIC] B_____ ar conține informații nereale sau că autoritatea contractantă a favorizat societatea [OPERATOR ECONOMIC] B_____.
+
+La interpelarea instanței, consilier juridic R_____ M_____ pentru intimatul C_________ C_____ C____, arată că tardivitatea se referă la faptul că formula de calcul a bicicletelor trebuia contestată în timpul procedurii de atribuire și nu după comunicarea rezultatului procedurii.
+
+Pe cale de consecință, solicită respingerea contestației și a criticilor formulate de către intimata [OPERATOR ECONOMIC] București.
+
+Avocat A____ I______, reprezentant convențional al intimatei [OPERATOR ECONOMIC] B_____, având cuvântul, solicită respingerea contestației formulate de către contestatoarea [OPERATOR ECONOMIC] București.
+
+În ceea ce privește capătul de cerere referitor la autonomia bicicletelor, învederează instanței că [OPERATOR ECONOMIC] București insistă asupra faptului că ar fi trebuit ca autoritatea contractantă să stabilească o formulă de calcul a autonomiei bicicletelor. Cu privire la acest aspect, precizează că contestatoarea ar fi trebuit să conteste documentația de atribuire pentru că în cuprinsul acesteia se prevede în mod expres că autonomia bicicletelor se stabilește prin fișa tehnică a producătorului. În altă ordine de idei, toți operatorii economici din procedură trebuiau să depună fișa tehnică a producătorului din care ar rezulta autonomia fiecărei biciclete.
+
+Susține că niciodată în documentația de atribuire nu s-a stabilit o anumită formulă de calcul pentru autonomia bicicletelor, fiind clar că autoritatea contractantă a solicitat exclusiv fișa tehnică a bicicletelor pentru a fi justificată autonomia acestora.
+
+Învederează Curții că la momentul în care autoritatea contractantă a solicitat clarificări cu privire la autonomia bicicletelor, a fost formulată o contestație la această solicitare de clarificări în fața C.N.S.C., contestație soluționată cu putere de lucru judecat, în sensul în care autoritatea contractantă este ținută de documentația de atribuire pe care ea însăși a edictat-o, iar singurul aspect pe care îl poate solicita, referitor la autonomia bicicletelor, este fișa tehnică a bicicletelor.
+
+În ceea ce privește calculul pe fond făcut de către [OPERATOR ECONOMIC] București, arată că prin solicitarea de clarificări se arată că contestatoarea și-a modificat autonomia de la 80 la 270 km. În realitate, susține că autoritatea contractantă a confirmat prin plângere că a avut în vedere o autonomie de 270 modificată de la 80.
+
+Referitor la modalitatea de calcul pe care o impune [OPERATOR ECONOMIC] București, regula de 3 simplă, apreciază că aceasta este greșită pentru că această modalitate de calcul se raportează la automobile unde bateria funcționează tot timpul, pe când în cazul bicicletei electrice bateria nu este funcțională tot timpul întrucât nu se pedalează tot timpul. Învederează Curții că bateria își consumă energia doar în momentul în care se apasă pe pedală, nu tot timpul când aceasta merge efectiv, deoarece ar însemna să fie scuter sau automobil.
+
+În măsura în care [OPERATOR ECONOMIC] București are o altă modalitate de realizare a acestei autonomii sau de utilizare a unei asemenea baterii, susține că aceasta este o problemă a producătorului, nu a societății pe care o reprezintă pentru că [OPERATOR ECONOMIC] B_____ a depus fișa tehnică a producătorului din care rezultă în mod cert autonomia bicicletei.
+
+Cu privire la plângerile formulate, arată că prin întâmpinările formulate la plângere, contestatoarea [OPERATOR ECONOMIC] București a susținut că instanța nu este învestită cu soluționarea unui astfel de capăt de cerere.
+
+Mai mult decât atât, [OPERATOR ECONOMIC] București a insistat că art. 34 alin. 4 din Legea nr. 101/2016 nu ar fi de natură a permite criticarea capătului de cerere referitor la anularea procedurii și la autonomia bicicletelor întrucât instanța nu a fost învestită cu un astfel de capăt de cerere, singura posibilitate prin care instanța ar fi putut fi învestită ar fi aceea în care [OPERATOR ECONOMIC] București ar fi făcut o contestație cu privire la lipsa de interes a acestor critici.
+
+Fiind interpelată de către instanță, reprezentanta convențională a intimatei [OPERATOR ECONOMIC] B_____ arată că [OPERATOR ECONOMIC] București a invocat inadmisibilitatea și că înțelege să invoce și [OPERATOR ECONOMIC] B_____ inadmisibilitatea.
+
+În legătură cu criticile pe care le-a făcut cu privire la al doilea capăt de cerere referitoare la plângere, susține că acestea ar fi lipsite de interes în măsura în care oferta [OPERATOR ECONOMIC] B_____ ar fi admisibilă și ar rămâne în continuare câștigătoare.
+
+Mai arată că criticile făcute cu privire la oferta [OPERATOR ECONOMIC] București sunt lipsite de interes, dat fiind faptul că oferta [OPERATOR ECONOMIC] B_____ este câștigătoare ca urmare a deciziei acestei instanțe.
+
+Precizează că tocmai contestatoarea a limitat posibilitatea instanței de a judeca acest capăt de cerere referitor la autonomia bicicletelor, menționând că instanța nu a fost învestită în acest sens, deși dispozițiile vorbesc despre posibilitatea instanței de a verifica aceste critici care au fost respinse ca lipsite de interes.
+
+În concluzie, solicită respingerea contestației formulate de [OPERATOR ECONOMIC] București. Plata cheltuielilor de judecată ocazionată de acest litigiu înțelege să o solicite pe cale separată.
+
+Curtea declară dezbaterile închise, reținând contestația pentru deliberare și pronunțare.
+
+CURTEA
+
+-deliberând-
+
+Asupra plângerii de față, se rețin următoarele:
+
+Prin cererea înregistrată sub nr. ___________ la Curtea de Apel Bacău, autoritatea contractantă C_________ C_____ C____, a formulat plângere împotriva Deciziei nr. 2148/C1/2272 din 27 septembrie 2021 pronunțată de Consiliul N_______ de Soluționare a Contestațiilor.
+
+Prin cererea înregistrată sub nr. ___________, [OPERATOR ECONOMIC] a formulat plângere împotriva aceleași decizii a Consiliului N_______ de Soluționare a Contestațiilor; prin încheierea din 28.10.2021, instanța a dispus conexarea acestei plângeri la dosarul nr. ___________, în temeiul art. 139 (1) Cod procedură civilă .
+
+Instanța, prin decizia civilă nr. 724 din 01.11.2021, a admis plângerile formulate de petenta-autoritate contractantă C_________ C_____ C____ și petenta-intervenientă [OPERATOR ECONOMIC] B_____, împotriva Deciziei nr. 2148/C1/2272 din 27 septembrie 2021 pronunțată de Consiliul N_______ de Soluționare a Contestațiilor, în contradictoriu cu intimata [OPERATOR ECONOMIC] București. A fost desființată Decizia Consiliului N_______ de Soluționare a Contestațiilor nr. 2148/C1/2272 din 27 septembrie 2021, iar în temeiul art. 34 alin. 4 din Legea nr. 101/2016 a reținut cauza spre rejudecare.
+
+În rejudecare, se constată următoarele:
+
+Prin Decizia nr. 2148/C1/2272 din 27 septembrie 2021, Consiliul N_______ de Soluționare a Contestațiilor a reținut că nu vor fi analizate alte critici invocate de contestator, atâta timp cât lipsa semnăturii electronice extinse face oferta câștigătoare ca fiind inacceptabilă.
+
+Față de cele dispuse prin decizia civilă nr. 724 din 01.11.2021 pronunțată de Curtea de Apel Bacău, instanța, în conformitate cu art. 34 alin.4 din Legea 101/2016, urmează să rejudece cauza și sub aspectul celor două critici pe care le-a mai formulat contestatoarea.
+
+Referitor la celelalte două critici formulate de contestatoarea [OPERATOR ECONOMIC] București, s-a arătat că:
+
+Prima critică adusă de către contestatoare fost cea potrivit căreia nu au fost avute în vedere criteriile obiective comune ofertanților pentru determinarea autonomiei bicicletelor electrice.
+
+Potrivit art. 196 alin. (1) și (3) din Legea 98/2016 s-a stabilit că: „(1) Autoritatea contractantă poate solicita candidaților/ofertanților să depună toate sau o parte dintre documentele justificative ca dovadă a informațiilor cuprinse în DUAE, în orice moment pe durata desfășurării unei proceduri de atribuire, dacă acest lucru este necesar pentru a asigura desfășurarea corespunzătoare a procedurii. (3) Autoritatea contractantă poate invita candidații/ofertanții să completeze sau să clarifice documentele prevăzute la alin. (1) sau (2)".
+
+Art. 212 alin. (1) lit. (b) din același act normativ prevede: „autoritatea contractantă are obligația de a anula procedura de atribuire a contractului de achiziție publică/acordului-cadru în următoarele cazuri: b) dacă au fost depuse oferte admisibile care nu pot fi comparate din cauza modului neuniform de abordare a soluțiilor tehnice și/ori financiare".
+
+Modul de elaborare al documentației de atribuire nu poate fi utilizat de către un operator economic, astfel încât acesta să aibă o libertate de apreciere nelimitată în privința cerințelor tehnice. Într-o astfel de ipoteză, pentru a se limita riscul de a fi depuse oferte care nu pot fi comparate, autoritatea contractantă ar fi trebuit să solicite clarificări astfel încât informațiile furnizate de operatorii economici să nu fie neuniforme.
+
+A mai arătat contestatoarea că jurisprudența este în sensul în care: „apare limpede faptul că documentația de atribuire cuprinde prevederi ce sunt în evidentă contradicție, astfel încât au influențat întocmirea ofertelor depuse de ofertanți, ajungându-se la depunerea unor oferte diferite sub aspectul soluțiilor pe care le cuprind și care nu pot fi comparate efectiv din cauza modului neuniform de abordare a soluțiilor tehnice și/ori financiare, din moment ce una nu cuprinde autovidanja, în timp ce oferta Asocierii formată din intimata [OPERATOR ECONOMIC] și [OPERATOR ECONOMIC] o cuprinde".
+
+S-a mai precizat că autoritatea contractantă nu a indicat în documentele de achiziție nicio formulă de calcul a autonomiei bicicletelor electrice. Singura formulă indicată în FDA este cea prin care se determină punctajul pentru acest subfactor, înlocuind autonomia care trebuie cunoscută „din fișa tehnică a bicicletei electrice". Cu atât mai mult că, pentru calcularea acestei autonomii, nu există o formulă general recunoscută sau aprobată de o anumită autoritate, ceea ce înseamnă că, în speță, fiecare ofertant și-a stabilit propriul sistem de calcul. Or, pentru obținerea unui rezultat real, trebuie avuți în vedere o multitudine de factori, dintre care amintim: temperatura, înclinația drumului, viteza, condiții meteorologice, greutatea ciclistului, presiunea cu care se pedalează etc.
+
+A mai susținut contestatoarea că, la stabilirea autonomiei, fiecare ofertant a particularizat acești factori în mod discreționar, rezultatul obținut fiind valabil raportat doar la propriul sistemul de calcul.
+
+În speță, autoritatea contractantă nici măcar nu a solicitat ofertanților indicarea metodei de calcul pentru a realiza în mod real și obiectiv departajarea. Într-o cauză similară, se poate observa cum C.N.S.C. a solicitat ofertanților indicarea metodelor de calcul al consumului mediu de energie:
+
+„Din acest motiv, în cadrul audierilor, Consiliul a solicitat celor trei ofertanți să prezinte datele introduse în calcul și formulele utilizate pentru a se putea face o comparație corectă între valorile prezentate de ofertanți. Această solicitare era cu atât mai necesară cu cât între cifrele finale pentru costul consumului de energie pe 15 ani, cuprinse în procesul-verbal nr. 22/323/18.09.2019 pagina 5, se constata diferențe uriașe (evident imposibile) de ordin de mărime: ofertele CRRC-Astra și Siemens prezentând valori de 86.318.933 lei, respectiv ___________ lei în timp ce oferta Alstom a fost menționată cu valoarea prezentată de 1.___________ lei de cca 10 ori mai mare decât celelalte, greșelile de calcul, de o parte sau de alta, fiind evidente. Deși ofertanții CRRC-Astra și Alstom au transmis, odată cu concluziile scrise urmare a audierilor, anexe cuprinzând modul propriu de calcul al consumului mediu de energie, Consiliul nu identifică nicio asemănare între cele două metode de estimare a consumului de energie, nicio formulă _________________ fi fost introduse caracteristicile proprii ale produsului ofertat împreuna cu indicatorii obligatoriu impuși prin documentația de atribuire".
+
+A doua critică se referă la faptul că oferta depusă de către Wind Technologies prezintă informații nereale.
+
+Dispozițiile art. 167 alin. (1) lit. h) al Legii nr. 98/2016 prevăd: „autoritatea contractantă exclude din procedura de atribuire a contractului de achiziție publică/acordului-cadru orice operator economic care se află în oricare dintre următoarele situații: [...] h) operatorial economic s-a făcut vinovat de declarații false în conținutul informațiilor transmise la solicitarea autorității contractante în scopul verificării absenței motivelor de excludere sau al îndeplinirii criteriilor de calificare și selecție, nu a prezentat aceste informații sau nu este în măsură să prezinte documentele justificative solicitate".
+
+Wind Technologies a declarat în mod nereal o autonomie de 3 ori mai mare decât autonomie propusă de GTX, imposibil de realizat din punct de vedere tehnic. Dimensiunea autonomiei se poate deduce din formula indicată de autoritatea contractantă în FDA, respectiv autonomie propusă de ofertant (în cazul [OPERATOR ECONOMIC], 80 km) înmulțit cu punctajul maxim (20 de puncte) împărțit la autonomia cea mai mare dintre cele propuse de ofertanți, punctajul obținut de GTX fiind de 7,8 puncte.
+
+După efectuarea operațiilor matematice aplicate și Wind Techologies, valoarea lui X (anume a autonomiei Wind Technologies) devine de 230 km, o autonomie imposibil de realizat pentru o bicicletă electrică.
+
+S-a susținut că motoarele sunt clasificate în funcție de numărul de wați. În mod normal, motoarele de biciclete electrice au de la 250W până la 1200W, iar cu cât mai multă putere, cu atât mai mare va fi și consumul de energie. Voltajul indică puterea potențială a bateriei. Un voltaj mai mare asigură o putere mai mare, iar valorile tipice sunt de 24V, 36V și 48V. Amperi/oră indică numărul de amperi care poate fi generat într-o oră, iar de regulă această valoarea variază între 8 Ah la 20 Ah.Wați/oră indică nivelul de putere stocat în baterie calculat în wați/oră. Acesta se obține înmulțind voltajul cu amperi/oră. în mod uzual, o bicicletă electrică va consuma undeva între 8 și 16 wați/oră pe fiecare kilometru parcurs, volumul variind în funcție de factori descriși în paragraful inițial al acestui capitol. Așadar, calculând numărul de wați/oră și împărțindu-l la estimarea de wați/kilometru se poate obține o estimare realistă a autonomiei.
+
+O baterie de 400 Wați/oră pe un teren plat unde se consumă 8 wați/oră per kilometru va avea o autonomie de 50 de kilometri (400Wh/8Wh/km=50 km), după care va fi epuizată complet.
+
+S-a mai menționat că un traseu rar poate fi perfect plat, în condiții de zero vânt, astfel încât realitatea să copieze fidel calculul, așa că luarea unei marje de eroare este obligatorie pentru un rezultat valid.
+
+Având în vedere punctajul minim obținut de [OPERATOR ECONOMIC] - Global Tech Xpert la o autonomie de 80 km ( anume 7.8 puncte), aplicând același punctaj și pentru Wind Technologies și folosind formula de calcul a punctajului autonomiei indicată de autoritatea contractantă în FDA. rezultă că autonomia declarată este de 230 km (potrivit calcului detaliat la paragraful 26). Această autonomie este total nerealistă și nu ar putea fi atinsă niciodată, în condițiile de utilizare ale unei biciclete electrice în mod real. Declararea unei autonomii nerealiste pentru o bicicleta electrică ce echivalează cu autonomia unui autoturism electric (Dacia Spring, cu o autonomie de aproximativ 300 de km), nu poate fi luată în considerare în condițiile utilizării în regim electric.
+
+Mai mult, a afirmat contestatoarea că, în cadrul procedurii de achiziție publică, o atenție deosebită trebuia acordată metodei de calcul și de verificare de către autoritatea contractantă a acestei operații, ținând cont de faptul că punctajul pentru acest criteriu era de 20 de puncte. Este evident că declararea unei autonomii neverificate superioare față de cea declarată de către ceilalți ofertați creează un avantaj major ofertantului. Autoritatea contractantă nu a depus toate diligențele pentru a se asigura că autonomiile bicicletelor electrice pot fi atinse în mod real. Ținând cont și de variabilele ce trebuie avute în vedere la determinarea autonomiei bicicletelor electrice, ofertanții au avut foarte ușor posibilitatea de a efectua calculul în avantajul lor raportându-se la condițiile optime de utilizare a produselor.
+
+În situația prezentării unor informații nereale în ofertă, jurisprudența a reținut că „ofertantul X se face vinovat de declarații false în conținutul informațiilor transmise la solicitarea entității contractante în scopul verificării absenței motivelor de excludere în sensul dispozițiilor art. 180 alineat 1 litera h din Legea nr.99/2016 sens în care, Comisia de evaluare avea obligația impusă de textul de lege de a dispune excluderea acestuia din procedură. O asemenea sancțiune intervine automat, la momentul la care se constată intervenite condițiile impuse de textul de lege, dat fiind faptul că această reglementare are ca finalitate să protejeze integritatea procedurii de achiziții publice (a se vedea considerentele Deciziei C-178/16 a CJUE). Comportamentul operatorilor economici participanți la o procedură de achiziție, respectiv corectitudinea informațiilor pe care aceștia le prezintă entității contractante (în special completarea DUAE în contextul prevederilor art. 202 din legea 99/2016 ) reprezintă elemente esențiale în aprecierea existenței cazurilor de excludere care vizează situația personală a acestora. Din această perspectivă Curtea achiesează la argumentele recurentei în sensul că, o interpretarea contrară, ar lipsi de conținut dispozițiile care reglementează DUAE și efectele pe care acesta le are în procedura de achiziție ". [Decizia nr. 1492 din 04.09.2018 pronunțată de Curtea de Apel Târgu M____, Secția a II a civilă, de contencios administrativ și fiscal].
+
+A mai arătat contestatoarea că aceste documente justificative la care face referire articolul citat nici măcar nu au fost solicitate de autoritatea contractantă. Este evident că în funcție de metoda de calcul utilizată rezultatul va fi diferit, însă autoritatea contractantă a ignorat complet acest lucru.
+
+S-a susținut că entitatea contractantă a respins în mod nelegal oferta [OPERATOR ECONOMIC], a favorizat Wind Technologies prin solicitarea de completare a documentelor după îndeplinirea termenului și nu a stabilit o modalitate de calcul comună pentru determinarea unui punctaj real.
+
+Criticile sunt nefondate.
+
+Întreaga documentație, cuprinzând punctajul legat de autonomia bicicletelor și modul de calcul al autonomiei, a fost publicat în S.E.A.P.
+
+Contestatoarea critică tardiv documentația de atribuire, pretinzând faptul că autoritatea ar fi trebuit să stabilească o formulă de calcul. Criticile contestatoarei cu privire la stabilirea unei formule de calcul în documentația de atribuire care să fie aplicabilă tuturor operatorilor economici sunt tardiv formulate, potrivit art. 8 din Legea nr. 101/2016.
+
+Prin documentația de atribuire s-a stabilit modalitatea în care se va proba autonomia bicicletelor, respectiv fișa tehnică a bicicletelor electrice. În măsura în care contestatoarea nu a depus fișa tehnică a bicicletelor, aceasta ar fi trebuit să fie sancționată cu excluderea din procedură și nicidecum să i se permită să dovedească autonomia bicicletelor printr-o formulă de calcul.
+
+Mai mult, dacă contestatoarea a primit solicitări de clarificări privind calculul autonomiei bicicletelor, aceasta ar fi trebuit să critice acele solicitări de clarificări, astfel cum a făcut autoritatea contractantă, orice critică formulată la acest moment fiind tardiv formulată. În măsura în care contestatoarea nu a depus fișa tehnică a bicicletelor, aceasta ar fi trebuit să fie sancționată cu excluderea din procedură și nicidecum să i se permită să dovedească autonomia bicicletelor printr-o formulă de calcul.
+
+Prin urmare, contrar criticilor contestatoarei, în prezenta procedură nu se poate reține un mod neuniform de abordare a soluțiilor tehnice, ci faptul că oferta contestatoarei este neconformă potrivit art. 215 alin. (5) din Legea nr. 98/2016. Ofertantul nu ar fi trebuit să particularizeze acest factor în mod discreționar, cum recunoaște că a făcut-o prin contestația formulată. Ofertantul avea obligația de a depune fișa tehnică a bicicletelor electrice.
+
+În ceea ce privește susținerea potrivit căreia o anumită ofertă ar fi prezentat informații nereale, susținerile contestatoarei sunt simple supoziții, nedepunând nicio probă în acest sens.
+
+Mai mult, din explicațiile oferite se constată o înțelegere vădit greșită a modului de funcționare a bicicletelor electrice. Modalitatea de calcul a autonomiei bicicletelor electrice nu este aceeași cu aceea a unui autoturism electric, în cazul bicicletelor electrice existând timpi de inerție care se calculează în mod corespunzător în cadrul autonomiei bicicletei. Altfel spus, motorul funcționează doar atunci când utilizatorul apasă pe pedală, în restul timpului nefiind consumată energia deși bicicleta efectiv funcționează. Fișa producătorului justifică și dovedește fără putință de tăgadă autonomia fiecărei biciclete, orice supoziție cu privire la această autonomie impunându-se a fi respinsă.
+
+[OPERATOR ECONOMIC] a depus fișa producătorului care dovedește autonomia bicicletei electrice, iar contestatoarea nu a administrat nicio probă prin care să dovedească contrariul.
+
+Față de cele mai sus-menționate, instanța, în temeiul art. 34 alin. 5 din Legea nr. 101/2016 va respinge contestația ca neîntemeiată.
+
+PENTRU ACESTE MOTIVE,ÎN NUMELE LEGII
+
+DECIDE
+
+Respinge, ca neîntemeiată, contestația formulată de contestatoarea [OPERATOR ECONOMIC] București, cu sediul social în București, ____________________. 1-3, camera 3, ______________, _______________________, cu nr. de înregistrare la Registrul Comerțului J____________ și C.U.I. ________, cu sediul procedural ales la S.C.A. Ț___ Z______ & Asociații, cu sediul profesional aflat în București, Șoseaua N______ T________ nr. 4-8, clădirea America House, intrarea Aripa de Vest, _______________, împotriva Deciziei nr. 2148/C1/2272 din 27 septembrie 2021 pronunțată de Consiliul N_______ de Soluționare a Contestațiilor în contradictoriu cu intimații C_________ C_____ C____, cu sediul în C_____ C____, ____________________ nr. 6-8, județul N____, și [OPERATOR ECONOMIC] B_____, cu sediul social în B_____, ________________________. 84, județul B_____, cu nr. de înregistrare în Registrul Comerțului J__________ și având C.U.I. ________, cu sediul procedural ales la Societatea de Avocați „R____&R____" - S.P.A.R.L., cu sediul profesional aflat în București, sector 1, ____________________. 18, intrarea B, etaj 6.
+
+Definitivă.
+
+Pronunțată azi, 18.11.2021, prin punerea soluției la dispoziția părților de către grefa instanței.
+
+Președinte,
+
+C______ P______
+
+Judecător,
+
+C_______ M_______ R___
+
+Judecător,
+
+L_______ A______
+
+Grefier,
+
+I_____ Ș_______
+
+Red.sent.civ. C.P ./data 22.11.2021
+
+Tehnored.I.Ș./data 24.11.2021/7 exemplare (3 exemplare comunicate părților, 1 exemplar A.N.A.P., 1 exemplar C.N.S.C.)
+
+ROMÂNIA
+
+Adresă: Bacău, __________________.1,
+
+Jud. Bacău, cod ______
+
+Tel. +4 ____________, Fax: +4 ____________
+
+E-mail: _________________________
+
+Site web: http://portal.just.ro/32
+
+Dosar electronic: www.ca-bacau.ro
+
+Prezentul document este supus reglementărilor aflate sub incidența Regulamentului UE 2016/679
+
+Dosar nr. ___________
+
+Din data de 23.11.2021
+
+C Ă T R E ,
+
+Vă înaintăm, alăturat prezentei adrese, copia deciziei civile nr. 789 din data de 18 noiembrie 2021, conformă cu originalul, pronunțată de Curtea de Apel Bacău în dosarul nr. ___________, prin care a fost soluționată contestația formulată de contestatoarea [OPERATOR ECONOMIC] București împotriva Deciziei nr. 2148/C1/2272 din 27 septembrie 2021 pronunțată de Consiliul N_______ de Soluționare a Contestațiilor în contradictoriu cu intimații C_________ C_____ C____ și [OPERATOR ECONOMIC] B_____, având ca obiect litigiu privind achizițiile publice.
+
+Totodată, vă restituim documentația care a stat la baza emiterii deciziei nr. 2148/C1/2272 din 27 septembrie 2021, respectiv:
+
+- dosarul nr.2272/2021, în care s-a pronunțat decizia C.N.S.C. nr. 2148/C1/2272 din 27 septembrie 2021, totalizând 289 file, 1 volum;
+
+- dosarul subsecvent deciziei C.N.S.C. în care a fost pronunțată decizia nr. 1643/C1/1702/28.07.2021, totalizând 1418 file, respectiv 3 volume structurate astfel: vol. I care conține 552 file, vol. II care conține 471 file; vol. III care conține 395 (dosar C.N.S.C. nr. 1702/2021).
+
+PREȘEDINTE,
+
+C______ P______
+
+GREFIER,
+
+I_____ Ș_______
+
+ROMÂNIA
+
+Adresă: Bacău, __________________.1,
+
+Jud. Bacău, cod ______
+
+Tel. +4 ____________, Fax: +4 ____________
+
+E-mail: _________________________
+
+Site web: http://portal.just.ro/32
+
+Dosar electronic: www.ca-bacau.ro
+
+Prezentul document este supus reglementărilor aflate sub incidența Regulamentului UE 2016/679
+
+Dosar nr. ___________
+
+Din data de 23.11.2021
+
+C Ă T R E ,
+
+Vă înaintăm, alăturat prezentei adrese, copia deciziei civile nr. 789 din data de 18 noiembrie 2021, conformă cu originalul, pronunțată de Curtea de Apel Bacău în dosarul nr. ___________, prin care a fost soluționată contestația formulată de contestatoarea [OPERATOR ECONOMIC] București împotriva Deciziei nr. 2148/C1/2272 din 27 septembrie 2021 pronunțată de Consiliul N_______ de Soluționare a Contestațiilor în contradictoriu cu intimații C_________ C_____ C____ și [OPERATOR ECONOMIC] B_____, având ca obiect litigiu privind achizițiile publice.
+
+PREȘEDINTE,
+
+C______ P______
+
+GREFIER,
+
+I_____ Ș_______
+
+Acest document este preluat și procesat de o aplicație realizată gratuit de Wolters Kluwer Romania pentru Fundatia RoLII.
+
+Conținutul său poate fi preluat și utilizat cu citarea sursei: www.rolii.ro
+

@@ -1,0 +1,29 @@
+
+Cauza C- 521/18
+Tribunale Amministrativo Regionale per il Lazio - Pegaso Srl Servizi Fiduciari, Sistemi di Sicurezza Srl, YW/Poste Tutela SpA 
+Hotărârea Curții (Camera a cincea)
+28 octombrie 2020
+Identificator ECLI: ECLI:EU:C:2020:867
+EUR-Lex: 62018CJ0521
+Tip procedură: cerere pentru pronunţarea unei hotărâri preliminare
+Materie: libertatea de reglementare, libera prestare a serviciilor, armonizare legislativă
+Subiect (cuvinte cheie): „trimitere preliminară, achiziții publice realizate în sectoarele apă, energie, transporturi și servicii poștale, Directiva 2014/25/UE, art. 13 – activități privind punerea la dispoziție a serviciilor poștale, entități contractante, întreprinderi publice, admisibilitate”
+Instanţa de trimitere: Tribunale amministrativo regionale per il Lazio (Tribunalul Administrativ Regional din Lazio, Italia)
+Părţi în procedura principală:
+Reclamante: Pegaso Srl Servizi Fiduciari, Sistemi di Sicurezza Srl, YW
+Pârâtă: Poste Tutela SpA
+Obiectul cauzei:
+Tribunale amministrativo regionale per il Lazio (Tribunalul Administrativ Regional din Lazio, Italia) a formulat o cerere de decizie preliminară în litigiul Pegaso Srl Servizi Fiduciari, Sistemi di Sicurezza Srl și YW împotriva Poste Tutela SpA și Poste Italiane SpA în legătură cu legalitatea unui anunț de participare privind atribuirea, prin procedură deschisă, a serviciilor de pază, de recepție și de supraveghere a accesului pentru birourile Poste Italiane SpA și ale altor societăți din cadrul grupului acesteia.
+Cadrul juridic: art. 6 alin. (1) din Directiva 2004/17/CE, Considerentele (21) și (46), art. 6 alin. (4), art. 16 din Directiva 2014/23/UE, art. 2 alin. (1) pct. 4 din Directiva 2014/24/UE, art. 3 alin. (4), art. 4 alin. (1) și (2), art. 6 alin. (1) și (2), art. 8-14, art. 19 alin. (1) din Directiva 2014/25/UE
+Întrebări preliminare:
+„1) Având în vedere caracteristicile menționate anterior, societatea Poste Italiane SpA trebuie să fie calificată drept «organism de drept public» în sensul articolului 3 alineatul 1 litera d) din Decretul legislativ nr. 50 din 2016 [Codul achizițiilor publice] și al Directivelor relevante ale Uniunii (Directivele 2014/23, 2014/24 și 2014/25)?
+2) Această calificare se extinde la filiala Poste Tutela, deținută în proporție de 100 %, a cărei fuziune cu prima societate a fost de altfel deja decisă și este în curs, ținând seama de considerentul (46) al Directivei 2014/23, privind persoanele juridice controlate [a se vedea în acest sens și Hotărârea din 5 octombrie 2017, LitSpecMet (C 567/15, EU:C:2017:736): obligația societăților controlate de administrația publică de a organiza o procedură de cerere de ofertă, precum și hotărârea Consiglio di Stato [(Consiliul de Stat, Italia)], Secția a șasea, nr. 6211 din 24 noiembrie 2011]?
+3) Societățile menționate sunt ținute să organizeze proceduri de achiziții publice numai pentru atribuirea contractelor care au legătură cu activitatea pe care o desfășoară în sectoarele speciale, în temeiul Directivei 2014/25, în calitate de entități contractante, în privința cărora aceeași natură de organisme de drept public ar trebui considerată absorbită în normele din partea II din Codul achizițiilor publice, în timp ce, dimpotrivă, ar dispune de autonomie contractuală deplină și ar fi supuse exclusiv normelor de drept privat pentru activitatea contractuală care nu privește sectoarele respective, ținând seama de principiile enunțate în considerentul (21) al Directivei 2014/23 și la articolul 16 din aceasta?
+4) În schimb, pentru contractele care trebuie considerate fără legătură cu materia proprie sectoarelor speciale, aceleași societăți, atunci când îndeplinesc cerințele referitoare la organismele de drept public, rămân supuse dispozițiilor Directivei generale 2014/24 (și, prin urmare, normelor privind achizițiile publice), chiar și în cazul în care desfășoară activități cu caracter comercial și în regim de concurență, întrucât au evoluat în raport cu momentul în care au fost înființate?
+5) Indiferent de situație, în birouri cu utilizare mixtă, în care se desfășoară atât activități inerente serviciului universal, cât și activități fără legătură cu acesta, legătura instrumentală – în ceea ce privește serviciul de interes public special – poate fi considerată exclusă pentru contractele referitoare atât la întreținerea obișnuită, cât și la cea extraordinară, la curățenie și la mobilier, precum și la serviciul de pază și de supraveghere a birourilor respective?
+6) În sfârșit, în cazul în care s ar aprecia că teza formulată de Poste Italiane SpA poate fi acceptată, trebuie considerată incompatibilă cu principiul consacrat al încrederii legitime a participanților la procedura de cerere de ofertă recurgerea printr o simplă autolimitare – care nu este supusă tuturor garanțiilor de transparență și de egalitate de tratament prevăzute de Codul achizițiilor publice – la organizarea unei proceduri de cerere de ofertă, corespunzător publicată, fără alte avertismente în această privință, în Gazzetta Ufficiale della Repubblica italiana și în Jurnalul Oficial al Uniunii Europene?”
+Soluţie:
+”Articolul 13 alineatul (1) din Directiva 2014/25/UE a Parlamentului European și a Consiliului din 26 februarie 2014 privind achizițiile efectuate de entitățile care își desfășoară activitatea în sectoarele apei, energiei, transporturilor și serviciilor poștale și de abrogare a Directivei 2004/17/CΕ trebuie interpretat în sensul că se aplică unor activități care constau în furnizarea de servicii de pază, de recepție și de supraveghere a accesului pentru birourile furnizorilor de servicii poștale, din moment ce astfel de activități prezintă o legătură cu activitatea din sectorul poștal, în sensul că servesc efectiv la exercitarea respectivei activități, permițând realizarea acesteia în mod adecvat, având în vedere condițiile sale normale de exercitare.”
+
+
+

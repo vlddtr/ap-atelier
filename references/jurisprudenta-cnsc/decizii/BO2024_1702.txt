@@ -1,0 +1,2588 @@
+DECIZIE CNSC BO2024_1702 — text integral (anonimizat de CNSC la publicare; raționament/considerente complete).
+Citeaz-o prin BO2024_1702.
+
+În conformitate cu prevederile art. 12 alin. (1) și ale art. 27
+alin. (1) din Legea nr. 101/2016 privind remediile și căile de atac
+în materie de atribuire a contractelor de achiziție publică, a
+contractelor sectoriale și a contractelor de concesiune de lucrări și
+concesiune de servicii, precum și pentru organizarea și
+funcționarea Consiliului Național de Soluționare a Contestațiilor,
+Consiliul adoptă următoarea
+DECIZIE
+Nr. ...
+Data: ...
+I. Prin contestația nr. 12624/07.05.2024, înregistrată la Consiliul
+Național de Soluționare a Contestațiilor cu nr. 27784/08.05.2024,
+formulată de ...SA, cu sediul în ...., reprezentată legal prin administrator
+dl ... și convențional de ..., cu sediul ales pentru comunicarea actelor de
+procedură în ..., împotriva documentației de atribuire elaborată de
+MUNICIPIUL ..., cu sediul în cu sediul în ..., str. Coposu Corneliu nr. 3,
+județul [localitate], în calitate de autoritate contractantă, în cadrul procedurii
+de atribuire a contractului având ca obiect „Concesiune prin gestiune
+delegata a serviciului de iluminat public în Municipiul ...", inițiată prin
+anunțul de concesionare nr. ... din 23.04.2024, s-a solicitat:
+- modificarea documentației de atribuire în sensul completării
+contractului propus prin introducerea unei clauze privind obligativitatea
+concedentului de a înregistra creditul furnizor în Registrul Datoriei
+Publice Locale;
+- modificarea Capitolului 11. Garanția de bună execuție a
+contractului din Contractul de concesiune prin gestiune delegată a
+serviciului de iluminat public în municipiul ..., parte a documentației de
+atribuire, în sensul stabilirii clare și precise a garanției de bună execuție
+aferentă fiecărei activități a contractului de delegare de gestiune,
+precum și a condițiilor de constituire, de valabilitate/durată, de
+executare a garanției de bună execuție, respectiv de returnare a
+garanției de bună execuție, precum și modificarea oricăror alte prevederi
+neclare ale documentației de atribuire, referitoare la garanția de bună
+execuție, în conformitate cu prevederile imperative ale legilor speciale în
+materia delegării de gestiune a serviciului de iluminat public prin
+concesiune;
+Pagina 1 din 52
+
+- modificarea documentației de atribuire în sensul înlăturării
+dispozițiilor contradictorii cu privire la posibilitatea de prelungire a
+contractului;
+- modificarea documentației de atribuire în sensul înlăturării
+dispozițiilor contradictorii cu privire la termenul de verificare a auditului;
+- modificarea documentației de atribuire în sensul înlăturării
+dispozițiilor contradictorii și recalculării redevenței în conformitate cu art.
+29 alin. (11) lit. m) din Legea nr. 51/2006;
+- modificarea documentației de atribuire în sensul înlăturării
+dispozițiilor contradictorii și stabilirii unui mod de ajustare a prețului
+contractului în conformitate cu art. 12 și art. 13 din Normele
+metodologice din 2007 de stabilire, ajustare sau modificare a valorii
+activităților serviciului de iluminat public, adoptate de prin Ordinul nr.
+77/2007;
+- modificarea documentației de atribuire, inclusiv a art. 16.1 din
+contract, în sensul că plata pentru lucrările de investiții (modernizare și
+extindere) să se realizeze în conformitate cu art. 6 din Legea nr.
+72/2013, respectiv în 30 de zile de la primirea facturii emise pe situații
+de lucrări sau în termen de 30 de zile de la recepția lucrărilor (inclusiv de
+la recepția parțială);
+- în situația în care se consideră că trebuie să suporte costul
+investițiilor și recuperarea acestora în rate egale, urmând a fi recuperate
+până la finalizarea contractului, solicită modificarea documentației de
+atribuire în sensul obligării autorității contractante la suportarea
+dobânzilor penalizatoare și a cheltuielilor financiare ocazionate
+operatorului, în conformitate cu art. 7 alin. (2) coroborat cu art. 5 alin.
+(2) din Legea nr. 72/2013;
+- suspendarea procedurii de atribuire a contractului până la
+soluționarea contestației, în temeiul dispozițiilor art. 22 alin. (1) din
+Legea 101/2016;
+- obligarea entității contractante la prelungirea termenului-limită de
+depunere a ofertelor cu o perioadă egală cu durata suspendării
+procedurii, calculată de la data publicării în SEAP a deciziei Consiliului.
+II. Prin contestația înregistrată la Consiliul Național de Soluționare
+a Contestațiilor cu nr. 27913/08.05.2024, formulată de ...SRL, cu sediul
+în ...., reprezentată legal prin ... – administrator și convențional prin ... -
+Cabinet de avocat, cu sediul ales pentru comunicarea actelor de
+procedură în ..., împotriva documentației de atribuire elaborată de
+MUNICIPIUL ..., în calitate de autoritate contractantă, în cadrul aceleiași
+proceduri simplificate, s-a solicitat:
+- în temeiul prevederilor art. 22 alin. (1) din Legea nr. 101/2016,
+suspendarea procedurii de achiziție publică până la soluționarea
+contestației;
+- obligarea autorității contractante la modificarea prevederilor
+documentației de atribuire contestate și a eliminării cerințelor restrictive;
+- dacă se constată că nu mai pot fi dispuse măsuri de remediere
+care să permită continuarea legală a procedurii de atribuire, solicită
+Consiliului să dispună anularea procedurii de atribuire;
+2
+
+- obligarea autorității contractante la plata cheltuielilor ocazionate
+de judecarea contestației.
+Prin încheierea nr. .... din data de 14.05.2024, Consiliul s-a
+pronunțat în sensul respingerii cererilor de suspendare a procedurii de
+atribuire formulate de cei doi contestatori, ca rămase fără obiect.
+Contestațiile vor fi soluționate împreună, având în vedere dispozițiile
+art. 17 din Legea nr. 101/2016.
+CONSILIUL NAȚIONAL DE SOLUȚIONARE A CONTESTAȚIILOR,
+asupra cauzei de față, constată următoarele:
+Consiliul a fost sesizat și este competent să soluționeze
+contestațiile formulate de ...SA și ...SRL, prin care critică o serie de
+cerințe cuprinse în documentația de atribuire, solicitând cele menționate
+în partea introductivă a deciziei.
+I. Prin contestația nr. 12624/07.05.2024, înregistrată la Consiliul
+Național de Soluționare a Contestațiilor cu nr. 27784/08.05.2024, ...SA,
+în calitate de operator economic interesat de participarea la procedura în
+cauză, solicită modificarea documentației de atribuire, astfel: 
+1. Modificarea documentației de atribuire în sensul completării
+contractului propus prin introducerea unei clauze privind obligativitatea
+concedentului de a înregistra creditul furnizor în Registrul Datoriei
+Publice Locale
+- Conform caietului de sarcini (document „00 Caiet de Sarcini
+SIP ...") programul de modernizare a sistemului de iluminat public
+stradal și pietonal în Municipiul ..., se va încadra în termenul de maxim
+24 luni de la începerea lucrărilor:
+i) punctul 4.2 Obiective pe termen lung, mediu și imediat,
+Investiții, Observații - pag. 13 - „Programul de modernizare a sistemului
+de iluminat public stradal și pietonal în Municipiul ..., se va încadra în
+termenul de maxim 24 luni de la începerea lucrărilor, prevazând
+termene pentru fiecare etapă în derulare";
+ii) pag. 22 din caietul de sarcini: „Programul de modernizare a
+sistemului de iluminat public în Municipiul ..., se va încadra în termenul
+de maxim 24 luni de la începerea lucrărilor, prevăzând termene pentru
+fiecare etapă în derulare".
+Aceeași prevedere se regăsește și în cadrul caietului de sarcini -
+document „00 CS FINAL achiziție ... delegare 21.11.2023_V4" pag. 34:
+„Programul de modernizare a sistemului de iluminat public stradal
+și pietonal în Municipiul ..., se va încadra în termenul de maxim 24 luni
+de la începerea lucrărilor, prevăzând termene pentru fiecare etapă în
+derulare".
+Tot în cadrul caietului de sarcini (document „00 Caiet de Sarcini
+SIP ..."), punctul 10.2 Finanțarea investițiilor, pag. 35, se arată că
+investițiile se vor realiza din fondurile proprii ale operatorului, urmând a
+fi recuperate în rate egale/lunare pe restul perioadei de delegare:
+„Investițiile din fondurile proprii ale operatorului/delegatului se vor
+realiza, în maxim 24 luni de la data primirii ordinului de începere lucrări,
+Pagina 3 din 52
+
+urmând ca recuperarea investițiilor să fie făcută fie în rate egale/lunare
+pe restul perioadei de delegare.".
+În cadrul caietului de sarcini, document „00 CS FINAL achiziție ...
+delegare 21.11.2023_V4" pag. 42 se arată:
+„Plata lucrărilor de investiție (extindere, modernizare) finanțate de
+operator, se va face eșalonat, în rate lunare egale, la finalizarea
+lucrărilor, în baza procesului verbal de recepție la terminarea lucrărilor și
+punere în funcțiune și a graficului de recuperare a investiției, semnate și
+asumate de cele două părți (Achizitorul și operatorul)".
+Art. 16.1 din contract stabilește, de asemenea, că plata lucrărilor
+de investiții se va face în rate, începând cu a doua lună după recepția
+lucrărilor, până la data finalizării contractului:
+„Capitolul 16. Modalități de plată
+Art. 16.1. (1) Perioada de rambursare a valorii lucrărilor de
+investiții va fi egală cu durata contractului, cu începere din a doua lună
+după recepția la terminarea lucrărilor, în conformitate cu Anexa «Graficul
+de rambursare a lucrărilor de modernizare» din oferta financiară,
+reprezentând contravaloarea costurilor aferente rambursării lucrărilor de
+modernizare/investiții.
+Plățile se vor efectua lunar, în rate egale, începând cu a doua lună
+după recepția la terminarea lucrărilor, în lei".
+Rezultă că este vorba de o finanțare a investițiilor de către
+operatorul economic desemnat câștigător, fiind în prezența unui credit
+furnizor, prevăzut de art. 62 din Legea nr. 273/2006 privind finanțele
+publice locale:
+„(2) Instrumentele datoriei publice locale sunt:
+a)titluri de valoare;
+b)împrumuturi de la băncile comerciale sau de la alte instituții de
+credit;
+c)credite furnizor;
+d)leasing financiar;
+e)garanție locală."
+Astfel, fiind vorba de un instrument de datorie publică locală, acest
+credit furnizor (valoarea lucrărilor de investiție ce vor fi realizate de
+operatorul concedent și care vor fi recuperate în rate până la finalizarea
+contractului - 120 luni) se supune aprobării conform art. 61 alin. (3) din
+Legea nr. 273/2006:
+„împrumuturi
+Art. 61: Aprobarea împrumuturilor
+(3) Autoritățile administrației publice locale pot contracta sau
+garanta împrumuturi în condițiile alin. (1), potrivit legii, numai cu avizul
+comisiei de autorizare a împrumuturilor locale".
+Având în vedere că pentru această investiție pentru lucrările
+extindere și modernizare nu a fost aprobată, nefiind pus la dispoziția
+ofertanților avizul Comisiei de autorizare a împrumuturilor, rezultă că
+procedura este incompletă.
+4
+
+Consideră că se impune ca autoritatea contractantă să își asume
+obligația înregistrării creditului furnizor în Registrul Datoriei Publice
+Locale, conform prevederilor legale.
+Având în vedere acestea, petenta solicită modificarea
+documentației de atribuire în sensul completării contractului propus prin
+introducerea unei clauze privind obligativitatea concedentului de a
+înregistra creditul furnizor în Registrul Datoriei Publice Locale.
+2. Modificarea Capitolului 11. Garanția de bună execuție a
+contractului din Contractul de concesiune prin gestiune delegată a
+serviciului de iluminat public în municipiul ..., parte a documentației de
+atribuire, în sensul stabilirii clare și precise a garanției de bună execuție
+aferentă fiecărei activități a Contractului de delegare de gestiune,
+precum și a condițiilor de constituire, de valabilitate/durată, de
+executare a garanției de bună execuție, respectiv de returnare a
+garanției de bună execuție, precum și modificarea oricăror alte prevederi
+neclare ale documentației de atribuire, referitoare la garanția de bună
+execuție, în conformitate cu prevederile imperative ale legilor speciale în
+materia delegării de gestiune a serviciului de iluminat public prin
+concesiune.
+Capitolul 11. Garanția de bună execuție a contractului din
+Contractul de concesiune prin gestiune delegată a serviciului de iluminat
+public în municipiul ... („Contractul"), stabilește următoarele:
+„Art.11.1. Garanția de bună execuție pentru întreținerea și
+menținerea în funcțiune a sistemului de iluminat public este în cuantum
+de 5% din valoarea prevăzută la art. 3.3 cu respectarea prevederilor art.
+46 din normele metodologice de aplicare a legii nr. 100/2016. Se va
+constitui în termen de 5 zile lucrătoare de la data semnării contractului
+de concesiune. Acest termen poate fi prelungit la solicitarea justificată a
+concesionarului, fără a depăși 15 zile de la data semnării contractului. 
+Modalitatea de constituire:
+- prin virament bancar sau printr-un instrument de garantare emis
+de o instituție de credit din România sau din alt stat sau de o societate
+de asigurări, în condițiile legii.
+Art. 11.2 Concedentul are dreptul de a emite pretenții asupra
+garanției de bună execuție, în limita prejudiciului creat, dacă
+concesionarul nu își execută, execută cu întârziere sau execută
+necorespunzător obligațiile asumate prin prezentul contract. Anterior
+emiterii unei pretenții asupra garanției de bună execuție, concedentul
+are obligația de a notifica acest lucru concesionarului, precizând totodată
+obligațiile care nu au fost respectate. Art. 11.3 Restituirea garanției de
+bună execuție se va face în termen de 14 zile de la încetarea
+Contractului." Art. 3.3 din Contract stabilește următoarele:
+„Art.3.3. Prețul maxim al contractului este delei, fara TVA si se
+compune din:
+I. prețul maxim pentru intretinerea si menținerea in funcțiune a
+sistemului de iluminat publiclei, fara TVA
+II. prețul maxim pentru modernizarea sistemului de iluminat public
+lei fără TVA
+Pagina 5 din 52
+
+III. prețul maxim pentru activitatea de montare/demontare
+/furnizare/închiriere a iluminatului festiv ....lei fără TVA
+Din prevederile citate mai sus rezultă că dispozițiile art. 11.1
+Garanția de bună execuție a contractului din modelul de contract sunt
+nelegale, deoarece:
+i) sunt neclare și contradictorii, încălcând prevederile legislație
+concesiunilor care obligă autoritatea contractă să ofere operatorilor
+economici toate informațiile necesare pentru a asigura ofertanților/
+candidaților o informare completă, corectă și precisă;
+ii) încalcă prevederile legislației speciale ce obligă autoritatea
+contractantă la stabilirea garanției de bună execuție pentru toate
+activitățile ce fac obiectul contractului de concesiune prin gestiune
+delegată a serviciului de iluminat public;
+iii) valoarea garanției de bună execuție a fost calculată în mod
+netemeinic la valoarea contractului aferentă duratei sale de 10 ani și nu
+la valoarea medie anuală cum arată ANAP;
+iv) stabilirea în mod netemeinic a momentului constituirii garanției
+de bună execuție în termenul de 5 zile lucrătoare de la data semnării;
+v) neindicarea duratei de valabilitate a garanției de bună execuție.
+2.1 Prevederile Capitolului 11 Garanția de bună execuție din
+Contractul de concesiune prin gestiune delegată a serviciului de iluminat
+public în municipiul ... sunt neclare și contradictorii.
+Art. 11.1 din Contract stabilește valoarea garanției de bună
+execuție pentru „întreținerea și menținerea în funcțiune a sistemului de
+iluminat public" la valoarea de 5% din valoarea prevăzută la art. 3.3 din
+Propunerea de contract.
+Or, valoarea prevăzută la art. 3.3 din Contract reprezintă valoarea
+întregului Contract, compus din toate activitățile
+- întreținere menținere;
+- modernizarea sistemului de iluminat public;
+- activitățile de montare/demontare/furnizare/închiriere iluminat
+festiv; și nu doar activitatea de întreținere și menținere la care face
+referire articolul 11.1 din același Contract.
+Mai mult, articolul 11.2 din Contract stabilește dreptul autorității
+contractante de a emite pretenții asupra garanției de bună execuție în
+cazul în care „concesionarul nu își execută, execută cu întârziere sau
+execută necorespunzător obligațiile asumate prin prezentul contract".
+Cu alte cuvinte, deși garanția de bună execuție este, conform art.
+11.1 din Contract, stabilită doar pentru activitatea de întreținere și
+menținere, garanția poate fi reținută pentru toate activitățile ce fac
+obiectul Contractului și nu doar pentru întreținere și menținere.
+Din toate cele de mai sus rezultă că prevederile Capitolului 11
+Garanția de bună execuție sunt neclare și contradictorii în ceea ce
+privește stabilirea și executarea acestei garanții, fiind încălcate
+prevederile art. 51 alin. (7) și 71 alin. (1) din Legea nr. 100/2016
+precum și cele ale art. 19 alin. (2) din HG nr. 867/2016.
+6
+
+Având în vedere acestea, solicită modificarea Capitolului 11
+Garanția de bună-execuție în sensul înlăturării prevederilor contradictorii
+și neclare.
+2.2 Prevederile Capitolului 11 Garanția de bună execuție a
+contractului încalcă prevederile legislației speciale.
+Prin art. 11.1 din Contract, autoritatea contractantă a stabilit o
+garanție de bună execuție pentru „întreținerea și menținerea în funcțiune
+a sistemului de iluminat public".
+Art. 11.1 din Contract este nelegal deoarece este contrară
+prevederilor speciale din materia serviciului de iluminat public, ce impun
+ca contractului de delegare de gestiune să conțină în mod obligatoriu
+clauze referitoare la garanția de bună execuție a contractului pentru
+toate activitățile ce fac obiectul acestuia.
+Conform art. 3 alin. (2) din Norme Metodologice din 2007 de
+stabilire, ajustare sau modificare a valorii activităților serviciului de
+iluminat public adoptate prin Ordinul nr. 77/2007 de Autoritatea
+Națională de Reglementare pentru Serviciile Publice de Gospodărie
+Comunală („Ordinul nr. 77/2007”), contractul de delegare a gestiunii
+cuprinde următoarele activități:
+- iluminatul stradal rutier:
+- iluminatul stradal pietonal;
+- iluminatul arhitectural;
+- iluminatul ornamental;
+- iluminatul ornamental - festiv al comunelor, orașelor și
+municipiilor.
+Art. 3 alin. (3) din Ordinul nr. 77/2007 stabilește că activitățile
+specifice serviciului de iluminat public cuprind două componente:
+- întreținere; 
+- modernizare.
+Conform documentației de atribuire, contractul cuprinde
+următoarele activități:
+- Lucrări de modernizare a sistemului de iluminat public;
+- Lucrări de extindere a sistemului de iluminat public;
+- Lucrări de menținere - întreținere a sistemului de iluminat public;
+- Lucrări aferente iluminatului festiv.
+Din coroborarea art. 29 alin. (11) din Legea nr. 51/2006 cu cele ale
+art. 22 alin. (1) din Legea nr. 230/2007 și ale art. 3 alin. (2) și (3) din
+Ordinului nr. 77/2007 rezultă că Contractul/documentația de atribuire
+trebuie să conțină, în mod obligatoriu, prevederi referitoare la garanția
+de bună execuție referitoare la:
+¡) activitatea de întreținere și menținere; 
+ii) activitatea de investiții - modernizare și extindere; 
+iii) activitatea de iluminat festiv.
+Din toate cele de mai sus, rezultă că Capitolului 11 Garanția de
+bună execuție a contractului din Contract prin care s-a stabilit
+constituirea unei garanții de bună execuție doar în ceea ce privește
+partea de întreținere și menținere, încalcă prevederile imperative ale
+Pagina 7 din 52
+
+legilor speciale respectiv art. 29 alin. (11) din Legea nr. 51/2006 și art.
+22 alin. (1) din Legea nr. 230/2006.
+2.3 Valoarea garanției de bună execuție a fost calculată în mod
+netemeinic la valoarea contractului aferentă duratei sale de 10 ani și nu
+la valoarea medie anuală cum arată ANAP.
+Conform îndrumării ANAP, pentru serviciile de operare (întreținere
+și menținere) garanția de bună execuție ar trebui calculată „ca procent
+calculat la valoarea estimată medie anuală a contractului de concesiune"
+pentru aceste servicii.
+ANAP arată că „Această abordare ar fi similară cu prevederile din
+HG 867/2016 referitoare la garanția de participare, care se calculează
+proporțional la valoarea medie estimată anuală".
+Cu toate acestea, prin art. 11.1 din Contract raportat la art. 3.3 din
+Contract, autoritatea contractată a calculat valoarea garanției de bună
+execuție la valoarea întregului contract, valoare stabilită pentru toată
+durata Contractului de 10 ani (și nu la valoarea medie anuală cum arătat
+ANAP).
+Rezultă că valoarea garanției de bună execuție a fost stabilită în
+mod netemeinic la o valoare mult mai mare decât cea indicată de ANAP,
+majorarea garanției la această valoare fiind lipsită de justificare.
+De asemenea, stabilirea garanției de bună execuție la o valoare
+mare, în mod netemeinic, restrânge în mod nejustificat concurența,
+încălcând prevederile art. 2 alin. (1) lit. a) din Legea nr. 100/2016.
+Se impune astfel modificarea prevederilor Contractului și stabilirea
+unei garanții de bună execuție pentru serviciile de operare (întreținere și
+menținere) calculată la valoarea estimată medie anuală a acestor
+servicii.
+2.4 Stabilirea în mod netemeinic a momentului constituirii garanției
+de bună execuție în termenul de 5 zile lucrătoare de la data semnării.
+Art. 11.1 din Contract stabilește că garanție de bună execuție „Se
+va constitui în termen de 5 zile lucrătoare de la data semnării
+contractului de concesiune".
+Această prevedere este netemeinică și restrânge în mod nejustificat
+concurența, încălcând prevederile art. 2 alin. (1) lit. a) din Legea nr.
+100/2016, deoarece impune operatorilor ca (în situația câștigării
+procedurii) să constituie în termen de 5 zile lucrătoare garanție de bună
+execuție aferentă valorii întregului contract, pentru toată durata de 10
+ani.
+Or, Contractul prevede mai multe activități ce se vor derula pe o
+perioadă de 10 ani, unele dintre aceste activități fiind demarate cu mult
+după semnarea contractului.
+Astfel, este netemeinică impunerea constituirii unei garanții pentru
+întreaga valoare a contractului (aferentă tuturor serviciilor și
+activităților), în termen de 5 zile lucrătoare de la semnarea contractului.
+În acest sens s-a pronunțat și ANAP care, prin îndrumarea privind
+solicitarea de garanție de bună execuție în cadrul contractelor de
+concesiuni, a arătat că pentru contractele de concesiune cu mai multe
+tipuri de activități (cum este cazul prezentului contractului în cauză) se
+8
+
+vor constitui mai multe garanții de bună execuție cu scop diferit, cu o
+durată diferită și cu un moment al constituirii diferit.
+Se impune astfel modificarea prevederilor Contractului și stabilirea
+unei garanții de bună execuție/a unor garanții de bună execuție
+aferentă/aferente fiecărei activități, cu un moment al constituirii diferit,
+în funcție de specificul fiecărei activități în parte.
+2.5 Neindicarea duratei de valabilitate a garanției de bună execuție
+Documentația de atribuire (Contractul) nu prevede durata de
+valabilitate a garanției de bună execuție.
+Prin omiterea menționării duratei de valabilitate a garanției de bună
+execuție sunt încălcate prevederile art. 51 alin. (7) și ale art. 71 alin. (1)
+din Legea nr. 100/2016 ce impun autorității contractate punerea la
+dispoziția ofertanților a tuturor informațiile necesare pentru ca aceștia să
+poată decide dacă doresc transmiterea unei oferte sau neparticiparea la
+procedura de atribuire.
+Trebuie avut în vedere că durata de valabilitate a garanției de bună
+execuție influențează costurile operatorului, având o mare importanță în
+cadrul alcătuirii ofertei.
+Având în vedere toate cele de mai sus, solicită includerea în cadrul
+Contractului a mențiunii privind valabilitatea a garanției de bună execuție
+de 1 an, împreună cu obligația de prelungire a acesteia pe durata
+implementării contractului/pe perioada solicitată, astfel încât în orice
+moment până la data expirării, garanția de bună execuție să fie valabilă.
+Pentru toate cele de mai sus, solicită modificarea Capitolului 11.
+Garanția de bună execuție a contractului în sensul stabilirii clare și
+precise a garanției de bună execuție aferentă fiecărei activități a
+Contractului, precum și a condițiilor de constituire, de valabilitate/durată,
+de executare a garanției de bună execuție, respectiv de returnare a
+garanției de bună execuție, precum și modificarea oricăror alte prevederi
+neclare ale documentației de atribuire referitoare la garanția de bună
+execuție, în conformitate cu prevederile imperative ale legilor speciale în
+materia concesiunii prin gestiune delegată a serviciului de iluminat
+public.
+3. Modificarea documentației de atribuire în sensul înlăturării
+dispozițiilor contradictorii cu privire la posibilitatea de prelungire a
+Contractului.
+Documentația de atribuire conține prevederi contradictorii:
+în cadrul Contractului se prevede:În cadrul Caietului de sarcini al serviciului se prevede:
+Capitolul 4. Durata contractului
+Art.4.1. Durata prezentului contract este de 10 ani.
+Contractul este valabil începând cu data desi până la
+data de
+Art. 4.2. Contractul poate fi prelungit in conformitate cu
+legislația in vigoare, prin acordul de voința al părților.
+1.7. Durata delegării
+Contractul de delegare prin concesiune a gestiunii
+serviciului de iluminat public in Municipiul ..., fiind un
+contract cu investitii, se va incheia pe durata de 10 ani, cu
+posibilitatea de a fi prelungita perioada o perioadă egală cu
+cel mult jumătate din durata sa inițială prin acordul de
+voința a pârtilor. Pe durata stabilita se interzice
+operatorului/delegatului subconcesionarea serviciului
+public de iluminat.
+Din cele de mai sus rezultă că documentația de atribuire conține
+prevederi contradictorii referitoare la posibilitatea de prelungire a
+Pagina 9 din 52
+
+Contractului, fiind încălcate prevederile art. art. art. 51 alin. (7) și 71
+alin. (1) din Legea nr. 100/2016, precum și ale art. 19 alin. (2) din HG
+nr. 867/2016.
+Având în vedere cele de mai sus, contestatoarea solicită
+modificarea documentației de atribuire în sensul înlăturării dispozițiilor
+contradictorii cu privire la durata de prelungire a contractului.
+4. Modificarea documentației de atribuire în sensul înlăturării
+dispozițiilor contradictorii cu privire la termenul de verificare a auditului
+Documentația de atribuire conține prevederi contradictorii:
+ContractCaietul de sarcini al serviciului
+Art. 7.1.1. Concesionarul va realiza, in maxim 2 luni de la
+semnarea contractului:
+verificare a auditului existent, in baza careia, se va preda
+pe baza de proces verbal de predare-primire încheiat
+intre Cocesionar si Concedent, patrimoniul cu
+infrastructura SIP.
+planul si propunerile pentru modernizarea sistemului de
+iluminat public inclusiv a sistemului de telegestiune
+existent, cu evaluare si grafice de execuție, care sa
+cuprindă investițiile necesare a fi realizate, respectiv:
+(...)
+Art. 7.1.2. Concesionarul va intocmi, in maxim 2 luni de
+la aprobarea planului de către Concedent, documentația
+DALI pentru obiectivul de investiții propus, conform HG
+nr. 907/2016 privind etapele de elaborare și conținutul-
+cadru al documentațiilor tehnico- economice aferente
+obiectivelor/ proiectelor de investiții finanțate din fonduri
+publice, cu modificările și completările ulterioare, inclusiv
+auditul energetic;
+Art. 7.1.3. Concesionarul va intocmi, in maxim 2 de la
+aprobarea documentației DALI de către Concedent,
+Proiectul tehnic de execuție, conform Hotărârii
+Guvernului nr. 907/2016, privind etapele de elaborare și
+conținutul-cadru al documentațiilor tehnico- economice
+aferente obiectivelor/ proiectelor de investiții finanțate
+din fonduri publice, cu modificările și completările
+ulterioare;
+3.4.2 OBIECTIVE pe termen lung, mediu și imediate
+INVESTITII
+Delegatul va realiza, in maxim 3 luni de la semnarea
+contractului, o verificare a auditului existent, in baza
+careia, se va preda pe baza de proces verbal de predare-
+primire încheiat intre delegatar si delegat, patrimoniul cu
+infrastructura SIP .
+Din cele de mai sus rezultă că documentația de atribuire conține
+prevederi contradictorii referitoare la termenul de verificare a auditului
+existent, fiind încălcate prevederile art. 51 alin. (7) și 71 alin. (1) din
+Legea nr. 100/2016, precum și ale art. 19 alin. (2) din HG nr. 867/2016.
+Având în vedere cele de mai sus, contestatoarea solicită
+modificarea documentației de atribuire în sensul înlăturării dispozițiilor
+contradictorii cu privire la termenul de verificare a auditului existent.
+5. Modificarea documentației de atribuire în sensul înlăturării
+dispozițiilor contradictorii și recalculării redevenței în conformitate cu art.
+29 alin. (11) lit. m) din Legea nr. 51/2006.
+Art. 29 alin. (11) lit. m) din Legea nr. 51/2006 stabilește modul de
+calcul al redevenței ca fiind:
+„m) nivelul redevenței sau al altor obligații, după caz; la stabilirea
+nivelului redevenței, autoritatea publică locală va lua în considerare
+valoarea calculată similar amortizării pentru mijloacele fixe aflate în
+proprietate publica și puse la dispoziție operatorului odată cu
+încredințarea serviciului/activității de utilități publice și gradul de
+suportabilitate al populației Nivelul redevenței se stabilește în mod
+transparent și nediscriminatoriu pentru toți potențialii operatori de
+servicii de utilități publice, utilizându- se aceeași metodologie de calcul;"
+10
+
+De asemenea, conform art. 25 alin. (5) din Legea nr. 51/2006
+„Bunurile realizate de operatori în conformitate cu programele de
+Investiții impuse prin contractul de delegare a gestiunii constituie bunuri
+de retur care revin de drept, la expirarea contractului, gratuit și libere de
+orice sarcini, unităților administrativ-teritoriale și sunt integrate
+domeniului public al acestora”.
+Scopul instituirii redevenței și calcularea acesteia similar amortizării
+este ca autoritatea contractantă să recupereze costul uzurii fizice a
+bunurilor puse la dispoziție operatorului și care sunt returnate ca bunuri
+de retur în patrimoniul său la încetarea contractului.
+Conform Capitolului 9. Redevența din Studiului de oportunitate,
+autoritatea contractantă a stabilit două metode de calcul a redevenței:
+- până la realizarea investițiilor un nivel al redevenței de 1% / an
+din valoarea sistemului de iluminat public;
+- după realizarea investițiilor nivelul redevenței este 1.5% / an din
+valoarea actualizată a sistemului de iluminat, situație în care autoritatea
+va înregistra și profit care se va adăuga la bugetul local în vederea
+realizării unor analize, proiecte sau investiții viitoare; valoarea
+redevenței se va raporta la valoarea actualizată a sistemului de iluminat:
+(= valoarea de inventar actuală - valoarea elementelor care se vor
+înlocui în urma deprecierii + valoarea investiției).
+Studiul stabilește că actualizarea valorii de inventar în urma
+investițiilor se va face anual la o dată stabilită de autoritate și operator,
+de comun acord în baza contractului de delegare.
+Cu toate acestea, în cadrul Capitolului 15. Redevența din Contract,
+autoritatea stabilește un alt mod de calcul al redevenței după realizarea
+investiților:
+- pentru perioada în care se realiză întreținerea și mentenanța
+sistemului, fără investiții, valoarea redevenței este de 1% / an din
+valoarea de inventar a sistemului de iluminat public, respectiv
+201.556,11 lei/an;
+- în urma realizării tuturor investițiilor propuse prin caietul de
+sarcini, valoarea redevenței se va raporta la valoarea actualizată a
+sistemului de iluminat (valoarea actualizată = valoarea de inventar 2023
+- valoarea echipamentelor casate + valoarea investiției rezultate după
+încheierea procesului verbal la terminarea lucrărilor). Procentul care se
+va aplica va fi de 1,5% x Valoarea actualizată.
+5.1 Documentația de atribuire conține dispoziții contradictorii
+referitor la modul de calcul al redevenței după realizarea investițiilor.
+În primul rând, cele două variante de calcul al redevenței după
+realizarea investițiilor, varianta prezentată în cadrul Studiului de
+oportunitate și varianta din cadrul caietului de sarcini sunt diferite, ceea
+ce echivalează cu existența unor dispoziții contradictorii, sub aspectul
+modului de calcul al redevenței, în cadrul documentației, fiind încălcate
+dispozițiile art. 51 alin. (7) și 71 alin. (1) din Legea nr. 100/2016,
+precum și ale art. 19 alin. (2) din HG nr. 867/2016.
+Pagina 11 din 52
+
+Se impune astfel modificarea documentației de atribuire în sensul
+înlăturării dispozițiilor contradictorii în ceea privește modul de calcul a
+redevenței după realizarea investițiilor.
+5.2 Stabilirea unui mod de calcul al redevenței în conformitate cu
+art. 29 alin. (11) lit. m) din Legea nr. 51/2006.
+În al doilea rând, modul de calcul al redevenței pentru a doua
+situație, respectiv modul de calcul al redevenței după realizarea
+investițiilor, este calculat greșit întrucât aceste investiții nu se transferă
+autorității și nu sunt plătite integral de către autoritate la momentul
+calculării/recalculării redevenței (trec în proprietatea autorității abia la
+încetarea Contractului).
+Astfel, conform art. 10.2 Finanțarea investițiilor, din caietul de
+sarcini, investițiile rămân în patrimoniul operatorului până la încetarea
+contractului:
+„10.2. Finanțarea investițiilor
+Investițiile în sistemul de iluminat public, care se realizeaza din
+fondurile proprii ale operatorului/delegatului, raman în proprietatea
+acestuia în perioada derulării contractului, urmând ca la încetarea
+contractului, sa fie returnate, libere de orice sarcini, Autoritatii
+contractante/delegatarului, ca bunuri de retur.
+Pana la finalul contractului de concesiune, Municipiul ...
+înregistrează extracontabil valoarea investițiilor.
+Investițiile din fondurile proprii ale operatorului/delegatului se vor
+realiza, in maxim 24 luni de la data primirii ordinului de începere lucrări,
+urmând ca recuperarea investițiilor sa fie facuta fie in rate egale/lunare
+pe restul perioadei de delegare”.
+Având în vedere că investițiile rămân în proprietatea operatorului
+până la finalizarea Contractului, costul acestora fiind suportat de către
+operator, rezultă că acestea nu pot fi incluse în valoarea actualizată a
+sistemului de iluminat aparținând autorității, în baza căreia se va calcula
+redevența.
+Or, art. 29 alin. (11) lit. m) din Legea nr. 51/2006, are în vedere,
+pentru calcularea redevenței, bunurile aflate în proprietatea publică și nu
+privată a operatorului.
+Pentru toate cele de mai sus, se impune modificarea prevederilor
+referitoare la calcularea redevenței, în conformitate cu art. 29 alin. (11)
+lit. m) din Legea nr. 51/2006, respectiv la calcularea redevenței se va
+ține seama de bunurile aflate în proprietatea publică.
+6. Modificarea documentației de atribuire în sensul înlăturării
+dispozițiilor contradictorii și stabilirii unui mod de ajustare a prețului
+Contractului în conformitate cu art. 12 și art. 13 din Normele
+metodologice din 2007 de stabilire, ajustare sau modificare a valorii
+activităților serviciului de iluminat public, adoptate de prin Ordinul nr.
+77/2007.
+Capitolul 13 din Contract stabilește modul de ajustare a prețului
+Contractului, iar în cadrul fișei de date, la Capitolul 11.3 Ajustarea
+prețului contractului.
+12
+
+Pe lângă prevederile referitoare la ajustarea prețului Contractului,
+caietul de sarcini cuprinde la art. 10.1 Tarife unitare.
+6.1 Documentația de atribuire conține dispoziții contradictorii
+referitor la modul de ajustare a contractului.
+În primul rând, din prevederile anterioare rezultă că Contractului și
+fișa de date prezintă un mod de ajustare diferit față de modul de
+ajustare a prețului prevăzut în cadrul caietului de sarcini, ceea ce
+echivalează cu existența unor dispoziții contradictorii, fiind încălcate
+dispozițiile art. art. 51 alin. (7) și 71 alin. (1) din Legea nr. 100/2016,
+precum și ale art. 19 alin. (2) din HG nr. 867/2016.
+Se impune astfel modificarea documentației de atribuire în sensul
+înlăturării dispozițiilor contradictorii în ceea privește modul de ajustare a
+prețului Contractului.
+6.2 Stabilirea unui mod de ajustare a prețului Contractului în
+conformitate cu prevederile exprese ale Ordinului ANRSC nr. 77/2007.
+În al doilea rând, stabilirea modului de ajustare a prețului
+Contractului încalcă prevederile imperative, art. 12 și 13 ale Ordinului
+ANRSC nr. 77/2007 ce stabilește, în mod imperativ, modul de calcul al
+valorii activităților specifice pentru serviciul de iluminat public.
+Formula prezentată în cadrul documentației de atribuire pentru
+ajustarea prețului contractului este diferită de cea prevăzută în Ordinul
+ANRSC nr. 77/2007.
+Rezultă că modul de ajustare a prețului contractului stabilită prin
+documentația de atribuire încalcă prevederile imperative ale Ordinului
+ANRSC nr. 77/2007.
+Se impune astfel modificarea documentației cu privire la modul de
+ajustare a prețului Contractului în conformitate cu prevederile Ordinului
+ANRSC nr. 77/2007.
+7. Modificarea documentației de atribuire în sensul menționării
+dreptului concesionarului la penalități de întârziere în cotă procentuală de
+0,02% pe zi de întârziere, din valoarea facturilor confirmate de
+concedent și neachitate, inclusiv pentru pentru serviciile de întreținere
+menținere și pentru iluminatul festiv.
+Contractul prevede penalități de întârziere în favoarea
+concesionarului doar în cazul în care concedentul achită cu întârziere
+facturile pentru lucrările de modernizare, dar nu și pentru întârzierea
+plății facturilor pentru serviciile de întreținere menținere și pentru
+iluminatul festiv:
+„Art.17.1.2. Concesionarul este îndreptățit să perceapă
+concedentului penalități în sumă echivalentă cu o cotă procentuală de
+0,02% lucrărilor de modernizare pe zi întârziere din valoarea facturilor
+confirmate de Concendent și neachitate, pentru fiecare zi de întârziere.".
+Art. 6 Termen de plată din Legea nr. 72/2013 privind măsurile
+pentru combaterea întârzierii în executarea obligațiilor de plată a unor
+sume de bani rezultând din contracte încheiate între profesioniști și între
+aceștia și autoritățile contractante, prevede obligația entității
+contractante de a achita valoarea facurilor în termen de 30 de zile de la
+primirea facturii.
+Pagina 13 din 52
+
+În cazul în care autoritatea contractantă nu achită sau achită cu
+întârziere valoarea facturilor, aceasta va fi ținută la penalități de
+întârziere, conform art. 8 alin. (2) din Legea nr. 72/2013.
+Având în vedere prevederile art. 6 Termen de plată din Legea nr.
+72/2013 coroborat cu art. 8 alin. (2) din aceeași lege, consideră că se
+impune completarea documentație de atribuire în sensul obligării
+concedentului (autoritatea) la plata penalităților de întârziere în cuantum
+de 0,02% pe zi de întârziere inclusiv pentru serviciile de întreținere
+menținere și pentru iluminatul festiv.
+8. Modificarea documentației de atribuire, inclusiv a art. 16.1 din
+Contract, în sensul că plata pentru lucrările de investiții (modernizare și
+extindere) să se realizeze în conformitate cu art. 6 din Legea nr.
+72/2013, respectiv în 30 de zile de la primirea facturii emise pe situații
+de lucrări sau în termen de 30 de zile de la recepția lucrărilor (inclusiv de
+la recepția parțială).
+În subsidiar, contestatoarea arată că, în situația în care nu ar fi
+vorba de credit furnizor, solicită modificarea documentației de atribuire
+în sensul prevederii în cadrul acesteia că plata pentru investiții
+(modernizare și extindere) să se realizeze în conformitate cu art. 6 alin.
+(1) din Legea nr. 72/2013, respectiv în 30 de zile de la primirea facturii
+emise pe situații de lucrări sau în termen de 30 de zile de la recepția
+lucrărilor (inclusiv de la recepția parțială).
+Astfel, prevederile art. 16.1 din Contract, precum și cele din caietul
+de sarcini ce stabilesc că plata pentru lucrările de investiții (modernizare
+și extindere) se vor realiza în rate egale, până la finalizarea contractului
+(adică în termen de 120 de luni) sunt nelegale deoarece vin în
+contradicție cu prevederile imperative ale art. 6 alin. (1) din Legea nr.
+72/2013.
+Având în vedere acestea, solicită modificarea documentației în
+sensul menționării că plata pentru lucrările de investiții (modernizare și
+extindere) să se realizeze în conformitate cu art. 6 din Legea nr.
+72/2013, respectiv în 30 de zile de la primirea facturii emise pe situații
+de lucrări sau în termen de 30 de zile de la recepția lucrărilor (inclusiv de
+la recepția parțială).
+Arată că, în situația în care ar trebui să suporte costul investițiilor și
+recuperarea acestora în rate egale, până la finalizarea Contractului,
+solicită modificarea documentației de atribuire în sensul obligării entității
+contractante la suportatea dobânzilor penalizatoare și a cheltuielilor
+financiare ocazionate operatorului, în conformitate cu art. 7 alin. (2)
+coroborat cu art. 5 alin. (2) din Legea nr. 72/2013.
+Solicită modificarea documentației de atribuire în sensul prevederii
+în cadrul documentației că plata pentru investiții (modernizare și
+extindere) să se realizeze în conformitate cu prevederile art. 6 alin. (1)
+din Legea nr. 72/2013, respectiv în 30 de zile de la primirea facturii
+emise pe situații de lucrări sau în termen de 30 de zile de la recepția
+lucrărilor (inclusiv de la recepția parțială).
+De asemenea, în subsidiar, în situația în care nu se impune
+modificarea documentației cu privire la termenul de plată, iar operatorul
+14
+
+va fi obligat la suportarea cheltuielilor cu investițiile, urmând a-și
+recupera sumele cheltuite în rate egale, până la finalizarea contractului,
+solicită obligarea autorității contractante la suportarea atât a dobânzilor
+penalizatoare, cât și a cheltuielilor financiare ocazionate operatorului.
+Astfel, pe lângă suportarea cheltuielilor ocazionate de investiții,
+operatorul va avea și alte cheltuieli financiare ocazionate de împrumutul
+contractat la rândul său pentru susținerea investiției, cheltuieli ce se
+impun a fi recuperate.
+În acest sens sunt și prevederile legale, respectiv art. 7 alin. (2)
+coroborat cu art. 5 alin. (2) din Legea nr. 72/2013.
+Având în vedere toate cele de mai sus, solicită modificarea
+documentației de atribuire în sensul obligării autorității contractante la
+suportatea dobânzilor penalizatoare și a cheltuielilor financiare
+ocazionare operatorului, în conformitate cu art. 7 alin. (2) coroborat cu
+art. 5 alin. (2) din Legea nr. 72/2013.
+Prin punctul său de vedere nr. 9624/29.05.2024, înregistrat la
+Consiliu cu nr. 34547/03.06.2024, autoritatea contractantă învederează
+următoarele:
+1. Referitor la critica „Modificarea documentației de atribuire in
+sensul completării contractului propus prin introducerea unei clauze
+privind obligativitatea concedentului de a înregistra creditul furnizor in
+Registru Datoriei Publice Locale."
+Documentația de atribuire a fost elaborată în conformitate cu
+cerințele Legii nr. 100 din 2016 și respectă întocmai principiile regăsite în
+art. 2 alin. (2) din legea sus-menționată. Conform observațiilor făcute,
+contestatoarea regăsește, repetitiv, în cadrul mai multor documente,
+informații clare cu privire la modalitatea de plată a investițiilor din cadrul
+contractului de concesiune.
+În acest sens, autoritatea contractantă aduce în lumină faptul că
+valoarea estimată este de 104.704.617,49 lei. Obiectivul concesionării
+este realizarea unui sistem de iluminat public unitar și eficient, care să
+corespundă cerințelor moderne de trafic, în paralel cu optimizarea
+consumului energetic și eficientizarea Sistemului de Iluminat Public,
+pentru întreaga unitate administrativ - teritorială a Municipiului ..., și
+cuprinde:
+1. Cheltuieli pentru elaborarea documentației tehnice pentru
+investiții - 297.000,00 lei
+2. Prețul pentru modernizarea sistemului de iluminat public
+(Delegare pe 10 ani) - 30.311.723,40 lei
+3. Prețul pentru întreținerea și menținerea în funcțiune a sistemului
+de iluminat public (Delegare pe 10 ani) - 12,167,096.32 lei
+4. Prețul pentru activitatea de montare / demontare/ furnizare/
+închiriere a iluminatului festiv (Delegare pe 10 ani) - 61.928.797,76 lei.
+De reținut este faptul că această procedură este finanțată integral
+din fondurile locale, aceasta fiind justificarea atât a încheierii contractului
+pe durata de 10 ani, cât și rațiunea modalității pentru care autoritatea
+contractantă, în urma studiului de oportunitate, a înțeles să susțină din
+veniturile locale întregul contract de concesiune.
+Pagina 15 din 52
+
+Fiind un contract guvernat de trei piloni, și prețul aferent a fost
+structurat în acceași direcție cu trimitere la punctul iv. 4.2 Modul de
+prezentare al propunerii financiare „Prețul total I (pentru 10 ani) se
+compune din trei componente, dintre care:
+1.1Prețul total (pentru 10 ani) pentru activitatea de întretinere
+menținere a sistemului de iluminat public
+1.2Prețul (pentru 10 ani) pentru activitatea de iluminat festiv
+1.3Prețul total (pentru 10 ani) pentru rambursarea investiției de
+modernizare, reabilitare a sistemului de iluminat public și
+telemanagement și servicii de proiectare pentru realizarea acesteia
+Se va prezenta
+Graficul de execuție a lucrărilor de investiții de iluminat public
+Graficul de rambursare al lucrărilor de investiții după finalizarea
+investiției și încheierea PVTRL
+2. Valoarea redevenței (pentru 10 ani)
+Se va evidenția distinct
+Valoarea redevenței pentru un an și
+Valoarea redevenței pentru 10 ani
+Prețul total al ofertei (pentru 10 ani) se va calcula astfel:
+Prețul total - prețul total I (pentru 10 ani) + valoarea redevenței
+(pentru 10 ani)
+Contravaloarea lucrărilor de întreținere-menținere, respectiv
+iluminat festiv, se va plăti lunar în baza situațiilor de lucrări acceptate de
+beneficiar.
+Prin urmare, pretinsa critică adusă de către contestator se reflectă
+efectiv în modalitatea de recuperare a contravalorii investiției.
+Or, în mod conform, autoritatea contractantă a dispus în
+documentația de atribuire: „Plata lucrărilor de investiții (modernizare)
+finanțate de operator, se va face eșalonat, în rate lunare egale, la
+finalizarea lucrărilor, în baza procesului verbal de recepție la terminarea
+lucrărilor și punere în funcțiune și a graficului de recuperare a investiției,
+semnate și asumate de cele două părți (Achizitorul și operatorul).
+Analizând în concret motivele de la baza contestației, observă
+faptul că operatorul economic nu contestă modalitatea de stabilire în
+documentația de atribuire a termenului pentru recuperarea investiției (10
+ani până la epuizarea contractului de concesiune), ci susține cu titlu
+general că ar trebui accesat un instrument de garantare a datoriei
+publice de tipul - credit furnizor cu trimitere la art. 62 lit. c) din Legea nr.
+273/2006, fără să prezinte criteriile și condițiile, respectiv consecințele
+accesării unui credit furnizor pentru autoritatea contractantă. 
+Or, autoritatea contractantă apreciază că, în primul rând,
+instrumentul garantării prin credit furnizor nu este fezabil în cauza de
+față, respectiv unui operator economic, iar pe de altă parte ar presupune
+o creștere nejustificată a gradului actual de îndatorare al unei unități
+administrativ teritoriale, ceea ce ar putea conduce la o blocare a
+activității UAT [localitate] indică pevederile art. 63 din Legea nr. 273/2006 privind
+finanțele publice locale.
+16
+
+Tocmai pentru a nu ajunge la atingerea unor grade de îndatorare
+prea mari cu consecințe economice și financiare drastice pentru unitatea
+administrativ teritorială, raportat și la valoarea ridicată a contractului de
+concesiune, autoritatea contractantă arată că a dispus recuperarea
+investiției operatorului economic în 10 ani, eșalonat în rate egale, fără a
+înregistra sumele în registrele datoriei publice. Mai mult, o înregistrare în
+registrul datoriilor publice locale a contravalorii investiției ar conduce la o
+imposibilitate de accesare a altor proiecte/investiții sau accesarea unor
+soluții de împrumut / garantare împrumut.
+2. Referitor la critica „Modificarea Capitolului 11. Garanția de bună
+execuție a contractului din Contractul de concesiune prin gestiune
+delegată a serviciului de iluminat public în municipiul ..., parte a
+documentației de atribuire, în sensul stabilirii clare și precise a garanției
+de bună execuție aferentă fiecărei activități a Contractului de delegare
+de gestiune, precum și a condițiilor de constituire, de valabilitate /
+durată, de executare a garanției de bună execuție, respectiv de
+returnare a garanției de bună execuție, precum și modificarea oricăror
+alte prevederi neclare ale documentației de atribuire, referitoare la
+garanția de bună execuție, în conformitate cu prevederile imperative ale
+legilor speciale în materia delegării de gestiune a serviciului de iluminat
+public prin concesiune."
+Răspuns:
+Art.11.1 Garanția de bună execuție a contractului din Contractul de
+concesiune prin gestiune delegată a serviciului de iluminat public în
+municipiul ... se modifică astfel:
+„Garanția de bună execuție pentru contractul de concesiune prin
+gestiune delegată a sistemului de iluminat public în municipiul ... este în
+cuantum de 5 % din valoarea contractului cu respectarea prevederilor
+art. 46 din Normele metodologice de aplicare a Legii nr. 100/2016. Se va
+constitui în termen de 10 zile lucrătoare de la data semnării contractului
+de concesiune. Acest termen poate fi prelungit la solicitarea justificată a
+concesionarului, fără a depăși 15 zile de la data semnării contractului .
+Modalitatea de constituire:
+- prin virament bancar sau printr-un instrument de garantare emis
+de o instituție de credit din România sau din alt stat sau de o societate
+de asigurări, în condițiile legii Durata de valabilitate a garanției de bună
+execuție- pe toată durata de valabilitate a contractului."
+Documentația de atribuire s-a elaborat cu respectarea prevederilor
+Legii nr. 51 din 2006 astfel la art. 11 „Garanția de buna execuție" din
+contract a fost indicată valoarea, modul de constituire și modul de
+executare a acesteia, pe componentele contractului.
+Cu privire la „îndrumare privind solicitarea de garanție de bună
+execuție în cadrul contractelor de concesiuni" publicat de ANAP, redă
+„abordările posibile privind scopul și cuantumul GBE" cu „titlu
+exemplificativ" indicate de contestatoare:
+• în cazul în care contractul de concesiune include doar servicii de
+operare (de exemplu servicii de colectare a deșeurilor), GBE ar putea fi
+calculată ca procent la valoarea estimată medie anuală a contractului de
+Pagina 17 din 52
+
+concesiune. Această abordare ar fi similară cu prevederile din HG nr.
+867/2016 referitoare la garanția de participare, care se calculează
+proporțional la valoarea medie estimată anuală. Astfel, valoarea GBE nu
+ar trebui să depășească 10% din valoarea medie estimată anuală.
+• în cazul în care contractul de concesiune prevede inclusiv
+execuția investiției (construcție urmată de operare), GBE ar putea fi
+calculată ca procent din valoarea estimată a construcției, în acest caz,
+valoarea GBE nu ar trebui să depășească 10% din valoarea estimată a
+valorii de execuție. Dacă pe parcursul derulării construcțiilor,
+concesionarul nu își respectă obligațiile, autoritatea ar putea rămâne cu
+infrastructura nefinalizată și cu mari probleme financiare. Drept urmare
+s-ar justifica includerea unei astfel de cerințe.
+• în cazul în care contractul de concesiune include bunuri ce fac
+obiectul contractului care urmează să fie predate autorității într-o stare
+corespunzătoare (la standardele prevăzute în contractul de concesiune),
+autoritatea poate analiza includerea cerinței privind GBE, care ar putea fi
+calculată ca procent din valoarea estimată a acelor bunuri. Prin analogie
+la celelalte prevederi legale, valoarea GBE nu ar trebui să depășească
+10% din valoarea estimată a acelor bunuri.
+Analizând îndrumările, precum și specificul contractului care
+include, printre altele, investiții, autoritatea menționează că a avut în
+vedere faptul că interesul public trebuie sa primeze, scopul garanției de
+bună execuție fiind acela de a proteja interesul public identificat prin
+asigurarea autorității contractante de îndeplinirea cantitativă, calitativă și
+în perioada convenită a contractului, pe toată perioada derulării
+contractului de concesiune, fără de care un eventual comportament
+necorespunzător al contractantului nu poate fi sancționat sau combătut.
+Având în vedere valoarea contractului de concesiune, obiectul
+acestuia și durata îndelungată a acestuia, se impune ca autoritatea
+contractantă să constituie garanția de bună execuție la valoarea
+întregului contract, asigurând mecanisme efective prin care să se asigure
+de executarea conformă, la parametrii cantitativi și calitativi prevăzuți în
+documentația de atribuire, prin aceasta nefiind încălcate în vreun fel
+dispozițiile în materia asigurării și promovării concurenței dintre
+operatorii economici, așa cum susține nefondat contestatoarea.
+3. Referitor la critica „Modificarea documentației de atribuire în
+sensul înlăturării dispozițiilor contradictorii cu privire la posibilitatea de
+prelungire a Contractului":
+Răspuns:
+Cu privire la dispozițiile contradictorii din Art. 4.2. Contractul poate
+fi relungit în conformitate cu legislația în vigoare, prin acordul de voință
+al părților și art. 1.7 din caietul de sarcini al serviciului Contractul de
+delegare prin concesiune a gestiunii serviciului de iluminat public în
+Municipiul ... fiind un contract cu investiții, se va încheia pe durata de 10
+ani cu posibilitatea de a fi relungită cu o perioadă egală cu cel mult
+jumătate din durata sa inițială rin acordul de voința a părților. Pe durata
+stabilită se interzice operatorului/delegatului subconcesionarea
+serviciului public de iluminat.
+18
+
+Se va modifica cuprinsul contractului cu prevederea din caietul de
+sarcini.
+Așadar, termenul contractual de 10 ani și posibilitatea perioadei de
+prelungire, astfel cum a fost stabilită în caietul de sarcini sunt în
+concordanță cu dispozițiile normative raportat la valoarea ridicată a
+investiției și la timpul necesar de recuperare a acesteia de către
+operatorul economic și a costurilor adiacente legate de exploatarea
+serviciilor.
+4. Referitor la critica „Modificarea documentației de atribuire în
+sensul înlăturării dispozițiilor contradictorii cu privire la termenul de
+verificare a auditului":
+Răspuns:
+Conform art. 7.1.1 din Contract:
+„Concesionarul va realiza, in maxim 2 luni de la semnarea
+contractului:
+- verificare a auditului existent, în baza căreia, se va preda pe baza
+de proces-verbal de predare-primire încheiat între Concesionar și
+Concedent, patrimoniul cu infrastructura SIP". Concesionarul va verifica
+în maxim 2 luni de la semnarea contractului auditul care a stat la baza
+întocmirii Studiului de oportunitate. A se consulta Anexa 1 „Situație SIP"
+atașat documentației de atribuire.
+Termenul de „maxim 2 luni" este cel corect stabilit și prin urmare,
+se preia și în caietul de sarcini unde dintr-o eroare de tehnoredactare s-a
+notat „maxim 3 luni".
+Având in vedere influența nesemnificativă a acestei necorelări
+asupra documentației de atribuire, consideră că aceasta putea fi
+remediată printr-o solicitare de clarificări.
+5. Referitor la critica „Modificarea documentației de atribuire în
+sensul înlăturării dispozițiilor contradictorii și recalculării redevenței în
+conformitate cu art. 29 alin. (11) lit. m) din Legea nr. 51/2006"
+Răspuns:
+În primul rând, apreciază că aspectele de aparentă neconcordanță
+puteau fi în mod judicios rectificate de către autoritatea contractantă pe
+baza clarificărilor solicitate de către ofertanți.
+Dintr-o eroare de redactare a fost menținut art. 10.2 „Finanțarea
+investițiilor" din caietul de sarcini, care dispune în sensul că investițiile
+rămân în patrimoniul operatorului până la încetarea contractului.
+De asemenea, formula pentru stabilirea redevenței după realizarea
+investiției, cu excepția celor propuse prin caietul de sarcini, este cea
+indicată în contract, cu luarea în calcul a valorii de inventar pentru anul
+2023, astfel că se va elimina formula indicată în Capitolul 9 din Studiul
+de oportunitate.
+Formula de calcul al redevenței după realizarea investițiilor (cu
+excepția celor propuse prin caietul de sarcini), în cuantum 1.5% / an din
+valoarea actualizată a sistemului de iluminat, se determină prin
+raportare la valoarea actualizată a sistemului de iluminat determinată din
+valoarea de inventar 2023 - valoarea echipamentelor casate + valoarea
+Pagina 19 din 52
+
+investițiilor rezultate după încheierea procesului-verbal la terminarea
+lucrărilor
+Prin urmare, consideră că este cât se poate de fondată formula de
+calculare a redevenței.
+Nivelul redevenței a fost stabilit respectând art. 29 lit. m) din Legea
+nr. 51/2006 republicată, cu modificările și completările ulterioare.
+Luând in calcul următoarele elemente:
+- valoare de inventar a sistemului de iluminat actual:
+20.155.610,76 lei,
+- gradul de îmbătrânire al aparatelor
+- costurile minime generate de personalul autorității implicat in
+supravegherea administrării sistemului de iluminat
+- opțiunea de externalizare a serviciului
+- modernizarea sistemului s-a realizat in etape si astfel la o parte
+din aparate a expirat durata de viata, iar altele au fost montate in ultimii
+ani s-a consideram ca stabilirea unui nivel al redeventei de 1% / an din
+valoarea sistemului acopera costurile actuale, fara a aduce un profit
+autoritatii.
+Nivelul redevenței de 1.5% / an raportat la valoarea actualizată a
+sistemului de iluminat a luat în calcul actualizarea valorii de inventar în
+urma investițiilor realizate de Municipiul ..., altele decât cele cuprinse în
+cadrul contractului de concesiune și derulate de concesionar. Investițiile
+derulate în cadrul prezentului contract intră în patrimoniul
+concesionarului odată cu recepția lucrării.
+În acest sens, autoritatea contractantă face trimitere și la aplicarea
+art. 289 din Codul administrativ.
+6. Referitor la critica „Modificarea documentației de atribuire în
+sensul înlăturării dispozițiilor contradictorii și stabilirii unui mod de
+ajustare a prețului Contractului în conformitate cu art. 12 și art. 13 din
+Normele metodologice din 2007 de stabilire, ajustare sau modificare a
+valorii activităților serviciului de iluminat public, adoptate de prin Ordinul
+nr. 77/2007":
+Răspuns:
+Fiind un contract de concesiune care conține investiții și realizarea
+iluminatului festiv, ajustarea se aplică la întreaga valoare a contractului,
+nu numai la întreținere și mentenanță. Contractul prevede ajustarea
+preturilor conform Instrucțiunii nr. 1/2021 emisă de către ANAP pentru
+toate componentele lui.
+Art. 13.3 se modifica astfel:
+„Art 13.3. Prețul contractului poate fi ajustat în condițiile stabilite
+prin prevederile din Instrucțiunea nr. 1/2021 emisă de către ANAP de
+mai jos doar pentru lucrările care vor fi executate în cadrul contractului
+An = av + (1 - av) * In /Io, unde:
+"An" este coeficientul de ajustare care urmează a fi aplicat valorii
+de contract estimate pentru lucrările realizate în luna "n";
+"av" este valoarea procentuală a plății în avans față de prețul
+contractului;
+20
+
+"In" este indicele de cost în construcții - total publicat de Institutul
+Național de Statistică în Buletinul Statistic de Prețuri, la tabelul 15,
+aplicabil la data cu 60 de zile înainte de ultima zi a lunii "n". Ajustarea
+prețului se va face la fiecare solicitare de plata pentru fiecare situație de
+lucrări în funcție de indicii INS.
+"Io" este indicele de cost în construcții - total, aplicabil la data
+anterioară cu 30 de zile față de termenul-limită de depunere a ofertelor.
+Valoarea serviciilor de proiectare si asistenta tehnica din partea
+proiectantului nu se ajusteaza cu aceasta formula"
+7. Referitor la critica „Modificarea documentației de atribuire în
+sensul menționării dreptului concesionarului la penalități de întârziere în
+cotă procentuală de 0,02% pe zi de întârziere, din valoarea facturilor
+confirmate de concedent și neachitate, inclusiv pentru pentru serviciile
+de întreținere menținere și pentru iluminatul festiv":
+Răspuns:
+Contractul se modifică, astfel:
+„17.1.1. În cazul în care din vina sa exclusivă, concesionarul nu
+reușește să-și îndeplinească obligațiile asumate prin contract în privința
+prestațiilor/lucrărilor, atunci concedentul este îndreptățit de a percepe ca
+penalități, o sumă echivalentă cu 0,02% pe zi de întârziere din valoarea
+lucrărilor (de întreținere, menținere, iluminat festiv și investiții)
+neexecutate, fără TVA, conform termenelor de execuție calculată pentru
+fiecare zi întârziere, începând cu ziua următoare termenului la care
+acestea trebuiau finalizate și până la data finalizării acestora inclusiv."
+„Art.17.1.2. Concesionarul este îndreptățit să perceapă
+concedentului penalități în sumă echivalentă cu o cotă procentuală de
+0,02% pe zi întârziere din valoarea facturilor confirmate de concedent și
+neachitate la scadența stabilită în Contract din culpa concedentului,
+pentru fiecare zi de întârziere."
+8. Referitor la critica „Modificarea documentației de atribuire,
+inclusiv a art. 16.1 din Contract, în sensul că plata pentru lucrările de
+investiții (modernizare și extindere) să se realizeze în conformitate cu
+art. 6 din Legea nr. 72/2013, respectiv în 30 de zile de la primirea
+facturii emise pe situații de lucrări sau în termen de 30 de zile de la
+recepția lucrărilor (inclusiv de la recepția parțială)":
+Răspuns:
+Autoritatea contractantă apreciază că trebuie decelat între lucrările
+de investiții, a căror contravaloare urmează să fie restituită etapizat, în
+tot termenul de derulare a contractului de concesiune - 10 ani și lucrările
+de întreținere – menținere, respectiv iluminat festiv, care se vor plăti
+lunar, în baza situațiilor de lucrări acceptate de beneficiar.
+Pornind de la situația premisă, care constituie însăși obiectul
+realizării contractului de concesiune, reiese faptul că procedura respectă
+prevederile Legii nr. 72 din 2013, prin accesarea modalităților distincte
+prevăzute ope legis de achitare a debitelor, mai exact art. 5 alin. (2)
+Părțile pot conveni efectuarea plății în mod eșalonat, în acest caz,
+dobânzile penalizatoare și celelalte despăgubiri prevăzute de prezenta
+lege se calculează prin raportare la suma scadentă, și art. 6 alin. (1)
+Pagina 21 din 52
+
+Autoritățile contractante execută obligația de plată a sumelor de bani
+rezultând din contractele încheiate cu profesioniști cel târziu la:
+a) 30 de zile calendaristice de la data primirii facturii sau a oricărei
+altei cereri echivalente de plată".
+În cazul nerespectării termenelor de plată, concedentul va suporta
+dobânzile penalizatoare și orice alte cheltuieli financiare ocazionate
+concesionarului, în conformitate cu art. 7 alin. (2) coroborat cu art. 5
+alin. (2) din Legea nr. 72/2013.
+Perioada de rambursare a valorii lucrărilor de investiții va fi egală
+cu durata contractului, cu începere din a doua lună după recepția la
+terminarea lucrărilor, în conformitate cu Anexa „Graficul de rambursare
+a lucrărilor de modernizare" din oferta financiară, reprezentând
+contravaloarea costurilor aferente rambursării lucrărilor de modernizare/
+investitii.
+Plățile se vor efectua lunar, în rate egale, începând cu a doua lună
+după recepția la terminarea lucrărilor, în lei." 
+Așadar, pentru plata contravalorii investițiilor etapizat, în rate egale
+calculate anual, nu pot fi percepute penalități de întârziere în sensul
+enunțat de către contestatoare (plata să se realizeze în 30 de zile de la
+recepția lucrărilor), o interpretară contrară ar însemna dreptul
+operatorului de a percepe dobânzi asupra unor sume nescadente, ceea
+ce ar contraveni cu toate instituțiile de drept fundamental aplicabile în
+sistemul de drept românesc.
+Contestatoarea a formulat concluzii scrise nr. 12803/04.06.2024,
+înregistrate la Consiliu cu nr. 35006/05.06.2024, prin care solicită cele
+menționate prin contestație.
+II. Prin contestația înregistrată la Consiliul Național de Soluționare
+a Contestațiilor cu nr. 27913/08.05.2024, ...SRL, în calitate de operator
+economic interesat de participarea la procedura în cauză, învederează
+următoarele:
+1. Solicită eliminarea clauzei abuzive prin care se impune un
+termen de plată de 10 ani pentru contravaloarea costurilor aferente
+rambursării lucrărilor de modernizare/investiții - practic solicită
+modificarea cerinței, în sensul ca toate plățile pentru toate categoriile de
+lucrări să se efectueze lunar, în termen de 30 zile de la primirea facturii:
+Pentru soluționarea acestei critici, indică un extras din modelul de
+contract, respectiv Capitolul 16. Modalități de plată.
+Arată că, Legea nr. 72/2013 interzice imperativ, calificând drept
+abuzivă și sancționând cu nulitatea, clauza contractuală prin care se
+fixează, în contractele dintre profesioniști și autoritați contractante, un
+termen de plată mai mare decât cel de 30, respectiv 60 de zile, calculat,
+în conformitate cu dispozițiile art. 7 alin. (1) și art. 6 alin. (1) din Lege,
+de la data primirii facturii sau de la data recepției lucrărilor, serviciilor
+sau verificării bunurilor, după caz.
+Potrivit art. 6 din Legea nr. 72/2013, termenul legal de plată este
+de 30 zile de la data primirii facturii.
+Potrivit dispozițiilor art. 14 lit. d) din Legea nr. 72/2023 este
+calificată de lege ca fiind abuzivă clauza care fixează în contractele dintre
+22
+
+profesioniști și autoritățile contractate un termen de plată mai mare
+decât cel prevăzut la art. 7 alin. (1).
+În conformitate cu prevederile art. 7 alin. (1) Termenele de plată
+stabilite în contract pentru executarea obligațiilor autorităților
+contractante nu pot fi mai mari decât termenele stabilite potrivit art. 6
+alin. (1). În mod excepțional, părțile pot stipula un termen de plată de
+maximum 60 de zile calendaristice, dacă acesta este stabilit expres în
+contract și în documentația achiziției și este obiectiv justificat, ținând
+cont de natura sau caracteristicile specifice ale contractului, sub rezerva
+ca această clauză să nu fie abuzivă, în sensul art. 12.
+2. Eliminarea cerinței restrictive prin care se solicită
+descrierea/prezentarea aranjamentelor contractuale:
+Solicitarea acesteia este în sensul în care să se permită prezentarea
+unor Declarații/Angajamente de disponibilitate, atât pentru resursele
+proprii, cât și pentru cele prezentate prin externalizare.
+Pentru experții menționați mai sus (experți serviciile de proiectare) ce desfășoară
+activități în conformitate cu un act normativ ofertantul va descrie în propunerea tehnică
+momentul în care vor interveni acești experți în implementarea viitorului contract, precum și
+modul în care operatorul economic ofertant și-a asigurat accesul la serviciile acestora (fie prin
+resurse proprii, caz în care vor fi prezentate persoanele în cauză, fie prin externalizare, situație
+în care se vor descrie aranjamentele contractuale realizate în vederea obținerii serviciilor
+respective).
+Cerința prin care se solicită descrierea aranjamentelor contractuale
+este restrictivă, îngreunând accesul la procedură, cu motivarea că, de
+interes pentru achizitoare este ca ofertanții să dovedească accesul la
+personalul nominalizat, nu documentul prin care se probează accesul.
+3. În ceea ce privește aparatul de iluminat indicat în fișa tehnică nr.
+2, petenta solicită eliminarea cerințelor restrictive privind forma
+tronconică și dimensiunile impuse și acceptarea unor elemente similare:
+Pentru soluționarea acestei critici, indică un extras relevant din Fișa
+tehnică nr. 2:
+Fișa tehnică nr. 2 Aparat de ilumiuat ornamental cu LED
+Nr. Crt.Spepcificații tehnice impuse prin caietul de sarciniCon
+tehnici
+impus
+0Parametri tehnici si funcționali:
+1Aparat de ilumiaat stradal cuLED
+1.1Aparat de iluminat ornamental. Va permite integrarea iiițr-un sistem de control fara fir care
+permite controlul individual de la distanta. Toate aparatele de iluminat ornamentale vor
+aparține aceleiași familii.
+1.2Grad de protecție compartiment electric si
+optic (minim) IP 66. Se va prezenta raport de testare.
+1.3Rezistenta la impact (minim) IK09. Se va prezenta raport de testare
+1.4Forma tronconică. Dimensiuni aparat de iluminat Diametru: 500mm(=10mm) înălțime:
+750mm (±10mm)
+1.5Greutate: nu se impune
+Deși este prevăzută o toleranță de ±10 mm, acesta are numai rol
+"simbolic", scopul fiind acela de a restrânge artificial concurența.
+Toleranta de ±10 mm reprezintă o abatere de doar 1,33% față de
+valoare impusă, fiind evidentă restricționarea altor produse similare care
+îndeplinesc restul caracteristicilor.
+În privința formei exterioare și dimensiunilor, în lipsa unei justificări
+de natură tehnică, funcțională sau ambientală (reguli de urbanism), nu
+se poate exclude propunerea unor elemente similare.
+Pagina 23 din 52
+
+Solicită eliminarea acestor cerințe restrictive, în condițiile în care
+pentru de tip pietonal nu este impusă nici forma și nici dimensiunile,
+ceea ce confirmă că nu există restricții de natură tehnică, funcțională sau
+ambientală.
+4. Cu referire la cerința care vizează Sistemul de telegestiune, prin
+care sunt impuse sistemele de comunicație GSM și RF, solicită:
+- în principal, eliminarea acestei cerințe restrictive, deoarece
+cerința prin care se impune un anumit tip de transmisie nu este
+justificată, prin urmare apreciază că se impune completarea cerinței cu
+acceptarea și altor tehnologii de comunicație care să asigure nevoile
+autorității contractanteș
+- în subsidiar, solicită acceptarea și a unor tehnologii de
+comunicație care să cuprindă concentratoare de date. Practic, solicită să
+se permită folosirea pentru transmiterea de date a rețelelor GSM sau
+similar, cu menținerea solicitărilor de a nu fi instalate elemente terțe
+altele decât aparatele de iluminat si respectarea tuturor condițiilor
+referitoare la funcționalitate si securitate, din cadrul fiselor tehnice.
+Un sistem de telegestiune ce folosește ca protocol de comunicație
+rețele de date mobile (GSM) presupune ca fiecare controler individual de
+telegestiune să fie echipat cu o cartelă SIM pentru transmiterea datelor
+dintre aparatele de iluminat și serverul de comanda și control. Protocolul
+de comunicație bazat pe rețele de date mobile ar presupune ca
+autoritatea contractantă să încheie un contract cu un operator de
+telefonie mobilă pentru asigurarea lunară a unui abonament de date
+pentru 600 cartele SIM (aferent fiecărui aparat de iluminat din proiect,
+cu mențiunea că la pagina 5 din Proiectul tehnic se solicită 600 buc.
+aparate de iluminat cu surse LED), pe toata durata de viață a aparatelor
+de iluminat (aproximativ 25 ani), acest lucru presupuânând costuri
+suplimentare, inclusiv pentru autoritatea contractantă.
+Așa cum rezultă din dispozițiile art. 31 din HG nr. 395/2016,
+autoritatea contractantă nu are dreptul de a restricționa participarea la
+procedura de atribuire a contractului de achiziție publică prin
+introducerea unor cerințe care nu prezintă relevanță sau care sunt
+disproporționate în raport cu natura și complexitatea contractului de
+achiziție publică ce urmează să fie atribuit.
+Apreciază că impunerea unui anumit tip de transmisie, respectiv
+RF/GSM, reprezintă o cerință restrictivă prin raportare la următoarele
+considerente:
+- Acest tip de comunicație implică mai multe costuri pentru
+autoritatea contractantă;
+- Potrivit cerinței expusă prin documentația de atribuire, autoritatea
+contractantă impune un anumit tip de transmisie, respectiv RF/GSM
+pentru controlul de la distanță a aparatului de iluminat;
+- Existența unei astfel de cerințe exclude alte tehnologii de
+comunicații care ar putea fi mai eficiente sau mai potrivite în anumite
+situații. Utilizarea exclusivă a transmisiei RF sau GSM poate să nu fie cea
+mai eficientă opțiune în toate scenariile. De exemplu, tehnologia PLC
+beneficiază de infrastructura de cablare electrică existentă, permițând
+24
+
+transmiterea datelor și controlul prin intermediul rețelei de curent
+electric. Astfel, o cerință rigidă care exclude PLC limitează
+implementarea unei soluții mai eficiente din punct de vedere energetic și
+a resurselor și nu permite alegerea celei mai bune optiuni de comunicare
+din zona de instalare a sistemului de telegestiune.
+- Cerința exclude aplicațiile sau utilizările care ar putea beneficia de
+alte tipuri de comunicații, cum ar fi comunicațiile prin cablu,
+comunicațiile pe internet sau alte tehnologii emergente de comunicații.
+- Cerința limitează baza de furnizori și soluții disponibile, deoarece
+nu toți furnizorii sau dezvoltatorii pot oferi module de control care
+funcționează exclusiv cu transmisia RF sau GSM;
+- Utilizarea numai a transmisiilor RF sau GSM poate fi limitată de
+acoperirea rețelei sau de alte constrângeri tehnice asociate cu aceste
+tehnologii. Acest lucru poate afecta disponibilitatea si fiabilitatea
+sistemului în anumite locații.
+- Așa cum se învederează din interpretarea prevederilor art. 166
+din Legea nr. 99/2016, este interzis a se indica o anumită specificație
+tehnică/tehnologie de fabricație legată de proiectare, calculare și
+execuția lucrărilor și la utilizarea produselor fără a fi însoțită de
+mențiunea „sau echivalent".
+Având în vedere că se pot utiliza și alte protocoale de comunicație,
+aceasta solicită eliminarea cerinței în discuție, sau, în subsidiar, în
+ipoteza în care se va aprecia că nu se impune eliminarea acesteia,
+solicită obligarea autorității contractante la reformularea prevederilor din
+Fișa tehnice, prin introducerea după "transmisie RF /GSM", a mențiunii
+„sau echivalent", conform prevederilor legale.
+5. Pentru confirmarea ambiguității documentației de atribuire,
+precum și a cerințelor restrictive, supune atenției Consiliului fișa tehnică
+nr. 4 Sistem de telegestiune, respectiv cerințele de la punctele 1.13 și
+3.16:
+- În acest sens, solicită eliminarea în totalitate a cerinței de la
+punctul 3.16 sau acceptarea unor sisteme de telegestiune care au în
+componența și controler zonal, nu numai controler local pentru aparatele
+de iluminat.
+În cadrul cerinței de la punctul 1.13 se precizează că nu se accepta
+elemente de transmisie date așa cum este controlerul zonal al cărui rol
+este tocmai de a transmite date între controlerele locale și serverul
+central.
+Cu toate acestea, ignorând prevederea de la punctul 1.13,
+autoritatea contractantă solicită ca sistemul de telegestiune să permită
+integrarea cu astfel de echipamente, chiar dacă acestea nu sunt
+solicitate prin documentație.
+Prin raportare la cele prezentate anterior, solicită eliminare în
+totalitate a cerinței de la punctul 3.16 sau acceptarea unor sisteme de
+telegestiune care au în componența și controler zonal, nu numai
+controler local pentru aparatele de iluminat.
+6. Cu referire la fișa tehnică nr. 5, solicită:
+Pagina 25 din 52
+
+a) Eliminarea cerinței restrictive privind gradul de protecție IP 68 și
+acceptarea unui grad de protecție IP 66 (așa cum se indică în Fișa
+tehnică nr. 1);
+b) În principal, eliminarea cerințelor restrictive în ceea ce privește
+temperatura de funcționare (cu motivarea că în Fișa tehnică nr. 1 nu se
+regăsește o astfel de cerință), iar, în subsidiar, solicită diminuarea
+limitelor maxime la intervalul: -35 grade C ... +45 grade C.
+Pentru soluționarea acestei critici, indică un extras relevant din Fișa
+tehnică nr 5, astfel:
+Fișa tehnică nr. 5
+Ansamblu sistem fotovoltaic - Iluminat stradal și treceri de pietoni
+Nr.
+Crt.
+Specificații tehnice impuse prin caietul de sarciniCorespondența propunerii
+tebnice cu specificațiile
+tehnice impuse prin caietul de
+sarcini
+Producător
+0Parametri tehnici și funcționali
+Caracteristici generale
+1Aparat de iluminat cu LED
+1.1Putere aparat de iluminat: maxim 80W
+1.2Eficacitate luminoasa aparat de iluminat: minim 170
+Im/W
+1.3Curentul de funcționare: maxim 700mA
+1.4Tensiunea de alimentare: 24Vdc
+1.5Temperatura de culoare: 4000k
+1.6Indicele de redare a culorilor: Ra !=75
+1.7Unghi fascicul luminos: Asimetric
+1.8Grad de proiecție: IP68
+1.9Rezistenta la impact: IK10
+1.1Temperatura de funcționare: - 40 ... ft- 70 °C
+1.1Material carcasa: aliaj din aluminiu
+1.1Durata de viata: minim 100.000 li
+1.1Garanție: minim 10 ani
+1.1Se va prezenta certificat CE
+1.1Se va prezenta certificat ROHS
+a) Eliminarea cerinței restrictive privind gradul de protecție IP68 și
+acceptarea unui grad de protecție IP 66 (așa cum se indică în Fișa
+tehnică nr. 1)
+Clasificarea și descrierea gradelor de protecție IP este precizată în
+standardul SR EN 60529:1995/A2:2015 - Grade de protecție asigurate
+prin carcase (Cod IP), iar încercările privind proiecția împotriva
+pătrunderii prafului, a corpurilor solide și a umidității se realizează în
+conformitate cu standardele SR EN 60598-1:20015 și SR EN 60598-2-
+3:2004.
+Conform clasificării, gradul de protecție IP 68 presupune protecție
+împotriva scufundărilor permanente sub apă până la 4m.
+În cazul de față este vorba de un aparat de iluminat de tip stradal
+cu montaj pe stâlp la peste 8m care nu poate ajunge niciodată să fie
+scufundat permanent sub apă până la 4m.
+În plus, gradul de protecție IP 68 este inferior gradului de protecție
+IP 66 pentru montajul exterior al echipamentelor electrice, așa cum este
+menționat în standardul SR EN 60529 - Grade de protecție asigurate prin
+carcase (Cod IP).
+b) În principal, eliminarea cerințelor restrictive în ceea ce privește
+temperatura de funcționare (cu motivarea că în Fișa tehnică nr. 1 nu se
+26
+
+regăsește o astfel de cerință), iar, în subsidiar, solicită diminuarea
+limitelor maxime la intervalul: -35 grade C ... +45 grade C.
+Pentru echipamentele solicitate în procedură, autoritatea
+contractantă impune următoarea cerință restrictică:
+1.1 Temperatura de funcționare: -40 ... + 70 °C
+Aceste valori nu se regăsesc la nivelul regiunii ..., așa cum rezultă
+și din Proiectul tehnic.
+Autoritatea contractantă avea obligația de a justifica, în mod
+argumentat, opțiune pentru intervalul de temperatură, însă această
+obligație nu a fost îndeplinită, ci, din contră, conținutul cerințelor privind
+valorile temperaturii sunt infirmate chiar de conținutul informațiilor
+existente în Proiectul tehnic.
+7. Contestatoarea solicită eliminarea cerințelor restrictive privind
+prezentarea celor 2 experți, specialiști în iluminat, certificat CAPI total
+sau exterior, emis de CNRI:
+În sensul susținerii noastre, indică un extras din documentația de
+atribuire, astfel: 
+Specialisti proiectare
+Pentru serviciile de proiectare:
+Categorie de profesii/domeniu al specializăriiNumăr de experți
+Șef/coordonator/director proiect1
+Specialist in iluminat certificat CAPI total sau exterior, emis ele CNRI2
+Inginer instalatii electrice atestat ANRE min gradul IIA3
+Auditor energetic1
+Consideră restrictivă cerința privind prezentarea certificatului CAPI
+total sau exterior, emis de CNRI pentru specialistul în iluminat, dar
+suficient și acoperitor certificatului de absolvire conform cod COR
+214237.
+Având în vedere că Certificarea CAPI presupune achitarea unor
+taxe suplimentare, solicită eliminarea acestei cerințe restrictive.
+8. Solicită eliminarea cerințelor restrictive privind prezentarea celor
+8 experți - electrician autorizat ANRE, minim gradul II B sau echivalent și
+certificat CAPI
+Specialiști execuție
+f. Pentru execuție lucrări:
+Categorie de profesii domeniu al specializăriiNumăr
+de experți
+Manager de proiect (contract)1
+Sef Șantier1
+RTE în domeniu! 6, su.bdome.niul 6. ¡.-Instalații electrice1
+RTE în domeniul 8, subdomeniul 8.1.- rețele electrice1
+Electrician autorizat - Autorizat ANRE — minim gradul IIB sau echivalent si certificat
+CAPI total
+sau exterior; emis de CNRI
+S
+Responsabil cu controlul tehnic al calității1
+Specialist în domeniul securității și sănătății în muncă1
+Electrician autorizat - Autorizat ANRE - minim gradul IIB sau echivalent și certificat CAPI total sau exterior, emis de
+CNRI
+Consideră restrictivă cerința privind prezentarea certificatului CAPI
+total sau exterior, emis de CNRI pentru electricienii autorizați pentru
+motivele indicate la punctul anterior.
+În susținere indică și prevederile Ordinului ANRE nr. 45/2016.
+9. Cu referire la dispecerat, solicită:
+Pagina 27 din 52
+
+a) modificarea acestei cerințe, în sensul ca la momentul depunerii
+ofertelor îndeplinirea acestei cerințe să se facă, exclusiv, prin
+prezentarea unei declarații pe propria răspundere;
+b) în subsidiar, în ceea ce privește specialiștii dispecerat, consideră
+restrictivă cerința privind experiența solicitată în operarea sistemelor de
+iluminat echipate cu telegestiune pentru 4 persoane cu o experiență de
+min. 3 ani.
+Pentru modificarea acestei cerințe, în sensul ca la momentul
+depunerii ofertelor îndeplinirea acestei cerințe să se facă, exclusiv, prin
+prezentarea unei declarații pe propria răspundere, indică prevederile art.
+35 alin. (2) lit. j) din Normele metodologice de aplicare a prevederilor
+referitoare la atribuirea contractelor de concesiune de lucrări și
+concesiune de servicii din Legea nr. 100/2016 privind concesiunile de
+lucrări și concesiunile de servicii din 16.11.2016, parte integrantă din
+Hotărârea nr. 867/2016, astfel: 
+Art. 35 
+(1) Criteriile privind capacitatea tehnică și profesională stabilite de autoritatea
+contractantă pot viza în special existența unui nivel corespunzător de experiență, prin
+raportare la contractele executate în trecut.
+(2) Operatorul economic face dovada îndeplinirii criteriilor privind capacitatea tehnică și
+profesională prin prezentarea, după caz, a unora sau mai multora dintre următoarele informații
+și documente: (...)
+j) o declarație cu privire la utilajele, instalațiile și echipamentele tehnice la dispoziția
+operatorului economic care prestează servicii ori execută lucrări pentru executarea contractului
+de concesiune.
+Prin punctul său de vedere nr. 9624/29.05.2024, înregistrat la
+Consiliu cu nr. 34547/03.06.2024, autoritatea contractantă învederează
+următoarele:
+1. Referitor la critica „Solicităm eliminarea clauzei abuzive prin care
+se impune un termen de plată de 10 ani pentru contravaloarea costurilor
+aferente rambursării lucrărilor de modernizare/investiții - practic,
+solicităm modificarea cerinței, în sensul ca toate plățile pentru toate
+categoriile de lucrări să se efectueze lunar, în termen de 30 zile de la
+primirea facturii.”
+Răspuns:
+Clauza privind termenul de plata de 10 ani este una legală,
+deoarece rambursarea costului investițiilor se face în rate/eșalonat.
+Referitor la critica: „Eliminarea cerinței restrictive prin care se
+solicită descrierea/prezentarea aranjamentelor contractuale.
+Solicitarea Subscrisei este în sensul în care să se permită
+prezentarea unor Declarații/Angajamente de disponibilitate, atât pentru
+resursele proprii, cât și pentru cele prezentate prin externalizare. Cerința
+prin care se solicită descrierea aranjamentelor contractuale este
+restrictivă, îngreunând accesul la prezenta procedură, cu motivarea că,
+de interes pentru achizitoare este ca ofertanții să dovedească accesul la
+personalul nominalizat, ci nu documentul prin care se probează accesul."
+Răspuns:
+Pentru experții menționați mai sus (experți serviciile de proiectare)
+ce desfășoară activități în conformitate cu un act normativ, ofertantul va
+descrie în propunerea tehnică momentul în care vor interveni acești
+28
+
+experți în implementarea viitorului contract, precum și modul în care
+operatorul economic ofertant și-a asigurat accesul la serviciile acestora
+(fie prin resurse proprii, caz în care vor fi prezentate persoanele în
+cauză, fie prin externalizare, situație în care se vor descrie
+angajamentele contractuale realizate în vederea obținerii serviciilor
+respective).
+Contestatoarea nu a definit în mod clar unde apare restrictivitatea
+cerinței. Deoarece serviciile aflate în discuție se vor desfășura pe o
+perioadă mai lungă de timp este normal ca ele să facă parte dintr-un
+contract, așa cum este normal ca ofertantul să explice care este rolul și
+când vor fi implicați în proiect respectivii experți.
+Autoritatea contractantă solicită respingerea criticii, deoarece nu
+există o situație de restrictivitate.
+3. Referitor la critica: „în ceea ce privește aparatul de iluminat
+indicat în Fișa tehnică nr. 2, solicităm eliminarea cerințelor restrictive
+privind forma tronconică și dimensiunile impuse și acceptarea unor
+elemente similare"
+Răspuns:
+Studiul de oportunitate care a stat la baza delegării serviciului de
+iluminat public a fost aprobat prin Hotărâre de Consiliul local, iar forma
+aparatului de iluminat tronconică a fost aprobată în Consiliul local. Având
+în vedere faptul că aparatele de iluminat ornamentale se montează în
+zonele istorice a fost aleasă tocmai această formă tronconică pentru a se
+integra în peisajul urbanistic al zonelor în care se vor monta. Nu se
+dorește pentru aparatele de iluminat omamentela montarea aceluiași tip
+de aparat de iluminat ca cel stradal.
+Privind Dimensiunile aparatului de iluminat ornamental solicitate
+acestea reprezintă dimensiune maxime astfel ofertanții putând oferta
+aparate cu diametru maxim 500 mm ± 10 mm și înălțime maximă 750
+mm ± 10 mm.
+Aparatele de iluminat solicitate în fișa tehnică nr. 2 sunt prevăzute
+pentru înlocuire aparate de iluminat montate în zona Cetății .... Forma și
+dimensiunile acestora din urmă au fost stabilite pe baza unui proiect de
+arhitectură pentru zone de monumente clasa A. În acest sens, înlocuirea
+trebuie să păstreze forma de bază aleasă la momentul proiectării de
+către specialiștii în monumente. Pentru a oferi posibilitatea unei largi
+participări la procedură, se acceptă dimensiuni cu toleranță de 20%:
+Diametru 500mm -/+20% și înălțime 750mm -/+20%. Suplimentar,
+pentru a păstra forma proiectată de specialiști, raportul dintre diametru
+și înălțime va fi cuprins în intervalul 0.65-0.85.
+Aparatul de iluminat ofertat va păstra forma de bază a aparatelor
+existente, și nu vor fi echipate cu pălării sau zone evazate.
+4. Referitor la critica: „Cu referire la cerința care vizează Sistemul
+de telegestiune, prin care sunt impuse sistemele de comunicație GSM și
+RF" Cu privire la această cerință, solicităm:
+În principal, eliminarea acestei cerințe restrictive, cu motivarea că
+cerința prin care se impune un anumit tip de transmisie, nu este
+justificată, prin urmare apreciem că se impune completarea cerinței cu
+Pagina 29 din 52
+
+acceptarea și altor tehnologii de comunicație care să asigure nevoile
+autorității contractante;
+În subsidiar solicităm acceptarea și a unor tehnologii de
+comunicație care să cuprindă concentratoare de date. Practic, solicităm
+să se permită folosirea pentru transmiterea de date a rețelelor GSM sau
+similar, cu menținerea solicitărilor de a nu fi instalate elemente terțe
+altele decât aparatele de iluminat și respectarea tuturor condițiilor
+referitoare la funcționalitate și securitate, din cadrul fiselor tehnice".
+Răspuns
+Proiectantul a evaluat soluțiile existente pe piața optând pentru o
+soluție în care apariția unui defect pentru o componentă a sistemului de
+telegestiune să afecteze doar un aparat de iluminat. În cazul folosirii de
+elemente terțe, altele decât aparatele de iluminat, există riscul
+nefuncționării sistemului de iluminat, deoarece la defectarea unui
+element terț folosit acesta afectează funcționarea a tuturor aparatelor de
+iluminat care sunt deservite de elementul terț.
+Autoritatea contractantă dorește implementarea unui sistem de
+telegestiune robust și fiabil, care să folosească protocoale de comunicație
+deschise, existente și ușor de folosit și implementat, pentru reducerea
+costurilor de instalare și exploatare.
+Costurile și condițiile unei soluții cu comunicare directă au fost
+evaluate și sunt foarte clar menționate în cadrul documentației de
+atribuire, prin urmare nu există niciun risc pentru autoritatea contractă
+la finalul implementării proiectului ca anumite costuri de comunicație sau
+soft să nu fie acoperite pe perioada solicitată, pentru transmisia de date
+GSM, în vederea respectării temei de proiectare și obținerii unui sistem
+de telegestiune robust și fiabil care să folosească protocoale de
+comunicație deschise, existente și ușor de folosit și implementat, pentru
+reducerea costurilor de instalare și exploatare.
+Autoritatea contractantă menționează că rețelele de transmisie
+GSM nu sunt rețele proprietar, nu sunt specifice unuia sau anumitor
+producători și sunt disponibile în mod deschis pentru
+ofertanți/producători. Mai mult, referitor la necesitatea de cartele SIM și
+abonamente de date, arată că nu există nicăieri referire la aceste cartele.
+Datele vor fi transmise prin intermediul modulelor de comunicație GSM.
+Totodată, indiferent de soluția adoptată, transmisie direct în cloud sau
+utilizare de concentratori, informația trebuie să fie transmise către
+aplicația de telegestiune tot prin intermediul rețelelor GSM. Suplimentar,
+soluția stabilită presupune implementarea unui sistem simplu, folosind
+rețele GSM existente, în contradicție cu soluții prin cablu, comunicații pe
+internet ce presupune instalarea de turnuri de transmisie dedicate și
+crearea unei rețele paralele de transmisie, care în final va necesita
+existența rețelei GSM pentru transmiterea datelor către aplicația de
+telegestiune.
+Condiția tehnică impusă prin fișele tehnice nu este una restrictivă,
+o multitudine de producători de sisteme de telegestiune folosind
+transmisia de date folosind transmisia GSM/RF. Ofertanții pot alege din
+multitudinea de soluții existente pe piață care îndeplinesc cerințele
+30
+
+caietului de sarcini și nu trebuie să încerce să impună autorității
+contractante un anumit tip sistem.
+5. Referitor la critica: „Pentru confirmarea ambiguității
+documentației de atribuire, precum și a cerințelor restrictive, supunem
+atenției Consiliului Fișa Tehnică nr. 4 Sistem de telegestiune, respectiv
+cerințele de la punctele 1.13 și 3.16"
+Răspuns:
+Solicitarea de la punctul 3.16 din Fișa Tehnica nr. 4 - Sistem de
+telegestiune - conține eronat sintagma controler zonal. Cerința corectă
+este: "Platforma de telegestiune trebuie să permită integrarea
+componentelor hardware (module de telegestiune instalate pe aparat) de
+la minim 3 producători. Integrarea se va face folosind API sau TALQ. Se
+va face dovada îndeplinirii cerinței printr-o captura de ecran din aplicația
+ofertata. Se vor menționa producătorii folosiți."
+Solicitarea vine în ajutorul ofertanților, pentru a nu limita la un
+singur producător elementele hardware (modulele de telegestiune) și
+pentru a permite o largă participare la procedură.
+Totodată, prin această solicitare, autoritatea se asigură că nu
+achiziționează o aplicație de telegestiune care să o țină captivă față de
+un anumit producător, fiind liberă să achiziționeze prin proceduri publice
+de achiziție, aparate de iluminat și module de telegestiune oferind
+posibilitatea mai multor producători să oferteze în aplicația compatibilă,
+achiziționată.
+6. Referitor la critica: „Cu referire la Fișa tehnică nr. 5, solicităm:
+a) eliminarea cerinței restrictive privind gradul de protecție IP68 și
+acceptarea unui grad de protecție IP 66 (așa cum se indică în Fișa
+tehnică nr. 1);
+b) în principal, eliminarea cerințelor restrictive în ceea ce privește
+temperatura de funcționare (cu motivarea că în Fișa tehnică nr. 1 nu se
+regăsește o astfel de cerință), iar, în subsidiar, solicităm diminuarea
+limitelor maxime la intervalul: -35 grade C ... +45 grade C."
+Răspuns:
+a) Se modifica cerința privind gradul de protectie Ip după cum
+urmează: Poz 1.8 din fisa tehnica nr 5 - Grad de protectie : min IP 66 
+b) În general, temperatura sub un panou fotovoltaic poate fi mai
+mare cu 20-25X față de temperatura aerului ambient. Acest lucru se
+întâmplă pentru că panourile fotovoltaice absorb o mare parte din
+radiația solară și o convertesc în energie electrică, dar o parte din
+această energie este pierdută sub formă de căldură. În condiții de
+radiație solară intensă și temperatură ambientală ridicată, temperatura
+din spatele panourilor poate crește semnificativ, afectând eficiența
+panourilor și necesitând soluții de răcire sau ventilație adecvată pentru a
+menține performanța optimă a sistemului.
+Adaugând aceste valori la valoarea menționată de contestatoare,
+constată că valoarea maximă este cea menționată în documentație.
+Deoarece aparatele de iluminat vor fi montate sub panou există
+posibilitatea ca temperatura la nivelul acestora să crească la nivelul
+solicitat. Vârfurile de temperatură nu se ating în mod constant, însă este
+Pagina 31 din 52
+
+suficient ca o singură dată să se ajungă la valori care să depășească
+nivelul admis de aparat și să se confrunte cu deteriorări ale
+componentelor acestuia. 
+Astfel, autoritatea contractantă solicită respingerea cerinței privind
+acest punct și păstrarea valorilor de la punctul 1.10 din Fișa Tehnică nr.
+5, neschimbate.
+7. Referitor la critica: „Solicităm eliminarea cerințelor restrictive
+privind prezentarea celor 2 experți, specialiști în iluminat, certificat CAPI
+total sau exterior, emis de CNRI”.
+Răspuns:
+Toate cursurile post universitare presupun taxe suplimentare.
+Obținerea certificatului CAPI sau a atestatului de specialist în iluminat
+presupune achitarea unor taxe atât pentru participare, cât și pentru
+examinare.
+Pentru conformitate atașează anunțul CNRI:
+Vă anunțăm organizarea sesiunii de primavară pentru cursul postuniversitar de
+"SPECIALIST în ILUMINAT".
+Orele se desfășoara la sediul CNRI de la Facultatea de Inginerie a Instalațiilor din cadrul
+U.T.C.B. din București, Bd. Pache Protopopescu nr. 66, la etajul 3 în cadrul Centrului de
+Aplicații pentru Sisteme de Iluminat.
+Pentru înscrierea candidaților este necesară completarea fișei de înscriere din
+atașament (doar pentru persoanele nu au completat deja fișa) și trimiterea acesteia pe adresa
+de email [EMAIL]. împreuna cu o copie a C.l. și a diplomei de licența a studiilor. Toate
+documentele se trimit scanate.
+Taxa generală este situată în intervalul de 1500-2000 RON pentru fiecare candidat și
+acoperă cele doua părți de bază, examenul și licența, în funcție de profilul firmei. Excepție fac
+membrii CNRI sau angajații societățiior afiliate CNRI pentru care beneficiază de tarife
+personalizate. Asemănător, primăriile și societățile asociate primăriilor beneficiază de tarife
+personalizate. Taxa pentru segmentul opțional este de 500-1000 RON pentru fiecare candidat
+și este diferențiată pe criteriile deja precizate.
+Înscrierea se poate realiza până în ziua începerii cursurilor. Deoarece numărul de
+cursanți într-o serie este limitat din motive de bună desfășurare a cursurilor, este necesară
+înscrierea din timp, locurile ocupându-se în ordinea înscrierilor.
+La încheierea primelor două părți (și/sau a segmentului opțional), toți participanții
+primesc o diplomă eliberata de Comitetul Național Român de Iluminat care atestă terminarea
+cursurilor.
+Cu aceasta diplomă și cu Lucrarea de Finalizare a cursurilor, cursantul se poate
+prezenta fără nici o altă taxa la examenul de "specialist în iluminat".
+Astfel, contestatoarea propune înlocuirea unei specializări care se
+obține prin achitarea unor taxe, cu o altă specializare care se obține tot
+prin achitarea de taxe.
+O situație relativ asemănătoare este și în cadrul atestării ANRE. Și
+de această dată este nevoie de achitarea unei taxe, însă această
+atestare nu a fost considerată restrictiv de contestatoare. Acest lucru se
+repetă în nenumarate situații de atestare și uneori și de reatestare a
+cunoștințelor și pregătirii specialiștilor.
+Având în vedere cele menționate, aceasta solicită respingerea
+cerinței formulate de contestatoare, neexistând un motiv real de
+restrictivitate.
+8. Referitor la critica: „Solicităm eliminarea cerințelor restrictive
+privind prezentarea celor 8 experți - electrician autorizat ANRE, minim
+gradul II B sau echivalent și certificat CAPI".
+Răspuns:
+32
+
+Se modifica cerința după cum urmează:
+Electrician autorizat - Autorizat ANRE - minim gradul IIB - 8 experți
+9. Referitor la critica: „Cu referire la dispecerat, solicităm:
+a) Solicităm modificarea acestei cerințe, în sensul ca la momentul
+depunerii ofertelor îndeplinirea acestei cerințe să se facă, exclusiv, prin
+prezentarea unei declarații pe propria răspundere 
+b) în subsidiar, în ceea ce privește specialiștii dispecerat
+considerăm restrictivă cerința privind experiența solicitata in operarea
+sistemelor de iluminat echipate cu telegestiune pentru 4 persoane cu o
+experiența de min 3 ani.”
+Răspuns:
+Simpla declarație nu dovedește deținerea unui dispecerat
+funcțional. Deoarece ofertanții trebuie să dovedească experiența similară
+din care rezultă că ei au în operare alte orașe/muncipii cu un număr
+similar de aparate. - d) o listă a concesiunilor de servicii din care să
+rezulte că a fost realizată operarea contractului de concesiune de servicii
+pentru o perioadă prestabilită de autoritatea contractantă prin
+documentația de atribuire;
+În acestă situație ofertanții ar trebui deja să dețină un astfel de
+dispecerat. Un dispecerat nu presupune numai existența unei linii
+telefonice care să preia reclamații, ci presupune dotări materiale și
+personal care să poată asigura preluarea reclamațiilor și operarea
+sistemului de iluminat în regim de continuitate.
+Contestatoarea consideră restrictivă cerința privind numărul de
+persoane desemnate să opereze dispeceratul, precum și experiența
+acestora, fără a dovedi restrictivitatea cerinței.
+În concluzie, autoritatea contractantă solicită respingerea în
+totalitate a solicitărilor formulate de contestatoare la punctul 9.
+Consiliul constată că, pentru a îndeplini obligația stabilită la art. 61
+1
+alin. (1) din Legea nr. 101/2016, contestatoarea ...SA a înaintat recipisa
+de consemnare a cauțiunii nr. 210217920/1, în valoare de 220.000 lei,
+emisă de CEC Bank – Sucursala Victoria, la data de 13.05.2024, iar
+contestatoarea ...SRL a înaintat recipisa de consemnare a cauțiunii nr.
+210211554/1, în valoare de 220.000 lei, emisă de CEC Bank – Sucursala
+Iași, la data de 09.05.2024.
+Cauțiunile constituite se vor restitui, la cerere, nu mai devreme de
+30 de zile de la data rămânerii definitive a hotărârii, în temeiul art. 61
+1
+alin. (5), (6) și (7) din Legea nr. 101/2016.
+Din analiza susținerilor părților și a documentelor existente la
+dosarul cauzei, Consiliul reține cele ce urmează:
+MUNICIPIUL ..., în calitate de autoritate contractantă, a publicat în
+SEAP anunțul de concesionare PC1002701 la data de 23.04.2024, privind
+de licitație deschisă, în vederea atribuirii contractului având ca obiect
+„Concesiune prin gestiune delegată a serviciului de iluminat public în
+Municipiul ...". Valoarea estimată a procedurii de atribuire este de
+104.704.617,49 lei, fără TVA. Termen stabilit pentru depunerea ofertelor
+Pagina 33 din 52
+
+28.05.2024, ora 10:00. Criteriul de atribuire „Cel mai bun raport
+calitate-preț”.
+Împotriva prevederilor documentației de atribuire au formulat
+contestații ...SA și ...SRL, prin care se solicită obligarea autorității
+contractante la luarea unor măsuri de remediere în sensul modificării
+prevederilor documentației de atribuire contestate și a eliminării
+cerințelor restrictive.
+Analizând contestația formulată de ...SA (Dosar nr. 1559/2024),
+Consiliul constată că prin aceasta sunt contestate prevederi ale
+documentației de atribuire solicitându-se modificarea acestora după cum
+urmează:
+1. Modificarea documentației de atribuire în sensul completării
+contractului propus prin introducerea unei clauze privind obligativitatea
+concendentului de a înregistra creditul furnizor în Registrul Datoriei
+Publice Locale.
+În susținerea solicitării sale contestatoarea arată că potrivit
+caietului de sarcini programul de modernizare a sistemului de iluminat
+public stradal și pietonal în Municipiul ... se va încadra în termenul de
+maxim 24 luni de la începerea lucrărilor.
+De asemenea, contestatoarea mai arată că în caietul de sarcini,
+punctul 10.2 Finanțarea investițiilor, este prevăzut că investițiile se vor
+realiza din fondurile proprii ale operatorului, urmând a fi recuperate în
+rate egale/lunare pe restul perioadei de delegare.
+Potrivit art. 16.1 din Contract autoritatea contractantă stabilește,
+de asemenea, că plata lucrărilor de investiții se va face în rate, începând
+cu a doua lună după recepția lucrărilor, până la data finalizării
+contractului, situație pentru care, în opinia sa, se aplică Legea nr.
+273/2006 privind finanțele publice locale, în speță finanțarea investiției
+de către operatorul economic desemnat câștigător.
+În situația descrisă, contestatoarea susține că pentru prezenta
+procedură investiția nu a fost aprobată, nu a fost pus la dispoziția
+ofertanților avizul Comisiei de autorizare a împrumuturilor, astfel încât
+procedura de atribuire este incompletă. Autoritatea contractantă trebuie
+să își asume obligația înregistrării creditului furnizor în Registrul Datoriei
+Publice, motiv pentru care solicită modificarea documentației de atribuire
+în sensul completării contractului propus prin introducerea unei clauze
+privind obligativitatea concendentului de a înregistra creditul furnizor în
+Registrul Datoriei Publice Locale.
+Analizând susținerile părților și documentele depuse la dosarul
+cauzei, Consiliul constată că autoritatea contractantă a stabilit că
+lucrările de investiții vor fi finanțate de operatorul economic și se va face
+în rate lunare egale, la finalizarea lucrărilor, în baza procesului verbal de
+recepție la terminarea lucrărilor și punerea în funcțiune și a graficului de
+recuperare a investiției, semnate și asumate de ambele părți.
+Consiliul constată că autoritatea contractantă a stabilit prin contract
+la art. 16.1. că „(1) Perioada de rambursare a valorii lucrărilor de
+investiții va fi egală cu durata contractului, cu începere din a doua lună
+după recepția la terminarea lucrărilor, în conformitate cu Anexa «Graficul
+34
+
+de rambursare a lucrărilor de modernizare» din oferta financiară,
+reprezentând contravaloarea costurilor aferente rambursării lucrărilor de
+modernizare/investiții.
+Plățile se vor efectua lunar, în rate egale, începând cu a doua lună
+după recepția la terminarea lucrărilor, în lei”.
+Prin urmare, cum contractul este legea părților acestea vor conveni
+care este modalitatea de recuperare a valorii lucrărilor de investiții
+ofertantul având prin contract garanția efectuării acestora fără a fi
+necesară înscrierea în Registrul Datoriei Publice Locale.
+Mai mult decât atât, contestatoarea nu a făcut dovada vreunei
+vătămări prin lipsa unei astfel de prevederi în documentația de atribuire,
+în speță în contract a unei astfel de clauze prin care autoritatea
+contractantă se obligă să se înscrie în Registrul Datoriei Publice Locale, ci
+doar a invocat acte normative aplicabile în domeniu datoriei publice fără
+a prezenta, în mod concret, ce o împiedică să participe la prezenta
+procedură de atribuire în lipsa unei astfel de clauze, motiv pentru care
+solicitarea se dovedește nefondată.
+2. Modificarea Capitolului 11. Garanția de bună execuție a
+contractului din Contractul de concesiune prin gestiune delegată a
+serviciului de iluminat public în Municipiul ..., parte a documentației de
+atribuire, în sensul stabilirii clare și precise a garanției de bună execuție
+aferentă fiecărei activități a Contractului de delegare de gestiune,
+precum și a condițiilor de constituire, de valabilitate/durată, de executare
+a garanției de bună execuție, respectiv de returnare a garanției de bună
+execuție, precum și modificarea oricăror alte prevederi neclare ale
+documentației de atribuire, referitoare la garanția de bună execuție, în
+conformitate cu prevederile imperative ale legilor speciale în materia
+delegării de gestiune a serviciului de iluminat public prin concesiune.
+Contestatoarea critică prevederile art. 11.1 din contract privind
+Garanția de bună execuție a contractului, și invocă nelegalitatea acestora
+motivat de faptul că:
+- sunt neclare și contradictorii, încălcând prevederile legislației
+concesiunilor care obligă autoritatea contractantă să ofere operatorilor
+economici toate informațiile necesare pentru a asigura
+ofertanților/cadidaților o informare completă, corectă și precisă;
+-încalcă prevederile legislației speciale ce obligă autoritatea
+contractantă la stabilirea garanției de bună execuție pentru toate
+activitățile ce fac obiectul contractului de concesiune pentru gestiune
+delegată a serviciului de iluminat public;
+- valoarea garanției de bună execuție a fost calculată în mod
+netemeinic la valoarea contrcatului aferentă duratei sale de 10 ani și nu
+la valoarea medie anuală cum arată ANAP;
+- stabilirea în mod netemeinic a momentului constituirii garanției de
+bună execuție în termenul de 5 zile lucrătoare de la data semnării;
+- neindicarea duratei de valabilitate a garanției de bună execuție.
+Consililiul constată că prin punctul de vedere autoritatea
+contractantă a comunicat faptul că este de acord cu modificarea
+Pagina 35 din 52
+
+prevederilor contractului, punctul 11.1 Garanția de bună execuție a
+contractului și va avea următorul conținut:
+„Garanția de bună execuție pentru contractul de concesiune prin
+gestiune delegată a sistemului de iluminat public în municipiul ... este în
+cuantum de 5% din valoarea contractului cu respectarea prevederilor
+art. 46 din Normele metodologice de aplicare a Legii nr. 100/2016. Se va
+contitui în termen de 10 zile lucrătoare de la data semnării contractului
+de concesiune. Acest termen poate fi prelungit la solicitarea justificată a
+concesionarului, fără a depăși 15 zile de la data semnării contrcatului .
+Modalitatea de constituire:
+-prin virament bancar sau print-un instrument de garantare emis
+de o instituție de credit din România sau alt stat sau de o societate de
+asigurări, în condițiile legii
+Durata de valabilitate a garanției de bună execuție – pe toată
+durata de valabilitate a contractului”.
+Contestatoarea a luat cunoștință de măsurile de remediere pe care
+autoritatea contractantă intenționează să le ia însă prin Concluzii scrise
+depuse la dosarul cauzei prezintă motive pentru care, în opinia sa, nici
+modificarea propusă de autoritatea contractantă nu este legală, întrucât
+valoarea garanției de bună execuție a fost calculată în mod netemeinic la
+valoarea contractului aferentă duratei sale de 10 ani și nu la valoarea
+medie anuală cum arată ANAP.
+De asemenea, contestatoarea afirmă „Conform Îndrumării ANAP,
+pentru serviciile de operare (întreținere și menținere) garanția de bună
+execuție ar trebui calculată «ca procent calculat la valoarea estimată
+medie anuală a contractului de concesiune» pentru aceste servicii”, în
+contradicție cu propriile afirmații din contestație de la punctul 2.1,
+subpunctul 19, potrivit cărora:
+„Or, valoarea prevăzută la art. 3.3 din Contract reprezintă valoarea
+întregului Contract, compus din toate activitățile
+i)întreținere menținere;
+ii)modernizarea sistemului de iluminat public;
+iii)activitățile de montare/demontare/furnizare/închiriere iluminat
+festiv;
+și nu doar activitatea de întreținere și menținere la care face
+referire articolul 11.1 din același Contract”.
+Prin urmare, stabilirea garanției de bună execuție prin raportare la
+valoarea tuturor activităților din contract este aleasă în mod corect de
+către autoritatea contractantă, fiind una din situațiile expuse cu titlu de
+exemplu în Indrumarea ANAP, denumite „abordări posibile privind scopul
+și cuantumul GBE”.
+Mai mult decât atât, Consiliul reține în soluționare că autoritatea
+contractantă a avut în vedere, așa cum precizează și în textul prevederii
+modificat, dispozițiile art. 46 din HG 867/2016 cât și Indrumarea ANAP
+care aduce la cunoștința operatorilor economici interesați și a entităților
+contractante faptul că:
+„Pentru toate celelalte tipuri de contracte de concesiune (și anume
+contractele de concesiune care nu se încadrează în categoria contractelor
+36
+
+de delegare sau a PPP-urilor, de exemplu concesionarea unui spațiu care
+aparține autorității contractante/ concesionarea spațiilor de-a lungul unui
+sector de autostrada) nu există cerință specifică în legislație privind
+obligativitatea solicitării unei garanții de bună execuție, această
+cerință rămânând la latitudinea autorității contractante. De
+asemenea, în niciuna din situațiile în care prin legislație se impune
+solicitarea garanției de bună execuție, nu este precizat un anumit
+cuantum (prag maxim recomandat a fi solicitat), și la ce valoare ar
+trebui raportat acesta: la valoarea totală a investiției (așa cum se
+indică în cazul procedurilor de achiziție publică/ sectorială) sau la
+valoarea medie anuală a veniturilor estimate”.
+Prin urmare, față de criticile aduse modificării prevederilor
+punctului 11.1 din Contract, Consiliul concluzionează că autoritatea
+contractantă a stabilit în mod corect garanția de bună execuție a
+contractului atât sub aspectul cuantumului cât și a termenului de
+constituire a acesteia, care a fost modificat de la 5 zile lucrătoare de la
+data semnării contractului la „10 zile lucrătoare de la data semnării
+contractului de concesiune”.
+Consiliul constată, de asemenea, că prin concluzii scrise
+contestatoarea susține, nefondat, că în documentația de atribuire
+(contract) nu este prevăzută durata de valabilitate a garanției de bună
+execuție, în condițiile în care în textul modificat al prevederii analizate
+apare precizarea „Durata de valabilitate a garanției de bună
+execuție – pe toată durata de valabilitate a contractului”. 
+Revenind la solicitarea de la punctul 2 din contestație, care
+cuprinde subpunctele 2.1-2.5 a căror caracter nefondat a fost reținut,
+Consiliul constată că autoritatea contractantă a comunicat intenția sa de
+a lua măsuri de remediere în sensul modificării prevederilor punctului
+11.1 din contract (Capitolul 11 Garanția de bună execuție a contractului),
+modificare pe care o va publica în SEAP pentru a fi accesibilă tuturor
+operatorilor economici interesați de participarea la procedura de
+atribuire.
+3. Modificarea documentației de atribuire în sensul înlăturării
+dispozițiilor contradictorii cu privire la posibilitatea de prelungire a
+contractului.
+În susținerea solicitării sale contestatoarea arată că în caietul de
+sarcini sunt informații contradictorii cu cele menționate în modelul de
+contract, astfel:
+- în cadrul contractului se prevede „Capitolul 4. Durata contractului.
+Art. 4.1 Durata prezentului contract este de 10 ani. Contractul este
+valabil începând cu data de .... și până la data de .... Art. 4.2. Contractul
+poate fi prelungit în conformitate cu legislația în vigoare, prin acordul de
+voință al părților”;
+- în cadrul caietului de sarcini al serviciului se prevede „1.7 Durata
+delegării. Contractul de delegare de concesiune a gestiunii serviciului de
+iluminat public în Municipiul ..., fiind un contract cu investiții, se va
+încheia pe durata de 10 ani, cu posibilitatea de a fi prelungită perioada
+cu o perioadă egală cu cel mult jumătate din durata sa inițială prin
+Pagina 37 din 52
+
+acordul de voință a părților. Pe durata stabilită se interzice operatorului/
+delegatului subconcesionarea serviciului public de iluminat”.
+Prin punctul de vedere transmis la dosarul cauzei, autoritatea
+contractantă a comunicat faptul că va dispune măsuri de remediere în
+sensul înlăturării neconcordanței invocate de către contestatoare,
+arătând în acest sens că „Se va modifica cuprinsul contractului cu
+prevederea din caietul de sarcini”.
+Consiliul constată că prin concluzii scrise, contestatoarea critică
+faptul că prin modificarea propusă de autoritatea contractantă aceasta
+încalcă alte prevederi legale, în speță dispozițiile art. 13 alin. (1) lit. a)
+din Legea nr. 100/2016, care stabilesc că valoarea estimată a
+contractului trebuie să cuprindă și „valoarea oricărei forme de opțiune
+sau de prelungire a duratei concesiunii de lucrări sau a concesiunii de
+servicii”.
+Verificând susținerile contestatoarei și prevederile documentației de
+atribuire, în speță prevederile fișei de date a achiziției, Cap. II.2.4
+Descrierea achiziției publice și Cap. IV.4.2 Modul de prezentare al
+propunerii financiare, valoarea totală estimată a contractului se
+raportează la 10 ani, fără a ține seama de posibilitatea de prelungire cu
+privire la care autoritatea contractantă face precizări în caietul de sarcini
+la punctul 1.7.
+Prin urmare, pe lângă obligația autorității contractante de a publica
+în SEAP informațiile necesare cu privire la posibilitatea prelungirii
+contractului, îi revine obligația de a adapta prevederile documentației de
+atribuire cu privire la acest aspect și cu luarea în considerare a
+dispozițiilor art. 13 alin. (1) lit. a) din Legea nr. 100/2016, situație față
+de care criticile din contestație cât și cele din concluziile scrise depuse la
+dosar ca urmare a măsurilor de remediere comunicate prin punctul de
+vedere de MUNICIPIUL ... vor fi admise.
+4. Modificarea documentației de atribuire în sensul înlăturării
+dispozițiilor contradictorii cu privire la termenul de verificare a auditului.
+Făcând trimitere la prevederile art. 7.1.1, 7.1.2 și 7.1.3 din
+contract cât și la prevederile punctului 3.4.2 din caietul de sarcini,
+contestatoarea arată că acestea conțin prevederi contradictorii
+referitoare la termenul de verificare a auditului existent, fiind încălcate
+prevederile art. 51 alin. (7) și 71 alin. (1) din Legea nr. 100/2016,
+precum și ale art. 19 alin. (2) din HG nr. 867/2016.
+Consiliul va admite solicitarea contestatoarei având în vedere că
+prin punctul de vedere autoritatea contractantă susține că termenul este
+de „maxim 2 luni”, termen care „se preia și în caietul de sarcini unde
+dintr-o eroare de tehnoredactare s-a notat «maxim 3 luni»”, informație
+pe care, de asemenea, este obligată să o publice în SEAP, pentru a fi
+cunoscută de toți potențialii ofertanți, iar prin concluzii scrise nu au fost
+invocată nelegalitatea măsurii de remediere.
+5. Modificarea documentației de atribuire în sensul înlăturării
+dispozițiilor contradictorii și recalculării redevenței în conformitate cu art.
+29 alin. (11) lit.m) din Legea nr. 51/2006.
+38
+
+Contestatoarea arată că în Studiul de oportunitate și în caietul de
+sarcini sunt variante diferite de calcul a redevenței, situație ce
+echivalează cu existența unor dospoziții contradictorii sub aspectul
+modului de calcul al redevenței fiind încălcare dispozițiile art. 51 alin. (7)
+și 71 alin. (1) din Legea nr. 100/2016, precum și ale art. 19 alin. (2) din
+HG nr. 867/2016.
+În ceea ce privește modul de calcul al redevenței contestatoarea
+susține că se impune modificarea prevederilor în conformitate cu art. 29
+alin. (11) lit.m) din Legea nr. 51/2006, respectiv la calcularea redevenței
+să se țină seama de bunurile aflate în proprietatea publică, dar și că
+valoarea actualizată a sistemului de iluminat nu se poate raporta la
+valoarea de inventar din anul 2023 având în vedere că suntem în anul
+2024.
+Prin punctul de vedere depus la dosarul cauzei autoritatea
+contractantă susține că neconcordanțele invocate de către contestatoare
+puteau face obiectul unor solicitări de clarificări în urma cărora ar fi
+dispus măsuri de remediere inclusiv cu privire la lămurirea modului de
+calcul al redevenței, demers pe care l-a făcut după primirea contestației.
+Consiliul constată că, în acest sens autoritatea contractantă aduce
+lămuriri cu privire la aspectele care fac obiectul solicitării de la punctul 5
+din contestație, arătând că:
+„(...) dintr-o eroare de redactare a fost menținut art. 10.2
+«Finanțarea investițiilor» din Caietul de sarcini care dispun în sensul că
+investițiile rămân în patrimoniul operatorului până la încetarea
+contractului.
+De asemenea, formula pentru stabilirea redevenței după realizarea
+investiției, cu excepția celor propuse prin caietul de sarcini, este cea
+indicată în contrcat, cu luarea în calcul a valorii de inventar pentru anul
+2023, astfel că se va elimina formula indicată în Capitolul 9 din Studiul
+de oportunitate.
+Formula de calcul al redevenței după realizarea investițiilor (cu
+excepția celor propuse prin caietul de sarcini) în cuantum 1,5%/an din
+valoarea actualizată a sistemului de iluminat, se determină prin
+raportare la valoarea actualizată a sistemului de iluminat determinată
+din valoarea de inventar 2023 – valoarea echipamentelor casate +
+valoarea investițiilor rezultate după încheierea procesului-verbal la
+terminarea lucrărilor”.
+Cu privire la clarificările aduse de autoritatea contractantă
+contestatoarea nu consideră măsurile de remediere satisfăcătoare motiv
+pentru care face în continuare trimitere la punctul 10.2 Finanțarea
+investițiilor despre care autoritatea contractantă a lămurit că din eroare a
+fost menținută prevederea în sensul că investițiile rămân în patrimoniul
+operatorului până la încetarea contractului, arătând că acest punct
+conține și alte prevederi care rămân contradictorii cum ar fi prevederea
+„Până la finalul contractului de concesiune, Municipiul ... înregistrează
+extracontabil valoarea investițiilor”.
+Consiliul constată caracterul fondat al criticilor având în vedere că
+deși autoritatea contractantă a încercat a lămuri aspectele contestate la
+Pagina 39 din 52
+
+punctul 5 din contestație, informațiile prezentate în punctul de vedere nu
+sunt de natură a clarifica în mod transparent și complet care sunt
+prevederile legate de redevență și calculul acesteia ce urmează a se
+modifica.
+Astfel, Consiliul stabilește că este necesar a analiza toate
+prevederile documentației de atribuire cu referire la redevență cât și a
+celor care au impact în modul de calcul al acesteia și după stabilirea
+modificărilor intervenite autoritatea contractantă să le publice în SEAP
+pentru a fi cunoscute de toți potențialii ofertanți, cu respectarea
+dispozițiilor art. 71 din Legea nr. 100/2016 potrivit cărora „(1)
+Autoritatea/autoritatea contractantă are obligația de a elabora
+documentația de atribuire care conține toate informațiile necesare
+pentru a asigura ofertanților/candidaților o informare completă, corectă
+și precisă cu privire la cerințele concesiunii de lucrări sau ale concesiunii
+de servicii, obiectul contractului, repartizarea riscurilor și modul de
+desfășurare a procedurii de atribuire”. 
+6. Modificarea documentației de atribuire în sensul înlăturării
+dispozițiilor contradictorii și stabilirii unui mod de ajustare a prețului
+Contractului în conformitate cu art. 21 și art. 13 din Normele
+metodologice din 2007 de stabilire, ajustare sau modificare a valorii
+activităților serviciului de iluminat public, adoptate prin Ordinul nr.
+77/2007.
+Cu privire la prevederile legate de modul de ajustare a prețului
+contestatoarea arată că în contract și fișa de date a achiziției sunt
+prezentate metode de calcul diferite de cele din caietul de sarcini, fiind
+încălcate dispozițiile art. 51 și 71 alin. (1) din Legea nr. 100/2016 și cele
+ale art. 19 alin. (2) din HG nr. 867/2016.
+Autoritatea contractantă arată prin punctul de vedere că fiind un
+contract de concesiune care conține investiții și realizarea iluminatului
+festiv, ajustarea se aplică la întreaga valoare a contractului, dar și faptul
+prevede ajustarea prețurilor conform Instrucțiunii nr. 1/2021 emisă de
+ANAP pentru toate componentele lui, precizând totodată că:
+„Art. 13.3 se modifică astfel:
+«Art. 13.3 Prețul contractului poate di ajustat în condițiile stabilite
+prin prevederile din instrucțiunea nr. 1/2021 emis de către ANAP de mai
+jos doar pentru lucrările care vor fi executate în cadrul contrcatului
+An = av + (1 – av)* ln/lo, unde:
+„An” este coeficientul de ajustare care urmează a fi aplicat valorii
+de contract estimate pentru lucrările realizate în luna „n”;
+„av” este valoarea procentuală a plății în avans față de prețul
+contractului;
+„ln” este indicele de cost în construcții – total publicat de Institutul
+de Statistică în Buletinul Statistic de Prețuri, la tabelul 15, aplicabil la
+data cu 60 de zile înainte de ultima zi a lunii „n”.
+Ajustarea prețului se va face la fiecare solicitare de plată pentru
+fiecare situație de lucrări în funcție de indicii INS.
+„lo” este indicele de cost în construcții – total, aplicabil la data
+anterioară cu 30 de zile față de termenul-limită de depunere a ofertelor.
+40
+
+Valoarea serviciilor de proiectare și asistență tehnică din partea
+proiectantului nu se ajustează cu această formulă»”.
+Consiliul constată că prin concluzii scrise contestatoarea critică
+faptul că modificările aduse modului de calcul al ajustării prețului încalcă
+prevederile imperative ale Ordinului ANRSC nr. 77/2007 și a Legii nr.
+51/2006 situație în care se impune modificarea documentației cu privire
+la modul de ajustare a prețului contractului în conformitate cu
+prevederile Ordinului nr. 77/2007.
+Având în vedere că în domeniul iluminatului public există legislație
+specifică, autoritatea contractantă avea obligația de a aplica cu prioritate
+aceste prevederi legale, în speță Anexa 1 a Ordinului ANRSC nr.
+77/2007, care reprezintă Norma metodologică de stabilire, ajustare sau
+modificare a valorii activităților serviciului de iluminat public, motiv
+pentru care va admite cererea contestatoarei și va obliga MUNICIPIUL ...
+la stabilirea modului de ajustare a prețului contractului cu respectarea
+ordinului și publicarea în SEAP a modificărilor intervenite.
+7. Modificarea documentației de atribuire în sensul menționării
+dreptului concesionarului la penalități de întârzire în cotă procentuală de
+0,02% pe zi de întârziere, din valoarea facturilor confirmate de
+concedent și neachitate, inclusiv pentru serviciile de întreținere
+menținere și pentru iluminatul festiv.
+Autoritatea contractantă comunică prin punctul de vedere care sunt
+modificările pe care le va face în conținutul contractului, și anume:
+„Contractul se modifică, astfel:
+«17.1.1. În cazul în care din vina sa exclusivă, concesionarul nu
+reușește să-și îndeplinească obligațiile asumate prin contrcat în privința
+prestațiilor/lucrărilor, atunci concedentul este îndreptățit de a percepe ca
+penalități, o sumă echivalentă cu 0,02% pe zi de întârziere din valoarea
+lucrărilor (de întreținere, menținere, iluminat festiv și investiții)
+neexecutate, fără TVA, conform termenelor de execuție calculată pentru
+fiecare zi întârziere, începând cu ziua următoare termenului la care
+acestea trebuiau finalizate și până la data finalizării acestora inclusiv.
+Art. 17.1.2. Concesionarul este îndreptățit să perceapă
+concedentului penalități în sumă echivalentă cu o cotă procentuală de
+0,02% pe zi întârziere din valoarea facturilor confirmate de Concedent și
+neachitate la scadența stabilită în Contract din culpa Concedentului,
+pentru fiecare zi de întârziere»”.
+Având în vedere măsura de remediere luată de autoritatea
+contractantă în sensul solicitat de contestatoare, Consiliul va admite
+cererea și va obliga MUNICIPIUL ... la publicarea în SEAP a modificărilor
+intervenite.
+8. Modificarea documentației de atribuire, inclusiv a art. 16.1 din
+contract, în sensul că plata pentru lucrările de investiții (modernizare și
+extindere) să se realizeze în conformitate cu art. 6 din Legea nr.
+72/2013, respectiv în 30 zile de la primirea facturii emise pe situații de
+lucrări sau în termen de 30 de zile de la recepția lucrărilor (inclusiv de la
+recepția parțială).
+Pagina 41 din 52
+
+Pentru soluționarea cererii contestatoarei, Consiliul are în vedere
+modul în care au fost stabilite prevederile contractuale în Capitolul 16 –
+Modalități de plată din contract, respectiv:
+„Art. 16.1. (1) Perioada de rambursare a valorii lucrărilor de
+investiții va fi egală cu durata contractului, cu începere din a doua lună
+după recepția la terminarea lucrărilor, în conformitate cu Anexa «Graficul
+de rambursare a lucrărilor de modernizare» din oferta financiară,
+reprezentând contravaloarea costurilor aferente rambursării lucrărilor de
+modernizare/investiții.
+Plățile se vor efectua lunar, în rate egale, începând cu a doua lună
+după recepția la terminarea lucrărilor, în lei.
+Art.16.2 (1) Contravaloarea lucrărilor de întreținere-menținere,
+respectiv iluminat festiv, se va plăti lunar în baza situațiilor de lucrări
+acceptate de beneficiar, în termen de 30 de zile de la primirea facturilor
+de către Concedent.
+(2) Concesionarul va prezenta Concedentul facturile până la data
+de 10 a fiecărei luni, distinct pentru fiecare activitate în parte, respectiv
+lucrări de investiții, lucrări de întreținere, pe bază de documente
+justificative, acceptate de către Concedent.
+Art.16.3. Concesionarul se va supune legislației fiscale și contabile
+aplicabile, acesta având obligația de a-și plăti impozitele, taxele și
+cheltuielile care-i revin pentru activitatea desfășurată, către bugetul local
+și de stat”.
+Așa cum susține și autoritatea contractantă prin punctul de vedere
+modalitățile de plată sunt diferite, prin urmare, și reglementate diferit
+prin contract, și anume lucrările de investiții, pe de o parte, a căror
+contravaloare urmează a fi restituită etapizat în termenul de 10 ani de
+derulare a contractului, iar pe de altă parte, lucrările de întreținere-
+menținere și iluminat festiv pentru care vor fi efectuate plăți lunare, în
+termen de 30 de zile de la primirea facturilor de către concedent, așa
+cum stabilesc și prevederile art. 6 alin. (1) din Legea nr. 72/2013,
+invocate de contestatoare, aspect criticat care se dovedește nefondat.
+9. Contestatoare solicită, de asemenea, ca în situația în care se
+consideră că trebuie să suporte costul investițiilor și recuperarea
+acestora în rate egale, urmând a fi recuperate până la finalizarea
+contractului, modificarea documetației de atribuire în sensul obligării
+autorității contractante la suportarea dobânzilor penalizatoare și a
+cheltuielilor financiare ocazionate operator, în conformitate cu art. 7 alin.
+(2) coroborat cu art. 5 alin. (2) din Legea nr. 72/2013.
+Potrivit art. 5 alin. (2) din Legea nr. 72/2013 „(2) Părțile pot
+conveni efectuarea plății în mod eșalonat, în acest caz, dobânzile
+penalizatoare și celelalte despăgubiri prevăzute de prezenta lege se
+calculează prin raportare la suma scadentă”, însă în prezenta procedură
+de atribuire situația la care face trimitere contestatoarea vizează
+rambursarea valorii lucrărilor de investiții, neexistând o sumă scadentă și
+nu situația în care părțile au covenit la plata prețului contractului
+eșalonat.
+42
+
+Prin urmare, în prezenta speță situația analizată este diferită,
+situație în care pentru plata contravalorii investițiilor etapizat în rate
+egale calculate anual, nu pot fi percepute penalități de întârziere în
+sensul enunțat de către contestatoare, plata urmând a se face în 30 de
+zile de la recepția lucrărilor, în caz contrar ar însemna ca operatorul să
+aibă dreptul de a percepe dobânzi asupra unor sume nescadente situație
+nereglementată în drept.
+Invocarea unor cheltuieli ocazionate de investiție, cheltuieli
+ocazionate de împrumut contractant pentru susținerea investiției nu
+reprezintă un motiv întemeiat pentru a obliga autoritatea contractantă la
+suportarea acestora. 
+În raport de cele reținute, în temeiul art. 26 alin. (2) și (5) din
+Legea nr. 101/2016, Consiliul va admite, în parte, contestația formulată
+de ...SA, și va obliga autoritatea contractantă MUNICIPIUL ... ca, în
+termen de 20 zile de la primirea deciziei Consiliului, să remedieze
+documentația de atribuire, corespunzător criticilor admise, cu
+respectarea celor evocate în motivare, să aducă completările/modificările
+astfel efectuate la cunoștința operatorilor economici interesați de
+participarea la această procedură.
+Pentru considerentele expuse în motivare, Consiliul va respinge
+restul criticilor contestatoarei ...SA.
+1. Procedând la soluționarea contestației formulată de ...SRL
+(Dosar nr. 1586/2024), Consiliul constată că o primă solicitare a
+contestației se referă la eliminarea clauzei abuzive prin care se impune
+un termen de plată de 10 ani pentru contravaloarea costurilor aferente
+rambursării lucrărilor de modernizare/investiții, respectiv modificarea
+cerinței, în sensul că toate plățile pentru toate categoriile de lucrări să se
+efectueze lunar, în termen de 30 zile de la primirea facturii, făcând
+timitere la Capitolul 16 – Modalități de plată din modelul de contract.
+În susținerea solicitării contestatoarea arată că Legea nr. 72/2013,
+interzice imperativ, calificând drept abuzivă și sancționând cu nulitatea,
+clauza contractuală prin care se fixează, în contractele dintre
+profesioniști și autorități contractante, un termen de plată mai mare
+decât cel de 30 respectiv 60 de zile, calculat, în conformitatea cu
+dispozițiile art. 7 alin. (10 și art. 6 alin. (1) din Lege de la data primirii
+facturii sau de la data recepției lucrărilor, serviciilor și verificării bunurilor,
+după caz, precizând că potrivit art. 6 din lege, termenul legal de plată
+este de 30 zile de la data primirii facturii, fiind considerată abuzivă
+clauza care fixează în contractele dintre profesioniști și autoritățile
+contractante un termen de plată mai mare decât cel prevăzut la art. 7
+alin. (1), respectiv de maximum 60 zile calendaristice.
+Consiliul are în vedere că aceeași critică a fost formulată și de
+contestatoarea ...SA, la punctul 8 din contestație, motiv pentru care ca
+reține în soluționare aceleași considerente și va respinge solicitarea ca
+nefondată.
+2. Contestatoarea solicită eliminarea cerinței restrictive prin care se
+solicită descrierea/prezentarea aranjamentelor contractuale și solicită
+permiterea prezentării unor Declarații/Angajamente de disponibilitatea,
+Pagina 43 din 52
+
+atât pentru resursele proprii, cât și pentru cele prezentate prin
+externalizare.
+În opinia contestatoarei, cerința prin care se solicită descrierea
+angajamentelor contractuale este restrictivă, îngreunând accesul la
+prezenta procedură, cu motivarea că, de interes pentru achizitoare este
+că ofertanții să dovedească accesul la personalul nominalizat, ci nu
+documentul prin care se probează accesul.
+Consiliul reține că prevederea criticată are următorul conținut:
+„Pentru experții menționați mai sus (experți serviciile de
+proiectare) ce desfășoară activități în conformitate cu un act normativ
+ofertantul va descrie în propunerea tehnică momentul în care vor
+interveni acești experți în implementarea viitorului contract, precum și
+modul în care operatorul economic ofertant și-a asigurat accesul la
+serviciile acestora (fie prin resurse proprii, caz în care vor fi prezentate
+persoanele în cauză, fie prin externalizare, situație în care se vor descrie
+aranjamentele contractuale realizate în vederea obținerii serviciilor
+respective”.
+Cerința a cărei modificare este solicitată de contestatoarea are
+menirea de a asigura autoritatea contractantă cu privire la modul în care
+ofertanții au capacitatea de a asigura din resurse proprii sau externe
+experți, descrierea solicitată de către autoritatea contractantă reprezintă
+o pârghie suplimentară de a verifica modalitatea concretă de îndeplinire
+a obiectului contractului, motiv pentru care cerința va fi menținută.
+Mai mult decât atât simpla solicitare de modificare a unei cerințe
+apreciată restrictivă fără a dovedi, în mod concret, care este
+împrejurarea care determină imposibilitatea sau restricționarea
+participării la procedura de atribuire, de vreme ce oricum ofertantul este
+obligat să facă dovada resurselor proprii sau externe la care va fi obigat
+să prezinte și o descriere a modului în care va asigura aceste resurse, or,
+o astfel de descriere nu poate fi considerată a avea caracter restrictiv.
+De asemenea, contestatoarea nu a demonstrat care este
+vătămarea care i se aduce prin solicitarea de a descrie modul de
+asigurare a acestor resurse, resurse pe care are oricum obligația de a le
+prezenta, fie că sunt resurse proprii fie externe.
+3. Cu privire la aparatul de iluminat indicat în Fișa tehnică nr. 2,
+contestatoarea solicită eliminarea cerințelor restrictive privind forma
+tronconică și dimensiunile impuse și acceptare unor elemente similare.
+În susținerea cererii sale, contestatoarea arată că deși este
+prevăzută o toleranță de +/-10 mm, aceasta are rol simbolic, scopul fiind
+acela de a restrânge artificial concurența, iar în privința formei exterioare
+și a dimensiunilor, în lipsa unei justificări de natură tehnică, funcțională
+sau ambientală (reguli de urbanism), nu se poate exclude propunerea
+unor elemente similare.
+Analizând susținerile contestatoarei cât și justificarea stabilirii unor
+astfel de cerințe, Consiliul reține relevante dispozițiile art. 20 alin. (10)
+din HG nr. 395/2016 potrivit cărora „Caietul de sarcini conține, în
+mod obligatoriu, specificații tehnice care reprezintă cerințe, prescripții,
+caracteristici de natură tehnică ce permit fiecărui produs, serviciu sau
+44
+
+lucrare să fie descris, în mod obiectiv, astfel încât să corespundă
+necesității autorității contractante”. 
+Or, Consiliul constată că prin justificarea prezentată în punctul de
+vedere depus la dosarul cauzei autoritatea contractantă aduce
+argumente pertinente de menținere a cerințelor, așa cum au fost
+prezentate în Fișa tehnică nr. 2.
+Consiliul reține în soluționare faptul că a fost prezentată inclusiv o
+imagine a aparatelor de iluminat ce urmează a fi înlocuite cu cele a căror
+specificații tehnice se regăseasc în Fișa tehnică nr. 2, imagine în care
+corpurile de iluminat au forma tronconică, iar potrivit justificării:
+„Aparatele de iluminat solicitate în fișa tehnică nr. 2, sunt
+prevăzute pentru înlocuire aparate de iluminat montate în zona
+Cetății .... Forma și dimensinile acestora din urmă au fost stabilte pe
+baza unui proiect de arhitectură pentru zone de monumente clasa A. În
+acset sens, înlocuirea trebuie să pastreze forma de bază aleasă la
+momentul proiectării de către specialiștii în monumente. Pentru a oferi
+posibilitatea unei largi participări la procedură, se acceptă dimensiuni cu
+toleranța de 20%: Diametru 500mm-/+20% și Înălțime 750mm-/+20%.
+Suplimentar, pentru a părtra forma proiectată de specialiști, raportul
+dintre diametru și înălțime va fi cuprins în intervalul 0.65-0.85.
+Aparatul de iluminat ofertat va păstra forma de bază a aparatelor
+existente. Și nu vor fi echipate cu pălării sau zone evazate (...)”.
+Prin urmare, Consiliul constată că cerințele stabilite de către
+autoritatea contractantă în Fișa tehnică nr. 2 nu au caracter restrictiv,
+întrucât aparatele de iluminat a căror parametri tehnici și funcționali sunt
+prezentați în Fișa tehnică nr. 2 urmează să înlocuiască aparatele de
+iluminat existente și nu se dorește schimbarea formei și dimensiunilor
+acestora având în vedere că acestea vor fi montate în zona Cetății ...,
+fiind forma aleasă la momentul proiectării de către specialiștii în
+monumente.
+Relevant în a stabili caracterul nerestrictiv al cerinței criticate îl
+constituie faptul că pentru aparatele de iluminat stradal, așa cum invocă
+și contestatoarea în susținerea cererii sale, autoritatea contractantă nu a
+stabilit cerințe privind forma având în vedere că este lipsită de relevanță
+forma acestora în restul localității, forma tronconică și dimensiunile
+stabilite este necesar a fi respectată în zona istorică pentru a păstra din
+punct de vedere ambiental.
+Astfel, față de cele de mai sus, Consiliul va respinge ca nefondată
+solicitarea contestatoarei.
+4. În ceea ce privește Sistemul de telegestiune au fost impuse
+sistemele de comunicație GSM și RF, cerință a cărei eliminare o solicită
+inițial, contestatoarea invocând în susținerea cererii sale caracterul
+restrictiv a acesteia, respectiv impunerea unui tip de transmisie motiv
+pentru care, ulterior, apreciază că se impune completarea cerinței cu
+acceptarea și a altor tehnologii care să asigure nevoile autorității
+contractante.
+În justificarea cerererii sale contestatoarea arată că autoritatea
+contractantă trebuie să accpte tehnologii de comunicație care să
+Pagina 45 din 52
+
+cuprindă concentratoare de date, respectiv permiterea folosirii pentru
+transmiterea de date a rețelelor GSM sau similar, cu menținerea
+solicitărilor de a nu fi instalate elemente terțe altele decât aparatele de
+iluminat și respectarea tututor condițiilor referitoare la funcționalitate și
+securitate din cadrul fișelor tehnice.
+Consiliul reține în soluționare că prevederile documentației de
+atribuire reflectă necesitatea obiectivă a autorității contractante iar de
+vreme ce contestatoarea nu a arătat, în mod concret, care este
+caracterul restrictiv cât și vătămarea sa prin stabilirea cerințelor a căror
+eliminare sau completare o solicită, ba mai mult afirmă că „multitudinea
+tipurilor de comunicație de pe piața actuală oferă libertarea necesară
+atât producătorilor și beneficiarilor pentru crearea și alegerea
+sistemelor”, cerințele documentației de atribuire se dovedesc a fi
+stabilite cu respectarea prevederilor legale.
+Prin punctul de vedere transmis la dosarul cauzei, autoritatea
+contractantă justifică impunerea cerințelor criticate prin faptul că
+proiectantul a evaluat soluțiile existente pe piață și a optat pentru
+această soluție, aspect care vine să confime, în fapt, chiar susținerile
+contestatoarei, autoritatea contractantă neputând fi obligată să accepte
+orice soluție existentă pe piață, în condițiile în care justifică pertinent
+motivul alegerii cerințelor în litigiu.
+Consiliul va reține ca pertinentă justificarea potrivit căreia „soluția
+stabilită presupune implementarea unui sistem simplu de implementat și
+utilizat, folosind rețele GSM existente, în contradicție cu soluțiile prin
+cablu, comunicații pe internet ce presupune instalarea de turnuri de
+transmisie dedicate și crearea unei rețele paralele de transmisie, care în
+final va necesita existența rețelei GSM pentru transmiterea datelor către
+aplicația de telegestiune”.
+În ceea ce privește costurile suplimentare cu încheierea unui
+contract cu un operator de telefonie mobilă pentru asigurarea unui
+abonament de date pentru 600 cartele SIM invocate de contestatoare,
+Consiliul constată că aceste susțineri sunt nefondate fiind simple
+speculații ale contestatoarei de vreme ce astfel de informații nu se
+regăsesc în documentația de atribuire.
+Din parcurgerea cerințelor de la punctele 1.12-1.16 aferent
+Sistemului de telegestiune, Consiliul constată că este necesară
+comunicarea directă între module și asigurarea unei bune funcționări a
+sistemului chiar și în cazul lipsei semnalului pe o anumită rețea. De
+altfel, cerințele stabilite pentru Sistemul de telegestiune sunt complete,
+compacte, clare, astfel încât să conducă la funcționarea în condiții optime
+a sistemului și să servească necesității obiective a autorității
+contractante.
+Consiliul reține că justificarea solicitării sale de eliminare și
+modificare a cerinței se bazează pe faptul că există și alte tehnologii pe
+care autoritatea contractantă trebuie să le accepte cât și existența unor
+costuri suplimentare, justificări care nu sunt de natură a înlătura
+necesitate autorității contractante de a stabilit o anumită configurație a
+Sistemului de telegestiune, incapacitatea unor operatori economici de a
+46
+
+oferta soluția tehnică stabilită prin documentația de atribuire nu
+constituie o restrângere a competiției ci procedura se adresează doar a
+celor operatori economici care pot oferta soluția de care are nevoie
+autoritatea contractantă.
+Consiliul constată că ...SRL face aprecieri cu privire la configurația
+aleasă de autoritatea contractantă pentru Sistemul de telegestiune
+opinând că există tehnologii mai eficiente arătând că, spre exemplu,
+tehnologia PLC beneficiază de infrastructura de cablare electrică
+existentă, permițând transmiterea datelor și controlul prin intermediul
+rețelei de curent electric.
+Or, documentația de atribuire este elaborată conform nevoilor
+autorității contractante stabilite prin proiect adaptat situației concrete
+specifică autorității contractante și nu pe aprecieri venite din partea
+operatorilor economici din domeniu al căror interes este pur comercial.
+Având în vedere cele de mai sus, Consiliul constată că nu se
+impune nici eliminarea și nici modificarea specificațiilor tehnice ale
+Sistemului de telegestiune.
+5. Prin contestația formulată ...SRL eliminarea cerinței 3.16 din Fișa
+tehnică nr. 4, sau acceptarea unor sisteme de telegestiune care au în
+componență și controler zonal, nu numai controler local pentru aparatele
+de iluminat.
+În susținerea cererii contestatoarea arată că în cadrul ceinței de la
+punctul 1.13 se precizează că nu se acceptă elemente de transmisie date
+așa cum este controlerul zonal al cărui rol este tocmai de a transmite
+date între controrele locale și serverul central cu toate că, ignorând
+această prevedere, solicită ca sistemul de telegestiune să permită
+integrarea cu astfel de echipamente chiar dacă acestea nu sunt solicitate
+prin documentație conform cerinței 3.16.
+Pentru soluționarea cererii Consiliul are în vedere că potrivit Fișei
+tehnice nr. 4, autoritatea contractantă a stabilit următoarele:
+-1.13 „Pentru comunicarea între aparatele de iluminat și serverul
+cloud, nu se vor folosi elemente de transmisie suplimentare altele decât
+modulele de control. Nu vor fi instalate suplimentar, controlere de
+segment sau alte elemente de transmisie”;
+-3.16 „Platforma de telegestiune trebuia să permită integrarea
+componentelor hardware de la minim 3 producători diferiți (controler
+local, controler zonal, senzor,etc) integrarea se va face folosind API sau
+TALQ. 
+Se va face dovada îndeplinirii cerinței printr-o captură de ecran din
+platforma ofertată”.
+Consiliul constată că în ceea ce privește cerința de la punctul 3.16
+din Fiha tehnică nr.4, autoritatea contractantă a comunicat prin punctul
+de vedere care este conținutul corect al acesteia, respectiv „Platforma de
+telegestiune trebuie să permită integrarea componentelor hardware
+(module de telegestiune instalate pe aparat) de la minim 3 producători.
+Integrarea se va face folosind API sau TALQ. Se va face dovada
+îndeplinirii cerinței print-o captură de ecran din aplicația ofertată. Se vor
+menționa producătorii folosiți”.
+Pagina 47 din 52
+
+În analiza solicitării Consiliul are în vedere ca pertinente susținerile
+autorității contractante din punctul de vedere când afirmă că nu își
+dorește să achiziționeze o aplicație de telegestiune care să o țină captivă
+față de un anumit producător ci oferă posibilitatea mai multor
+producători să oferteze în aplicația compatibilă, achiziționată.
+Prin urmare, având în vedere că din textul nou al cerinței rezultă că
+a fost eliminată „ambiguitatea” legată de cele două cerințe 1.13 și 3.16
+și a fost eliminată prevederea legată de controler local și controler zonal,
+cererea contestatoarei a fost accepată de autoritatea contractantă,
+aceasta din urmă având obligația să publice în SEAP modificarea
+intervenită.
+6. De asemenea, contestatoarea solicită eliminarea din Fișa tehnică
+nr. 5 cerința privind gradul de protecție IP68 și acceptarea unui grad de
+protecție IP66 (așa cum se indică în Fișa tehnică nr. 1) cât și eliminarea
+cerințelor restrictive în ceea ce privește temperatura de funcționare (cu
+motivarea că în Fișa tehnică nr. 1 nu se regăsește o astfel de cerință), iar
+în subsidiar, solicită diminuarea limitelor maxime la intervalul: +35 ºC...
++45ºC.
+Consiliul constată că prin punctul de vedere autoritaea contractantă
+a fost de acord cu luarea unei măsuri de remediere în sensul modificării
+gradului de protecție din IP68 în IP66, astfel cerința de la punctul 1.8 din
+Fișa tehnică nr. 5 devine „Grad de protecție: IP66”, modificare pe care
+MUNICIPIUL ... o va pubica în SEAP.
+În ceea ce privește modificarea intervalului de temperatură
+prevăzut în Fișa tehnică 5 la punctul 1.10 „Temperatura de funcționare:
+-40...+70ºC” în limitele intervalului -35ºC ... +45 ºC, Consiliul constată
+că autoritatea contractantă nu a justificat în niciun mod limita minimă de
+-40ºC iar în ceea ce privește limita maximă de +70ºC justificare potrivit
+căreia temperatura din spatele panourilor fotovoltaice poate crește
+semnificativ ajungând să fie mai mare cu 20-25ºC nu este dovedită, pe
+de o parte, iar pe de altă parte, raportat la o temperatură maximă de
+40ºC cele 20-25ºC nu ajung la temperatura maximă prevăzută la 70ºC.
+Pe de altă parte, nici contestatoarea nu a justificat cum limita
+maximă de temperatura de 45ºC ar fi suficientă în condițiile în care
+temperaturile în perioada caldă a anului ajung la 41ºC-44ºC, așa cum
+este cazul în prezent pe teritoriul țării.
+Prin urmare, autoritatea contractantă avea obligația de a justifica și
+eventual dovedi necesitatea impunerii intervalului -40...+70ºC, iar în
+lipsa unui argument științific a unor dovezi în susținerea acestuia sau a
+opiniei unui expert cu studii de specialitate autoritatea contractantă
+urmează a stabili un nou interval de temperatură de funcționare,
+modificare pe care este obligată să o publice în SEAP pentru a fi
+cunoscută de potențialii ofertanți.
+Astfel, față de cele de mai sus Consiliul va admite, în parte,
+solicitarea cu privire la modificarea temperaturii de funcționare în sensul
+stabilirii de către autoritatea contractantă a unui nou interval de
+temperatură.
+48
+
+7. Referitor la solicitarea contestatoarei de eliminare a cerinței
+privind prezentarea a 2 experți specialiști în iluminat, certificat CAPI total
+sau exterior, emis de CNRI, Consiliul constată că ...SRL invocă caracterul
+restrictiv al cerinței având în vedere că pentru o astfel de autorizare este
+necesară achitarea unor taxe suplimentare, apreciind totodată că este
+suficientă prezentarea unui certificat de absolvire conform COR 214237.
+Consiliul constată că autoritatea contractantă, neîntemeiat,
+apreciază că nu este necesară luarea unei măsuri de remediere având în
+vedere că, în opinia sa, situația este similară cu atestarea ANRE pentru
+care este necesară, de asemenea, achitarea unei taxe.
+Deși, autoritatea contractantă face trimitere la asemănarea dintre
+cele două cerințe, în cazul cerinței ce face obiectul următoarei critici de la
+punctul 8, în cazul căreia a eliminat textul „sau echivalent și certificat
+CAPI total sau exterior, emis de CNRI”, nu elimină și din cadrul cerinței
+criticate mențiunea pentru specialiștii în proiectare „certificat CAPI total
+sau exterior, emis de CNRI”.
+Constatând că impunerea unor certificări suplimentare pentru care
+este necesar un efort financiar din partea ofertantului reprezintă o
+împiedicare a concurenței a operatorilor economici care nu dispun de
+specialiști care să dețină astfel de certificări, Consiliul va admite cerere si
+va dispune eliminarea din textul cerinței „Specialist în iluminat certificat
+CAPI total sau exterior, emis de CNRI”, a mențiunii „certificat CAPI total
+sau exterior, emis de CNRI”, modificare pe care o va aduce la cunoștința
+operatorilor economici interesați prin publicarea în SEAP.
+8. Contestatoarea solicită eliminarea cerinței restrictive privind
+prezentarea celor 8 experți – electrician autorizat ANRE, minim gradul II
+B sau echivalent și certificat CAPI, solicitare care a fost acceptată de
+autoritatea contractantă având în vedere că prin punctul de vedere
+depus la dosarul cauzei arată că:
+„Se modifică cerința după cum urmează:
+Electrician autorizat – Autorizat ANRE – minim gradul IIB – 8
+experți”.
+Văzând cele anterior expuse, Consiliul va admite cererea
+contestatoarei și va dispune obligarea autorității contractate la publicarea
+în SEAP a modificărilor intervenite.
+9. Consiliul constată că prin contestație sunt solicitate modificări și
+cu privire la cerințele referitoare la dispecerat, respectiv:
+- modificarea cerinței în sensul ca la momentul depunerii ofertelor
+îndeplinirea cerinței să se facă, exclusiv, prin prezentarea unei declarații
+pe propria răspundere, iar în subsidiar
+- consideră restrictivă cerința privind experiența solicitată în
+operarea sistemelor de iluminat echipate cu telegestiune pentru 4
+persoane cu o experiență de minim 3 ani.
+Cerința a cărei modificare o solicită contestatoarea se regăsește în
+caietul de sarcini stabilită astfel:
+„5.1.1.3. Operarea sistemului de iluminat public prin
+intermediu unui dispecerat.
+Pagina 49 din 52
+
+Ofertantul are obligația de a deține un dispecerat funcțional pentru
+serviciul de iluminat public cu rol de preluarea reclamațiilor și operarea
+sistemului de iluminat în regim de continuitate. Dispeceratul poate fi
+amplasat în aceeași locație cu punctul de lucru sau în locații diferite.
+Cerințe minimale ale dispeceratului:
+Operare cu personal specializat, cu experiență în operarea
+sistemelor de iluminat echipate cu telegestiune – minim 4 persoane,
+experiența minimă 3 ani – se va prezenta CV și contracte de muncă cu
+informații relevante ce pot fi verificate de către autoritatea
+contractantă”.
+În susținerea cererii sale contestatoarea se limitează la a invoca
+caracterul restrictiv al cerințelor fără a aduce argumente în susținerea
+celor afirmate, ci doar indică prevederile art, 35 alin. (2) lit. j) din
+Normele metodologice de aplicare a prevederilor referitoare la atribuirea
+contrcatelor de concesiune de lucrări și concesiune de servicii din Legea
+nr. 100/2016 privind concesiunile de lucrări și concesiunile de servicii,
+parte integrantă din HG nr. 867/2016.
+În soluționarea prevederilor criticate Consiliul reține că prin punctul
+de vedere autoritatea contractantă justifică, în mod pertinent, stabilirea
+și menținerea acestora, arătând că simpla declarație nu dovedește
+deținerea unui dispecerat funcțional, iar ofertanții trebuie să facă dovada
+unei experinețe similare din care rezultă că au operat și în alte localități
+cu un număr similar de aparare, situație în care ofertanții trebuie să aibă
+un dispecerat funcțional care să asigure dotări materiale și umane care
+să asigure preluarea reclamațiilor și operarea sistemului de iluminat în
+regim de continuitate.
+Așa cum s-a reținut și anterior contestatoarea nu justifică
+caracterul restrictiv al cerinței privind obligativitatea deținerii de către
+ofertant a unui dispecerat și nu face dovada vreunei vătămări prin
+stabilierea unei astfel de cerințe.
+În mod similar este situația și în cazul cerinței care stabilește
+deținerea a minim 4 persoane cu experiență de minim 3 ani, în sensul că
+nu justifică în vreun fel și nu dovedește caracterul restrictiv al cerinței și
+cu atât mai mult al vătămării sale prin stabilirea unei astfel de cerințe,
+justificată de altfel de natura și complexitatea contractului cât și
+întinderea acestuia pe o perioadă importantă de timp, având în vedere
+că suntem în prezența unei concesionări a serviciului public de iluminat
+public în Municipiul .... 
+În raport de cele reținute, în temeiul art. 26 alin. (2) și (5) din
+Legea nr. 101/2016, Consiliul va admite, în parte, contestația formulată
+de ...SRL și va obliga autoritatea contractantă MUNICIPIUL ... ca, în
+termen de 10 zile de la primirea deciziei Consiliului, să remedieze
+documentația de atribuire, corespunzător criticilor admise, cu
+respectarea celor evocate în motivare, să aducă completările/modificările
+astfel efectuate la cunoștința operatorilor economici interesați de
+participarea la această procedură și să stabilească o nouă dată limită
+pentru primirea ofertelor.
+50
+
+Pentru considerentele expuse în motivare, Consiliul va respinge
+restul criticilor contestatoarei ...SRL.
+Cu privire la cererea ...SRL de suportare a cheltuielilor prilejuite de
+formularea și susținerea contestației (onorariul avocațial), ea este
+supusă dispozițiilor art. 26 alin. (9) din lege – Consiliul poate obliga, la
+cerere, partea în culpă, la plata cheltuielilor efectuate pentru
+soluționarea contestației. 
+Cuantumul, detalierea și documentele doveditoare ale cheltuielilor
+efectuate sunt prezentate în cerere, care trebuie depusă înainte de
+pronunțarea deciziei de soluționare a contestației. –, precum și celor
+aplicabile în mod corespunzător din Codul de procedură civilă. 
+Probatoriul cauzei a relevat că organizatoarea procedurii
+MUNICIPIUL ..., s-a aflat în culpă procesuală, motiv pentru care
+contestatoarea a inițiat atacarea prevederilor documentației de atribuire
+pe cale administrativ-jurisdicțională. Existând o culpă procesuală din
+partea ei, se impune ca autoritatea contractantă să suporte cheltuielile
+efectuate de contestatoare.
+În consecință, date fiind cheltuielile avansate de contestatoare în
+soluționarea contestației, Consiliul consideră întemeiată și va admite
+solicitarea de obligare a autorității contractante aflate în culpă la plata
+celor efectuate de aceasta în cursul soluționării contestației. Cheltuielile
+solicitate sunt în sumă de 6.545 lei și reprezintă onorariul avocațial
+pentru Cabinet de Avocat „Staicu M. Daniela”, facturat cu factura nr.
+SD0095 din data de 04.06.2024, achitat de societatea contestatoare prin
+tranzacție interbancară la 06.06.2024 (din cont UniCredit Bank), potrivit
+actelor depuse în copie la dosarul cauzei.
+Pornind de la dispozițiile art. 26 alin. (9) precitate, coroborate cu
+cele ale art. 453 alin. (2) – când cererea a fost admisă numai în parte,
+judecătorii vor stabili măsura în care fiecare dintre părți poate fi obligată
+la plata cheltuielilor de judecată – și ale art. 451 alin. (2) C. proc. civ. –
+instanța poate, chiar și din oficiu, să reducă motivat partea din
+cheltuielile de judecată reprezentând onorariul avocaților, atunci când
+acesta este vădit disproporționat în raport cu valoarea sau complexitatea
+cauzei ori cu activitatea desfășurată de avocat, ținând seama și de
+circumstanțele cauzei –, văzând că demersul contestatorei a fost admis
+în parte, mai precis unele critici și capete de cerere s-au dovedit a fi
+nefondate, Consiliul urmează a reduce cuantumul sumei pretinse cu titlu
+de cheltuieli de soluționare la 5.000 de lei, față de care autoritatea
+contractantă va fi obligată la plata către contestatoare.
+Prezenta decizie este obligatorie pentru părțile cauzei, în
+conformitate cu dispozițiile art. 28 alin. (1) din Legea nr. 101/2016.
+Pentru aceste motive,
+în baza legii și a mijloacelor de probă aflate la dosar,
+CONSILIUL DECIDE:
+Pagina 51 din 52
+
+Admite, în parte, contestațiile formulate de ...SA și ...SRL, în
+contradictoriu cu MUNICIPIUL ..., în calitate de entitate contractantă.
+Obligă autoritatea contractantă MUNICIPIUL ... ca, în termen de 20
+zile de la primirea deciziei Consiliului, să remedieze documentația de
+atribuire, corespunzător criticilor admise, cu respectarea celor evocate în
+motivare, să aducă completările/modificările astfel efectuate la
+cunoștința operatorilor economici interesați de participarea la această
+procedură și să stabilească o nouă dată limită pentru primirea ofertelor.
+Respinge restul criticilor formulate de contestatoarele ...SA și
+...SRL, pentru considerentele din motivarea deciziei.
+Admite capătul de cerere formulat de ...SRL cu privire la obligarea
+autorității contractante la plata cheltuielilor de judecată și obligă
+MINICIPIUL ... la plata către contestatoare a sumei de 5.000 lei.
+Prezenta decizie este obligatorie pentru părțile cauzei, în
+conformitate cu dispozițiile art. 28 alin. (1) din Legea nr. 101/2016.
+Împotriva prezentei decizii se poate formula plângere în termen de
+10 zile de la comunicare.
+ PREȘEDINTE, MEMBRU,MEMBRU,
+.........
+Redactată în 5 exemplare, conține 51 (cincizecișiuna) pagini.
+52

@@ -1,0 +1,602 @@
+Decizie nr. RJ 232g28284/2024 din 14-oct-2024, Curtea de Apel Bucuresti, litigiu privind achizitiile publice (Contencios administrativ si fiscal)
+
+Decizie
+
+din 14 Octombrie 2024 
+
+23228284/2024
+
+Text speță
+
+Societate comercială vs Societate comercială
+
+Cod ECLI ECLI:RO:CABUC:2024:197.######
+
+Dosar nr. ####/2/2024
+
+R O M Â N I A
+
+CURTEA DE APEL BUCUREȘTI
+
+SECTIA A X-A DE C_________ ADMINISTRATIV SI FISCAL SI PENTRU ACHIZITII PUBLICE
+
+DECIZIE Nr. ###/2024
+
+Ședințapublică din data de 14 ######### 2024
+
+Curtea constituită din:
+
+PREȘEDINTE: ########-###### #########
+
+Judecător: ###### ##########
+
+Judecător: ###### ###
+
+Grefier: ##########-####### #####
+
+Pe rol se află soluționarea plângerii formulate de petenta ###### ######### SA împotriva Deciziei CNSC nr.2273/C4/2484 din data de 12.08.2024, în contradictoriu cu intimata ######## ######### ## ### ###### ### SA, având ca obiect litigiu privind achizițiile publice - contestație atribuire.
+
+Dezbaterile au avut loc în cadrul ședinței publice din data de 04.10.2024, fiind consemnate în cuprinsul încheierii de la acea dată, care face parte integrantă din prezenta, când instanța, având nevoie de timp pentru a delibera, a amânat pronunțarea pentru data de 09.10.2024, și pentru astăzi, 14.10.2024, hotărând, în aceeași compunere, următoarele:
+
+CURTEA
+
+Deliberând asupra plângerii din prezenta cauză, constată următoarele:
+
+Prin Decizia nr. ####/C4/2484/12.08.2024 pronuntata de C.N.S.C. în temeiul art. 26 alin. (6) din Legea nr. 101/2016 a fost respinsă ca nefondată, contestația formulată de contestatoarea ###### ######### SA, în contradictoriu cu ######## NAȚIONALĂ DE CĂI FERATE "CFR" - SA.
+
+Prin cererea înregistrată pe rolul Curții de Apel București-Secția a X-a de C_________ ADMINISTRATIV SI FISCAL SI PENTRU ACHIZITII PUBLICE la data de 30.08.2024 sub nr. ####/2/2024, petenta ###### ######### SA a formulat plângere împotriva Deciziei CNSC nr. 2273/C4/2484 din data de 12.08.2024, solicitând admiterea plângerii, cu consecința modificării Deciziei CNSC, a răspunsului la întrebarea nr. 4 din cadrul solicitării de clarificări nr. 44 și a răspunsului la întrebările nr. 1 și 2 din cadrul solicitării de clarificări nr. 53, aduse la cunoștința operatorilor economici interesați prin Adresa de răspuns consolidat nr. 2, înregistrată de către CFR sub nr. 17.A##########.07.2024, doar astfel putându-se asigura legalitatea Procedurii de atribuire, prin eliminarea aspectelor documentației de atribuire neclare și necorelate, care conduc la restrângerea artificială a concurenței, precum și la încălcarea principiilor transparenței și tratamentului egal.
+
+În motivarea plângerii petenta a arătat că răspunsul la solicitările de clarificări nr. 2, în partea care vizează modalitatea de cotare a lucrărilor de modificare a instalației de centralizare electronică din stația #####, partea care vizează garanția aferentă acestora redă informații neclare și contradictorii, impunându-se, așadar, modificarea lui, mai exact:
+
+a) Pe de-o parte, CFR a indicat faptul că valoarea lucrărilor de modificare aferente CE ##### ar fi urmat să fie indusă în sumele provizionate din cadrul Rezervelor de Implementare; această clarificare a fost explicit oferită prin Primul răspuns consolidat, prilej cu care CFR explicit a indicat cap. 9 al Rezervelor de Implementare pentru asemenea cheltuieli. Nicio altă distincție privind sub-categorii ale acestei sume nu a fost indicată în acel răspuns și nici nu rezultă din documentația de atribuire, documentația menționând exclusiv lucrările de modificare;
+
+b) Pe de altă parte, prin Răspunsul consolidat nr. 2 (contestat), se indică faptul că Lucrările aferente CE ##### ar trebui, de fapt, cotate în cadrul subcapitolului 3.1. al Anexei 2 din Formularul 20 (care corespunde Lucrărilor principale), cu mențiunea (contrară celei anterioare) în sensul că ar exista categorii distincte de lucrări (de modificare/de adaptare), iar "entitatea a prevăzut această sumă în cadrul rezervei de implementare în eventualitatea în care va fi necesară adaptarea instalației de centralizare electronică din stația #####".
+
+Răspunsul contestat induce, așadar, impresia că o parte dintre activitățile care compun Lucrările CE ##### ar trebui cotate în cap. 3.2 (ca lucrări principale), iar o alta (corespunzătoare lucrărilor de "adaptare" - nedefinite, însă) ar trebui inclusă/cotată în Rezervele de Implementare, deși nu sunt definite niciunde în documentația de atribuire, cu atât mai puțin distinct, lucrările care constituie "adaptare" (și, deci, trebuie incluse în Rezervele de Implementare) și care sunt restul celor care "se execută" (și care trebuie incluse în 3.2); această situație este de natură a genera semnificative îndoieli privind modalitatea corectă și unitară de ofertare a acestor lucrări (denumite unitar în documentația de atribuire ca fiind "de modificare"). Cu alte cuvinte, suplimentar caracterului contradictoriu față de Primul răspuns consolidat, răspunsurile contestate relevă și informații neclare, apte să conducă la diferite interpretări ale operatorilor economici interesați, ceea ce conduce inclusiv la încălcarea principiilor transparenței și tratamentului egal.
+
+c) Mai mult, Entitatea contractantă nu clarifică nici modalitatea în care va fi acordată garanția acestor lucrări, oferind un răspuns vag, necorelat cu întrebarea concret adresată în acest scop și, totodată, dependent de informații ulterioare, inaccesibile/incerte; mai exact, la întrebarea explicită adresată de către un operator privind garanția lucrărilor de CE, CFR indică faptul că "în funcție de operatorul economic declarat câștigător, soluțiile tehnice elaborate în faza de proiect tehnic Beneficiarul va aviza în mod corespunzător Antreprenorul cu privire la garanția de bună execuție aferentă instalației de centralizare electronică din stația #####".
+
+Cu alte cuvinte, anterior depunerii ofertei, operatorilor economici interesați nu li s-a permis a cunoaște (implicit, nu își pot asuma) nici tipul, nici valoarea garanției lucrărilor în discuție, la această întrebare CFR răspunzând printr-o trimitere la garanția de bună execuție. #### de această dată termenii folosiți nu sunt nici măcar explicați, pe lângă faptul că răspunsul nu pare corelat cu întrebarea; de altfel, "avizat în mod corespunzător" nu are absolut nicio conotație din perspectiva atribuirii contractului și, cu atât mai puțin, din perspectiva întrebării adresate (care avea un scop clar de a permite o corectă dimensionare a obligațiilor care revin, în prezent, ofertantului - viitor/ipotetic Antreprenor).
+
+De asemenea greșit a respins Consiliul contestația Alstom în baza unor simple interpretări speculative a Răspunsului consolidat nr. 2, ignorând, însă, neclaritatea și neconcordanța aspectelor redate de către Entitatea contractantă, care nici măcar nu a răspuns solicitărilor de clarificări efectiv adresate. Mai mult, Consiliul introduce și mai multe noțiuni (neclare) pentru definirea aceleiași (unice) categorii de lucrări, pe care Caietul de sarcini o denumește "lucrări de modificare". Astfel, respingând contestația, Consiliul ignoră:
+
+Cerințele documentației de atribuire din care rezultă explicit faptul că lucrările de centralizare și semnalizare electronică aferente stației #####, definite în Caietul de sarcini, se referă exclusiv la "modificarea CE"; prin urmare, documentația nu vorbește nici despre modernizare, nici despre adaptare, ci doar despre o singură categorie de lucrări, unitară, denumită "modificare", a cărei realizare efectivă, însă, diferă în funcție de tipul de operator care o va asigura.
+
+Inexistența vreunei diferențieri între termeni precum adaptare/modernizare/modificare pe care, anterior, CFR îi utilizase în formularea răspunsului contestat; fiind definită o singură categorie de lucrări (denumită "modificare CE"), ofertanții au solicitat clarificarea modului de ofertarea acestor sume tocmai din perspectiva acțiunilor diferite pe care ar fi trebuit să le întreprindă entitatea care a realizat instalația CE existenta, prin comparație cu o entitate care, nedeținând drepturi de intervenție asupra acesteia, trebuia să realizeze respectivele activități cu implicarea obligatorie a primei entități; astfel a rezultat interesul stabilirii modului de reflectare a sumelor aferente în formularele de propunere financiară, plecând de la faptul (necontestat, de altfel) că diferă semnificativ costurile pe care și le poate asuma fiecare dintre cele două entități, după cum realizarea lucrărilor presupune, în mod obligatoriu, pentru oricine altcineva decât operatorul care a realizat instalația CE necesar a fi modernizată, implicarea acestuia.
+
+Faptul că Entitatea contractantă nu răspunde solicitării de clarificare privind garanția lucrărilor de modificare CE ##### (ci CFR formulează un răspuns privind garanția de bună execuție, adică un aspect diferit). Simplul fapt că este cunoscută perioada garanției necesar a fi acordată lucrărilor nu oferă, însă, niciun fel de indiciu cu privire la tipul de garanție, respectiv dacă aceasta trebuie să includă sau nu și instalația CE preexistentă (întrebarea adresată referindu-se la exact acest aspect), context în care plângerea argumentează netemeinicia și nelegalitatea Deciziei CNSC. Greșite sunt, de altfel, și aprecierile CNSC privind prealabila depunere a ofertelor în Procedura de atribuire vizată de contestație; în realitate, singurii ofertanți participanți sunt tocmai cei din a cărui structura asociativă entitatea care a realizat instalația de CE face parte, doar pentru o asemenea abordare devenind indiferentă modalitatea de cotare, situație care probează prin ea însăși restrângerea nejustificată și nelegală a concurenței. Scopul demersului actual este, așadar, tocmai acela de a semnala o neregulă comisă într-o procedură în care s-a preferat restrângerea concurenței în defavoarea unei clarificări elocvente privind condițiile de întocmire a propunerilor financiare.
+
+Pentru circumstanțierea modalității de cotare a lucrărilor de modificare a instalației de centralizare electronică din stația ##### ("Lucrări CE #####"), a arătat că:
+
+• Statia ##### este o zonă de interes din afara Portului Constanta, în raport de care Entitatea contractantă a stabilit necesitatea executării anumitor lucrări explicit indicate în Caietul de sarcini; obiectivul general al lucrărilor aferente Procedurii de atribuire vizează, în esență, atât îmbunătățirea infrastructurii, construirea instalațiilor de electrificare pe toată lungimea tronsonului, mărirea capacității de tranzit, cât și modernizarea echipamentului existent prin instalațiile de centralizare electronică noi și a celor de telecomunicații.
+
+• Singurele lucrări de instalații de semnalizare si centralizare din statia #####, impuse însă prin Caietul de sarcini, vizează "modificarea CE existent"; așadar, ofertantul desemnat câștigător trebuie să modifice instalația de centralizare electronică existentă, la acest moment, în cadrul stației #####, astfel încât aceasta să fie compatibilă cu noua configurație a dispozitivului de linii de cale ferată.
+
+#### Caietul de sarcini, nici alta parte a documentației de atribuire nu menționează pentru această locație alte tipuri de lucrări de semnalizare, diferite de cele de modificare CE existent, context în care termenii de tipul "adaptare" (cu un sens aparent diferit de "modificare") nu au corespondent în documentație, pentru a putea înțelege, de exemplu, ce reprezintă modificare, și ce adaptare, și de ce aceste două (aparent) diferite categorii de lucrări ar trebui cotate în capitole diferite ale propunerii financiare, mai exact ce activități sunt, concret, incluse într-o categorie și care în alta.
+
+• Pe de altă parte, instalația CE existentă a fost realizată de către un anumit operator economic, respectiv ###### #### Signalling Solutions ("######"); doar această societate deține informațiile/datele și dreptul de proprietate asupra instalației existente, fără de care nu este posibilă îndeplinirea activităților impuse prin cerințele Caietului de sarcini.
+
+• Formularul 10 de Propunere financiară cuprinde Anexa nr. 1 (care include, Tabelul centralizator de preț, prin care este redată defalcarea valorii totale, iar, pe de altă parte, lista principalelor categorii de lucrări) și Anexa nr. 2 (care include categoriile de cheltuieli în raport de care au fost evidențiate rezervele de implementare).
+
+Prin urmare, aceeași categorie de lucrări nu poate fi cotată atât în cadrul Anexei nr. 1, cât si în cadrul Anexei nr. 2, fiind necesară o reglementare unitară, opozabilă participantilor, cu privire la locația și modalitatea de încadrare a acestor costuri; într-un asemenea scenariu, valoarea rezultată din însumarea lor (care reprezintă valoarea ofertată) ar conduce la dublarea acestei categorii.
+
+Sintetizând, din documentația de atribuire rezultă că:
+
+• Activitățile aferente "modificării CE existent" reprezintă singurele Lucrări CE ##### impuse prin Caietul de sarcini (și, implicit, singurele care vor fi executate în baza contractului care va fi încheiat); nicio defalcare concretă a activităților aferente "modificării CE existent" nu se regăsește la nivelul documentației de atribuire.
+
+• Pentru realizarea completă și corespunzătoare a acestora este necesară implicarea unui operator economic independent, ######, dat fiind că acesta deține informațiile și drepturile de proprietate intelectuală asupra sistemului CE existent;
+
+• Valoarea totală ofertată este compusă atât din sumele indicate pentru principalele categorii de lucrări asumate de către ofertant (indicată în cadrul Anexei nr. 1), cât si din sumele aferente rezervelor de implementare (indicate în cadrul Anexei nr. 2 care cuprinde valori și activități prestabilite de către Entitatea contractantă).
+
+Petenta a mai arătat că, în contextul în care efectuarea "modificării CE existent" este dependentă de implicarea singurului operator care deține drepturile de proprietate intelectuală cu privire la instalația CE, s-au solicitat următoarele clarificări la documentația de atribuire:
+
+Includerea unor sume provizionate, prin care să fie cuantificată implicarea ###### în cadrul contractului, doar astfel putându-se asigura o concurență loială și corectă între participant; în acest sens, s-a explicat faptul că numai astfel operatorii economici interesați ar putea cunoaște, în mod transparent și unitar, suma previzionată pentru "modificarea CE existent", precum și necesitatea subcontractării anumitor activități privind instalația CE către acest operator.
+
+Prin răspunsul formulat de către CFR (rămas definitiv prin necontestate), explicit s-a indicat faptul că "valoarea necesară realizării modificării instalației decentralizare electronică din stația ##### a fost inclusă (...) ca și sumă provizionată în cadrul Rezervelor de Implementare".
+
+##### în vedere că documentația de atribuire nu menționează alte tipuri de lucrări de semnalizare și centralizare în stația #####, conform Răspunsului nr. 1 al Entității contractante, rezultă că activitățile de "modificare CE existent (în integralitatea lor) vor reprezenta sume provizionate și vor fi incluse în Anexa nr. 2 la Formularul de Propunere Financiară, astfel urmând a fi fost abordate de către toți participanții.
+
+De asemenea, petenta a precizat că modalitatea în care sumele aferente lucrărilor de semnalizare și centralizare electronică urmează a fi cotate în propunerea financiară, respectiv eliminarea Stației ##### din cadrul subcapitolului 3.1. al Anexei 1 din Formularul 10, dat fiind faptul că toate lucrările aferente sunt, de fapt, cele de modificare, care se confirmase anterior că ar reprezenta sume provizionate. Această măsură era absolut necesară tocmai pentru a nu exista riscul ca sumele în discuție să fie dublate (adică incluse în ambele secțiuni ale propunerii financiare).
+
+Contrar celor anterior clarificate, prin răspunsurile formulate de către CFR la această a doua solicitare de clarificare (contestate în prezenta cauză), s-a indicat faptul că (i) în cadrul Anexei nr. 1 la Formularul 10 de Propunere Financiara (pct. 3.1.) vor fi cotate "lucrările care se execută", iar (ii) suma aferentă "adaptării" instalației de centralizare electronică din stația ##### ar fi fost prevăzută în cadrul rezervei de implementare, în situația în care aceasta va fi necesară atât timp cât "la acest moment procedura este în desfășurare și nu se știe cine va executa în mod clar lucrările aferente" . Răspunsul a indus și mai multe incertitudini, sugerând că, de fapt, în cadrul unicei categorii de lucrări impuse (denumite lucrări de modificare), ar fi, de fapt, incluse două subcategorii distincte, respectiv lucrările "care se execută" și "lucrările de adaptare".
+
+Modalitatea de acordare a garanției aferente lucrărilor CE #####. Mai exact, în contextul în care există deja o instalație CE (deci alte lucrări au fost executate anterior, de către un alt antreprenor), s-a solicitat confirmarea faptului că garanția aferentă Lucrărilor CE ##### este aplicabilă doar lucrărilor ce vor fi executate, iar nu întregii instalații (tocmai pentru un operator economic poate fi ținut responsabil exclusiv pentru activitățile / lucrările asumate și aflate în sarcina sa, nicidecum de lucrările executate anterior de către un alt antreprenor).
+
+Contrar celor solicitate, răspunsul Entității contractante a vizat garanția de bună execuție, precizând că aceasta va fi avizată în funcție de operatorul economic declarat câștigător.
+
+Facil se poate, așadar, constata contradictorialitatea dintre cele două răspunsuri succesive ale CFR, precum și faptul că, prin ultimul răspuns se induce un real echivoc privind modalitatea de cotare/ofertare a activităților aferente modificării instalației CE din stația #####, fiind făcuta referire la activitatea de "adaptare" (care ar reprezenta sumă provizionată), dar și la "lucrările care se execută" (care ar reprezenta lucrări principale), fără ca aceste aparent distincte categorii să fie definite sau să rezulte din vreo altă cerință sau prevedere a documentației.
+
+CFR nu răspunde nici întrebării de clarificare privind modalitatea de acordare a garanției lucrărilor de modificare a CE din stația #####. Răspunsul oferit nu este corelat cu întrebarea adresată și nici nu permite cunoașterea modalității de acordare a garanției Lucrărilor CE #####.
+
+În continuare, petenta a arătat că, în contextul în care documentația de atribuire trebuie să conțină "orice cerință, criteriu, regulă și alte informații necesare pentru a asigura ofertantului/candidatului o informare completă, corectă și explicită cu privire la modul de aplicare a procedurii de atribuire", și, totodată, este interzisă favorizarea sau defavorizarea nejustificată a anumitor operatori economici, Alstom a solicitat modificarea Răspunsului la solicitările de clarificări nr. 2, prin:
+
+• redarea concretă, completă si efectivă a modalității de elaborare a propunerii financiare din perspectiva activității de modificare a instalației CE existente din stația #####, doar astfel putându-se asigura respectarea principiilor transparenței și tratamentului egal, mai exact:
+
+- în principal, atât timp cât, prin primul răspuns la clarificări (rămas definitiv și, implicit, obligatoriu), CFR confirmă faptul că activitățile aferente modificării instalației CE sunt incluse în Rezerve de implementare, se impune eliminarea Stației ##### din cadrul subcapitolului 3.1. al Anexei 1 din Formularul 10 tocmai pentru ca aceste lucrări nu pot fi cotate în două componente distincte ale propunerii financiare și nici abordate în mod diferit de către participanți (în caz contrar, compararea ofertelor fiind absolut ineficientă);
+
+- în subsidiar, în ipoteza în care în Rezervele de implementare nu s-ar fi considerat incluse toate activitățile aferente modificării instalației CE (aspect care ar contrazice, însă, primul răspuns la clarificare), se impune clarificarea următoarelor aspecte: (i) care ar fi în concret activitățile pe care ofertanții trebuie să le coteze în cadrul subcapitolului 2.1. Anexa 1 din Formularul 10; (ii) care ar fi activitățile de "adaptare" a instalației de centralizare electronică, incluse în Rezervele de implementare, în contextul în care această noțiune ("adaptare") nu își găsește corespondentul în cerințele Caietului de sarcini; și (iii) care sunt situațiile efective în care activitățile de adaptare ar fi considerate necesare.
+
+• redarea concretă, completă și efectivă a modalității de acordare a garanției lucrărilor doar în raport de cele care vor fi executate în contractul ce va fi atribuit, iar nu în raport de întreaga instalație CE (adică inclusiv cea existentă), tocmai pentru că un operator economic poate fi ținut responsabil exclusiv de activitățile proprii, așadar poate oferi garanție doar pentru lucrările executate de către el însuși, iar nu și pentru cele executate anterior, de către altcineva.
+
+În lipsa clarificărilor mai sus solicitate, în opinia Alstom, este imposibilă elaborarea unei oferte corecte si predictibile, situația fiind de natură a afecta, în egală măsură, si ofertanți, si Entitatea contractantă. Echivocul cerințelor în forma actuală de impunere nu permite o evaluare corectă și fundamentată, fiind chiar aptă a conduce la anularea Procedurii de atribuire (dacă, ulterior, se vor demonstra discrepanțe între modalitatea de cotare a activităților incorect definite de către diverși participanți). De altfel, prețul ofertei reprezintă unul dintre factorii de evaluare, premisă a unei verificări fundamentate și unitare a ofertelor depuse, inclusiv prin ofertarea uniformă și corectă a activităților aferente "modificării CE existent". Or, o ofertare uniformă devine cvasi-imposibilă în contextul în care însăși Entitatea contractantă nu aduce lămuriri privind (i) modalitatea de cotare a activității "modificării CE existent" în cadrul Formularului de propunere financiară, respectiv care sunt activitățile care ar trebui cotate în Anexa nr. 1 (a căror valori sunt stabilite de ofertant) și care au deja cuprinde în Anexa nr. 2 (rezervele de implementare); și (ii) întinderea garanției Lucrărilor CE #####.
+
+Prin punctul de vedere formulat față de contestație, CFR s-a limitat la a pretinde că ar fi răspuns concludent, respectiv că "dacă operatorul care a realizat instalația CE din Stația ##### participă și va fi declarat câștigător după aplicarea criteriilor de atribuire nu vor fi necesare lucrări de adaptare a soluției tehnice aferente centralizării electronice de la un operator economic la altul, iar această cheltuială să nu fie necesară".
+
+Petenta a mai susținut că situația este vădit nelegală în contextul în care demersul de contestare este promovat de către un alt operator economic, real interesat să fi participat dacă cerințele ar fi fost explicite și lipsite de echivoc, iar concurența nu ar fi fost vădit restrânsă, creând avantaje nejustificate chiar operatorului care a elaborat anterior instalația în discuție (premisă a clarificărilor adresate). De altfel, acesta este și singurul operator care a depus ofertă, calitatea sa de subcontractant regăsindu-se în cele două participări anunțate.
+
+Contestația Alstom a fost respinsă, petenta considerând că Decizia CNSC este nelegală și netemeinică și se impune a fi modificată.
+
+Erorile CNSC, necesar a fi remediate prin admiterea plângerii, privesc următoarele aspecte:
+
+a) Consiliul a ignorat faptul că documentația de atribuire nu este nici completă, nici clară, nefiind respectate dispozițiile art. 164 din Legea nr.99/2016 întrucât:
+
+- nu se cunoaște modalitatea concretă în care s-ar putea elabora propunerea financiară în ceea ce privește "modificarea instalației CE #####"; pretinsa imposibilitate de redare a unor informații complete, clare și precise privind modalitatea de elaborare a Anexei nr. 2 sub pretextul că nu se cunoaște "cine va executa în mod clar lucrările aferente centralizării electronice din stația #####" denotă eludarea principiilor transparenței și tratamentului egal.
+
+- nu se cunoaște care ar fi lucrările aferente "modificării" instalației CE ##### care ar putea fi incluse în Anexa nr. 1 si care ar fi lucrările aferente "adaptării" care au fost luate în considerare în cadrul rezervelor de implementare. #### termenii (neidentificați în documentația de atribuire) sunt vehiculați dezinvolt de către CNSC și CFR, nicio detaliere privind modernizarea/adaptarea nu se regăsește, devenind așadar și mai incert ce conține fiecare dintre aceste categorii și, în consecință, cum se dimensionează valoric.
+
+b) Consiliul a ignorat faptul că Entitatea contractantă nu a răspuns solicitării de clarificări privind întinderea garanției de participare. Mai exact, în forma actuală a documentației de atribuire nu sunt redate limitele obligațiilor pe care ofertantul câștigător și le va asuma în ceea ce privește garanția "modificării instalației CE #####", răspunsul Entității contractante vizând alte aspecte aferente derulării contractului. Or, indicarea (de către Consiliu) a duratei de garanție a lucrărilor, astfel cum a fost redată în documentația de atribuire (iar nu în cadrul Răspunsului consolidat nr. 2!) denotă tocmai omisiunea Entității contractante de a formula un răspuns complet, clar și precis privind întrebarea efectiv adresată.
+
+Singurele lucrări de semnalizare și centralizare electronică în stația ##### vizează modificarea CE; prin urmare, acestea nu pot fi cotate diferențiat în propunerea financiară în lipsa unor indicații / detalieri specifice, concrete și clare din partea Entității contractante și nici nu conțin sub-capitole și/sau componente cu denumirile vehiculate de către CFR și CNSC.
+
+Prin Decizia CNSC se reține o pretinsă claritate a răspunsurilor CFR la întrebarea nr. 4 din cadrul solicitării de clarificări nr. 44 și la întrebarea nr. 1 din cadrul solicitării de clarificări nr. 53 sub pretextul că ar fi posibilă prețuirea diferențiată prin cotarea lucrărilor de semnalizare și centralizare în cadrul Anexei nr. 1 și a lucrărilor de modificare/adoptare a CE în cadrul Anexei nr. 2 a formularului de propunere financiară. In realitate, Consiliul încearcă să justifice modalitatea defectuoasă în care Entitatea contractantă a înțeles să răspundă întrebărilor de clarificare prin raportare la aspecte care, însă, contrazic documentația de atribuire, rămasă definitivă prin necontestare; în acest sens, petenta a învederat că:
+
+(a) Singura activitate aferentă instalațiilor de semnalizare și centralizare în cadrul stației ##### este cea de modificare a CE existent; cu privire la aceasta, Consiliul arată, pe de-o parte, că ea trebuie cotată în cadrul pct. 3.1 din Anexa nr. 1 la formularul de propunere financiară (aceasta fiind singura activitate de semnalizare și centralizare din Stația #####), însă tot Consiliul indică și faptul că "lucrările de modificare se regăsesc (...) în formularul 10 Anexa 2 tabel sume provizionate reprezentând rezerve de implementare pct. 9". Ceea ce omite Consiliul este faptul că, în stația #####, nu există mai multe categorii de lucrări, singurele necesar a fi realizate fiind cele de modificare CE existentă.
+
+În contextul în care nici Caietul de sarcini, nici altă parte a documentației de atribuire nu menționează pentru această locație alte tipuri de lucrări de semnalizare, diferite de cele de modificare CE existent, rezultă că există identitate între sintagmele "lucrări de semnalizare și centralizare" și "lucrări de modificare", raționamentul Consiliului privind caracterul "diferit" al acestora fiind, așadar, netemeinic.
+
+Or, aceeași activitate de "Modificare CE existent", prevăzută explicit în documentația de atribuire, nu poate fi prețuită atât în cadrul Anexei nr. 1 care vizează principalele lucrări asumate de către ofertant, cât și în cadrul Anexei nr. 2 care vizează lucrările în raport de care Entitatea contractantă a prevăzut anumite rezerve de implementare. Practic, nu este permisă dublarea cotării aceleiași activități, definite unitar de către Caietul de sarcini, indiferent și independent de interpretările pe care atât CFR, cât și Consiliul încearcă să le identifice.
+
+Dimpotrivă, atât timp cât scopul anexelor formularului de propunere financiară este diferit (Anexa nr. 1 reda lista principalelor categorii de lucrări, iar Anexa nr. 2 include categoriile de cheltuieli în raport de care au fost evidențiate rezervele de implementare), CFR trebuia să explice clar, complet și precis modalitatea în care acestea se vor completa prin raportare la faptul că (i) există o singură activitate de centralizare electronică în stația #####; (ii) sub-activitățile acesteia nu au fost niciodată defalcate în documentația de atribuire, demers care relevă caracterul unitar și inseparabil al activității de modificare CE #####; (iii) documentația de atribuire trebuie să cuprindă toate informațiile necesare pentru o informare completă a ofertanților; or, atât timp cât prețul ofertei reprezintă și factor de evaluare, devine cu atât mai relevantă o cunoaștere completă a modului în care valoarea total ofertată este compusă tocmai pentru că o eventuală dublare a valorilor incluse deja de către CFR în rezervele de implementare conduce și la pierderea punctajului aferent. Mai exact, toți ofertanții trebuie să cunoască, anterior depunerii ofertei, atât modul concret de includere a valorilor în cadrul propunerii financiare, inclusiv care activități au fost, de fapt, avute în vedere de către Entitatea contractantă în cadrul rezervelor de implementare și suma aferentă, cât și faptul că se asigură concurența reală, bazată pe prețul cel mai mic, calculat, însă, în raport de aceleași reguli, statuate explicit prin documentația de atribuire.
+
+În contextul în care există identitate între lucrările de centralizare electronică și modificare CE în stația #####, nu se poate pretinde posibilă cotarea acestora diferențiat atât în cadrul Anexei nr. 1 având ca obiect principalele lucrări, cât și în Anexa nr. 2 privind rezervele de implementare, în lipsa unor informații complete și corecte necesar a fi analizate și transmise de către Entitatea contractantă.
+
+(b) "Eventualele lucrări de adaptare" nu au fost definite nici din punct de vedere al conținutului lor (ceea ce în mod concret implică), nici din punct de vedere valoric, fiind exclusiv incluse într-o categorie a rezervelor de implementare, fără a fi oferite explicații clare privind modalitatea de ofertare a acestora. #### inițial Entitatea contractantă a statuat, prin Primul răspuns consolidat, faptul că modificarea CE din stația ##### "a fost inclusă în cadrul Valorii Estimate a achiziției (...) ca și sumă provizionată în cadrul Rezervelor de implementare", ulterior s-a indicat că doar "adaptare instalației de centralizare electronică", dacă va fi necesară, a fost inclusă în cadrul rezervei de implementare deoarece nu se cunoaște cine va executa Lucrările CE #####.
+
+Or, dacă termenii "modificarea CE" și "adaptarea instalației de centralizare electronică" nu sunt echivalenți CFR omite sa detalieze care sunt activitățile specifice care compun fiecare dintre denumiri. De altfel, nici prin punctul de vedere formulat față de contestația Alstom, CFR nu a reușit să diferențieze aceste noțiuni și/sau să identifice cerința documentației de atribuire care relevă definițiile în raport de care era posibilă depunerea unei oferte competitive și unitare.
+
+Depășind prerogativele aflate în sarcina sa, Consiliul reține o echivalență între activitatea de modificare și cea de adaptare CE, deși (i) o astfel de concluzie nu este confirmată de către CFR; (ii) se ajunge la situația in care aceeași activitate ar fi cotată în două secțiuni distincte ale propunerii financiare; (iii) principiul disponibilității este grav încălcat deoarece nu a fost analizată (ne)temeinicia Actelor atacate, ci un raționament care nu se fundamentează pe aspecte care nu au fost aduse la cunoștința ofertanților de către Entitatea contractantă. Consiliul nu are, însă, dreptul a înlocui Entitatea contractantă, ci deține exclusiv prerogativa de a verifica dacă documentația de atribuire prevede reguli clare, precise și explicite privind modul de ofertare prin raportare la nevoile și oportunitățile pentru care Procedura de atribuire a fost organizată.
+
+Consiliul a omis faptul că aspectele echivoce semnalate de către Alstom nu permit nici înțelegerea, nici abordarea unitară a modului de întocmire a propunerii financiare ceea ce, potrivit prevederilor art. 225 alin. (1) lit. b) din Legea nr. 99/2016 reprezintă o abatere aptă să conducă la anularea procedurii de atribuire. O asemenea sancțiune putea fi facil evitată dacă CFR era obligat să clarifice:
+
+• De ce sunt folosiți doi termeni distincți pentru descrierea acelorași activități și de ce se pretinde că acestea pot fi cotate în două secțiuni/componente diferite ale propunerii financiare;
+
+• #### sunt activitățile care compun modificarea, și care sunt cele care reflectă adaptarea;
+
+• În ce capitol se includ activitățile aferente Lucrărilor CE #####.
+
+De altfel, clarificarea acestor aspecte prezintă relevanță și din perspectiva obligației ofertantului de a corela propunerea tehnică cu cea financiară în condițiile în care oricine poate pretinde că ar fi inclus valoarea acestora în sumele provizionate; dintr-o altă perspectivă, o valoare sub dimensionată menționată la subcapitolul 3.1 nu va putea fi fundamentată economic, operatorul vizat putând oricând pretinde că ar fi inclus unele dintre activități în sumele provizionate.
+
+Petenta a considerat că Decizia CNSC este, așadar, netemeinică dat fiind că există în continuare incertitudini cu privire la împărțirea prețului aferent lucrărilor de "modificare stație CE" între Anexa nr. 1 și Anexa nr. 2. Operatorii economici nu cunosc, în concret, (i) activitățile care ar trebui cotate în Anexa nr. 1 a Formularului 10 de Propunere financiară (ii) activitățile "de adaptare" care ar trebui incluse în Anexa nr. 2 și nici (ii) care sunt situațiile efective în care activitățile de adaptare ar fi considerate necesare, fiind încălcat principiul transparenței în lipsa furnizării tuturor acestor informații, anterior depunerii ofertelor.
+
+(c) Aspectele din cadrul Primului răspuns consolidat au rămas definitive, prin necontestare, și, implicit, trebuie respectate atât de către Entitatea contractantă, cât si de către ofertanți. Raționamentul Consiliului privind caracterul caduc al Primului răspuns consolidat nu este susținut de către nicio dispoziție legală/interpretare juridică, fiind exclusiv o interpretare menită să justifice conduita nelegală a CFR de a ignora propriile clarificări.
+
+Contrar susținerilor Consiliului, în data de 20.06.2024, Primul răspuns la clarificări a rămas definitiv și obligatoriu atât pentru operatorii economici interesați, cat și pentru Entitatea contractantă care nu poate ajusta documentația de atribuire oricum și oricând, sub pretextul răspunsurilor la clarificări; dimpotrivă, scopul răspunsurilor la clarificări vizează tocmai lămurirea tuturor aspectelor neclare, formulate în baza informațiilor anterior cunoscute de către operatorii economici interesați. Pe de altă parte, modificarea/ajustarea modalității de interpretare a cerințelor documentației de atribuire este nelegală și din perspectiva faptului că, în elaborarea ofertelor, operatorii economici se bazează pe informațiile anterior transmise de către CFR, nemodificate/necontestate în termenul legal.
+
+Oricum, nici prin cel de al doilea răspuns la clarificări (contestat în prezenta cauză), Entitatea contractantă nu a modificat explicit aspectele inițial indicate (nefiind menționată operarea perse a modificării); dimpotrivă, CFR s-a limitat exclusiv la indicarea unei noi modalități de elaborare a propunerii financiare, care contravine dincolo de orice dubiu aspectelor inițial indicate (rămase definitive și, implicit, obligatorii pentru CFR și ofertanți). Conduita Entității contractante eludează principiile transparent și tratamentului egal, iar o evaluare a ofertelor în baza acestor cerințe neclare și contradictorii poate conduce inclusiv la anularea Procedurii de atribuire într-o etapă mult mai avansată decât în prezent.
+
+În acest context, caracterul contradictoriu al celor două clarificări emise de către CFR se impune, așadar, a fi remediat prin luarea în considerare a caracterului definitiv/obligatoriu al Primului răspuns la clarificări. De altfel, caracterul contradictoriu al celor două răspunsuri la clarificare este confirmat chiar și de către Consiliu care, însă, greșit apreciază că ultima modificare ar prevala, fără ca o astfel de concluzie să fie fundamentată într-un reper obiect (precum o dispoziție legală sau practică jurisprudențială).
+
+De altfel, analizând comparativ cele două răspunsuri ale CFR, facil se poate constata caracterul contradictoriu al acestora, respectiv:
+
+• Prin primul răspuns, explicit se indică faptul că modificarea instalației CE a fost inclusă în valoarea totală estimată, ca si sumă provizionată; așadar, prin acest răspuns la clarificări, ofertanții au fost informați despre faptul că valoarea aferentă acestor lucrări (în integralitatea sa) va fi asigurată din sumele provizionate aferente rezervelor de implementare, nemaifiind, astfel, necesară cotarea lor în cadrul Anexei nr. 1 la Formularul 10 de propunere financiară; contrar susținerilor Consiliului, nicio defalcare între modificare sau adaptarea CE existent în stația ##### nu rezultă din cuprinsul Primului răspuns consolidat; dimpotrivă, Entitatea contractantă menționează explicit faptul că "valoarea necesară realizării modificării instalației de centralizare electronică din stația ##### a fost inclusă în cadrul Valorii Estimate a achiziției (...) ca si sumă provizionată".
+
+• După 30 de zile de la primul răspuns, CFR a informat operatorii economici că valoarea modificării instalației CE va fi inclusă în cadrul Anexei nr. 1 la Formularul 10 de propunere financiară, iar "adaptarea" ar fi inclusă în sumele provizionate aferente rezervelor de implementare.
+
+Facil se poate, așadar, constata faptul că Răspunsul consolidat nr. 2 nu clarifică aspectele anterior indicate de către Entitatea contractantă privind modalitatea de cotare a modificării CE existent în stația #####, ci schimbă întru totul ceea ce operatorii economici au fost inițial informați.
+
+Răspunsurile la clarificări, contestate în prezenta cauză, încalcă caracterul definitiv și obligatoriu al primului răspuns la clarificări emis de către CFR. Oricum, facil se poate constata neconcordanța dintre informațiile transmise de către Entitatea contractantă (care statuau explicit că valoarea modificării CE existent este inclusă în sumele provizionate), demers care trebuia restricționat prin Decizia CNSC tocmai pentru a se putea asigura legalitatea Procedurii de atribuire, prin informarea clară, completă și precisă a operatorilor economici interesați privind modul în care propunerea financiară ar trebui elaborată.
+
+În continuare, petenta a arătat că entitatea contractantă nu a răspuns solicitării de clarificări privind garanția lucrărilor de modificare CE #####. Simplul fapt că, în documentația de atribuire, este prevăzută durata acestei garanții nu este nici suficient, nici edificator față de întrebarea efectiv adresată.
+
+Prin solicitarea de clarificări 53, răspunsul 2, Entitatea contractantă confundă noțiunile de "garanția lucrărilor" și "garanția de bună execuție", iar Consiliul a considerat netemeinice criticile Alstom care enunță această diferență, precum și neclaritatea modalității concrete în care garanția aferentă modificării CE ##### va fi acordată. Mai exact, întrebarea adresată a vizat garanția acordată lucrărilor necesar a fi executate, în contextul în care există, deja, o instalație CE (deci și alte lucrări, executate anterior, de către un alt Antreprenor), iar răspunsul CFR s-a referit la garanția de bună execuție, cu privire la care s-a arătat chiar că "va fi avizată" în funcție de operatorul economic declarat câștigător.
+
+A considerat că raționamentul Consiliului este netemeinic și se impune a fi modificat dat fiind că:
+
+(a) Durata garanției lucrărilor (redată în Anunțul de participare și în Caietul de sarcini) nu este aptă a confirma faptul că ofertantul este ținut responsabil exclusiv pentru activitățile realizate de către acesta, premisa solicitării de clarificări adresate; dimpotrivă, informațiile redate de către Consiliu se regăsesc în documentația de atribuire și nu au fost clarificate tocmai pentru că prezintă informații clare.
+
+Cu toate acestea, sunt necesare anumite răspunsuri concrete de la Entitatea contractantă privind delimitarea obligațiilor asumate de către ofertant prin raportare la limitele întinderii garanției de participare. Astfel de răspunsuri nu au fost, însă, furnizate de către Entitatea contractantă, fiind, astfel, eludate dispozițiile art. 172 alin. (2) din Legea nr. 99/2016.
+
+Mai exact, deși se pretinde că s-ar răspunde solicitării de clarificări, Entitatea contractantă indică aspecte care vizează garanția de bună execuție, parte diferită a contractului sectorial, impusă cu scopul de a proteja CFR pe parcursul derulării contractului, spre deosebire de garanția lucrărilor care operează ulterior recepției lucrărilor. Cele două noțiuni "garanția lucrărilor" și "garanția de bună execuție" nu se confundă și nu relevă un scop comun, ci intervin chiar la perioade de timp distincte ceea ce demonstrează dincolo de orice dubiu neconcludența răspunsului formulat de către CFR independent de încercările Consiliului de a justifica contrariul.
+
+Nu se analizează nici faptul că (i) garanția impusă ofertantului trebuie și poate să vizeze doar lucrările proprii, nici faptul că (ii) garanția oferită se reflectă și în valoarea ofertată; astfel, tipul de garanție și lucrările la care aceasta se referă au un corespondent explicit în costurile pe care ofertantul le ia în considerare la fundamentarea valorii ofertate; aceasta nu poate fi discreționară și indiferentă de activitățile în privința cărora ofertantul își asumă, de fapt, o responsabilitate, context în care ofertantul trebuie să cunoască, propriu-zis, ceea ce i se solicită să își asume.
+
+#### omite analiza unor informații concrete, necesare pentru elaborarea unei oferte competitive, Consiliul invocă faptul că Entitatea contractantă nu poate cunoaște dacă vor fi necesare și care sunt lucrările de adaptare CE #####. Cu toate acestea, atât Consiliul, cât și Entitatea contractantă confirmă că modificarea CE ##### este, totuși, cuprinsă în rezervele de implementare, situație care denotă faptul că minime informații sunt cunoscute, nefiind altfel posibilă includerea acestei activități în documentația de atribuire. De altfel, Consiliul ignoră faptul că solicitarea de clarificare viza exclusiv lămurirea limitelor obligației asumate de către ofertant. Or, atât timp cât aceasta nu poate fi tranșată de către Entitatea contractantă exclusiv la activitățile aflate în responsabilitatea sa, devine evident caracterul neconcludent al răspunsului la clarificări, indiferent și independent de obiectul contractului ce se va atribui și/sau de posibilitatea de a exista "eventuale lucrări de adaptare a instalației CE #####".
+
+De altfel, contrar încercărilor Consiliului de a susține contrariul, solicitarea de clarificări viza confirmarea aplicării garanției "doar lucrărilor care vor fi executate la instalația CE existentă și nu întregii instalații CE". Interpretarea oportunistă a solicitării de clarificări, cu ignorarea răspunsului Entității contractante, denotă dincolo de orice dubiu netemeinicia Deciziei CNSC.
+
+Prin Răspunsul consolidat nr. 2, Entitatea contractantă se raportează la informații ulterioare (ofertantul care va fi desemnat câștigător) și neclare pentru elaborarea ofertei (Beneficiarul va aviza în mod corespunzător), deși, înainte de depunerea ofertelor, independent de operatorul economic care va câștiga procedura de atribuire, trebuie să se cunoască modalitatea de constituire a garanției lucrărilor deoarece aceasta ar fi trebuit reflectată în valoarea ofertată, în caz contrar fiind încălcate principiile transparenței și tratamentului egal. Aspecte pe care, însă, Consiliul le-a ignorat întru totul, deși au fost invocate prin contestația formulată.
+
+#### faptul că, urmare a respingerii suspendării Procedurii de atribuire, au fost depuse două oferte nu denotă netemeinicia argumentelor prezentate de către Alstom, cum greșit se reține în Decizia CNSC, dat fiind că (i) există posibilitatea ca fiecare dintre ofertanți să fi interpretat într-un mod diferit modalitatea de completare a anexelor formularului de propunere financiară, demers care ar putea conduce la anularea Procedurii de atribuire la momentul aplicării factorilor de evaluare; (ii) subcontractantul nominalizat în ambele oferte pentru această activitate este GTS ####### (fosta ######), ceea ce denotă faptul că modificarea CE existent nu poate fi realizată fără implicarea acestui operator economic, situație față de care Entitatea contractantă avea obligația de a include informații clare, astfel încât să nu restrângă concurența.
+
+În drept, și-a întemeiat plângerea pe dispozițiile art. 29 și următoarele din Legea nr. 101/2016, precum și pe toate celelalte dispoziții legale la care a făcut referire în cuprinsul plângerii.
+
+În probațiune a solicitat încuviințarea probei cu înscrisurile din dosarul achiziției publice, precum și cele depuse atașat prezentei plângeri (parte din dosarul achiziției publice).
+
+La data de 03.09.2024, intimata ######## ######### ## ### ###### ### SA, a depus întâmpinare, prin care a solicitat respingerea plângerii ca neîntemeiată și, pe cale de consecință, menținerea ca temeinică și legală a Deciziei contestate și menținerea în integralitate a Răspunsului consolidat la solicitările de clarificări nr. 2 din data de 10.07.2024, înregistrat sub nr. 17.A##########.07.2024, transmis de Entitatea Contractantă prin intermediul platformei SEAP, către toți operatorii economici interesați.
+
+În motivarea întâmpinării, intimata a arătat că, în fapt, ######## Națională de Căi Ferate "CFR"- SA a organizat procedura de achiziție publică sectorială având ca scop atribuirea contractului de lucrări: Proiectare și Execuție a lucrărilor aferente obiectivului de investiții ’’Modernizarea infrastructurii feroviare din Portul C________ - Etapa II".
+
+În data de 22.02.2024, Entitatea Contractantă,, a încărcat documentația de atribuire a procedurii având ca scop atribuirea contractului de lucrări: Proiectare și Execuție a lucrărilor aferente obiectivului de investiții ’’Modernizarea infrastructurii feroviare din Portul C________ - Etapa II".
+
+Această documentație, în conformitate cu prevederile OUG 98/2017 privind funcția de control ex-ante al procesului de atribuire a contractelor/ acordurilor-cadru de achiziție publică, a contractelor/ acrodurilor-cadru sectoriale și a contractelor de concesiune de servicii, coroborate cu prevederile HG ######## privind aprobarea normelor metodologice de aplicare a OUG 98/2017, a fost selectată în vederea controlului ex-ante de către ANAP.
+
+În urma verificării ex-ante și a emiterii de către ANAP a adresei privind implementarea măsurilor de remediere și implementarea acestora de către #### ### S.A., în data de 25.03.2024, a fost publicat anunțul de participare numărul CN1066805/25.03.2024 în SEAP.
+
+Legislația aplicabilă prezentei proceduri de atribuire este: Legea nr. 99/2016, Legea nr.101/2016, HG nr. 394/2016, OUG 98/2017 privind funcția de control ex-ante al procesului de atribuire a contractelor/ acordurilor-cadru de achiziție publică, a contractelor/ acordurilor-cadru sectoriale și a contractelor de concesiune de servicii; HG ######## privind aprobarea normelor metodologice de aplicare a OUG 98/2017; Regulamentul Comisiei Europene nr. 2016/7, Regulamentul UE nr.910/2014, Instrucțiunea nr. 1/2017 a Președintelui ANAP, Instrucțiunea nr. 2/2017 a Președintelui ANAP, Instrucțiunea nr. 1/2021 a Președintelui ANAP, Ordinul Ministerului Transporturilor nr. 290/2000 modificat prin OMT nr. 2068/2004, privind admiterea tehnică a produselor si/sau serviciilor destinate utilizării în activitățile de construire, modernizare, întreținere si de reparare a infrastructurii feroviare si a materialului rulant, pentru transportul feroviar si cu metroul;
+
+HG nr.l/10.01.2018 pentru aprobarea condițiilor generale și specifice pentru anumite categorii de contracte de achiziție aferente obiectivelor de investiții finanțate din fonduri publice; Legea nr.500/2003, Legea nr.455/2001 privind semnătura electronică; HG nr.907/2016 privind etapele de elaborare și conținutul-cadru al documentațiilor tehnico-economice aferente obiectivelor/proiectelor de investiții finanțate din fonduri publice; HG nr.264/2003 privind stabilirea acțiunilor și categoriilor de cheltuieli, criteriilor, procedurilor și limitelor pentru efectuarea de plăti în avans din fonduri publice; HG nr.845/2018 pentru aprobarea Regulamentului privind recepția construcțiilor din domeniul infrastructurii rutiere și feroviare de interes n_______; Legea nr.50/1991 privind autorizarea executării lucrărilor de construcții, cu modificările și completările ulterioare;
+
+Legea nr.10/1995 privind calitatea în construcții, cu modificările și completările ulterioare.
+
+Pe baza acestor reglementari legale, în conformitate cu legislația în vigoare, Entitatea Contractantă a urmărit să obțină un avantaj calitativ în proiectarea și execuția lucrărilor, precum și finalizarea în termenele contractuale a acestor obiective de investiții de interes n_______ și european, prin adoptarea unor cerințe de calificare și conformitate, factori de evaluare și mecanisme contractuale reciproc avantajoase, atât pentru operatorii economici cât și pentru sine.
+
+Intimata a mai arătat că a respectat obligațiile referitoare la dispozițiile art. 172 din Legea nr. 99/2016 și a stabilit, prin anunțul de participare, termene-limită în care va răspunde în mod clar și complet tuturor solicitărilor de clarificări transmise de către operatorii economici prin intermediul platformei SEAP. Astfel în capitolul II. 1.4 Descrierea succinta a contractului sau a achizitiei/achizitiilor, entitatea contractanta a prevăzut că "Orice operator economic interesat are dreptul de a solicita clarificări/informații suplimentare în legătură cu documentația de atribuire cu 22 zile înainte de data limita stabilită pentru depunerea ofertelor.
+
+Entitatea contractantă va răspunde în mod clar si complet tuturor solicitărilor de clarificari/informatii suplimentare in legătură cu documentația de atribuire în a 12-a zi înainte de data limita de depunere a ofertelor. Entitatea contractantă nu va răspunde la solicitările de clarificări transmise după data limita stabilita."
+
+Prin urmare, conform prevederilor legale sus-menționate, Entitatea Contractantă a formulat răspunsurile la solicitările de clarificări în termenul prevăzut în anunțul de participare și a încărcat și publicat răspunsurile în mod consolidat în Sistemul Electronic de Achiziții Publice în data de 13.06.2024, respectiv 11.07.2024.
+
+Entitatea Contractantă, în vederea asigurării unei perioade adecvate operatorilor economici interesați pentru pregătirea, ofertelor a prelungit termenul de depunere a ofertelor de 2 (două) ori, în data de 26.04.2024 până la data de 25.06.2024, respectiv în data de 13.06.2024 până la data de 29.07.2024.
+
+La solicitările operatorilor economici, entitatea contractantă a oferit posibilitatea efectuării vizitei amplasamentului lucrărilor, în data de 23.04.2024 și 24.04.2024, informarea acestora fiind realizată prin încărcarea în SEAP a adresei nr.l 7.A/1/472/19.04.2024.
+
+A mai precizat că Răspunsurile consolidate 1 și 2 au făcut obiectul verificării ex-ante ANAP, pentru care au fost emise următoarele avize:
+
+- pentru Răspunsul consolidat numărul 1 a fost emis AVIZ NR. ##### ##### DGCECMSS/ CN1066805/ 07.06.2024 - AVIZ CONFORM CONDIȚIONAT, având următoarele abateri identificate:
+
+1. Răspunsul nr. 37 (pagina 137 din propunerea de răspuns consolidat) nu este complet, în sensul că EC nu a răspuns la solicitarea de clarificare nr. 1 (s-a dublat solicitarea nr.2).
+
+###### de remediere: Aspect calitate (Art. 172 alin. (2) Legea 99/2016): Autoritatea Contractantă VA REFORMULA și va răspunde la solicitarea nr. 1, respectiv:
+
+"Solicitare nr. 1 - Va rugam sa eliminați coloana "Costul inclus in propunerea financiara care reflecta aplicarea prevederii legale" din cadrul tabelului prezentat la pagina 80 în cadrul capitolului 9.7 "###### aplicabile de Antreprenor pentru asigurarea îndeplinirii obligațiilor din domeniul mediului ce derivă din îndeplinirea obiectului caietului de sarcini" al Caietului de Sarcini, întrucât costurile activităților, parte a propunerii financiare, trebuie sa fie vizibile comisiei de evaluare numai după decriptarea propunerii financiare, in conformitate cu prevederile art. 67 alin. (3) al NORMELOR METODOLOGICE din 2 iunie 2016 de aplicare a prevederilor referitoare la atribuirea contractului sectorial/acordului-cadru din Legea nr. 99/2016 privind achizițiile sectoriale"
+
+2. a) Răspunsul la solicitarea 6/pag.9-10 nu include informații dacă terenul stabilit pentru organizarea de șantier este pus la dispoziția " constructorului fără costuri suplimentare de chirie teren și taxare acces utilaje si mijloace de transport ",
+
+b) Solicitarea de clarificări 5, solicitarea 1, pag.19 - in conținutul întrebării op.ec. se dezvăluie identitatea acestuia.
+
+Măsura de remediere:
+
+(a) Completați răspunsul cu informațiile solicitate de op.ec.
+
+(b) Vă rugăm să luați masuri pentru a nu dezvălui identitatea op.ec. care a solicitat clarificarea respectivă - aveți in vedere respectarea prevederilor art. 172 alin.(3) din Legea nr.99/2016, cu modificările si completările ulterioare:
+
+- pentru Răspunsul consolidat numărul 2 a fost emis AVIZ NR. ##### ###### DGCECMSS/ CN1066805/11.07.2024 - AVIZ CONFORM NECONDIȚIONAT
+
+În vederea remedierii abaterilor identificate in cadrul AVIZULUI NR. ##### ##### DGCECMSS/ CN1066805/ 07.06.2024 - AVIZ CONFORM CONDIȚIONAT, Entitatea Contractantă a revizuit documentația de atribuire ținând cont de constatările verificatorilor ex-ante ANAP, după cum urmează:
+
+- Măsura 1 - a fost eliminată coloana Costul inclus în propunerea financiara care reflecta aplicarea prevederii legale, din cadrul tabelului indicat in solicitarea de clarificare.
+
+- Măsura 2 - cu privire la terenul pus la dispoziție pentru organizările de șantier
+
+- Măsura 2-a fost eliminată denumirea operatorului economic.
+
+Astfel, intimata a învederat că se poate observa în mod cert și fără echivoc, faptul că prin abordarea sa, având în vedere importanța obiectivului de investiții - Infrastructura Feroviară din Portul C________, a urmărit crearea unor condiții optime întocmirii ofertelor de către operatorii economici interesați să participe la prezenta procedură, oferind din data de 25.03.2024, data de publicare a anunțului de participare, o perioadă de timp rezonabilă de întocmire a ofertelor, prelungind astfel termenul de depunere al ofertelor până la 29.07.2024.
+
+Prin contestația nr. 1453/18.07.2024, înregistrată la Consiliul N_______ de Soluționare a Contestațiilor cu nr. _____/18.07.2024, formulată de ###### ######### SA, împotriva răspunsului la întrebarea nr. 4 din cadrul solicitării de clarificări nr. 44 și a răspunsului la întrebările nr. 1 și 2 din cadrul solicitării de clarificări nr. 53, aduse la cunoștința operatorilor economici interesați prin adresa de răspuns consolidat nr. 2, emisă de #### ### SA în calitate de Autoritate Contractantă, în cadrul procedurii de licitație deschisă organizată în vederea încheierii acordului-cadru având ca obiect "Modernizarea infrastructurii feroviare din Portul C________ - etapa II", s- a solicitat:
+
+suspendarea procedurii de atribuire până la soluționarea definitivă a contestației;
+
+modificarea răspunsului la întrebarea nr. 4 din cadrul solicitării de clarificări nr. 44 și a răspunsului la întrebările nr. 1 și 2 din cadrul solicitării de clarificări nr. 53, aduse la cunoștința operatorilor economici interesați prin adresa de răspuns consolidat nr. 2, înregistrată de către CFR sub nr. 17. A/l/1111/10.07.2024;
+
+obligarea Entității Contractante la continuarea procedurii de atribuire cu respectarea dispozițiilor legale în materia achizițiilor publice, prin modificarea/eliminarea răspunsurilor la clarificări neclare și necorelate, care conduc la restrângerea artificială a concurenței, precum și la încălcarea principiilor transparenței și tratamentului egal.
+
+Cu adresa nr. 17.A##########.07.______, înregistrată la Consiliu cu nr. _____/23.07.2024 Autoritatea Contractantă a transmis punctul de vedere cu privire la contestația formulată de ###### ######### SA, împreună cu documentele relevante în soluționarea contestației, prin care a solicitat respingerea acesteia ca neîntemeiată.
+
+Prin încheierea nr. ####/C4/2484 din data de 21.05.2024, Consiliul s-a pronunțat în sensul respingerii cererii de suspendare a procedurii de atribuire, ca nefondată.
+
+Prin Decizia nr. ####/C4/2484 pronunțată la data de 12.08.2024, CNSC în temeiul art. 26 alin. (6) din Legea nr. 101/2016, respinge, ca nefondată, contestația formulată de ###### ######### SA, în contradictoriu cu #### ### SA : Decizia este obligatorie pentru părți, în conformitate cu dispozițiile art. 28 alin. (1) din Legea nr. 101/2016.
+
+Împotriva acestei Decizii, a formulat plângere ####### ###### ######### SA prin care solicită Curții de Apel București ca, prin hotărârea pe care o va pronunța, să dispună admiterea plângerii, cu consecința modificării Deciziei CNSC, a răspunsului la întrebarea nr. 4 din cadrul solicitării de clarificări nr. 44 și a răspunsului la întrebările nr. 1 și 2 din cadrul solicitării de clarificări nr. 53 aduse la cunoștința operatorilor economici interesați prin Adresa de răspuns consolidat nr. 2 ("Răspunsul consolidat nr. 2"), înregistrată de către CFR sub nr. 17.A##########.07.2024.
+
+Intimata a solicitat ca instanța să rețină netemeinicia Plângerii și să dispună respingerea acesteia ca neîntemeiată și menținerea Deciziei CNSC nr. 2273/C4/2484 pronunțată la data de 12.08.2024 ca temeinică și legală, pentru următoarele considerente de fapt și de drept:
+
+A considerat că motivele invocate de Petentă în plângerea formulată împotriva Deciziei CNSC nr. 2273/C4/2484 din data de 12.08.2024, nu sunt întemeiate, scopul urmărit fiind acela de a obține o nouă examinare a cauzei soluționate pe fond de CNSC.
+
+Decizia contestată este suficient motivată, iar susținerile Petentei în sensul că Decizia CNSC este nelegală și netemeinică, eronată și în sensul că, CNSC își depășește prerogativele sunt nefondate, având în vedere că motivarea dată Deciziei cuprinde considerentele reținute în soluționarea tuturor solicitărilor formulate de Petentă au fost reținute și analizate argumentele invocate atât de Alstom cât și de #### ### SA și probatoriul administrat ținând cont de dispozițiile legale aplicabile în cauză.
+
+A arătat că critica Petentei potrivit căreia " Consiliul a ignorat faptul că documentația de atribuire nu este nici completă, nici clară, nefiind respectate dispozițiile art. 164 din Legea nr.99/2016 întrucât:
+
+- nu se cunoaște modalitatea concretă în care s-ar putea elabora propunerea financiară în ceea ce privește "modificarea instalației CE #####": pretinsa imposibilitate de redare a unor informații complete, clare și precise privind modalitatea de elaborare a Anexei nr. 1 sub pretextul că nu se cunoaște "cine va executa în mod clar lucrările aferente centralizării electronice din stația #####" denotă eludarea principiilor transparenței și tratamentului egal.
+
+- nu se cunoaște care ar fi lucrările aferente "modificării" instalației CE ##### care ar putea fi incluse în Anexa nr. 1 si care ar fi lucrările aferente ..adaptării" care au fost luat în considerare în cadrul rezervelor de implementare. #### termenii (neidentificați în documentația de atribuire) sunt vehiculați dezinvolt de către CNSC și CFR, nicio detaliere privind modernizarea/adaptarea nu se regăsește, devenind așadar și mai incert ce conține fiecare dintre aceste categorii și, în consecință, cum se dimensionează valoric." este vădit nefondată, având în vedere următoarele argumente:
+
+Petenta susține în motivarea aceste critici faptul că "Singurele lucrări de semnalizare si centralizare electronică în statia ##### vizează modificarea CE; prin urmare, acestea nu pot fi cotate diferențiat în propunerea financiară în lipsa unor indicații / detalieri specifice, concrete și clare din partea Entității contractante și nici nu conțin sub-capitole și/sau componente cu denumirile vehiculate de către CFR și CNSC ( pag 10 din Plângere).
+
+Intimata a mai precizat că considerentele Deciziei contestate sunt temeinice și legale
+
+Susținerile/criticile din Plângere au fost deja analizate în Decizia contestată și considerate nefondate de către CNSC.
+
+Nu se regăsesc în cuprinsul Plângerii critici concrete care să vizeze Decizia contestată, nelegalitatea acesteia, raționamentul juridic al Consiliului sau aplicarea concretă a normelor de drept material și doar critici privind netemeinicia Deciziei atacate.
+
+Contrar tuturor afirmațiilor Petentei, în mod corect, Consiliul reține că #### ### SA în calitate de entitate contractantă, a inițiat procedura licitație deschisă prin anunțul de participare nr. CN1066805 din data de 25.03.2024 în vederea atribuirii contractului de lucrări având ca obiect "Proiectare și execuție lucrări aferente obiectului de investiții «Modernizarea infrastructurii feroviare din portul C________ - Etapa II»". Valoarea totală estimată a procedurii de atribuire este cuprinsă între ___________,57 lei și ___________,97 lei, fără TVA. Termen stabilit pentru depunerea ofertelor 29.07.2024, ora 15:00. Criteriul de atribuire "Ce/ mai bun raport calitate- preț".
+
+În considerentele Deciziei contestate, Consiliul reține că Petenta a formulat contestație împotriva prevederilor documentației de atribuire și a unor răspunsuri la solicitări de clarificări emise de entitatea contractantă, prin care solicită:
+
+"Modificarea răspunsului la întrebarea nr. 4 din cadrul solicitării de clarificări nr. 44 și a răspunsului la întrebările nr. I și 2 din cadrul solicitării de clarificări nr. 53, aduse la cunoștința operatorilor economici interesați prin Adresa de răspuns consolidat nr. 2 ("Răspuns nr. 2") înregistrată de către CFR sub nr. 17.A##########.07.2024;
+
+Obligarea Entității contractante la continuarea procedurii de atribuire cu respectarea dispozițiilor legale în materia achizițiilor publice, prin modificarea/eliminarea răspunsurilor la clarificări neclare și necorelate, care conduc la restrângerea artificială a concurenței, precum și la încălcarea principiilor transparenței și tratamentului egal. "
+
+Consiliul, reține că prin contestația formulată, Alstom critică ######### #### ### SA la solicitările de clarificări nr. 2, în partea care vizează modalitatea de cotare a lucrărilor de modificare a instalației de centralizare electronică din stația ##### (Lucrări CE #####) și garanția aferentă acestora, cu privire la care, în opinia sa, au fost oferite, în mod succesiv, informații neclare și contradictorii privind modalitatea de ofertare.
+
+a) Pe de-o parte, s-a indicat faptul că valoarea acestor lucrări de modificare reprezintă sume provizionate, fiind incluse în Rezervele de implementare. Cu privire la această clarificare contestatoarea susține că entitatea contractantă a fost explicită prin răspunsul anterior, prilej cu care CFR a indicat cap. 9 al Rezervelor de implementare pentru asemenea cheltuieli. Nicio altă distincție privind sub-categorii ale acestei sume nu a fost indicată în acel răspuns și nici nu rezultă din documentația de atribuire.
+
+Pe de altă parte, prin răspunsul contestat, se indică faptul că Lucrările CE ##### ar trebui de fapt, cotate în cadrul subcapitolului 3.1 al Anexei 1 din Formularul 10 (care corespunde Lucrărilor principale), cu mențiunea (contrară celei anterioare) în sensul că " entitatea a prevăzut această sumă în cadrul rezervei de implementare în eventualitatea în care va fi necesară adaptarea instalației de centralizare electronică din stația #####".
+
+Prin Decizia contestată, Consiliul a analizat și a soluționat în mod corect criticile Petentei potrivit cărora "(....) răspunsul contestat induce impresia că o parte dintre activitățile care compun Lucrările CE ##### trebuie cotate în cap. 3.1 (ca lucrări principale), iar o alta (corespunzătoare lucrărilor de "adaptare" - nedefinite, însă) ar trebui inclusă în Rezervele de implementare." "(....) nici răspunsul contestat, nici documentația de atribuire nu definesc, însă, care sunt lucrările care constituie "adaptare" (și, deci, trebuie incluse în Rezervele de implementare) și care sunt restul celor care "se execută" (și care trebuie incluse în 3.1), situație de natură a genera semnificative îndoieli privind modalitatea corectă și unitară de ofertare a acestor lucrări." ( pag 9 din Decizia CNSC)
+
+A considerat că, în mod corect, Consiliul a verificat dacă răspunsurile la întrebarea nr. 4 din solicitarea de clarificări cu nr. 44 și întrebarea 1 din solicitarea de clarificări nr. 53 respectă prevederile suscitate, și a analizat conținutul acestor răspunsuri.
+
+Din considerentele Deciziei contestate, reiese că în mod corect, Consiliul constată că răspunsurile au fost formulate în mod clar și explicit prin raportare la solicitarea formulată, cu respectarea dispozițiilor art. 172 din Legea nr. 99/2016 și a principiilor statuate de art. 2 alin. (2) din același act normativ.
+
+Consiliul constată că "Aspectele care au făcut obiectul clarificărilor sunt legate de Instalații de Semnalizare și Centralizare inclusiv ERTMS, cu privire la care entitatea contractantă a răspuns clar că se vor efectua în "stația ##### doar lucrări de semnalizare și centralizare", lucrări care se regăsesc în Anexa 1 a Formularului 10. Prin urmare, entitatea contractantă a "confirmat", așa cum i s-a solicitat, că ofertanții vor cota doar anumite lucrări în Formularul 10, Anexa 1, punctul 3 și că eventualele lucrări de adaptare a instalației au fost prevăzute în mod distinct în Anexa 2 privind sumele prevăzute pentru rezerve de implementare.
+
+Din răspunsul invocat de contestatoare rezultă, fară echivoc că:
+
+1. Formularul 10, Anexa nr. 1, punctul 3, așa cum se arată, în subcapitolul 3.1 aferent Stației #####, se vor cota lucrările de semnalizare și centralizare, fiind confirmată astfel cotarea în propunerea financiară a acestor lucrări în Anexa nr.l;
+
+2. Valoarea necesară realizării unor eventuale modificări/adaptări ale instalației de centralizare electronică din stația #####, a fost inclusă în cadrul Valorii Estimate a achiziției, respectiv suma de ___________,57 Lei, fără TVA, ca și sumă provizionată în cadrul Rezervelor de Implementare, capitolul 9 din Rezervele de Implementare a Anexei nr. 2, cu precizarea entității contractante că aceste valori urmează a fi folosite doar în situația în care astfel de lucrări sunt necesare. " ( pag 11.-12 din Decizie).
+
+Contrar tuturor criticilor petentei, în mod corect Consiliu reține în considerentele Deciziei contestate că răspunsurile au fost exacte, în sensul că în Anexa 1 la Formularul 10 se vor cota ("doar") lucrările de semnalizare și centralizare pentru Stația ##### (așa cum i s-a solicitat să confirme) iar eventuale lucrări de modificare/adaptare au fost previzionate și incluse în suma aferentă rezervelor de implementare, punctul 9 Anexa nr. 2. Defalcarea unor astfel de lucrări după cum se solicită nu poate fi făcută de vreme ce nu se cunoaște în acest moment dacă vor fi necesare astfel de lucrări și cu atât mai puțin care vor fi aceste lucrări, acesta fiind și motivul pentru care ele au fost previzionate ca potențiale lucrări fără a se cunoaște dacă chiar vor fi necesare.
+
+De asemenea în mod corect, Consiliul reține ca nefondată susținerea Alstom potrivit căreia aceeași categorie de lucrări nu poate fi cotată atât în cadrul Anexei nr. 1, cât și în cadrul Anexei nr. 2 întrucât valoarea rezultată din însumarea lor ar conduce la dublarea acestei categorii, având în vedere că o astfel de interpretare este eronată, câtă vreme rezultă din răspunsurile la solicitările de clarificări că lucrările sunt distincte, respectiv lucrări de semnalizare și centralizare sunt cotate în propunerea financiară, Formularul 10 Anexa nr. 1, tabel Lista principalelor categorii de lucrări, punctul 3 iar lucrările de modificare/adaptare (în măsura în care vor fi necesare) se regăsesc în Formularul 10, Anexa 2 tabel Sume provizionate reprezentând rezerve de implementare punctul 9 "Cheltuieli care rezultă din modificări necesar a fi efectuate pentru adaptarea proiectului tehnic la realitatea din teren inclusiv schimbări de soluții tehnice punctuale".
+
+Intimata a mai arătat că, prin plângerea formulată, petenta reiterează aceleași critici care au fost analizate pe fond de Consiliu. Din considerentele Deciziei contestate, reiese în mod evident faptul că Consiliul a verificat dacă răspunsurile la întrebarea nr. 4 din solicitarea de clarificări cu nr. 44 și întrebarea 1 din solicitarea de clarificări nr. 53 respectă prevederile suscitate, și a analizat conținutul acestor răspunsuri și în mod corect a constatat că răspunsurile la solicitările de clarificări au fost clare și în sensul lămuririi cât mai exacte a modului de elaborare a propunerii financiare cât și corelarea acesteia cu propunerea tehnică și nu sunt în contradicție cu răspunsurile la solicitările de clarificări anterioare, motiv pentru care va respinge ca nefondate criticile formulate cu privire la acestea. (pag 13 din Decizia contestată).
+
+A mai precizat că, atât Răspunsul consolidat numărul 1 cât și Răspunsul consolidat numărul 2 au făcut obiectul verificării ex-ante a ANAP, iar pentru Răspunsul consolidat numărul 2 a fost emis AVIZ NR. ##### ###### DGCECMSS/ CN1066805/ 11.07.2024 - AVIZ CONFORM NECONDIȚIONAT.
+
+Totodată, a mai arătat că interpretarea Petentei cu privire la modalitatea de stabilire a Valorii Estimate a achiziției este total nejustificată, interpretată eronat, având în vedere următoarele:
+
+- la calculul Valorii Estimate, Entitatea Contractantă a respectat întocmai prevederile art. 14 și articolele subsecvente, prevăzute la Paragraful 3 Modul de calcul al valorii estimate a achiziției din Legea nr.99/2016 și pe cale de consecință prevederile art. 17 și articolele subsecvente, prevăzute la cele Secțiunea a 2-a Estimarea valorii achiziției sectoriale si alegerea modalității de atribuire din HG nr.394/2016.
+
+- în cadrul verificării ex-ante, Valoarea Estimată a acestei achiziții nu a făcut obiectul vreunei recomandări.
+
+- valoarea Estimată a fost calculată pe baza Devizului #######, întocmit de către elaboratorul Studiului de Fezabilitate, în conformitate cu prevederile HG nr.907/2016, iar indicatorii tehnico-economici ai acestui obiectiv de investiții au fost aprobați prin Hotărârea de Guvern nr. 1367/09.11.2022
+
+- conform răspunsului la solicitarea de clarificări nr. 2, solicitarea 1, din Răspunsul Consolidat nr.l având numărul 17.A/l/764/06.06.2024 și publicat în SEAP în data de 13.06.2024 Entitatea Contractantă a precizat în mod clar faptul că: " Modificarea/ Adaptarea Instalației de Centralizare Electronica din Stația CF #####, se va realiza din sumele prevăzute în cadrul Valorii Estimate, incluzând Rezervele de Implementare (sume provizionate) și nu din sumele suplimentare aferente unor lucarii/servicii similare noi. Valoarea necesară realizării modificării instalației de centralizare electronică din stația #####, a fost inclusă în cadrul Valorii Estimate a achiziției, respectiv suma de ___________,57 Lei, fără TVA, ca și sumă provizionată în cadrul Rezervelor de Implementare, capitolul 9 din Rezervele de Implementare ’’Cheltuieli care rezulta din modificări necesar a fi efectuate pentru adaptarea proiectului tehnic la realitatea din teren, inclusiv schimbări de soluții tehnice punctuale [...f\ coroborat cu răspunsul la solicitarea de clarificări nr. 44, solicitarea 4, și răspunsul la solicitarea de clarificări nr. 53, solicitarea 1 din Răspunsul Consolidat nr.2 având numărul 17.A##########.07.2024 și publicat în SEAP în data de 11.07.2024 "Va aducem la cunoștința ca suma aferenta lucrărilor de centralizare electronica din statia ##### face obiectul subcapitolului 3.1 Anexa 1 din Formularul 10 pus la dispoziție de Entitatea Contractanta, unde operatorii economici au posibilitatea cotarii acesteia. ##### in vedere ca la acest moment procedura este in desfășurare si nu se știe cine va executa in mod clar lucrările aferente centralizării electronice din stația #####, Entitatea Contractanta a prevăzut in mod diligent aceasta suma in cadrul rezervei de implementare in eventualitatea in care va fi necesara adaptarea instalației de centralizare electronica din statia #####". Rezultă în mod clar, fără echivoc, că Entitatea Contractantă a prevăzut sumele aferente centralizării electronice în Stația ##### și a indicat în mod clar unde vor fi cotate acestea în cadrul formularului de propunere financiară.
+
+Intimata a mai precizat că, în conformitate cu Documentația tehnică pusă la dispoziția tuturor operatorilor economici, piese scrise și desenate, este cunoscut faptul că există instalație de centralizare electronică în stația #####, pentru care trebuie realizate lucrări de modificare pentru includerea dependenței cu instalația CE din stația Valul lui ######.
+
+În acest sens, există posibilitatea, ca în cazul în care operatorul economic care a realizat instalația CE din stația ##### participă și va fi declarat câștigător după aplicarea criteriilor de atribuire, nu vor fi necesare lucrări de adaptare a soluției tehnice aferente Centralizării Electronice de la un operator economic la altul, iar această cheltuială să nu fie necesară.
+
+Pentru toate aceste argumente, a solicitat înlăturarea criticilor Petentei ca fiind vădit nefondate.
+
+În ceea ce privește critica Petentei, potrivit căreia "Entitatea contractantă nu a răspuns solicitării de clarificări privind garanția lucrărilor de modificare CE #####. Simplul faptul că, în documentația de atribuire, este prevăzută durata acestei garanții nu este nici suficient, nici edificator față de întrebarea efectiv adresată" intimata a cosiderat că este lipsită de fundament.
+
+Prin contestația înregistrată la CNSC, Petenta a criticat modul în care Entitatea Contractantă a răspuns solicitărilor de clarificări ce vizează faptul că, "(...) nu a fost clarificat nici modalitatea în care va fi acordată garanția acestor lucrări, aceasta oferind un răspuns vag, necorelat cu întrebarea concret adresată în acest scop și, totodată, dependent de informații ulterioare, inaccesibile/incerte, în speță, faptul că la întrebarea explicită adresată de către un operator privind garanția lucrărilor de CE, entitatea contractantă indică faptul că "în funcție de operatorul economic declarat câștigător, soluțiile tehnice elaborate în faza de proiect tehnice, Beneficiarul va aviza în mod corespunzător Antreprenorului cu privire la garanția de bună execuție aferentă instalației de centralizare electronică din stația #####", și a susținut că, anterior depunerii ofertei, operatorilor economici interesați nu li s-a permis a cunoaște, și implicit nu își pot asuma nici tipul, nici valoarea garanției lucrărilor, ci la această întrebare entitatea contractantă a răspuns făcând trimitere la garanția de bună execuție.
+
+Referitor la această critică, Consiliul constată în mod corect că : "(...) întrebarea și răspunsul referitoare la garanția lucrărilor de adaptare a instalației CE ##### se regăsește în Răspuns consolidat nr. 2 la solicitările de clarificări, înregistrat sub nr. 17.A/1/111/10.07.2024, având următorul conținut:
+
+"întrebare 2
+
+Referința 2: Garanție lucrări adaptare instalație CE #####
+
+Solicitare 2: Vă rugăm să confirmați faptul că garanția aferentă lucrărilor de adaptare a instalației CE ##### este aplicabilă doar lucrărilor ce vor fi executate la instalația CE existentă și nu întregii instalații CE" și răspuns "2. ##### în vedere că la acest moment procedura este în desfășurarea și nu se știe cine va executa în mod dar lucrările aferente centralizării electronice din stația ##### și dacă există necesitatea adaptării acestei instalații, facem precizarea că în funcție de operatorul economic declarat câștigător, a soluțiilor tehnice elaborate în faza de Proiect Tehnic, Beneficiarul va aviza în mod corespunzător Antreprenorul cu privire la garanția de bună execuție aferentă instalației de centralizare electronică din stația #####".
+
+Potrivit anunțului de participare CN ##########.03.2024, Cap. III.4) Descrierea succintă, entitatea contractantă a adus la cunoștința potențialilor ofertanți faptul că "Perioada de garanție - minim 60 de luni de la recepția la terminarea lucrărilor", o informație similară se regăsește și în Formularul 10- Popunere financiară, Anexa nr. 1 în ##### centralizator termene de execuție/garanție, potrivit căruia "Perioada de garanție acordată lucrării, exprimată în luni (minim 60 luni)".
+
+Consiliul, a analizat critica Petentei și a constatat că, informația cu privire la garanția lucrărilor a fost adusă la cunoștința operatorilor economici interesați de participarea la prezenta procedură de atribuire.
+
+În soluționarea criticilor Petentei, Consiliul reține că "(...) obiectul contractului ce face obiectul procedurii de achiziție îl constituie atât proiectarea cât și execuția iar în acest moment sunt elemente din contract care nu pot fi identificate, eventuale lucrări de adaptare a instalației CE ##### și garanția aferentă acestora vor putea fi cunoscute la momentul identificării și necesității efectuării lor în funcție de soluția tehnică ofertată de câștigătorul procedurii de atribuire."
+
+Consiliul constată că este nefondată susținerea Petentei potrivit căreia Entitatea Contractantă cunoaște la momentul elaborării documentației de atribuire dacă vor exista lucrări de adaptare a instalației CE ##### și care sunt acestea și că în mod netransparent refuză să pună la dispoziție ofertanților astfel de informații de vreme ce nu se cunoaște soluția tehnică ofertată.
+
+A considerat că, în mod corect Consiliul reține că răspunsul Entității Contractante a fost clar cu privire la întrebarea "să confirmați faptul că garanția aferentă lucrărilor de adaptare a instalației CE ##### este aplicabilă doar lucrărilor ce vor fi executate la instalația CE existentă și nu întregii instalații CE" în condițiile în care i-a comunicat operatorului economic solicitant faptul că "dacă există necesitatea adaptării acestei instalații, (...) Beneficiarul va aviza în mod corespunzător Antreprenorul cu privire la garanția de bună execuție aferentă instalației de centralizare electronică din stația #####".
+
+În considerentele Deciziei contestate, Consiliul constată că prin concluziile scrise depuse la Consiliu în data de 06.08.2024 sub nr. _____, contrar susținerilor din contestație, ALSTOM afirmă că "nici prin răspunsul la clarificări și, cu atât mai puțin, prin punctul de vedere, CFR nu a clarificat dacă garanția aferentă lucrărilor CE ##### este aplicabilă doar lucrărilor ce vor fi executate la instalația CE existentă și nu întregii instalații CE, scopul solicitării de clarificări", deși, după cum rezultă din solicitarea de clarificări întrebarea viza "garanția aferentă lucrărilor de adaptare a instalației CE #####" și nicidecum, așa cum afirmă prin concluzii scrise când face vorbire despre cu totul altceva, respectiv despre garanția aferentă lucrărilor CE " nu a clarificat dacă garanția aferentă lucrărilor CE #####. Or, așa cum s-a reținut anterior, garanția pentru lucrările executate în cadrul contractului va fi de 60 luni, răspunsul la clarificarea nr. 2 de la solicitarea de clarificări nr 53 este clar și cu respectarea art. 172 alin. (2) din Legea nr. 99/2016 și principiului transparenței statuat de art. 2 din Legea nr. 99/2016, motiv pentru care criticile cu privire la acesta vor fi respinse.
+
+Consiliul reține în soluționarea criticii că scopul investiției este de asigurare a exploatării continue și în condiții de siguranță a sistemului feroviar al Uniunii, respectiv exploatarea la parametrii tehnici și funcționali conveniți la nivel european și eliminarea oricăror disfuncționalități în timpul operării acestuia, garanția de bună execuție aferentă instalației de centralizare electronică constituind un element în obținerea scopului propus, respectiv funcționarea continuă și în siguranță a întregului sistem feroviar.
+
+Consiliul respinge ca nefondate și susținerile Alstom din concluziile scrise potrivit cărora " (...) necorelarea între cele două răspunsuri la clarificări și imposibilitatea practică de pregătire și depunere a unei propuneri financiare conforme și corecte în contextul în care clarificările la documentația de atribuire redau modalități diferite de cotare a lucrărilor CE #####, având în vedere că în prezenta procedură de atribuire, la momentul soluționării contestației, se constată că au fost depuse două oferte, dovadă că elaborarea ofertelor nu a fost împiedicată de modul în care au fost elaborate răspunsurile de clarificări de către entitatea contractantă."
+
+Pentru toate aceste considerente de fapt și de drept, Consiliul în temeiul art. 26 alin. (6) din Legea nr. 101/2016, constată caracterul nefondat al criticilor Petentei și respinge contestația formulată de Alstom în contradictoriu cu #### ### SA ca nefondată.
+
+A menționat că Decizia contestată este temeinică și legală, critica aferentă perioadei de garanție, este doar un demers nejustificat de prelungire nejustificată a termenului de depunere și a întârzierii unui proiect de importanța națională și internațională, bazat pe pure supoziții și interpretări proprii, având în vedere că Entitatea Contractantă a precizat în mod clar în cadrul Anunțului de Participare CN1066805/25.03.2024, perioada de garanție a lucărilor ca fiind de minim 60 de luni, iar prin răspunsul la solicitarea de clarificări nr. 53, solicitarea 2, din Răspunsul Consolidat nr.2 având numărul 17.A##########.07.2024, având în vedere faptul că perioada garanție este și factor de evaluare, precum și posibilitatea ca lucrarea de CE din Stația ##### să fie executată de același operator economic cu cel care a efectuat lucarea existentă, a oferit clarificări suplimentare celor din Anunțul de Participare, și anume: "##### in vedere ca la acest moment procedura este in desfășurare si nu se știe cine va executa in mod clar lucrările aferente centralizării electronice din stația ##### si daca exista necesitatea adaptorii acestei instalații, facem precizarea ca in funcție de operatorul economic declarat câștigător, a soluțiilor tehnice elaborate in faza de Proiect Tehnic, Beneficiarul va aviza in mod corespunzător Antreprenorul cu privire la garanția de buna execuție aferenta instalației de centralizare electronica din statia #####."
+
+Intimata a mai precizat faptul că Entitatea Contractantă a răspuns la toate solicitările depuse pe platforma SEAP pană la data prezentei, indiferent de natura acestora, răspunsurile oferite la solicitările de clarificări au fost clare și complete, așa cum în mod corect a constatat și Consiliul prin Decizia contestată, reflectând modul în care Entitatea Contractantă a înțeles întrebările formulate de operatorul economic. Răspunsurile la solicitările de clarificări au fost elaborate cu respectarea prevederilor documentației de atribuire, a regulamentelor tehnice feroviare, a prevederilor contractuale aplicabile și a legislației în vigoare.
+
+De asemenea, a susținut că răspunsurile oferite la solicitările de clarificări au respectat principiul transparentei, prezenta procedură de atribuire presupunând proiectarea și execuția unor lucrări cu specific feroviar cu grad ridicat de complexitate de diferite tipologii constructive tehnice și dimensionale pentru care Entitatea Contractantă a și solicitat demonstrarea experienței anterioare prin contracte similare, deci se adresează unui segment specializat de operatori economici, în domeniul infrastructurii feroviare, care în baza expertizei anterioare se prezumă că au deplină înțelegere a tuturor etapelor procesului și sunt în măsură să îndeplinească în mod corespunzător activitățile necesare.
+
+A menționat că în respectarea principiilor prevăzute la art.2 alin.(2) din Legea nr.99/2016 referitoare la nediscriminare, tratament egal și transparență, documentația de atribuire a fost disponibilă, în integralitate, prin intermediul platformei S.E.A.P., permițând astfel accesul nerestricționat, direct și complet la conținutul acesteia, tuturor operatorilor economici interesați, începând cu data publicării anunțului de participare.
+
+Referitor la presupusurile răspunsuri contradictorii, a precizat că susținerile Petentei au fost în mod corect analizate de către Consiliu prin Decizia contestată și respinse ca nefondate, întrucât, din probatoriul depus la dosarul CNSC, nu rezultă faptul că Entitatea Contractantă a susținut altceva în afară de faptul că lucrările aferente CE din stația CF ##### au fost luate în considerare la stabilirea Valorii Estimate. A fost prevăzută rubrica distinctă în cadrul Formularului de Propunere Financiară pentru lucrările CE din Statia CF #####\ Perioada de garanție a lucrărilor aferente CE Stației CF ##### sunt de minim 60 de luni (prin anunțul de participare) și au fost oferite clarificării suplimentare prin Răspunsul la Clarificări. Procedura este supusă verificării ex-ante ANAP și există Aviz Conform Necondiționat cu privire la Răspunsul la Solicitările de clarificări nr. 2 - obiectul contestației.
+
+A menționat că prevederile documentației de atribuire nu au fost contestate, astfel că acestea și-au consolidat caracterul obligatoriu pentru ofertanții care, potrivit prevederilor art. 88 din Legea nr.99/2016, au obligația de a elabora ofertele în conformitate cu prevederile documentației de atribuire. In acest sens, este și Decizia civilă nr. #### din 24 septembrie 2012, pronunțată de Curtea de Apel București, Secția a VIII-a contencios administrativ și fiscal în materia achizițiilor publice, care a stabilit că operatorii economici trebuie să manifeste o diligență sporită în privința cerințelor legale și a celor cuprinse în documentația de atribuire, astfel că, în condițiile în care nu au uzat de dreptul de a contesta anumite cerințe precizate în cuprinsul documentației de atribuire, au acceptat să se supună rigorilor acestora.
+
+Astfel, intimata a solicitat instanței să rețină și să constate diligența Entității Contractante care în conformitate cu prevederile art. 14, alin. (1) din Legea nr.99/2016 cu modificările și completările ulterioare și în aplicarea prevederilor art. 117, alin. (1) din Legea nr.99/2016 a prevăzut suplimentar valorii estimate, posibilitatea achiziției ulterioare de noi servicii și/sau lucrări similare de la ofertantul a cărui ofertă a fost declarată câștigătoare în cadrul prezentei proceduri de achiziție suma de 85.642.083,40 Lei fără TVA, reprezentând 20% din valoarea estimată a contractului (#### valorile estimate pentru rezervele de implementare și organizarea de șantier). Valoarea Estimată Totală a contractului (inclusiv servicii/lucrări similare) este de ___________,97 lei fără TVA Valoarea Estimata Totală a contractului (inclusiv servicii/lucrări similare) este intervalul ___________,57 Lei - ___________,97 Lei, fără TVA, respectiv intervalul ___________,26 Lei - ___________,50 Lei cu TVA.
+
+CNCF "CFR" S.A. a publicat documentația de atribuire prin intermediul platformei S.E.A.P., respectând principiile prevăzute la art.2 alin.(2) din Legea nr.99/2016, operatorii economici având acces la conținutul acesteia, începând cu data publicării anunțului de participare.
+
+#### ceilalți operatori economici interesați de prezenta procedură și care au depus solicitări de clarificări acționează cu diligență și reușesc să își întocmească oferta pe baza aceleiași documentații tehnice și înțeleg mecanismul rezervelor de implementare și faptul că obiectivul de investiție este de o complexitate ridicată.
+
+În concluzie, având în vedere toate argumentele de fapt și de drept prezentate privind netemeinicia Plângerii, cu raportare la toate înscrisurile din dosarul achiziției, a solicitat respingerea Plângerii ca neîntemeiată și pe cale de consecință, menținerea ca temeinică și legală a Deciziei nr.####/C4/2484 pronunțată în data de 12.08.2024 de către Consiliul N_______ de Soluționare a Contestațiilor, și menținerea Răspunsul consolidat la solicitările de clarificări nr. 2 din data de 10.07.2024, înregistrat sub nr. 17.A##########.07.2024, transmis de Entitatea Contractantă prin intermediul platformei SEAP, către toți operatorii economici interesați. 
+
+În drept, intimata și-a întemeiat întâmpinarea pe dispozițiile art. 205-208 din Codul de procedură civilă, coroborate cu art. 31 alin. (2 ) din Legea ######## privind remediile și căile de atac în materie de atribuire a contractelor de achiziție publică, a contractelor sectoriale și a contractelor de concesiune de lucrări și concesiune de servicii, precum și pentru organizarea și funcționarea Consiliului N_______ de Soluționare a Contestațiilor, împreună cu toate dispozițiile legale la care a făcut referire în cuprinsul întâmpinării.
+
+Analizand actele și lucrarile dosarului, Curtea reține urmatoarele:
+
+######## NAȚIONALĂ DE CĂI FERATE "CFR" - SA, în calitate de entitate contractantă, a inițiat procedura licitație deschisă prin anunțul de participare nr. CN1066805 din data de 25.03.2024 în vederea atribuirii contractului de lucrări având ca obiect "Proiectare și execuție lucrări aferente obiectului de investiții «Modernizarea infrastructurii feroviare din portul C________ – Etapa II»".
+
+Valoarea totală estimată a procedurii de atribuire este cuprinsă între ___________,57 lei și ___________,97 lei, fără TVA, criteriul de atribuire "Cel mai bun raport calitate-preț".
+
+Împotriva prevederilor documentației de atribuire și a unor răspunsuri la solicitări de clarificări emise de entitatea contractantă, respectiv împotriva răspunsului la întrebarea nr. 4 din cadrul solicitării de clarificări nr. 44 și a răspunsului la întrebările nr. 1 și 2 din cadrul solicitării de clarificări nr. 53, aduse la cunoștința operatorilor economici interesați prin adresa de răspuns consolidat nr. 2, emisă de ######## NAȚIONALĂ DE CĂI FERATE "CFR" SA, în calitate de autoritate contractantă, în cadrul procedurii de licitație deschisă organizată în vederea încheierii acordului-cadru având ca obiect "Modernizarea infrastructurii feroviare din Portul Constanța – etapa II", a formulat contestație ###### ######### SA, prin care a solicitat modificarea răspunsului la întrebarea nr. 4 din cadrul solicitării de clarificări nr. 44 și a răspunsului la întrebările nr. 1 și 2 din cadrul solicitării de clarificări nr. 53, aduse la cunoștința operatorilor economici interesați prin adresa de răspuns consolidat nr. 2, înregistrată de către CFR sub nr. 17.A##########.07.2024; obligarea entității contractante la continuarea procedurii de atribuire cu respectarea dispozițiilor legale în materia achizițiilor publice, prin modificarea/eliminarea răspunsurilor la clarificări neclare și necorelate, care conduc la restrângerea artificială a concurenței, precum și la încălcarea principiilor transparenței și tratamentului egal.
+
+Prin contestația formulata contestatoarea ###### ######### SA a criticat răspunsul la întrebarea nr. 4 din cadrul solicitării de clarificări nr. 44 și răspunsul la întrebările nr. 1 și 2 din cadrul solicitării de clarificări nr. 53, răspunsul la solicitările de clarificare nr. 2, în partea care vizează modalitatea de cotare a lucrărilor de modificare a instalației de centralizare electronică din stația ##### și garanția aferentă acestora, cu privire la care au fost oferite, în mod succesiv, informații neclare și contradictorii privind modalitatea de ofertare, mai exact:
+
+a) Pe de-o parte, s-a indicat faptul că valoarea acestor lucrări reprezintă sume provizionate, fiind incluse în Rezervele de Implementare; această clarificare a fost explicit oferită prin răspunsul anterior, prilej cu care CFR explicit a indicat cap. 9 al Rezervelor de Implementare pentru asemenea cheltuieli. Nicio altă distincție privind sub-categorii ale acestei sume nu a fost indicată în acel răspuns și nici nu rezultă din documentația de atribuire;
+
+b) Pe de altă parte, prin răspunsul contestat, se indică faptul că lucrările CE ##### ar trebui, de fapt, cotate în cadrul subcapitolului 3.1. al Anexei 1 din Formularul 10 (care corespunde lucrărilor principale), cu mențiunea (contrară celei anterioare), în sensul că "entitatea a prevăzut această sumă în cadrul rezervei de implementare în eventualitatea în care va fi necesară adaptarea instalației de centralizare electronică din stația #####".
+
+Prin urmare, răspunsul contestat induce impresia că o parte dintre activitățile care compun lucrările CE ##### trebuie cotate în cap. 3.1 (ca lucrări principale), iar o alta (corespunzătoare lucrărilor de "adaptare" - însă nedefinite) ar trebui inclusă în Rezervele de Implementare. #### răspunsul contestat, nici documentația de atribuire nu definesc, însă, care sunt lucrările care constituite "adaptare" (și, deci, trebuie incluse în Rezervele de Implementare) și care sunt restul celor care "se execută" (și care trebuie incluse în 3.1), situație de natură a genera semnificativ îndoieli privind modalitatea corectă și unitară de ofertare a acestor lucrări.
+
+c) Mai mult, entitatea contractantă nu clarifică nici modalitatea în care va fi acordată garanția acestor lucrări, oferind un răspuns vag, necorelat cu întrebarea concret adresată în acest scop și, totodată, dependent de informații ulterioare, inaccesibile/incerte; mai exact, la întrebarea explicită adresată de către un operator privind garanția lucrărilor de CE, CFR indică faptul că "în funcție de operatorul economic declarat câștigător, soluțiile tehnice elaborate în faza de proiect tehnic, beneficiarul va aviza în mod corespunzător antreprenorul cu privire la garanția de bună execuție aferentă instalației de centralizare electronică din stația #####".
+
+Prin Decizia nr. ####/C4/2484/12.08.2024 pronuntata de C.N.S.C. în temeiul art. 26 alin. (6) din Legea nr. 101/2016 a fost respinsă ca nefondată, contestația formulată de ###### ######### SA, în contradictoriu cu ######## NAȚIONALĂ DE CĂI FERATE "CFR" - SA.
+
+Prin plangerea formulata împotriva acestei decizii, petenta contestatoare a sustinut că C.N.S.C. a ignorat faptul că documentația de atribuire nu este nici completă, nici clară, nefiind respectate dispozițiile art. 164 din Legea nr.99/2016 întrucât:
+
+- nu se cunoaște modalitatea concretă în care s-ar putea elabora propunerea financiară în ceea ce privește "modificarea instalației CE #####"; pretinsa imposibilitate de redare a unor informații complete, clare și precise privind modalitatea de elaborare a Anexei nr. 2 sub pretextul că nu se cunoaște "cine va executa în mod clar lucrările aferente centralizării electronice din stația #####" denotă eludarea principiilor transparenței și tratamentului egal.
+
+- nu se cunoaște care ar fi lucrările aferente "modificării" instalației CE ##### care ar putea fi incluse în Anexa nr. 1 si care ar fi lucrările aferente "adaptării" care au fost luate în considerare în cadrul rezervelor de implementare. #### termenii (neidentificați în documentația de atribuire) sunt vehiculați dezinvolt de către CNSC și CFR, nicio detaliere privind modernizarea/adaptarea nu se regăsește, devenind așadar și mai incert ce conține fiecare dintre aceste categorii și, în consecință, cum se dimensionează valoric.
+
+Petenta a mai susținut că CNSC a ignorat faptul că Entitatea contractantă nu a răspuns solicitării de clarificări privind întinderea garanției de participare. Mai exact, în forma actuală a documentației de atribuire nu sunt redate limitele obligațiilor pe care ofertantul câștigător și le va asuma în ceea ce privește garanția "modificării instalației CE #####", răspunsul Entității contractante vizând alte aspecte aferente derulării contractului.
+
+Curtea apreciază neîntemeiate aceste critici formulate de către petentă.
+
+In speță, Curtea reține aplicabilitatea dispozițiilor art. 172 din Legea nr. 99/2016 conform cărora "(1) Orice operator economic interesat are dreptul de a solicita clarificări sau informații suplimentare în legătură cu documentația de atribuire, cu respectarea termenului-limită stabilit de entitatea contractantă în anunțul de participare/simplificat/de concurs.
+
+(2) Entitatea contractantă stabilește prin anunțul de participare/simplificat/de concurs unul sau două termene-limită în care va răspunde în mod clar și complet tuturor solicitărilor de clarificare/informațiilor suplimentare, conform prevederilor normelor metodologice de aplicare a prevederilor prezentei legi".
+
+De asemenea, Curtea reține că entitatea contractantă are obligația de respecta și asigura transparența procedurii de atribuire a contractelor de achiziție publică și toți participanții trebuie să cunoască în prealabil regulile aplicabile atribuirii și trebuie să aibă certitudinea că aceste reguli sunt aplicabile tuturor, în aceleași condiții, în conformitate cu dispozițiile art. 2 alin. 2 lit. b), d) din Legea nr. 99/2016.
+
+Instanța europeană a afirmat că respectarea principiului transparenței presupune că autoritatea contractanta are " obligația de a respecta cu strictețe criteriile pe care ea însăși le-a stabilit prin documentația de atribuire. Această considerație este cu atât mai importantă cu cât miza este excluderea din procedură." – Hotararea CJUE din 10.10.2013, cauza C-336/12, Manova, Hotararea CJUE din 06.11.2014, cauza C-42/13, Cartiera dell ####, Hotararea CJUE din 02.06.2016, cauza C-27/15, ##### Pizzo.
+
+Principiul transparenței, care este corolarul egalității de tratament, este menit să împiedice riscul de favoritism sau arbitrar din partea autorității contractante.
+
+Curtea reține că toate condițiile și normele detaliate ale procedurii de atribuire trebuie redactate într-o maniera clară, precisă și neechivocă în anunțul de participare sau în caietul de sarcini, astfel încat, în primul rand, să permita tuturor ofertanților informați în mod rezonabil și obișnuit de diligenți să le înțeleaga conținutul exact si să le interpreteze în același mod și totodată, să permita enității contractante să verifice efectiv daca ofertele corespund criteriilor care guverneaza contractul.
+
+Examinand înscrisurile ce compun dosarul achiziției publice, Curtea reține că în solicitarea de clarificări nr. 44 este formulată următoarea întrebare cu nr. 4:
+
+"Întrebarea 4
+
+Vă rugăm să confirmați că ofertanții nu vor cota, pe intervalul LINIE DE LEGĂTURĂ ÎNTRE GRUPA DE AȘTEPTARE #### LUI ###### ȘI ##### și categoria de lucrări 3. Instalații de Semnalizare și Centralizare inclusiv ERTMS
+
+(n.n.tabel) LISTA PRINCIPALELOR CATEGORII DE LUCRĂRI
+
+3 Instalații de Semnalizare și Centralizare inclusiv ERTMS [3.1÷3.4]
+
+#### Stația #####
+
+#### Agigea ####
+
+#### Agigea ######
+
+#### Stația ##### Boat (...)
+
+Corelați răspunsul cu documentația revizuită, inclusiv Anexa nr. 1 la Formularul 10 de Propunere Financiară".
+
+Cu privire la aceasta întrebare, entitatea contractantă a formulat răspunsul "4. ##### în vedere că acest capitol din cadrul Formularului 10 include mai multe stații de cale ferată, în stațiile Agigea ####, Agigea ###### și ##### Boat se vor efectua lucrări de ERTMS, iar în stația ##### doar lucrări de semnalizare și centralizare, astfel pentru subcapitolul aferent stației ##### se vor cota doar lucrările care se execută.
+
+Totodată, vă aducem la cunoștință că în conformitate cu prevederile Memoriului Tehnic și a Caietului de Sarcini, în stația ##### și pe intervalul #### lui ###### și ##### nu se vor executa lucrări de ERTMS, acestea fac obiectul altei proceduri".
+
+In ceea ce privreste solicitarea de clarificări nr. 53 "Întrebarea 1; Referința 1: Cuantum suma previzionată adaptare instalație CE #####
+
+În cadrul răspunsului CFR 17.A/1/816/10.06.2024 pag 2/148 se menționează faptul că Adaptarea Instalației de Centralizare Electronică din Stația CF #####, se va realiza din sumele prevăzute în cadrul Valorii Estimate incluzând Rezervele de Implementare (sume provizionate).
+
+«Modificarea/Adaptarea Instalației de Centralizare Electronică din Stația CF #####, se va realiza din sumele prevăzute în cadrul Valorii Estimate, incluzând Rezervele de Implementare (sume provizionate) și nu din sumele suplimentare aferente unor servicii similare noi).
+
+Valoarea necesară realizării modificării instalației de centralizare electronică din stația #####, a fost inclusă în cadrul Valorii Estimate a achiziției, respectiv suma de ___________,57 Lei, fără TVA, ca și sumă provizionată în cadrul Rezervelor de Implementare, capitolul 9 din Rezervele de Implementare Cheltuieli care rezultă din modificări necesar a fi efectuate pentru adaptarea proiectului tehnic la realitatea din teren, inclusiv schimbări de soluții tehnice punctuale».
+
+În capitolul 9 din Rezervele de Implementare Cheltuieli apare menționat:
+
+«Cheltuieli care rezultă din modificări necesar a fi efectuate pentru adaptarea proiectului tehnic la realitatea din teren, inclusiv schimbări de soluții tehnice punctuale.
+
+Valoare estimată (LEI fără TVA) = 10.406.085,35»
+
+Conform Formularul 10, metoda de plată aferentă sumelor din cadrul valorilor estimată respectă art. 5.4 din Acordul Contractual fiind diferită de cele care fac obiectul contractului inclusiv notele aferente formularului 10.
+
+#### 1: Categoriile de cheltuieli care se finanțează din rezervele de implementare sunt numai cele incluse în Lista categoriilor de cheltuieli care se finanțează din rezervele de implementare – partea integrantă din documentația de atribuire. Sumele aferente acestor categorii de cheltuieli sunt cele publicate de Entitatea Contractantă mai sus.
+
+#### 2: Sumele stabilite de Beneficiar pentru fiecare categorie de cheltuieli în parte nu vor putea fi modificate de ofertanți în cursul elaborării ofertelor.
+
+#### 3: Categoriile de cheltuieli care se finanțează din rezervele de implementare nu fac obiectul unor actualizări/indexări/ajustări ale prețurilor.
+
+#### 4: #### permisă realizarea de compensări/relocări între categoriile de cheltuieli ce compun rezervele de implementare, cu îndeplinirea următoarelor condiții:
+
+- să se demonstreze că aceasta este necesară și oportună,
+
+- să se demonstreze că aceasta nu va afecta negativ derularea contractului
+
+- valoarea totală a tuturor categoriilor de cheltuilei ce sunt finanțate din rezervele de implementare nu depășește valoarea totală a rezervelor de implementare publicată de Entitatea Contractantă în documentația de atribuire.
+
+Solicitare 1: ##### în vedere faptul că adaptarea instalației CE ##### face obiectul procedurii curente, explicit menționat în documentația de atribuire și nu reprezintă «Cheltuieli care rezultă din modificări necesar a fi efectuate pentru adaptarea proiectului tehnic» vă rugăm să actualizați Formularul 10 prin indicarea distinctă și explicit în ##### centralizator de preț a sumei provizionată aferentă adaptării instalației CE #####, alături de cele 2 sume provizionate existente".
+
+Entitatea contractantă a formulat următorul răspuns "1. Vă aducem la cunoștință că suma aferentă lucrărilor de centralizare electronică din stația ##### face obiectul subcapitolului 3.1 Anexa 1 din Formularul 10 pus la dispoziție de Entitatea Contractantă, unde operatorii economici au posibilitatea cotării acesteia.
+
+##### în vedere că la acest moment procedura este în desfășurare și nu se știe cine va executa în mod clar lucrările aferente centralizării electronice din stația #####, Entitatea Contractantă a prevăzut în mod diligent această sumă în cadrul rezervei de implementare în eventualitatea în care va fi necesară adaptarea instalației de centralizare electronică din stația #####.
+
+Astfel, Entitatea Contractantă nu modifică Formularul 10 având în vedere că operatorii economici pot cota lucrările de centralizare electronică în subcapitolul 3.1 din Anexa 1 la Formularul 10".
+
+Contrar sustinerilor neîntemeiate ale petentei, Curtea apreciază că răspunsurile la solicitarile de clarificari au fost formulate în mod clar și explicit de catre autoritatea contractantă, cu respectarea dispozițiilor art. 172 din Legea nr. 99/2016 și a principiilor transparenței și tratamentului egal, statuate de art. 2 alin. (2) din Legea nr. 99/2016.
+
+Conform răspunsului invocat de petenta contestatoare rezultă în mod clar că Formularul 10, Anexa nr. 1, punctul 3, așa cum se arată, în subcapitolul 3.1 aferent Stației #####, se vor cota lucrările de semnalizare și centralizare, fiind confirmată astfel cotarea în propunerea financiară a acestor lucrări în Anexa nr.1, iar valoarea necesară realizării unor eventuale modificării/adaptării ale instalației de centralizare electronică din stația #####, a fost inclusă în cadrul Valorii Estimate a achiziției, respectiv suma de ___________,57 Lei, fără TVA, ca și sumă provizionată în cadrul Rezervelor de Implementare, capitolul 9 din Rezervele de Implementare a Anexei nr. 2, entitatea contractantă precizand că aceste valori urmează a fi folosite doar în situația în care astfel de lucrări sunt necesare.
+
+Curtea subliniază că aspectele care au făcut obiectul clarificărilor sunt legate de Instalații de Semnalizare și Centralizare inclusiv ERTMS, cu privire la care entitatea contractantă a răspuns clar că se vor efectua în "stația ##### doar lucrări de semnalizare și centralizare", lucrări care se regăsesc în Anexa 1 a Formularului 10.
+
+Consiliul a constatat judicios sub acest aspect că entitatea contractantă a "confirmat", așa cum i s-a solicitat, că ofertanții vor cota doar anumite lucrări în Formularul 10, Anexa 1, punctul 3 și că eventualele lucrări de adaptare a instalației au fost prevăzute în mod distinct în Anexa 2 privind sumele prevăzute pentru rezerve de implementate.
+
+Prin urmare, în acord cu Consiliul, Curtea apreciază că în speță, autoritatea contractantă a elaborat un răspuns clar și punctual solicitărilor formulate și nu există informații contradictorii în conținutul răspunsurilor formulate.
+
+Susținerile petentei în sensul că prin răspunsul contestat induce impresia că o parte dintre activitățile care compun Lucrările CE ##### trebuie cotate în cap. 3.1 (ca lucrări principale), iar o alta (corespunzătoare lucrărilor de "adaptare" – nedefinite, însă) ar trebui inclusă în Rezervele de implementare, nu pot fi primite, de vreme ce din răspunsul contestat rezultă fără echivoc că "suma aferentă lucrărilor de centralizare electronică din stația ##### face obiectul subcapitolului 3.1 Anexa 1 din Formularul 10", astfel încât nu există motiv de "actualizare a Formularului 10" după cum a solicitat petenta contestatoare.
+
+De asemenea, Consiliul a reținut judicios că entitatea contractantă nu putea răspunde în sensul solicitat de petenta, de "actualizare" a Formularului 10 "prin indicarea distinctă și explicită în ##### centralizator de preț a sumei provizionată aferentă adaptării instalației CE #####, alături de cele 2 sume provizionate existente", cătă vreme eventualele lucrări de adaptare nu se cunosc încă și nu pot fi identificate întrucât nu se cunoaște cine va executa în mod clar lucrările aferente centralizării electronice din stația #####, astfel încât au fost incluse în rezerve de implementare.
+
+Așadar, susținerile petentei ALSTOM în sensul că toate cheltuielile legate de lucrările de semnalizare și centralizare pentru Stația ##### cât și cele de modificare/adaptare (dacă vor fi necesare) vor fi suportate din valoarea aferentă rezervelor de implementare, sunt neîntemeiate, având în vedere că autoritatea contractantă a indicat distinct cele două tipuri de lucrări și unde vor fi acestea cotate în Formularul 10, respectiv lucrări de modernizare în Anexa nr. 1, iar eventuale lucrări de adaptare în Anexa nr. 2 a acestuia.
+
+Consiliul a reținut judicios că răspunsurile autorității contractante au fost exacte, în sensul că în Anexa 1 la Formularul 10 se vor cota ("doar") lucrările de semnalizare și centralizare pentru Stația ##### (așa cum i s-a solicitat să confirme) iar eventuale lucrări de modificare/adaptare au fost previzionate și incluse în suma aferentă rezervelor de implementare, punctul 9 Anexa nr. 2.
+
+De asemenea, este corectă argumentația în sensul că defalcarea unor astfel de lucrări după cum se solicită nu poate fi făcută, câtă vreme nu se cunoaște în acest moment dacă vor fi necesare astfel de lucrări și care vor fi aceste lucrări, defalcarea unor astfel de lucrări după cum se solicită nu poate fi făcută acesta fiind și motivul pentru care ele au fost previzionate ca potențiale lucrări fără a se cunoaște dacă chiar vor fi necesare.
+
+In ceea ce privește susținerea petentei în sensul că aceeași categorie de lucrări nu poate fi cotată atât în cadrul Anexei nr. 1, cât și în cadrul Anexei nr. 2 întrucât valoarea rezultată din însumarea lor ar conduce la dublarea acestei categorii, Curtea, în acord cu Consiliul, o constată ca fiind nefondată, avand în vedere că din răspunsurile la solicitările de clarificări rezultă în mod clar că lucrările sunt distincte, respectiv lucrări de semnalizare și centralizare sunt cotate în propunerea financiară, Formularul 10 Anexa nr. 1, tabel Lista principalelor categorii de lucrări, punctul 3 iar lucrările de modificare/adaptare (în măsura în care vor fi necesare) se regăsesc în Formularul 10, Anexa 2 tabel Sume provizionate reprezentând rezerve de implementare punctul 9 "Cheltuieli care rezultă din modificări necesar a fi efectuate pentru adaptarea proiectului tehnic la realitatea din teren inclusiv schimbări de soluții tehnice punctuale".
+
+Astfel, susținerile petentei de "dublare" a lucrărilor aferente Stației #####, nu pot fi primite, câtă vreme aceste lucrări sunt diferite, în timp ce primele sunt lucrări cunoscute, de cotat și executat iar secundele sunt lucrări posibile, lucrări care nu pot fi identificate la data elaborării documentației de atribuire, motiv pentru care ele au fost incluse în sumele previzionate ca rezerve de implementare, sume care au caracterul unor măsuri de siguranță pentru lucrări care ar putea să apară în perioada de derulare a contractului, cum în mod judicios a reținut Consiliul.
+
+Nu poate fi primită nici susținerea petentei în sensul că un răspuns anterior, necontestat și rămas definitiv, nu poate fi clarificat/lămurit suplimentar printr-un nou răspuns, Consiliul reținand judicios că ultima clarificare adusă unor prevederi ale documentației de atribuire care lămurește cât mai fidel și exact o anumită situație, va face ca răspunsul anterior să devină caduc, modificarea prevederilor documentației de atribuire sau înțelesul lămurit al acestora fiind în sensul ultimei modificări.
+
+Or, astfel cum rezultă din conținutul răspunsurilor la solicitările de clarificări, acestea au fost clare și în sensul lămuririi cât mai exacte a modului de elaborare a propunerii financiare cât și corelarea acesteia cu propunerea tehnică, nefiind în contradicție cu răspunsurile la solicitările de clarificări anterioare, astfel că în mod corect Consiliul a respins ca nefondate criticile formulate cu privire la acestea.
+
+In continuare, în ceea ce privește critica petentei contestatoare cu referire la faptul că raportat la modul în care entitatea contractantă a răspuns solicitărilor de clarificări nu a fost clarificată modalitatea în care va fi acordată garanția lucrărilor, aceasta oferind un răspuns vag, necorelat cu întrebarea concret adresată în acest scop și, totodată, dependent de informații ulterioare, inaccesibile/incerte, Curtea apreciază că este neîntemeiata.
+
+Curtea reține că Răspunsul consolidat Nr. 2 la solicitările de clarificări, înregistrat sub nr. 17.A/1/111/10.07.2024, are următorul conținut:
+
+"Întrebare 2
+
+Referința 2: Garanție lucrări adaptare instalație CE #####
+
+Solicitare 2: Vă rugăm să confirmați faptul că garanția aferentă lucrărilor de adaptare a instalației CE ##### este aplicabilă doar lucrărilor ce vor fi executate la instalația CE existentă și nu întregii instalații CE" și răspuns "2. ##### în vedere că la acest moment procedura este în desfășurare și nu se știe cine va executa în mod clar lucrările aferente centralizării electronice din stația ##### și dacă există necesitatea adaptării acestei instalații, facem precizarea că în funcție de operatorul economic declarat câștigător, a soluțiilor tehnice elaborate în faza de Proiect Tehnic, Beneficiarul va aviza în mod corespunzător Antreprenorul cu privire la garanția de bună execuție aferentă instalației de centralizare electronică din stația #####".
+
+Potrivit anunțului de participare CN1066805/25.03.2024, Cap. II1.4) Descrierea succintă, entitatea contractantă a adus la cunoștința potențialilor ofertanți faptul că "Perioada de garanție – minim 60 de luni de la recepția la terminarea lucrărilor", o informație similară se regăsește și în Formularul 10 – Popunere financiară, Anexa nr. 1 în ##### centralizator termene de execuție/garanție, potrivit căruia "Perioada de garanție acordată lucrării, exprimată în luni (minim 60 luni)".
+
+Curtea reține că informația cu privire la garanția lucrărilor a fost adusă la cunoștința operatorilor economici interesați de participarea la prezenta procedură de atribuire, garanția pentru lucrările executate în cadrul contractului fiind de minim 60 luni de la recepția la terminarea lucrărilor, și apreciază că raspunsul la solicitarile de clarificari elaborat de entitatea contractanta este clar și complet, fiind emis cu respectarea prevederilor art. 172 alin. (2) din Legea nr. 99/2016 și principiului transparenței statuat de art. 2 din Legea nr. 99/2016.
+
+De asemenea, Consiliul a reținut întemeiat, având în vedere și răspunsul la clarificări emis de către autoritatea contractantă, că în speță obiectul contractului de achiziție îl constituie atât proiectare cât și execuție, iar în acest moment sunt elemente din contract care nu pot fi identificate, eventuale lucrări de adaptare a instalației CE ##### și garanția aferentă acestor lucrări vor putea fi cunoscute la momentul identificării și necesității efectuării lor în funcție de soluția tehnică ofertată de câștigătorul procedurii de atribuire.
+
+Totodată, Curtea apreciază că în mod corect Consiliul a respins ca nefondate și susținerile contestatoarei conform cărora necorelarea între cele două răspunsuri la clarificări și imposibilitatea practică de pregătire și depunere a unei propuneri financiare conforme și corecte în contextul în care clarificările la documentația de atribuire redau modalități diferite de cotare a lucrărilor CE #####, de vreme ce în procedura de atribuire, la momentul soluționării contestației, au fost depuse două oferte, astfel că, se poate conchide că elaborarea ofertelor nu a fost împiedicată de modul în care autoritatea contractantă a elaborat răspunsurile la clarificări.
+
+Pentru toate aceste considerente, Curtea constată că decizia Consiliului este legală și temeinică, astfel că în temeiul art. 34 alin. 5 din Legea nr. 101/2016, va respinge plângerea formulată de petenta ###### ######### SA, ca nefondata.
+
+PENTRU ACESTE MOTIVE,
+
+ÎN NUMELE LEGII
+
+DECIDE:
+
+Respinge plângerea formulată de petenta ###### ######### SA, cod fiscal [CUI], cu sediul procesual ales pentru comunicarea actelor de procedură la C.A. #### #######, în București, #### ##### ####### ### ##-15, clădirea Hub Design, ### #, sector 3, împotriva Deciziei CNSC nr.2273/C4/2484 din data de 12.08.024, în contradictoriu cu intimata ######## ######### ## ### ###### ### SA, ###### ########, cu sediul în București, B-dul ###### ####### nr. 38, sector 1, ca nefondata.
+
+Definitiva.
+
+Pronuntata, azi, 14 octombrie 2024, prin punerea solutiei la dispozitia partilor prin mijlocirea grefei instanței.
+
+Președinte,
+
+########-###### #########
+
+Judecător,
+
+###### ##########
+
+Judecător,
+
+###### ###
+
+Grefier,
+
+##########-####### #####
+
+Red./Tehnored/R.P.
+
+2 ex. originale/2 ex. pt. comunicare
+
+1 ex. #### ####### ##. au fost comunicate la data de _____________________ – semnătură grefier _____________________
+
+Sursa www.rejust.ro Cod RJ: 232g28284
+

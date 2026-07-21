@@ -1,0 +1,909 @@
+DECIZIE CNSC BO2017_2693 — text integral (anonimizat de CNSC la publicare; raționament/considerente complete).
+Citeaz-o prin BO2017_2693.
+
+CONSILIUL NAȚIONAL DE
+SOLUȚIONARE A CONTESTAȚIILOR
+Str. Stavropoleos nr. 6, sector 3, București, cod poștal 030084, România
+Tel: +4 021.310.46.41 Fax: +4 021.890.07.45 și +4 021.310.46.42 www.cnsc.ro
+În conformitate cu prevederile art. 12 alin. (1) și ale art. 27
+alin. (1) din Legea nr. 101/2016 privind remediile și căile de atac
+în materie de atribuire a contractelor de achiziție publică, a
+contractelor sectoriale și a contractelor de concesiune de lucrări
+și concesiune de servicii, precum și pentru organizarea și
+funcționarea Consiliului Național de Soluționare a Contestațiilor,
+Consiliul adoptă următoarea
+DECIZIE
+Nr. ...
+Data: ...
+Prin contestația nr. 2/17.01.2017, înregistrată la Consiliul Național
+de Soluționare a Contestațiilor cu nr. 1993/17.01.2017, depusă de SC ...
+SRL, cu sediul în ..., având CUI ..., nr. ORC ..., reprezentată convențional
+prin Cabinet de Avocat ..., formulată împotriva comunicării rezultatului
+procedurii nr. 292/03.01.2017, emis de ..., cu sediul în ..., în calitate de
+autoritate contractantă, în cadrul procedurii organizată în vederea
+încheierii contractului având ca obiect „Execuție lucrări de modernizare a
+drumurilor de acces agricole către ferme (căi de acces din afara
+exploatărilor agricole) în localitățile ..., în cadrul proiectului
+MODERNIZAREA DRUMURILOR AGRICOLE DE EXPLOATAȚIE DE PE
+TERITORIUL COMUNEI ....”, s-a solicitat: 
+1.Anularea Raportului de evaluare care a stat la baza comunicării
+rezultatului și a tuturor actelor subsecvente;
+2.Anularea comunicării rezultatului procedurii cu nr. 292/03.01.2017;
+3.Reevaluarea tuturor ofertelor și respingerea acelora care se
+demonstrează a fi inacceptabile, precum și declararea ca acceptabilă a
+ofertei SC .... SRL.
+CONSILIUL NAȚIONAL DE SOLUȚIONARE A CONTESTAȚIILOR,
+asupra cauzei de față, constată următoarele:
+Consiliul a fost legal sesizat și este competent, potrivit dispozițiilor
+art. 12 alin. (1) din Legea nr. 101/2016, să soluționeze contestația prin
+care SC ...SRL reclamă decizia autorității contractante, de a respinge
+oferta depusă în cadrul procedurii simplificate nr. 393815 din
+13.10.2016, ca inacceptabilă.
+Actele autorității contractante pe care contestatoarea le consideră
+nelegale și pe care le contestă sunt:
+-Comunicarea rezultatului procedurii cu nr. 292/03.01.2017;
+1
+ 
+
+- Raportul de evaluare care a stat la baza comunicării rezultatului și
+a tuturor actelor subsecvente.
+Autoarea contestației afirmă că a constatat un abuz de drept
+realizat de către autoritatea contractantă, mai exact, aceasta a uzat în
+mod abuziv de dreptul de a redacta solicitări de clarificări, redactând în
+mod tendențios solicitarea de clarificări cu nr. 263/07.12.2016,
+formulare care a condus la un răspuns ce a generat dreptul aparent al
+autorității contractante de a declara drept inadmisibilă oferta
+contestatorei.
+Referindu-se la deciziile anterioare pronunțate de Consiliu și
+studiate de contestatoare, aceasta a înțeles că modul în care autoritatea
+contractantă întocmește diverse solicitări către operatorii economici
+participanți la procedură, este hotărâtor pentru felul în care sunt
+formulate răspunsurile operatorilor economici, iar răspunsurile generate
+în urma realizarii unor solicitări viciate nu pot fi puse în culpa
+operatorului economic (ex. decizia CNSC ..../24.10.2016 care susține în
+motivare că "(...)nu este culpa operatorului economic modul de
+formulare a justificărilor (mai puțin cele legate de prezentarea de
+informații contradictorii), ci a celui care a formulat solicitarea(...)".
+După primirea notificării prealabile, autoritatea contractantă a
+formulat adresa nr. 296/12.01.2017 prin care a adus la cunoștința
+contestatoarei că nu va adopta măsurile de remediere solicitate,
+considerandu-le "nefondate și chiar inacceptabile". În sprijinul
+afirmațiilor sale autoritatea contractantă a realizat o amplă expunere, în
+opinia petentei, divagând de fapt de la fondul cauzei.
+În mod concret, contestatoarea susține că a depus documentele din
+cadrul procedurii mai sus menționate semnate cu un certificat electronic
+aparent expirat. Având în vedere că SC ...SRL deține un certificat
+electronic valid, și totodată nu deține cunoștințele tehnice necesare
+legate de modul de funcționare al produsului folosit, aceasta s-a adresat
+furnizorului de servicii de semnatură electronică cu privire la clarificarea
+acestui aspect, respectiv a posibilității semnării cu un certificat expirat, în
+condițiile în care deține un certificat valabil. Diligențele SC ...SRL pot fi
+susținute de adresa nr. 3093 din 16.11.2016 prin care solicita [OPERATOR ECONOMIC] clarificarea chestiunii, afirmând că această eroare a apărut
+de mai multe ori în lunile de final ale anului 2016. Până la data
+prezentei, [OPERATOR ECONOMIC] nu a oferit un punct de vedere scris,
+singurul răspuns din partea furnizoruiui de semnătură electronică fiind
+unul telefonic, prin care au declarat că este imposibil să se efectueze o
+semnatură cu un certificat expirat deoarece "La încărcarea noului
+certificat pe token, certificatul vechi se șterge automat".
+Contestatoarea consideră că, în loc ca autoritatea contractantă să
+se lanseze într-un expozeu tehnic, într-un domeniu pe care nu îl
+stăpânește și asupra căruia nu deține o expertiză certificată, aceasta ar fi
+trebuit să ia în considerare existența propriu zisă a unei semnături valide
+și să solicite retrimiterea documentelor cu semnatură electronică extinsă
+validă. Prin reacția disproporționată, în loc să apere principiul
+tratamentului egal, cum clamează autoritatea contractantă, îl folosește
+2
+
+pentru a realiza abuzul de drept, întrucât nu se pune problema producerii
+unui avantaj incorect în raport cu ceilalți ofertanți, ci îndreptarea unei
+erori care nu reprezintă culpa contestatoarei.
+Mai mult, îndepărtarea acestei erori presupune doar intrarea
+contestatoarei în procesul efectiv de evaluare a fondului ofertei,
+neexistând niciun moment motivul de a se considera că resemnarea
+documentelor deja depuse poate afecta competiția care, în cazul în care
+această eroare n-ar fi avut loc, ar fi decurs în același fel ca și în
+momentul în care autoritatea contractantă ar fi solicitat retrimiterea
+documentelor cu semnatură electronică validă.
+Revenind la aprecierea privind abuzul de drept, săvârșit de către
+autoritate, respectiv modul în care a fost formulată solicitarea de
+clarificări mai sus citată, petenta menționează că nu a contestat actul în
+sine, întrucât abuzul a putut fi vizibil și produce efecte numai prin
+intermediul comunicării rezultatului procedurii.
+Concret, autoritatea contractantă trebuia să ia act de existența unui
+viciu de formă evident și trebuia să procedeze la solicitarea retransmiterii
+documentelor în cauză cu semnatură electronică validă, în conformitate
+cu art. 209, alin. (1) din Legea nr. 98/2016, repectiv: „În cazul în care
+informațiile sau documentele prezentate de către operatorii economici
+sunt incomplete sau eronate sau în cazul în care lipsesc anumite
+documente, autoritatea contractantă are dreptul de a solicita într-un
+anumit termen ofertanților/candidaților clarificări și, după caz, completări
+ale documentelor prezentate de aceștia în cadrul ofertelor sau
+solicitărilor de participare, cu respectarea principiilor tratamentului egal
+și transparenței”. De asemenea, consideră că autoritatea trebuia să
+solicite retrimiterea DUAE semnat cu semnatură validă, în conformitate
+cu art. 135, alin. (1) din HG nr. 395/2016, „în condițiile art. 209 din
+Lege, comisia de evaluare are dreptul de a solicita ofertantului
+corectarea viciilor de formă cu privire la oferta acestuia”.
+Având în vedere argumentele de mai sus, SC ...SRL consideră
+necesară declararea ca admisibilă a ofertei sale, cu toate consecințele ce
+derivă din acest demers, respectiv: anularea raportului de evaluare care
+a stat la baza comunicării rezultatului și a tuturor actelor subsecvente;
+anularea comunicării rezultatului procedurii cu nr. 292/03.01.2017;
+reevaluarea tuturor ofertelor și respingerea acelora care se
+demonstrează a fi inacceptabile, precum și declararea ca acceptabilă a
+ofertei SC ...SRL.
+Prin adresa nr. .../18.01.2017, Consiliul a înștiințat autoritatea
+contractantă despre depunerea contestației de către SC ...SRL solicitând
+punctul de vedere cu privire la contestație, copia dosarului achiziției
+precum și alte documente relevante în soluționarea cauzei. 
+Autoritatea contractantă a transmis punctul de vedere atașat
+adresei nr. 300 din 25.01.2017, înregistrată la Consiliu sub nr. 2987 din
+26.01.2017, iar dosarul achiziției atașat adresei nr. 303/25.01.2017
+înregistrată la Consiliu sub nr. 3240/27.01.2017, prin care solicită
+Consiliului respingerea contestației, din următoarele motive:
+3
+
+Operatorul economic SC ...SRL a participat cu ofertă la procedura
+de atribuire a contractului de achiziție publică având ca obiect "Execuție
+lucrări de modernizare a drumurilor de acces agricole către ferme (căi de
+acces din afara exploatațiilor agricole) în localitățile ..., Răchita și
+Bucovăț, în cadrul proiectului MODERNIZAREA DRUMURILOR AGRICOLE
+DE EXPLOATAȚIE DE PE TERITORIUL COMUNEI ....
+La procedura în cauză au depus ofertă 6 ofertanți: 
+1.SC ... SRL; 
+2.SC ... SRL;
+3.SC ... SRL (Asocierea ... SA);
+4.SC ... SRL (Asocierea ... SRL & ... SRL); 
+5.SC ... SRL;
+6.SC ...SRL.
+Prin solicitarea de clarificări nr. 263/07.12.2016 (transmisă prin
+intermediul SEAP, în data de 07.12.2016 ora 14:12) autoritatea
+contractantă a solicitat ofertantului SC ...SRL următoarele clarificări cu
+privire la documentele de calificare, astfel:
+1. În fișa de date se precizează că: "DUAE completat cu informațiile
+aferente operatorului economic participant la procedura de atribuire,
+propunerea tehnică și propunerea financiară vor fi transmise în format
+electronic/prin mijloace electronice. Documentele precizate mai sus,
+respectiv fișierele încărcate în SEAP, vor fi semnate cu semnătură
+electronică extinsă a reprezentantului legal/împuternicit al ofertantului".
+„DUAE prezentat de ofertantul ...SRL a fost semnat cu semnătură
+electronică extinsă a reprezentantului legal al ofertantului, însă
+semnatura este invalidă, certificatul find expirat încă de la data de
+06.05.2016.
+Solicităm prezentarea de clarificări cu privire la acest aspect (temei
+legal: art. 209 din Legea nr. 98/2016, coroborat cu art. 132 alin. (1) și
+art. 134 din H.G. nr. 395/2016)”.
+Autoritatea precizează că ofertantul SC ...SRL nu a formulat nicio
+notificare prealabilă/contestație cu privire la solicitarea de clarificări nr.
+263/07.12.2016 - în termenul prevăzut de Legea nr. 101/2016.
+Ofertantul SC ...SRL a răspuns la solicitarea de clarificări nr.
+263/07.12.2016 prin adresa nr. 3275/07.12.2016 (transmisă prin
+intermediul SEAP, în data de 09.12.2016 ora 16:08).
+Prin comunicarea rezultatului procedurii nr. 292/03.01.2017,
+autoritatea contractantă a adus la cunoștință ofertantului SC ...SRL
+faptul că oferta acestuia a fost respinsă ca inacceptabilă, în conformitate
+cu prevederile art. 134 alin. (5), art. 137 alin. (1) și alin. (2) lit. (j) din
+HG nr. 395/2016.
+Prin notificarea prealabilă F.N./09.01.2017, înregistrată la
+autoritatea contractantă cu nr. 295/09.01.2017, ofertantul SC ...SRL a
+sesizat o serie de "nereguli", solicitând autorității contractante adoptarea
+următoarelor măsuri de remediere:
+- anularea raportului de evaluare care a stat la baza comunicării
+rezultatului și a tuturor actelor subsecvente;
+4
+
+- anularea comunicării rezultatului procedurii cu nr. 292 din
+03.01.2017;
+- reevaluarea tuturor ofertelor și respingerea acelora care se
+demonstrează a fi inacceptabile, precum și declararea ca acceptabilă a
+ofertei ...SRL.
+Prin răspunsul la notificarea prealabilă, autoritatea contractantă a
+adus la cunoștința ofertantului SC ...SRL faptul că "autoritatea
+contractantă NU va adopta măsurile de remediere solicitate de
+dumneavoastră, întrucât acestea ar fi contrare prevederilor legale în
+materia achizițiilor publice", motivele care au stat la baza acestei
+hotărâri fiind expuse pe larg în răspunsul la notificarea prealabilă.
+În data de 17.01.2017 s-a primit la sediul autorității contractante,
+prin fax, contestația nr. 2/17.01.2017, fiind înregistrată la sediul
+autorității contractante cu nr. 297/17.01.2017, formulată de către
+SC ...SRL, însă nu era însoțită de niciunul dintre documentele la care se
+face referire în cuprinsul acesteia.
+Cu privire la MOTIVELE precizate în contestația nr. 2/17.01.2017,
+autoritatea menționează următoarele:
+ 1. Față de afirmația contestatoarei: „ (...) ...SRL aduce la cunoștința
+Consiliului un abuz de drept realizat de către autoritatea contractantă,
+(...) a uzat în mod abuziv de dreptul de a redacta solicitări de clarificări,
+redactând în mod tendențios solicitarea de clarificări cu nr.
+263/07.12.2016, formulare tendențioasă care a condus la un răspuns ce
+a generat dreptul aparent al autorității contractante la a declara drept
+inadmisibilă oferta (...)".
+Contrar acestei opinii, autoritatea afirmă că SC ...SRL nu a
+demonstrat, prin notificarea prealabilă, niciun abuz de drept al
+autorității, ci a contestat conținutul solicitării de clarificări nr.
+263/07.12.2016. Or, în situația în care solicitarea de clarificări nr.
+263/07.12.2016 i-a fost adusă la cunoștință prin intermediul SEAP,
+contestarea acestui document este, în momentul de față, tardivă. După
+cum se precizează și în art. 134 alin. (1) din H.G. nr. 395/2016 „Comisia
+de evaluare are obligația de a stabili care sunt clarificările completările
+formale sau de confirmare, necesare pentru evaluarea fiecărei solicitări
+de participare/oferte, precum perioada de timp acordată pentru
+transmiterea acestora, termenul-limită neputând fi stabilit decât la nivel
+de zile lucrătoare, fară a fi precizată o oră anume în cadrul acestuia". 
+Prin urmare, autoritatea contractantă avea obligația de a lămuri
+situația în fapt, mai înainte de a pronunța o hotărâre de admitere sau de
+repingere a ofertei SC ...SRL, chiar dacă în art. 137 alin. (2) lit j) din
+H.G. nr. 395/2016 se precizează că „ (2) în condițiile art. 215 alin. (4)
+din Lege, oferta este considerată inacceptabilă în următoarele situații:
+(...) j) documentele care o însoțesc nu sunt semnate cu semnatură
+electronică extinsă, bazată pe un certificat calificat, eliberat de un
+funizor de servicii de certificare acreditat". 
+Astfel, consideră că solicitarea de clarificări nr. 263/07.12.2016 a
+fost întocmită în deplină concordanță cu prevederile art. 134 alin. (4) din
+H.G. nr. 395/2016, fiind suficient de clară și definind în mod explicit și
+5
+
+suficient de detaliat în ce constă solicitarea comisiei de evaluare. De
+asemenea, solicitarea de clarificări nr. 263/07.12.2016 NU a fost
+formulată într-un mod care să oblige operatorul economic la formularea
+unui răspuns în anumite limite, ci aceasta a conferit ofertantului SC
+...SRL posibilități nelimitate în clarificarea aspectului semnalat. Cu toate
+acestea, autoritatea apreciază că răspunsul oferit de SC ...SRL nu a fost
+unul concludent, fapt ce a determinat respingerea ofertei.
+Pe de altă parte, declararea ofertei SC ...SRL ca inadmisibilă nu
+este, după cum afirmă contestatoarea, un drept aparent al autorității
+contractante, ci o obligație instituită de lege (art. 137 alin. (2) lit. j) din
+H.G. nr. 395/2016) și întărită de către A.N.A.P. prin Punctele sale de
+vedere - menționate în răspunsul la notificarea prealabilă: „În situația în
+care DUAE și propunerea tehnică din oferta depusă nu sunt semnate cu
+semnatură electronică extinsă, autoritatea contractantă va respinge ca
+inacceptabilă respectiva ofertă(...)", și „(...) documentele semnate cu
+semnatură electronică extinsă a cărui certificat este invalid este
+echivalent cu lipsa semnăturii electronice de pe documentele transmise
+electronic prin intermediul S.E.A.P. și reprezintă un motiv de excludere a
+operatorului economic de la procedura online de atribuire a contractului
+de achiziție publică, potrivit art. 137 alin. (2) lit. i) din H.G. nr.
+395/2016"
+2. Față de afirmația contestatoarei: „Menționam că CNSC, prin
+deciziile anterioare (...), recunoaște faptul că, modul în care autoritatea
+contractantă întocmește diverse solicitări către operatorii economici
+participanți la procedură, este hotărâtor în modul în care sunt formulate
+răspunsurile operatorilor economici iar răspunsurile generate în urma
+acestor solicitări viciate nu pot fi puse în culpa operatorului economic,
+(...) decizia CNSC cu nr. ..../24.10.2016 care susține în motivare că „(...)
+nu este culpa operatorului economic modul de formulare a justificărilor
+(mai puțin cele legate de prezentarea de informații contradictorii), ci a
+celui care a formulat solicitarea (...)", autoritatea apreciază că:
+Autoritatea precizează că nu cunoaște conținutul Deciziei CNSC cu
+nr. .../24.10.2016, deoarece nu i-a fost pusă la dispoziție împreună cu
+contestația, însă este de acord cu această afirmație, dar, în cazul de față
+nu poate fi vorba despre o „solicitare viciată” așa cum afirmă
+contestatoarea. Solicitarea de clarificări nr. 263/07.12.2016 a fost
+întocmită în deplină concordanță cu prevederile art. 134 alin. (4) din
+H.G. nr. 395/2016, fiind clară și definind în mod explicit și suficient de
+detaliat în ce constă solicitarea comisiei de evaluare, nefiind formulată
+într-un mod care să oblige operatorul economic la formularea unui
+răspuns în anumite limite, ci conferind ofertantului SC ...SRL posibilități
+nelimitate în clarificarea aspectului semnalat. Mai mult, prin solicitarea
+de clarificări nr. 263/07.12.2016 autoritatea contractantă a adus la
+cunoștința ofertantului faptul că: „Vă atragem atenția că, în situația în
+care nu veți transmite în termenul precizat clarificările/ completările
+solicitate sau în cazul în care clarificările/completările transmise nu vor fi
+concludente, riscați ca oferta depusă de dvs. să fie respinsă ca
+6
+
+inacceptabilă, în conformitate cu prevederile art. 134 alin. (5) și art. 137
+alin. (1) din H.G. nr. 395/2016".
+3. Față de afirmația contestatoarei ce vizează faptul că autoritatea
+nu va adopta măsurile de remediere solicitate, considerându-le
+„nefondate și chiar inacceptabile" și că în sprijinul afirmațiilor sale
+autoritatea a realizat o amplă expunere, divagând de fapt de la fondul
+cauzei, autoritatea precizează că răspunsul la notificarea prealabilă a fost
+formulat în conformitate cu prevederile art. 6, alin. (4) din Legea nr.
+101/2016. De asemenea, precizează că prin „ampla expunere" din acest
+răspuns, nu a divagat de la fondul cauzei, ci și-a motivat hotărârea de a
+nu adopta măsurile de remediere solicitate de SC ...SRL, răspunzand la
+fiecare capăt de cerere în parte, demonstrând prin probe, că afirmațiile
+formulate de către SC ...SRL, sunt nefondate.
+4. Față de afirmația contestatoarei că a depus documentele din
+cadrul procedurii mai sus menționate semnate cu un certificat electronic
+aparent expirat și că ...SRL deține un certificat electronic valid
+autoritatea precizează:
+Contestatoarea a depus documentele din cadrul procedurii mai sus
+menționate semnate cu un certificat electronic, dar acesta este cu
+siguranță expirat. Pentru susținerea acestui punct de vedere face referire
+la un print screen din momentul verificării semnăturii acestor
+documente, unde apărea următorul mesaj: „Date insuficiente pentru a
+valida acest certificat. Starea de revocare a certificatului este
+necunoscută la momentul semnării. (...) Valid de la 6 mai 2015 la 6 mai
+2016. Acest certificat a expirat."
+De asemenea, autoritatea apreciază că nu operatorul economic
+SC ...SRL trebuia să dețină cunoștințele tehnice necesare legate de
+modul de funcționare al produsului folosit, ci domnul [persoană]-Vasile
+Mănescu, titularul semnăturii electronice în cauză. Pe de altă parte, este
+foarte puțin probabil ca domnul [persoană]-Vasile Manescu să nu dețină
+cunoștințele tehnice necesare legate de modul de funcționare al
+produsului folosit, din moment ce contractul de furnizare servicii de
+certificare (Secțiunea Termeni și condiții generale privind furnizarea de
+servicii de certificare) conține referiri explicite la Codul de Practici și
+Proceduri (CPP) al CERTSIGN, iar acest Cod (publicat pe pagina de
+internet indicată) conține toate informațiile necesare legate de modul de
+funcționare al produsului folosit. Mai mult, la momentul primirii
+certificatului digital se înmânează și un CD conținând instrucțiuni de
+utilizare.
+Astfel, contestatoarea afirmă că s-a adresat furnizorului de servicii
+de semnatură electronică [OPERATOR ECONOMIC], prin care solicita clarificarea
+chestiunii, însă răspunsul la clarificări nr. 3275/07.12.2016 nu conține o
+asemenea afirmație, ci doar că „întrucât dintr-o regretabilă eroare de
+semnatură pe care nu o poate explica nici prestatorul serviciilor de
+certificare [OPERATOR ECONOMIC], DUAE prezentat, apare ca find semnat cu o
+semnatură electronică extinsă expirată", fără a prezenta și documentul
+(proba) care să susțină că „nici prestatorul serviciilor de certificare [OPERATOR ECONOMIC], nu poate explica această regretabilă eroare de
+semnatură". 
+Autoritatea face o observație și anume că, data la care
+contestatoarea s-ar fi adresat furnizorului de servicii de semnatură
+electronică (16.11.2016) este anterioară datei la care autoritatea
+contractantă i-a solicitat clarificări cu privire la certificatul expirat
+(07.12.2016), apreciind această situație ca fiind de natură a naște mari
+semne de întrebare în ceea ce privește realitatea existenței acestei
+adrese (necunoscută autorității).
+Afirmația contestatoarei, că singurul răspuns din partea furnizorului
+de semnatură electronică a fost unul telefonic, prin care aceștia au
+declarat ca este imposibil să se efectueze o semnatură cu un certificat
+expirat, nu poate fi luată în considerare, în lipsa unui document, care să
+confirme această declarație a furnizorului de semnătură electronică.
+Prin urmare, din moment ce toate documentele depuse de
+contestatoare în SEAP până la data limita de depunere „garanție de
+participare/RFQ0084738/025, DUAE /RFQ0084738/026", respectiv
+propunere tehnică/RFQ0084738/027") au fost semnate utilizând un
+certificat expirat, rezultă că aceste documente au fost semnate utilizând
+un token pe care nu a fost încărcat noul certificat digital.
+5. Față de afirmația contestatoarei că, „în loc ca autoritatea
+contractantă să se lanseze într-un expozeu tehnic, într-un domeniu pe
+care nu îl stăpânește (...), aceasta ar fi trebuit să ia în considerare
+existența propriu zisă a unei semnături valide și să solicite retrimiterea
+documentelor cu semnatură electronică extinsă validă”, autoritatea
+precizează că pentru a ajunge la aceste concluzii, autoritatea nu a avut
+nevoie de o expertiză tehnică specifică sau de un punct de vedere scris
+al furnizorului de servicii de certificare, ci de o analiza logică a
+informațiilor furnizate de documentele prezentate de SC ...SRL, a
+informațiilor publicate pe pagina de internet a furnizorului de servicii de
+certificare (www.certsign.ro), precum și a prevederilor legale în vigoare.
+Autoritatea subliniază că în ceea ce-o privește pe contestatoare,
+aceasta a precizat că ...SRL nu deține cunoștințele tehnice necesare
+legate de modul de funcționare al produsului folosit, drept pentru care s-
+a adresat furnizorului de servicii de semnatură electronică cu privire la
+clarificarea acestui aspect. Cu toate acestea, a dobândit expertiza
+tehnică necesară (dintr-o singură convorbire telefonică purtată cu
+furnizorul de semnatură electronică și prin analizarea unei singure pagini
+web) de a-și justifica semnarea documentelor cu un certificat expirat prin
+faptul că aceasta reprezintă „o eroare de soft care nu reprezintă culpa
+...”.
+Mai mult, sugerează că autoritatea contractantă ar fi trebuit să facă
+abstracție de faptul că explicațiile și documentele prezentate în răspunsul
+la clarificări nu pot justifica semnarea documentelor cu un certificat
+expirat și să ia în considerare doar existența propriu zisă a unei
+semnături valide, urmând ca, pe baza acesteia, să solicite retrimiterea
+TUTUROR documentelor semnate cu semnatură electronică extinsă
+validă. Ceea ce a omis însă să precizeze contestatoarea este baza legală
+8
+
+(sau măcar un punct de vedere al A.N.A.P.) care ar fi instituit această
+obligație în sarcina autorității contractante.
+Faptul că documentele postate în SEAP de către SC ...SRL au fost
+semnate cu un certificat expirat a ajuns la cunoștinta tuturor ofertanților
+atât prin procesul-verbal de deschidere, cât și prin solicitarea de
+clarificări. Autoritatea contractantă afirmă că dacă ar fi solicitat
+ofertantului SC ...SRL, din nou, retrimiterea documentelor cu semnatură
+electronică extinsă validă și, pe cale de consecință, ar fi declarat oferta
+SC ...SRL drept admisibilă, atunci, cu certitudine, ceilalți participanți la
+procedura în cauză ar fi depus contestație, pe considerentul că o
+asemenea acțiune ar fi adus un avantaj evident față de ceilalți ofertanți.
+6. Față de afirmația contestatoarei că „Prin reacția disproporționată
+a acesteia, în loc să apere principiul tratamentului egal, cum clamează
+Autoritate Contractantă, îl foloseste pentru a realiza abuzul de drept,
+întrucât nu se pune problema producerii unui avantaj incorect în raport
+cu ceilalți ofertanți, ci îndreptarea unei erori care nu reprezintă culpa
+contestatoarei”, autoritatea precizează:
+Prin respingerea ofertei SC ...SRL ca inadmisibilă NU se încalcă
+principiul proporționalității, ci s-a acționat în deplină concordanță cu
+prevederile legale în vigoare în materia achizițiilor publice. Autoritatea
+contractantă NU a reacționat disproporționat în raport cu gravitatea
+cauzei, ci a acționat în deplină corelație cu principiul legalității, de la care
+nu se poate deroga. Or, principiul legalității și al supremației legii trebuie
+să rămână unul absolut, mai presus de toate și nealterat de excepții,
+motivat și de exigența aplicării uniforme a legilor, atât în timp și spațiu,
+cât și asupra persoanelor.
+Atât prin solicitarea de clarificări nr. 263/07.12.2016, cât și prin
+celelalte documente ale comisiei de evaluare, autoritatea consideră că a
+respectat întrutotul principiile tratamentului egal și transparența,
+aplicând, în mod nediscriminatoriu, criteriile de selecție și criteriile pentru
+atribuirea contractului de achiziție publică astfel încât orice executant de
+lucrări să aibă șanse egale în competiția pentru atribuirea contractului
+respectiv.
+Prin prevederile de la art. 209 din Legea nr. 98/2016 legiuitorul a
+instituit că singurele opreliști în exercitarea dreptului de solicita
+clarificări/completări sunt: respectarea principiilor tratamentului egal și
+transparenței. Mai mult, în alin. 2 al aceluiași articol se pune accentul pe
+respectarea principiului tratamentului egal prin interdicția „Autoritatea
+contractantă nu are dreptul ca prin clarificările/completările solicitate să
+determine apariția unui avantaj evident în favoarea unui
+ofertant/candidat”. Rezultă că limita în care autoritatea contractantă
+poate solicita completarea documentelor este avantajarea evidentă a
+ofertantului în cauză, ipoteză care ar fi fost pe deplin îndeplinită în
+situația resolicitării de completări la clarificări. Or, prin faptul că
+autoritatea contractantă a ținut cont de respectarea principiului
+tratamentului egal nu poate fi catalogat „abuz de drept".
+De asemenea, în cazul de față nu poate fi vorba despre un viciu de
+formă, pentru că, pe de-o parte, completarea cu documente semnate cu
+9
+
+un certificat valid nu este susținută în mod neechivoc de sensul și de
+conținutul altor informații existente inițial în alte documente prezentate
+de ofertant, iar, pe de altă parte, această completare ar fi susceptibilă de
+a produce un avantaj incorect în raport cu ceilalți participanți la
+procedura de atribuire. Potrivit art. 135 din H.G. nr. 395/2016: „ (1) în
+condițiile art. 209 din Lege, comisia de evaluare are dreptul de a solicita
+ofertantului corectarea viciilor de formă (...). (2) în cazul în care
+ofertantul nu este de acord cu îndreptarea viciilor de formă, (...) oferta
+sa va fi considerată neconformă. 3) (...), viciile de formă reprezintă acele
+erori sau omisiuni din cadrul unui document a căror corectare/
+completare este susținută în mod neechivoc de sensul și de conținutul
+altor informații existente inițial în alte documente prezentate de ofertant
+sau a căror corectare/completare are rol de clarificare sau de confirmare,
+nefiind susceptibile de a produce un avantaj incorect în raport cu ceilalți
+participanți la procedura de atribuire”. 
+Atât în notificarea prealabilă, cât și în contestație, petenta
+menționează faptul că semnarea tuturor documentelor postate în SEAP
+utilizând un certificat expirat ar reprezenta „o eroare de soft, care nu
+reprezintă culpa ...SRL". Cu toate acestea, contestatoarea nu a reușit să
+demonstreze veridicitatea acestei afirmații nici prin răspunsul la
+clarificări, nici prin notificarea prealabilă și nici prin contestație. Mai mult,
+chiar dacă ar fi fost vorba despre o eroare de soft și indiferent de cine ar
+fi în culpă (CERTSIGN sau ...SRL), având în vedere gravitatea efectelor
+prevăzute la art. 137 alin. (1) și alin. (2) lit. j) din H.G. nr. 395/2016
+„ (1) Comisia de evaluare are obligația de a respinge ofertele
+inacceptabile și neconforme. (2) În condițiile art. 215 alin. (4) din Lege,
+oferta este considerată inacceptabilă în următoarele situații: (...) j)
+oferta și documentele care o însoțesc nu sunt semnate cu semnatură
+electronică extinsă, bazată pe un certificat calificat, eliberat de un
+furnizor de servicii de certificare acreditat;") și art. 125 din H.G. nr.
+395/2016 (...) Riscurile transmiterii ofertei, inclusiv forța majoră sau
+cazul fortuit, cad în sarcina operatorului economic care transmite
+respectiva ofertă"). Astfel, ofertantul SC ...SRL ar fi trebuit să depună un
+minim de diligențe în sensul verificării valabilității semnăturii electronice
+la momentul postării documentelor în SEAP.
+7. Față de afirmația petentei că îndreptarea acestei erori presupune
+doar intrarea acesteia în procesul efectiv de evaluare a fondului ofertei,
+neexistând niciun moment motivul de a se considera că resemnarea
+documentelor deja depuse poate afecta competiția, autoritatea
+precizează că, potrivit punctului de vedere formulat de A.N.A.P.
+„documentele semnate cu semnatură electronică extinsă a cărui
+certificat este invalid este echivalent cu lipsa semnaturii electronice de
+pe documentele transmise electronic prin intermediul S.E.A.P. și
+reprezintă un motiv de excludere a operatorului economic de la
+procedură”. De asemenea, autoritatea apreciază că petenta omite faptul
+că autoritatea i-a adresat deja clarificări, prin adresa nr.
+263/07.12.2016, dar răspunsul a fost neconcludent.
+10
+
+Astfel, autoritatea afirmă că dacă ofertantul ar fi ținut cont de
+efectele art. 125, art. 137 alin. (1) și alin. (2) lit. j) din H.G. nr.
+395/2016 și ar fi depus un minim de diligență în sensul verificării
+valabilității semnăturii electronice la momentul postării documentelor în
+SEAP, este foarte posibil ca, în momentul de față, contestatoarea să se fi
+aflat în procesul efectiv de evaluare a fondului ofertei. De asemenea,
+dacă SC ...SRL nu ar fi manifestat superficialitate, ci responsabilitate și
+ar fi prezentat, ca răspuns la clarificări, explicații complete și pertinente,
+susținute de documente edificatoare, s-ar fi putut afla în procesul efectiv
+de evaluare a fondului ofertei.
+Față de cele menționate mai sus, autoritatea susține că a respectat
+întocmai prevederile legale în materia achizițiilor publice, afirmând că
+acest lucru rezultă și din faptul că observatorii MFP-ANAP, desemnați prin
+Decizia de verificare nr. 453/393815/14.10.2016, nu au avut nicio
+observație în cadrul activității de verificare întreprinsă în ceea ce privește
+activitatea comisiei de evaluare.
+8. Autoritatea afirmă că, în ceea ce privește excepția tardivității,
+invocată în răspunsul la notificarea prealabilă, contestatorul încearcă s-o
+combată astfel: "Revenind la abuzul de drept săvârșit de către
+Autoritatea Contractantă, respectiv modul în care a fost formulată
+solicitarea de clarificări (...), ...SRL nu a contestat actul în sine, întrucât
+abuzul a putut fi vizibil și produce efecte numai prin intermediul
+comunicării rezultatului procedurii".
+Or, SC ...SRL nu a contestat documentul în sine (solicitarea de
+clarificări nr. 263/07.12.2016), ci conținutul acestuia. Pe de altă parte,
+fiecare document în parte, fie că e vorba despre solicitarea de clarificări,
+fie că este vorba despre comunicarea privind rezultatul aplicării
+procedurii, își produce propriile efecte, de la data comunicării acestora.
+Faptul că SC ...SRL, în ciuda prevederilor legale în vigoare, nu a prevăzut
+faptul că o consecință a prezentării unui răspuns neconcludent constă în
+respingerea ca inacceptabilă a ofertei, nu poate avea nici un efect asupra
+prelungirii termenului de contestație prevăzut de lege.
+9. De asemenea, autoritatea precizează că prin afirmația
+contestatoarei potrivit căreia autoritatea trebuia să ia act de existența
+unui viciu de formă evident și să procedeze la solicitarea retransmiterii
+documentelor în cauză cu semnatură electronică validă, în conformitate
+cu art. 209 alin. (1) din Legea 98/2016, aceasta a dezvăluit, în fapt,
+scopul pentru care a formulat această contestație, respectiv obligarea
+autorității (contrar prevederilor art. 137 alin. (2) lit j) din H.G. nr.
+395/2016 și a punctelor de vedere exprimate de A.N.A.P) la resolicitarea
+de noi completări la clarificări. 
+10. Referitor la solicitarea contestatoarei de declarare, ca
+admisibilă a ofertei sale, cu toate consecințele ce derivă din acest
+demers, respectiv anularea raportului procedurii și reevaluarea ofertelor,
+autoritatea afirmă că, pe baza informațiilor și a documentelor prezentate
+de SC ...SRL, oferta depusă nu poate fi declarată admisibilă. 
+Autoritatea sugerează că, din moment ce contestația în cauză se
+poartă doar asupra ofertei SC ...SRL, Consiliul nu poate pronunța o
+11
+
+decizie prin care s-o oblige la reevaluarea tuturor celor 6 oferte depuse
+în procedura în cauză.
+Având în vedere cele de mai sus, autoritatea contractantă
+consideră că soluția ce se impune în speță este aceea de respingere, ca
+nefondată (capetele de cerere 1 și 2), respectiv ca inacceptabilă (capătul
+de cerere 3), a contestației nr. 2/17.01.2017 formulată de către SC
+...SRL, în conformitate cu prevederile art. 26 alin. (6) din Legea nr.
+101/2016.
+De asemenea, învederează Consiliului faptul că, la analizarea
+contestației în cauză și la pronunțarea unei decizii, să țină cont și de
+următoarele aspecte:
+- punctele de vedere exprimate de către A.N.A.P. cu privire la
+semnarea documentelor cu semnatură electronică (precizate în răspunsul
+la notificarea prealabilă și reluate prin punctul de vedere);
+-faptul că informațiile prezentate de către contestator diferă de la
+un document la altul;
+- faptul că la evaluarea ofertelor au participat observatorii MFP-
+ANAP, [instituție publică], iar aceștia nu au avut nicio
+observație în cadrul activității de verificare.
+Din analiza susținerilor părților și a documentelor existente la
+dosarul cauzei, Consiliul reține cele ce urmează:
+Pentru atribuirea contractului având ca obiect „Execuție lucrări de
+modernizare a drumurilor de acces agricole către ferme (căi de acces din
+afara exploatărilor agricole) în localitățile ..., Răchita Bucovăț, în cadrul
+proiectului MODERNIZAREA DRUMURILOR AGRICOLE DE EXPLOATAȚIE
+DE PE TERITORIUL ...”, PRIMĂRIA [localitate] ..., în calitate de autoritate
+contractantă, a inițiat procedura simplificată prin publicarea în SEAP a
+anunțului de participare simplificat nr. 393815 din 13.10.2016, odată cu
+care a postat și documentația de atribuire. Cu ocazia vizualizării ofertelor
+depuse, autoritatea contractantă a întocmit procesul-verbal nr.
+254/15.11.2016, iar rezultatul evaluării DUAE a fost consemnat în
+procesul verbal nr. 288/03.01.2017. Nemulțumită de respingerea ofertei
+sale (ce i-a fost comunicată prin adresa nr. 292/03.01.2017), SC ...SRL
+a formulat notificarea prealabilă în conformitate cu prevederile art. 6 din
+Legea nr. 101/2016. Nemulțumită de răspunsul autorității contractante
+la notificarea prealabilă (ce i-a fost comunicat prin adresa nr. 296 din
+12.01.2017), SC ...SRL a formulat prezenta contestație, solicitând:
+1. Anularea Raportului de evaluare care a stat la baza comunicării
+rezultatului și a tuturor actelor subsecvente;
+2. Anularea comunicării rezultatului procedurii cu nr. 292 din
+03.01.2017;
+3. Reevaluarea tuturor ofertelor și respingerea acelora care se
+demonstrează a fi inacceptabile, precum și declararea ca acceptabilă a
+ofertei SC ...SRL.
+Preliminar analizării aspectelor sesizate de contestatoare, este de
+remarcat că documentația de atribuire, alcătuită din fișa de date, caietul
+de sarcini, formularele necesare și modelul contractului de execuție, nu a
+fost contestată de niciun operator economic, drept pentru care toate
+12
+
+prevederile ei și-au consolidat forța obligatorie atât pentru autoritatea
+contractantă, cât și pentru operatorii economici participanți la procedura
+de atribuire. Prin depunerea ofertelor la procedură, se presupune că
+ofertanții și-au însușit documentația de atribuire fără rezerve, ceea ce
+înseamnă că nu li se poate scuza nicio abatere de la prescripțiile ei,
+opozabile în cel mai mic detaliu. Astfel cum un contract constituie legea
+părților, și documentația de atribuire, împreună cu clarificările postate în
+SEAP, are aceeași valoare pentru părți, iar niciuna dintre ele nu îi poate
+ignora sau nesocoti clauzele.
+În stabilirea legalității respingerii ofertei contestatoarei, Consiliul
+este ținut de a analiza motivele avute în vedere de autoritatea
+contractantă. Astfel, prin adresa nr. 292/03.01.2017, autoritatea
+contractantă a comunicat contestatoarei că oferta sa a fost respinsă ca
+inacceptabilă:
+Motivele concrete care au stat la baza deciziei autorității contractante sunt
+următoarele:
+În fapt:
+" Oferta și documentele care o însoțesc nu sunt semnate cu semnătura
+electronică extinsă, bazată pe un certificat calificat, eliberat de un furnizor de servicii
+de certificare acreditat”.
+Astfel:
+DUAE prezentat inițial de ofertantul ...S.R.L. a fost semnat cu semnatura
+electronică extinsă a repezentantului legal al ofertantului dar semnatura este
+invalidă, certificatul expirând la data de 06.05.2016.
+Prin Adresa nr. 263/07.12.2016 (publicată în SEAP în data de 07.12.2016 ora
+14:12), autoritatea contractantă a solicitat ofertantului ...S.R.L. următoarele
+clarificări:
+ „CU PRIVIRE LA DOCUMENTELE DE CALIFICARE:
+În fișa de date se precizează că: "DUAE completat cu informațiile aferente
+operatorului economic participant la procedura de atribuire, propunerea tehnică și
+propunerea financiară vor fi transmise în format electronic/prin mijloace electronice.
+Documentele precizate mai sus, respective fișierele încărcate în SEAP, vor fi semnate
+cu semnătura electronică extinsă a reprezentantului legal/împuternicit al ofertantului."
+DUAE prezentat de ofertantul ...S.R.L. a fost semnat cu semnătura electronică
+extinsă a repezentantului legal al ofertantului, însă semnatura este invalidă,
+certificatul fiind expirat încă de la data de 06.05.2016.
+SOLICITAM PREZENTAREA DE CLARIFICĂRI cu privire la acest aspect".
+Ofertantul ...S.R.L. a răspuns în termen la această solicitare de clarificări, prin
+intermediul SEAP în data de 09.12.2016 ora 16:08, prin Adresa nr. 3275/07.12.2016,
+la care a anexat Contractul de furnizare servicii de certificare cu nr.
+45/b77b/1625373c și un DUAE semnat cu semnatura electronică extinsă a
+repezentantului legal al ofertantului (certificat valabil). În răspunsul său,
+ofertantul ...S.R.L. afirma: „Întrucât dintr-o regretabilă eroare de semnatură pe care
+nu o poate explica nici prestatorul serviciilor de certificare [OPERATOR ECONOMIC], DUAE
+prezentat, apare ca fiind semnat cu o semnătură electronică extinsă expirată, vă
+retransmitem acest formular, semnat corespunzător. Menționăm faptul că domnul [persoană] deține o semnatură electronică extinsă validă, lucru susținut
+atât prin contractul nr. 45/b77b/1625373c, cât și prin faptul că toate documentele
+încărcate în SEAP la prezenta procedură au fost semnate cu semnatura electronică
+extinsă. Mai mult decât atât, niciun document nu poate fi semnat electronic cu o
+semnatură electronică extinsă expirată, iar DUAE la care faceți referire apare ca find
+semnat electronic, producându-se astfel o eroare inexplicabilă. Anexăm contractul de
+furnizare servicii de certificare cu nr. 45/b77b/l625373c".
+13
+
+Răspunsul prezentat de ofertantul ...S.R.L. este neconcludent din următoarele
+considerente:
+- Situația în cauză nu poate reprezenta o „eroare de semnatură pe care nu o
+poate explica nici prestatorul serviciilor de certificare", ci are o singură explicație,
+constând în faptul că documentul a fost semnat de o persoană necunoscută prin
+utilizarea unui certificat expirat; prin urmare, nu poate fi vorba despre o eroare de
+natura tehnică, cum se sugerează de către ofertant;
+ - DUAE prezentat inițial „apare ca find semnat cu o semnatură electronică
+extinsă", dar această semnatură nu este valabilă, potrivit legii, întrucât certificatul
+utilizat la semnarea acestui document era expirat;
+- Autoritatea contractantă nu a solicitat retransmiterea acestui formular (DUAE)
+semnat corespunzator, ci a solicitat clarificări cu privire la aspectul semnalat; 
+- Într-adevar, din documentele prezentate în răspunsul la clarificări reiese
+faptul că domnul [persoană] deține o semnătură electronică extinsă validă,
+dar, contrar opiniei ofertantului, acest fapt nu este susținut prin contractul nr.
+45/b77b/1625373c, întrucât contractul respectiv este nedatat. De asemenea, nu se
+poate afirma faptul că toate documentele încărcate în SEAP la prezenta procedură au
+fost semnate cu semnatura electronică extinsă, din moment ce TOATE DOCUMENTELE
+PUBLICATE INIȚIAL , în SEAP de către ofertantul ...S.R.L. au fost semnate utilizând
+un certificat expirat, semnătura fiind, așadar, invalidă. Singurele documente care
+pot confirma faptul că domnul [persoană] deține o semnătură electronică
+extinsă validă sunt documentele postate ulterior în SEAP, ca răspuns la clarificări
+(„răspuns clarificări ....pdf', respectiv „DUAE TECHNOCER.xml"), documente ce au fost
+semnate utilizând un certificat valabil de la data de 03.05.2016 - 03.05.2017);
+- Contrar opiniei ofertantului, potrivit căreia „niciun document nu poate fi
+semnat electronic cu o semnătură electronică extinsă expirată", cazul de față este
+edificator: TOATE DOCUMENTELE PUBLICATE ÎN SEAP PÂNĂ LA DATA LIMITĂ DE
+DEPEPUNERE de către ofertantul ...S.R.L. au fost semnate utilizând un certificat
+expira t; 
+Din răspunsul ofertantului se poate trage concluzia că, deși reprezentantul legal
+al ...S.R.L. deținea o semnatură electronică extinsă validă, toate documentele postate
+în SEAP de către ofertantul ...S.R.L. până la data limită de depunere au fost semnate
+de o persoană necunoscută, utilizând un certificat expirat, semnatura în cauză fiind,
+așadar invalid, fapt ce contravine prevederilor art. 123 alin. (3) din H.G. nr.
+395/2016.
+Or, după cum se precizează și în art. 137 alin. (2) din H.G. nr. 395/2016, oferta
+este considerată inacceptabilă în următoarele situații: (...) j) oferta și documentele
+care o însoțesc nu sunt semnate cu semnatura electronică extinsă, bazată pe un
+certificat calificat, eliberat de un furnizor de servicii de certificare acreditat.
+În drept: art. 134 alin. (5), art. 137 alin. (1) și alin. (2) lit. j) din H.G. nr.
+395/2016 (oferta inacceptabilă).
+Contestatoarea a înaintat autorității contractante notificare
+prealabilă în conformitate cu prevederile art. 6 din Legea nr. 98/2016, la
+care autoritatea contractantă a răspuns, în sensul, că-și menține
+rezultatul comunicat prin adresa nr. 292/03.01.2017.
+Criticile contestatoarei formulate împotriva respingerii ofertei sale
+ca inacceptabilă pentru lipsa semnăturii electronice extinse valide, sunt
+considerate de Consiliu nefondate. Prin fișa de date a achiziției, la cap.
+IV.4.3) “Modul de prezentare a ofertei”, autoritatea contractantă a
+precizat:
+Pentru a putea participa la procedura de atribuire în calitate de
+ofertanți, operatorii economici au obligația să se înregistreze în Sistemul
+Electronic al Achizițiilor Publice (SEAP), conform Legii nr. 98/2016. Vor fi
+14
+
+acceptate numai ofertele depuse online în SEAP. Adresa la care se
+depune oferta este www.e-licitatie.ro. 
+DUAE completat cu informațiile aferente operatorului economic
+participant la procedura de atribuire, propunerea tehnica și propunerea
+financiară vor fi transmise în format electronic/prin mijloace electronice.
+Modul în care se poate accesa DUAE în vederea completării de
+către operatorii economici interesați prin accesarea următorului link:
+https://ec.europa.eu/growth/tools-databases/espd/filter.
+Documentele precizate mai sus, respectiv fișierele încărcate
+în SEAP, vor fi semnate cu semnatura electronică extinsă a
+reprezentantului legal/împuternicit al ofertantului. Se va depune
+formularul de contract propus, semnat și ștampilat de ofertant, însoțit de
+eventuale propuneri de modificare a clauzelor contractuale specifice,
+propuneri care se vor accepta numai în măsura în care acestea nu vor fi,
+în mod evident, dezavantajoase pentru autoritatea contractantă. Având
+în vedere prevederile art. 217 alin. (6) din Legea 98/2016, operatorul
+economic trebuie sa elaboreze oferta în conformitate cu prevederile din
+documentatia de atribuire și să indice în cuprinsul acesteia care
+informații din propunerea tehnică și/sau din propunerea financiară sunt
+confidențiale, clasificate sau sunt protejate de un drept de proprietate
+intelectuală. 
+Prețul se criptează, iar documentele ce conțin elemente de preț se
+semnalează corespunzator.
+În cadrul procedurii de atribuire, contestatoarea a depus oferta în
+SEAP în termenul indicat în anunțul de participare simplificat. La data
+deschiderii ofertelor (15.11.2016), autoritatea contractantă a constatat
+că oferta contestatoarei este semnată cu semnătură electronică extinsă,
+însă certificatul electronic este expirat. În susținere anexează print
+screen-ul din SEAP în care se menționează: Insuficiente date pentru a
+valida acest certificat. Starea de revocare certificat este necunoscută la
+momentul semnării. 
+Referitor la certificat se precizează că este valabil de la 06 mai
+2015 până la 06 mai 2016. Acest certificat este expirat.
+Prin adresa nr. 263/07.12.2016, autoritatea contractantă a solicitat
+contestatoarei clarificări în sensul: 
+În fișa de date se precizează că: "DUAE completat cu informatiile aferente
+operatorului economic participant la procedura de atribuire, propunerea tehnică și
+propunerea financiară vor ft transmise în format electronic /prin mijloace electronice.
+Documentele precizate mai sus, respectiv ftsierele incarcate in SEAP, vor ft semnate
+cu semnatura electronica extinsa a reprezentantului legal/imputernicit al ofertantului."
+DUAE prezentat de ofertantul ...S.R.L. a fost semnat cu semnatura electronică
+extinsă a reprezentantului legal al ofertantului, însă semnatura este invalidă,
+certificatul fiind expirat încă de la data de 06.05.2016.
+SOLICITAM PREZENTAREA DE CLARIFICARI cu privire la acest aspect.
+(Temei legal: art. 209 din Legea nr. 98/2016, coroborat cu art. 132 alin. (1) si
+art. 134 din H.G. nr. 395/2016).
+Contestatoarea a răspuns cu adresa nr. 3275/07.12.2016, prin care
+precizează:
+Întrucât dintr-o regretabilă eroare de semnatură pe care nu o poate explica nici
+prestatorul serviciilor de certificare [OPERATOR ECONOMIC], DUAE prezentat, apare ca fiind
+15
+
+semnat cu o semnătură electronică extinsă expirată, vă retransmitem acest formular,
+semnat corespunzător. Mentionăm faptul că domnul [persoană] deține o
+semnatură electronică extinsă validă, lucru susținut atât prin contractul nr.
+45/b77b/l625373c, cât și prin faptul că toate documentele încărcate în SEAP la
+prezenta procedură au fost semnate cu semnatura electronică extinsă. Mai mult decat
+atat, niciun document nu poate fi semnat electronic cu o semnatură electronică
+extinsă expirată, iar DUAE la care faceți referire apare ca fiind semnat electronic,
+producându-se astfel o eroare inexplicabilă.
+Anexam contractul de furnizare servicii de certificare cu nr. 45/b77b/l 625373c.
+Avem speranța că răspunsul nostru satisface solicitările comisiei de evaluare.
+În conformitate cu prevederile art. 123 alin. (1) din HG nr.
+395/2016, Ofertantul elaborează oferta în conformitate cu prevederile
+documentației de atribuire ......... 
+De asemenea, conform dispozițiilor art. 60 alin. (1) și alin. (4) din
+H.G. nr. 395/2016, “Operatorul economic are obligația de a transmite
+oferta și DUAE în format electronic și numai până la data și ora-
+limită de depunere a ofertelor prevăzute în anunțul de participare”,
+respectiv “Documentele prevăzute la alin. (1) vor fi semnate cu
+semnătură electronică extinsă, bazată pe un certificat calificat,
+eliberat de un furnizor de servicii de certificare acreditat în condițiile legii
+și încărcate în SEAP în secțiunile specifice disponibile în sistemul
+informatic și numai de către operatorii economici înregistrați”.
+Totodată, dispozițiile art. 137 alin. (2) lit. j) din HG nr. 395/2016,
+prevăd: În condițiile art. 215 alin. (4) din Lege, oferta este considerată
+inacceptabilă în următoarele situații:
+j) oferta și documentele care o însoțesc nu sunt semnate cu
+semnătură electronică extinsă, bazată pe un certificat calificat, eliberat
+de un furnizor de servicii de certificare acreditat.
+Astfel, Consiliul constată că prevederile legale anterior menționate
+stabilesc obligația ofertanților de a prezenta oferta și DUAE în format
+electronic, semnate cu semnătură electronică extinsă, bazată pe un
+certificat calificat, aflat în perioada de valabilitate și nu obligația de a
+deține un certificat calificat aferent semnăturii electronice, fără a-l
+utiliza.
+Sub acest aspect, relevante în soluționare sunt prevederile art. 27
+și art. 44 din H.G. nr. 1251/2001 privind aprobarea Normelor tehnice și
+metodologice pentru aplicarea Legii nr. 455/2001 privind semnătura
+electronică potrivit cărora ”Durata valabilității unui certificat este de
+maximum 1 an de la data comunicării către client”, respectiv ”în cazul
+reînnoirii unui certificat calificat se emite un nou certificat cu aceleași
+date de identificare și de verificare a semnăturii electronice, dar cu alte
+date de valabilitate”. 
+Prin urmare, se constată că reînnoirea unui certificat nu presupune
+doar prelungirea termenului de valabilitate al acestuia ci emiterea unui
+nou certificat având aceleași date de identificare a titularului și aceleași
+date de verificare a semnăturii electronice. 
+ Raportat la prevederile legale anterior menționate, din
+documentele aflate în cuprinsul dosarului achiziției, Consiliul constată că
+SC ...SRL a prezentat oferta și DUAE în format electronic, semnat cu
+16
+
+semnătura electronică, însă certificatul calificat utilizat pentru semnătura
+electronică nu era valabil la data depunerii ofertelor, termenul de
+valabilitate al acestuia fiind expirat din data de 06.05.2016. 
+Consiliul reține ca fiind relevante în soluționare susținerile
+contestatorului, exprimate în răspunsul la solictarea de clarificări,
+transmis prin adresa înregistrată la autoritatea contractantă cu nr.
+3275/07.12.2016, respectiv că ”dintr-o regretabilă eroare de semnatură
+pe care nu o poate explica nici prestatorul serviciilor de certificare [OPERATOR ECONOMIC], DUAE prezentat, apare ca fiind semnat cu o semnătură
+electronică extinsă expirată...., și constată că deși afirmă că deține un
+certificat calificat privind semnătura electronică valid nu aduce în
+susținere vreun document care să dovedească că la data depunerii
+ofertei în SEAP deținea un certificat valid. Depunerea unui contract
+încheiat cu [OPERATOR ECONOMIC], nedatat, din conținutul căruia nu rezultă
+când a fost încheiat și implicit pentru care certificat a fost încheiat (cel
+care a expirat la 06.05.2016 sau pentru un nou certificat) nu este
+suficient pentru demonstrarea faptului că la data depunerii ofertei
+deținea un certificate valid. Cel mult, contestatoarea a făcut dovada că la
+data de 07.12.2016 avea un certificat valid. 
+De asemenea, Consiliul nu va reține în soluționare afirmațiile
+contestatoarei că prin adresa nr. 3093/16.11.2016 a solicitat [OPERATOR ECONOMIC] clarificări asupra erorii semnăturii electronice extinse și
+aceasta i-a răspuns telefonic că este imposibil să se efectueze semnătura
+electronică cu un certificat expirat. Pe de o parte, contestatoarea nu a
+adus vreo dovadă că a transmis această adresă [OPERATOR ECONOMIC], iar pe
+de altă parte, din conținutul acesteia rezultă că autoarea contestației a
+avut această problemă cu semnătura electronică extinsă la mai multe
+proceduri de achiziție derulate în perioada septembrie – noiembrie 2016.
+În acest context este de neînțeles de ce abia la 16.11.2016 s-a decis să
+solicite clarificări emitentului certificatului. 
+Consiliul nu va reține, în soluționare, susținerea contestatoarei
+conform căreia eventuala lipsă a semnăturii electronice extinse
+reprezintă un viciu de formă în sensul prevederilor art. 135 alin. (3) din
+HG nr. 395/2016, deoarece eroarea constatată se referă la toate
+documentele depuse de contestatoare, nu la un singur document,
+excedând astfel prevederilor legale invocate.
+Conform prevederilor art. 209 din Legea nr. 98/2016, (1) În cazul
+în care informațiile sau documentele prezentate de către operatorii
+economici sunt incomplete sau eronate sau în cazul în care lipsesc
+anumite documente, autoritatea contractantă are dreptul de a solicita
+într-un anumit termen ofertanților/candidaților clarificări și, după caz,
+completări ale documentelor prezentate de aceștia în cadrul ofertelor sau
+solicitărilor de participare, cu respectarea principiilor tratamentului egal
+și transparenței. 
+ (2) Autoritatea contractantă nu are dreptul ca prin
+clarificările/completările solicitate să determine apariția unui avantaj
+evident în favoarea unui ofertant/candidat.
+17
+
+În același timp, dispozițiile art. 135 alin. (3) din HG nr. 395/2016,
+prevăd: În sensul dispozițiilor alin. (1), viciile de formă reprezintă acele
+erori sau omisiuni din cadrul unui document a căror corectare/
+completare este susținută în mod neechivoc de sensul și de conținutul
+altor informații existente inițial în alte documente prezentate de ofertant
+sau a căror corectare/completare are rol de clarificare sau de confirmare,
+nefiind susceptibile de a produce un avantaj incorect în raport cu ceilalți
+participanți la procedura de atribuire.
+Acceptarea redepunerii/reîncărcării în SEAP, de către SC ...SRL, a
+ofertei și DUAE semnate cu semnătură electronică ar însemna încălcarea
+principiului tratamentului egal și al nediscriminării, creându-se un
+avantaj evident în favoarea contestatoarei față de ceilalți ofertanți care,
+prin depunerea ofertei și a documentelor de calificare semnate cu
+semnătura electronică extinsă, au respectat cerințele legale și ale
+documentației de atribuire. 
+Referitor la susținerile contestatoarei că această eroare nu este din
+culpa sa sau că nu ar deține cunoștințele tehnice necesare, Consiliul are
+în vedere că, în conformitate cu prevederile art. 125 din H.G. nr.
+395/2016, riscurile transmiterii ofertei, inclusiv forța majoră sau cazul
+fortuit, cad în sarcina operatorului economic care transmite respectiva
+ofertă, ofertanții având obligația să întocmească oferta în conformitate
+cu prevederile documentației de atribuire și a legislației incidente în
+materia achizițiilor publice. 
+Prin urmare, Consiliul apreciază că, în mod corect, autoritatea
+contractantă a constatat că semnătura electronică cu care a fost
+semnată oferta și DUAE are la bază un certificat a cărui perioadă de
+valabilitate a expirat și nu un certificat calificat, valabil, eliberat de un
+furnizor de servicii de certificare acreditat în condițiile legii, așa cum
+impun prevederile art. 60 alin. (4) din H.G. nr. 395/2016, astfel că
+decizia comisiei de evaluare, de respingere a ofertei prezentate de
+S.C. ...S.R.L. se dovedește a fi întemeiată. 
+Criticile contestatoarei față de adresa de clarificări nr.
+263/07.12.2016 (care în opinia sa a fost redactată tendențios –
+autoritatea contractantă trebuia să-i solicite redepunerea ofertei și DUAE
+cu semnătură electronică extinsă cu certificat valabil), sunt considerate
+de Consiliu inadmisibile. Solicitarea de clarificări a autorității contractante
+a fost înaintată contestatoarei în data de 07.12.2016 iar criticile au fost
+formulate prin notificarea prealabilă din data de 09.01.2017, mult peste
+termenul de 5 zile prevăzut la art. 6 alin. (1) lit. b) din Legea nr.
+101/2016.
+Consiliul va respinge ca inadmisibilă solicitarea contestatoarei
+privind declararea ofertei sale ca fiind acceptabilă, acesta fiind atributul
+exclusiv al autorității contractante conform art. 134 alin (4) din HG nr.
+395/2016.
+În consecință, luând în considerare cele mai sus menționate, în
+temeiul art. 26 alin. (6) din Legea nr. 101/2016, Consiliul va respinge ca
+nefondată contestația formulată de SC ...SRL în contradictoriu cu
+PRIMĂRIA [localitate] ....
+18
+
+Pentru aceste motive,
+în baza legii și a mijloacelor de probă aflate la dosar,
+CONSILIUL DECIDE:
+În temeiul art. 26 alin. (6) din Legea nr. 101/2016, Consiliul
+respinge ca nefondată contestația formulată de SC ...SRL în
+contradictoriu cu PRIMĂRIA [localitate] ....
+Prezenta decizie este obligatorie pentru părți. Împotriva ei se poate
+formula plângere, în termen de zece zile de la comunicare.
+PREȘEDINTE, MEMBRU, MEMBRU,
+.........
+Redactată în 4 (patru) exemplare, conține 19 pagini.
+19

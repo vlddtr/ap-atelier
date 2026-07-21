@@ -1,0 +1,596 @@
+DECIZIE CNSC BO2017_3307 — text integral (anonimizat de CNSC la publicare; raționament/considerente complete).
+Citeaz-o prin BO2017_3307.
+
+CONSILIUL NAŢIONAL DE
+SOLUŢIONARE A CONTESTAŢIILOR
+Str. Stavropoleos nr. 6, sector 3, Bucureşti, cod poştal 030084, România
+Tel: +4 021.310.46.41 Fax: +4 021.890.07.45 şi +4 021.310.46.42 www.cnsc.ro
+În conformitate cu prevederile art. 14 alin. (2) şi ale art.
+27 alin. (1) din Legea nr. 101/2016 privind remediile şi căile
+de atac în materie de atribuire a contractelor de achiziţie
+publică, a contractelor sectoriale şi a contractelor de
+concesiune de lucrări şi concesiune de servicii, precum şi
+pentru organizarea şi funcţionarea Consiliului Naţional de
+Soluţionare a Contestaţiilor, Consiliul adoptă următoarea
+DECIZIE
+Nr. ......... / ......... / .........
+Data: .........
+Prin contestaţia nr. ........./........., înregistrată la Consiliul
+Naţional de Soluţionare a Contestaţiilor cu nr. ........./........., depusă
+de SC ......... SRL, cu sediul în ........., ...., județul ........., având CUI
+RO ........., număr de înregistrare în registrul comerţului .........,
+privind procedura de licitație deschisă, online, pentru atribuirea
+contractului având ca obiect Servicii de mentenență a sistemului
+informatic din cadrul proiectului „Soluții informatice integrate pentru
+gestiunea registrului agricol în format electronic și managementul
+activităților interne ale instituțiilor publice în cadrul parteneriatului
+dintre Consiliul Județean ......... și 15 UAT-uri”, cod CPV 72267000-4
+Servicii de întreținere și reparații de software (Rev. 2), cu data limită
+pentru depunerea ofertelor 20.04.........., organizată de ........., cu
+sediul în ........., ..., ........., în calitate de autoritate contractantă,
+contestatoarea a solicitat suspendarea procedurii de atribuire, potrivit
+dispozițiilor art. 22 alin. (1) din Legea nr. 101/2016, până la
+soluționarea contestației, în principal, eliminarea din documentația de
+atribuire a cerințelor menționate în cuprinsul contestației, ca nelegale
+și netemeinice, iar în subsidiar, ......... de atribuire, în situația în care
+nu este posibilă remedierea aspectelor sesizate.
+Capătul de cerere privind suspendarea procedurii din cuprinsul
+contestației a fost admis prin Încheierea nr. 154/........./......... din
+10.04...........
+CONSILIUL NAŢIONAL DE SOLUŢIONARE A CONTESTAŢIILOR,
+asupra cauzei de faţă, constată următoarele:
+1
+ 
+
+Consiliul a fost legal sesizat şi este competent, potrivit
+dispoziţiilor art. 12 alin. (1) din Legea nr. 101/2016, să soluţioneze
+contestaţia de faţă, prin care SC ......... SRL reclamă prevederile
+documentației de atribuire, respectiv ale caietului de sarcini, precizând
+că a constatat atât existenţa unor cerinţe restrictive, cât şi lipsa unor
+informaţii esenţiale pentru elaborarea propunerilor tehnice şi
+financiare.
+În primul rând redă cerinţa autorităţii contractante din caietul de
+sarcini, capitolul 6. Proceduri privind desfăşurarea contractului de
+servicii (punctul 1 din notificarea prealabilă nr. 128/24.03..........),
+potrivit căreia: „Deoarece aplicaţiile şi portalul extern din cadrul SI au
+fost livrate Consiliului Judeţean ......... sub marca societăţii care deţine
+drepturile de autor asupra acestora, având în vedere faptul că anumite
+servicii de mentenanţă solicitate în cadrul acestui contract presupun
+modificarea codului sursă al aplicaţiilor sau a portalului extern, pentru
+a nu fi încălcate prevederile Legii nr. 8/1996 a Dreptului de autor,
+aceste servicii vor putea fi efectuate fie de către societatea care
+posedă aceste drepturi de autor (SC ..... SRL), fie de către o altă
+societate care desfăşoară categoriile de servicii ale acestui contract,
+dar numai în baza existenţei în cadrul ofertei depuse de către aceasta
+a unui acord semnat în prealabil în acest sens cu societatea care
+deţine drepturile de autor”.
+În referire la această cerință subliniază că tratamentul egal şi
+nedisciminarea reprezintă principii care stau la baza atribuirii
+contractelor de achiziţie publică (art. 2 din Legea nr. 98/2016), iar
+includerea acestei cerinţe creează în mod nejustificat avantaje
+companiei ..... în raport cu ceilalţi operatori economici interesaţi de
+procedura în cauză. 
+Consideră că este lipsit de orice fundament legal, faptul că
+autoritatea contractantă solicită operatorilor economici prezentarea
+unui acord semnat cu societatea care deţine drepturile de autor pentru
+aplicaţiile şi portalul expert implementate la nivelul autorităţii
+contractante (.....), şi puţin probabil să obţină acest acord, SC .....
+SRL neavând niciun fel de obligaţie legală în acest sens.
+Conform fişei de date a achiziţiei, secţiunea IV ”Procedura”,
+subsecţiunea IV.1.1. b) tipul procedurii de atribuire a contractului în
+cauză este „licitaţie deschisă”, și având în vedere prevederile art. 71
+din Legea nr. 98/2016, autoritatea contractantă avea obligaţia de a
+asigura, începând cu data publicării anunţului de participare în SEAP,
+accesul direct şi nerestricţionat al tuturor operatorilor economici
+interesaţi de această procedură.
+În susținerea afirmațiilor sale atașează decizii ale Consiliului
+considerate relevante (nr. 356/C6 din 16.02.......... și 1217/C10 din
+11.07.2016).
+2
+
+În opinia sa, faptul că autoritatea contractantă ar fi trebuit să
+uzeze de prevederile art. 104 din Legea nr. 98/2016 şi să
+achiziţioneze serviciile de mentenanţă prin aplicarea procedurii de
+negociere fără publicare prealabilă a unui anunţ de participare cu un
+singur operator economic, este accentuat şi de prevederile din Ghidul
+Solicitantului aferent Axei III „Tehnologia Informaţiei şi Comunicaţiilor
+pentru sectoarele privat şi public", Domeniul Major de Intervenţie 2
+„Dezvoltarea şi creşterea eficienţei serviciilor publice electronice”,
+Operaţiunea 1 „Susţinerea implementării de soluţii de e-guvernare şi
+asigurarea conexiunii la broadband, acolo unde este necesar", din care
+extrage următoarele: „Contractul/contractele încheiate de beneficiar cu
+diverşi furnizori pentru garanţia şi mentenanța aplicaţiei, trebuie să asigure
+obligativitatea funcţionării permanente a acesteia în perioada de post-
+implementare. Acest lucru va fi prevăzut si în caietele de sarcini întocmite
+pentru organizarea procedurii de achiziţie publică a diverselor componente
+ale aplicaţiei pentru care s-a solicitat finanţarea (hardware si software), fapt
+probat prin copia contractului de mentenanta care va fi prezentat odată cu
+ultima cerere de rambursare”.
+Afirmă că, din informaţiile prezentate anterior, în special cele
+conform cărora autoritatea contractantă nu deţine codul sursă al
+aplicaţiilor software dezvoltate prin proiectul Soluţii informatice
+integrate pentru gestiunea registrului agricol în format electronic si
+managementul activitatilor interne ale institutiilor publice în cadrul
+parteneriatului dintre Consiliul Judeţean ......... si 15 UAT-uri, rezultă
+fără echivoc faptul că autoritatea contractantă ar fi trebuit să uzeze de
+prevederile legale mai sus menţionate, respectiv să atribuie contractul
+aceluiaşi ofertant.
+În ceea ce priveşte Lista licenţelor componentelor software
+publicată în Caietul de Sarcini de la pct. 5.2.3 (punctul 2 din
+Notificarea Prealabilă nr. 128/24.03..........), având în vedere faptul
+că, prin documentul Răspuns Notificare (CN173753/007 - Răspuns
+Notificare.doc.p7s) publicat în SEAP în data de 23.03..........,
+autoritatea contractantă a completat lista licenţelor componentelor
+software conform solicitării unui operator economic interesat de
+procedura în cauză, solicită Consiliului să reţină faptul că acest punct
+nu mai face obiectul contestaţiei.
+Referitor la procedura aplicată de autoritatea contractantă pentru
+atribuirea contractului în cauză (punctul 3 din Notificarea Prealabilă nr.
+128/24.03..........), afirmă că este în total acord cu cele precizate de
+aceasta în punctul de vedere față de notificarea prealabilă, respectiv
+cu faptul că „Autoritatea contractantă are dreptul să aleagă procedura
+pe care o consideră adecvată pentru contractarea serviciilor de
+mentenanţă care să asigure funcţionarea sistemului asigurând
+actualizarea programelor cu modificările legale apărute”, dar în acelaşi
+timp nu poate ignora nici dreptul oricărui operator economic de a
+participa la o procedură de licitaţie deschisă.
+3
+
+Astfel, evidențiază faptul că, în opinia sa, autoritatea
+contractantă ar fi avut fie obligaţia de a pune la dispoziţia ofertantului
+declarat câştigător codul sursă al sistemului informatic pentru care vor
+fi prestate serviciile de mentenanţă, fie optarea pentru aplicarea
+procedurii de negociere fără publicare prealabilă cu un singur operator
+economic.
+În aceste condiții, consideră că singura măsură de remediere
+care poate fi dispusă de autoritatea contractantă este cea de anulare a
+procedurii de atribuire.
+Prin adresa nr. 3861/13.04.........., înregistrată la Consiliu cu nr.
+13802/13.04.........., autoritatea contractantă a transmis punct de
+vedere față de contestaţia depusă de SC ......... SRL, solicitând
+respingerea ca nefondată a acesteia și continuarea procedurii de
+achiziţie publică.
+Totodată, autoritatea contractantă a invocat excepția lipsei de
+interes a contestatoarei având în vedere dispozițiile art. 4 alin. (2),
+precum și ale art. 3 litera f) din Legea nr. 101/2016.
+Astfel, pentru a putea fi considerată persoană vătămată printr-un
+act emis de o autoritate contractantă, în cadrul unei proceduri de
+achiziție publică, contestatoarea trebuie să aibă sau să fi avut un
+interes legitim în legătură cu procedura și să fi suferit, să sufere sau
+să riște să sufere un prejudiciu urmare a unui act al autorității
+contractante. 
+Susține faptul că, pentru introducerea contestației, ca și pentru
+exercitarea oricărei acțiuni civile, este necesar să se îndeplinească 4
+condiții și anume: drept, interes, capacitate procesuală și calitate
+procesuală.
+Față de cele precizate, consideră că SC ......... SRL nu
+îndeplinește condițiile prevăzute de legislație pentru introducerea
+prezentei contestații, neavând nicio calitate în procedura de licitație.
+Mai mult decât atât, excepția lipsei de interes invocată este
+întărită și de faptul că, așa cum reiese din listing-ul din SEAP printat la
+data de 13.04.........., la data depunerii contestației nu există niciun
+operator înscris la această procedură, astfel, contestatoarea nu are
+calitate în această procedură.
+Totodată, evidențiază faptul că societatea contestatoare
+dorește ......... de „licitație deschisă” și inițierea unei proceduri de
+„negociere fără publicarea prealabilă a unui anunț de participare” fără
+a avea vreo calitate în procedura de atribuire a contractului de
+achiziție publică.
+În ceea ce privește fondul cauzei, achizitoarea precizează că, în
+data de 27.03.........., a primit notificarea nr. 128 din 24.03..........
+formulată de SC ......... SRL, fiind înregistrată sub nr.
+3389/27.03.........., în data de 30.03.......... fiind postat în SEAP
+punctul său de vedere cu privire la notificare.
+4
+
+Contrar afirmațiilor contestatoarei referitoare la nerespectarea
+obligației autorității contractante de a transmite punct de vedere față
+de notificarea prealabilă în termen de 3 zile, precizează că, potrivit
+prevederilor art. 6 alin. (4) din Legea nr. 101/2016, notificarea
+prealabilă a fost comunicată la data de 27.03.........., iar publicarea s-
+a făcut la data de 30.03.........., cu respectarea termenului prevăzut.
+Cu privire la capătul de cerere privind existența unor cerințe
+restrictive, cât și lipsa unor informații esențiale pentru elaborarea
+propunerilor tehnice și financiare și la invocarea încălcării principiilor
+tratamentului egal, nediscriminarea, precum și sugerarea aplicării unei
+proceduri de negociere fără publicarea prealabilă a unui anunț de
+participare, solicită respingerea acestora ca fiind nefondate și
+neargumentate.
+Precizează că la data de 11 iunie 2015 a fost încheiat Contractul
+de furnizare nr. 89 între ......... și Asocierea SC ......... SRL - ....,
+reprezentată de SC ......... SRL - lider de asociere (cu o cota de 55%),
+având ca obiect Achiziția de echipamente și servicii de implementare a
+sistemului informatic integrat (inclusiv servicii de instruire) pentru
+proiectul ”Soluții informatice integrate pentru gestiunea registrului
+agricol în format electronic și managementul activităților interne ale
+instituțiilor publice în cadrul parteneriatului dintre Consiliul
+Județean ......... și 15 UAT-uri.
+Ulterior, după încheierea contractului, respectiv la data de
+14.11.2016, în scopul determinării obiective și corecte a valorii
+estimate pentru achiziția de servicii de mentenanță a sistemului
+informatic, autoritatea contractantă a publicat în cadrul SEAP anunțul
+de consultare a pieței nr. MC 0002887, anexând caietul de sarcini. 
+În cadrul caietului de sarcini, la pagina 18, a fost precizat
+"Deoarece aplicațiile și portalul extern din cadrul SI au fost livrate
+Consiliului Județean ......... sub marca societații care deține drepturile
+de autor asupra acestora, avand in vedere faptul ca anumite servicii
+de mentenanța solicitate in cadrul acestui contract presupun
+modificarea codului sursa al aplicațiilor sau a portalului extern, pentru
+a nu fi incălcate prevederile Legii nr. 8/1996 a Dreptului de autor
+aceste servicii vor putea fi efectuate fie de catre societatea care
+poseda aceste drepturi de autor (SC ..... SRL), fie de catre o alta
+societate care desfașoara categoriile de servicii ale acestui contract,
+dar numai in baza existenței in cadrul ofertei depuse de catre aceasta
+a unui acord semnat in prealabil in acest sens cu societatea care
+deține drepturile de autor".
+Conform rezultatului procesului de consultare a pieței publicat în
+SEAP și având codul "185-2016", în termenul acordat s-a primit prin
+e-mail o singură ofertă, prezentată de SC ......... SRL, având o valoare
+de 3.984.816 lei, pentru o perioadă de 48 de luni, fără a exista în
+cadrul acestei oferte vreo referire la cerința amintită.
+5
+
+Învederează faptul că procedura de atribuire a contractului de
+achiziție publică a fost estimată la o valoare de 696.620 lei, fără TVA
+având criteriu de atribuire „cel mai bun raport calitate – preț”.
+De asemenea, arată că, prin adresa nr. 12841 din 07.11.2016,
+Consiliul Județean ......... a solicitat Agenției Naționale pentru Achiziții
+Publice un punct de vedere cu privire la aplicarea procedurii de
+negociere fără publicarea prealabilă a unui anunț de participare pentru
+atribuirea contractului de servicii de mentenanță a sistemului
+informatic, respectiv la încadrarea în cazurile prevăzute de art. 104
+alin. (1) din Legea nr. 98/2016.
+Din răspunsul ANAP, nu reiese obligativitatea aplicării procedurii
+de negociere fără publicarea prealabilă a unui anunț de participare
+pentru atribuirea contractului de servicii de mentenanță a sistemului
+informatic.
+Totodată, sunt invocate dispozițiile art. 1 alin (4) din HG nr.
+395/2016, apreciindu-se că, strict din punct de vedere al legislației din
+domeniul achizițiilor publice, până la finalizarea procedurii aflată în
+derulare și intrarea în vigoare a contractului, poate fi încheiat un
+contract de achizitie publică numai în urma organizării unei proceduri
+de atribuire reglementată de Legea nr. 98/2016, cu scopul de a
+asigura serviciile de mentenanță, sens în care invocă și prevederile
+art. 69 alin. (1) din Legea nr. 98/2016.
+Referitor la afirmațiile contestatoarei potrivit cărora se impune
+aplicarea procedurii de negociere fără publicarea prealabilă a unui
+anunț de participare, deoarece operatorul economic SC ..... SRL deține
+drepturile de autor pentru aplicațiile și portalul expert implementate,
+autoritatea contractantă subliniază faptul că solicită menținerea
+sistemului informatic în stare de funcționare prin asigurarea unui
+serviciu de mentenanță și numai dacă este cazul a unor modificări sau
+adaptări ale sistemului informatic.
+Mai mult decât atât, deși a solicitat prin caietul de sarcini acordul
+scris al acestui operator economic, precizează că nu există niciun
+document sau o dovadă prezentată de contestatoare prin care să
+dovedească imposibilitatea ofertării, respectiv existența unui refuz din
+partea SC ..... SRL.
+În opinia sa, prevederea din caietul de sarcini nu poate constitui
+motiv de anulare a procedurii de atribuire, dată fiind calitatea
+autorității contractante, obiectul contractului de achiziție, precum și
+natura informațiilor vehiculate prin utilizarea acestor echipamente.
+Consideră că, prin alegerea procedurii propuse de contestatoare,
+negocierea fără publicarea prealabilă a unui anunț de participare,
+aceasta urmărește încheierea unui contract total netransparent și cu
+încălcarea principiilor prevăzute de art. 2 din Legea nr. 98/2016.
+Mai mult decât atât, reliefează că singura ofertă, cea a
+operatorului economic SC ......... SRL pentru consultarea pieței,
+6
+
+depusă în urma anunțului publicat în SEAP având codul "185-2016", a
+avut o valoare de 3.984.816 lei, fără TVA, iar prezenta procedură de
+atribuire care este contestată a fost estimată la o valoare de 696.620
+lei, fără TVA.
+Învederează faptul că, în mod indubitabil se urmărește practic o
+forțare a autorității contractante de a aplica o procedură de negociere
+fără publicarea prealabilă a unui anunț de participare, din care, în mod
+cert, autoritatea contractantă va face o plată mult mai mare decât a
+fost estimată.
+Reține faptul că societatea contestatoare nu a făcut dovada
+susținerilor sale privind faptul că cerințele din caietul de sarcini sunt
+restrictive și lipsesc informații esențiale pentru elaborarea propunerilor
+tehnice, astfel cum este prevăzut și prin dispozițiile art. 249 din Codul
+de Procedură Civilă.
+Consideră că prevederea caietului de sarcini în discuție nu este
+de natură a restricționa participarea la procedură în sensul susținut de
+contestatoare.
+De asemenea, consideră afirmațiile contestatoarei cu privire la
+favorizarea operatorului economic SC ..... SRL nefondate întrucât
+aceasta nici nu a depus ofertă.
+Documentele necesare soluţionării cauzei au fost transmise
+odată cu punctul de vedere fiind înregistrate la Consiliu sub nr.
+13802/13.04...........
+Din examinarea materialului probator administrat, aflat la
+dosarul cauzei, Consiliul reţine următoarele:
+În vederea atribuirii contractului de achiziție publică având ca
+obiect Servicii de mentenență a sistemului informatic din cadrul
+proiectului „Soluții informatice integrate pentru gestiunea registrului
+agricol în format electronic și managementul activităților interne ale
+instituțiilor publice în cadrul parteneriatului dintre Consiliul
+Județean ......... și 15 UAT-uri”, cod CPV 72267000-4 Servicii de
+întreținere și reparații de software (Rev. 2), ......... a iniţiat procedura
+de licitație deschisă, online, prin publicarea în SEAP a anunțului de
+participare nr. ........./..........
+Din informaţiile anunțului de participare, Consiliul a reţinut că
+valoarea estimată a contractului de servicii care urmează a se atribui
+este de 696.620 lei, fără TVA, criteriul de atribuire este „cel mai bun
+raport calitate-preț”, iar data limită pentru depunerea ofertelor
+20.04........... Începând din data de 13.04.........., procedura de
+atribuire a fost suspendată, ca urmare a solicitării societății
+contestatoare, prin Încheierea nr. 154/........./......... din 10.04...........
+Nemulţumită de prevederile documentației de atribuire, respectiv
+caietul de sarcini, SC ......... SRL a înaintat contestaţia de faţă
+solicitând eliminarea din documentația de atribuire a cerințelor
+indicate în cuprinsul contestației, ca nelegale și netemeinice, iar în
+7
+
+subsidiar, ......... de atribuire, în situația în care nu este posibilă
+remedierea aspectelor sesizate.
+Cercetând cu întâietate excepția lipsei de interes a contestatoarei
+invocată de autoritatea contractantă, Consiliu reține că, potrivit art. 2
+alin. (1) din Legea nr. 101/2016 (1) Orice persoană care se consideră
+vătămată într-un drept al său ori într-un interes legitim printr-un act
+al unei autorităţi contractante sau prin nesoluţionarea în termenul
+legal a unei cereri poate solicita anularea actului, obligarea autorităţii
+contractante la emiterea unui act sau la adoptarea de măsuri de
+remediere, recunoaşterea dreptului pretins sau a interesului legitim,
+pe cale administrativ-jurisdicţională sau judiciară, potrivit prevederilor
+prezentei legi.
+Potrivit art. 3 alin. (1) lit. f) din lege, În sensul prezentei legi,
+termenii şi expresiile de mai jos semnifică, după cum urmează: ... f)
+persoană care se consideră vătămată - orice operator economic care
+îndeplineşte cumulativ următoarele condiţii: (i) are sau a avut un
+interes în legătură cu o procedură de atribuire; şi (ii) a suferit, suferă
+sau riscă să sufere un prejudiciu ca o consecinţă a unui act al
+autorităţii contractante, de natură să producă efecte juridice, ori ca
+urmare a nesoluţionării în termenul legal a unei cereri privind o
+procedură de atribuire, iar conform art. 4 alin. (2) din același act
+normativ, Persoana care se consideră vătămată se poate adresa
+Consiliului sau instanţei de judecată.
+În condițiile prevederilor redate, societatea contestatoare fiind
+interesată de participarea cu ofertă în cadrul procedurii contestate,
+riscând să sufere un prejudiciu ca urmare a documentației de
+atribuire, considerată nelegală, este îndreptățită la depunerea
+contestației față de procedura de atribuire, contrar celor susținute de
+autoritatea contractantă 
+Condițiile pentru exercitarea acțiunii civile, respectiv dreptul,
+interesul, capacitatea procesuală și calitatea procesuală, sunt
+îndeplinite de SC ......... SRL fiind persoana care se consideră
+vătămată de documentația de atribuire elaborată de autoritatea
+contractantă.
+Pe de altă parte, contrar celor precizate de autoritatea
+contractantă, pentru faptul că, la data depunerii contestației, .........,
+nu exista niciun operator înscris la această procedură, contestatoarea
+neavând la momentul indicat calitatea de ofertantă în această
+procedură, nu înseamnă că aceasta nu era îndreptățită la înaintarea
+contestației.
+Tocmai pentru că era interesată să depună ofertă, societatea
+contestatoare a criticat cerințele documentației de atribuire,
+considerate nelegale, solicitând și suspendarea procedurii pentru a da
+posibilitatea autorității contractante să corecteze această
+documentație.
+8
+
+Mai mult, în cuprinsul contestației s-a precizat explicit că
+solicitarea de anulare a procedurii a fost formulată în contextul în care
+nu este posibilă remedierea documentației de atribuire.
+Chiar și în situația în care ar fi solicitat doar ........., societatea
+contestatoare avea interes în a promova o contestație, câtă vreme
+considera documentația de atribuire și procedura organizată ca fiind
+nelegale.
+După respingerea excepției invocate de autoritatea contractantă,
+trecând la soluționarea pe fond a contestației îndreptate împotriva
+documentației de atribuire, respectiv a caietului de sarcini, Consiliul
+constată temeinicia, în parte, a acesteia.
+În aprecierea acestei finalități, Consiliul reține că, prin caietul de
+sarcini, la cap. 6 ”Proceduri privind desfăşurarea contractului de
+servicii”, pct. 6.1 ”Cerințe generale pentru serviciile informatice de
+mentenanță pentru SI”, s-a precizat operatorilor economici: „...
+Deoarece aplicaţiile şi portalul extern din cadrul SI au fost livrate
+Consiliului Judeţean ......... sub marca societăţii care deţine drepturile
+de autor asupra acestora, având în vedere faptul că anumite servicii
+de mentenanţă solicitate în cadrul acestui contract presupun
+modificarea codului sursă al aplicaţiilor sau a portalului extern, pentru
+a nu fi încălcate prevederile Legii nr. 8/1996 a Dreptului de autor,
+aceste servicii vor putea fi efectuate fie de către societatea care
+posedă aceste drepturi de autor (SC ..... SRL), fie de către o altă
+societate care desfăşoară categoriile de servicii ale acestui contract,
+dar numai în baza existenţei în cadrul ofertei depuse de către aceasta
+a unui acord semnat în prelabil în acest sens cu societatea care deţine
+drepturile de autor”.
+Totodată, se reține că în cadrul cap. 2 ”Obiectivele proiectului”,
+s-a precizat în cadrul pct. 2.1 ”Obiectiv general”: ”Proiectul
+implementat de către Consiliul Județean ......... ca lider de proiect, în
+parteneriat cu 15 UAT-uri din ........., a avut ca obiect principal
+creșterea performanței actului administrativ prin eficientizarea
+activităților interne, a calității serviciilor publice on-line aduse
+cetățeanului cu ajutorul unui sistem informatic integrat implementat la
+nivelul instituțiilor publice partenere, care să gestioneze Registrul
+Agricol în format electronic și să realizeze un management intern
+performant”, iar în cadrul pct. 2.2 ”Obiective specifice”:
+”Îmbunătățirea calității serviciilor publice prin introducerea serviciilor
+on-line furnizate utilizatorilor (cetățeni și mediul de afaceri) și
+eficientizarea activităților interne ale partenerilor prin implementarea
+unui sistem informatic destinat gestiunii Registrului Agricol. Creșterea
+eficienței activităților interne ale instituțiilor publice prin
+implementarea unei soluții informatice integrate care să permită
+următoarele tipuri de activități specifice: financiar-contabile, bugetare,
+resurse umane, impozite și taxe locale, evaluarea eficienței proiectelor
+9
+
+desfășurate. Prin implementarea Sistemului Informatic Integrat în
+cadrul proiectului, se îndeplinesc simultan cele două obiective
+principale ale Operațiunii 1 Susținerea implementării de soluții de e-
+guvernare și asigurarea conexiunii la broadband, acolo unde este
+necesar”.
+În condițiile în care prestarea anumitor servicii de mentenanță
+care fac obiectul contractului pentru care s-a organizat procedura
+contestată pot presupune modificarea codului sursă al aplicaţiilor sau a
+portalului extern, iar pentru a nu fi încălcate prevederile Legii nr.
+8/1996 a Dreptului de autor, aceste servicii pot fi efectuate fie de
+către societatea care posedă aceste drepturi de autor (SC ..... SRL),
+fie de către o altă societate care desfăşoară categoriile de servicii ale
+acestui contract, numai în baza existenţei în cadrul ofertei depuse de
+către aceasta a unui acord semnat în prelalabil în acest sens cu
+societatea care deţine drepturile de autor, se constată că derularea
+acestui contract presupune atât deținerea codului sursă, cât și
+obținerea unui acord cu societatea care deține drepturile de autor,
+respectiv SC ..... SRL.
+Astfel, potrivit celor din caietul de sarcini mai sus arătate,
+prestarea anumitor servicii de mentenanță poate presupune
+modificarea codului sursă al aplicaţiilor sau a portalului extern,
+pentru care este necesar un acord semnat cu societatea care
+deține drepturile de autor asupra aplicațiilor și portalului
+extern din cadrul sistemului informatic (SI).
+Or, în condițiile în care derularea procedurii este condiționată de
+existența acestor două elemente (codul sursă și acordul societății care
+deține drepturile de autor), este în sarcina autorității contractante de a
+pune la dispoziția ofertantei câștigătoare codul sursă, ofertanții
+trebuind să facă dovada, în cadrul ofertei, că au dreptul de a efectua
+modificarea respectivul cod. 
+Referitor la susținerea autorității contractante cu privire la faptul
+că, din data de 11 iunie 2015 are încheiat Contractul de furnizare nr.
+89 cu asocierea SC ......... SRL - ...., al cărei lider este SC ......... SRL,
+pentru care, în prezent, se intenționează asigurarea serviciilor de
+mentenanță, se constată lipsa de relevanță a acesteia.
+Pentru faptul că societatea contestatoare a derulat, într-o
+asociere, cu autoritatea contractantă, un contract de achiziție publică,
+nu înseamnă că, pentru contractul în cauză, prin care trebuie
+asigurate serviciile de mentenanță pentru sistemul informatic integrat
+realizat, autoarea contestației dispune de toate informațiile și de toate
+pârghiile care să-i permită depunerea ofertei și derularea contractului
+în condițiile impuse prin caietul de sarcini, astfel cum s-a reținut în
+cele de mai sus.
+Într-adevăr SC ......... ar fi trebuit să facă dovada că nu poate
+obține acordul din partea SC ..... SRL, dar câtă vreme această din
+10
+
+urmă societate deține drepturile de autor asupra aplicațiilor și
+portalului extern din cadrul sistemului informatic deținut de
+autoritatea contractantă, nu se pot aduce atingere prevederilor Legii
+nr. 8/1996 privind Dreptul de autor
+Întrucât SC ..... SRL deține un drept de proprietate asupra
+aplicațiilor și portalului extern realizate, este necesar ca operatorii
+economici participanți în procedură să obțină de la această societate
+acordul pentru cazul în care este necesară modificarea codului sursă în
+vederea derulării corespunzătoare a contractului.
+Față de cele reținute se consideră că trebuie avută în vedere și
+incidența prevederilor art. 104 alin. (1), (2) și (3) din Legea nr.
+98/2016, potrivit cărora, Autoritatea contractantă are dreptul de
+a aplica procedura de negociere fără publicarea prealabilă a
+unui anunţ de participare pentru atribuirea contractelor de
+achiziţii publice/acordurilor-cadru de lucrări, de produse sau de
+servicii într-unul din următoarele cazuri: a) dacă în cadrul unei
+proceduri de licitaţie deschisă ori licitaţie restrânsă organizate pentru
+achiziţia produselor, serviciilor sau lucrărilor respective nu a fost
+depusă nicio ofertă/solicitare de participare sau au fost depuse numai
+oferte/solicitări de participare neconforme, cu condiţia să nu se
+modifice în mod substanţial condiţiile iniţiale ale achiziţiei şi, la
+solicitarea Comisiei Europene, să fie transmis acesteia un raport; b)
+dacă lucrările, produsele sau serviciile pot fi furnizate numai de
+către un anumit operator economic pentru unul dintre motivele
+prevăzute la alin. (2); c) ca o măsură strict necesară, atunci când
+perioadele de aplicare a procedurilor de licitaţie deschisă, licitaţie
+restrânsă sau negociere competitivă nu pot fi respectate din motive de
+extremă urgenţă, determinate de evenimente imprevizibile şi care nu
+se datorează sub nicio formă unei acţiuni sau inacţiuni a autorităţii
+contractante. (2) Motivele prevăzute la alin. (1) lit. b) sunt
+următoarele: a) scopul achiziţiei este crearea sau achiziţionarea unei
+opere de artă sau unei reprezentaţii artistice unice; b) concurenţa
+lipseşte din motive tehnice; c) protecţia unor drepturi exclusive,
+inclusiv drepturi de proprietate intelectuală. (3) Autoritatea
+contractantă poate aplica procedura de negociere fără publicarea
+prealabilă a unui anunţ de participare în cazul prevăzut la alin. (1) lit.
+b) numai dacă, în legătură cu motivele prevăzute la alin. (2) lit. b) şi
+c), nu există o soluţie alternativă sau înlocuitoare rezonabilă, cum ar fi
+utilizarea unor canale de distribuţie alternative pe teritoriul României
+ori în afara acestuia sau achiziţia unor lucrări, produse sau servicii
+comparabile din punct de vedere funcţional, iar absenţa concurenţei
+sau protecţia drepturilor exclusive nu sunt rezultatul unei restrângeri
+artificiale de către autoritatea contractantă a parametrilor achiziţiei în
+vederea viitoarei proceduri de atribuire. Motivele tehnice pot fi
+generate, de asemenea, de cerinţe specifice privind interoperabilitatea
+11
+
+care trebuie îndeplinite pentru a asigura funcţionarea lucrărilor,
+produselor sau serviciilor care urmează a fi achiziţionate. 
+În același sens, prin răspunsul Agenției Naționale pentru Achiziții
+Publice (ANAP) înregistrat la Consiliul Județean ......... sub nr.
+13080/14.11.2016, cu invocarea prevederilor art. 69 alin. (4) și 104
+alin. (1) lit. b), coroborat cu alin. (2) lit. c) din Legea nr. 98/2016 s-a
+precizat: ”... Consiliul Județean ......... poate aplica procedura de
+negociere fără publicarea prealabilă a unui anunț de participare pentru
+atribuirea contractului de achiziție publică având ca obiect servicii de
+mentenanță a sistenului informatic în cadrul proiectului amintit, în
+temeiul art. 104 alin. (1) lit. b), coroborat cu alin. (2) lit. c) din Legea
+nr. 98/2016, NUMAI ÎN SITUAȚIA ÎN CARE POATE DEMONSTRA CĂ:
+-respectivele servicii pot fi furnizate numai de către un anumit
+operator economic pentru motive ce țin de protecția unor drepturi
+exclusive; - nu există o soluție alternativă sau înlocuitoare rezonabilă;
+- absența concurenței sau protecția drepturilor exclusive nu sunt
+rezultatul unei restrângeri artificiale de către autoritatea contractantă
+a parametrilor achiziției în vederea viitoarei proceduri de atribuire”.
+În aceste condiții, se consideră că autoritatea contractantă
+trebuie să pună la dispoziția ofertantului câștigător codul sursă. 
+Cât privește critica formulată de societatea contestatoare
+referitor la Lista licenţelor componentelor software publicată în Caietul
+de Sarcini de la pct. 5.2.3 (punctul 2 din Notificarea Prealabilă nr.
+128/24.03..........), având în vedere faptul că, prin documentul
+Răspuns Notificare (CN173753/007 - Răspuns Notificare.doc.p7s)
+publicat în SEAP în data de 23.03.........., autoritatea contractantă a
+completat lista licenţelor componentelor software conform solicitării
+unui operator economic interest de procedura în cauză, societatea
+contestatoare a solicitat Consiliului să reţină faptul că acest punct nu
+mai face obiectul prezentei contestaţii, motiv pentru care Consiliul
+consideră critica a fi fără obiect.
+Vizavi de susținerea contestatoarei că a transmis autorității
+contractante Notificarea prealabilă nr. 128/24.03.........., iar aceasta a
+încărcat punctul de vedere în SEAP la data de 30.03.........., este de
+reținut că, potrivit prevederilor art. 6 alin. (4) din Legea nr. 101/2016,
+În termen de 3 zile, calculat începând cu ziua următoare primirii
+notificării prealabile, autoritatea contractantă transmite un răspuns
+prin care comunică dacă urmează sau nu să adopte măsuri de
+remediere a pretinsei încălcări.
+Publicarea răspunsului la data de 30.03.......... nu a produs
+vreun prejudiciu contestatoarei, astfel că nu a fost împiedicată să
+formuleze contestație.
+În ceea ce privește solicitarea societății contestatoare de
+eliminare din documentația de atribuire, respectiv din caietul de
+sarcini a cerinței în discuție, Consiliul constată lipsa de temeinicie a
+12
+
+acesteia, contractul care se intenționează a se atribui neputând fi
+derulat în absența acordului obținut de operatorii economici de la
+SC ..... SRL care deține un drept de proprietate asupra sistemului
+informatic integrat realizat. 
+În ceea ce privește solicitarea contestatoarei de ......... de
+atribuire, Consiliul o va respinge ca nefondată, dat fiind că a fost
+stabilită în sarcina autorității contractante punerea la dispoziția
+operatorului economic câștigător a codului sursă.
+Pentru aceste motive,
+în baza legii şi a mijloacelor de probă aflate la dosar,
+CONSILIUL DECIDE:
+În temeiul art. 26 alin. (2) și (5) Legea nr. 101/2016 privind
+remediile şi căile de atac în materie de atribuire a contractelor de
+achiziţie publică, a contractelor sectoriale şi a contractelor de
+concesiune de lucrări şi concesiune de servicii, precum şi pentru
+organizarea şi funcţionarea Consiliului Naţional de Soluţionare a
+Contestaţiilor, pentru considerentele evocate în motivarea prezentei,
+admite, în parte, contestația depusă de SC ......... SRL, în
+contradictoriu cu .......... Obligă autoritatea contractantă să
+completeze caietul de sarcini cu precizarea că va pune la dispoziția
+operatorului economic câștigător a codului sursă, în termen de 15 de
+zile de la data primirii prezentei. În cadrul aceluiași termen,
+informațiile vor fi aduse la cunoștința operatorilor economici prin
+publicarea în SEAP, cu stabilirea unui nou termen de depunere și de
+deschidere a ofertelor.
+În temeiul art. 26 alin. (6) din Legea nr. 101/2016, respinge ca
+nefondate cererile contestatoarei de eliminare din documentația de
+atribuire a cerințelor considerate nelegale, precum și de anulare a
+procedurii de atribuire.
+Prezenta decizie este obligatorie pentru părţi. Împotriva ei se
+poate formula plângere, în termen de 10 zile de la comunicare.
+PREŞEDINTE, MEMBRU, MEMBRU,
+......... .... .....
+Redactată în 4 exemplare originale, conţine 13 (treisprezece) pagini.
+13

@@ -1,0 +1,1089 @@
+DECIZIE CNSC BO2024_1762 — text integral (anonimizat de CNSC la publicare; raționament/considerente complete).
+Citeaz-o prin BO2024_1762.
+
+În conformitate cu prevederile art. 14 alin. (2) din Legea nr.
+101/2016 privind remediile și căile de atac în materie de atribuire
+a contractelor de achiziție publică, a contractelor sectoriale și a
+contractelor de concesiune de lucrări și concesiune de servicii,
+precum și pentru organizarea și funcționarea Consiliului Național
+de Soluționare a Contestațiilor, cu modificările și completările
+ulterioare, Consiliul adoptă următoarea:
+DECIZIE
+Nr. ...
+Data: ...
+Prin contestația înregistrată la Consiliul Național de Soluționare a
+Contestațiilor cu nr. 28661/10.05.2024, depusă de ..., cu sediul social
+în ..., înregistrată la Registrul Comerțului sub nr. ..., având CUI ...,
+reprezentată legal de ... și convențional de ..., împotriva documentației de
+atribuire, privind procedura de licitație deschisă, online, organizată pentru
+încheierea acordului-cadru având ca obiect „Servicii de colectare, transport
+și tratare/eliminare finală, deșeuri medicale și nemedicale periculoase” – 2
+loturi, cod CPV 90524400-0, de către ..., cu sediul în ..., în calitate de
+autoritate contractantă, s-a solicitat:
+•În principal, eliminarea factorului de evaluare Componenta tehnică -
+distanța de la locul de colectare la locul de eliminare de la pct.ll.2.5 (lotul 1
+și lotul 2) din fișa de date a achiziției,
+•În subsidiar, diminuarea ponderii factorului de evaluare Componenta
+tehnică - distanța de la locul de colectare la locul de eliminare de la
+pct.ll.2.5 (lotul 1 și lotul 2) din fișa de date a achiziției proporțional cu
+importanța acestuia prin raportare la obiectul contractului,
+•Modificarea Cerinței nr. 5 și a Cerinței nr. 6 de la pct.lll.l.3.a
+Capacitatea tehnică și profesională prin eliminarea din aceste cerințe a
+mențiunilor privind capacitatea maxim autorizată a autovehiculelor pentru
+transportul deșeurilor, respectiv 2,5 - 3,5 tone și peste 3,5 tone,
+•Eliminarea din caietul de sarcini a cerinței privind obligația
+respectării principiului proximității la etapele de transport și eliminare a
+deșeurilor de la pct.A2 - Cerințe tehnice impuse Propunerii tehnice (pagina
+5).
+CONSILIUL NAȚIONAL DE SOLUȚIONARE A CONTESTAȚIILOR,
+asupra cauzei de față, constată următoarele:
+
+Consiliul a fost legal sesizat și este competent, potrivit dispozițiilor
+art. 12 alin. (1) din Legea nr. 101/2016, să soluționeze contestația de față,
+prin care ... reclamă documentația de atribuire, învederând următoarele:
+Contestatorul susține că prin Anunțul de participare
+nr. .../07.05.2024 autoritatea contractantă a inițiat procedura de atribuire
+a unui acord cadru având ca obiect servicii de colectare, transport și
+tratare/eliminare finală, deșeuri medicale și nemedicale periculoase pentru
+2 loturi, respectiv:
+(i)lotul 1 pentru servicii de colectare, transport și
+tratare/incinerare/eliminare a deșeurilor medicale periculoase și
+nepericuloase,
+(ii)lotul 2 pentru servicii de colectare, transport și
+tratare/incinerare/eliminare a deșeurilor periculoase și nepericuloase -
+chimice de laborator, expirate sau active.
+Criteriul de atribuire stabilit de către autoritatea contractantă este cel
+mai bun raport calitate - cost cu factorii de evaluare componenta
+financiară, având o pondere de 40% și componenta tehnică, cu o pondere
+de 60%. În cadrul componentei tehnice se stabilește că se punctează
+distanța dintre locul colectării deșeurilor (sediul autorității contractante) și
+locul eliminării, pentru cea mai mică distanță fiind alocat punctajul maxim.
+Contestatorul afirmă că în cuprinsul fișei de date a achiziției și al
+caietului de sarcini sunt evidențiate cerințe și criterii care contravin
+reglementărilor aplicabile și cerințe/criterii care restrâng considerabil
+accesul operatorilor economici la procedura de atribuire.
+Pentru clarificarea acestor neconcordanțe contestatorul a formulat și
+a înaintat solicitarea de clarificări din data de 10.05.2024, la care nu s-a
+răspuns până în prezent.
+1. În ce privește Factorul de evaluare Componenta tehnică - distanța
+de la locul de colectare la locul de eliminare, contestatorul precizează
+următoarele:
+Conform mențiunilor din fișa de date a achiziției de la pct.ll.2.5
+(pentru ambele loturi) autoritatea contractantă a stabilit criteriul de
+atribuire cel mai bun raport calitate - cost, fixând factorii de evaluare
+componenta financiară (40%) și componenta tehnică (60%), în cadrul
+acestuia din urmă acordând punctaj maxim celei mai mici distanțe între
+locul de colectare și locul de eliminare a deșeurilor, cu alte cuvinte
+operatorului care deține instalația de eliminare cea mai apropiată de locul
+de generare.
+Cu privire la factorul de evaluare Componenta tehnică, contestatorul
+solicită CNSC să constate că acesta a fost stabilit cu încălcarea prevederilor
+art. 189 din Legea nr. 98/2016, ale art. 32 din Normele aprobate prin HG
+nr. 395/2016 și a principiilor stabilite la art. 2 din Legea nr. 98/2016 care
+trebuie să guverneze procedura de atribuire.
+Conform art. 189 din Legea 98/2016 autoritatea contractantă nu are
+dreptul de a utiliza factori de evaluare care sa conducă la o libertate de
+apreciere nelimitată, iar alin. 2 al aceluiași articol arată că în sensul alin.
+(1), factorii de evaluare utilizați de autoritatea contractantă trebuie să
+asigure o concurență reală între operatorii economici și să fie însoțiți de
+2
+
+prevederi care să permită verificarea efectivă a informațiilor furnizate de
+către ofertanți, în scopul aplicării factorilor de evaluare.
+Art. 32 din Normele aprobate prin HG nr. 395/2016 arată că în cazul
+în care criteriul utilizat este criteriul «cel mai bun raport calitate-preț» sau
+«cel mai bun raport calitate-cost», astfel cum este prevăzut la art. 187
+alin. (3) lit. a) și b) din Lege, stabilirea ofertei câștigătoare se realizează
+prin aplicarea unui sistem de factori de evaluare pentru care se stabilesc
+ponderi relative sau un algoritm specific de calcul.
+Totodată, conform alin. 2 al art. 32 factorii de evaluare a ofertelor,
+precum și algoritmul de punctare prevăzut la alin. (1) se precizează în mod
+clar și detaliat în cadrul documentației de atribuire și vor reflecta
+metodologia de punctare a avantajelor care vor rezulta din propunerile
+tehnice și financiare prezentate de ofertanți și trebuie să aducă un avantaj
+real, să nu fie formali și să poată fi urmăriți în cadrul procesului de
+evaluare a ofertelor și aplicare a criteriului de atribuire.
+Conform alin. 8 al art. 32 atunci când stabilește factorii de evaluare a
+ofertelor, autoritatea contractantă nu are dreptul de a utiliza factori care:
+a) nu au o legătură directa cu natura si obiectul contractului de achiziție
+publică ce urmează sa fie atribuit; b) nu reflecta un avantaj pe care
+autoritatea contractanta îl poate obține prin utilizarea factorului de
+evaluare respectiv.
+Alin. 9 al art. 32 arată că ponderea stabilita pentru fiecare factor de
+evaluare nu trebuie sa conducă la distorsionarea rezultatului aplicarii
+procedurii pentru atribuirea contractului de achiziție publica. Pentru fiecare
+factor de evaluare autoritatea contractanta are obligația de a stabili o
+pondere care sa reflecte in mod corect: a) importanta caracteristicii
+tehnice/functionale considerate a reprezenta un avantaj calitativ, de mediu
+si/sau social ce poate fi punctat; sau b) cuantumul valoric al avantajelor de
+natura financiara pe care ofertantii le pot oferi prin asumarea unor
+angajamente suplimentare in raport cu cerințele minime prevăzute in
+caietul de sarcini sau documentul descriptiv.
+1.a. Tratamentul inegal al operatorilor economici si restrângerea
+artificiala a concurenței. Contestatorul arată că în cazul documentației,
+autoritatea contractantă aloca o pondere de 60% distantei dintre locul de
+generare a deșeurilor si locul de eliminare, rezultând în mod clar că va
+obtine punctajul maxim exclusiv acel operator economic care este situat în
+raza teritorială a autorității contractante, respectiv operatorul care deține
+instalatia cea mai apropiata de sediul autorității contractante. 
+În aceste condiții, factorul de evaluare componenta tehnică din
+documentația contestată nu asigură o concurență efectivă între operatorii
+economici, ci dimpotrivă califică și acordă punctajul maxim exclusiv unui
+singur operator sau unei singure categorii de operatori prestabiliți,
+respectiv cei din raza teritorială a municipiului București. În egala măsură,
+restrânge accesul la procedura acelor operatori care dețin instalații
+amplasate la o distanță mai mare de locul de generare a deșeurilor, care
+chiar dacă nu vor fi descalificați (distanța nefiind criteriul de calificare, ci
+factor de evaluare) vor obține un punctaj mic care îi va plasa într-o poziție
+de inferioritate față de operatorii din raza autorității contractante mai ales
+văzând ponderea ridicată a factorului de evaluare în discuție.
+
+În consecință, stabilirea acestui factor de evaluare, respectiv distanța
+dintre locul de generare și cel de eliminare favorizează operatorii din
+imediata vecinătate a autorității contractante și îi defavorizează pe cei
+aflați la distanțe mai mari, fără ca pentru această inegalitate să existe o
+justificare obiectivă, încălcând atât principiul tratamentului egal consacrat
+prin art. 2 al Legii 98/2016, cât și art. 50 din același act normativ care
+arată că autoritățile contractante nu vor concepe sau structura achizițiile
+ori elemente ale acestora cu scopul exceptării acestora de la aplicarea
+dispozițiilor prezentei legi ori al restrângerii artificiale a concurenței și în
+sensul alin. (1), se consideră că există o restrângere artificială a
+concurenței în cazul în care achiziția ori elemente ale acesteia sunt
+concepute sau structurate cu scopul de a favoriza ori dezavantaja în mod
+nejustificat anumiți operatori economici.
+1.b. Lipsa avantajului real generat de aplicarea factorului de evaluare
+Componenta tehnică - distanța de la locul de colectare la locul de
+eliminare. Se menționează că potrivit art. 32, alin. 8 din Norma aprobata
+prin HG nr. 395/2016 factorul de evaluare stabilit de către autoritatea
+contractantă într-o procedură de atribuire trebuie să confere acesteia un
+avantaj real și să nu fie formal. În egală măsură, conform alin. 9 al
+aceluiași articol, ponderea factorului de evaluare trebuie să reflecte în mod
+corect importanța avantajului conferit autorității prin aplicarea respectivului
+factor.
+Contestatorul reține că în cazul documentației contestate factorul de
+evaluare Componenta tehnică distanța dintre locul de colectare și cel de
+eliminare este pur formal și nu conferă niciun avantaj de nicio natură
+autorității contractante.
+Astfel, o distanță mai mică între locul de generare și locul de
+eliminare se traduce în primul rând prin costuri diminuate asociate cu
+transportul deșeurilor către locația de eliminare, însă un eventual cost
+diminuat care determină un preț unitar mai mic are relevanță în aprecierea
+componentei financiare care reprezintă primul factor de evaluare, astfel că
+nu i se poate conferi relevanță în aplicarea celui de-al doilea factor de
+evaluare care vizează componenta tehnică.
+Pe de altă parte, o distanță mai mică față de locul de generare poate
+însemna un timp de reacție mai scurt. Însă nici acest aspect nu reprezintă
+în opinia contestatorului un avantaj real obținut de către autoritatea
+contractantă prin aplicarea factorului de evaluare menționat în condițiile în
+care timpul de reacție este prestabilit prin documentația de atribuire, prin
+impunerea unui grafic de prestare pe care dacă ofertanții nu îl asumă riscă
+descalificarea. 
+Astfel, câtă vreme există un grafic de prestare prestabilit iar viitorul
+prestator va trebui să colecteze deșeurile în fiecare zi luni - duminică între
+orele 7.00 - 12.00 aceasta reprezentând cerința tehnică stabilită prin
+caietul de sarcini (pct.C Programul de prestare pagina 7), această
+exigență/solicitare este asigurată de către autoritatea contractantă prin
+mențiunile din caietul de sarcini. Impunerea factorului de evaluare privind
+distanța dintre locul de generare și cel de eliminare, deși aparent
+presupune un timp de răspuns/reacție mai scurt al operatorului, în realitate
+nu oferă acest avantaj întrucât avem un grafic de prestare prestabilit care
+4
+
+trebuie asumat de către toti ofertanții. Practic sub acest aspect, factorul de
+evaluare contestat este formal, nu aduce un avantaj real, ci de fapt are ca
+efect selectarea unor operatori prestabiliți (din raza teritorială a autorității
+contractante).
+Sub un ultim aspect, distanța mai mică între locul de generare și cel
+de eliminare aparent ar determina avantajul eliminării mai rapide a
+deșeurilor generate de către autoritatea contractantă. În realitate nici sub
+acest aspect nu există un avantaj real și obiectiv pe care acest factor să îl
+asigure autorității contractante întrucât termenul pentru transportul și
+eliminarea deșeurilor este stabilit prin lege (art. 34 din Norma aprobata
+prin Ordinul 1226/2012 arată că durata pentru transportul și eliminarea
+finală a deșeurilor medicale infecțioase nu trebuie să depășească 24 de
+ore).
+Astfel, faptul că factorul de evaluare crează aparența unor avantaje
+care în realitate sunt deja stabilite prin documentația de atribuire (cu titlu
+de cerințe minime obligatorii cum este graficul de prestare) sau care
+reprezintă prevederi legale, oricum obligatorii, nu înseamnă în opinia
+contestatorului că sunt respectate prevederile art. 32 alin. 8 și alin. 9 din
+Norma aprobata prin HG nr. 395/2016. Factorul de evaluare ar trebui să
+ofere autorității contractante avantaje superioare față de cerințele minime
+ale documentației și față de cerințele minime legale și obligatorii și
+importanța acestui avantaj să fie punctată corect prin ponderea factorului
+de evaluare.
+În concluzie, autorul contestației apreciază că Factorul de evaluare
+Componenta tehnică - distanță dintre locul de colectare și locul de
+eliminare având o pondere de 60% stabilit la pct.ll.2.5 din fișa de date a
+achiziției se impune a fi eliminat și în subsidiar, diminuat la un nivel
+corespunzător importanței sale față de obiectul contractului.
+2. Principiul proximității.
+Contestatorul menționează că, caietul de sarcini stabilește ca și
+cerință tehnică la pct.A2 - Cerințe tehnice impuse Propunerii tehnice
+(pagina 5) obligația de respectare a principiului proximității pe durata
+transportului si eliminării deșeurilor medicale. Fiind cerința tehnică inclusă
+în caietul de sarcini, nerespectarea acesteia determină respingerea ofertei
+ca neconformă (art. 137, alin. 3 din Norma aprobata prin HG nr.
+395/2016). În consecință, cerința astfel impusă este menită să conducă la
+stabilirea neconformității ofertelor care nu fac dovada respectării
+principiului proximității, adică a celor depuse de operatori care nu se află în
+imediata vecinătate a autorității contractante.
+Distanța dintre locul de generare a deșeurilor și locul de eliminare în
+instalații autorizate reprezintă principiul proximității reglementat inițial prin
+Legea 211/2011 abrogată și înlocuita cu OUG nr. 92/2021 care transpune
+în legislația națională reglementările Directivei 2008/98/CE și arată în
+legătură cu acest principiu următoarele: autoritatea publică centrală pentru
+protecția mediului colaborează cu celelalte autorități publice cu atribuții în
+domeniul gestionării deșeurilor și cu autoritățile competente din alte state
+membre, dacă este necesar sau oportun, pentru stabilirea unei rețele
+naționale integrate în cea comunitară, adecvate de unități de eliminare a
+deșeurilor și de instalații de valorificare a deșeurilor municipale mixte
+
+colectate din gospodăriile populației, inclusiv în cazul în care aceasta
+colectare vizează și astfel de deșeuri provenite de la alți producători,
+ținând seama de cele mai bune tehnici disponibile, care nu implică costuri
+excesive, cu respectarea cerințelor prevăzute în Tratatul de aderare a
+României la Uniunea Europeană. Rețeaua prevăzută este concepută astfel
+încât să permită Uniunii Europene să asigure prin mijloace proprii
+eliminarea deșeurilor, precum și valorificarea deșeurilor municipale mixte
+colectate din gospodăriile populației, inclusiv în cazul în care această
+colectare vizează și astfel de deșeuri provenite de la alți producători, și
+pentru a permite României să acționeze individual în acest scop, ținând
+cont de condițiile geografice sau de necesitatea de instalații specializate
+pentru anumite tipuri de deșeuri.
+Totodată, alin. 3 al acestui articol arată că rețeaua prevăzută trebuie
+să permită eliminarea și valorificarea deșeurilor municipale mixte colectate
+din gospodăriile populației, inclusiv în cazul în care această colectare
+vizează și astfel de deșeuri provenite de la alti producători în cele mai
+apropiate instalații adecvate, prin cele mai potrivite metode și tehnici,
+pentru a asigura un înalt nivel de protecție pentru mediu și pentru
+sănătatea publică.
+O altă reglementare a principiului proximității se regăsește în art.4,
+alin. 6 din HG nr. 1061/2008 privind transportul deșeurilor periculoase și
+nepericuloase care arată că la stabilirea destinatarului și a traseului de
+transport al deșeurilor periculoase, expeditorul va avea în vedere, pe cât
+posibil, respectarea principiului proximității, care presupune ca deșeurile să
+fie valorificate și eliminate cât mai aproape de locul de generare.
+Se menționează că principiul proximității este reglementat astfel atât
+prin legislația națională, cât și prin cea europeană cu titlu de recomandare,
+ceea ce înseamnă că el nu poate reprezenta o cerință obligatorie de
+calificare a ofertanților sau specificație tehnică întrucât ar deveni restrictiv
+și ar denatura concurența între operatorii economici participanți la
+procedură.
+Impunerea principiului proximității ca cerință de calificare sau ca
+specificație tehnică a cărei nerespectare determină respingerea ofertei va
+avea ca efect selectarea sau calificarea exclusiv a operatorilor economici
+din aria geografica în care este situat sediul autorității contractante, ceea
+ce echivalează în opinia contestatorului cu restrângerea substanțială și
+gravă a accesului la procedură, prevederile unei astfel de documentații
+fiind menite să favorizeze exclusiv anumiți operatori economici
+predeterminați.
+Restricționarea accesului la o procedura de atribuire în această
+modalitate, prin întocmirea unei documentații care favorizează anumiți
+operatori și exclude sau defavorizează alti operatori încalcă prevederile
+legale, inclusiv pe cele ale art. 50 din Legea 98/2016 care arată că
+autoritățile contractante nu vor concepe sau structura achizițiile ori
+elemente ale acestora cu scopul exceptării acestora de la aplicarea
+dispozițiilor prezentei legi ori al restrângerii artificiale a concurentei; se
+consideră că există o restrângere artificială a concurenței în cazul în care
+achiziția ori elemente ale acesteia sunt concepute sau structurate cu scopul
+6
+
+de a favoriza ori dezavantaja în mod nejustificat anumiți operatori
+economici.
+Același rationament este retinut de către Consiliul National de
+Soluționare a Contestatiilor în decizii de practică, sens în care petentul
+amintește Decizia nr. 1692/C2/1877 din data de 27.07.2022 definitiva prin
+Sentința civilă nr. 185/26.09.2022 a Curții de Apel Constanța. 
+În concluzie, autorul contestației apreciază că cerința din caietul de
+sarcini (pct.A2 - Cerințe tehnice impuse Propunerii tehnice, pagina 5)
+privind respectarea principiului proximității se impune a fi eliminată.
+3. Cerința de calificare privind capacitatea tehnică și profesională,
+respectiv capacitatea maxim autorizată a autovehiculelor.
+Contestatorul reține că în fișa de date a achiziției la pct.lll.l.3.a
+Capacitatea tehnică și profesională este inclusă Cerința nr. 5 astfel: a.
+Autovehiculele necesare efectuării transportului, licentiate, autorizate si
+avizate de către Institutul de Sanatate Publica. Autovehiculele care asigura
+transportul deșeurilor medicale din clasa anatomo-patologic vor fi dotate
+cu instalatie frigorifica, conf. OMS 2829/2022 privind aprobarea
+Metodologiei de evaluare a autovehiculelor utilizate pentru transportul
+deșeurilor din activitatea medicala; Dovada deținerii in dotare proprie a
+echipamentelor si autovehiculelor va consta in: carte de identitate a
+vehiculului sau Contractul de închiriere pentru vehicul - pentru minim doua
+autovehicule, unul cu masa maxim autorizata 2,5t - 3,5t si altul cu masa
+maxim autorizata mai mare de 3,5 tone; talonul mașinii; contract de
+vanzare-cumparare; licența de transport mărfuri periculoase pentru
+mijloacele auto (pentru un autovehicul a cărui masa maxima autorizata
+este mai mare de 3,5 tone si un autovehicul cu masa maxim autorizata
+intre 2,5 tone - 3,5 tone) (...).
+Cerința nr. 6 de la pct.lll.l.3.a din fișa de date a achiziției arată de
+asemenea Referat tehnic de evaluare privind autovehiculele de transport al
+deșeurilor periculoase rezultate din activitatea medicala, emis de Institutul
+National de Sanatate Publica - Centrul National de Monitorizare a Riscurilor
+din Mediul Comunitar, cerința conform OMS 613/2009, art. 1 si OMS
+980/2011, art. 25, HG 1061/2008 art. 24 - pentru doua autovehicule, unul
+cu masa maxim autorizata mai mare de 3,5 t si altul cu masa maxim
+autorizata 2,5 t-3,5t (...).
+Astfel, prin fișa de date a achiziției se impune cerința de calificare
+privind capacitatea tehnică și profesională a deținerii unui număr de două
+autovehicule necesare transportului deșeurilor medicale. Se stabileste în
+mod restrictiv capacitatea maxim autorizată a acestor autovehicule la doua
+tipuri, respectiv 2,5 tone - 3,5 tone și peste 3,5 tone. Contestatorul
+apreciază că cerința privind capacitatea maxim autorizată nu este
+proporțională și în legătură cu obiectul contractului și restrânge accesul
+operatorilor economici la procedură încălcând prevederile art. 50, dar și
+cele ale art. 172 din Legea 98/2016.
+Art. 172 alin. 3 din Legea nr. 98/2016 arată că autoritatea
+contractantă stabilește numai cerințe de participare care sunt necesare și
+adecvate pentru a se asigura că un candidat/ofertant are capacitatea
+juridică și financiară și competențele tehnice și profesionale pentru a
+executa contractul de achiziție publică/acordul-cadru care urmează să fie
+
+atribuit. Alin.5 al art. 172 arată că toate cerințele privind capacitatea
+solicitate de autoritatea contractantă trebuie să aibă legătură cu obiectul
+contractului de achiziție publică/ acordului-cadru și să fie proporționale prin
+raportare la obiectul acestuia.
+Se menționează că în documentul emis de către Agenția Naționala de
+Achiziții Publice denumit „Cele mai frecvente neconformitati identificate in
+cadrul documentațiilor de atribuire aferente contractelor de execuție de
+lucrări standard si de proiectare si execuție lucrări in activitatea de control
+ex ante, înscrise in avizele conform condiționate emise" se arată, în
+legătură cu cerința deținerii utilajelor de către ofertanti, următoarele:
+(a)Prin urmare dotarea tehnica a operatorului economic nu poate
+constitui un factor de evaluare utilizat in atribuirea acordului-cadru;
+Informații privind utilajele/echipamentele strict necesare executării celui
+mai mare contract subsecvent pot fi constituite sub forma unor cerințe
+minime de calificare (in baza art. 179, lit. j din Legea 98/2016) caz in care
+trebuie inclusa in Instrucțiunile pentru ofertanți; In prima situatie (cerința
+minima de calificare in Instrucțiuni către ofertanti), autoritatea
+contractanta va avea In vedere ca stabilirea cerinței privind echipamentele
+tehnice/ utilajele/lnstalatiile sa se faca in raport de "strictul
+necesarurmarindu-se limitarea solicitării de echipamente/utllaje/instalatii
+care nu au impact in realizarea obiectului contractului in cauza; cerința
+trebuie sustinuta si argumentata in strategia de contractare, in sensul in
+care AC va justifica in mod concludent necesitatea demonstrării accesului
+la dotările in cauza prin raportare la un normativ sau in corelație cu o
+activitate/lucrare care necesita utilizarea unui anumit echipament tehnic
+prin prisma tehnologiei specifice aplicabila in realizarea obiectului
+contractului sau dupa caz, a unor condiții impuse de amplasamentul
+lucrării. Se va completa strategia in acest sens;
+(b)Referitor la cerințe privind utilajele din documentația de
+atribuire - intrucat nu reiese cum au fost stabilite utilajele si echipamentele
+considerate necesare pentru realizarea lucrărilor, completati in Strategia
+de contractare informații suplimentare in acest sens, justificând concret
+necesitatea fiecărui utilaj/echipament raportat la cel mal mare contract
+subsecvent; prezentati Inclusiv justificare număr utilaje (2 buc. rulou
+compresor static autopropulsat; 4 buc. autobasculante dotate cu prelate).
+Stabilirea cerinței privind echipamentele tehnlce/utilaje/instalatii trebuie sa
+se faca in raport de "strictul necesar", respectiv prin luarea in considerare
+a dotărilor tehnice care au un impact semnificativ la realizarea lucrărilor si
+NU echipamente de tipul „placa vibratoare sau mai mecanic". In lipsa unei
+justificări pertinente in sensul celor de mai sus, se va reanaliza impunerea
+unor anumite utilaje, sollcitandu-se doar declarația conform prevederilor
+art. 179 lit. j) din Legea 98/2016 lasandu-se la latitudinea ofertanților
+stabilirea utilajelor necesare in vederea realizarii lucrărilor potrivit
+specificațiilor tehnice din caietul de sarcini.
+Se arată că în cazul documentației contestate, caietul de sarcini
+menționează cantitatea maxim estimată pentru deșeurile medicale clasa
+18.01 ca fiind de 60.000 kg lunar (pct. A-l. Cantitățile de deșeuri generate
+estimativ pentru o perioadă de 4 ani pagina 3), ceea ce înseamnă o medie
+zilnică maxim estimată de 2.000 kg, respectiv 2 tone astfel cum se
+8
+
+menționează și la pagina 4 din caietul de sarcini la paragraful Informații
+privind deseurile medicale Lot 1 generate de către Unitatea Contractanta.
+În condițiile în care media zilnică a deșeurilor generate este estimată
+la o cantiate maximă de 2 tone, cerința deținerii a două autovehicule, din
+care unul cu o capacitate de peste 3,5 tone, nu este în opinia
+contestatorului necesară și adecvată și nici proporțională prin raportare la
+obiectul contractului, depășind cu mult noțiunea de „strict necesar" astfel
+cum a fost stabilită aceasta prin îndrumările Agenției Naționale pentru
+Achiziții Publice în legătură cu necesarul de utilaje în procedurile de
+atribuire. Impunerea cerinței privind utilajele cu o capacitate peste 3,5
+tone nu se justifică în raport cu cantitatea maxim estimată pentru
+colectările zilnice (2 tone), iar utilizarea unor astfel de utilaje în executarea
+contractului va crea și costuri suplimentare nejustificate și chiar dificultăți
+în executare/manevrare/ manipulare. În plus, cerința privind capacitatea
+autovehiculelor limitată la cele două categorii stabilite prin fișa de date
+(între 2,5 tone - 3,5 tone și peste 3,5 tone) este excesivă în viziunea
+petentului, avantajând fără o justificare obiectivă exclusiv anumiți
+operatori care au în dosare astfel de utilaje.
+În concluzie, autorul contestației apreciază că mențiunile privind
+capacitatea maxim autorizată a autovehiculelor (între 2,5 tone și 3,5 tone
+și peste 3,5 tone) incluse în Cerința nr. 5 și Cerința nr. 6 de la pct.III.1.3.a
+Capacitatea tehnică și profesională se impun fi eliminate.
+Pentru considerentele evidențiate, contestatorul solicită admiterea
+prezentei contestații astfel cum a fost formulată.
+Prin adresa nr. 24707/24.05.2024, înregistrată la CNSC sub nr.
+32504/27.05.2024, autoritatea contractantă a transmis punct de vedere cu
+privire la contestația formulată de ..., invocând următoarele excepții:
+1.Excepția prematurității introducerii contestației
+2.Lipsa calității de persoană vătămată a societății contestatoare.
+1. Excepția prematurității introducerii contestației
+Având în vedere:
+>Publicarea de către autoritatea contractantă în SEAP a
+anunțului de participare cu nr. CN 1068492 privind organizarea procedurii
+de achiziție în vederea atribuirii contractului având ca obiect „Servicii de
+colectare, transport și tratare/eliminare finală, deșeuri medicale și
+nemedicale periculoase" cu termen limită de depunere 04.06.2024 orele
+15.00
+>Prevederile art. 160, alin. 1 din Legea nr. 98/2016 privind
+achizițiile publice actualizată, conform cărora:
+„(1) Orice operator economic interesat are dreptul de o solicita
+clarificâri sau informații suplimentare în legătura cu documentația de
+atribuire, cu respectarea termenului limită stabilit de autoritatea
+contractantă în anunțul de participare/simplificat/de concurs".
+>Precizările din cuprinsul Fișei de Date privind numărul de zile
+până la care operatorii pot solicita clarificări, respectiv „Număr zile pana la
+care se pot solicita clarificari inainte de data limita de depunere a
+ofertelor/candidaturilor -18"
+
+>Faptul că în termenul precizat mai sus, societatea contestatoare
+nu a depus niciun fel de clarificare cu privire la documentația de atribuire
+conform prevederilor legale invocate mai sus
+>Faptul că societatea contestatoare a încărcat în SEAP două
+solicitări de clarificare în data de 10.05,2024 în intervalul orar 15:00
+-15:30, adică ulterior introducerii contestației depusă la CN5C și transmisă
+Autorității în data de 10.05.2024 ora 10:34 pe email, conform document
+atașat,
+în opinia autorității contractante, Contestația formulată de către [OPERATOR ECONOMIC] este prematur introdusă, drept pentru care raportat la
+dispozițiile art. 26 alin. (1) și (6) din Legea nr. 101/2016 coroborat cu
+prevederile art. 160, alin. 1 din Legea nr. 98/2016 privind achizițiile
+publice actualizată, solicită CNSC să constate prematuritatea introducerii
+Contestației demonstrată atât prin motivele invocate mai sus, cât și prin
+reaua credință, vizibil demonstrată prin încercarea de a induce în eroare
+autoritățile prin transmiterea unei e-mail către autoritatea contractantă
+ulterior transmiterii contestației, (se atașează înscrisuri în acest sens).
+2. Lipsa calității de persoană vătămată a societății contestatoare
+În conformitate cu prevederile art. 3, alin. (1) lit. f) și alin. (3) din
+Legea nr. 101/2016, actualizată, legiuitorul definește persoana vătămată
+astfel:
+„persoană care se consideră vătămată - orice operator economic
+care îndeplinește cumulativ următoarele condiții:
+(1) (i) are sau a avut un interes în legătură cu o procedură de
+atribuire; și
+(ii) a suferit, suferă sau riscă să sufere un prejudiciu ca o consecință
+a unui act al autorității contractante, de natură să producă efecte juridice,
+ori ca urmare a nesoluționării în termenul legal a unei cereri privind o
+procedură de atribuire", respectiv
+(3) „se considera ca o persoana are sau a avut un interes in legătură
+cu o procedura de atribuire care nu a fost inca exclusa definitiv de la
+respectiva procedura...”.
+Autoritatea contractantă susține că ... nu a formulat nicio solicitare
+de clarificări în cadrul procedurii de atribuire contestată.
+De vreme ce contestatoarea nu a formulat nicio solicitare de
+clarificare cu privire la cerințele Autorității impuse prin documentația
+aferentă Anunțului de participare, care să tindă la schimbarea acestor
+condiții astfel încât, în măsura admiterii acelei contestații contestatoare să
+îndeplinească condițiile necesare înaintării unei oferte, autoritatea
+contractantă apreciază că formularea acestei contestații se circumscrie
+unui abuz de drept procesual, prin inițierea demersului contestatoarea
+netinzând la a obține un folos practic concret.
+Așadar, întrucât între scopul instituit de dispozițiile Legii 101/2016
+care dau posibilitatea persoanelor interesate să formuleze contestații în
+legătură cu procedura de atribuire și finalitatea demersului inițiat de
+contestatoare nu există o corelare, este evidentă exercitarea acestei căi
+de atac în scop pur șicanatoriu, neexistând un folos practic de care
+contestatorul să beneficieze.
+10
+
+Așadar, condițiile ca ... să se considere „persoana vatamata" nu sunt
+întrunite în opinia Autorității, motiv pentru care nu înțelege care este
+interesul societății contestatoare în prezenta procedură de atribuire,
+respectiv prejudiciul pe care l-ar fi suferit sau ar urma sa-l sufere aceasta
+societate ținând cont și de faptul că solicitările din cuprinsul contestației
+puteau să constituie obiectul unor clarificări la procedură.
+Cu privire la prejudiciul suferit, pe care riscă să-l sufere ca o
+consecință a actelor autorității contractante în prezenta procedură de
+atribuire ... ar fi trebuit să dovedească faptul că îndeplinește calitatea de
+persoana vătămată, astfel cum a fost ea definită de legiuitor.
+Astfel, societatea contestatoare nu a dovedit că are calitatea de
+persoană vătămată, aceasta deoarece nu au fost întrunite condițiile
+cumulative privind interesul în procedură a societății și dovada existenței
+prejudiciului suferit de societate ca urmare a unui act al autorității
+contractante de natură să producă efecte juridice, ori ca urmare a
+nesoluționării în termenul legal a unei cereri privind o procedura de
+atribuire. 
+Simplele alegații cu privire la nelegalitatea documentației emise de
+autoritate, precum și faptul că societatea nu ar putea îndeplinii condițiile
+de calificare în procedură, nu dă dreptul acesteia să se considere
+vătămată.
+De aici rezultă, din punctul de vedere al Autorității, în mod vădit,
+reaua credință a societății contestatoare în ceea ce privește derularea
+procesului de achiziție și automat se naște întrebarea „care este scopul
+depunerii contestatiei?".
+ Față de cele invocate, autoritatea contractantă solicită CNSC să
+respingă contestația, aceasta fiind formulată de o persoană care nu are
+calitate de persoană vătămată în conformitate cu prevederile Legii nr.
+101/2016.
+I. În cazul în care Consiliul va respinge excepțiile invocate mai sus,
+autoritatea contractantă solicită CNSC să aibă în vedere următoarele
+motive:
+La data de 07.05.2024, autoritatea contractantă a publicat în SEAP
+anunțul de participare nr. ..., împreună cu documentația de atribuire, prin
+care a fost inițiată procedura de achiziție publică prin licitație deschisă
+pentru atribuirea contractului de furnizare "Servicii de colectare, transport
+si tratare/eliminare finala, deșeuri medicale si nemedicale periculoase".
+Procedura a cuprins două loturi.
+În conformitate cu prevederile fișei de date, criteriul de atribuire
+stabilit pentru ambele loturi a fost cel mai bun raport calitate-preț. În
+acest sens, prețul ofertei a avut o pondere de 40%, în timp ce
+componenta tehnică constând în distanța față de locul de eliminare a
+deșeurilor, distanța calculată de la locul de colectare (sediul autorității
+contactante) și locul de eliminare a deșeurilor având o pondere de 60%.
+Altgoritmul de calcul aferent acestui factor de evaluare a fost următorul:
+„pentru cea mai mica distanta dintre locui de colectare (sediul autoritatii
+contractante) si locul de eliminare a deșeurilor se acorda punctajul maxim
+alocat Pentru alta distanta decât cea minima, punctajul se acorda astfel:
+Pd = (Dmin/Dn) x punctaj maxim alocat Unde: Pd - Punctaj distanta
+
+cuprinsa in oferta admisibila punctata; Dmin - Distanta cea mai mica
+dintre ofertele admisibile; Dn - Distanta propusa in oferta admisibila
+punctata."
+De asemenea, potrivit fișei de date, una dintre cerințele de calificare
+stabilite în sarcina viitorilor participanți la procedură a fost deținerea de
+utilaje, instalații și echipamente, mai precis ofertanții având obligația de a
+prezenta „dovada deținerii în dotare proprie a echipamentelor și
+autovehiculelor va consta în: carte de identitate a vehiculului sau
+Contractul de închiriere pentru vehicul - pentru minim doua autovehicule ,
+unul cu masa maxim autorizata 2,5t-3,5t si altul cu masa maxim
+autorizata mai mare de 3,5 tone; talonul mașinii; contract de vânzare-
+cumparare; licența de transport mărfuri periculoase pentru mijloacele
+auto (pentru un autovehicul a cărui masa maximă autorizata este mai
+mare de 3,5 tone și un autovehicul cu masa maxim autorizata intre 2,5
+tone -3,5 tone); copie de pe certificatul de inmatriculare al
+autovehicolului, inclusiv revizia tehnico (pentru cele 2 autovehicule), etc.
+în cazul în care echipamentele folosite se afla în proprietatea unor terți se
+va prezenta contractul, care conferă dreptul
+ofertantului/subcontractanților sâ folosească echipamentul respectiv,
+contract care va avea o durata de valabilitate cu durata acordului cadru ce
+reprezintă obiectul achiziției, acordul proprietarilor pentru a folosi
+echipamentele respective în actuala procedura, precum și documentele de
+autorizare a echipamentelor respective”.
+Atât factorul de evaluare, cât și cerința menționată au făcut obiectul
+prezentei contestații.
+II. Autoritatea contractantă susține că criticile contestatoarei
+referitoare la factorul de evaluare nu sunt întemeiate.
+Cu titlu prealabil, Autoritatea face observația că prin contestația
+depusă, se contestă atât factorul de evaluare în sine, pretinzându-se că
+acesta nu a prezentat un avantaj real autorității contractante, respectiv că
+ar prezenta un caracter restrictiv/cât și ponderea acestuia, arătându-se că
+ponderea acestuia ar fi excesivă.
+Se precizează că argumentele care justifică rațiunea impunerii
+acestui factor de evaluare justifică și ponderea alocată acestuia, motiv
+pentru care cele două aspecte nu vor fi tratate de o manieră distinctă.
+Astfel, sub aspectul motivelor pentru care Autoritatea a procedat la
+impunerea acestui factor de evaluare, se impune detalierea cadrului legal
+cu privire la obligațiile autorităților contractante de colectare și dotare a
+deșeurilor. Cadrul legal justifică și explicitează motivele pentru care s-a
+procedat a instituirea factorului de evaluare - de altfel, chiar
+contestatoarea recunoaște în cadrul contestației că legea promovează
+principiul proximității în eliminarea deșeurilor.
+Cu privire la modul de stabilire a cerințelor de calificare și a factorilor
+de evaluare din perspectiva caracterului proporțional al acestora,
+jurisprudența reține următoarele:
+-„Curtea apreciază ca cerința deținerii stației de încărcare oxigen
+medicinal în butelii în București și/sau județul [localitate]
+nediscriminării, tratamentului egal, recunoașterii reciproce, transparenței,
+12
+
+proporționalității și asumării răspunderii. Ea nu are ca efect restrângerea
+artificială a concurenței”.
+-„necesitatea sau oportunitatea unei anumite achiziții este stabilită
+de fiecare autoritate contractantă, în funcție de necesitățile obiective și
+particularitățile comunicate de compartimentele din cadrul său.”
+Prin urmare, după cum rezultă din aspectele indicate mai sus,
+jurisprudența acceptă faptul că în situații particulare în funcție de obiectul
+și specificul contractului de achiziție, autoritatea contractantă poate
+impune operatorului economic să dețină un punct de lucru sau alte
+capacități pe raza unei anumite localități, în măsura în care aceste aspecte
+prezintă relevanță din perspectiva obiectului contractului.
+Or, raportat la obiectul contractului care face obiectul procedurii de
+atribuire, proximitatea dintre locul de colectare și cel de eliminare are o
+importanță majoră din perspectiva reducerii riscurilor în executarea
+contractului.
+Astfel cum a arătat chiar și contestatoarea, legea consacră principiul
+proximității în materia legislației de deșeuri. De asemenea, în conformitate
+cu prevederile art. 4 alin. (6) din HG nr. 1061/2008 privind transportul
+deșeurilor periculoase și nepericuloase pe teritoriul României „la stabilirea
+destinatarului și a traseului de transport al deșeurilor periculoase,
+expeditorul va avea în vedere, pe cât posibil, respectarea principiului
+proximității, care presupune ca deșeurile să fie valorificate și eliminate cât
+mai aproape de locul de generare”. Or, impunerea acestui factor de
+evaluare are drept scop tocmai asigurarea faptului că aceste exigențe
+legale sunt respectate.
+În același sens, prevederile art. 12 din OUG nr. 92/2021 privind
+regimul deșeurilor instituie o răspundere extinsă în sarcina autorității
+contractante în ceea ce privește regimul de eliminare al deșeurilor. Or,
+tocmai în considerarea faptului că răspunderea Autorității față de deșeurile
+produse nu este limitată până la momentul la care acestea sunt colectate,
+ci este extinsă până la momentul eliminării acestora, impunerea ca factor
+de evaluare a distanței dintre locul de colectare al deșeurilor și cel de
+colectare al acestora este justificat.
+Mai mult, dacă jurisprudența admite faptul că autoritatea
+contractantă este în drept inclusiv cerințe de calificare ca impun
+operatorului economic să dețină fie puncte de lucru, fie capacități în
+apropierea sediului autorității contractante, cu atât mai mult ar trebui
+acceptată posibilitatea autorității contractante de a puncta suplimentar
+ofertanții care dețin astfel de capacități, în condițiile în care acestea sunt
+relevante în vederea executării contractului.
+Prin urmare, având în vedere toate aspectele indicate mai sus,
+autoritatea contractantă apreciază criticile contestatoarei cu privire la
+modul de stabilire al factorului de evaluare ca fiind neîntemeiate.
+III. Autoritatea contractantă susține că criticile contestatoarei
+referitoare la deținerea celor două autovehicule nu sunt întemeiate.
+Cu privire la aceste aspecte, contestatoarea afirmă în esență faptul
+că cerința ar fi una restrictivă. Cu toate acestea, cu excepția redării unor
+unor pasaje din listele de neconformități publicate de ANAP,
+contestatoarea nu prezintă argumente concrete pentru care această
+
+măsură nu ar fi proporțională prin raportare la nevoile autorității
+contractante și prin raportare la obiectul per ansamblu al contractului. 
+În ceea ce privește caracterul necesar și adecvat al unei anumite
+cerințe de calificare, în interpretarea prevederilor art. 50 și a art. 172 din
+Legea nr. 98/2016 invocate de către contestatoare, jurisprudența reține
+următoarele:
+„Curtea subliniază că autoritatea contractantă are deplină libertate în
+ceea ce privește stabilirea nevoilor pentru a căror realizare a fost
+declanșată procedura de achiziție, limitările intervenind doar în ceea ce
+privește mijloacele cu ajutorul cărora își va satisface aceste necesități,
+aspect care; în speță se traduce prin interzicerea impunerii unor condiții
+restrictive. Așadar, autoritatea contractantă este liberă să determine
+caracteristicile tehnice ce răspund cel mai bine necesităților sale, cât timp
+condițiile, astfel impuse, răspund unor nevoi reale și nu au ca efect
+crearea unor condiții restrictive".
+„De asemenea, este restrictivă și cerința/criteriul impus(ă) de
+autoritatea contractantă referitoare la auditarea unor proiecte cu finanțare
+externă nerambursabilă, pentru că orice operator economic care este
+autorizat legal în domeniul specific obiectului contractului trebuie să aibă
+dreptul de a participa la o problemă de achiziție, în condiții de concurență
+liberă. Cerința impusă conduce în mod rezonabil la restricționarea
+participanților la procedura achiziției, fără nicio justificare clară/legală a
+autorității contractante în nota justificativă care să vizeze motivele pentru
+care sunt înlăturați participanții care au experiență în domeniu, în
+derularea de achiziții publice fără finanțare externă nerambursabilă".
+ „pentru a da eficiență principiului proporționalității, cerințele minime
+de calificare și selecție solicitate prin documentația de atribuire, precum și
+care probează îndeplinirea unor astfel de cerințe trebuie să se limiteze
+numai la cele strict necesare pentru a se asigura îndeplinirea în condiții
+optime a contractului respectiv, luând în considerare exigențele specifice
+impuse de valoarea, natura și complexitatea acestuia”. 
+Or, astfel cu s-a argumentat și în cadrul strategiei de contractare,
+impunerea acestei cerințe autorităților contractante este justificată din mai
+multe considerente. Conform legislației în vigoare, autovehiculele care
+transporta mărfuri periculoase și depășesc 3,5 tone capacitate autorizata,
+vor deține și licență transport mărfuri periculoase, având în vedere riscul
+pentru mediu în caz de accident.
+Având în vedere programul Spațiului de Stocare Temporară a
+Deșeurilor Medicale și programul de transport menționat în Caietul de
+Sarcini - de Luni - Duminica de la 07:00 - 12:00, asigurarea ca un singur
+transport poate prelua întreaga cantitate de deșeuri generate zilnic, se
+impune a fi prevăzută în cerințe prin asigurarea și prezentarea unui
+autovehicul cu masa autorizata mai mare de 3,5 tone. Simpla menționare
+a intervalului de livrare și asumarea de către ofertant a acestei obligații nu
+este suficientă în opinia Autorității pentru a asigura îndeplinirea nevoilor
+acesteia de către ofertant, fiind neceară și impunerea cerinței ca ofertantul
+să facă dovada posibilității executării contractului. 
+Mai mult, în stabilirea acestei cerințe de calificare s-a avut în vedere
+și cantitățile de deșeuri estimate necesare a fi colectate, ținându-se cont
+14
+
+de cantitățile anterioare ale autorităților contractante, acesta fiind motivul
+pentru care autoritatea contractantă a impus existența acestor dotări ale
+operatorilor economici.
+Prin urmare, raportat la aceste aspecte, autoritatea contractantă
+apreciază faptul că cerința nu ar fi una restrictivă, ci una necesară pentru
+a se dovedi capacitatea operatorului economic de a executa contractul ce
+urmează să fie atribuit.
+Cu adresa înregistrată la Consiliu sub nr. 33222/28.05.2024, ...
+depune Note scrise prin care solicită Consiliului să respingă excepțiile
+invocate de autoritatea contractantă în punctul de vedere ca fiind
+nefondate și să admită contestația formulată, având în vedere
+următoarele:
+1. Cu privire la excepția prematurității contestației aceasta urmează
+a fi respinsă întrucât: (i) Contestatoarea a formulat contestație împotriva
+documentației de atribuire în conformitate cu art. 8 si următoarele din
+Legea 101/2016, act normativ conform caruia depunerea solicitării de
+clarificări nu este o condiție prealabila si obligatorie pentru exercitarea
+dreptului de contestare a documentației de atribuire sau a altor acte ale
+autorității contractante. Totodată, contestatorul subliniază că termenul
+scurt de formulare a contestației în procedura reglementată prin Legea
+101/2016 obligă contestatoarea de cele mai multe ori să formuleze
+contestație anterior emiterii de către autoritatea contractantă a
+răspunsului la solicitarea de clarificări, în caz contrar contestatoarea
+riscând să formuleze contestația cu depășirea termenelor impuse prin
+Legea 101/2016 fapt care se sancționează cu tardivitatea acestui demers.
+(ii) Conform art. 8, alin. 2 din Legea 101/2016 în cazul contestării
+documentației de atribuire, termenul de contestare curge de la data
+publicării documentației în SEAP, iar în cazul de față contestația a fost
+formulată după publicarea Anunțul de participare ... din data de
+07.05.2024 și în interiorul termenului legal.
+Având în vedere aceste aspecte, contestatorul apreciază excepția
+prematurității ca fiind nefondată.
+2. Excepția lipsei calității de persoană vătămată (excepția lipsei de
+interes) urmează a fi respinsă ca nefondată întrucât:
+(i)Astfel cum a menționat contestatorul mai sus, solicitarea de
+clarificări nu reprezintă o cerința obligatorie si prealabilă pentru
+formularea contestației în temeiul Legii 101/2016. Cu toate acestea,
+menționează petentul că solicitarea de clarificări a fost postată în SEAP la
+data formulării contestației 10.05.2024.
+(ii)Conform prevederilor art. 3, lit. f) din Legea 101/2016
+persoana care se consideră vătămată este orice operator economic care
+îndeplinește cumulativ următoarele condiții: (i) are sau a avut un interes
+in legătură cu o procedura de atribuire și (ii) a suferit, suferă sau risca sa
+sufere un prejudiciu ca o consecința a unui act al autorității contractante,
+de natura să producă efecte juridice, ori ca urmare a nesoluționării în
+termenul legal a unei cereri privind o procedură de atribuire. Conform alin.
+3 al art. 3 se consideră că o persoană are sau a avut un interes în legătură
+
+cu o procedură de atribuire dacă nu a fost încă exclusă definitiv de la
+respectiva procedură.
+Se menționează că în cazul de față, contestația este formulată
+împotriva documentației de atribuire care cuprinde cerințe nelegale și
+restrictive, fiind criticate următoarele: modul de stabilire a factorilor de
+evaluare și ponderea fiecărui factor, impunerea unor cerințe restrictive
+privind capacitatea autovehiculelor nejustificate în raport cu obiectul
+contractului, precum și impunerea nelegală a principiului proximității.
+Interesul contestatarei în formularea contestației rezultă din faptul că
+menținerea acestei documentații va conduce la favorizarea în mare
+măsură a unor operatori concurenți care sunt localizați la o distanță mai
+mică de sediul autorității contractante. Ponderea factorului de evaluare
+Capacitatea tehnică fiind foarte mare (60% doar pentru distanța dintre
+locul de generare și cel de eliminare) există posibilitatea ca un operator
+economic situat la o distanță mai mare să obțină un punctaj mult mai mic,
+fără ca pentru această depunctare să existe o justificare obiectivă,
+întemeiată/justificată pe capacitatea tehnică și abilitatea operatorului de a
+presta serviciul. În plus, impunerea unor cerințe restrictive (anumite
+categorii de autovehicule) și nelegale (principiul proximității) crează un
+dezavantaj evident contestatoarei în procedura de atribuire cu încălcarea
+principiului tratamentului egal al operatorilor economici.
+Interesul contestatoarei este astfel stabilirea unor cerințe și criterii
+obiective și asigurarea tratamentului egal al operatorilor economici astfel
+încât contestatoarea să nu fie dezavantajată pentru simplul considerent al
+distanței față de locul de generare a deșeurilor medicale, interes care este
+legitim (pentru că este conform legii), născut și actual (pentru că suntem
+într-o procedură de atribuire în derulare), determinat și personal
+(aparținând contestatoarei și vizând șansele sale de câștig și corecta
+evaluare a acestor șanse).
+(iii)Din aceleași considerente, contestatoarea riscă să sufere un
+prejudiciu ca o consecință a menținerii cerințelor din documentația de
+atribuire prin simplu fapt al defavorizării sale și al obținerii unui punctaj
+mai mic pentru că se află la o distanța mai mare de autoritatea
+contractantă decât alți operatori concurenți.
+(iv)Totodată, exercitarea dreptului de contestare a documentației
+de atribuire este deschisă oricărui operator economic care îndeplinește
+cerințele de mai sus (are un interes și riscă un prejudiciu), iar exercitarea
+acestui drept nu poate fi calificată ca un abuz de drept procesual pentru
+simplul fapt că nu este convenabilă autorității contractante. Ca orice altă
+entitate, autoritatea contractantă are obligația de a se supune rigorilor
+legii, iar documentația sa este susceptibilă de a fi verificată de către
+autoritatea competentă.
+Pentru aceste argumente, contestatorul apreciază că excepția lipsei
+calității de persoană vătămată (excepția lipsei de interes) este nefondată.
+3. Pe fond, contestatorul solicită respingerea argumentelor autorității
+contractante întrucât:
+(i) Cu privire la factorul de evaluare Capacitatea tehnică distanța
+dintre locul de generare și cel de eliminare (implicit cu privire la principiul
+16
+
+proximității) contestatorul menține toate argumentele și prevederile legale
+invocate în contestația formulată.
+Având în vedere că:
+(a)distanța mai mică între locația operatorului și sediul autorității
+contractante nu conferă avantajul unor costuri mai mici, acestea fiind
+reflectate deja în componenta financiară a ofertei,
+(b)timpul de reacție nu determină un avantaj întrucât există grafic
+de prestare care trebuie asumat obligatoriu atât de către operatorii din
+imediata apropiere a autorității, cât și de restul operatorilor,
+(c)timpul rapid de eliminare nu reprezintă avantaj întrucât toți
+operatorii, indiferent de localizare, trebuie să respecte termenul de
+eliminare stabilit prin art. 34 din Ordinul nr. 1226/2012,
+rezultă că autoritatea contractantă nu a demonstrat prin
+argumentația din Punctul de vedere care este avantajul real și superior
+cerințelor de calificare pe care îl conferă acest factor de evaluare. În lipsa
+unei astfel de justificări, contestatorul apreciază că avem un factor formal,
+care nu conferă niciun avantaj și care încalcă în acest mod prevederile
+aplicabile.
+Tot sub acest aspect, contestatorul solicită Consiliului să pună în
+vedere autorității contractante să depună documentul Strategia de
+contractare pentru a demonstra modul în care a fost fundamentată decizia
+de stabilire a acestui factor de evaluare (solicitarea de administrare a
+acestei probe este întemeiată pe dispozițiile art. 20, alin. 1 din Legea
+101/2016). 
+(ii) Cu privire la cerința vizând deținerea a două autovehicule, unul
+cu masa maxim autorizată între 2,5 tone și 3,5 tone și unul peste 3,5
+tone, contestartorul își menține toate argumentele și prevederile legale
+invocate prin contestație.
+Solicită petentul să se constate că această cerință nu este necesară
+și adecvată și nici proporțională prin raportare la obiectul contractului,
+depășind cu mult noțiunea de „strict necesar" astfel cum a fost stabilită
+aceasta prin îndrumările Agenției Naționale pentru Achiziții Publice in
+legătură cu necesarul de utilaje in procedurile de atribuire.
+Totodată, având în vedere că documentația de atribuire stabilește o
+cantitate estimată de maxim 2 tone pe zi (Caiet sarcini pct. A-l. Cantitățile
+de deșeuri generate estimativ pentru o perioada de 4 ani pagina 3 si
+pagina 4 Informații privind deseurile medicale Lot 1 generate de către
+Unitatea Contractanta) autoritatea contractantă nu a demonstrat prin
+argumentele expuse în Punctul de vedere de ce sunt necesare două
+autovehicule, din care unul cu capacitate între 2,5 tone și 3,5 tone și unul
+cu capacitate de peste 3,5 tone pentru gestionarea unei cantități de
+deșeuri de maxim 2 tone pe zi, în condițiile în care această cantitate poate
+fi gestionată printr-un singur autovehicul cu capacitatea între 2,5 tone și
+3,5 tone.
+Contestatorul susține că este eronată susținerea conform căreia în
+cazul autovehiculului cu capacitate peste 3,5 tone operatorul trebuie să
+dețină licență de transport, o astfel de licență fiind eliberată operatorului
+care transportă mărfuri periculoase indiferent de capacitatea
+autovehiculelor. Concret, licența se eliberează operatorului, iar pentru
+
+autovehicul se eliberează documentul numit referat tehnic de evaluare
+(conform Ordinului nr. 980/2011 și Ordinului nr. 2829/2022). În plus,
+utilizarea unor mijloace de transport supradimensionate (cu o capacitate
+mult mai mare decât cantitatea de deșeuri colectate) nu se justifică nici
+din punct de vedere operațional putând determina blocaje ale căilor de
+acces și nici din punct de vedere economic creând costuri mai ridicate.
+Având în vedere argumentele de mai sus, contestatorul solicită
+respingerea excepțiilor invocate și admiterea contestației formulate.
+Prin adresa înregistrată la CNSC cu nr. 29972/15.05.2024, ...
+depune, în original, recipisa de consemnare a cauțiunii nr. 210227696/1
+din 15.05.2024, emisă de [OPERATOR ECONOMIC], în valoare
+de 9.620,00 RON, potrivit dispozițiilor art. 61
+1
+ din Legea nr. 101/2016.
+Analizând susținerile părților și documentele depuse la
+dosarul cauzei, Consiliul constată următoarele:
+..., în calitate de autoritate contractantă, a organizat procedura de
+licitație deschisă, online, pentru încheierea acordului-cadru având ca obiect
+„Servicii de colectare, transport și tratare/eliminare finală, deșeuri
+medicale și nemedicale periculoase” – 2 loturi, cod CPV 90524400-0. În
+acest sens a elaborat documentația de atribuire aferentă și a publicat în
+SEAP anunțul de participare nr. .../07.05.2024, criteriul de atribuire stabilit
+fiind „cel mai bun raport calitate-cost”; factorii de evaluare stabiliți de
+autoritatea contractantă sunt prețul ofertei 40% și componenta tehnică,
+60%. 
+Potrivit informațiilor din SEAP, procedura este suspendată. 
+Împotriva documentației de atribuire, ... a formulat contestația care
+face obiectul dosarului nr. 1616/2024.
+Referitor la excepția prematurității contestației depuse de ...,
+invocată de către autoritatea contractantă, Consiliul urmează să o respingă
+ca neîntemeiată, având în vedere că operatorul economic interesat să
+participe la procedura de atribuire a formulat contestație împotriva
+prevederilor documentației de atribuire publicată în SICAP cu nr. Anunț de
+participare .../07.05.2024, în termenul legal prevăzut de dispozițiile art. 8
+din Legea nr. 101/2016, dispoziții care nu impun în sarcina operatorului
+economic obligativitatea solicitării de clarificări anterior exercitării dreptului
+de contestare a unor acte ale autorității contractante.
+În ce privește excepția lipsei calității de persoană vătămată a ... în
+formularea contestației, invocată de autoritatea contractantă, Consiliul
+urmează să o respingă ca neîntemeiată, pentru următoarele considerente:
+În soluționare acestor excepții, Consiliul constată că în speță sunt
+incidente dispozițiile art. 2 și art. 3 din Legea nr. 101/2016, care stipulează
+următoarele:
+- Art. 2 alin. (1) ”Orice persoană care se consideră vătămată într-un
+drept al său ori într-un interes legitim printr-un act al unei autorități
+contractante sau prin nesoluționarea în termenul legal a unei cereri poate
+solicita anularea actului, obligarea autorității contractante la emiterea unui
+act sau la adoptarea de măsuri de remediere, recunoașterea dreptului
+18
+
+pretins sau a interesului legitim, pe cale administrativ-jurisdicțională sau
+judiciară, potrivit prevederilor prezentei legi”;
+- Art. 3 alin. (1) lit. f) ”persoană care se consideră vătămată - orice
+operator economic care îndeplinește cumulativ următoarele condiții:
+(i) are sau a avut un interes în legătură cu o procedură de atribuire;
+și
+(ii) a suferit, suferă sau riscă să sufere un prejudiciu ca o consecință
+a unui act al autorității contractante, de natură să producă efecte juridice,
+ori ca urmare a nesoluționării în termenul legal a unei cereri privind o
+procedură de atribuire”;
+- Art. 3 alin. (3) ”În sensul alin. (1) lit. f) pct. (i) se consideră că o
+persoană are sau a avut un interes în legătură cu o procedură de atribuire
+dacă nu a fost încă exclusă definitiv de la respectiva procedură. O
+excludere este definitivă în cazul în care a fost notificată
+candidatului/ofertantului interesat și fie a fost considerată legală de către
+Consiliu/instanță, fie nu mai poate face obiectul unei căi de atac”. 
+Prin urmare, legiuitorul definește foarte clar ce înseamnă „persoană
+vătămată" și ”interes”, respectiv, în speța de față, operatorul economic
+care dorește să participe la procedura de atribuire în dezbatere, a constatat
+că unele cerințe ale documentației de atribuire sunt nelegale și restrictive,
+astfel că a formulat contestație împotriva acestora, sens în care rezultă că
+are interes în legătură cu respectiva procedură, având calitate de persoană
+vătămată.
+Se reține că în cuprinsul contestației, ... contestă factorul de evaluare
+tehnic și următoarele cerințe: 
+ 1.Factorul de evaluare tehnic - Componenta tehnică – „se va puncta
+distanța distanța față de locul de eliminare a deșeurilor, distanța calculată
+de la locul de colectare (sediul autorității contractante) și locul de eliminare
+a deșeurilor”, solicitând eliminarea acestuia, în principal, iar în subsidiar,
+diminuarea ponderii acestuia;
+ 2.Eliminarea din caietul de sarcini a cerinței privind obligația
+respectării principiului proximității la etapele de transport și eliminare a
+deșeurilor de la pct.A2 - Cerințe tehnice impuse prin propunerea tehnică, 
+ 3.Modificarea Cerinței nr. 5 și a Cerinței nr. 6 de la pct.lll.l.3.a
+Capacitatea tehnică și profesională prin eliminarea din aceste cerințe a
+mențiunilor privind capacitatea maxim autorizată a autovehiculelor pentru
+transportul deșeurilor, respectiv 2,5 - 3,5 tone și peste 3,5 tone.
+ Din verificarea documentelor aflate la dosar se rețin în soluționare
+următoarele aspecte relevante: 
+1.Referitor la factorul de evaluare tehnic, se reține că potrivit
+documentației de atribuire, criteriul de atribuire stabilit a fost cel mai bun
+raport calitate-preț. În acest sens, prețul ofertei a avut o pondere de 40%,
+în timp ce componenta tehnică constând în distanța față de locul de
+eliminare a deșeurilor, distanța calculată de la locul de colectare (sediul
+autorității contactante) și locul de eliminare a deșeurilor având o pondere
+de 60%. Altgoritmul de calcul aferent acestui factor de evaluare a fost
+următorul: „pentru cea mai mica distanta dintre locul de colectare (sediul
+autoritatii contractante) si locul de eliminare a deșeurilor se acorda
+punctajul maxim alocat Pentru alta distanta decât cea minima, punctajul
+
+se acorda astfel: Pd = (Dmin/Dn) x punctaj maxim alocat Unde: Pd -
+Punctaj distanta cuprinsa in oferta admisibila punctata; Dmin - Distanta
+cea mai mica dintre ofertele admisibile; Dn - Distanta propusa in oferta
+admisibila punctata."
+ Conform art. 187 alin. (1) din Legea nr. 98/2016, „Fără a aduce
+atingere dispozițiilor legale sau administrative privind prețul anumitor
+produse ori remunerarea anumitor servicii, autoritatea contractantă
+atribuie contractul de achiziție publică/acordul-cadru ofertantului care a
+depus oferta cea mai avantajoasă din punct de vedere economic. 
+ (2) În sensul dispozițiilor alin. (1), autoritatea contractantă stabilește
+oferta cea mai avantajoasă din punct de vedere economic pe baza
+criteriului de atribuire și a factorilor de evaluare prevăzuți în documentele
+achiziției. 
+ (3) Pentru determinarea ofertei celei mai avantajoase din punct de
+vedere economic în conformitate cu dispozițiile alin. (2), autoritatea
+contractantă are dreptul de a aplica unul dintre următoarele criterii de
+atribuire: 
+ b) cel mai bun raport calitate-cost”. 
+(4) În sensul alin. (3) lit. a) și b), cel mai bun raport calitate
+preț/calitate-cost se determină pe baza unor factori de evaluare care
+includ aspecte calitative, de mediu și/sau sociale în legătură cu obiectul
+contractului de achiziție publică/acordului-cadru”.
+Cadrul legal justifică și explicitează motivele pentru care s-a procedat
+la instituirea factorului de evaluare menționat. 
+Necesitatea sau oportunitatea unei anumite achiziții este stabilită de
+fiecare autoritate contractantă, în funcție de necesitățile obiective și
+particularitățile comunicate de compartimentele din cadrul său, explicații
+privind factorul de evaluare fiind regăsite în strategia de contractare nr.
+19643/22.04.2024.
+Astfel, în situații particulare în funcție de obiectul și specificul
+contractului de achiziție, autoritatea contractantă poate impune
+operatorului economic să dețină un punct de lucru sau alte capacități pe
+raza unei anumite localități, în măsura în care aceste aspecte prezintă
+relevanță din perspectiva obiectului contractului/acordului cadru. 
+Raportat la obiectul acordului cadru care face obiectul procedurii de
+atribuire, proximitatea dintre locul de colectare și cel de eliminare are o
+importanță majoră din perspectiva reducerii riscurilor în executarea
+contractului.
+În conformitate cu prevederile art. 4 alin. (6) din HG nr. 1061/2008
+privind transportul deșeurilor periculoase și nepericuloase pe teritoriul
+României „la stabilirea destinatarului și a traseului de transport al
+deșeurilor periculoase, expeditorul va avea în vedere, pe cât posibil,
+respectarea principiului proximității, care presupune ca deșeurile să fie
+valorificate și eliminate cât mai aproape de locul de generare”. Or,
+impunerea acestui factor de evaluare are drept scop tocmai asigurarea
+faptului că exigențele legale privind deșeurile sunt respectate, având ca
+scop tocmai eliminarea cât mai rapidă a acestora. 
+În același sens, prevederile art. 12 din OUG nr. 92/2021 privind
+regimul deșeurilor instituie o răspundere extinsă în sarcina autorității
+20
+
+contractante în ceea ce privește regimul de eliminare al deșeurilor. Or,
+tocmai în considerarea faptului că răspunderea autorității față de deșeurile
+produse nu este limitată până la momentul la care acestea sunt colectate,
+ci este extinsă până la momentul eliminării acestora, impunerea ca factor
+de evaluare a distanței dintre locul de colectare al deșeurilor și cel de
+colectare al acestora este justificat și în acord cu obiectul procedurii. 
+De regulă, în ceea ce privește procedurile de eliminare autoritatea
+contractantă este în drept inclusiv cerințe de calificare ca impun
+operatorului economic să dețină fie puncte de lucru, fie capacități în
+apropierea sediului autorității contractante, cu atât mai mult ar trebui
+acceptată posibilitatea autorității contractante de a puncta suplimentar
+ofertanții care dețin astfel de capacități, în condițiile în care acestea sunt
+relevante în vederea executării acordului cadru. 
+Subsecvent, Consiliul apreciază că nu ar avea cum să dispună
+diminuarea factorului de evaluare tehnic, câtă vreme contestatorul face
+considerații generale și nu indică o altă proporție în acest sens. 
+Prin urmare, Consiliul apreciază că sunt neîntemeiate criticile
+contestatorului cu privire la modul de stabilire al factorului de evaluare. 
+2. Cât privește solicitarea contestatorului vizând eliminarea din
+caietul de sarcini a cerinței privind obligația respectării principiului
+proximității la etapele de transport și eliminare a deșeurilor de la pct.A2 -
+Cerințe tehnice impuse Propunerii tehnice, Consiliul o apreciază ca fiind
+neîntemeiată. 
+Însuși contestatorul recunoaște în cadrul contestației că legea
+promovează principiul proximității în eliminarea deșeurilor.
+Așa cum s-a arătat și la punctul anterior, raportat la obiectul
+contractului care face obiectul procedurii de atribuire, proximitatea dintre
+locul de colectare și cel de eliminare are o importanță majoră din
+perspectiva reducerii riscurilor în executarea contractului, așa cum se
+prevede și la art. 4 alin. (6) din HG nr. 1061/2008 privind transportul
+deșeurilor periculoase și nepericuloase pe teritoriul României. 
+ Consiliul apreciază că această cerință este îndreptățită, critica urmând
+a fi respinsă. 
+ 3. Referitor la ultima critică, se reține că în cadrul documentației de
+atribuire s-a solicitat: „dovada deținerii în dotare proprie a echipamentelor
+și autovehiculelor va consta în: carte de identitate a vehiculului sau
+Contractul de închiriere pentru vehicul - pentru minim doua autovehicule ,
+unul cu masa maxim autorizata 2,5t-3,5t si altul cu masa maxim
+autorizata mai mare de 3,5 tone; talonul mașinii; contract de vânzare-
+cumparare; licența de transport mărfuri periculoase pentru mijloacele
+auto (pentru un autovehicul a cărui masa maximă autorizata este mai
+mare de 3,5 tone și un autovehicul cu masa maxim autorizata intre 2,5
+tone -3,5 tone); copie de pe certificatul de inmatriculare al
+autovehicolului, inclusiv revizia tehnico (pentru cele 2 autovehicule), etc.
+în cazul în care echipamentele folosite se afla în proprietatea unor terți se
+va prezenta contractul, care conferă dreptul
+ofertantului/subcontractanților să folosească echipamentul respectiv,
+contract care va avea o durata de valabilitate cu durata acordului cadru ce
+reprezintă obiectul achiziției, acordul proprietarilor pentru a folosi
+
+echipamentele respective în actuala procedura, precum și documentele de
+autorizare a echipamentelor respective”.
+Contestatorul nu prezintă argumente concrete pentru care această
+măsură ar fi disproporționată prin raportare la nevoile autorității
+contractante și la obiectul acordului cadru. 
+Autoritatea contractantă este liberă să determine caracteristicile
+tehnice ce răspund cel mai bine necesităților sale, cât timp condițiile
+impuse răspund unor nevoi reale și nu au ca efect crearea unor condiții
+restrictive, ci îndeplinirea scopului final al acordului cadru. 
+Or, astfel cum s-a argumentat și în cadrul strategiei de contractare,
+impunerea acestei cerințe autorităților contractante este justificată din mai
+multe considerente. Conform legislației în vigoare, autovehiculele care
+transportă mărfuri periculoase și depășesc 3,5 tone capacitate autorizată
+vor deține și licență transport mărfuri periculoase, având în vedere riscul
+pentru mediu în caz de accident.
+Având în vedere programul Spațiului de Stocare Temporară a
+Deșeurilor Medicale și programul de transport menționat în Caietul de
+Sarcini - de Luni - Duminica de la 07:00 - 12:00, asigurarea ca un singur
+transport poate prelua întreaga cantitate de deșeuri generate zilnic, se
+impune a fi prevăzută în cerințe prin asigurarea și prezentarea unui
+autovehicul cu masa autorizata mai mare de 3,5 tone. Simpla menționare
+a intervalului de livrare și asumarea de către ofertant a acestei obligații nu
+este suficientă în opinia autorității pentru a asigura îndeplinirea nevoilor
+acesteia de către ofertant, fiind necesară și impunerea cerinței ca
+ofertantul să facă dovada posibilității executării acordului cadru. 
+Mai mult, în stabilirea acestei cerințe s-au avut în vedere și
+cantitățile de deșeuri estimat a fi colectate și cantitățile totale ce urmează
+a fi eliminate, acesta fiind motivul pentru care autoritatea contractantă a
+impus existența acestor dotări operatorilor economici, cerința fiind
+necesară pentru a se dovedi capacitatea de executare a acordului- cadru
+și nefiind restrictivă așa cum susține contestatorul.
+În consecință, luând în considerare cele mai sus menționate, în
+temeiul art. 26 alin. (6) din Legea nr. 101/2016, Consiliul va respinge ca
+nefondată contestația formulată de ... în contradictoriu cu autoritatea
+contractantă ....
+Pentru aceste motive,
+în baza legii și a mijloacelor de probă aflate la dosar,
+CONSILIUL DISPUNE:
+În temeiul dispozițiilor art. 26 alin. (1) din Legea nr. 101/2016,
+respinge excepțiile prematurității și lipsei calității de persoană vătămată,
+invocate de autoritatea contractantă. 
+În temeiul dispozițiilor art. 26 alin. (6) din Legea nr. 101/2016,
+respinge ca nefondată contestația formulată de ... în contradictoriu cu
+autoritatea contractantă ....
+Prezenta decizie este obligatorie pentru părți, în conformitate cu
+dispozițiile art. 28 alin. (1) din Legea nr. 101/2016 și poate fi atacată cu
+22
+
+plângere, în temeiul art. 29 din același act normativ, în termen de 10 zile
+de la comunicare.

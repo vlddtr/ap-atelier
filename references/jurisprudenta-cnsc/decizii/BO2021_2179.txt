@@ -1,0 +1,1061 @@
+DECIZIE CNSC BO2021_2179 — text integral (anonimizat de CNSC la publicare; raționament/considerente complete).
+Citeaz-o prin BO2021_2179.
+
+În conformitate cu prevederile art. 12 alin. (1) și ale art. 27
+alin. (1) din Legea nr. 101/2016 privind remediile și căile de atac
+în materie de atribuire a contractelor de achiziție publică, a
+contractelor sectoriale și a contractelor de concesiune de lucrări
+și concesiune de servicii, precum și pentru organizarea și
+funcționarea Consiliului Național de Soluționare a Contestațiilor,
+Consiliul adoptă următoarea:
+DECIZIE 
+Nr. ...
+Data: ...
+Prin contestația înregistrată la C.N.S.C. cu nr. ..., formulată de
+către ... SRL, cu sediul în municipiul ..., înregistrată la ORC sub nr. ...,
+având CUI ..., reprezentată legal prin ... - administrator, împotriva
+documentației de atribuire, elaborată de către ORAŞUL ..., cu sediul în
+localitatea ..., în calitate de autoritate contractantă, în cadrul procedurii
+de licitație deschisă privind atribuirea unui contract de achiziție publică
+având ca obiect <Servicii pentru realizarea studiilor suport, a hărților
+necesare și a planului de management în cadrul proiectului POIM 2014-
+2020 ”Managementul biodiversității prin realizarea planului de
+management al ariei naturale protejate ...”, SMIS ...>, cod CPV
+90710000-7 Management de mediu (Rev.2), anunț de participare nr. ...,
+s-au solicitat următoarele: 
+- suspendarea procedurii de atribuire până la soluționarea
+contestației; 
+- obligarea autorității contractante la modificarea documentației de
+atribuire; 
+- obligarea autorității contractante la decalarea termenului pentru
+depunerea ofertelor ca urmare a modificării documentației de atribuire. 
+În luarea deciziei asupra cauzei de față,
+Consiliul Național de Soluționare a Contestațiilor
+reține următoarele:
+Prin contestația înregistrată la C.N.S.C. cu nr. ..., ... SRL critică
+documentația de atribuire, elaborată de către ORAŞUL ..., în calitate de
+autoritate contractantă, în cadrul procedurii de licitație deschisă privind
+atribuirea unui contract de achiziție publică având ca obiect <Servicii
+pentru realizarea studiilor suport, a hărților necesare și a planului de
+management în cadrul proiectului POIM 2014-2020 ”Managementul
+biodiversității prin realizarea planului de management al ariei naturale
+protejate ...”, SMIS ...>, cod CPV 90710000-7 Management de mediu
+Pagina 1 din 24
+
+(Rev.2), anunț de participare nr. ..., solicitând cele menționate în partea
+introductivă.
+În cuprinsul contestației, autoarea acesteia susține că analizând
+documentația de atribuire în vederea depunerii unei oferte a constatat că
+aceasta nu respectă în totalitate legislația în domeniul achizițiilor publice,
+conținând cerințe contradictorii, excesive, care nu au legătură cu obiectul
+contractului și care restrâng, în mod artificial, concurența, precum și
+factori de evaluare disproporționați și care nu aduc un avantaj real
+autorității contractante. Apreciază că documentația de atribuire
+contravine în principal prevederilor art. 50, art. 154, art. 155 alin. (6),
+art. 187 și art. 189 din Legea nr. 98/2016, ale art. 31, art. 32 din HG nr.
+395/2016 și ale art. 12 din Instrucțiunea ANAP nr. 1/2017, dar și altor
+prevederi legale.
+În continuare, autoarea contestației prezintă aspectele de
+nelegalitate ale documentației de atribuire , respectiv:
+1. Cerințele de calificare privitoare la echipa de experți, sunt
+contradictorii, excesive, nu prezintă relevanță în raport cu natura și
+complexitatea contractului, sunt disproporționate în raport cu natura și
+complexitatea contractului și restrâng în mod artificial concurența.
+Prin documentația de atribuire, autoritatea a prevăzut că pentru a
+se califica, ofertanții trebuie să propună prin oferta lor, o echipă compusă
+din cel puțin 10 experți, identificați ca experți-cheie, (pag. 31 din caietul
+de sarcini).
+Față de acest aspect, contestatoarea afirmă că cerințele privitoare
+la experți sunt în primul rând contradictorii, operatorilor economici
+fiindu-le imposibil să înțeleagă cu claritate cerințele privitoare la experții
+cheie pe care ar trebui să îi propună. Pentru clarificare, exemplifică
+situația expertului cheie, Lider de echipă. 
+De asemenea, arată că autoritatea contractantă a solicitat ca
+printre experții-cheie să facă parte nu mai puțin de 4 experți GIS.
+În acest sens, învederează că, în ansamblul său, activitatea de
+elaborare a unei hărți GIS presupune 2 subactivități componente:
+activitatea întocmire a bazei de date, pe baza datelor culese din teren;
+activitatea de generare a hârților GIS, utilizându-se baza de date
+întocmită. Ambele subactivităţi sunt derulate de aceiași persoană,
+respectiv expertul GIS, care preia și introduce în program datele din
+fișele de teren pentru a crea baza de date iar apoi generează harta.
+Prin urmare, consideră că nu are justificare practică cerința
+autorității contractante de a se propune persoane distincte pentru
+activitatea de realizare a bazelor de date și pentru activitatea de
+generare a hărților GIS. Persoana care s-ar ocupa de activitatea de
+"elaborare a hărții GIS" poate întocmi baza de date și genera harta GIS
+(privită ca livrabil final).
+În același tip este disproporționată în raport de complexitatea
+contractului, cerința de a se desemna un număr de 4 experți GIS, chiar
+Pagina 2 din 24
+
+dacă ar urma să fie distribuiți câte doi pentru derularea unei singure
+subactivități.
+Contractul ce se intenționează a fi atribuit are ca obiect Servicii
+pentru realizarea studiilor suport, a hârților necesare și a planului de
+management în cadrul proiectului POIM 2014-2020 "Managementul
+biodiversității prin realizarea planului de management al ariei naturale
+protejate ...", SMIS ....
+Așa cum se precizează în documentația de atribuire, aria natural
+protejată ... are o suprafață de 162 hectare, care este o suprafață infimă
+față de alte arii protejate. Pentru o astfel de arie protejată cu o
+asemenea suprafață, nu este nevoie de 4 persoane pentru realizarea
+hărților GIS.
+Totodată, contestatoarea apreciază că în raport cu natura și
+complexitatea contractului este disproporționată și lipsită de relevanță
+însăși cerința ca unii dintre experții cheie să aibă experiență în
+coordonarea de echipe de experți, respectiv: EC 3. Coordonator experți
+impact antropic; EC 4. Coordonator experți masuri de conservare; EC 5.
+Coordonator experți elaborarea hărți GIS; EC 6. Coordonator experți
+baze de date GIS.
+În ceea ce privește Expertul Cheie 5 - Coordonator experți
+elaborarea hărți GIS - se solicită experiență ca coordonator echipe de
+experți (în chiar 7 proiecte pentru punctaje maxim), în condițiile în care
+acesta ar urma să coordoneze 1 singură persoană, respectiv expertul
+care ar urma să se ocupe de elaborarea hărților GIS.
+Situația este identică și în cazul Expertului Cheie 6 - Coordonator
+experți baze de date GIS și consideră contestatoarea, este total
+nejustificat, nu are niciun raționament economic sau practic și nu aduce
+niciun avantaj autorității contractante, impunerea ca din 2 experți, unul
+să îl coordoneze pe celălalt.
+Ca în cazul altor proiecte similare dar mult mai mari, ar fi fost
+suficient includerea a 2 experți GIS, care să fie în coordonarea directă a
+Liderului de Echipă.
+Practic, în opinia sa, autoarea contestației precizează că autoritatea
+contractantă a creat artificial două poziții de coordonatori cu scopul de a
+restrânge concurența și consideră că cerința este cu atât mai restrictivă
+cu cât se solicită ca experiența similară să fi fost dobândită ca și
+coordonator de echipă de experți GIS, deci nici măcar nu ar putea fi
+propus un specialist care să fi fost lider de echipă în vreun proiect și care
+să aibă și competențe GIS.
+Prin aceste cerințe, care nu sunt justificate în raport de natura și
+complexitatea proiectului, autoritatea contractantă restrânge în mod
+artificial concurența și generează încălcări ale principiilor achizițiilor
+publice.
+Pagina 3 din 24
+
+Cerința privitoare la Expertul Cheie 3 - Coordonator experți impact
+antropic - este și mai nejustificată având în vedere că este foarte posibil
+ca acest coordonator să nu coordoneze nicio persoană.
+Pe lângă cei 10 experți cheie pe care îi consideră absolut necesari,
+autoritatea a estimat un număr de experți secundari, identificați ca
+experți non-cheie, însă lăsând la deplina apreciere a ofertanților
+necesitatea implicării acestora sau numărul experților pe care îi vor
+propune (pag. 42 din caietul de sarcini).
+Astfel, arată ... SRL, autoritatea contractantă a lăsat la aprecierea
+ofertanților dacă vor propune ca expert non-cheie un Expert impact
+antropic. Având în vedere suprafața ariei protejate, este foarte posibil ca
+Expertul Cheie 3 - Coordonator experți impact antropic, să nu
+coordoneze pe nimeni, fiind suficient un singur Expert impact antropic
+pentru derularea activităților din contract.
+Situația este identică și în ceea ce privește EC 4. Coordonator
+experți măsuri de conservare.
+Este de exemplu, justificată solicitarea unui astfel de coordonator în
+cazul EC2 - Coordonator experți ornitologi, întrucât echipa de ornitologi
+se anticipează a fi mai numeroasă - cca. 25 de experți ornitologi.
+De asemenea, consideră ca fiind nelegală și cerința referitoare la
+faptul că ofertanții, pentru dovedirea experienței similare, trebuie să
+justifice cu indicarea numărului de ore și de zile de activitate
+(Instrucțiunile pentru ofertanți, la pag. 30). Autoritatea contractantă
+solicită ca "Ofertantul (Operator Economic individual sau Asociere de
+Operatori Economici) trebuie să demonstreze că în ultimii 3 ani până la
+data limită de depunere a Ofertei a prestat servicii de elaborare/
+revizuire/actualizare de planuri de management aferente ariilor naturale
+protejate sau alte planuri/programe/studii similare aferente ariilor
+naturale protejate, în valoare de minim 3.000.000 lei".
+Astfel ceea ce este important și trebuie dovedit este faptul că în
+ultimii 3 ani, ofertanții au derulat servicii similare cu o valoare mai mare
+de 3.000.000 lei. Este absolut irelevant numărul de ore sau de zile de
+activitate ale ofertantului în cadrul vreunui contract derulat.
+În plus o astfel de evidență este foarte greu de furnizat deoarece în
+majoritatea contractelor similare cu cel care urmează a fi atribuit,
+urmărirea derulării serviciilor s-a efectuat pe baza de livrabile și termene
+de predare. Nu au fost întocmite pontaje de activitate ale experților pe
+zile sau pe ore.
+Printr-o astfel de cerință, afirmă contestatoarea, autoritatea
+restrânge foarte mult concurența deoarece limitează accesul la
+procedură al multor operatori economici, care deși au derulat contracte
+similare, poate de o valoare mai mare, nu au întocmit evidențe pe zile
+sau ore de activitate. Şi asta doar pentru că în respectivele contracte,
+prestarea corespunzătoare a serviciilor se făcea prin simpla predare a
+livrabilelor la termenele asumate.
+Pagina 4 din 24
+
+2. Factorii de evaluare nu sunt relevanți și nu reflectă vreun
+avantaj economic sau financiar care ar putea rezulta din cadrul ofertelor
+depuse.
+Pe baza chestiunilor de fapt expuse mai sus, autoarea contestației
+consideră că factorii de evaluare stabiliți de autoritatea contractantă sunt
+absolut irelevanți, singurul efect al stabilirii lor fiind restrângerea
+concurenței. Autoritatea contractantă nu obține niciun avantaj dacă oferă
+punctaj maxim pentru implicarea unui expert în 7 proiecte în care să fi
+coordonat echipe de experți, în condițiile în care respectivul expert-cheie,
+fie urmează să coordoneze 1 singură persoană, fie nu coordonează pe
+nimeni. Prin urmare, autoritatea ar urma să departajeze ofertele, pe
+baza unui aspect total inutil.
+În concluzie, contestatoarea menționează că, prin modul în care a
+stabilit cerințele privind echipa de experți și experiența profesională a
+acestora, autoritatea contractantă a limitat în mod evident participarea
+operatorilor economici la această procedură de achiziție publică, fiind
+astfel încălcate principiile guvernante ale achizițiilor publice, referitoare
+la nelimitarea accesului operatorilor la procedura de achiziție și
+proporționalitatea cerințelor din documentația de atribuire raportat la
+obiectul și scopul contractului. Ca atare, învederează că, pentru a da
+eficientă principiului proporționalității, cerințele minime de calificare și
+selecție solicitate prin documentația de atribuire, precum și documentele
+care probează îndeplinirea unor astfel de cerințe trebuie să se limiteze
+numai la cele strict necesare pentru a se asigura îndeplinirea în condiții
+optime a contractului respectiv, luând în considerare exigențele specifice
+impuse de valoarea, natura și complexitatea acestuia.
+În probațiune, s-au depus, în copie, documente.
+Prin adresa nr. 2933/08.09.2021, înregistrată la C.N.S.C. sub nr.
+..., ... SRL a transmis, în original, recipisa de consemnare a cauțiunii nr.
+..., în valoare de 96.388,00 lei, eliberată de ....
+Prin adresa nr. 17500/13.09.2021, înregistrată la C.N.S.C. cu nr. ...,
+ORAŞUL ... a transmis punctul de vedere cu privire la contestația
+formulată de ... SRL. 
+Referitor la aspectele de nelegalitate ale documentației de atribuire
+semnalate de către contestatoare cu privire la stabilirea de către
+autoritatea contractantă a unor cerințe de calificare contradictorii,
+excesive și disproporționate în raport cu natura și complexitatea
+contractului și care restrâng în mod artificial concurența, consideră că
+acestea sunt subiective raportându-se, în principal, la capacitatea
+profesională a operatorului economic de a îndeplini cerințele contractuale
+în ipoteza în care ar fi declarat ofertant câștigător, dar nu și la
+complexitatea contractului.
+La elaborarea documentației de atribuire, a avut în vedere
+complexitatea obiectul contractului de achiziție publică, iar cerința
+experienței în domeniu pentru experții-cheie este considerat un criteriu
+Pagina 5 din 24
+
+esențial pentru atingerea obiectivelor, drept pentru care participarea în
+cadrul mai multor contracte similare este relevantă. În susținerea
+afirmației sale, autoritatea invocă prevederile art. 10 alin. (2) din
+Instrucțiunea ANAP nr. 1/2017. 
+În ceea ce privește critica contestatoarei referitor la formularea
+cerinței pentru fiecare expert cheie, dând exemplul Expertului cheie 1
+"Lider de echipă", subliniază că a elaborat factori de evaluare privind
+calificarea, experiența profesională și modul de organizare a experților -
+cheie, aplicând prevederile art. 12 din Instrucțiunea ANAP nr. 1/2017.
+Punctajul se acordă direct proporțional operatorilor economici
+pentru valori superioare ale experienței profesionale reflectate prin
+implicarea respectivului expert-cheie în două sau mai multe contracte
+similare, care extind cerința minimă, fiind evidențiată ca "cerință dorită",
+așa cum a fost detaliat în algoritmul de calcul prezentat în documentația
+de atribuire.
+Factorii de evaluare ai ofertelor, respectiv experții cheie stabiliți, au
+legătură directă cu natura și obiectul contractului de achiziție publică ce
+urmează a fi atribuit și reflectă un avantaj asigurarea acestora în
+derularea activităților contractului.
+Exemplele date de contestatoare nu constituie o regulă de urmat,
+fiecare procedură de atribuire, respectiv contract de achiziție publică are
+particularitățile sale, iar autoritatea contractantă are obligația de a
+stabilii factorii de evaluare cu respectarea Legii nr. 98/2016, raportat la
+complexitatea contractului de achiziție publică ce va fi atribuit.
+De asemenea, autoritatea precizează că experții non cheie nu
+constituie factori de evaluare. A prezentat experți non-cheie identificați
+ca fiind necesari, în realizarea activităților raportat la fiecare activitate în
+parte, potrivit caietului de sarcini.
+Totodată, arată că ... SRL a interpretat în mod greșit explicația din
+"Instrucțiuni pentru ofertanți" pentru dovedirea experienței similare care
+este cu titlu enumerativ, fiind urmată de sintagma "etc", subliniindu-se
+astfel că nu are caracter expres și limitativ. În această secțiune trebuie
+incluse doar informațiile care pot demonstra îndeplinirea cerinței minime
+în valoare de 3.000.000 lei, în funcție de caracteristicile contractului de
+achiziție publică prezentat.
+La stabilirea numărului de experți, arată autoritatea, s-a raportat la
+graficul de timp asociat activităților pe care le presupune realizarea
+studiilor suport, a hărților necesare și a elaborării planului de
+management, astfel încât activitățile proiectului să fie realizate conform
+graficului proiectului, luând în calcul personalul necesar, ce va realiza
+efectiv activitățile care fac obiectul contractului ce urmează a fi atribuit și
+care influențează în mod direct, calitatea rezultatului ce trebuie atins.
+Numărul de experți a fost stabilit având în vedere particularitățile
+proiectului, respectiv derularea simultan a activităților contractului pe
+suprafața Ariei protejate ..., având două locații distincte ....
+Pagina 6 din 24
+
+Punctajul se acordă direct proporțional operatorilor economici
+pentru valori superioare ale experienței profesionale reflectate prin
+implicarea respectivului expert-cheie în două sau mai multe contracte
+similare, care extind cerința minimă. 
+Având în vedere motivele expuse și reglementările Legii nr.
+101/2016, precum și cele ale Instrucțiunii ANAP nr. 1/2017 care conține
+îndrumări privind modul de elaborare a documentației de atribuire,
+ORAŞUL ... solicită Consiliului respingerea contestației depusă de ...
+S.R.L. ca nefondată.
+În probațiune, prin adresa nr. 17500/13.09.2021, înregistrată la
+C.N.S.C. sub nr. ..., autoritatea contractantă a transmis, în copie,
+documente ale dosarului achiziției publice.
+Din examinarea materialului probator administrat, aflat la dosarul
+cauzei, Consiliul reține următoarele:
+ORAŞUL ..., în calitate de autoritate contractantă, a organizat
+procedura de licitație deschisă privind atribuirea unui contract de
+achiziție publică având ca obiect <Servicii pentru realizarea studiilor
+suport, a hărților necesare și a planului de management în cadrul
+proiectului POIM 2014-2020 ”Managementul biodiversității prin realizarea
+planului de management al ariei naturale protejate ...”, SMIS ...>, cod
+CPV 90710000-7 Management de mediu (Rev.2), prin publicarea, în
+S.E.A.P., a anunțului de participare nr. ..., stabilind termenul limită
+pentru primirea ofertelor la 04.10.2021, ora 15:00, criteriul de atribuire
+„cel mai bun raport calitate-preț” și valoarea totală estimată, fără TVA,
+de 4.819.400,00 lei. Din verificarea S.E.A.P. rezultă că stadiul procedurii
+de atribuire la acest moment este: ”suspendată”.
+Referitor la cererea de suspendare a procedurii de atribuire până la
+soluționarea contestației, Consiliul s-a pronunțat prin Încheierea nr. ..., în
+sensul admiterii ei.
+Examinând susținerile părților, probatoriul aflat la dosarul cauzei și
+dispozițiile legale aplicabile, Consiliul constată următoarele:
+Pentru început, Consiliul va lua în considerare dispozițiile art. 154
+din Legea nr. 98/2016 privind achizițiile publice, conform cărora
+”autoritatea contractantă are obligaţia de a elabora documentaţia de
+atribuire care conţine toate informaţiile necesare pentru a asigura
+operatorilor economici o informare completă, corectă şi precisă cu privire
+la cerinţele achiziţiei, obiectul contractului şi modul de desfăşurare a
+procedurii de atribuire”. 
+Față de cele de mai sus, Consiliul va lua în considerare că ... SRL
+contestă conținutul documentației de atribuire, publicată în SEAP de
+autoritatea contractantă, ce conține, în accepțiunea sa, ”cerințe
+contradictorii, excesive, care nu au legătură cu obiectul contractului și
+care restrâng, în mod artificial, concurența, precum și factori de evaluare
+disproporționați și care nu aduc un avantaj real autorității contractante.
+Pagina 7 din 24
+
+În cuprinsul contestației, autoarea acesteia critică, atât ”Cerințele
+de calificare privitoare la echipa de experți”, cât și, ”Factorii de evaluare
+privind calificarea, experiența profesională și/sau modul de organizare a
+experților cheie”.
+În speță Consiliul consideră ca fiind relevante următoarele
+prevederi legale: 
+- Art. 31 alin. (1) din HG nr. 395/2016: ”Autoritatea contractantă
+nu are dreptul de a restricţiona participarea la procedura de atribuire a
+contractului de achiziţie publică prin introducerea unor criteriile minime
+de calificare, care: 
+a) nu prezintă relevanţă în raport cu natura şi complexitatea
+contractului de achiziţie publică ce urmează să fie atribuit; 
+b) sunt disproporţionate în raport cu natura şi complexitatea
+contractului de achiziţie publică ce urmează a fi atribuit”. 
+- Art. 12 din Instrucțiunea ANAP nr. 1/2017: ”Atunci când
+stabileşte factorii de evaluare privind calificarea, experienţa profesională
+şi/sau modul de organizare a experţilor-cheie, autoritatea/entitatea
+contractantă se asigură că: 
+a) factorii de evaluare sunt asociaţi unei/unor extinderi a cerinţei/
+cerinţelor minime obligatorii stabilite prin caietul de sarcini, avantajul
+urmărit fiind în corelaţie cu valori superioare ale nivelurilor de calificare
+şi/sau experienţă profesională prezentate de experţii-cheie, ce fac
+obiectul factorilor de evaluare, faţă de nivelul minim ce trebuie îndeplinit
+pentru ca propunerea tehnică să fie declarată conformă; 
+b) factorii de evaluare sunt relevanţi şi reflectă avantajele
+economice/financiare rezultate din cadrul ofertelor depuse, avantaje care
+să nu fie anulate sau diminuate pe parcursul îndeplinirii contractului,
+fiind corelaţi cu specificul activităţilor şi domeniului corespunzătoare
+obiectului respectivului contract. 
+NOTĂ:
+(i) În cazul anumitor servicii/activităţi, este mai important, din punctul
+de vedere al experienţei unui expert-cheie, numărul exerciţiilor realizate
+de către acesta, relevante în raport cu respectiva activitate şi/sau cu
+domeniul în care se încadrează obiectul contractului, decât experienţa
+exprimată în ani sau prin simplă corelare cu durata unui asemenea
+exerciţiu. (...) 
+(iii) Pentru experţii-cheie la care experienţa profesională în
+implementarea unor activităţi similare, în cadrul unor proiecte
+comparabile, poate influenţa în mod direct calitatea executării
+contractului şi, prin urmare, valoarea economică a ofertei, se pot stabili
+factori de evaluare care să urmărească avantajele competitive aduse de
+o ofertă ce prezintă experţi-cheie superiori, din punctul de vedere al
+experienţei specifice, în raport cu celelalte oferte. 
+(iv) Pentru a nu distorsiona rezultatul aplicării factorului de evaluare se
+recomandă stabilirea unor clase în funcţie de care să fie acordat
+Pagina 8 din 24
+
+punctajul, fiecare clasă reprezentând un interval (peste nivelul minim) în
+care se încadrează experienţa expertului-cheie ce face obiectul factorului
+de evaluare, măsurată prin numărul de proiecte comparabile la care a
+participat, realizând activităţi similare cu cele ce urmează a le
+implementa în cadrul viitorului contract (de exemplu: între 2 şi 4
+proiecte - 3 puncte; între 5 şi 7 proiecte - 5 puncte; peste 8 proiecte -
+10 puncte). (...)”. 
+Verificând dosarul cauzei din perspectiva normelor juridice anterior
+invocate, Consiliul reține că, în cadrul Fișei de date a achiziției,
+autoritatea contractantă a menționat, printre altele, și:
+”II.1.4 Descrierea succinta a contractului sau a
+achizitiei/achizitiilor
+Prestatorul va asigura Servicii pentru realizarea studiilor suport, a
+hărților necesare și a planului de management în cadrul proiectului POIM
+2014-2020 ”Managementul biodiversității prin realizarea planului de
+management al ariei naturale protejate ...”, SMIS ..., constând în
+întocmirea Planului de management al ariei protejate și a studiilor
+aferente, astfel:
+A1 Inventarierea speciilor şi habitatelor de importanţă naţională şi
+comunitară de pe raza ariei protejate
+Rezultate activitate:
+1 studiu inventariere realizat
+1 metodologie de inventariere realizata
+1 baza de date realizata
+A2 Zonarea interna si studiu abiotic pentru aria naturala protejata
+Rezultate activitate:
+1 studiu zonare interna a ariei elaborat
+1 studiu mediul abiotic elaborat
+A.3 Elaborarea unui studiu socioeconomic care va ţine seama atât
+de exigentele economice, sociale si culturale cât si de particularitatile
+regionale si locale care fundamentează planul de management al ariei
+naturale protejate.
+Rezultate activitate:
+1 studiu socio-economic realizat
+A4 Elaborarea studiului cu privire la structura proprietăţii,
+proprietari şi administratori de teren şi managementul actual al ariei
+naturale protejate
+Rezultate activitate:
+1 Studiu cu privire la folosinţa terenurilor, structura proprietăţii,
+administratori şi managementul actual elaborate
+1 Baza de date cu categoriile de folosinta ale terenurilor
+A.5 Elaborarea studiilor de evaluare a activităţilor cu potenţial
+impact antropic (presiuni şi ameninţări) ce afectează speciile de interes
+comunitar din aria natural protejată.
+Rezultate activitate:
+Pagina 9 din 24
+
+1 studiu presiuni si amenintari elaborat
+A.6 Elaborarea metodologiilor si a masurilor de conservare a
+speciilor de importanţă comunitară şi evaluarea stării de conservare a
+acestora, stabilirea măsurilor ce trebuie luate pentru atingerea unei stări
+de conservare favorabilă a speciilor de pe raza ariei naturale protejate
+Rezultate activitate:
+1 studiu masuri de management/conservare realizat
+1 Metodologie stare de conservare realizata
+1 studiu pentru evaluarea starii de conservare elaborate
+A.7 Elaborarea hărţilor de distribuţie a speciilor de importanţă
+naţională şi comunitară de pe raza ariei naturale protejate, a hărţilor
+activităţilor cu potential impact antropic (presiuni şi ameninţări) şi a
+hărţilor GIS care vor fi anexate la Planul de management 
+Rezultate activitate:
+258 harti realizate
+A.8 Elaborarea Planului de Management şi înaintarea spre
+aprobare, astfel încât aceasta să aibă loc înainte de finalizarea
+proiectului, inclusiv elaborarea evaluării strategice de mediu (SEA)
+Rezultate activitate:
+1 documentatie SEA realizata
+1 Plan Management aprobat
+1 taxa avizare achitata de achizitor.
+(...)
+II.2.5 Criterii de atribuire
+Cel mai bun raport calitate – pret
+Denumire factor evaluare – Descriere - Pondere
+Pretul ofertei - Componenta financiara 40%
+Punctaj maxim factor: 40
+Algoritm de calcul: Punctajul se acorda astfel: 
+a) Pentru cel mai scazut dintre preturi se acorda punctajul maxim
+alocat; 
+b) Pentru celelalte preturi ofertate punctajul P(n) se calculeaza
+proportional, astfel: P(n) = (Pret minim ofertat / Pret n) x punctaj
+maxim alocat.
+Componenta tehnică 60% 
+ 2.1 Experiența specifică: Lider de echipa
+a. cerință minimă
+Calificări: Studii superioare absolvite cu diploma de licenta/master.
+Experiența specifică: Specialistul trebuie să fi fost implicat în
+calitate de lider de echipa/coordonator/manager/șef proiect sau similar
+în cel puțin un proiect/contract similar (elaborarea de planuri de
+management pentru arii naturale protejate/implementarea masurilor din
+planurile de management elaborate/inventariere, cartare, monitorizare
+specii, întocmire studii de mediu, etc.)
+Pagina 10 din 24
+
+b. cerința dorită ce extinde cerința minimă și reprezintă referința
+pentru aplicarea factorului de evaluare (punctajul):
+Experiența specifică: Specialistul trebuie să fi fost implicat în
+calitate de lider de echipa/coordonator/manager/șef proiect sau similar
+în 2 sau mai multe proiecte/contracte similare (elaborarea de planuri de
+management pentru arii naturale protejate/implementarea masurilor din
+planurile de management elaborate/inventariere cartare, monitorizare
+specii, întocmire studii de mediu, etc.)
+6% Punctaj maxim factor: 6
+Algoritm de calcul: 
+a) pentru experiența constând în participarea la 1 contract a
+persoanei propuse, nu se acordă puncte;
+b) pentru experiența constând în participarea la 2 contracte a
+persoanei propuse, se acordă 1 punct;
+c) pentru experiența constând în participarea la 3 contracte a
+persoanei propuse, se acordă 2 puncte;
+d) pentru experiența constând în participarea la 4 contracte a
+persoanei propuse, se acordă 3 puncte;
+e) pentru experiența constând în participarea la 5 contracte a
+persoanei propuse, se acordă 4 puncte;
+f) pentru experiența constând în participarea la 6 contracte a
+persoanei propuse, se acordă 5 puncte;
+g) pentru experiența constând în participarea la 7 sau mai multe
+contracte a persoanei propuse, se acordă 6 puncte;
+2.2 Experiența specifică - Coordonator experti ornitologi
+a. cerință minimă
+Calificări: Studii superioare absolvite cu diploma de licenta/master
+in domeniile stiintele naturii / biologie / ecologie / stiintele mediului /
+agronomie / horticultura / zootehnie / piscicultura / economia mediului /
+geodezie / geologie / silvicultura / ingineria mediului / geografie sau
+domenii inrudite.
+Experiența specifică: Specialistul trebuie să fi fost implicat în
+calitate de coordonator experti ornitologi sau similar în cel puțin un
+proiect/contract similar (întocmire studii de mediu, planuri, programe
+aferente ariilor protejate, etc.)
+b. cerința dorită ce extinde cerința minimă și reprezintă referința
+pentru aplicarea factorului de evaluare (punctajul):
+Experiența specifică: Specialistul trebuie să fi fost implicat în
+calitate de coordonator experti ornitologi sau similar în două sau mai
+multe proiecte/ contracte similare (întocmire studii de mediu, planuri,
+programe aferente ariilor protejate, etc.).
+6% Punctaj maxim factor: 6
+Algoritm de calcul: 
+a) pentru experiența constând în participarea la 1 contract a
+persoanei propuse, nu se acordă puncte;
+Pagina 11 din 24
+
+b) pentru experiența constând în participarea la 2 contracte a
+persoanei propuse, se acordă 1 punct;
+c) pentru experiența constând în participarea la 3 contracte a
+persoanei propuse, se acordă 2 puncte;
+d) pentru experiența constând în participarea la 4 contracte a
+persoanei propuse, se acordă 3 puncte;
+e) pentru experiența constând în participarea la 5 contracte a
+persoanei propuse, se acordă 4 puncte;
+f) pentru experiența constând în participarea la 6 contracte a
+persoanei propuse, se acordă 5 puncte;
+g) pentru experiența constând în participarea la 7 sau mai multe
+contracte a persoanei propuse, se acordă 6 puncte;
+2.3 Experiența specifică - Coordonator experti impact antropic
+a. cerință minimă
+Calificări: Studii superioare absolvite cu diploma de licenta/master
+in domeniile stiintele naturii / biologie / ecologie / stiintele mediului /
+agronomie / horticultura / zootehnie / geodezie / geologie / silvicultura /
+ingineria mediului / geografie sau domenii inrudite.
+Experiența specifică: Specialistul trebuie să fi fost implicat în
+coordonarea expertilor pentru impact antropic sau similar în cel puțin
+un proiect/contract similar (întocmire studii de mediu, planuri, programe
+aferente ariilor protejate, etc.)
+b. cerința dorită ce extinde cerința minimă și reprezintă referința
+pentru aplicarea factorului de evaluare (punctajul):
+Experiența specifică: Specialistul trebuie să fi fost implicat în
+calitate de coordonarea expertilor pentru impact antropic sau similar în
+două sau mai multe proiecte/contracte similare (întocmire studii de
+mediu, planuri, programe aferente ariilor protejate, etc.).
+6% Punctaj maxim factor: 6
+Algoritm de calcul: 
+a) pentru experiența constând în participarea la 1 contract a
+persoanei propuse, nu se acordă puncte;
+b) pentru experiența constând în participarea la 2 contracte a
+persoanei propuse, se acordă 1 punct;
+c) pentru experiența constând în participarea la 3 contracte a
+persoanei propuse, se acordă 2 puncte;
+d) pentru experiența constând în participarea la 4 contracte a
+persoanei propuse, se acordă 3 puncte;
+e) pentru experiența constând în participarea la 5 contracte a
+persoanei propuse, se acordă 4 puncte;
+f) pentru experiența constând în participarea la 6 contracte a
+persoanei propuse, se acordă 5 puncte;
+g) pentru experiența constând în participarea la 7 sau mai multe
+contracte a persoanei propuse, se acordă 6 puncte;
+Pagina 12 din 24
+
+2.4 Experiența specifică - Coordonator experti masuri de
+conservare
+a. cerință minimă
+Calificări: Studii superioare absolvite cu diploma de licenta/master
+in domeniile stiintele naturii / biologie / ecologie / stiintele mediului /
+agronomie / horticultura / zootehnie / geodezie / geologie / silvicultura /
+ingineria mediului / geografie sau domenii inrudite.
+Experiența specifică: Specialistul trebuie să fi fost implicat în
+coordonarea elaborarii masurilor de conservare sau similar în cel puțin
+un proiect/contract similar (întocmire studii de mediu, planuri, programe
+aferente ariilor protejate, etc.)
+b. cerința dorită ce extinde cerința minimă și reprezintă referința
+pentru aplicarea factorului de evaluare (punctajul):
+Experiența specifică: Specialistul trebuie să fi fost implicat în
+coordonarea elaborarii masurilor de conservare sau similar în două sau
+mai multe proiecte/ contracte similare (întocmire studii de mediu,
+planuri, programe aferente ariilor protejate, etc.). 
+6% Punctaj maxim factor: 6
+Algoritm de calcul: 
+a) pentru experiența constând în participarea la 1 contract a
+persoanei propuse, nu se acordă puncte;
+b) pentru experiența constând în participarea la 2 contracte a
+persoanei propuse, se acordă 1 punct;
+c) pentru experiența constând în participarea la 3 contracte a
+persoanei propuse, se acordă 2 puncte;
+d) pentru experiența constând în participarea la 4 contracte a
+persoanei propuse, se acordă 3 puncte;
+e) pentru experiența constând în participarea la 5 contracte a
+persoanei propuse, se acordă 4 puncte;
+f) pentru experiența constând în participarea la 6 contracte a
+persoanei propuse, se acordă 5 puncte;
+g) pentru experiența constând în participarea la 7 sau mai multe
+contracte a persoanei propuse, se acordă 6 puncte;
+2.5 Experiența specifică-Coordonator experti elaborare harti GIS
+a. cerință minimă
+Calificări: Studii superioare absolvite cu diploma de licenta/master
+in domeniile stiintele naturii / biologie / ecologie / stiintele mediului /
+agronomie / horticultura / zootehnie / piscicultura / economia mediului /
+geodezie / geologie / silvicultura / ingineria mediului / geografie sau
+domenii inrudite.
+Experiența specifică: Specialistul trebuie să fi fost implicat în
+calitate de coordonator experti elaborare harti GIS sau similar în cel
+puțin un proiect/contract similar (intocmire hărți tip GIS sau similar)
+b. cerința dorită ce extinde cerința minimă și reprezintă referința
+pentru aplicarea factorului de evaluare (punctajul):
+Pagina 13 din 24
+
+Experiența specifică: Specialistul trebuie să fi fost implicat în
+calitate de coordonator experti elaborare harti GIS sau similar în două
+sau mai multe proiecte/ contracte similare (intocmire hărți tip GIS sau
+similar).
+6% Punctaj maxim factor: 6
+Algoritm de calcul: 
+a) pentru experiența constând în participarea la 1 contract a
+persoanei propuse, nu se acordă puncte;
+b) pentru experiența constând în participarea la 2 contracte a
+persoanei propuse, se acordă 1 punct;
+c) pentru experiența constând în participarea la 3 contracte a
+persoanei propuse, se acordă 2 puncte;
+d) pentru experiența constând în participarea la 4 contracte a
+persoanei propuse, se acordă 3 puncte;
+e) pentru experiența constând în participarea la 5 contracte a
+persoanei propuse, se acordă 4 puncte;
+f) pentru experiența constând în participarea la 6 contracte a
+persoanei propuse, se acordă 5 puncte;
+g) pentru experiența constând în participarea la 7 sau mai multe
+contracte a persoanei propuse, se acordă 6 puncte;
+2.6 Experiența specifică - Coordonator experti baze de date GIS
+a. cerință minimă
+Calificări: Studii superioare absolvite cu diploma de licenta/master
+in domeniile stiintele naturii / biologie / ecologie / stiintele mediului /
+agronomie / horticultura / zootehnie / piscicultura / economia mediului /
+geodezie / geologie / silvicultura / ingineria mediului / geografie sau
+domenii inrudite.
+Experiența specifică: Specialistul trebuie să fi fost implicat în
+calitate de coordonator experti baze de date GIS sau similar în cel puțin
+un proiect/contract similar (intocmire baze de date pentru hărți tip GIS
+sau similar) 
+b. cerința dorită ce extinde cerința minimă și reprezintă referința
+pentru aplicarea factorului de evaluare (punctajul):
+Experiența specifică: Specialistul trebuie să fi fost implicat în
+calitate de coordonator experti baze de date GIS sau similar în două
+sau mai multe proiecte/ contracte similare (întocmire baze de date
+pentru hărți tip GIS sau similar).
+6% Punctaj maxim factor: 6
+Algoritm de calcul: 
+a) pentru experiența constând în participarea la 1 contract a
+persoanei propuse, nu se acordă puncte;
+b) pentru experiența constând în participarea la 2 contracte a
+persoanei propuse, se acordă 1 punct;
+c) pentru experiența constând în participarea la 3 contracte a
+persoanei propuse, se acordă 2 puncte;
+Pagina 14 din 24
+
+d) pentru experiența constând în participarea la 4 contracte a
+persoanei propuse, se acordă 3 puncte;
+e) pentru experiența constând în participarea la 5 contracte a
+persoanei propuse, se acordă 4 puncte;
+f) pentru experiența constând în participarea la 6 contracte a
+persoanei propuse, se acordă 5 puncte;
+g) pentru experiența constând în participarea la 7 sau mai multe
+contracte a persoanei propuse, se acordă 6 puncte;
+2.7 Experiența specifică – Expert elaborare harti GIS
+a. cerință minimă
+Calificări: Studii superioare absolvite cu diploma de licenta/master
+in domeniile stiintele naturii / biologie / ecologie / stiintele mediului /
+agronomie / horticultura / zootehnie / piscicultura / economia mediului /
+geodezie / geologie / silvicultura / ingineria mediului / geografie sau
+domenii inrudite.
+Experiența specifică: Specialistul trebuie să fi fost implicat în
+calitate de expert elaborare harti GIS sau similar în cel puțin un
+proiect/contract similar (intocmire hărți tip GIS sau similar)
+b. cerința dorită ce extinde cerința minimă și reprezintă referința
+pentru aplicarea factorului de evaluare (punctajul):
+Experiența specifică: Specialistul trebuie să fi fost implicat în
+calitate de expert intocmire harti GIS sau similar în două sau mai multe
+proiecte/ contracte similare (întocmire hărți tip GIS sau similar).
+6% Punctaj maxim factor: 6
+Algoritm de calcul: a) pentru experiența constând în participarea la
+1 contract a persoanei propuse, nu se acordă puncte;
+b) pentru experiența constând în participarea la 2 contracte a
+persoanei propuse, se acordă 1 punct;
+c) pentru experiența constând în participarea la 3 contracte a
+persoanei propuse, se acordă 2 puncte;
+d) pentru experiența constând în participarea la 4 contracte a
+persoanei propuse, se acordă 3 puncte;
+e) pentru experiența constând în participarea la 5 contracte a
+persoanei propuse, se acordă 4 puncte;
+f) pentru experiența constând în participarea la 6 contracte a
+persoanei propuse, se acordă 5 puncte;
+g) pentru experiența constând în participarea la 7 sau mai multe
+contracte a persoanei propuse, se acordă 6 puncte;
+2.8 Experiența specifică - Expert baza de date GIS
+a. cerință minimă
+Calificări: Studii superioare absolvite cu diploma de licenta/master
+in domeniile stiintele naturii / biologie / ecologie / stiintele mediului /
+agronomie / horticultura / zootehnie / piscicultura / economia mediului /
+geodezie / geologie / silvicultura / ingineria mediului / geografie sau
+domenii inrudite.
+Pagina 15 din 24
+
+Experiența specifică: Specialistul trebuie să fi fost implicat în
+calitate de expert baze de date GIS sau similar în cel puțin un
+proiect/contract similar (intocmire baze de date pentru hărți tip GIS sau
+similar)
+b. cerința dorită ce extinde cerința minimă și reprezintă referința
+pentru aplicarea factorului de evaluare (punctajul):
+Experiența specifică: Specialistul trebuie să fi fost implicat în
+calitate de expert baze de date GIS sau similar în două sau mai multe
+proiecte/ contracte similare (întocmire baze de date pentru hărți tip GIS
+sau similar).
+6% Punctaj maxim factor: 6
+Algoritm de calcul: 
+a) pentru experiența constând în participarea la 1 contract a
+persoanei propuse, nu se acordă puncte;
+b) pentru experiența constând în participarea la 2 contracte a
+persoanei propuse, se acordă 1 punct;
+c) pentru experiența constând în participarea la 3 contracte a
+persoanei propuse, se acordă 2 puncte;
+d) pentru experiența constând în participarea la 4 contracte a
+persoanei propuse, se acordă 3 puncte;
+e) pentru experiența constând în participarea la 5 contracte a
+persoanei propuse, se acordă 4 puncte;
+f) pentru experiența constând în participarea la 6 contracte a
+persoanei propuse, se acordă 5 puncte;
+g) pentru experiența constând în participarea la 7 sau mai multe
+contracte a persoanei propuse, se acordă 6 puncte;
+2.9 Experiența specifică - Expert SEA 
+a. cerință minimă
+Calificări: Studii superioare absolvite cu diploma de licenta/master
+in domeniile stiintele naturii / biologie / ecologie / stiintele mediului /
+agronomie / horticultura / zootehnie / piscicultura / economia mediului /
+geodezie / geologie / silvicultura / ingineria mediului / geografie sau
+domenii inrudite. 
+Experiența specifică: Specialistul trebuie să fi fost implicat în
+calitate de expert SEA sau similar în cel puțin un proiect/contract similar
+(întocmire studii de mediu, planuri, programe aferente ariilor protejate,
+etc.)
+b. cerința dorită ce extinde cerința minimă și reprezintă referința
+pentru aplicarea factorului de evaluare (punctajul):
+Experiența specifică: Specialistul trebuie să fi fost implicat în
+calitate de expert SEA sau similar în două sau mai multe proiecte/
+contracte similare (întocmire studii de mediu, planuri, programe aferente
+ariilor protejate, etc.).
+6% Punctaj maxim factor: 6
+Algoritm de calcul: 
+Pagina 16 din 24
+
+a) pentru experiența constând în participarea la 1 contract a
+persoanei propuse, nu se acordă puncte;
+b) pentru experiența constând în participarea la 2 contracte a
+persoanei propuse, se acordă 1 punct;
+c) pentru experiența constând în participarea la 3 contracte a
+persoanei propuse, se acordă 2 puncte;
+d) pentru experiența constând în participarea la 4 contracte a
+persoanei propuse, se acordă 3 puncte;
+e) pentru experiența constând în participarea la 5 contracte a
+persoanei propuse, se acordă 4 puncte;
+f) pentru experiența constând în participarea la 6 contracte a
+persoanei propuse, se acordă 5 puncte;
+g) pentru experiența constând în participarea la 7 sau mai multe
+contracte a persoanei propuse, se acordă 6 puncte;
+2.10 Experiența specifică - Expert elaborare plan de management
+a. cerință minimă
+Calificări: Studii superioare absolvite cu diploma de licenta/master
+in domeniile stiintele naturii / biologie / ecologie / stiintele mediului /
+agronomie / horticultura / zootehnie / piscicultura / economia mediului /
+geodezie / geologie / silvicultura / ingineria mediului / geografie sau
+domenii inrudite. 
+Experiența specifică: Specialistul trebuie să fi fost implicat în
+calitate de expert elaborare plan de management sau similar în cel puțin
+un proiect/contract similar (elaborarea de planuri de management
+pentru arii naturale protejate/implementarea masurilor din planurile de
+management elaborate/inventariere, cartare, monitorizare specii,
+întocmire studii de mediu, programe aferente ariilor protejate, etc.)
+b. cerința dorită ce extinde cerința minimă și reprezintă referința
+pentru aplicarea factorului de evaluare punctajul):
+Experiența specifică: Specialistul trebuie să fi fost implicat în
+calitate de expert elaborare plan de management sau similar în 2 sau
+mai multe proiecte/ contracte similare.
+6% Punctaj maxim factor: 6
+Algoritm de calcul: 
+a) pentru experiența constând în participarea la 1 contract a
+persoanei propuse, nu se acordă puncte;
+b) pentru experiența constând în participarea la 2 contracte a
+persoanei propuse, se acordă 1 punct;
+c) pentru experiența constând în participarea la 3 contracte a
+persoanei propuse, se acordă 2 puncte;
+d) pentru experiența constând în participarea la 4 contracte a
+persoanei propuse, se acordă 3 puncte;
+e) pentru experiența constând în participarea la 5 contracte a
+persoanei propuse, se acordă 4 puncte;
+Pagina 17 din 24
+
+f) pentru experiența constând în participarea la 6 contracte a
+persoanei propuse, se acordă 5 puncte;
+g) pentru experiența constând în participarea la 7 sau mai multe
+contracte a persoanei propuse, se acordă 6 puncte;
+Punctaj maxim total: 100”.
+Conform prevederilor art. 9 din HG nr. 395/2016: ”(2) Strategia de
+contractare este un document al fiecărei proceduri de achiziţie publică cu
+o valoare estimată egală sau mai mare decât pragurile valorice stabilite
+la art. 7 alin. (5) din Lege, iniţiată de autoritatea contractantă; (3) Prin
+intermediul strategiei de contractare se documentează deciziile din etapa
+de planificare/pregătire a achiziţiei în legătură cu: (...); f) justificările
+privind alegerea procedurii de atribuire în situaţiile prevăzute la art.
+69 alin. (2) - (5) din Lege şi, după caz, decizia de a reduce termenele în
+condiţiile legii, decizia de a nu utiliza împărţirea pe loturi, criteriile de
+calificare privind capacitatea şi, după caz, criteriile de selecţie, criteriul
+de atribuire şi factorii de evaluare utilizaţi”. 
+În acest sens, Consiliul a constatat că, în cadrul Strategiei de
+contractare nr. 4901/27.05.2021, document depus la dosarul cauzei de
+autoritatea contractantă, ORAŞUL AMARA, a precizat la punctul III.D.
+Alegerea și justificarea criteriului de atribuire și, după caz, a
+factorilor de evaluare, (pag. 36 – 45), următoarele:
+”Alegerea și justificarea alegerii ponderilor factorilor de evaluare și
+a algoritmului specific de calcul – Stabilirea factorilor de evaluare s-a
+efectuat cu respectarea prevederilor art. 32 din HG 395/2016: (...).
+Astfel, având în vedere prevederile legale menționate, autoritatea
+contractantă va utiliza ca factori de evaluare tehnică, experiența
+specifică a personalului desemnat pentru a efectua activitățile
+contractului (experți cheie), fără a folosi experiența personalului
+desemnat pentru a efectua activitățile contractului, ca parte a procesului
+de calificare și selecție în cadrul procedurii de atribuire a respectivului
+contract.
+(...)
+Justificare Factori de evaluare – F2 – Componenta tehnică – 60%
+(...)
+Cerințele minime stabilite pentru fiecare dintre cei 10 experți cheie
+au avut în vedere selectarea acelor ofertanți care dispun de personal
+instruit cu experiență profesională în prestarea activităților specifice
+obligatorii și necesare pentru gestionarea unui proiect de o asemenea
+anvergură.
+(...)
+O premisă foarte importantă pentru prestarea serviciilor care fac
+obiectul contractului ce se dorește a fi atribuit, este aceea de a asigura
+obținerea unor resurse umane cu un grad cât mai ridicat de specializare,
+ceea ce este în acord cu prevederile legislației în vigoare. În acest sens
+autoritatea contractantă a optat pentru solicitarea unei experiențe
+Pagina 18 din 24
+
+profesionale specifice relevante, exprimată prin numărul de contracte
+similare la care a participat anterior specialistul. Având în vedere
+specificul serviciilor ce urmează a fi prestate, autoritatea contractantă
+consideră că fiecare expert cheie desemnat de operatorul economic ar
+trebui să dețină o experiență relevantă prin implicarea în cadrul unor
+contracte similare, în care să fi ocupat o poziție similară cu cea pentru
+care este propus în prezentul contract.
+ Autoritatea contractantă a solicitat experiența specifică a
+expertului cheie propus ca factor de evaluare pentru a se asigura că
+acesta deține cunoștințe de bază necesare și suficiente pentru asigurarea
+unor servicii de calitate, acest lucru fiind necesar pentru realizarea cu
+succes a contractului. 
+Experiența profesională specifică a experților cheie va aduce un
+plus de încredere că specialiștii respectivi au lucrat în condiții similare
+contractului, s-u confruntat cu probleme diferite, știu să rezolve
+probleme diverse ce se pot ivi și astfel pot să ducă la bun sfârșit sarcinile
+ce le revin.
+În vederea stabilirii unor factori de evaluare proporționali cu
+importanța expertului cheie în cadrul contractului, s-au avut în vedere
+următoarele:
+- fiecare expert cheie va asigura practic desfășurarea unei sau a
+mai multor activități ale contractului, excepție fiind șeful de proiect, care
+va realiza coordonarea celorlalți experți.
+- activitatea desfășurată de fiecare expert cheie în cadrul
+contractului are o pondere valorică similară (proporționalitate) în cadrul
+contractului de servicii, iar importanța experienței profesionale similare a
+fiecăruia dintre cei 10 experți cheie a fost asimilată unui procent de circa
+6% din activitățile contractului.
+(...)
+Pentru a demonstra experiența profesională pe care o deține,
+autoritatea contractantă a considerat că este necesar ca fiecare expert
+cheie să facă dovada că au participat, pe un post similar cu cel în care
+este propus, într-un număr de cel puțin 1 proiect/contract (sau mai
+multe pentru acordarea de punctaj), din care să rezulte că are
+cunoștințe în domeniul de specialitate similar cu cele ce fac obiectul
+prezentei proceduri de achiziție publică.
+Pentru factorul de evaluare «Componenta tehnică», respectiv
+pentru experiența profesională specifică relevantă a experților cheie
+desemnați, s-a ales un punctaj maxim proporțional cu importanța
+activităților desfășurate în cadrul contractului (60 puncte din 100
+posibile), care va fi acordat pentru experiența în implicarea fiecăruia
+dintre cei 10 experți cheie personal într-un număr de 2 sau mai multe
+contracte, întrucât experiența specialistului este extrem de importantă în
+realizarea serviciilor contractului. 
+Pagina 19 din 24
+
+La stabilirea numărului de contracte solicitate pentru demonstrarea
+experienței s-a avut în vedere faptul că o persoană care participă la cât
+mai multe contracte de tipul celor ce urmează a se realiza deține
+experiența necesară realizării cu succes a problemelor care vor interveni
+pe parcursul execuției contractului. O persoană care nu a fost implicată
+în asemenea contracte nu deține experiența necesară pentru rezolvarea
+problemelor ce vor apărea pe parcursul celor 13 luni de prestare a
+serviciilor.” 
+De asemenea, în cuprinsul Caietului de sarcini, la pag. 30, 31,
+autoritatea contractantă a precizat:
+”8. Resursele necesare/expertiza necesară pentru realizarea
+activităților în Contract și obținerea rezultatelor – 8.1 Numărul de experți
+pe categorie de expertiză necesară:
+Experți cheie
+1. Lider de echipă – 1
+2. Coordonator experți ornitologi - 1 
+3. Coordonator experți impact antropic – 1
+4. Coordonator experți măsuri de conservare – 1
+5. Coordonator experți elaborare hărți GIS – 1
+6. Coordonator experți baze de date GIS – 1
+7. Expert elaborare hărți GIS – 1
+8. Expert baze de date GIS – 1
+9. Expert SEA – 1
+10. Expert Elaborare Plan de management – 1
+Experți non-cheie
+1. Experți ornitologi – 25
+2. Expert măsuri conservare – 1
+3. Expert mediu abiotic – 1
+4. Experți ihtiologi-bază trofică – 2
+5. Experți specii invazive – 1
+6. Expert nevertebrate acvative-bază trofică – 1
+7. Expert mamifere – 1
+8. Expert calitate apă – 1
+9. Expert economia mediului – 1
+10.Expert impact antropic - 1
+11. Expert jurist – 1
+12. Expert inginer agronom – 1
+13. Expert vânătoare pescuit – 1”.
+Având în vedere aspectele reținute din cuprinsul documentației de
+atribuire, mai sus prezentate, Consiliul constată că susținerile
+contestatoarei potrivit cărora: ”Operatorilor economici le este imposibil
+să înțeleagă care sunt cerințele minime pentru expertul – cheie Lider de
+Echipă”, sunt neîntemeiate.
+Astfel, în cadrul documentației de atribuire, nu numai, pentru
+Expertul cheie în discuție, dar și pentru toți cei evidențiați în cadrul
+Pagina 20 din 24
+
+Factorilor de evaluare – F2 – Componenta tehnică - 10 experți cheie,
+autoritatea contractantă a precizat: 
+”a. cerință minimă
+(...)
+Experiența specifică: Specialistul trebuie să fi fost implicat în
+calitate de lider de echipa/coordonator/manager/șef proiect sau similar
+în cel puțin un proiect/contract similar (...);
+b. cerința dorită ce extinde cerința minimă și reprezintă referința
+pentru aplicarea factorului de evaluare (punctajul):
+Experiența specifică: Specialistul trebuie să fi fost implicat în
+calitate de lider de echipa/coordonator/manager/șef proiect sau similar
+în 2 sau mai multe proiecte/contracte similare (...)”. Or, din exprimarea
+utilizată de autoritatea contractantă nu se poate înțelege decât, faptul că
+există o cerință minimă, a cărei îndeplinire asigură admisibilitatea
+ofertei, dar și una ce extinde cerința minimă și reprezintă referința
+pentru aplicarea factorului de evaluare (punctajul), și a cărei îndeplinire
+asigură obținerea unui punctaj, mai mare sau, mai mic, conform
+prevederilor documentației de atribuire. Nu există nicio ambiguitate în
+exprimarea cerințelor privind experiența specifică a experților cheie
+utilizați ca factori de evaluare, motiv pentru care criticile comune tuturor
+acestor factori, vor fi respinse, ca neîntemeiate, aceasta fiind valabilă
+pentru toți cei 10 experți cheie prezentați în cadrul Componentei tehnice
+a factorilor de evaluare sus menționați.
+Referitor la susținerile contestatoarei, potrivit cărora: ”cerințele
+privitoare la experți sunt disproporționate și restrâng în mod artificial
+concurența”, cu referire la cerința de ofertare a ”nu mai puțin de 4
+experți GIS”, Consiliul constată că sunt neîntemeiate. 
+Indiferent de modul de organizare internă a acestei activități
+(serviciu) în cadrul unui operator economic, nevoile autorității
+contractante primează, cu atât mai mult cu cât, trebuie avut în vedere și
+complexitatea obiectului contractului ce urmează a fi atribuit, așa cum
+este detaliat acesta la pct. II.1.4 Descrierea succinta a contractului
+sau a achizitiei/achizitiilor, din fișa de date a achiziției, mai sus
+prezentat: Prestatorul va asigura Servicii pentru realizarea studiilor
+suport, a hărților necesare și a planului de management în cadrul
+proiectului POIM 2014-2020 ”Managementul biodiversității prin
+realizarea planului de management al ariei naturale protejate ...”,
+SMIS ..., constând în întocmirea Planului de management al ariei
+protejate și a studiilor aferente, acesta cuprinzând un număr de opt
+activități de la A1 la A8, cu livrabilele corespunzătoare fiecărui tip de
+activitate. Faptul că aria natural protejată ... are o suprafață de 162
+hectare, cum susține contestatoarea, nu are nicio relevanță, raportat la
+obiectul contractului ce trebuie realizat/executat. Referirile acesteia la
+alte proceduri de atribuire nu pot fi luate în considerare, fiecare din
+Pagina 21 din 24
+
+acestea având la bază propria documentație de atribuire și propriile
+cerințe.
+Privitor la susținerile contestatoarei potrivit cărora: ”este
+disproporționată și lipsită de relevanță însăși cerința ca unii dintre
+experții cheie să aibă experiența în coordonarea de echipe de experți”,
+Consiliul constată că sunt neîntemeiate. Astfel, este de reținut, că cerința
+criticată, pentru toți cei 4 experți cheie menționați: 
+”3. Coordonator experți impact antropic – 1
+4. Coordonator experți măsuri de conservare – 1
+5. Coordonator experți elaborare hărți GIS – 1
+6. Coordonator experți baze de date GIS – 1”, privind:
+ ”3. Experiența specifică: Specialistul trebuie să fi fost implicat în
+calitate de coordonarea expertilor pentru impact antropic sau similar în
+două sau mai multe proiecte/contracte similare (întocmire studii de
+mediu, planuri, programe aferente ariilor protejate, etc.).
+ (...)
+4. Experiența specifică: Specialistul trebuie să fi fost implicat în
+coordonarea elaborarii masurilor de conservare sau similar în două sau
+mai multe proiecte/ contracte similare (întocmire studii de mediu,
+planuri, programe aferente ariilor protejate, etc.). 
+(...)
+5. Experiența specifică: Specialistul trebuie să fi fost implicat în
+calitate de coordonator experti elaborare harti GIS sau similar în două
+sau mai multe proiecte/ contracte similare (intocmire hărți tip GIS sau
+similar).
+(...)
+6. Experiența specifică: Specialistul trebuie să fi fost implicat în
+calitate de coordonator experti baze de date GIS sau similar în două
+sau mai multe proiecte/ contracte similare (întocmire baze de date
+pentru hărți tip GIS sau similar)”. Or, prin utilizarea sintagmei ”sau
+similar”, autoritatea contractantă, nu a impus prezentarea unei
+experiențe specifice pentru acești experți, dobândită, exclusiv, pe poziția
+de ”coordonator” de echipă de experți, cum în mod eronat, a susținut
+contestatoarea.
+ În ce privește susținerea potrivit căreia: ”cerința referitoare la
+faptul că ofertanții, pentru dovedirea experienței similare, trebuie să
+justifice cu indicarea numărului de ore și de zile de activitate”, este
+nelegală, Consiliul constată că este neîntemeiată. În acest sens, este de
+reținut că în cuprinsul ”Instrucțiunilor pentru ofertanți”, la pag. 30, este
+menționat că:
+”La completarea DUAE (răspuns), în scopul aplicării criteriilor de
+calificare, următoarele indicații trebuie luate în considerare:
+i. Câmpul «Descriere» trebuie:
+a. să includă cel puțin referința la obiectul contractului și
+caracteristicile ce corespund demonstrării îndeplinirii cerinței minime:
+Pagina 22 din 24
+
+tipurile de servicii, cantitatea de servicii (număr ore, zile etc.),
+caracteristicile fiecărui tip de servicii prestate etc. (...)”. 
+Din exprimarea folosită de autoritatea contractantă se înțelege că
+enumerarea este exemplificativă și nu limitativă cum susține
+contestatoare, aspect reținut și de ORAŞUL ..., în punctul său de vedere
+la contestație, motiv pentru care și această critică va fi respinsă. De
+altfel, contabilizarea numărului de ore fiind specifică acestui tip de
+contract de servicii intelectuale.
+Având în vedere aspectele de fapt şi de drept mai sus prezentate,
+în temeiul art. 26 alin. (6) din Legea nr. 101/2016, pentru considerentele
+evocate în motivare, Consiliul va respinge, ca nefondată contestația
+formulată de către ... SRL, în contradictoriu cu autoritatea contractantă
+ORAŞUL .... 
+Prezenta decizie este obligatorie pentru părți, în conformitate cu
+dispozițiile art. 28 alin. (1) din Legea nr. 101/2016 și poate fi atacată cu
+plângere, în temeiul art. 29 din același act normativ.
+Pentru cele constatate,
+în baza legii și a mijloacelor de probă aflate la dosar,
+CONSILIUL DECIDE:
+Respinge, ca nefondată, contestația formulată de către ... SRL, cu
+sediul în municipiul ..., în contradictoriu cu ORAŞUL ..., cu sediul în
+localitatea ..., în calitate de autoritate contractantă.
+Obligatorie.
+Împotriva prezentei decizii, se poate formula plângere, în termen
+de 10 zile de la comunicare, în conformitate cu dispozițiile art. 29 din
+Legea nr. 101/2016.
+ Președinte, Membru, Membru,
+ ... ... ... 
+ ... ... ...
+ 
+ 
+ Redactat practicaua deciziei,
+ ...
+Pagina 23 din 24
+
+ 
+Redactată în 4 (patru) exemplare originale, conține ... pagini.
+Pagina 24 din 24

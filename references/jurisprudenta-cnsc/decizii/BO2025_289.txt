@@ -1,0 +1,2818 @@
+DECIZIE CNSC BO2025_289 — text integral (anonimizat de CNSC la publicare; raționament/considerente complete).
+Citeaz-o prin BO2025_289.
+
+În conformitate cu prevederile art. 14 alin. (2) și ale art. 27
+alin. (1) din Legea nr. 101/2016 privind remediile și căile de atac
+în materie de atribuire a contractelor de achiziție publică, a
+contractelor sectoriale și a contractelor de concesiune de lucrări
+și concesiune de servicii, precum și pentru organizarea și
+funcționarea Consiliului Național de Soluționare a Contestațiilor,
+Consiliul adoptă următoarea
+DECIZIE
+Nr. ...
+Prin contestația datată 29.12.2024, înregistrată la Consiliul Național
+de Soluționare a Contestațiilor cu nr. ..., depusă de ... SRL, cu sediul
+în .., înregistrată la Registrul Comerțului sub nr. .., având CUI ..,
+reprezentată legal prin administrator ., cu sediul procesual ales la .,
+privind procedura de licitație deschisă, organizată în vederea atribuirii
+contractului având ca obiect .., cod CPV 90611000-3 Servicii de curățenie
+stradală (Rev.2), de ..., cu sediul în ..., .., în calitate de autoritate
+contractantă, contestatoarea a solicitat:
+-suspendarea procedurii de atribuire până la soluționarea
+contestației;
+-pe fondul contestației, în principal, admiterea contestației și
+anularea procedurii;
+-în subsidiar, admiterea contestației și obligarea autorității
+contractante la adoptarea măsurilor de remediere ce se impun. 
+Prin Încheierea nr. ..., Consiliul a admis cererea de suspendare a
+procedurii, formulată de ... SRL.
+CONSILIUL NAȚIONAL DE SOLUȚIONARE A CONTESTAȚIILOR,
+asupra cauzei de față, constată următoarele:
+Consiliul a fost legal sesizat și este competent, potrivit dispozițiilor
+art. 12 alin. (1) din Legea nr. 101/2016, să soluționeze contestația de
+față, prin care ... SRL critică unele prevederi ale documentației de
+atribuire, solicitând cele precizate în partea introductivă a deciziei.
+Cu privire la fondul contestației - în principal, contestatoarea
+solicită anularea procedurii.
+Astfel, arată potrivit prevederilor art. 26 alin. (2) lit. a) din Legea
+nr. 101/2016, Consiliul are obligația de a anula actele ce fac parte din
+documentația de atribuire, afectate de elemente de nelegalitate ori
+netemeinicie și, în cazul în care remedierea actelor anulate ori a
+neregulilor constatate nu mai este posibilă, în temeiul art. 26 alin. (2) lit.
+c) din Legea nr. 101/2016, Consiliul are obligația de a anula procedura
+de atribuire.
+Pagina 1 din 58
+
+Acest din urmă text de lege vine în completarea prevederilor art.
+89 alin. (1) lit. c) și d) din Legea nr. 100/2016, în sensul că anularea
+procedurii se dispune atunci când (1) încălcări ale prevederilor legale
+afectează procedura de atribuire, și acestea nu pot fi corectate fără
+încălcarea principiilor concesiunilor sau (2) atunci când Consiliul dispune
+modificarea unor specificații tehnice din cadrul documentației de
+atribuire, însă nu se mai pot adopta măsuri de remediere în acest sens,
+fără încălcarea principiilor concesiunilor.
+În speță, sunt îndeplinite condițiile de anulare a procedurii, pentru
+motivele detaliate în continuare. 
+A. S-a recurs în mod gresit la atribuirea unei concesiuni, desi
+natura contractului este de achiziție publică
+Contestatoarea menționează că CJUE a stabilit două criterii
+esențiale în funcție de care se determină natura unui contract ca fiind de
+concesiune ori de achiziție, respectiv:
+i.Dacă contrapartida serviciilor este plătită direct de autoritatea
+contractantă, contractul este unul de achiziție, în caz contrar este de
+concesiune - criteriul principal.
+ii.Dacă riscul semnificativ de operare este suportat de
+autoritatea contractantă, contractul este de achiziție, în caz contrar
+contractul este de concesiune - criteriul secundar.
+În continuare, arăta că ambele criterii, astfel cum se pot analiza
+raportat la conținutul documentației de atribuire, fac ca natura
+contractului să fie de contract de achiziție, nu de concesiune, cum în mod
+fundamental greșit a stabilit autoritatea contractantă.
+Întrucât studiul de oportunitate este greșit și întrucât întreaga
+documentație de atribuire vizează un contract de concesiune, petenta
+consideră că aceste acte se impun a fi anulate și refăcute, cu consecința
+anulării procedurii de atribuire.
+(i) Contraprestația serviciilor este plătită de autoritatea
+contractantă - contractul este de achiziție de servicii, nu de concesiune
+Autoarea contestației reiterează elementul de distincție dintre un
+contract de achiziție și unul de concesiune, reținut CJUE, prin Hotărârea
+pronunțată în cauza C-348/10, par. 41.
+Conform art. 13 alin. (1) din Proiectul Contractului „Plata se va efectua
+în baza unei facturi emisă de către delegat în formă electronică, în format pdf. Factura se va
+comunica delegatarului prin mijloace electronice e-mail, de pe adresa de email securizată si
+comunicată în mod oficial."
+Prin urmare, în speță, contractul are natura unuia de servicii, nu de
+concesiune, întrucât echivalentul financiar al serviciilor ce face obiectul
+contractului este plătit direct de autoritatea contractantă prestatorului de
+servicii.
+(ii) Riscurile contractului avute în vedere în determinarea naturii
+contractului au fost alocate operatorului nu pentru că acesta ar fi cel mai
+apt să le gestioneze, ci pentru ca procedura să fie de concesionare
+Pagina 2 din 58
+
+Contestatoarea precizează că acest lucru se recunoaște expres prin
+studiul de oportunitate, unde se arată următoarele: 
+-pag. 47: „Astfel avantajul alegerii unei concesiuni îl constituie, în afară de
+evitarea dificultăților generate de identificarea unor surse de finanțare, și neasumarea de către
+autoritatea contractantă a unor riscuri ulterioare realizării investiției."
+-pag. 47: „Față de cele prezentate anterior, varianta prin care serviciul este
+prevăzut a se realiza prin atribuirea unui contract de concesiune este mai avantajoasă în raport
+cu varianta prin care serviciul este prevăzut a se realiza prin atribuirea unui contract de
+achiziție publică."
+-pag. 54: „Prin delegarea serviciului de salubrizare al Municipiului ..., prin
+atribuirea unui contract de concesiune, concesionarul va prelua o parte semnificativă a riscului
+aferente exploatării."
+- pag. 61: „În urma analizei SWOT privind atribuirea serviciului public de salubrizare
+stradală și deszăpezire a Municipiului ..., considerăm oportună atribuirea serviciului public de
+salubrizare (...) în ... prin concesiune de servicii, pentru o perioadă de 8 ani, conform legislației
+privind achizițiile publice."
+Din cele citate rezultă, cât se poate de clar, că stabilirea
+contractului drept unul de concesiune s-a realizat pentru că așa a vrut
+autoritatea contractantă nu, cum impune legea, pentru că astfel a
+rezultat din analiza de risc. Acest mod de determinare a naturii
+contractului este contrară legii.
+Invocând prevederile art. 8 alin. (1) și (2) din Legea nr. 100/2016,
+autoarea contestației menționează că textele citate impun realizarea unei
+analize obiective și determinarea tipului de contract ce se atribuire pe
+baza constatării rezultatului analizei. Prin urmare, prin studiul de
+fundamentare se constată o stare de fapt, nu se ia o decizie. Or, în
+speță, cum rezultă din conținutul studiului de oportunitate, autoritatea
+contractantă a decis ca contractul să fie de concesiune și în funcție de
+asta a realizat repartiția riscurilor către operator.
+În susținerea celor de mai sus, contestatoarea invocă prevederile
+art. 14 alin. (1) și (2) din HG nr. 867/2016 unde se arată că:
+Cum a arătat deja, studiul de oportunitate nu cuprinde nicio analiză
+economico-financiară. Neexistând nicio analiză, în stabilirea contractului
+drept concesiune, autoritatea contractantă a lăsat neaplicate prevederile
+relevante, citate și referite mai sus, din Legea nr. 100/2016 și din Anexa
+la HG nr. 867/2016.
+Consecința este că, deși în baza criteriului principal, cel al plății
+directe a serviciului de către autoritatea contractantă, contractul are
+natura unei achiziții publice, în speță Legea nr. 98/2016 nu a fost
+aplicată.
+Totodată, consecința practică a atribuirii contratului prin aplicarea
+greșită a Legii nr. 100/2016, este impunerea forțată către operator a
+unor riscuri care nu țin de el și asumarea corelativă a unor sarcini
+nejustificate, fapt ce generează riscul de nesustenabilitate a execuției
+contractului, pentru operator.
+Pentru toate aceste motive, petenta consideră că studiul de
+fundamentare este nelegal și netemeinic sub aspectul analizei de
+Pagina 3 din 58
+
+determinare a tipului de contract licitat, precum și sub aspectul
+identificării și alocării de către autoritatea contractantă a riscurilor, în
+special a celui de operare, fapt pentru care se impune anulat. Ca o
+consecință a anulării studiului de fundamentare, se impune anularea
+procedurii de atribuire, a cărei întreagă construcție are la bază studiul de
+fundamentare greșit realizat.
+B. Studiul de fundamentare a contractului este nemotivat. Nu s-a
+dovedit fiabilitatea economico-financiară a contractului licitat. Valoarea
+estimată a contractului este nejustificată.
+(iii) Studiul de fundamentare nu dovedește că proiectul este
+realizabil
+Invocând prevederile art. 16 alin. (1) din HG nr. 867/2016, art. 29
+alin. (2) din Legea nr. 51/2006 și art. 15 lit. a) din HG nr. 867/2016,
+petenta precizează că, raportat la prevederile legale citate, autoritatea
+contractantă are obligația de a realiza studiul de fundamentare în care
+trebuie să identifice categoriile esențiale de cheltuieli și să le estimeze
+prin mijloace obiective, astfel încât să se poată verifica matematic că din
+veniturile estimate pot fi acoperite costurile estimate și că astfel proiectul
+este realizabil.
+Cum se poate observa din studiul de fundamentare al procedurii,
+autoritatea contractantă nu a făcut asta, în studiu neexistând nicio
+analiză economico-financiară. Neexistând nicio analiză a veniturilor și
+cheltuielilor preconizate, autoritatea contractantă a lăsat neaplicate
+prevederile relevante, citate și referite mai sus, din Legea nr. 100/2016
+și din Anexa la HG nr. 867/2016.
+Efectul este că studiul de fundamentare nu respectă legea pentru
+că nu s-a făcut estimarea a veniturilor, nu s-a realizat o estimare a
+costurilor și nu s-a făcut o analiză de eficiență a costurilor, fapt pentru
+care nu s-a realizat obiectivul studiului de fundamentare, de a se dovedi
+că proiectul este realizabil, adică a faptului că veniturile estimate sunt
+apte să acopere costurile estimate.
+Totodată, contestatoarea precizează că, din cauza acestei deficiențe
+a studiului de fundamentare, nu există o bază reală, nici pentru
+determinarea valorii estimate a contractului, nici pentru stabilirea duratei
+contractului la 8 ani, toate impunând, conform legii, o fundamentare
+economico-financiară realizată pe baze obiective, care în speță, lipsește.
+Acest lucru este cu atât mai grav cu cât în speță se atribuire
+serviciul de salubrizare, care este un serviciu de utilitate publică, cu
+privire la care art. 3 lit. e) și j) din Legea nr. 101/2006 stabilesc că
+trebuie organizate astfel încât să se asigure continuitatea și securitatea
+serviciului, care în speță, din cauza lipsei unei analize economico-
+financiare de cost efective, nu pot fi garantate.
+Pentru toate aceste motive, petenta apreciază că studiul de
+fundamentare este nelegal și netemeinic sub aspectul sustenabilității
+economico-financiare a contractului licitat, fapt pentru care se impune
+Pagina 4 din 58
+
+anulat. Ca o consecință a anulării studiului de fundamentare, se impune
+anularea procedurii de atribuire, a cărei întreagă construcție are la bază
+studiul de fundamentare greșit realizat.
+(iv) Valoarea estimată a contractului este nejustificată
+Întrucât prin studiul de oportunitate nu s-a făcut o analiză
+economico-financiară a contractului, contestatoarea precizează că nu are
+repere obiective pentru a verifica justificarea valorii estimate a
+contractului, însă poate susține fără dubiu că aceasta este
+supraestimată. Acest lucru întrucât, în prezent, este operatorul
+serviciului în aria delegării și, valoarea totală a serviciilor prestate de
+societatea sa în ultimii 8 ani nu se apropie nici pe departe de valoarea de
+aprox. 400.000.000 lei, estimată în prezent, încasările societățile sale în
+toți acești 8 ani fiind de doar 76.000.000 lei. Situația anuală a încasărilor,
+constituie anexă la contestație, aceasta putând fi confirmată și de
+evidențele interne ale autorității contractante.
+În consecință, pentru că studiul de oportunitate nu conține o
+determinare obiectivă a valorii estimate a contractului și întrucât
+valoarea estimată a contractului este evident supradimensionată,
+autoarea contestației consideră că procedura este nelegală.
+În măsura în care autoritatea contractantă a realizat intern un
+calcul obiectiv al valorii estimate a contractului, contestatoarea
+precizează că, pe de o parte, acesta trebuia publicat ca parte a
+documentației de atribuire și, pe de altă parte, acesta este în mod vădit
+greșit, la o medie istorică anuală de sub 10.000.000 lei a serviciului, nu
+se poate obiectiv justifica o valoare anuală estimată în această procedură
+de 50.000.000 lei. Dacă autoritatea contractantă, urmare a contestației,
+face dovada existenței unui calcul obiectiv a valorii estimate a
+contractului, societatea sa, în baza acestuia, urmează a detalia punctual
+motivele pentru care respectivul calcul este eronat.
+Pentru aceste motive, contestatoarea solicită anularea procedurii,
+pentru ca autoritatea contractantă să refacă corect studiul de
+oportunitate, să calculeze transparent și/sau corect valoarea estimată a
+contractului și elementele pe care, prin documentația de atribuire,
+autoritatea contractantă le-a legat de valoarea estimată a contractului
+(garanția de participare și cea de bună execuție, nivelul experienței
+similare, nivelul bonității/resurselor reale negrevate de datorii pentru
+primele luni de contract, etc.).
+Cu privire la fondul procedurii - în subsidiar, contestatoarea solicită
+remedierea neregulilor ce afectează procedura
+A. Privitor la motivele invocate pentru anularea procedurii: Cerere
+subsidiară de remediere
+În ipoteza în care Consiliul nu va considera necesară anularea
+procedurii, cu privire la motivele invocate în susținerea cererii de
+anulare, contestatoarea solicită obligarea autorității contractante la
+adoptarea de remedieri care să înlăture motivele de nelegalitate indicate.
+Pagina 5 din 58
+
+În toate cazurile, autoritatea contractantă trebuie obligată inclusiv
+la aprobarea remedierilor la care este ținută în parcursul legal intern,
+respectiv refacerea studiului de fundamentare conform și aprobarea
+tuturor modificărilor rezultate prin Hotărâre a Consiliului local și
+publicarea în SEAP a modificărilor, pe bază de anunțuri de tip erată, cu
+respectarea prevederilor art. 53 din HG nr. 867/2016.
+B. Motive de nelegalitate a procedurii de atribuire ce impun
+remedieri
+(i) Cerința de calificare privind experiența similară este excesivă și
+are ca efect limitarea artificială a accesului și concurenței în procedură
+Autoarea contestației arată că, prin art. III. 1.3.a) din fișa de date,
+achizitoarea a instituit cu titlu de cerință de calificare următoarele:
+„Ofertantul și/sau, după caz, asociații (în cazul ofertelor comune), terțul susținător (în cazul
+susținerii), va/vor face dovada că au prestat în cadrul a maximum 3 contracte servicii similare
+celor descrise în caietul de sarcini, la nivelul ultimilor 3 ani, în valoare cumulată de minim
+200.000.000,00 lei fără TVA."
+În opinia petentei, valoarea instituită este una excesivă și nu are
+nicio justificare. Acest lucru rezultă cu și mai mare evidență dacă se
+observă veniturile încasate de societatea sa din prestarea serviciului (în
+aceeași arie a delegării și în aceleași condiții), în ultimii 8 ani, care se
+ridică la un total de doar 76 mil. lei.
+Invocând prevederile art. 75 alin. (1) lit. a) și b), art. 75 alin. (3)
+din Legea nr. 100/2016 și art. 30 alin. (1) lit. a) și b) din HG nr.
+867/2016, contestatoarea consideră că nivelul valoric al experienței
+similare, impus prin fișa de date, nu respectă cerințele legale ante citate.
+Susține acest lucru întrucât, conform celor arătate de autoritatea
+contractantă, valoarea anuală a contractului (la nivelul stabilit
+netransparent în prezent) este de aproximativ 50.000.000 lei, valoarea
+experienței similare solicitate fiind de 4 ori mai mare, respectiv de
+200.000.000 lei.
+Or, serviciile ce fac obiectul contractului licitat au caracter ciclic,
+anual. Salubrizarea stradală se realizează în primul an în sezonul cald și
+serviciile de deszăpezire se realizează în sezonul rece, în următorul sezon
+cald urmând a se reveni la serviciile de salubrizare stradală succesiunea
+continuând în acest mod pe toată durata de 8 ani a contractului.
+În consecință, valoarea totală de aproximativ 400.000.000 lei a
+contractului, pe durata de 8 ani stabilită potestativ de autoritatea
+contractantă, se justifică exclusiv prin faptul că durata contractului a fost
+stabilită potestativ la 8 ani de autoritatea contractantă, fără ca această
+mare valoare să reflecte în vreun fel complexitatea ori amploarea
+contractului licitat.
+Indicatorul cu adevărat relevant este în realitate valoarea anuală a
+contractului, (în prezent stabilită netransparent la valoarea de
+50.000.000 lei, dar care din încasările istorice ale serviciului, semnificativ
+mai mică). În funcție de valoarea anuală se impune verificată capacitatea
+concesionarului de a executa contractul de concesiune, luând în
+Pagina 6 din 58
+
+considerare obiectul concesiunii de servicii, cu respectarea scopului de a
+asigura o concurență reală.
+Prin instituirea unei cerințe de calificare de multe ori mai mare
+decât valoarea anuală a contractului, nu se asigură o concurență reală ci,
+din contră, se limitează drastic accesul în procedură. Acest lucru se poate
+observa și prin raportare că perioada maximă pentru care se acceptă
+prezentarea experienței similare este de 3 ani, ani în care în România,
+spre exemplu, nu au fost ierni grele care să permită mai multor
+operatori, din toate zonele țării să acumuleze experiență în servicii de
+deszăpezire la nivelul valoric solicitat.
+În consecință, pentru a face procedura în mod realist competitivă,
+contestatoarea solicită:
+-obligarea autorității contractante la reducerea nivelul valoric al
+experienței similare la nivelul valorii estimate anuale a contractului și/sau
+-obligarea autorității contractante la luarea în considerare a
+serviciilor relevante prestate cu mai mult de 3 ani în urmă, astfel cum
+permite art. 35 alin. (2) lit. c), ultima teză din Anexa la HG nr. 867/2016.
+și/sau
+- obligarea autorității contractante la permiterea dovedirii
+experienței similare cu mai mult de 3 contracte anterioare.
+În susținerea necesității luării măsurilor solicitate, contestatoarea
+face trimitere și la prevederile art. 2 alin. (1) și (2) și art. 7 alin. (1) din
+Instrucțiunea ANAP nr. 2/2017 din 19 aprilie 2017 emisă în aplicarea
+prevederilor art. 178 și art. 179 lit. a) și b) din Legea nr. 98/2016 privind
+achizițiile publice, cu completările ulterioare, respectiv a prevederilor art.
+191 și art. 192 lit. a) și b) din Legea nr. 99/2016 privind achizițiile
+sectoriale care, pentru identiate de rațiune, se aplică mutatis mutandis și
+în cazul concesiunilor.
+ În consecință, petenta consideră cerința criticată nejustificată,
+aceasta neavând o motivare obiectivă care să o fundamenteze și care să
+explice de ce pentru activități ciclice anuale, estimate subiectiv, la
+valoarea de 50.000.000 lei, doar operatori economici ce demonstrează
+experiență similară de 200.000.000 lei au capacitatea de a duce la bun
+sfârșit contractul, în timp ce operatori economici ce au experiență exact
+la nivelul valorii anuale a contractului nu.
+Pentru toate aceste motive, solicită admiterea contestației și
+obligarea autorității contractante la modificarea cerinței în modul
+solicitat, pentru asigurarea unei concurențe reale și efective în cadrul
+acestei proceduri.
+(ii) Condiționarea prestării serviciilor de comanda/programul
+autorității contractante este nelegală
+Contractul licitat este unul comutativ, art. 1.173 cod civil definind
+un astfel de contract drept acela în care „la momentul încheierii sale,
+existența drepturilor și obligațiilor părților este certă, iar întinderea
+acestora este determinată sau determinabilă."
+Pagina 7 din 58
+
+Totodată, contractul nu este un acord cadru, care să dea naștere
+unor obligații condiționate de contracte subsecvente, prin art. 22 din
+Legea nr. 101/2016 fiind interzisă delegarea gestiunii serviciului de
+salubrizare prin acorduri-cadru. 
+Cu toate acestea, prin art. 9 alin. (4) din caietul de sarcini,
+autoritatea contractantă condiționează prestarea validă a serviciilor
+vizate de contract de comenzi ale autorității contractante, stabilind că
+„Autoritatea contractantă nu va recepționa serviciile efect...e parțial sau executate
+necorespunzător calitativ și nici serviciile executate în afara programului de lucru sau fără
+comandă emisă de Autoritatea Contractantă."
+În același sens, prin art. 9 alin. (2) din caietul de sarcini, se
+precizează că „Programele de lucru în cazul activităților de salubrizare stradală se vor
+întocmi lunar de către serviciul de specialitate al Autorității Contractante si va fi comunicat
+Prestatorului”.
+Punctual, prin pct. A.3, pag. 12 din caietul de sarcini, autoritatea
+contractantă face vorbire suplimentar despre comenzi ferme și în
+legătură cu activitatea de Măturat Manual.
+Clauzele prin care prestarea serviciilor este condiționată de
+comenzile autorității contractante, ori de programele de lucrări întocmite
+în executarea contractului de către autoritatea contractantă sunt nule
+absolut, fiind contrare principiilor prevăzute de art. 3 din Legea nr.
+101/2006.
+Mecanismul contravine clar și prevederilor art. 7 alin. (1) și (2) din
+Legea nr. 51/2006, pe care le citează.
+Or, cerințele cantitative și calitative ale utilizatorilor au fost
+identificate de autoritatea contractantă în faza pregătitoare a prezentei
+proceduri și au fost sintetizate cu titlu de cerințe minimale ale serviciului
+în specificațiile tehnice cuprinse în caietul de sarcini.
+În acest sens s-au impus cerințe minimale de resurse alocate
+serviciului (utilaje, echipamente și personal), frecvențe de lucru, cantități
+estimate de lucrări, identificarea cantitativă a ariei delegării (străzi,
+trotuare, etc.). În acest sens invocă prevederile art. 10 alin. (1) și alin.
+(2) din caietul de sarcini.
+În baza acestor din urmă elemente se cere emiterea de oferte,
+urmând ca în baza ofertei câștigătoare să se desemneze operatorul
+contractual care, în baza contractului astfel semnat, va avea dreptul și
+obligația de a presta serviciul în regim de continuitate, conform
+cantităților de lucrări și frecvențelor impuse prin caietul de sarcini și a
+programelor de lucrări asumate prin ofertă, în fiecare zi, timp de 8 ani,
+pe toată aria delegării.
+Doar astfel contractul este unul comutativ, doar astfel se justifică
+valoarea estimată a contractului, doar astfel se justifică cerințele privind
+necesarul de utilaje și personalul minim, impuse.
+Or, instituirea mecanismului comenzilor/programelor stabilite
+unilateral de autoritatea contractantă, contravine ireconciliabil
+principiului continuității, definit de lege ca exigență/cerință fundamentală
+Pagina 8 din 58
+
+a serviciului și deschide calea arbitrariului în ceea ce privește exercitarea
+de către operator a dreptului său de a presta serviciul câștigat și de a
+încasa contravaloarea facturilor aferente.
+Întrucât mecanismul comenzilor/programului unilateral de lucrări
+nu își are locul în contract, clauzele prin care este instituit contravenind
+normelor imperative de interes public ce instituie continuitatea calitativă
+și cantitativă a serviciului de salubrizare, acestea sunt nule,
+contestatoarea solicită obligarea autorității contractante la eliminarea din
+documentației contractuale a oricăror referințe la comenzi.
+(iii) Contestatoarea susține că documentația de atribuire impune
+nelegal ofertanților să dețină toate utilajele de la data ofertării,
+prezentând argumente în acest sens.
+(iv) Cu privinre la cerința cuprinsă în art. 12 alin. (1)2 din caietul
+de sarcini, contestatoarea o consideră abuzivă și nejustificată,
+prezentând argumente în acest sens.
+(v) În ceea ce privește suprafețele publice din aria delegării,
+autoritatea contractantă nu asigură o informare corectă, completă si
+explicită a operatorilor economici interesați de procedură
+Autoarea contestației arată că, prin caietul de sarcini, autoritatea
+contractantă nu indică suprafețele exacte ale străzilor vizate de serviciu,
+ci le publică în termeni incerți, astfel:
+Activitatea A.1. Măturat aspirat mecanic trotuare și carosabil, pag.
+11 din caietul de sarcini: „Măturatul mecanizat se efectuează pe
+următoarele suprafețe (toate suprafețele sunt estimate:(...)"
+- Activitatea A.2. Gestionarea deșeurilor colectate din coșurile
+stradale, pag. 11 din caietul de sarcini: „Activitatea se efectuează pe următoarele
+suprafețe (toate suprafețele sunt estimate), aproximativ 372.869.532 mp/an."
+- Activitatea A3. Măturat manual, pag. 13 din caietul de sarcini:
+„Măturatul manual se efectuează pe întreaga suprafață a domeniului public specificat în anexa
+A.2.1, toate suprafețele sunt estimate: (...)"
+- Activitatea A.5. Curățat manual rigole, pag. 14 din caietul de
+sarcini: „Activitatea de curățat manual rigola se efectuează pe următoarele suprafețe, toate
+suprafețe sunt estimate: (...)"
+Petenta consideră nelegală și nejustificată mențiunea privitoare la
+caracterul estimat/aproximativ al suprafețelor de lucru, întrucât este
+contrară prevederilor art. 71 alin. (1) din Legea nr. 100/2016.
+Mențiunea este nejustificată deoarece suprafețele în discuție
+vizează carosabil și trotuare, parte a domeniului public al municipiului
+Timișoara, care este cadastrat și intabulat, valorile suprafețelor fiind
+astfel certe, autoritatea contractantă neavând astfel nicio justificare
+pentru a nu transpune în documentația de atribuire informații corecte și
+precise privind suprafețele supuse salubrizării.
+În lipsa unor informații exacte se generează riscul incomparabilității
+ofertelor și se introduce în contract un risc de arbitrariu și abuziv,
+autoritatea contractantă putând reduce ori crește după bunul plac
+Pagina 9 din 58
+
+suprafețele pe care trebuie prestat serviciul, fără ca operatorul să poată
+să-i opună faptul că la ofertare pe alte suprafețe certe s-a agreat.
+(vi) Activitatea A.2 Gestionarea deșeurilor colectate din coșurile
+stradale este reglementată greșit prin caietul de sarcini
+i. Activitatea presupune în fapt „întreținerea curățeniei", activitate
+ce nu mai este în prezent reglementată de Legea nr. 101/2006
+Contestatoarea arată că potrivit art. 2 alin. (3) lit. f) din legea nr.
+101/2006, în forma în vigoare anterior OUG nr. 133/2022, prevedea
+printre activitățile componente ale serviciului de salubrizare și
+„întreținerea căilor publice", activitate care presupunea operațiuni de
+curățare manuală a carosabilului și trotuarelor, inclusiv golirea coșurilor
+stradale.
+Sub aspect tehnic, activitatea presupunea personal special alocat,
+echipamente și utilaje. Sub aspect financiar, toate aceste elemente erau
+prevăzute a fi incluse într-un tarif distinct.
+Urmare a intrării în vigoare a OUG nr. 133/2022, activitatea de
+întreținere a căilor publice a dispărut, colectarea depunerilor grosiere de
+deșeuri de pe carosabil și trotuare fiind inclusă în activitatea de măturat
+manual/mecanizat, ce include și golirea coșurilor stradale.
+Totodată, se instituie o normă de lucru de 15.000 mp/8h/om și se
+impune un număr de 859 intervenții pe an.
+Suplimentar, prin Anexa 2.1 a caietului de sarcini, pentru această
+activitate, autoritatea contractantă oferă Frecvență, număr de Schimburi,
+suprafețe de carosabil și trotuare, elemente necesare activității efective
+de gestionare a deșeurilor colectate din coșurile stradale, pentru care
+singurul element necesar este cantitatea estimată/an.
+În același sens, prin Anexa 2.4 a caietului de sarcini, unde
+activitatea A.2 poartă denumirea de ”Întreținere străzi" se cer 80 de
+muncitori, 3 șoferi și 7 șefi de echipa, precum și 3 autospeciale și un
+autoturism.
+Prin urmare, la această activitate se cer operațiuni complexe,
+dotare cu resurse umane semnificative și organizare vastă, în ciuda
+faptului că legea nu mai prevede această activitate ca parte din
+salubrizarea stradală.
+Pentru aceste motive, contestatoarea solicită obligarea autorității
+contractante la adaptarea documentației la prevederile legale în vigoare,
+cu consecința eliminării tuturor cerințelor acestei activități, care sunt
+nenecesare strict gestionării deșeurilor colectate din coșurile stradale.
+b. O serie de cerințe impuse de caietul de sarcini referitor la
+activitatea A.2 Gestionarea deșeurilor colectate din cosurile stradale nu
+sunt relevante pentru această activitate
+Contestatoarea arată că la pag. 11 din caietul de sarcini, referitor la
+această activitate, printre altele, se arată:
+Pagina 10 din 58
+
+i.„(...) constă în colectarea prin procedee manuale a depunerilor grosiere normale
+sau accidentale de pe suprafețele salubrizate - carosabil si trotuare și golirea coșurilor de gunoi
+stradale"
+ii.„prestația constă în efectuarea următoarelor operațiuni: d) curățat vegetația din
+trotuare si la limita lor".
+Aceste activități nu sunt specifice operațiunii de gestiune a
+deșeurilor rezultate din coșurile stradale, ci pot fi cel mult incluse în
+activitatea de măturat manual. Or, autoritatea contractantă, la pct. A.3
+Măturatul manual, chiar a inclus aceste operațiuni în activitatea de
+măturat manual, aspect ce se verifică la pag. 12 din caietul de sarcini.
+Prin includerea activităților de salubrizare a trotuarelor și
+carosabilului, atât în activitatea de golire a coșurilor stradale (A.2), cât și
+în activitatea de măturat manual (A.3), autoritatea contractantă și-a
+arogat implicit dreptul de a cere operatorului să presteze activitatea A.2,
+pentru întreținerea curățeniei pe străzi, deși tariful specific acesteia este
+relevant inferior activității A.3.
+În consecință, întrucât întreținerea curățeniei pe carosabil și
+trotuare și curățatul vegetației din trotuare și la limita lor sunt operațiuni
+specifice activității de măturat manual, petenta solicită eliminarea lor din
+activitatea A.2, de gestionare a deșeurilor colectate din coșurile stradale.
+Totodată, contestatoarea precizează că norma de lucru, numărul de
+intervenții săptămânale și totale, cerința de lucru în trei schimburi, toate
+de la pag. 12 din caietul de sarcini, precum și dotarea minimă cu
+personal din Anexa 2.4 a caietului de sarcini, toate sunt nenecesare și se
+impun eliminate ca cerințe pentru ofertanți, activitatea de gestiune a
+deșeurilor din coșurile stradale presupunând doar golirea coșurilor,
+încărcarea lor într-un utilaj de transport și transportul lor la stația de
+tratare/depozitare, și nimic mai mult.
+(vii) Cerințele de personal pentru activitatea de măturat manual
+sunt greșite. Cerințele de personal pentru celelalte activități vizate de
+contract sunt greșite
+Contestatoarea arată că, prin Anexa 2.4 a caietului de sarcini, la
+pct. A.3, se cere un număr de 65 de persoane pentru funcția de
+muncitori necalificați.
+La pag. 13 din caietul de sarcini se indică specificațiile tehnice ale
+activității de măturat manual astfel:
+i.Suprafața: 448.206 mp (349.335 mp. carosabil + 98.871 mp.
+trotuare)
+ii.Norma de lucru 10.000 mp/pers
+Împărțind suprafața la norma de lucru rezultă un total de 45 de
+persoane pentru funcția de muncitori necalificați. În consecință, pe baza
+propriilor date, cerința autorității contractante de a oferta și angaja
+minim 70 de persoane pentru funcția de muncitori necalificați pentru
+activitatea de măturat manual este nejustificată și impune costuri care
+majorează nejustificat tariful, contrar principiului tarifării echitabile,
+prevăzut de art. 3 lit. f) din Legea nr. 101/2006.
+Pagina 11 din 58
+
+Situația necesarului eronat de personal se regăsește și la celelalte
+activități vizate de contract, aspect ce rezult din împărțirea cantităților de
+lucrări, date prin caietul de sarcini, la norma de lucru dată tot prin caietul
+de sarcini. Din realizarea calculului rezultând în toate cazurile un necesar
+de personal mai mic decât cel impus prin Anexa 2.4 a caietului de
+sarcini.
+În consecință, consideră că se impune obligarea autorității
+contractante la refacerea necesarului de personal prin reducerea acestuia
+în funcție de rezultatul calculului aplicat asupra datelor de intrare impuse
+prin caietul de sarcini (suprafețe - cantități de lucrări/normă de lucru).
+(viii) Prin anexa 2.4 a caietului de sarcini se impune dotarea cu un
+număr semnificativ de utilaje, pentru activitatea de măturat manual
+Contestatoarea arată că în anexa 2.4, intitulată „Necesar minim
+personal si utilaje", pct. A.3, referitor la activitatea de Măturat manual
+carosabil și trotuare, autoritatea contractantă solicită:
+i.Aspiratoare stradale - 10 buc.
+ii.Măturători trotuare - 10 buc.
+Or, conform descrierii activității, de la pag. 12 din caietul de sarcini
+„Măturatul manual se face de personal angajat prin folosire uneltelor individuale (mături, perii
+din diferite materiale, lopată)."
+În aceste condiții, obligarea ofertanților să își asume 10 aspiratoare
+stradale + 10 măturători trotuare, pentru o activitate ce nu se realizează
+cu astfel de utilaje, ci cu mături și lopeți, nu are nicio justificare, impune
+un cost semnificativ operatorului cu consecința creșterii fără justificare a
+tarifului, toate reprezentând încălcări a principiului utilizării judicioase a
+banului public.
+Totodată, prin impunerea unor utilaje nenecesare, autoritatea
+contractantă limitează nejustificat concurența în procedură, eligibili
+pentru aceasta fiind doar operatorii economici care își permit costul total
+al utilajelor cerute, ori care le dețin deja.
+Pentru aceste motive, solicită eliminarea cerinței de dotare
+minimală criticată, impusă de autoritatea contractantă prin Anexa 2.4,
+pct. A.3 a caietului de sarcini.
+(ix) Necesarul de investiții, impus prin Anexa 2.4 a caietului de
+sarcini este nejustificat raportat la suprafețele de lucru și activitățile
+solicitate, atât în ceea ce privește activitatea de salubrizare stradală cât
+și în ceea ce privește activitatea de deszăpezire
+Raportat la cerințele concrete din caietul de sarcini pentru fiecare
+activitate în parte, petenta consideră că necesarul minim de utilaje
+impus de autoritatea contractantă nu este justificat, fiind mult
+supradimensionat, atât sub aspectul numărului cât și sub aspectul
+capacității fiecărui utilaj.
+Acest lucru rezultă cu evidență din datele de intrare (suprafețe,
+norme de lucru, etc.) date prin caietul de sarcini la fiecare activitate în
+parte, din care calculul necesarului total de utilaje nu corespunde și este
+Pagina 12 din 58
+
+inferior necesarului minim impus de autoritatea contractantă prin Anexa
+2.4 a caietului de sarcini.
+Acest lucru se poate observa și prin utilizarea breviarelor de calcul
+stabilire prin Ordinul ANRSC nr. 111/2007, privind aprobarea Caietului de
+sarcini-cadru al serviciului de salubrizare a localităților, unde legiuitorul a
+stabilit mecanismul de calcul al necesarului de utilaje pentru fiecare
+activitate de salubritate în parte, în funcție de cerințele concrete ale
+respectivei activități (suprafețe, frecvențe, viteză de deplasare etc).
+Impunerea de utilaje nenecesare conduce la înăsprirea condițiilor
+de participare în procedură, fapt ce reduce concurența și impune
+supradimensionarea nenecesară a tarifelor.
+În aceste condiții, și pentru respectarea principiului „tarifării
+echitabile, corelată cu calitatea și cantitatea serviciului prestat",
+reglementat de art. 3 lit. f) din legea nr. 101/2006, solicită obligarea
+autorității contractante la eliminarea necesarului minim predeterminat, și
+impunerea ofertării necesarului de utilaje conform breviarelor de calcul
+prevăzute de Ordinul ANRSC nr. 111/2007.
+În subsidiar, solicită autorității contractante să reducă minimul
+necesar de utilaje, pentru a corespunde cu datele de intrare publicate
+prin caietul de sarcini la fiecare activitate în parte.
+(x) Utilizarea ca material antiderapant a sării pure, a nisipului ori a
+nisipului amestecat cu sare pură sunt nelegale
+La pag. 19 din caietul de sarcini, referitor la activitățile A.10 - A.13
+„Combaterea poleiului", autoritatea contractantă arată că aceasta se va
+realiza cu următoarele substanțe/materiale: 
+- „c) sare pură (NaCl), în stare solidă (...). 
+- d) amestec de sare și nisip (...)". 
+Totodată, prin art. 6 din caietul de sarcini, se arată că pentru
+această activitate se vor aplica următoarele tarife:
+- „(b) pentru activitatea de curățare și transport a zăpezii de pe căile publice și
+menținerea în funcțiune a acestora pe timp de polei sau de îngheț:
+■(iv) tarif combatere polei cu sare pură.
+■(vii) tarif combatere polei cu amestec de sare și nisip.
+Or, utilizarea în combaterea poleiului a sării pure, respectiv a sării
+amestecate cu nisip sunt interzise de lege și de regulamentul de
+salubrizare a Municipiului ..., astfel:
+i.Art. 67 alin. 4 din Anexa la Ordinul ANRSC nr. 82/2015,
+privind aprobarea Regulamentului- cadru al serviciului de salubrizare a
+localităților: „Utilizarea clorurii de sodiu fără ca aceasta să fie amestecată cu inhibitori de
+coroziune sau împreună cu nisip sau alte materiale care prin acțiunea de împrăștiere pot
+produce deteriorări prin acțiunea abrazivă ori prin lovire și/sau înfundare a canalizării stradale
+este interzisă."
+ii.Art. 67 alin. 4 din Regulamentul serviciului de salubrizare a
+Municipiului ..., adoptat prin ... 772/2024, care prevede identic, același
+lucru.
+În consecință, solicită obligarea autorității contractante la
+eliminarea opțiunii de utilizare a acestor substanțe/materiale de
+Pagina 13 din 58
+
+deszăpezire și refacerea corelativă a schemei de tarifare, în ceea ce
+privește combaterea poleiului cu aceste substanțe/materiale.
+(xi) Redevența de 97.000 lei/an, impusă prin fișa de date, nu are
+nicio justificare.
+Petenta arată că potrivit art. 29 alin. (8) lit. m) din Legea nr.
+51/2006 „la stabilirea nivelului redevenței, autoritatea publică locală va lua în considerare
+valoarea calculată similar amortizării pentru mijloacele fixe aflate în proprietate publică și puse
+la dispoziție operatorului odată cu încredințarea serviciului/activității de utilități publice și
+gradul de suportabilitate al populației. Nivelul redevenței se stabileste în mod transparent și
+nediscriminatoriu pentru toți potențialii operatori de servicii de utilități publice, utilizându-se
+aceeași metodologie de calcul”.
+În sens propriu, redevența nu are nicio justificare, nefiind justificată
+prin studiul de fundamentare, acesta neavând nicio secțiune de stabilire
+transparentă a redevenței solicitate.
+Pe de altă parte, redevența nu are nicio justificare întrucât, în
+cadrul acestei concesiuni, autoritatea contractantă nu pune la dispoziția
+operatorului niciun bun pe care să îl folosească în scopul prestării
+serviciului licitat.
+Prin Anexa 2.5 a caietului de sarcini, autoritatea contractantă indică
+drept bunuri de retur „12 sisteme de colectare a deșeurilor, alcătuite
+fiecare din câte 3 unități inteligente (...)". Aceste „sisteme de colectare a
+deșeurilor", sunt în fapt coșuri stradale de deșeuri, cu 3 unități fiecare,
+pentru colectarea selectivă a fracțiilor.
+Or, aceste coșuri stradale de deșeuri nu sunt bunuri folosite de
+operator în prestarea serviciului, ci sunt bunuri pe care operatorul
+trebuie să le golească de deșeuri, în cadrul activității A.2, adică bunuri cu
+privire la care trebuie prestat serviciul, nu cu care se prestează serviciul.
+Pentru toate aceste motive, și întrucât conform art. 29 alin. 7 din
+Legea nr. 98/2016, redevența se aplică unui contract de delegare a
+gestiunii doar „după caz", contestatoarea solicită eliminarea obligației de
+plată a redevenței, în speță nefiind cazul ca o redevență să fie impusă.
+(xii) Raportat la prevederile art. 3 alin. (1) din Propunerea de
+contract, contestatoarea susține că durata contractului este în realitate
+mai mică de 8 ani, prezentând argumente în acest sens.
+(xiii) Petenta susține că cerința cuprinsă în art. 22 alin. (1) lit. c)
+din Propunerea Contractului este imposibil de îndeplinit, prezentând
+argumente în acest sens.
+(xiv) Durata perioadei de mobilizare a fost stabilită la un nivel
+disproportional de mic față de vastele cerințe ale documentației de
+atribuire
+Contestatoarea arată că, potrivit art. 4 alin. 1 din Proiectul
+Contractului, Perioada de mobilizare are o durată de 90 de zile, în care
+Delegatul are obligația de a obține toate Autorizațiile necesare conform
+Legii și de a achiziționa cele peste 30 de utilaje impuse de documentația
+de atribuire. Ulterior finalizării perioadei de mobilizare, Delegatul are
+obligația să înceapă să presteze serviciul.
+Pagina 14 din 58
+
+În opinia petentei, durata perioadei de mobilizare este nelegală, pe
+baza a trei motive principale:
+a.Una dintre cele mai importante autorizații pe care Delegatul
+trebuie să o obțină în cursul perioadei de mobilizare, și fără de care nu
+are dreptul de a începe activitatea, este Autorizația de mediu. În
+condițiile în care conform art. 10, alin. 1 din Ordinul pentru aprobarea
+Procedurii de emitere a autorizației de mediu nr. 1798/2007, este de 90
+zile lucrătoare (aprox. 4 luni jumătate) de la depunerea unei
+documentații complete, apare ca evident faptul că perioada de mobilizare
+de 90 de zile (calendaristice), propusă de autoritatea contractantă, este
+insuficientă.
+b.Astfel cum deja a arătat, în perioada de mobilizare, pe lângă o
+suită de alte obligații, operatorul are obligația de a deține toate cele
+peste 30 de utilaje solicitate prin documentația de atribuire. Având în
+vedere numărul mare de utilaje și caracterul specializat al acestora,
+indiferent de diligențele asigurate de ofertanți, procurarea tuturor
+utilajelor în termenul actual de mobilizare, de 90 de zile este semnificativ
+afectată de riscul de nerealizare.
+Prin urmare, stabilirea unei perioade de mobilizare de doar 90 de
+zile calendaristice are ca efect punerea operatorului în imposibilitatea
+obținerii tuturor autorizațiilor necesare, iar mobilizarea într-un termen
+atât de scurt pune operatorul sub riscul de a nu putea procura în timp
+util toate utilajele impuse de autoritatea contractantă.
+Din experiență sa recentă în obținerea autorizațiilor impuse de
+lege, s-a demonstrat că durata emiterii efective a autorizației de mediu a
+fost în practică de până la 6 luni.
+Pentru aceste considerente, solicită obligarea autorității
+contractante la prelungirea perioadei de mobilizarea de la 90 de zile la
+180 de zile, durată care asigură mai degrabă proporționalitatea cu
+numărul mare și complex de obligații impuse operatorului în perioada de
+mobilizare și este mai aptă să asigure fezabilitatea fazei de început a
+contractului.
+(xv) Neconformitatea modului de reglementare a încetării
+contractului prin reziliere
+Petenta arată că potrivit art. 37 alin. (1) lit. a) din Modelul
+Contractului „Delegatarul are dreptul să rezilieze unilateral prezentul
+contract, în momentul survenirii oricăreia din următoarele evenimente
+(obligații încălcate) a) nerespectarea, de către delegat, a oricăreia dintre
+obligațiile contractuale, a celor asumate prin ofertă și/sau stabilite prin
+caietul de sarcini."
+Raportat la complexitatea contractului, complexitatea serviciului și
+la multitudinea obligațiilor mici și mari cuprinse în contractul licitat,
+consideră clauza abuzivă și contrară art. 1.551 cod civil, ce stabilește că
+„Creditorul nu are dreptul la rezoluțiune atunci când neexecutarea este
+de mică însemnătate.".
+Pagina 15 din 58
+
+Pe de altă parte, autoarea contestației menționează că, prin art. 38
+alin. 1 din Modelul contractului, se reglementează în condiții foarte
+stricte dreptul delegatului la reziliere, astfel „Delegatul va avea dreptul (dar nu și
+obligația) să rezilieze prezentul contract în caz de încălcare importantă, de către delegatar, a
+oricăreia din obligațiile asumate în baza prezentului contract, care are un efect negativ
+semnificativ asupra drepturilor sau obligațiilor sale, în baza prezentului contract."
+Astfel, pentru eliminarea arbitrariului, pentru conformarea la lege,
+pentru asigurarea unui echilibru între drepturile părților și pentru
+identitate de rațiune, solicită obligarea autorității contractante la
+reglementarea dreptului său de reziliere în aceleași condiții cu cele în
+care este reglementat dreptul delegatului la reziliere.
+Pentru toate motivele indicate prin prezenta, solicită anularea
+procedurii de atribuire, întrucât încălcări ale prevederilor legale afectează
+organizarea și desfășurarea acesteia.
+În subsidiar, solicită admiterea prezentei contestații și obligarea
+autorității contractante la adoptarea tuturor măsurilor de remediere ce
+se impun.
+Prin adresa nr. 933416/08.01.2025, înregistrată la Consiliu sub nr.
+715/09.01.2025, autoritatea contractantă a formulat punct de vedere cu
+privire la contestația depusă de ... SRL, solicitând:
+- respingerea cererii principale de anulare a procedurii ca fiind
+lipsită de obiect pentru măsurile de remediere pe care le ia după cum
+urmează și ca nefondată;
+- respingerea cererii subsidiare de luare a măsurilor de remediere a
+documentatiei de atribuire ca fiind lipsită de obiect și pe fond, ca fiind
+nelegală, cu mentinerea procedurii de atribuire în derulare în forma
+stabilită de autoritatea contractanta ca fiind temeinică și legală.
+Autoritatea menționează că în perioada consultării publice s-a
+înregistrat adresa nr. 871431/22.11.2024, prin care s-au formulat
+observații asupra documentației. Acestea au fost înaintate consultantului
+care a întocmit documentația, care a răspuns punctual prin adresa nr.
+873695/25.11.2024. În continuare, achizitoarea prezintă observațiile
+primite și aprecierile Serviciului Ecologic.
+B.Cu privire la anularea procedurii, achizitoarea consideră că nu
+sunt aplicabile prevederile invocate de contestatoare în conditiile în care
+procedura a fost initiată cu respectarea prevederilor legale aplicabile
+Astfel:
+1.Referitor la critica adusă de contestatoare privind atribuirea
+contractului prin concesiune, invocă prevederile legale și argumentele
+care au stat la baza stabilirii acesteia, respectiv: art. 5 lit. h), art. 6 alin.
+(1), alin. (2) alin. (3) lit. a)-c), art. 8 alin. (1) și alin. (2) din Legea nr.
+100/2016, cât și faptul că în cadrul studiului de oportunitate (pag. 40 –
+61) a fost realizată o analiză comparativă a celor două moduri de
+atribuire, și anume prin contract de achizitie publică versus concesiune,
+prin prezentarea avantajelor și dezavantajelor fiecărei modalități de
+Pagina 16 din 58
+
+atribuire, a riscurilor aferente fiecărei modalități, cât și cuantificarea
+financiară a acestora.
+Extragerea din studiul de oportunitate doar a unor paragrafe, fără a
+face o analiză a documentelor în integralitatea lor, și afirmațiile conform
+cărora „...stabilirea contractului drept unul de concesiune s-a realizat
+pentru că asa a vrut autoritatea contractantă nu, cum impune legea...” și
+că „...studiul de fundamentare este nelegal și netemeinic sub aspectul
+analizei de determinare a tipului de contract licitat...” sunt nefondate și,
+pe cale de consecință, solicită Consiliului să respingă critica
+contestatoarei privind anularea procedurii și alegerea modului de
+atribuire a contractului.
+2.În ceea ce priveste critica contestatoarei privind faptul că
+studiul de fundamentare este nemotivat, că nu s-a dovedit fiabilitatea
+economico – financiară a contractului licitat, că valoarea estimată a
+contractului este nejustificată, autoritatea contractantă face următoarele
+precizări:
+În ceea ce privește stabilirea duratei contractului au fost l...e în
+calcul prevederile: art. 16 alin. (2) din Legea nr. 100/2016, art. 49 alin.
+(3) din HG nr. 867/2016, art. 32 alin. (3) din Legea nr. 51/2006 a
+serviciilor comunitare de utilități publice, republicată cu modificările și
+completările ulterioare (aduse prin OUG nr. 58/2016), conform cărora
+“Durata contractelor de delegare a gestiunii este limitată. Pentru contractele de delegare a
+gestiunii a căror durată estimată este mai mare de 5 ani, aceasta se stabilește, după caz, în
+conformitate cu prevederile Legii nr. 98/2016, ale Legii nr. 99/2016 și ale Legii nr. 100/2016 și
+nu va depăși durata maximă necesară recuperării investițiilor prevăzute în sarcina
+operatorului/operatorului regional prin contractul de delegare.”.
+De asemenea arată că în Hotărârea nr. 246/2006 pentru aprobarea
+Strategiei pentru accelerarea dezvoltării serviciilor comunitare de utilități
+publice este reglementată situația ca autoritățile contractante, prin
+prevederile art. 3.6.2 Clauze contractuale, să stabilească durata
+contractelor de concesiune a serviciului ținând seama de nevoia
+operatorului de a-și dezvolta politicile și de a-și amortiza investițiile, dar
+și de necesitatea de a stimula operatorul să-și amelioreze performanțele
+pentru a obține reînnoirea contractului:
+“b) autoritățile administrației publice locale trebuie să definească durata contractelor de
+concesiune a serviciului ținând seama de nevoia operatorului de a-și dezvolta politicile și de a-
+și amortiza investițiile, dar și de necesitatea de a stimula operatorul să-și amelioreze
+performanțele pentru a obține reînnoirea contractului; ca regula generală, o durată de la zece
+la doua zeci de ani ar trebui sa răspundă exigențelor.”
+Referitor la valoarea estimată, achizitoarea susține că au fost
+respectate prevederile art. 12 alin. (1) și alin. (2) din Legea 100/2016,
+art. 16 alin. (1) din HG nr. 867/2016.
+Astfel, achizitoarea susține că autoarea contestației face simple
+afirmatii, fără a lua în considerare toate documentele care au stat la
+baza demarării procedurii de atribuire, respectiv a anexelor studiului de
+oportunitate, și anume a fișelor de fundamentare în care sunt detaliate
+atât modul de estimare al cantităților pentru fiecare activitate în parte
+Pagina 17 din 58
+
+solicitată prin documentația de atribuire, cât și resursele de natură
+umană și tehnică necesare realizării obiectului contractului.
+De asemenea, autoritatea contractantă precizează că la nivelul
+strategiei de contractare, document care nu este accesibil operatorilor
+economici, se regăsesc justificările atât privind durata contractului, cât și
+modul de determinare a valorii estimate și indicate documentele care au
+stat la baza determinării respectivelor valori.
+Mai mult, justificarea duratei de 8 ani a contractului de concesiune
+se regăsește și în studiul de oportunitate care a fost pus la dispoziția
+operatorilor economici.
+Autoritatea contractantă reiterează faptul că modalitatea de
+atribuire a contractului, durata acestuia și valoarea estimată a
+contractului, s-a realizat în conformitate cu prevederile legale în vigoare.
+Modul de determinare a valorii estimate se regăsește în anexele
+studiului de oportunitate, respectiv în cadrul fișelor de fundamentare
+pentru fiecare activitate în parte pentru care s-au l... în considerare
+cantitățile estimate pentru serviciile de salubrizare stradală și
+deszăpezire și costurile pe care le implică, pe baza suprafețelor,
+frecventelor, a numărului de utilaje, a consumurilor specifice, a
+echipamentelor propuse și a personalului propus pentru fiecare
+activitate. Astfel, prin Studiul de oportunitate s-au estimat cheltuielile și
+veniturile pe întreaga durata a proiectului, făcând estimări realiste
+situației Municipiului ..., aferente sectorului II.
+Valoarea estimată a contractului pentru primul an de operare a
+ținut cont de realitățile Municipiului ..., de creșterile salariale, de lipsa
+forței de muncă, de costurile cu carburantii, de costurile cu masinile și
+echipamentele de operare, de suprafețele și de frecvențele de operare.
+Valoarea estimată a contractului de 51.475.968 lei este corect
+realizată, orice operator se poate încadra în costuri și poate participa la
+procedură pentru a realiza toate cerințele tehnice specificate în
+documentație.
+De asemenea, contractul derulat în perioada 2017 – 2024 nu poate
+reprezenta un reper, fără a lua în calcul toate elementele necesare
+determinării valorii, respectiv cantitățile estimate în acest moment, toate
+tipurile de activități incluse în obiectul contractului, cât și evoluția pieței
+din ultimii ani.
+De exemplu, un cost foarte mare al prezentului contract este
+reprezentat de salarii; astfel, la data de 1 ianuarie 2025, salariul minim
+brut a crescut la suma de 4.050 lei, fiind de aproape 3 ori mai mare față
+de anul 2017.
+DataSalariu
+Iulie 20243.700 lei
+Octombrie 20233.300 lei
+1 ianuarie 20233.000 lei/4.000 lei construcții
+1 ianuarie 20222.550 lei
+Pagina 18 din 58
+
+1 ianuarie 20212.300 lei/2.350 (studii superioare)/3.000 lei
+(constructii)
+1 ianuarie 20202.230 lei/2.350 lei superioare
+1 ianuarie 20192.080 lei/2.350 (studii superioare)/3.000 lei
+(constructii)
+1 ianuarie 20181.900 lei
+1 februarie 20171.450 lei
+Având în vedere argumentele anterior menționate, autoritatea
+solicită respingerea acestei critici a operatorului economic.
+C.Referitor la motivele de nelegalitate ce impun remedieri
+1.Referitor la cerinta privind experienta similară solicitată ca
+fiind excesivă și care are ca efect limitarea artificială a accesului și
+concurenței în procedură, autoritatea arată că potrivit prevederilor art.
+75 alin. (1) lit. a) și b), alin. (3) din Legea nr. 100/2016, art. 28 alin. (2)
+din HG nr. 867/2016, art. 30 alin. (1) lit. a) și b) din HG nr. 867/2016,
+art. 35 alin. (1), alin. (2) lit. c) din HG nr. 867/2016, cerinta privind
+experienta similara, și anume: „Ofertantul și/sau, după caz, asociații (în cazul
+ofertelor comune), terțul susținător (în cazul susținerii), va/vor face dovada că au prestat în
+cadrul a maximum 3 contracte servicii similare celor descrise în caietul de sarcini, la nivelul
+ultimilor 3 ani, în valoare cumulată de minim 200.000.000,00 lei fără TVA. În cazul unei
+asocieri, se va prezenta un tabel centralizator cuprinzând experiența tuturor membrilor
+asocierii.” a fost stabilită și solicitată în cadrul documentației de atribuire în
+conformitate cu prevederile legale în vigoare.
+Astfel, valoarea experientei similare are legătură directă și este
+relevantă raportat la obiectul contractului, respectiv a fost stabilită prin
+raportare la valoarea estimată a procedurii, și anume 411.807.744 lei,
+fără TVA.
+Asa cum se poate constata, cuantumul experientei similare
+reprezinta mai putin de 50% din valoarea totală estimată a contractului.
+Interpretarea contestatoarei potrivit căreia cuantumul experientei
+similare trebuie stabilit prin raportare la valoarea anuală a contrcatului
+este complet eronată, în cadrul prevederilor legale, a instrucțiunilor, a
+punctelor de vedere emise de organismele care reglementează
+documeniul achizitiilor publice, neexistând o astfel de abordare.
+De alftel, toate referintele la prevederile Instructiunii 2/2017, emisă
+de ANAP, nu sunt relevante în prezenta procedură în conditiile în care
+documentul face referire la modul de aplicare a prevederilor art. 178 și
+art. 179 lit. a) și b) din Legea nr. 98/2016 privind achizițiile publice, cu
+completările ulterioare, respectiv a prevederilor art. 191 și art. 192 lit. a)
+și b) din Legea nr. 99/2016 privind achizițiile sectoriale, respectiv se
+referă la contractele de achiziție publică/de achiziție sectorială/acordului-
+cadru.
+Mai mult, chiar în Instructiunea 2/2017, și anume art. 3 alin. (3)
+este menționat că nivelul impus pentru experienta similară nu poate fi
+mai mare decât valoarea estimată a contractului, nu valoarea anuală.
+Pagina 19 din 58
+
+Prin solicitarea referitoare la dovedirea experienței similare,
+beneficiarul își poate forma convingerea că ofertantul are experiența
+necesară pentru a putea să asigure derularea în condiții optime a unui
+contract de aceeași amploare și având același specific cu cel vizat de
+obiectul achiziției. De asemenea, ofertantul își va dovedi astfel
+capabilitatea de a gestiona proiecte similare ca dimensiune financiară. 
+Având în vedere că pentru prestarea acestui serviciu există
+prevederi legale (Ordinul nr. 82/2015 art. 3, lit. d), art. 7 alin (4), art.
+13 alin (2), art.125 alin (1); Legea nr. 101/2006 republicată, art. 3,
+Ordinul nr. 111/2007 art. 34) care impun asigurarea continuității
+activității, indiferent de anotimp și condițiile meteo, precum și asigurarea
+îndeplinirii unor obiective anuale privind reciclarea și valorificarea
+deșeurilor, autoritatea contractantă consideră că potențialii ofertanți
+trebuie să poată demonstra că au capacitatea să asigure prestarea
+activităților care fac obiectul contractului.
+De asemenea, achizitoarea solicită Consiliului să constate că, în
+formularea cerinței, autoritatea contractantă a permis prezentarea unei
+experiente similare la nivelul a mai multor contracte, și anume maxim 3
+și prin raportare la ultimii 3 ani.
+În consecință, autoritatea solicită respingerea și acestei critici a
+contestatoarei ca fiind nefondată.
+2.Cu privire la conditionarea prestarii serviciilor de
+comandă/programul autorității contractante ca fiind nelegală
+Autoritatea solicită respingerea criticii referitoare la acest aspect,
+având în vedere că cerintele din caietul de sarcini sunt cerinte minimale
+pentru acoperirea cu servicii în regim continuu, pe întreaga perioada de
+derulare a contractului, însă pe parcursul derulării contractului pot exista
+ajustări sau modificări, conform legii.
+Mai mult, consideră că respectiva critică putea face obiectul unei
+solicitări de clarificări.
+De exemplu, precizează că există servicii sezoniere, care tin doar
+de sezonul rece, care se vor presta doar în urma comenzii autorității
+contractante. Totodată, în cadrul ofertei, ofertantii trebuie să
+întocmească memoriile justificative în care să-și asume cantitățile și
+prețurile pe care le consideră adecvate prezentului contract.
+3.Referitor la faptul ca documentatia impune nelegal ofertantilor
+să dețină toate utilajele la data ofertării
+În ceea ce priveste respectiva critica, autoritatea precizează că
+afirmatiile contestatoarei sunt complet eronate, în conditiile în care în
+caietul de sarcini, art. 12 alin. (4), apare mentionat:
+(4)Ofertanții vor furniza Achizitorului o listă detaliată cu echipamentele, utilajele,
+mijloacele de transport pe care intenționează să le folosească pe timpul prestării serviciilor
+ținând cont de cerințele minime prezentate în Caietul de sarcini. Ofertantul va face dovada că
+dispune de dotare tehnică minimă stabilită prin prezentul caiet de sarcini prezentând în cadrul
+ofertei documente justificative în acest sens (ex. talon de înscriere în circulație/ contract
+leasing/ contract comodat/ facturi fiscale/ contract de închiriere sau orice alte documente care
+Pagina 20 din 58
+
+atestă detinerea sau disponibilitatea asupra utilajelor, echipamentelor pe perioada implicării
+acestora în executia contractului).
+Intentia autorității contractante nu a fost de impune operatorilor
+economici deținerea la momentul ofertării a echipamentelor, utilajelor
+necesare și nici sanctionarea participării cu utilaje noi.
+Mai mult, achizitoarea consideră că respectiva critica putea face
+obiectul unei solicitări de clarificări.
+Astfel, pentru a veni în întâmpinarea operatorilor economici,
+autoritatea menționează că se va adopta o măsura de remediere a
+documentației de atribuire publicate, și anume se va publica o clarificare
+din oficiu automată, prin care se va modifica algoritmul de calcul al
+factorului de evaluare Nivel de asigurare a protectiei mediului - norme
+poluare autospeciale, după cum urmează:
+„Algoritm de calcul: Punctajul pentru factorul de evaluare: „Norma de poluare
+autospeciale”
+Numărul minim al autospecialelor este stabilit în caietul de sarcini pentru fiecare
+activitate.
+Punctajul acordat factorului de evaluare:
+a) Pentru o proportie de 60 - 80% de autospeciale de tip Hibrid sau Electric din numărul
+total de autospeciale propuse pentru derularea contractului se vor acorda 10 puncte;
+b) Pentru o proportie de peste 80% de autospeciale de tip Hibrid sau Electric din
+numărul total de autospeciale propuse pentru derularea contractului se va acorda punctaj
+maxim.
+În cazul în care autospecialele respectă standardul Euro 6 (standard minim solicitat
+conform caietului de sarcini) acestea vor fi declarate conforme, dar nu vor primi punctaj.
+Pentru demonstrarea încadrării în situațiile de mai sus, ofertantul va prezenta:
+- Lista autospecialelor
+- Documente care să ateste norma de poluare Euro 6 sau Hibrid/Electric: cartea de
+identitate a autovehiculului (CIV) și/ sau certificatul de înmatriculare cu inspecția tehnică
+efect...ă și/ sau fișelor tehnice ale utilajelor și/sau certificărilor producătorilor.”
+4.Referitor la cerinta cuprinsa la art. 12 alin. (12) din caietul de
+sarcini ca fiind abuzivă și nejustificată, ca și în cazul altor critici
+formulate, autoritatea menționează că respectiva critica putea face
+obiectul unei solicitări de clarificări, având în vedere că nu intenționează,
+în niciun fel, să includă conditii abuzive operatorilor economici.
+În acest sens, în cadrul măsurilor de remediere, se va renunta la
+art. 12 alin. (12) și se va mentine prevederea art. 17 alin. (5) din caietul
+de sarcini.
+5.În ceea ce priveste critica referitoare la faptul că nu se asigură
+o informare corectă, completă și explicită privind suprafetele publice din
+aria delegării, achizitoarea precizează că suprafetele calculate au tinut
+cont de frecvențe, număr interventii, lungimi, lățimi străzi, trotuare,
+suprafețe parcări. Suprafețele sunt calculate în mod corect, sunt certe și
+au fost justificate în documentația de atribuire și reprezintă situația
+actuală pentru zona vizată. 
+Astfel, ofertantii vor întocmi ofertele prin raportare la suprafețele
+publicate în cadrul documentatiei de atribuire.
+6.Referitor la critica privind Activitatea A.2 Gestionarea
+deseurilor colectate din cosurile stradale
+Pagina 21 din 58
+
+Având în vedere că respectiva critică putea face obiectul unei
+clarificări, achizitoarea susține că va publica următoarea măsură de
+remediere legată de activitatea A2, și anume se va elimina paragraful:
+”Activitatea se execută de regulă în zonele care în prealabil au fost salubrizate sau pe
+artere nemodernizate pe care nu sunt posibile operațiile de măturat manual sau mecanic.”
+În ceea ce priveste resursele alocate pentru această activitate,
+autoritatea precizează că detalierea și modul de calcul se regăsește în
+cadrul fișelor de fundamentare, pe baza cărora s-a întocmit studiul de
+oportunitate.
+Astfel, solicită respingerea criticii contestatoarei, având în vedere
+măsură de remediere adoptată.
+7.În ceea ce privește critica conform căreia Cerințele de
+personal pentru activitatea de măturat manual sunt greșite. Cerințele de
+personal pentru celelalte activități vizate de contract sunt greșite.
+Autoritatea menționează că raportat la suprafata totală care trebuie
+măturată manual, conform cerintelor documentatiei de atribuire, este de
+163.707.189 mp, cca 19.269.669 mp pe lună, 641.989 mp/zi, pentru
+realizarea activității este necesar 1 camion, 10 aspiratoare stradale, 10
+măturători trotuare, 5 utilaje mixte multifuncționale de 1,5 mc, precum
+și alte echipamente specific manuale. 
+În conditiile de mai sus, au fost determinate resursele necesare
+pentru realizarea respectivei activități și s-a calculat un număr de 65
+posturi pentru muncitori necalificați, număr care rezultă din fișele de
+fundamentare, pe baza cărora s-a întocmit studiul de oportunitate. 
+Autoritatea consideră critica nefondată și, pe cale de consecintă,
+solicită respingerea ei.
+8.Cu privire la critica privind Anexa 2.4. a caietului de sarcini –
+dotarea cu un număr semnificativ de utilaje pentru activitatea de
+măturat manual
+Autoritatea menționează că respectiva critică putea face obiectul
+unei solicitări de clarificări, având în vedere că nu intenționează în niciun
+fel să includă conditii abuzive și restrictive operatorilor economici, ci se
+raportează în mod obiectiv la activitățile ce trebuie realizate în viitorul
+contract și la resursele ce trebuie alocate pentru realizarea activităților.
+Pentru eficientizarea și modernizarea serviciului, pentru a evita la
+maxim răspândirea particulelor de praf rezultate din măturatul manual
+care se practică în prezent au fost propuse utilaje mixte multifuncționale,
+aspiratoare stradale și măturători trotuare în vederea îmbunătățirii
+calității mediului și a impactului asupra acestuia. 
+Astfel, se vor păstra și o parte din măturile și lopețile clasice,
+acestea venind în completarea dotărilor moderne propuse pentru
+realizarea acestei activități.
+În cadrul fișelor de fundamentare, anexe ale studiului de
+oportunitate, s-a realizat calculul resurselor necesare.
+Pagina 22 din 58
+
+Prin urmare, achizitoarea consideră nefondată critica, solicitând
+respingerea acesteia.
+ 9. Referitor la necesar de investitii din Anexa 2.4 ca fiind
+nejustificat raportat la suprafețele de lucru și activitățile solicitate, atât în
+ceea ce privește activitatea de salubrizare stradală, cât și în ceea ce
+privește activitatea de deszăpezire.
+Documentația de atribuire stabilește transparent suprafețele pentru
+fiecare activitate a serviciului de salubrizare, realizate conform
+breviarelor de calcul prevăzute în Ordinul ANRSC 111/2007.
+Suprafețele calculate au ținut cont de frecvențe, număr intervenții,
+lungimi, lățimi străzi, trotuare, suprafețe parcări. Suprafețele sunt
+calculate în mod corect, sunt certe și au fost justificate în documentația
+de atribuire. 
+Astfel, ofertanții vor întocmi ofertele prin raportare la suprafetele
+publicate în cadrul documentației de atribuire.
+Autoritatea contractantă susține că nu intenționează să
+restricționeze participarea operatorilor economici, ci își dorește realizarea
+în condiții optime a contractului ce urmează a fi atribuit, necesarul de
+investiții fiind calculat în cadrul fișelor de fundamentare în mod obiectiv
+și corect. Pe cale de consecință, solicită respingerea acestei critici.
+ 10. Cu privire la critica privind utilizarea ca material antiderapant
+a sării pure, a nisipului ori a nisipului amestecat cu sare pură ca fiind
+nelegal
+Achizitoarea susține că procedura de atribuire a fost întocmită cu
+respectarea prevederilor legale. Astfel, în studiul de oportunitate se
+specifică faptul că sarea pură (NaCl), în stare solidă (utilizarea sării este
+eficientă numai pentru temperaturi la suprafața carosabilului mai mari de
+-7°C) se poate aplica doar pe îmbrăcăminți etanșe și cu acordul
+administratorului drumului.
+În ceea ce privește combaterea poleiului cu amestec de sare și
+nisip, aceasta se va realiza pe străzi neasfaltate, se prevede o singură
+intervenție cu acest tip de material, dacă este necesar.
+Mai mult, respectiva critica putea face obiectul unei solicitări de
+clarificări, autoritatea contractantă urmând să clarifice acest aspect.
+Având în vedere cele menționate mai sus, autoritatea solicită
+respingerea criticii contestatoarei.
+11. Referitor la faptul ca redevența impusă prin fișa de date nu
+are nicio justificare
+Invocând prevederile art. 29 alin. (7) din Legea nr. 51/2006 și
+având în vedere că prin prezentul contract se concesionează și
+infrastructura aferentă activităților (unități inteligente pentru colectare
+selectivă), autoritatea menționează că a fost stabilită redevența prin care
+se asigură recuperarea investițiilor realizate. Nivelul redevenței a fost
+calculat în conformitate cu prevederile art. 29 alin. (11) lit. m) din Legea
+nr. 51/2006.
+Pagina 23 din 58
+
+12. În ceea ce privește critica privind faptul că durata contractului
+este în realitate mai mică de 8 ani
+Ca și în cazul altor critici formulate, achizitoarea precizează că
+respectiva critica putea face obiectul unei solicitări de clarificări.
+În acest sens, în cadrul măsurilor de remediere se va publica modul
+în care se va modifica art. 3 alin. (1) din cadrul draft-ului de contract,
+după cum urmează:
+(1)Durata prezentului contract de delegare este de 8 ani de la
+data finalizării perioadei de mobilizare și va expira în ultima zi din ultima
+lună a termenului de 8 ani.
+13. Referitor la cerința cuprinsă în art. 22 alin. (1) lit. c) din draft
+de contract
+Având în vedere că respectiva critică putea face obiectul unei
+solicitări de clarificări și că nu dorește includerea unor cerințe/clauze
+abuzive, autoritatea contractantă arată că va publica ca măsura de
+remediere reformularea art. 22 alin. (1), lit. c):
+„c)Asigurări pentru salariați, în cazul în care legislația în domeniul muncii va impune
+acest lucru”.
+Având în vedere că respectiva critică a rămas fără obiect, solicită
+Consiliului să o respingă.
+14. Cu privire la faptul că durata de mobilizare a fost stabilită la
+nivel disproporțional de mic față de vastele cerințe ale documentației de
+atribuire
+Având în vedere că respectiva critică putea face obiectul unei
+solicitări de clarificări și că nu dorește includerea unor cerințe/clauze
+abuzive, autoritatea contractantă menționează că va publica că măsură
+de remediere prin adăugarea unui aliniat la art. 4 din draft-ul de
+contract:
+(4) Părțile pot conveni, prin act adițional, prelungirea Perioadei de Mobilizare, în scris, la
+cererea motivată a Delegatului notificată Delegatarului cu cel puțin 10 (zece) Zile înainte de
+expirarea termenului de 90 de Zile de la Data Intrării în Vigoare și numai pentru motive care
+nu sunt imputabile Delegatului. Prelungirea se poate face o singură dată pentru cel mult 30
+(treizeci) de Zile.
+Astfel, achizitoarea consideră că prin introducerea clauzei de mai
+sus, critica contestatoarei va rămâne fără obiect, iar, pe cale de
+consecinta, solicită respingerea acesteia.
+15. În ceea ce priveste neconformitatea modului de reglementare
+a încetării contractului prin reziliere
+Având în vedere că cerințele caietului de sarcini sunt cerințe
+minime impuse oricărui operator economic care ar urma să participe la
+procedura de atribuire și pe care și le-ar asuma prin oferta depusă,
+achizitoarea consideră că respectiva clauză nu este abuzivă, ci asigură
+autoritatea contractantă că operatorul care va câștiga contractul își va
+respecta obligațiile contractuale conform ofertei depuse.
+Pagina 24 din 58
+
+Mai mult, articolele respective instituie un drept, nu o obligatie,
+fiind echitabile și proporționale ambelor părți, totodată având același
+scop: evitarea blocării îndeplinirii contractului.
+Având în vedere cele menționate mai sus, autoritatea solicită
+respingerea criticii contestatoarei ca nefondată.
+De asemenea, autoritatea contractantă solicită Consiliului să
+constate că mare parte dintre criticile aduse de contestatoare puteau
+face obiectul unor solicitări de clarificări, având în vedere măsurile de
+remediere pe care le-a adoptat.
+Având în vedere că prin contestația formulată și a criticilor, care
+reprezintă simple afirmații, operatorul economic doreste tergiversarea
+procedurii de atribuire, achizitoarea solicită respingerea contestatiei
+formulată de ...SRL.
+De asemenea, autoritatea contractantă precizează că documentatia
+de atribuire a fost supusă spre consultare publică, fiind postată pe site-ul
+său, iar în adresa transmisă de operatorul economic cu privire la
+documentația publicată nu au fost formulate obiecții legate de alegerea
+modalității de atribuire a contractului, de valoarea estimată nejustificată
+și de cerințele de calificare restrictive în ceea ce privește experiența
+similară, inclusiv cele privind factorul de evaluare de natura tehnică. 
+Față de aceste aspecte, solicită respingerea contestației depuse
+de ...SRL, împotriva documentației de atribuire.
+Prin adresa înregistrată la Consiliu sub nr. 3683/21.01.2025,
+contestatoarea a formulat concluzii scrise prin raportare la punctul de
+vedere al autorității contractante nr. 933416/08.01.2025, prin care
+solicită respingerea tuturor apărărilor autorității contractante, cu
+consecința admiterii contestației, astfel cum a fost formulată.
+I.Cu privire la anularea procedurii
+A.Aspecte generale
+Contestatoarea menționează că, prin punctul de vedere, se susține,
+în mod repetat, că studiul de fundamentare nu este parte a
+documentației de atribuire, fapt pentru care prevederile sale sunt
+definitive și obligatorii ca atare pentru toți operatorii economici interesați
+de procedură. În opinia petentei, această poziție este în mod evident
+greșită, invocând în acest sens prevederile art. 5 alin. (1) lit. b) din
+Legea nr. 100/2016.
+ În consecință, autoarea contestației menționează că studiul de
+fundamentare este un document al concesiunii, respectiv un act al
+autorității contractante adoptat în procedură și, ca atare se circumscrie
+definiției prevăzute de art. 1 lit. a) din Legea nr. 101/2016.
+Studiul de fundamentare, fiind un act al autorității contractante în
+legătură cu procedura de concesionare, poate fi atacat prin contestație,
+în condițiile art. 2 și ale art. 8 din Legea nr. 101/2016.
+B. Referitor la faptul că s-a recurs în mod gresit la atribuirea unei
+concesiuni, desi natura contractului este de achiziție publică
+Pagina 25 din 58
+
+Cu privire la apărările autorității contractante față de cererea de
+anulare a procedurii, contestatoarea solicită Consiliului să observe că
+apărarea principală este că „procedura a fost inițiată cu respectarea
+prevederilor legale aplicabile", însă nu se argumentează de ce, respectiv,
+nu se arată de ce aspectele de nelegalitate pe care societatea sa le
+justifică prin contestație ar fi neîntemeiate. În fapt, autoritatea
+contractantă se rezumă la susțineri subiective, nemotivate și nedovedite.
+Referitor la faptul că prin studiul de fundamentare se realizează o
+analiză comparativă a celor două modalități de atribuire a contractului -
+achiziție publică vs. concesiune – petenta susține că acest lucru nu a fost
+contestat. Ceea ce a contestat, cu titlu de motiv de anulare a procedurii,
+și ce nu a fost deloc combătut de autoritatea contractantă prin punctul
+de vedere formulat, este faptul că determinarea procedurii ce trebuie să
+se aplice nu s-a făcut pe baza criteriilor stabilite imperativ prin lege, ci
+pe baze subiective, în funcție de ce a considerat autoritatea contractantă
+că este mai rentabil pentru ea, lucru contrar prevederilor legale.
+Concret, contestatoarea susține că, în mod greșit, a ales
+autoritatea contractantă atribuirea unei concesiuni, deși conform
+criteriilor legale contractul este unul de achiziție publică, dovadă în acest
+sens fiind faptul că:
+- Din economia documentației de atribuire, contraprestația
+serviciilor este plătită de autoritatea contractantă - fapt ce face
+contractul unul de achiziție publică.
+- Riscurile contractului avute în vedere în determinarea naturii
+contractului au fost alocate operatorului nu pentru că acesta ar fi cel mai
+apt să le gestioneze, ci pentru ca procedura să fie de concesionare, acest
+tip de procedură fiind expres recunoscut prin studiul de fundamentare ca
+fiind mai rentabil pentru autoritatea contractantă.
+În opinia petentei, această abordare este nelegală, dovedind faptul
+că studiul de fundamentare nu a fost fundamentat conform legii,
+dovedind totodată faptul că decizia de atribuire a unei concesiuni a fost
+adoptată subiectiv, fără să se țină cont de niciuna din prevederile legale
+pe care susține autoritatea contractantă, inclusiv prin punctul de vedere
+formulat, că le-a respectat.
+C. Referitor la faptul că studiul de fundamentare a contractului este
+nemotivat, că nu s-a dovedit fiabilitatea economico-financiară a
+contractului licitat, respectiv că valoarea estimată a contractului este
+nejustificată.
+Contestatoarea menționează că autoritatea, prin punctul de vedere
+formulat, face trimitere la o serie de prevederi legale pe care susține că
+le-a avut în vedere, însă nu arată cum a respectat aceste cerințe legale
+în elaborarea fundamentării procedurii. Altfel spus, face simple afirmații,
+fără a le justifica.
+Se mai susține că justificările privind durata contractului și
+determinarea valorii estimate a contractului s-ar regăsi în strategia de
+Pagina 26 din 58
+
+contractare. Or, strategia de contractare nu este parte a documentației
+de atribuire și nu este actul prin care autoritatea contractantă trebuie să
+facă dovada fundamentării legale a concesiunii, acesta fiind studiul de
+fundamentare, act premergător strategiei de contractare.
+Prin urmare, existența justificărilor menționate de autoritatea
+contractantă în strategia de contractare nu invalidează criticile privind
+caracterul nemotivat al studiului ci, din contră, dovedește că inclusiv
+strategia de contractare este nelegală, neavând la baza fundamentarea
+elementelor sale, în condițiile prevăzute de lege.
+Punctual, contestatoarea următoarele precizări: 
+a.Critica sa că studiul de fundamentare nu dovedește că
+proiectul este realizabil nu a fost efectiv combătută, lipsind o estimare pe
+baze justificate a cheltuielilor, lipsind o analiză tehnico-economică și de
+eficiență a costurilor de operare, respectiv o analiză a caracterului
+realizabil a proiectului.
+b.Critica sa privind nefundamentarea valorii estimate a
+contractului nu a fost efectiv combătută, lipsind elementele de mai sus,
+lipsește fundamentul pentru determinarea obiectivă a valorii alese de
+autoritatea contractantă.
+În ceea ce privește poziția autorității contractante, conform căreia
+studiul de fundamentare nu ar putea fi contestat, autoarea contestației
+reiterează cele arătate la pct. I.A de mai sus.
+În ceea ce privește argumentul adoptării studiului de fundamentare
+prin ..., autoarea contestației solicită Consiliului să aibă în vedere că
+legea, prevăzând studiul de fundamentare ca document al achiziției,
+orice studiu de fundamentare al unei proceduri organizate de un ... fiind
+prevăzut de lege a fi adoptat prin ..., este evident faptul admisibilității
+unei contestații întemeiate pe legea nr. 101/2016 privitoare la studiul de
+fundamentare, legea nr. 101/2016 având caracter special față de legea
+nr. 554/2004, în materie de achiziții publice, CNSC fiind competent a
+analiza orice prevederi nelegale cuprinse în orice studiu de fundamentare
+al unei proceduri de concesionare.
+II. Cu privire la cererea subsidiară de remediere a neregulilor ce
+afectează procedura
+A. Referitor faptul că cerința de calificare privind experiența
+similară este excesivă și are ca efect limitarea artificială a accesului și
+concurenței în Procedură, contestatoarea menționează că, prin punctul
+de vedere formulat, autoritatea contractantă adoptă poziția, validă
+conform legii, că cerința privind experiența similară este necesară în
+procedură pentru ca beneficiarul să își poată forma convingerea că
+ofertantul are experiența necesară pentru a putea să asigure derularea
+în condiții optime a contractului.
+Un aspect ce se impune din start observat este că societatea sa a
+prestat exact acest serviciu exact pentru această autoritate contractantă
+timp de 8 ani, motiv pentru care ... are deja convingerea că are
+Pagina 27 din 58
+
+experiența necesară pentru a executa contractul licitat, deși, astfel cum
+rezultă din formularea acestei critici, nu are experiența similară la nivelul
+abuziv impus prin prezenta procedură.
+Trecând însă peste acest aspect, petenta arată că extrem de
+relevante în soluționarea criticii sunt prevederile art. 49 din HG nr.
+867/2016, art. 75 alin. (3) din Legea nr.100/2016, art. 30 alin. (1) lit. b)
+din HG nr. 867/2016.
+Or, petenta susține că, în speță, stabilirea nivelului experienței
+similare ce trebuie dovedit la 50% din valoarea totală a contractului
+încalcă toate aceste prevederi. 
+Astfel, arată că legea permite stabilirea unui criteriu de calificare
+privitor la experiența similară și impune și un nivel maxim ce se poate
+cere (50% din valoarea contractului), însă nu impune și unul minim. Tot
+sub aspectul maximului, legea instituie principiul evitării restricționării
+artificiale a concurenței și cel al asigurării unei concurențe reale care, în
+speță, pentru motivele expuse și prin contestație, impun autorității
+contractante, în baza principiului proporționalității, stabilirea unui plafon
+valoric mai mic, care să asigure atât dezideratul asigurării unei
+concurențe cât mai mari în procedură cât și pe cel al formării convingerii
+beneficiarului cu privire la capacitatea ofertantului.
+Contestatoarea reiterează faptul că serviciile ce fac obiectul
+contractului licitat au caracter ciclic, anual. Salubrizarea stradală se
+realizează în primul an în sezonul cald și serviciile de deszăpezire se
+realizează în sezonul rece, în următorul sezon cald urmând a se reveni la
+serviciile de salubrizare stradală succesiunea continuând în acest mod pe
+toată durata de 8 ani a contractului.
+În consecință, valoarea totală de aproximativ 400.000.000 lei a
+contractului, pe durata de 8 ani stabilită potestativ de autoritatea
+contractantă, se justifică exclusiv prin faptul că durata contractului a fost
+stabilită potestativ la 8 ani de autoritatea contractantă, fără ca această
+mare valoare să reflecte în vreun fel complexitatea ori amploarea
+contractului licitat.
+Indicatorul cu adevărat relevant este în realitate valoarea anuală a
+contractului, (în prezent stabilită netransparent la valoarea de
+50.000.000 lei, dar care din încasările istorice ale serviciului, semnificativ
+mai mică). În funcție de valoarea anuală se impune verificată capacitatea
+concesionarului de a executa contractul de concesiune, luând în
+considerare obiectul concesiunii de servicii, cu respectarea scopului de a
+asigura o concurență reală și de a nu restricționa artificial accesul la
+procedură.
+În consecință, pentru a face procedura în mod realist competitivă,
+contestatoarea precizează că își menține cererea din contestație, sens în
+care solicită:
+Pagina 28 din 58
+
+a.obligarea autorității contractante la reducerea nivelului valoric
+al experienței similare la nivelul valorii estimate anuale a contractului
+și/sau
+b.obligarea autorității contractante la luarea în considerare a
+serviciilor relevante prestate cu mai mult de 3 ani în urmă, astfel cum
+permite art. 35 alin. (2) lit. c), ultima teză din Anexa la HG nr.
+867/2016. și/sau
+c.obligarea autorității contractante la permiterea dovedirii
+experienței similare cu mai mult de 3 contracte anterioare.
+Ca un aspect suplimentar, care atestă faptul că nivelul excesiv al
+experienței similare impus în prezenta procedură nu are justificare,
+autoarea contestației face trimitere la condițiile de calificare în cadrul
+procedurii ce a stat la baza contractului încă în derulare unde, conform
+pct. 3 Anexa B a fișei de date (Anexa 1), valoarea estimată a lotului 2
+(aferent sectorului 2 ... - același ca și cel din prezenta procedură) a fost
+de 77.452.096,36 lei, în timp ce, conform pct. III.2. din fișa de date,
+nivelul experienței similare impus a fost 9.000.000 lei (valoarea anuală a
+contractului de 96 de luni fiind de 9.681.512,05 lei). Deci, pentru a
+asigura concurența în procedură, pentru contractul actual experiența
+similară a fost impusă de ... la nivelul valorii anuale a contractului.
+B. Referitor la nelegalitatea condiționării prestării serviciilor de
+comanda/programul autorității contractante
+Contestatoarea menționează că autoritatea, prin punctul de vedere
+formulat, nu prezintă niciun argument care să combată criticile sale.
+Punctual:
+a.Cerințele caietului de sarcini nu sunt exemplificative, acestea
+fiind elementele de bază în funcție de care ofertantul este obligat să
+asigure dotarea cu personal și resurse suficiente pentru acoperirea
+integrală a nevoilor de servicii rezultate din documentația de atribuire.
+Aceste cerințe transpun nevoia de servicii a autorității contractante,
+raportată la necesitatea de a asigura salubrizarea stradală și
+deszăpezirea în mod continuu pe tot parcursul unui an.
+b.În ceea ce privește serviciile sezoniere, conform
+documentației de atribuire, acestea se prestează de operator dacă
+condițiile de vreme o impun, nu dacă autoritatea contractantă vrea. Dacă
+afară ninge, operatorul are obligația ca din proprie inițiativă să intervină
+conform caietului de sarcini, chiar dacă autoritatea contractantă nu i-o
+cere.
+Prin urmare, clauzele prin care prestarea serviciului este
+condiționată de manifestarea de voință a autorității contractante sunt
+nelegale, intrând în contradicție vădită cu caracterul comutativ al
+contractului, cu principiul previzibilității obligațiilor debitorului contractual
+și cu principiul esențial al salubrizării, cel al continuității serviciului.
+Calificând această situație și prin prisma principiilor de drept ce
+stau la baza încheierii oricăror contracte se observă că, întrucât prestația
+Pagina 29 din 58
+
+operatorului este condiționată exclusiv de voința autorității contractante,
+contractul este afectat de nulitate relativă pentru lipsa obiectului
+determinabil, fapt suplimentar ce impune eliminarea clauzelor criticate.
+Petenta arată că, în practică, autoritatea contractantă se folosește
+de astfel de clauze pentru a sancționa/a disciplina neoficial operatorul ori
+pentru a-și regla bugetul de cheltuieli (prin aceea că, deși salubrizarea
+stradală trebuie realizată constant, primăria [localitate],
+activitățile prestate de operator fără comenzi fiind refuzate la plată).
+Astfel de clauze nu pot exista într-un contrat de salubrizare stradală,
+generarea deșeurilor fiind continuă și salubrizarea trebuie să fie
+continuă, acesta fiind și motivul pentru că legea actuală nu mai permite
+încheierea de Acorduri Cadru/contrate subsecvente de salubrizare.
+Astfel de clauze nu pot exista și din perspectiva necesității
+respectării prevederilor legale ce impun recuperarea de către operator a
+costurilor din tarife. La ofertare se cere dotarea cu personal, utilaje și
+alte resurse pentru a putea presta serviciile pentru toate cantitățile de
+lucrări din caietul de sarcini. Dacă se permite menținerea clauzelor
+criticate în contract, în executare operatorul nu are nicio garanție că va
+putea executa aceste cantități de lucrări, respectiv că își poate recupera
+costurile din munca sa efectivă din contract.
+Practic, efect al acestor clauze, la ofertare operatorul știe cât
+trebuie să cheltuiască pentru a îndeplini cerințele autorității contractante,
+dar nu știe cât va putea efectiv câștiga din acest contract.
+C. Referitor la critica privitoare la faptul că documentația de
+atribuire impune nelegal ofertanților să dețină toate utilajele de la data
+ofertării
+Autoarea contestației menționează că acceptă remedierea operată
+de autoritatea contractantă ulterior formulării contestației, prin care a
+fost modificată descrierea factorului de evaluare de la art. II.2.5 din fișa
+de date, în baza căreia se impune dovedirea deținerii utilajelor relevante
+pentru factorul de evaluare tehnic astfel: „Documente care să ateste norma de
+poluare Euro 6 sau Hibrid/Electric: cartea de identitate a autovehiculului (CIV) și/ sau
+certificatul de înmatriculare cu inspecția tehnică efect...ă si/ sau fiselor tehnice ale utilajelor
+si/sau certificărilor producătorilor.".
+D.Referitor la critica sa privind nelegalitatea cerinței cuprinse în
+art. 12 alin. (12) din caietul de sarcini, petenata menționează că acceptă
+remedierea operată de autoritatea contractantă ulterior formulării
+contestație, prin care a eliminat din caietul de sarcini art. 12 alin. 12.
+E.Referitor la critica privitoare la caracterul incert al suprafețele
+publice din aria delegării pentru care se cere prestarea serviciului.
+Contestatoarea arată, prin punctul de vedere formulat, autoritatea
+contractantă nu justifică de ce pentru toate suprafețele în discuție, prin
+documentația de atribuire se indică faptul că acestea sunt estimate. Fiind
+estimate nu sunt certe or, nefiind certe, informațiile publicate de
+autoritatea contractantă nu sunt precise, fiind astfel în contradicție cu
+Pagina 30 din 58
+
+obligația instituită de art. 71 alin. (1) din Legea nr. 100/2016. În
+consecință, își menține critica.
+F. Referitor la nelegalitatea modului de reglementare prin caietul
+de sarcini a activității A.2. Gestionarea deșeurilor colectate din coșurile
+stradale
+Petenta susține că achizitoarea, prin punctul de vedere formulat, nu
+combate efectiv nicio parte a criticii noastre. Această activitate nu ar
+trebui să existe în mod distinct în caietul de sarcini, nefiind prevăzută de
+lege ca activitate distinctă de salubrizare stradală.
+În consecință, solicită eliminarea acestei activități din cadrul
+contractului, operațiunile descrise sub titulatura acestei activități, în
+caietul de sarcini, făcând deja parte din alte activități ale contractului,
+respectiv în activitatea de măturat manual.
+De asemenea, reiterează faptul că, prin includerea acestei activități
+în obiectul contractului, pe lângă faptul că se cere o activitate intenționat
+eliminată din lege, se impune nejustificat dublarea necesarului de
+resurse (cu efectul creșterii cerințelor contractului și a valorii estimate a
+acestuia, cu efectul limitării artificiale a concurenței în procedură) și
+îngreunarea accesului la procedură, fără niciun beneficiu efectiv pentru
+autoritatea contractantă.
+Pentru aceste motive, solicită admiterea criticii sale, astfel cum a
+fost dezvoltată prin contestație.
+G. În ceea ce privește critica referitoare la caracterul eronat al
+cerințelor de personal privitoare la activitatea de măturat manual și la
+celelalte activități vizate de contract
+Contestatoarea susține că poziția autorității contractante din
+punctul de vedere, care abordează exclusiv situația activității de măturat
+manual, nu are niciun fundament.
+Conform cerințelor caietului de sarcini, pag.13, măturatul manual
+se efectuează pe suprafață de 448.206 mp pe zi (349.335 mp carosabil
++ 98.871 mp trotuare) și nu pe 641.889 mp pe zi, așa cum greșit
+susține autoritatea contractantă prin punctul de vedere.
+Măturatul manual se efectuează pe întreaga suprafață a domeniului
+public specificat în anexa A.2.1.
+CantitățiMăturat manual
+mp/zimp/săptămânămp/an
+Suprafață carosabil (mp)349,3352,445,346127,594,661
+Suprafață trotuare (mp)98,871692,09536,112,528
+Norma de lucru: maxim 10000 mp/8 ore/om. 
+Intervenții pe săptămână: între 1-5 
+Schimburi: I, II, III
+Se estimează o cantitate colectată de aproximativ 999 t/an, care
+este transportată și tratată la TMB din incinta CMID.
+În aceste condiții este evident că numărul de personal calculat este
+greșit: 448.206 mp/zi : 10.000 mp/8 ore = 44,8 (45 muncitori) în timp
+Pagina 31 din 58
+
+ce numărul de 65 de persoane solicitat de autoritatea contractantă are la
+bază suprafața greșită de 641.889 mp.
+În ceea ce privește activitatea de întreținere/golit coșuri stradale:
+i.suprafața maxima pe zi este de 1.020.861 mp
+ii.Norma de lucru este de 15.000 mp/zi/om
+iii.Necesar de personal calculat = 68 muncitori necalificați
+iv.Necesar de personal minim solicitat prin anexa 2.4 = 70
+muncitori necalificați (cu cel puțin 2 persoane solicitate în plus pentru o
+activitate oricum nedefinită din punct de vedere legal).
+H. Referitor la critica privind nelegalitatea cerinței de dotare cu
+utilaje pentru activitatea de măturat manual
+Contestatoarea susține că poziția autorității contractante, atât cea
+rezultată din cerințele caietului de sarcini cât și cea expusă prin punctul
+de vedere, este halucinantă.
+Astfel, petenta arată că, prin contract, sub aspectul operațiunilor de
+măturat, se cer 2 activități distincte, respectiv:
+a.Măturat manual și
+b.Măturat mecanizat
+Pentru fiecare din aceste 2 activități se solicită tarife diferite,
+fiecare care să reflecte cerințele concrete ale activității.
+Conform legislației și normativelor în vigoare, măturatul manual se
+realizează „manual". Conform Normativului unic republican pentru
+activitatea de salubrizare a localităților din 1973 (Anexa 2), încă în
+vigoare, pag. 5, echipamentele necesare activității de măturat manual
+sunt: a. Mătură de nuiele tip evantai cu coadă lungă; b. Răzuitoare; c.
+Făraș; d. Lopată; e. Tomberon; f. Mătură de sorg; g. Furcă.
+Dacă s-ar admite poziția autorității contractante, conform căreia
+sunt necesare utilaje mecanizate pentru activitatea de măturat manual,
+măturatul manual nu ar mai fi „manual", ci ar fi mecanizat, faptic,
+activitatea prestată fiind cea de măturat mecanizat, însă la tarif de
+măturat manual. Or, acest lucru este inadmisibil.
+Raportat la poziția autorității contractante din punctul de vedere,
+pentru eficientizarea și modernizarea serviciului și îmbunătățirii calității
+mediului și a impactului asupra acestuia, ceea ce trebuia să facă
+autoritatea contractantă era nu să impună utilaje în cadrul activității de
+măturat manual, ci să crească cantitatea activității de măturat manual.
+Abordarea nelegală asumată de autoritatea contractantă are efectul
+obligării operatorului la prestarea unei activități la tariful unei alte
+activități (măturat manual la tarif de măturat mecanizat) și, în plus, prin
+impunerea unor utilaje nenecesare, autoritate contractantă limitează
+nejustificat concurența în procedură, eligibili pentru aceasta fiind doar
+operatorii economici care își permit costul total al utilajelor cerute atât
+pentru activitatea de măturat manual cât și pentru cea de măturat
+mecanizat, ori care le dețin deja.
+Pagina 32 din 58
+
+Pentru aceste motive, solicită Consiliului să constate validă critica
+sa și să o admită în integralitate.
+I. Referitor la critica privitoare la caracterul nejustificat al
+necesarului de investiții impus prin Anexa 2.4 a caietului de sarcini
+Sub acest aspect, contestatoarea susține că autoritatea
+contractantă nu își justifică prin nimic poziția generică din punctul de
+vedere.
+Prin urmare, solicită Consiliului să constate întemeiată critica sa
+privitoare la dimensionarea eronată a numărului de autospeciale pentru
+măturat mecanizat, astfel:
+i.Cerința, conform anexei 2.4 a caietului de sarcini, este de a
+asigura:
+-3 buc autospeciale pentru măturat - mare
+-2 buc autospeciale pentru măturat - medie
+-1 buc autospecială pentru măturat - mică
+ii.Din analiza suprafețelor indicate în caietul de sarcini, pag 11 și
+Anexa 1.1 Măturat mecanizat rezultă următoarele:
+-Lungime străzi pentru maturat mecanizat 221.10 km
+-Viteza de lucru carosabil 12 km/h
+-Suprafață carosabil pe zi 319.267 mp/zi
+-suprafață trotuare pe zi 150.278 mp/zi
+-Viteza de lucru trotuare 7 km/h
+iii.Necesarul minim de utilaje este de 3 mari și 3 medii/mici în
+condițiile în care activitatea ar fi doar pe un schimb, or, conform cerinței
+de la pag.11 din caietul de sarcini, activitatea se desfășoară pe
+schimburi, caz în care trebuie indicată suprafața pe fiecare schimb
+pentru a determina necesarul maxim de utilaje luând în considerare
+schimbul cel mai încărcat.
+iv.Deci, fără a ține cont de faptul că activitatea se desfășoară pe
+schimburi, necesarul de utilaje este 3 mari și 3 medii/mici, însă întrucât
+activitatea este impusă pe schimburi, necesarul este în mod obligatoriu
+mai mic.
+J. În ceea ce privește nelegalitatea impunerii utilizării ca material
+antiderapant a sării pure, a nisipiului ori a nisipiului amestecat cu sare
+pură
+Autoarea contestației precizează că a arătat prin contestație că
+regulamentul cadru al serviciului de salubritate și regulamentul de
+salubritate al municipiului ... interzic ferm Utilizarea clorurii de sodiu fără
+ca aceasta să fie amestecată cu inhibitori de coroziune sau împreună cu
+nisip sau alte materiale care prin acțiunea de împrăștiere pot produce
+deteriorări prin acțiunea abrazivă ori prin lovire și/sau înfundare a
+canalizării stradale.
+Poziția autorității contractante din punctul de vedere formulat nu
+poate schimba cu nimic acest lucru în condițiile în care:
+Pagina 33 din 58
+
+a.art. 67 alin. (4) din Anexa la Ordinul ANRSC nr. 82/2015 nu
+face distincte cu privire la tipul suprafeței carosabilului în instituirea
+interdicției, sarea pură fiind interzisă indiferent că suprafața carosabilului
+este etanșă ori nu;
+b.art. 67 alin. (4) din Anexa la Ordinul ANRSC nr. 82/2015 nu
+face distincție cu privire la caracterul asfaltat ori neasfaltat al străzilor în
+instituirea interdicției de utilizare a amestecului sare și nisip, acest
+amestec fiind interzis indiferent că străzile sunt asfaltate ori nu.
+Sarea pură este puternic corozivă, în timp ce nisipul este abraziv și
+dur, fapt pentru care legea interzice folosirea lor nu doar pentru
+protecția carosabilului, ci și pentru protecția mașinilor de pe străzi,
+împotriva coroziunii și a acțiunilor abrazive ori acțiunilor de lovire. În
+consecință, solicită admiterea criticii sale.
+K. Referitor la caracterul nejustificat al redevenței.
+Contestatoarea arată că, potrivit legii, redevența se include în
+contract cu titlu de contraprestație pentru utilizarea de către operator a
+unor bunuri ale concedentului, pentru prestarea serviciului. În prezenta
+procedură nu există astfel de bunuri, fiind menționate ca bunuri de retur
+doar 12 coșuri stradale, care nu sunt bunuri folosite în activitate, ci
+bunuri supuse activității, redevența nu are nicio justificare.
+Din acest motiv și pentru motivele detaliate în contestație, solicită
+eliminarea redevenței.
+L. Referitor la critica privitoare la durata contractului
+Autoarea contestației menționează că acceptă remedierea operată
+de autoritatea contractantă ulterior formulării contestației.
+M. De asemenea, referitor la critica privind art. 22 alin. (1) lit. c)
+din propunerea de contract, acceptă remedierea operată de autoritatea
+contractantă ulterior formulării contestației. 
+N. Referitor la critica privind subdimensionarea perioadei de
+mobilizare, petenta precizează că își menține critica. Prin remedierea
+asumată de autoritatea contractantă nu s-a schimbat nimic. Din contră,
+prin remedierea prin care s-a inclus un nou art. 4 alin. (4) în propunerea
+de contract, se reia art. 4 alin. (2) din propunerea de contract și se
+înăspresc condițiile acestuia, astfel:
+Art. 4. Alin. 2 din propunerea de contractArt. 4 alin. 4 nou introdus în propunerea de
+contract
+„Părțile pot conveni, prin act adițional,
+prelungirea perioadei de mobilizare, la cererea
+motivată a delegatului, notificată delegatarului
+cu cel puțin 5 zile calendaristice înainte de
+expirarea termenului prevăzut la art. 17 alin. 2
+din caietul de sarcini. Prelungirea se poate face
+o singură dată pentru cel mult 30 de zile."
+(notarea contestatoarei - art. 17 alin. 2 din
+caietul de sarcini instituie durata de 90 de zile a
+„Părțile pot conveni, prin act adițional,
+prelungirea Perioadei de Mobilizare, în scris, la
+cererea motivată a Delegatului notificată
+Delegatarului cu cel puțin 10 (zece) Zile înainte
+de expirarea termenului de 90 de Zile de la
+Data Intrării în Vigoare și numai pentru motive
+care nu sunt imputabile Delegatului.
+Prelungirea se poate face o singură dată pentru
+cel mult 30 (treizeci) de Zile." 
+Pagina 34 din 58
+
+perioadei de mobilizare).
+Prin urmare, prin remediere se introduce o clauză nenecesară și
+necerută prin care nu se răspunde criticii sale și, mai mult, înrăutățește
+condițiile deja existente prin:
+a.creșterea termenului regresiv de notificare art. 4 alin. (2) din
+propunerea de contract de la 5 zile la 10 zile și
+b.prin condiționarea suplimentară a admisibilității unei cereri de
+prelungire a perioadei de mobilizare de motive care nu sunt imputabile
+Delegatului.
+În consecință, nu acceptă remedierea propusă de autoritatea
+contractantă și solicită admiterea criticii, astfel cum a fost formulată.
+O. Referitor la neconformitatea modului de reglementare a încetării
+contractului prin reziliere
+Contestatoarea precizează că autoritatea, prin punctul de vedere,
+nu se răspunde criticilor sale punctuale, ci susține doar, neargumentat,
+că modul de reglementare criticat ar fi în regulă.
+În consecință, pentru motivele expuse prin contestație, solicită
+admiterea acestei critici.
+Pentru toate motivele indicate prin contestație și prin concluzii
+scrise, solicită admiterea contestației și, în principal, anularea procedurii
+de atribuire, întrucât încălcări ale prevederilor legale afectează
+organizarea și desfășurarea acesteia.
+În subsidiar, solicită admiterea contestației și obligarea autorității
+contractante la adoptarea tuturor măsurilor de remediere ce se impun.
+Din examinarea materialului probator administrat, aflat la
+dosarul cauzei, Consiliul reține următoarele:
+... a inițiat procedura de licitație deschisă, organizată în vederea
+atribuirii contractului având ca obiect .., cod CPV 90611000-3 Servicii de
+curățenie stradală (Rev.2), prin publicarea în SEAP a anunțului de
+concesionare nr. .., data limită de depunere a ofertelor fiind stabilită
+pentru 30.01.2025, ora 11
+00
+. 
+Din informațiile anunțului de concesionare amintit, s-a reținut că
+valoarea estimată a contractului de servicii este 411.807.744,00 lei, fără
+TVA, criteriul de atribuire este cel mai bun raport calitate preț, iar data
+limită de depunere a ofertelor a fost stabilită pentru 30.01.2025, ora
+15:00.
+Nemulțumită fiind de modalitatea în care a fost elaborat studiul de
+fundamentare, care în opinia ofertantei contestatoare este nelegal și
+Pagina 35 din 58
+
+netemeinic sub aspectul analizei de determinare a tipului de contract
+licitat, precum și sub aspectul identificării și alocării de către autoritatea
+contractantă a riscurilor, în special a celui de operare, fapt pentru care
+se impune anulat, ... SRL concluzionează că, consecința anulării studiului
+de fundamentare impune anularea procedurii de atribuire, a cărei
+întreagă construcție are la bază studiul de fundamentare greșit elaborat.
+... SRL este nemulțumită și de unele prevederi ale documentație de
+atribuire, solicitând cele precizate în partea introductivă a deciziei.
+Prin Încheierea nr. .., Consiliul a admis cererea de suspendare a
+procedurii, formulată de ... SRL.
+Contestatoarea a constituit cauțiunea în sumă de 220.000,00 lei,
+conform art. 61
+1
+ alin. (1) lit. b) din Legea nr. 101/2016, fiind depusă la
+dosar recipisa de consemnare nr. .., eliberată de CEC Bank – Sucursala
+Cluj, la data de 31.12.2024.
+Înainte de a proceda la analiza pe fond a aspectelor sesizate de
+autoarea contestației, Consiliul găsește util expunerea câtorva elemente
+din cadrul documentației de atribuire, menite să înlesnească înțelegerea
+ei, cât și să îi circumstanțieze soluționarea.
+Obiectul contractului de servicii supus procedurii de atribuire în
+cauză îl constituie potrivit mențiunilor din fișa de date, de la pct. la pct.
+II.2.4):
+Delegarea gestiunii serviciului public de salubrizare stradală și deszăpezire în municipiul [localitate], sector II.
+Contractul se va derula pe o perioada de 96 de luni. Durata a fost stabilita in baza
+studiului de oportunitate , anexa la prezentul.
+Principalele activitati ce urmeaza a fi prestate pe parcursul perioadei de derulare a
+contractului sunt descrise in caietul de sarcini, anexa la prezentul.
+Autoritatea contractantă în Strategia de contractare nr.
+901544/09.12.2024 a detaliat aspectele legate de tipul contractului care
+urmează a fi încheiat, demne de reținut în cauză fiind următoarele:
+Capitolul 2 - Relația dintre obiectul, constrângerile asociate și complexitatea
+contractului și resursele disponibile la nivel de autoritate contractantă;
+1) Obiectul, constrângerile asociate și complexitatea contractului
+Descrierea succintă a .. care presupune delegarea prin concesiune a activităților de salubrizare
+stradala si deszapezire prevăzută in Legea nr. 101/2006 a serviciului de salubrizare a
+localităților, Ordonanța de urgență nr. 92/2021 privind regimul deșeurilor).
+În cadrul serviciului de salubrizare stradală și deszăpezire a .., serviciu de utilitate publică
+organizat, coordonat, reglementat, condus, monitorizat și controlat de autoritate publică locală
+(Primăria .) sunt cuprinse următoarele activități:
+-măturatul, spălatul, stropirea si întreținerea căilor publice inclusiv colectarea si
+transportul deșeurilor de pământ, pietre si a deșeurilor provenite din coșurile stradale
+amplasate pe căile publice, la depozitele de deșeuri și/sau instalațiile de tratare
+Toate aceste activități presupun o serie de operații precum:
+-măturatul manual sau mecanizat al carosabilului, trotuarelor, piețelor, stațiilor de
+transport în comun, locurilor de parcare precum și a suprafețelor anexe ale spațiilor de
+circulație, de odihnă sau agrement;
+-întreținerea curățeniei pe străzi și trotuare, inclusiv golirea coșurilor de gunoi stradale;
+-spălarea carosabilului și a trotuarelor;
+-stropitul carosabilului;
+-curățatul manual al rigolelor prin răzuire;
+Pagina 36 din 58
+
+-montarea de coșuri pentru colectarea deșeurilor stradale, încărcarea, transportul și
+descărcarea la depozitele de deșeuri autorizate/instalațiile de tratare;
+-activități/operațiuni diverse nenormate.
+-curățarea, transportul zăpezii de pe căile publice și menținerea în stare de funcțiune a
+acestora pe timp de polei sau de îngheț, activitate ce presupune la rândul ei o serie de operații
+ca:
+-pluguitul (curățarea mecanizată a carosabilului de zăpadă);
+-curățatul manual, încărcatul și transportul zăpezii și gheții;
+-combaterea poleiului;
+-curățarea de zăpadă și gheață a gurilor de scurgere amplasate pe partea carosabilă.
+Detalii suplimentare cu privire la serviciile ce urmează să fie executate se găsesc în Caietul de
+sarcini și Regulamentul serviciului de salubrizare.
+(...)
+Contractul de concesiune propus, durata contractului și modalitatea de
+îndeplinire a acestuia
+1) Contractul de concesiune propus
+Potrivit prevederilor art. 22 din Legea nr. 51/ 2006 a serviciilor comunitare de utilități publice,
+autoritățile administrației publice locale sunt libere să hotărască asupra modalității de gestiune
+a serviciilor de utilități publice aflate sub responsabilitatea lor.
+Autoritățile administrației publice au posibilitatea de a gestiona în mod direct serviciile de
+utilități publice în baza unei hotărâri de dare în administrare sau de a încredința gestiunea
+acestora, respectiv toate ori numai o parte din competențele și responsabilitățile proprii privind
+furnizarea/prestarea unui serviciu de utilități publice ori a uneia sau mai multor activități din
+sfera respectivului serviciu de utilități publice, în baza unui contract de delegare a gestiunii.
+Încredințarea gestiunii unui serviciu de utilități publice ori a uneia sau mai multor activități din
+sfera respectivului serviciu de utilități publice către operator implică încredințarea
+prestării/furnizării propriu-zise a serviciului/activității, precum și punerea la dispoziție a
+bunurilor ce compun sistemul de utilități publice aferent serviciului/activității.
+Astfel, potrivit dispozițiilor art. 22 alin (2) din actul normativ sus menționat, gestiunea
+serviciilor de utilități publice se organizează și se realizează fie prin gestiune directă, fie prin
+gestiune delegată. Modalitatea de gestiune a serviciilor de utilități publice se stabilește prin
+hotărâri ale autorităților deliberative ale unităților administrativ-teritoriale, în funcție de natura
+și starea serviciului, de necesitatea asigurării celui mai bun raport preț/calitate, de interesele
+actuale și de perspectivă ale unităților administrativ-teritoriale, precum și de mărimea și
+complexitatea sistemelor de utilități publice.
+Modalitatea de gestiune a serviciilor de utilități publice se stabilește prin hotărâri ale
+autorităților deliberative ale unităților administrativ-teritoriale, în baza unui studiu de
+oportunitate/fundamentare, în funcție de natura și starea serviciului, de necesitatea asigurării
+celui mai bun raport preț/calitate, de interesele actuale și de perspectivă ale unităților
+administrativ-teritoriale, precum și de mărimea și complexitatea sistemelor de utilități publice.
+În acest sens au fost elaborate documentația de atribuire pentru delegare a gestiunii serviciului
+public de salubrizare stradală și deszăpezire în ..., Sector 2, Studiul de oportunitate si
+Regulamentul de salubrizare, care după expirarea termenului prevăzut de Legea nr.52/2003
+privind transparenta decizionala, vor fi supuse aprobării în baza hotărârilor Consiliilor locale
+privind „Aprobarea Studiului de oportunitate/fundamentare, Regulamentului serviciului de
+salubrizare și a Documentatiei de atribuire pentru ...".
+De asemenea, conform Legii nr. 51/2006 republicată, cu modificările și completările ulterioare,
+delegarea gestiunii unui serviciu de utilități publice este "acțiunea prin care o unitate
+administrativ- teritorială atribuie unuia sau mai multor operatori titulari de licență, în condițiile
+prezentei legi, furnizarea/prestarea unui serviciu ori a unei activități din sfera serviciilor de
+utilități publice a cărui/cărei răspundere o are. Delegarea gestiunii unui serviciu/unei activități
+de utilități publice implică operarea propriu-zisă a serviciului/activității, punerea la dispoziție a
+sistemului de utilități publice aferent serviciului/activității delegat/delegate, precum și dreptul
+și obligația operatorului de a administra și exploata sistemul de utilități publice respectiv.
+Delegarea gestiunii poate fi efect...ă și de asociațiile de dezvoltare intercomunitară cu obiect
+de activitate serviciile de utilități publice, în numele și pe seama unităților administrativ-
+teritoriale membre, în baza unui mandat special acordat de acestea;"
+În cazul gestiunii delegate, se parcurg următorii pași:
+Pagina 37 din 58
+
+•Adoptarea de către autoritățile deliberative a administrației publice locale a unei
+hotărâri privind stabilirea procedurii de atribuire a gestiunii serviciului de salubrizare;
+•Întocmirea unui studiu de oportunitate pentru fundamentarea și stabilirea soluțiilor
+optime de delegare a gestiunii serviciilor;
+•Întocmirea și aprobarea Regulamentului serviciului de salubrizare a localităților întocmit
+în conformitate cu dispozițiile Ordinului nr. 82/2015 pentru aprobarea regulamentului-cadru al
+serviciului de salubrizare a localităților;
+•Întocmirea și aprobarea Documentației de atribuire, inclusiv a Caietelor de sarcini ale
+serviciului de salubrizare a localităților întocmite în conformitate cu dispozițiile Ordinului nr.
+111/2007 pentru aprobarea caietului de sarcini - cadru al serviciului de salubrizare a
+localităților;
+•Organizarea procedurii de atribuire, atribuirea și semnarea Contractului de Delegare a
+gestiunii serviciului.
+Conform art. 30, alin. 1) din Legea 51/2006, cu modificările și completările ulterioare,
+"Organizarea și desfășurarea procedurilor de atribuire a contractului de delegare a gestiunii
+pentru serviciile de utilități publice prevăzute la art. 1 alin. (2) se fac în baza unei documentații
+de atribuire elaborate de delegatar, după caz, în conformitate cu Legea nr. 98/2016 privind
+achizițiile publice, cu Legea nr. 99/2016 privind achizițiile sectoriale și cu Legea nr. 100/2016
+privind concesiunile de lucrări și concesiunile de servicii."
+Tipul de contract se stabilește ținând cont de măsura în care riscul de operare este transmis
+către operatorul economic. Astfel, în cazul în care, prin contract, o parte semnificativă a
+riscului de operare va fi transferată operatorul economic, contractul va fi considerat contract de
+concesiune, atribuirea acestuia urmând să fie făcută conform prevederilor Legii nr. 100/2016
+privind concesiunile de lucrări și concesiunile de servicii. Se consideră că o parte semnificativă
+a riscului de operare a fost transferată atunci când pierderea potențială estimată suportată de
+concesionar nu este una neglijabilă. În cazul în care o parte semnificativă a riscului de operare
+nu va fi transferată operatorului economic, contractul respectiv va fi considerat contract de
+achiziție publică.
+Potrivit Legii nr. 100/2016, riscul de operare asociat contractului de delegare a gestiunii este
+riscul care îndeplinește, în mod cumulativ, următoarele condiții:
+a)este generat de evenimente care nu se află sub controlul pârților la contractul de
+concesiune;
+b)implică expunerea la fluctuațiile pieței;
+c)ca efect al asumării riscului de operare, concesionarului nu i se garantează, în condiții
+normale de exploatare, recuperarea costurilor investițiilor efect...e și a costurilor în legătură cu
+exploatarea serviciilor.
+Riscul de operare poate consta în:
+a) fie riscul de cerere - riscul privind cererea reală pentru serviciile care fac obiectul concesiunii
+de servicii;
+b)fie riscul de ofertă - riscul legat de furnizarea serviciilor care fac obiectul concesiunii de
+servicii, în special riscul că furnizarea serviciilor nu va corespunde cererii;
+c)fie ambele riscuri, de cerere și de ofertă.
+(...).
+Astfel, din această analiză reiese că o parte semnificativă a riscului de operare este
+transferată operatorului, situație în care contractul de delegare a gestiunii serviciilor va fi
+considerat contract de concesiune de servicii. Pentru atribuirea contractului vor fi aplicate
+prevederile Legii nr. 100/2016 privind concesiunile de lucrări și concesiunile de servicii.
+Sunt relevant de redat următoarele precizări din cuprinsul caietului de
+sarcini:
+Primăria ., în calitate de Achizitor (Autoritate Contractantă), reținând obligațiile care-i
+revin cu privire la serviciul public de salubrizare - activitatea de salubrizare stradală și
+deszăpezire, raportat la legislația generală și specifică privind serviciile de salubrizare
+organizează, coordonează, reglementează, conduce, monitorizează și controlează activitatea
+de salubrizare stradală și deszăpezire a .
+(...)
+(3)Prin serviciul public de salubrizare a municipiului . trebuie să asigure prestarea
+serviciilor în regim de continuitate pentru toți utilizatorii serviciului de salubrizare.
+Pagina 38 din 58
+
+(4)Modul de organizare și funcționare a serviciului de salubrizare stradală și
+deszăpezire trebuie să se realizeze pe baza următoarelor principii:
+ - protecția sănătății populației; responsabilitatea față de cetățeni; conservarea și
+protecția mediului înconjurător; asigurarea calității și continuității serviciului;
+- tarifarea echitabilă, corelată cu calitatea și cantitatea serviciului prestat; securitatea
+servici-ului; dezvoltarea durabilă.
+Art. 5 
+(1) În cadrul serviciului de salubrizare stradală și deszăpezire a Municipiului ., serviciu
+de utilitate publică organizat, coordonat, reglementat, condus, monitorizat și controlat de
+autoritate publică locală (Primăria [localitate] ...) sunt cuprinse următoarele activități:
+activitatea de măturat, spălat, stropit si de gestionare a deșeurilor colectate din coșurile
+stradale
+Aceasta presupune următorul ciclu de operații:
+-măturatul manual sau mecanizat al carosabilului, trotuarelor, piețelor, al locurilor de
+parcare, precum și al suprafețelor anexe ale spațiilor de circulație, de odihnă sau de agrement;
+-răzuitul rigolelor;
+-spălatul carosabilului și al trotuarelor;
+-stropitul carosabilului;
+-golirea coșurilor de gunoi stradale;
+-colectarea și transportul la depozitul conform a deșeurilor stradale;
+Deșeurile rezultate din măturatul manual, răzuitul la rigolă, golirea coșurilor stradale și
+deșeurile depuse necontrolat pe domeniul public vor fi colectate și depozitate la depozitul
+ecologic.
+Deșeurile rezultate după măturatul mecanic vor fi transportate și depozitate la depozitul
+conform.
+Transportul se efectuează pe cel mai scurt traseu.
+Perioada de realizare a stropitului și a spălatului se execută , de regulă, în perioada de
+vară, în funcție de condițiile meteorologice concrete.
+- activitatea de curățare și transport a zăpezii de pe căile publice și menținerea
+înfuncțiune a acestora pe timp de polei sau de îngheț.
+Aceasta presupune următorul ciclu de operații:
+- curățarea manuală a zăpezii și gheții de pe căile publice;
+- curățatul de podurile de gheață formate pe grătarele gurilor de preluare a apelor
+pluviale, amplasate pe partea carosabilă;
+- curățatul mecanic a zăpezii- pluguit;
+- combaterea poleiului;
+- încărcat și transport zăpadă.
+Căile de circulație pe care se intervine pentru deszăpezire, prioritățile de intervenție
+sunt stabilite prin căietul de sarcini.
+Obligațiile și răspunderile personalului operativ ale operatorului sunt cuprinse în
+"Programul de deszăpezire" întocmit de către operatorul de salubrizare transmis spre însușire
+autorității contractante.
+"Programul de deszăpezire" poate fi completat în funcție de necesități. Operatorul de
+salubrizare desfășoară activitățile de curățare și de transport al zăpezii de pe căile publice și de
+menținere în funcțiune a acestora pe timp de polei sau de îngheț. în condiții de precipitații cu
+ninsori abundente, intervențiile se fac în ordinea priorităților stabilite prin "Programul de
+deszăpezire".
+Din economia celor anterior redate se reține faptul că entitatea
+achizitoarea a stabilit că, contractul de delegare a gestiunii serviciilor va
+fi considerat contract de concesiune de servicii, pentru atribuirea
+contractului vor fi aplicate prevederile Legii nr. 100/2016 privind
+concesiunile de lucrări și concesiunile de servicii. Durata concesiunii a
+fost stabilită la 8 ani. Entitatea contractantă, astfel cum menționează în
+cadrul documentației de atribuire (studiul de oportunitate), a avut în
+vedere la stabilirea acesteia beneficiile delegării serviciului de salubrizare
+Pagina 39 din 58
+
+și deszăpezire respectiv faptul că prin concesiune se va obține selectarea
+unui concesionar care să ofere raportul optim între preț (mai mic) și
+calitate (ridicată) a serviciilor prestate, în corelare cu nevoile urbane și
+cu dezvoltarea economică a Municipiului ...:
+Argumente care stau la baza atribuirii serviciului de salubrizare stradală și deszăpezire
+prin semnarea unui contract de concesiune de servicii. U.A.T. ... nu dispune de mijloacele
+tehnice de a realiza serviciul în condițiile indicate și totodată nu deține personal specializat în
+domeniu pentru a putea asigura prestarea acestui serviciu prin modalitatea gestiunii directe.
+Operatorii de salubrizare care vor fi luați în calcul, în cazul gestiunii delegate, dețin experiență,
+utilaje și personal pentru prestarea serviciului în condițiile în care pentru obținerea licențelor
+ANRSC pentru aceste tipuri de activități se impune prin lege o dotare minimă de utilaje și
+personal.
+Așadar, din economia celor anterior redate, rezultă că, la baza
+demarării prezentei proceduri, s-a avut în vedere că prin serviciul public
+de salubrizare a municipiului ... trebuie să asigure prestarea serviciilor în
+regim de continuitate pentru toți utilizatorii serviciului de salubrizare, iar
+modul de organizare și funcționare a serviciului de salubrizare stradală și
+deszăpezire trebuie să se realizeze pe baza următoarelor principii:
+protecția sănătății populației; responsabilitatea față de cetățeni;
+conservarea și protecția mediului înconjurător; asigurarea calității și
+continuității serviciului; tarifarea echitabilă, corelată cu calitatea și
+cantitatea serviciului prestat; securitatea serviciului; dezvoltarea
+durabilă.
+Luând în considerare ansamblul considerentelor expuse, Consiliul
+are în vedere că, dată fiind complexitatea și specificitatea contractului,
+importanța acestuia, durata contractuală și rezultate așteptate de la
+derularea acestuia, asigurarea posibilității depunerii unor oferte
+conforme, autoritatea contractantă trebuie să dea eficiență dispozițiilor
+art. 71 alin. (1) din Legea nr. 100/2016, și să depună diligențele
+necesare întocmirii unei documentații care să țină seama de toate
+aspectele pe care le implică contractul de delegare de gestiune,
+respectiv încredințarea gestiunii unui serviciu de utilități publice ori a
+uneia sau mai multor activități din sfera respectivului serviciu de utilități
+publice către operator implică încredințarea prestării/furnizării propriu-
+zise a serviciului/activității, precum și punerea la dispoziție a bunurilor
+ce compun sistemul de utilități publice aferent serviciului/activității.
+În raport de cele mai sus redate, Consiliul determină că prioritar
+este interesul public unde așteptările și nevoile sunt foarte mari, astfel
+că se încheie contractul pentru realizarea unor sarcini ale interesului
+public (utilizatorii serviciului de salubrizare stradală și deszăpezire să
+circule pe străzi curate; să se plimbe și să se recreeze în parcuri curate;
+să nu fie nevoiți să respire aerul infestat datorită depozitării clandestine
+de deșeuri).
+ Așa cum a fost anterior reținut ... SRL reclamă nelegalitatea
+studiului de oportunitate elaborat, sub două aspecte:
+Pagina 40 din 58
+
+- pe de o parte, entitatea achizitoare a recurs în mod gresit la
+atribuirea unei concesiuni, deși natura contractului este de achiziție
+publică;
+- iar pe de altă parte, studiul de oportunitate a contractului este
+nemotivat, nu s-a dovedit fiabilitatea economico- financiară a
+contractului de concesiune servicii și valoarea semnificativă estimată a
+contactului este nejustificată.
+Sunt incidente în speța următoarele dispoziții legale:
+- art. 7 alin. (1) din Legea nr. 100/2016 prevede: "În orice situație în
+care o entitate contractantă intenționează să realizeze un proiect prin atribuirea unui contract
+pe termen lung, care să cuprindă fie executarea de lucrări și operarea rezultatului lucrărilor, fie
+prestarea, gestionarea și operarea de servicii, entitatea contractantă are obligația de a
+elabora un studiu de fundamentare prin care se vor demonstra necesitatea și
+oportunitatea realizării proiectului în acest mod";
+- art. 8 alin. (1) din Legea nr. 100/2016 prevede: "Prin studiul de
+fundamentare prevăzut la art. 7 alin. (1) entitatea contractantă are obligația să analizeze dacă
+atribuirea contractului implică transferul unei părți semnificative a riscului de operare către
+operatorul economic";
+- art. 11 din HG nr. 867/2016 prevede:
+”(1) Potrivit prevederilor art. 7 și 8 din Lege, entitatea contractantă are obligația de a
+elabora un studiu de fundamentare a deciziei de concesionare atunci când intenționează
+să realizeze un proiect prin atribuirea unui contract de concesiune pe termen lung. 
+ (2) Entitatea contractantă are posibilitatea de a elabora un studiu de fundamentare a deciziei
+de concesionare atunci când intenționează să atribuie un contract de concesiune cu o durată
+mai mică de 5 ani, în cazul în care este necesar, în funcție de complexitatea contractului”;
+- art. 12 alin. (1) din HG nr. 867/2016 prevede: "Studiul de
+fundamentare prevăzut la art. 11 alin. (1) trebuie să se axeze pe analiza unor elemente
+relevante în care se includ: aspectele generale, fezabilitatea tehnică, fezabilitatea economică și
+financiară, aspectele de mediu, aspectele sociale și aspectele instituționale ale proiectului în
+cauză";
+- art. 13 alin. (1) din HG nr. 867/2006 prevede: "Studiul de
+fundamentare a deciziei de concesionare trebuie să cuprindă o analiză care să permită
+definirea și cuantificarea în termeni economici si financiari a riscurilor de proiect, luând în
+considerare, totodată, și variantele identificate de repartiție a riscurilor între părțile viitorului
+contract de concesiune, precum și analiza privind încadrarea contractului în categoria celor de
+concesiune";
+- art. 14 alin. (1) din HG nr. 867/2016 prevede: "In aplicarea art. 7 din
+Lege, entitatea contractantă determină, pe baza analizei economico-financiare prevăzute la
+art. 13, modul în care proiectul ar trebui realizat: fie printr-o concesiune, fie printr-un contract
+de achiziție publică.
+Analiza economico-financiară prevăzută la art. 13 presupune derularea următoarelor
+etape:
+a). întocmirea costului comparativ de referință;
+b). determinarea structurii preliminare a concesiunii;
+c). realizarea analizei economico-financiare;
+(3) Alte aspecte specifice, relevante pentru analiza economico-financiară, pot fi:
+a). taxa pe valoarea adăugată;
+b).costuri suplimentare asociate finalizării lucrărilor înainte de termenul contractual;
+c). costul reluării procedurii de atribuire a contractului de concesiune;
+d). venituri din refinanțarea proiectului;
+e). costuri de monitorizare și administrare a proiectului;
+f). asigurări;
+g) rata de discontare".
+Pagina 41 din 58
+
+Așadar, înainte de a se iniția o procedură de atribuire, autoritatea
+contractantă este obligată să realizeze un studiu de fundamentare
+care să respecte toate prevederile Secțiunii 2 din H.G. nr. 867/2016
+astfel încât în urma acestui studiu să rezulte informații esențiale care să
+justifice necesitatea și oportunitatea concesiunii și să demonstreze
+că sunt îndeplinite cele prevăzute de dispozițiile art. 15 din H.G. nr.
+867/2016, respectiv:
+”a) proiectul este realizabil;
+ b) proiectul răspunde cerințelor și politicilor entității contractante;
+ c) au fost l...e în considerare diverse alternative de realizare a proiectului;
+d) varianta de realizare a proiectului prin atribuirea unui contract de concesiune este
+mai avantajoasă în raport cu varianta prin care proiectul este prevăzut a fi realizat prin
+atribuirea unui contract de achiziție publică;
+e) proiectul beneficiază de susținere financiară, menționând, dacă este cazul, care este
+contribuția entității contractante.”
+De asemenea, potrivit art. 16 alin. (1), alin. (2) și alin. (3) din H.G.
+867/2016:
+"(1) La realizarea studiului de fundamentare trebuie ținut seama de estimarea
+cheltuielilor și veniturilor pe întreaga durată a unui proiect, la care trebuie l...e în calcul
+nu numai costurile legate de construcție, ci și totalul cheltuielilor și veniturilor aferente operării
+și întreținerii de-a lungul perioadei proiectului.
+(2) Estimarea prevăzută la alin. (1) are un dublu scop:
+ a) de a furniza o perspectivă atentă asupra tuturor costurilor, veniturilor și riscurilor
+care pot apărea pe parcursul duratei de viață a proiectului;
+b) de a furniza un reper pentru perioada de derulare a contractului de concesiune.
+(3) Estimarea costurilor proiectului trebuie începută la o dată de referință care este, de
+regulă, data demarării procedurii de atribuire a contractului de concesiune, în acest caz
+această estimare neincluzând și costurile deja suportate de entitatea contractantă, legate de
+pregătirea proiectului.”
+Legislația în domeniu obligă autoritatea contractantă să analizeze,
+în mod temeinic și serios termenii financiari și economici ai
+sustenabilității delegării serviciilor supuse delegării, astfel încât să
+dovedească în primul rând sustenabilitatea proiectului raportat la
+natura juridică a contractului și a procedurii de atribuire ce a fost
+aleasă, cu respectarea legislației în domeniu, iar în al doilea rând această
+sustenabilitate raportată la durata contractului aleasă.
+De altfel, studiul de fundamentare este parte integrantă a
+documentației de atribuire, astfel cum este prevăzut la art. 5 alin (1) lit.
+n) din Legea nr. 100/2016. Prin studiul de fundamentare prevăzut la art.
+7 alin. (1) din Legea nr. 100/2016 entitatea contractantă are obligația
+să analizeze dacă atribuirea contractului implică transferul unei
+părți semnificative a riscului de operare către operatorul
+economic, iar ulterior analizei efect...e dacă constată că o parte
+semnificativă a riscului de operare va fi transferată operatorului
+economic, contractul va fi considerat contract de concesiune. 
+Așa cum a fost reținut dispozițiile legale mai sus amintite stabilesc
+importanța studiului de fundamentare, conținutul acestuia și
+condițiile pe care o procedură de atribuire în domeniul contractelor de
+concesiune trebuie să le respecte, astfel încât este imperios necesar
+Pagina 42 din 58
+
+punerea la dispoziția operatorilor economici a studiului de fundamentare
+întocmit în conformitate cu prevederile legale, din conținutul căruia să
+rezulte sustenabilitatea contractului.
+Faptul că studiul de fundamentare a deciziei de concesionare
+trebuie să cuprindă o analiză care să permită definirea și cuantificarea în
+termeni economici și financiari a riscurilor de proiect, are implicații în
+elaborarea matricei riscurilor, trebuind să ia în considerare și
+variantele identificate de repartiție a riscurilor între părțile viitorului
+contract de concesiune.
+Astfel, matricea riscurilor rezultă din studiul de fundamentare
+care este obligatoriu potrivit art. 7 și 8 din Legea nr. 100/2016 și
+Secțiunea 2 din H.G. nr. 867/2016.
+ În raport de cele anterior reținute contrar celor susținute de
+entitatea achizitoare potrivit cărora documentația de atribuire și
+respectiv studiul de fundamentare a fost amendată potrivit observațiilor
+din perioada consultării publice, fapt pentru care prevederile sale sunt
+definitive și obligatorii ca atare pentru toți operatorii economici interesați
+de procedură, Consiliul determină că în condițiile în care art. 5 alin. (1)
+lit. n) din Legea nr. 100/2016 prevede expres că „documentația de atribuire -
+documentul concesiunii care cuprinde cerințele, criteriile, regulile și alte informații necesare
+pentru a asigura operatorilor economici o informare completă, corectă și explicită cu privire la
+cerințele autorității/entității contractante sau la elementele concesiunii, obiectul contractului și
+modul de desfășurare a procedurii de atribuire, inclusiv specificațiile tehnice sau documentul
+descriptiv, condițiile contractuale propuse, formatele și modul de prezentare a documentelor de
+către candidați/ofertanți, informațiile privind obligațiile generale aplicabile
+candidaților/ofertanților, studiul de fundamentare", studiul de fundamentare, fiind
+un act emis de autoritatea contractantă în legătură cu procedura de
+concesionare, poate fi atacat prin contestație, în condițiile art. 2 și ale
+art. 8 din Legea nr. 101/2016.
+În ceea ce privește argumentul adus de achizitoarea privind
+adoptarea studiului de fundamentare prin ... (aceasta documentatie de
+atribuire a fost aprobata prin Hotărâre a Consiliului Local al municipiului ..., ...
+cu nr. .../02.12.2024, act normativ care pana la data prezenta nu a fost
+contestat și produce efectele unui act de reglementare la nivel local) orice
+studiu de fundamentare, ca document al achiziției unei proceduri
+organizate de un ... fiind prevăzut de lege a fi adoptat prin ..., este
+evidentă admisibilitatea unei contestații întemeiate pe Legea nr.
+101/2016 privitoare la studiul de fundamentare. Așa cum a susținut și
+contestatoarea Legea nr. 101/2016 având caracter special față de Legea
+nr. 554/2004, în materie de achiziții publice, CNSC este competent a
+analiza orice prevederi nelegale cuprinse în orice studiu de fundamentare
+al unei proceduri de concesionare.
+Raționamentul conturat de autoarea contestației în favoarea
+faptului că entitatea achizitoare a recurs în mod gresit la atribuirea unei
+concesiuni, deși natura contractului este de achiziție publică este judicios
+Pagina 43 din 58
+
+în cauză și va fi reținut de Consiliu în soluționare din considerentele mai
+jos expuse.
+ Consiliul apreciază util redarea următoarelor prevederi din
+cuprinsul Studiului de oportunitate- Anxa nr. 1 la ... .../2024 elaborat și
+pus la dispoziția operatorilor economici:
+1.1. Scopul Studiului de oportunitate:
+Scopul prezentei documentații îl constituie analiza tehnico-economică și de eficiență a
+costurilor de operare pentru activitățlile specifice de salubrizare desfășurate de operatori pe
+căile publice municipale (curățenie stradală și deszăpezire).
+În cadrul serviciului de salubrizare stradală și deszăpezire a Municipiului ..., serviciu de
+utilitate publică organizat, coordonat, reglementat, condus, monitorizat și controlat de
+autoritate publică locală (Primăria [localitate] ...) sunt cuprinse următoarele activități:
+- măturatul, spălatul, stropirea și întreținerea căilor publice inclusiv colectarea și
+transportul deșeurilor de pământ, pietre și a deșeurilor provenite din coșurile stradale
+amplasate pe căile publice, la depozitele de deșeuri și/sau instalațiile de tratare.
+Toate aceste activități presupun o serie de operații precum:
+-măturatul manual sau mecanizat al carosabilului, trotuarelor, piețelor, stațiilor de
+transport în comun, locurilor de parcare precum și a suprafețelor anexe ale spațiilor de
+circulație, de odihnă sau agrement;
+-întreținerea curățeniei pe străzi și trotuare, inclusiv golirea coșurilor de gunoi
+stradale;
+-spălarea carosabilului și a trotuarelor; 
+-stropitul carosabilului;
+-curățatul manual al rigolelor prin răzuire;
+-montarea de coșuri pentru colectarea deșeurilor stradale, încărcarea, transportul
+și descărcarea la depozitele de deșeuri autorizate/instalațiile de tratare;
+- activități/operațiuni diverse nenormate.
+- curățarea, transportul zăpezii de pe căile publice și menținerea în stare de funcțiune a
+acestora pe timp de polei sau de îngheț, activitate ce presupune la rândul ei o serie de operații
+ca:
+•• pluguitul (curățarea mecanizată a carosabilului de zăpadă);
+-curățatul manual, încărcatul și transportul zăpezii și gheții;
+-combaterea poleiului;
+-curățarea de zăpadă și gheață a gurilor de scurgere amplasate pe partea
+carosabilă.
+Această activitate se execută atât ziua cât și noaptea, în funcție de necesitate, având ca
+scop menținerea în stare practicabilă a arterelor de circulație.
+Operatorii care desfășoară activități de salubrizare pe căile publice fundamentează,
+corespunzător activității prestate, următoarele tarife:
+a)pentru activitatea de măturatul, spălatul și stropitul căilor publice din localitate,
+inclusiv colectarea și transportul deșeurilor de pământ și pietre provenite de pe căile publice la
+depozitele de deșeuri, precum și a deșeurilor provenite din coșurile stradale la depozitele de
+deșeuri și/sau la instalațiile ele tratare:
+(i)tarif măturat mecanizat carosabil;
+(ii)tarif măturat mecanizat trotuare;
+(iii)tarif măturat manual carosabil;
+(iv)tarif măturat manual trotuare;
+(v)tarif răzuit rigole;
+(vi)tarif stropit carosabil;
+(vii)tarif spălat carosabil;
+(viii)tarif pentru gestionarea deșeurilor colectate din coșurile stradale;
+b)pentru activitatea de curățarea și transportul zăpezii de pe căile publice din
+localitate și menținerea în funcțiune a acestora pe timp de polei sau de îngheț:
+(i)tarif curățat zăpadă mecanizat cu autospeciale/utilaje echipate cu lamă/plug;
+(ii)tarif curățat zăpadă mecanizat cu autospeciale/utilaje din categoria freză, pe
+căile publice specificate distinct în caietul de sarcini;
+Pagina 44 din 58
+
+(iii)tarif curățat zăpadă manual, inclusiv stații publice de îmbarcare-debarcare
+călători și refugii;
+(iv)tarif curățat gheață manual, inclusiv stații publice de îmbarcare-debarcare
+călători și refugii;
+(v)tarif încărcat mecanizat și transport zăpadă;
+(vi)tarif împrăștiat mecanic material antiderapant, de tip sare;
+(vii)tarif împrăștiat manual, material antiderapant, de tip sare;
+(viii)tarif împrăștiat mecanic material antiderapant, de tip sare cu injecție de soluție
+de clorură de calciu, în pondere conform caiet de sarcini;
+(ix)tarif împrăștiat manual material antiderapant, de tip sare în amestec cu clorură
+de calciu solidă, în pondere conform caiet de sarcini;
+(x)tarif împrăștiat mecanic material antiderapant, de tip sare cu injecție de soluție
+de clorură de magneziu, în pondere conform caiet de sarcini;
+(xi)tarif împrăștiat manual material antiderapant, de tip sare în amestec cu clorură
+de magneziu solidă, în pondere conform caiet de sarcini.
+(...)
+6.4. Argumente care stau la baza atribuirii serviciului de salubrizare stradală și
+deszăpezire prin semnarea unui contract de concesiune de servicii.
+U.A.T. ... nu dispune de mijloacele tehnice de a realiza serviciul în condițiile indicate și
+totodată nu deține personal specializat în domeniu pentru a putea asigura prestarea acestui
+serviciu prin modalitatea gestiunii directe.
+Operatorii de salubrizare care vor fi luați în calcul, în cazul gestiunii delegate, dețin
+experiență, utilaje și personal pentru prestarea serviciului în condițiile în care pentru obținerea
+licențelor ANRSC pentru aceste tipuri de activități se impune prin lege o dotare minimă de
+utilaje și personal.
+Se justifică așadar oportunitatea delegării prin concesiune a serviciului de salubrizare
+stradală și deszăpezire, astfel încât prestarea serviciului către locuitorii Municipiului ... să se
+realizeze în condiții optime .
+De asemenea în varianta delegării serviciului de salubrizare și deszăpezire o parte
+semnificativă a riscului se va transfera operatorului de servicii publice.
+Beneficiile delegării serviciului de salubrizare și deszăpezire:
+Prin concesiune se va obține selectarea unui concesionar care să ofere raportul optim
+între preț(mai mic) și calitate (ridicată) a serviciilor prestate, în corelare cu nevoile urbane și
+cu dezvoltarea economică a Municipiului ....
+Aspecte de ordin economico-financiar
+Autoritățile publice locale, prin modul de organizare și desfășurare a activității serviciilor
+publice de salubrizare sunt obligate să asigure realizarea următoarelor obiective:
+a)îmbunătățirea condițiilor de viață ale populației;
+b)susținerea dezvoltării economico-sociale a localităților;
+c)promovarea calității și eficienței serviciului de salubrizare;
+d)stimularea mecanismelor economiei de piață;
+e)dezvoltarea durabilă a serviciului;
+f)gestionarea serviciului de salubrizare pe criterii de transparență, competitivitate
+și eficiență;
+g)promovarea programelor de dezvoltare și reabilitare a sistemului de salubrizare,
+pe baza unui mecanism eficient de planificare multianuală a investițiilor;
+h)protecția și conservarea mediului înconjurător și a sănătății populației;
+i)consultarea cu utilizatorii serviciului de salubrizare, în vederea stabilirii politicilor
+și strategiilor locale și regionale în domeniu;
+j) adoptarea normelor locale referitoare la organizarea și funcționarea serviciului de
+salubrizare, precum și a procedurilor de atribuire a gestiunii acestuia;
+k) informarea periodică a utilizatorilor!' asupra politicilor de dezvoltare a serviciului de
+salubrizare, precum și asupra necesității instituirii unor taxe speciale;
+1) respectarea cerințelor din legislația privind protecția mediului referitoare la
+salubrizarea localităților.
+Serviciul public de salubrizare va urmări să se realizeze un raport calitate/cost cât mai
+bun pentru perioada de derulare a contractului și un echilibru între riscurile și beneficiile
+asumate prin contract.
+Pagina 45 din 58
+
+Structura și nivelul tarifelor practicate vor reflecta costul efectiv al prestației și vor fi în
+conformitate cu prevederile legale.
+Tarifele aprobate trebuie să conducă la atingerea următoarelor obiective:
+a)asigurarea prestării serviciului de salubrizare la nivelurile de calitate și indicatorii
+de performanță stabiliți de Consiliul local al [localitate] .. prin regulamentul serviciului;
+b)realizarea unui raport calitate-cost cât mai bun pentru serviciul de salubrizare
+prestat pe perioada angajată și asigurarea unui echilibru între riscurile și beneficiile asumate de
+părțile contractante;
+c)asigurarea funcționării eficientă a serviciului de salubrizare și a exploatării
+bunurilor aparținând domeniului public și privat al unităților administrativ- teritoriale, afectate
+serviciului de salubrizare, precum și asigurarea protecției mediului.
+Aspecte de ordin social
+-personalul și organizarea operatorului de salubrizare desemnat. Aceasta înseamnă că
+operatorul de salubrizare este încurajat să angajeze personal calificat și/sau necalificat pe plan
+local, ceea ce va duce la scăderea numărului de șomeri și implicit la o creștere a puterii de
+cumpărare în oraș;
+-comunitatea locală va beneficia de locuri de muncă;
+prin creșterea nivelului calitativ al serviciilor comunitatea locală va beneficia de o
+îmbunătățire a calității mediului și implicit a sănătății populației.
+Pe baza analizei prezentate, considerăm că din punct de vedere social delegarea
+gestiunii este soluția oportună.
+Aspecte de natură tehnică
+- activitățile se pot organiza după un program bine stabilit cu eficiență și eficacitate
+prestarea activităților după un program stabilit va asigura și posibilitatea efectuării verificării
+serviciilor prestate atât din punct de vedere calitativ cât și cantitativ
+Pe baza celor prezentate, considerăm că și din punct de vedere al fezabilității tehnice
+delegarea gestiunii este soluția oportună.
+Prin delegarea serviciului de salubrizare al Municipiului Cluj- Napoca, prin atribuirea
+unui contract de concesiune, concesionarul va prelua o parte semnificativă a riscului aferent
+exploatării.în susținerea variantei delegării serviciului de salubrizare pentru activitățile:
+„măturatul, spălatul si stropitul căilor publice, inclusiv colectarea si transportul deșeurilor de
+pamant si pietre provenite de pe căile publice la depozitele de deșeuri, precum si a deșeurilor
+provenite din coșurile stradale la depozitele de deșeuri si/sau instalațiile de tratare" si
+„curățarea si transportul zăpezii de pe căile publice si menținerea in funcțiune a acestora pe
+timp de polei sau de îngheț", in ... se va prezenta în tabelul de mai jos analiza de repartiție a
+riscurilor;
+(...)
+6.5. Alegerea și justificarea procedurii de atribuire
+În urma analizei SWOT privind atribuirea serviciului public de salubrizare stradală și
+deszăpezire a Municipiului ... considerăm oportună atribuirea serviciului public de salubrizare
+pentru activitățile: „măturatul, spălatul si stropitul căilor publice, inclusiv colectarea si
+transportul deșeurilor de pamant si pietre provenite de pe căile publice la depozitele de
+deșeuri, precum si a deșeurilor provenite din coșurile stradale la depozitele de deșeuri si/sau
+instalațiile de tratare" si „curățarea si transportul zăpezii de pe căile publice si menținerea in
+funcțiune a acestora pe timp de polei sau de îngheț" in ... prin concesiune de servicii, pe o
+perioadă de 8 ani, conform legislației privind achizițiile publice.
+O durata de până la 5 ani a contractului poate fi considerată neatractivă, cu consecințe
+legate de diminuarea concurenței, motiv pentru care durata optimă a contractului este propusa
+pentru 8 ani, durată care acoperă nevoia operatorului serviciului public de salubrizare în ... cu
+privire la stabilirea unor planuri de afaceri bazate pe elemente certe pe un anumit orizont de
+timp.
+De asemenea, operatorul este obligat, prin documentația de atribuire, de a veni cu
+dotări care pot fi bunuri proprii sau de a investi suplimentar față de faciltațile minimale puse la
+dispoziție de către ..., pentru sporirea eficienței activității, iar, de regulă, investițiile necesare
+pot fi de natura instalațiilor, utilajelor și mijloacelor de transport, recipienti, pentru acest tip de
+activitate, a căror durată normală de funcționare este de apromitav 8 ani, perioadă în care
+acestea pot fi amortizate. în condițiile în care durata contractului ar fi mai mică de 8 ani, aceste
+investiții nu ar putea fi amoitizate până la finalizarea contractului decât printr-o creștere a
+Pagina 46 din 58
+
+tarifelor. Având în vedere dotările necesar a fi realizate de către operatorul declarat câștigător
+pentru prestarea activităților serviciului public de salubrizare, la condițiile de calitate și eficiență
+impuse prin documentația de atribuire, durata propusă pentru contractul de delegare
+Municipiul . se propune a fi pentru 8 ani.
+Pentru o cointeresare a operatorilor economici în participarea la procedura de delegare
+a gestiunii serviciilor de salubrizare stradală și deszăpezire în Municipiul . și pentru a obține un
+parteneriat stabil cu operatorul care va deveni concesionar al activităților, trebuie ca premisele
+încheierii contractului să fie favorabile și operatorilor economici licențiați, în sensul corelării
+condițiilor impuse astfel încât să existe garanția obținerii unui profit din exploatarea
+concesiunii.
+Astfel, durata pentru care se încheie contractul de delegare a gestiunii contractului de
+salubritate care face obiectul studiului trebuie să fie suficient de mare pentru a -i permite
+societății prestatoare a serviciului concesionat să-și amortizeze cheltuielile făcute și să obțină
+un profit, iar pe de altă parte, trebuie să permită reluarea procesului concurențial. Fără
+competiție, colectivitățile și toate categoriile de utilizatori ar avea de pierdut.
+În concluzie, în conformitate cu prevederile art. 16 din Legea 100/2016 privind
+concesiunile de lucrări si servicii, perioada propusă pentru concesionarea serviciilor publice de
+salubritate este de 8 ani.
+Așa cum am enunțat și anterior U.A.T. ... nu dispune de mijloacele tehnice de a realiza
+serviciul în condițiile indicate și totodată nu deține personal specializat în domeniu pentru a
+putea asigura prestarea acestui serviciu prin modalitatea gestiunii directe.
+Operatorii de salubrizare și deszăpezire care vor fi luați în calcul, în cazul gestiunii
+delegate, dețin experiență, utilaje și personal pentru prestarea serviciului în condițiile în care
+pentru obținerea licențelor ANRSC pentru aceste tipuri de activități se impune prin lege o
+dotare minimă de utilaje și personal.
+Se justifică așadar oportunitatea delegării serviciului de salubrizare , pentru activitățile:
+„măturatul, spălatul si stropitul căilor publice, inclusiv colectarea si transportul deșeurilor de
+pamant si pietre provenite de pe căile publice la depozitele de deșeuri, precum si a deșeurilor
+provenite din coșurile stradale la depozitele de deșeuri si/sau instalațiile de tratare" si
+„curățarea si transportul zăpezii de pe căile publice si menținerea in funcțiune a acestora pe
+timp de polei sau de îngheț" in ... astfel încât prestarea serviciului către locuitorii
+Municipiului ... sa se realizeze in condiții optime
+ Din lecturarea celor mai sus redate se reține că entitatea
+contractantă a justificat oportunitatea delegării serviciului de salubrizare,
+pentru activitățile: „măturatul, spălatul si stropitul căilor publice, inclusiv colectarea si
+transportul deșeurilor de pamant si pietre provenite de pe căile publice la depozitele de
+deșeuri, precum si a deșeurilor provenite din coșurile stradale la depozitele de deșeuri si/sau
+instalațiile de tratare" si „curățarea si transportul zăpezii de pe căile publice si menținerea in
+funcțiune a acestora pe timp de polei sau de îngheț" in ... astfel încât prestarea
+serviciului către locuitorii Municipiului ... sa se realizeze în condiții optime
+pe considerentul că: în urma analizei SWOT privind atribuirea serviciului public de
+salubrizare stradală și deszăpezire a Municipiului ... considerăm oportună atribuirea serviciului
+public de salubrizare pentru activitățile: „măturatul, spălatul si stropitul căilor publice, inclusiv
+colectarea si transportul deșeurilor de pamant si pietre provenite de pe căile publice la
+depozitele de deșeuri, precum si a deșeurilor provenite din coșurile stradale la depozitele de
+deșeuri si/sau instalațiile de tratare" si „curățarea si transportul zăpezii de pe căile publice si
+menținerea in funcțiune a acestora pe timp de polei sau de îngheț" in ... prin concesiune de
+servicii, pe o perioadă de 8 ani, conform legislației privind achizițiile publice.
+Autoritatea contractantă, prin studiul de oportunitate, parte din
+documentație a detaliat aspectele de ordin economico-financiar, aspecte
+de ordin social și aspecte de natură tehnică și a enumerat argumentele
+care stau la baza atribuirii serviciului de salubrizare stradală și
+deszăpezire prin semnarea unui contract de concesiune de servicii, însă
+Pagina 47 din 58
+
+niciunde nu a făcut dovada fezabilității contractului licitat prin raportare
+la costuri, raportat la tipul de contract ales. 
+Autoritatea contractantă a inițiat procedură de atribuire prin
+concesionare a contractului, cu motivația precizată în cadrul strategiei de
+contractare:
+În scopul stabilirii tipului de contract, respectiv a prevederilor legale conform cărora se
+va face atribuirea contractului de . au fost analizate riscurile specifice operării cuprinse în
+matricea riscurilor pentru delegare, în particular riscurile asociate operării instalațiilor de pe
+amplasamente. Analiza a ținut cont de:
+-modul propus de gestionare a riscului;
+-alocarea responsabilității privind gestionarea riscului, între Operator și
+Autoritatea Contractantă;
+-pierderea potențială estimată suportată de Operator;
+-măsura în care potențialele pierderi suportate de Operator, cauzate de
+manifestarea riscurilor analizate, pot fi recuperate de către acesta, prin aplicarea condițiilor
+contractuale.
+Astfel, din această analiză reiese că o parte semnificativă a riscului de operare este
+transferată operatorului, situație în care contractul de delegare a gestiunii serviciilor va fi
+considerat contract de concesiune de servicii. Pentru atribuirea contractului vor fi aplicate
+prevederile Legii nr. 100/2016 privind concesiunile de lucrări și concesiunile de servicii.
+ cât și în studiul de oportunitate În urma analizei SWOT privind atribuirea
+serviciului public de salubrizare stradală și deszăpezire a Municipiului ... considerăm oportună
+atribuirea serviciului public de salubrizare pentru activitățile: „măturatul, spălatul si stropitul
+căilor publice, inclusiv colectarea si transportul deșeurilor de pamant si pietre provenite de pe
+căile publice la depozitele de deșeuri, precum si a deșeurilor provenite din coșurile stradale la
+depozitele de deșeuri si/sau instalațiile de tratare" si „curățarea si transportul zăpezii de pe
+căile publice si menținerea in funcțiune a acestora pe timp de polei sau de îngheț" in ... prin
+concesiune de servicii, pe o perioadă de 8 ani, conform legislației privind achizițiile publice.
+(...).
+Așa cum am enunțat și anterior U.A.T. ... nu dispune de mijloacele tehnice de a realiza
+serviciul în condițiile indicate și totodată nu deține personal specializat în domeniu pentru a
+putea asigura prestarea acestui serviciu prin modalitatea gestiunii directe.
+Operatorii de salubrizare și deszăpezire care vor fi luați în calcul, în cazul gestiunii
+delegate, dețin experiență, utilaje și personal pentru prestarea serviciului în condițiile în care
+pentru obținerea licențelor ANRSC pentru aceste tipuri de activități se impune prin lege o
+dotare minimă de utilaje și personal.
+Se justifică așadar oportunitatea delegării serviciului de salubrizare, pentru activitățile:
+„măturatul, spălatul si stropitul căilor publice, inclusiv colectarea si transportul deșeurilor de
+pamant si pietre provenite de pe căile publice la depozitele de deșeuri, precum si a deșeurilor
+provenite din coșurile stradale la depozitele de deșeuri si/sau instalațiile de tratare" si
+„curățarea si transportul zăpezii de pe căile publice si menținerea in funcțiune a acestora pe
+timp de polei sau de îngheț" in ... astfel încât prestarea serviciului către locuitorii
+Municipiului ... sa se realizeze in condiții optime.
+Or câtă vreme, dispozițiile legale anterior invocate, art. 8 alin. 1 din
+Legea nr. 100/2016 stabilesc: „Prin studiul de fundamentare prevăzut la art. 7 alin.
+(1) autoritatea/entitatea contractantă are obligația să analizeze dacă atribuirea contractului
+implică transferul unei părți semnificative a riscului de operare către operatorul economic."
+alineatul 2 al aceluiași articol stabilește: „În cazul în care, ca urmare a analizei
+prevăzute la alin. (1), autoritatea/entitatea contractantă constată că o parte semnificativă a
+riscului de operare, astfel cum este definit la art. 6, va fi transferată operatorului economic,
+contractul va fi considerat contract de concesiune, urmând a se aplica prevederile prezentei
+legi impun realizarea unei analize obiective și determinarea tipului de
+contract ce se atribuie pe baza constatării rezultatului analizei. Nu este
+suficientă abordarea îmbrățișată de achizitoare care s-a mărginit la
+Pagina 48 din 58
+
+constatarea faptului că este oportun a derula un contract de concesiune
+(în virtutea aspectelor de ordin economico-financiar, aspecte de ordin
+social și aspecte de natură tehnică) astfel cum rezultă din conținutul
+studiului de oportunitate. 
+Achizitioarea a decis ca respectivul contract să fie de concesiune
+și în funcție de acest aspect a realizat repartiția riscurilor către operator.
+Abordarea achizitoarei nu este una judicioasă atâta vreme cât
+studiul de oportunitate nu cuprinde nicio analiză economico-financiară.
+Neexistând nicio analiză, în stabilirea contractului drept concesiune,
+autoritatea contractantă a lăsat neaplicate prevederile relevante, citate și
+referite mai sus, din Legea nr. 100/2016 și din HG nr. 867/2016.
+ Entitatea contractantă a argumentat în replică la acuzele
+contestatoarei vizavi de pretinsa lipsă a justificării alegerii contractului de
+concesiune versus contract de achiziție publică că în cadrul studiului de
+oportunitate la paginile 40 – 61) a fost realizata o analiză comparativă a
+celor doua moduri de atribuire, și anume prin contract de achizitie
+publica versus concesiune, prin prezentarea avantajelor si dezavantajelor
+fiecarei modalitati de atribuire, a riscurilor aferente fiecarei modalitati,
+cat si cuantificarea financiara a acestora.
+Împrejurarea că prin studiul de fundamentare se realizează o
+analiză comparativă a celor două modalități de atribuire a contractului,
+achiziție publică versus concesiune, rezultatul analizei comparative
+vizavi de alocarea riscurilor fiind precizate la pagina 61 Comparând
+procentajul mediu al riscurilor, se poate observa că în varianta de atribuire a contractului de
+prestări servicii prin achiziție publică alocarea riscurilor către autoritatea contractantă este de
+56,25 %, în timp ce în cazul concesiunii acest procent este de 12,5% nu conduce la
+eficiența pe care achizitoarea trebuia să o acorde dispozițiilor art. 8 alin.
+(2) și (2) din Legea nr. 100/2016.
+ Din precizările cuprinse în studiul de oportunitate rezultă că
+determinarea procedurii ce trebuie să se aplice nu s-a făcut pe baza
+criteriilor stabilite imperativ prin lege, ci în funcție de ce a considerat
+autoritatea contractantă că este mai rentabil pentru ea. Riscurile
+contractului avute în vedere în determinarea naturii contractului au fost
+alocate operatorului nu pentru că acesta ar fi cel mai apt să le
+gestioneze, ci pentru ca procedura să fie de concesionare, acest tip de
+procedură fiind expres recunoscut prin studiul de fundamentare ca fiind
+mai rentabil pentru autoritatea contractantă.
+Așa cum a susținut și contestatoarea consecința practică a atribuirii
+contratului prin aplicarea greșită a Legii nr. 100/2016, este impunerea
+forțată către operator a unor riscuri care nu țin de el și asumarea
+corelativă a unor sarcini nejustificate, fapt ce generează riscul de
+nesustenabilitate a execuției contractului, pentru operator.
+Textele legale anterior citate impun realizarea unei analize obiective
+și determinarea tipului de contract ce se atribuire pe baza constatării
+rezultatului analizei.
+Pagina 49 din 58
+
+În considerarea celor antemenționate sunt relevante cele susținute
+de contestatoare, respectiv:
+ Prin urmare, prin studiul de fundamentare se constată o stare de fapt, nu se ia o
+decizie. Or, în speță, cum rezultă din conținutul studiului de oportunitate, autoritatea
+contractantă a decis ca contractul să fie de concesiune și în funcție de asta a realizat repartiția
+riscurilor către operator.
+(...)
+Riscurile contractului avute în vedere în determinarea naturii contractului au fost alocate
+operatorului nu pentru că acesta ar fi cel mai apt să le gestioneze, ci pentru ca procedura să fie
+de concesionare
+ Acest lucru se recunoaște expres prin studiul de oportunitate unde se arată
+următoarele: 
+i.Pag. 47: „Astfel avantajul alegerii unei concesiuni îl constituie, în afară de
+evitarea dificultăților generate de identificarea unor surse de finanțare, si neasumarea de către
+autoritatea contractantă a unor riscuri ulterioare realizării investiției."
+ii.Pag. 47: „Față de cele prezentate anterior, varianta prin care serviciul este
+prevăzut a se realiza prin atribuirea unui contract de concesiune este mai avantajoasă în
+raport cu varianta prin care serviciul este prevăzut a se realiza prin atribuirea unui contract de
+achiziție publică."
+iii.Pag. 54: „Prin delegarea serviciului de salubrizare al Municipiului ..., prin
+atribuirea unui contract de concesiune, concesionarul va prelua o parte semnificativă a riscului
+afrente exploatării."
+iv.Pag. 61: „În urma analizei SWOTprivind atribuirea serviciului public de
+salubrizare stradală și deszăpezire a Municipiului ..., considerăm oportună atribuirea serviciului
+public de salubrizare (...) în ... prin concesiune de servicii, pentru o perioadă de 8 ani, conform
+legislației privind achizițiile publice."
+ În mod similar vor fi reținute ca fiind judicioase și precizările ...
+SRL în favoarea celor reclamate vizavi de inițierea unei proceduri de
+concesionare, deși natura contractului este de achiziție, respectiv:
+Autoritatea Contractantă a inițiat o procedură de atribuire prin
+concesionare a contractului, cu motivația că îi este sieși mai favorabilă, deși
+raportat la natura contractului, mecanismul plăților și condițiile de calificare
+prevăzute de lege, contractul trebuia să fie atribuit sub forma unei achiziții. În
+acest sens arătăm că:
+ - Potrivit documentației de atribuire, plățile ce se cuvin operatorului în
+baza contractului sunt în sarcina autorității contractante, aceasta fiind cea
+ținută să plătească contravaloarea serviciului către operator.
+ - Conform practicii CJUE, rezultată din Hotărârea pronunțată în cauza C-
+348/10, par. 41 „(...) diferența dintre un contract de servicii si o concesionare
+de servicii constă în contraprestația prestării de servicii. Contractul de servicii
+presupune un echivalent financiar care este plătit direct de autoritatea
+contractantă prestatorului de servicii, în timp ce, în cazul unei concesionări de
+servicii, echivalentul financiar constă în dreptul de a exploata serviciul fie
+singur, fie însoțit de un preț."
+ - Criteriul secundar pentru determinarea tipului de contract licitat, cel al
+riscului de operare, a fost folosit de Autoritatea Contractantă potestativ,
+alocarea riscurilor în sarcina operatorului fiind făcută voit pentru ca procedura
+să fie de concesiune, aspect expres recunoscut prin Studiul de oportunitate.
+ - Întrucât criteriul esențial al plăților, stabilit imperativ de CJUE ca
+element de distincție între achiziție și concesiune, face ca în prezenta
+procedură contractul să aibă natura unuia de achiziție, actele administrative
+prin care Autoritatea Contractantă a aprobat atribuirea unei concesiuni,
+Pagina 50 din 58
+
+precum și întreaga documentație de atribuire ce vizează atribuirea și
+executarea unei concesiuni, sunt nelegale și se impun anulate.
+Consiliul apreciază a fi relevant de redat considerentele Hotărârii
+CJUE pronunțată în cauza C-348/10, HOTĂRÂREA CURȚII (Camera a doua)10 noiembrie
+2011(*)
+„Achiziții publice – Directiva 2004/17/CE – Articolul 1 alineatul (3) litera (b) – Directiva
+92/13/CEE – Articolul 2d alineatul (1) litera (b) – Noțiunea «concesionare de servicii» –
+Prestare de servicii de transport public cu autobuzul – Drept de a exploata serviciul și plata, în
+beneficiul prestatorului de servicii, a unei compensații a pierderilor – Risc legat de exploatare
+limitat potrivit legislației naționale și contractului – Căi de atac în materie de atribuire a
+contractelor de achiziții publice – Aplicabilitate directă a articolului 2d alineatul (1) litera (b) din
+Directiva 92/13/CEE în cazul contractelor încheiate înainte de expirarea termenului pentru
+transpunerea Directivei 2007/66/CE” invocată de contestatoare:
+În această privință, este suficient să se arate că Directiva 2004/18 cuprinde la articolul
+1 alineatul (2) litera (a) și alineatul (4) definiția „contractului de achiziții publice” și definiția
+„concesionării de servicii”, care sunt analoage în esență cu definițiile corespunzătoare cuprinse
+în articolul 1 alineatul (2) litera (a) și alineatul (3) litera (b) din Directiva 2004/17. Această
+asemănare impune ca aceleași considerații să fie utilizate pentru interpretarea noțiunilor de
+contract de achiziții de servicii și de concesionare de servicii în domeniul de aplicare respectiv
+al celor două directive menționate mai sus (Hotărârea din 10 septembrie 2009, Eurawasser,
+C-206/08, Rep., p. I-8377, punctele 42 și 43). Prin urmare, interpretarea articolului 1 alineatul
+(2) litera (a) și alineatul (3) litera (b) din Directiva 2004/17 poate fi transpusă direct
+prevederilor corespunzătoare din Directiva 2004/18, astfel cum recunoaște, de altfel, guvernul
+leton.
+40 Problema dacă o operațiune trebuie calificată drept concesionare de
+servicii sau drept contract de achiziții publice de servicii trebuie analizată exclusiv în
+lumina dreptului Uniunii (a se vedea în special Hotărârea din 10 martie 2011, Privater
+Rettungsdienst und Krankentransport Stadler, C-274/09, nepublicată încă în Repertoriu, punctul
+23 și jurisprudența citată).
+41 Din noțiunile de contract de achiziții publice de servicii și de concesionare de
+servicii, definite la articolul 1 alineatul (2) literele (a) și (d) și, respectiv, alineatul (3) din
+Directiva 2004/17, rezultă că diferența dintre un contract de servicii și o concesionare
+de servicii constă în contraprestația prestării de servicii. Contractul de servicii
+presupune un echivalent financiar care este plătit direct de autoritatea contractantă
+prestatorului de servicii, în timp ce, în cazul unei concesionări de servicii,
+echivalentul financiar constă în dreptul de a exploata serviciul fie singur, fie însoțit
+de un preț (a se vedea în acest sens, în special, Hotărârea Eurawasser, citată anterior, punctul
+51).
+42 Referitor la un contract privind serviciile, împrejurarea că autoritatea
+contractantă nu plătește direct o remunerație către cocontractant, ci acesta din urmă are
+dreptul să perceapă o remunerație de la terți, îndeplinește cerințele unui echivalent financiar în
+sensul articolului 1 alineatul (3) litera (b) din Directiva 2004/17 (a se vedea în special
+Hotărârea Eurawasser, citată anterior, punctul 57).
+(...)
+44 Dacă modul de remunerare este unul dintre elementele determinante pentru
+calificarea unei concesionări de servicii, în plus, din jurisprudență reiese că concesionarea de
+servicii presupune asumarea de către concesionar a riscului legat de exploatarea serviciilor în
+cauză. Lipsa transferului către prestator al riscului legat de prestarea de servicii arată că
+operațiunea respectivă constituie un contract de achiziții publice de servicii, iar nu o
+Pagina 51 din 58
+
+concesionare de servicii (a se vedea în special Hotărârea Privater Rettungsdienst und
+Krankentransport Stadler, citată anterior, punctul 26).
+45 Este necesar, așadar, să se verifice dacă prestatorul își asumă riscul legat de
+exploatarea serviciului. Deși acest risc poate, desigur, să fie, de la început, foarte limitat,
+calificarea drept concesionare de servicii impune totuși ca autoritatea contractantă să transfere
+către concesionar totalitatea sau cel puțin o parte semnificativă a riscului la care este expusă
+(a se vedea în acest sens, în special, Hotărârea Privater Rettungsdienst und Krankentransport
+Stadler, citată anterior, punctul 29).
+În raport de cele mai sus redate CJUE a stabilit două criterii
+esențiale în funcție de care se determină natura unui contract ca fiind de
+concesiune ori de achiziție, respectiv:
+ - dacă contrapartida serviciilor este plătită direct de autoritatea
+contractantă, contractul este unul de achiziție, în caz contrar este de
+concesiune - criteriul principal;
+ - dacă riscul semnificativ de operare este suportat de autoritatea
+contractantă, contractul este de achiziție, în caz contrar contractul este
+de concesiune - criteriul secundar.
+Potrivit referințelor indicate de contestatoare, respectiv art. 12 alin.
+(1) din proiectul Contractului „Plata se va efectua în baza unei facturi emisă
+de către delegat în formă electronică, în format pdf. Factura se va comunica
+delegatarului prin mijloace electronice e-mail, de pe adresa de email securizată
+si comunicată în mod oficial." rezultând temeincia celor susținute de ... SRL
+respectiv în speță contractul are natura unuia de servicii, nu de
+concesiune, întrucât echivalentul financiar al serviciilor ce face obiectul
+contractului este plătit direct de autoritatea contractantă prestatorului de
+servicii.
+Aceeași concluzie de temeinicie va fi reținută de Consiliu și vizavi
+de criteriul secundar, vizavi de modalitatea de alocare a riscurilor. În
+stabilirea acestei finalități se are în vedere așa cum a fost anterior
+reținut că riscurile contractului avute în vedere în determinarea naturii
+contractului au fost alocate operatorului nu pentru că acesta ar fi cel mai
+apt să le gestioneze, ci pentru ca procedura să fie de concesionare.
+În mod similar, aceeași concluzie de temeinicie a susținerilor
+contestatoarei va fi reținută de Consiliu și în ceea ce privește studiul de
+oportunitate a contractului este nemotivat, nu s-a dovedit fiabilitatea
+economico-financiară a contractului de concesiune servicii și valoarea
+estimată a contactului este nejustificată.
+ Argumentele aduse de contestatoare în favoarea celor susținute se
+bazează pe următoarele aspecte: 
+ - Conform art. 16 alin. 1 din HG nr. 867/2016 „La realizarea studiului de
+fundamentare trebuie ținut seama de estimarea cheltuielilor si veniturilor pe
+întreaga durată a unui proiect, la care trebuie l...e în calcul nu numai costurile
+legate de construcție, ci si totalul cheltuielilor si veniturilor aferente operării si
+întreținerii de-a lungul perioadei proiectului."
+ - Întrucât serviciul licitat este unul de utilitate publică, în speța sunt
+aplicabile și prevederile art. 29 alin. 2 din Legea nr. 51/2006, ce stabilesc că
+„Delegarea gestiunii serviciilor de utilități publice, respectiv operarea,
+Pagina 52 din 58
+
+administrarea si exploatarea sistemelor de utilități publice aferente, se poate
+face pentru toate sau numai pentru o parte dintre activitățile componente ale
+serviciilor, pe baza unor analize tehnico-economice si de eficiență a costurilor
+de operare, concretizate într-un studiu de oportunitate."
+ - Conform art. 15 lit. a) din HG nr. 867/2016 „Rezultatele studiului de
+fundamentare a deciziei de concesionare trebuie să justifice necesitatea și
+oportunitatea concesiunii și să demonstreze că: a) proiectul este realizabil;"
+ - Raportat la prevederile legale citate, autoritatea contractantă are
+obligația de a realiza studiul de fundamentare în care trebuie să identifice
+categoriile esențiale de cheltuieli și să le estimeze prin mijloace obiective,
+astfel încât să se poată verifica matematic că din veniturile estimate pot fi
+acoperite costurile estimate și că astfel proiectul este realizabil.
+ - Cum se poate observa din studiul de fundamentare al Procedurii,
+autoritatea contractantă nu a făcut asta, în studiu neexistând nicio analiză
+economico-financiară. Neexistând nicio analiză a veniturilor și cheltuielilor
+preconizate autoritatea contractantă a lăsat neaplicate prevederile relevante,
+citate și referite mai sus, din legea nr. 100/2016 și din Anexa la HG nr.
+867/2016.
+ - Totodată, din cauza acestei deficiențe a studiului de fundamentare,
+nu există o bază reală nici pentru determinarea valorii estimate a contractului
+nici pentru stabilirea duratei contractului la 8 ani, toate impunând, conform
+legii, o fundamentare economico-financiară realizată pe baze obiective, care în
+speță, lipsește.
+Concluzia la care ajunge contestatoarea este aceea că efectul este
+că studiul de fundamentare nu respectă legea pentru că nu s-a făcut
+estimarea veniturilor, nu s-a realizat o estimare a costurilor și nu s-a
+făcut o analiză de eficiență a costurilor, fapt pentru care nu s-a realizat
+obiectivul studiului de fundamentare, de a se dovedi că proiectul este
+realizabil, adică a faptului că veniturile estimate sunt apte să acopere
+costurile estimate.
+ Se vor reține și precizările entității contractante în replică la cele
+reclamate, respectiv că la nivelul strategiei de contractare se regăsesc
+justificările atat privind durata contractului, cat si modul de determinare
+a valorii estimate si indicate documentele care au stat la baza
+determinarii respectivelor valori: modul de determinare a valorii estimate se
+regaseste in anexele studiului de oportunitate, respectiv in cadrul fiselor de
+fundamentare pentru fiecare activitate in parte pentru care s-au l... in
+considerare cantitatile estimate pentru serviciile de salubrizare stradala si
+deszapezire si costurile pe care le implica, pe baza suprafetelor, frecventelor, a
+numarului de utilaje, a consumurilor specifice, a echipamentelor propuse si a
+personalului propus pentru fiecare activitate. Astfel, prin Studiul de
+oportunitate s-au estimat cheltuielile si veniturile pe intreaga durata a
+proiectului, facand estimari realiste sit...iei Municipiului ..., aferente sectorului
+II.
+ Urmare a celor susținute de achizitoare în punctul de vedere
+contestatoare a precizat față de argumentele aduse de entitatea
+achizitoarea (vizavi de justificările privind durata contractului și
+Pagina 53 din 58
+
+determinarea valorii estimate a contractului că s-ar regăsi în strategia de
+contractare) că strategia de contractare nu este parte a documentației
+de atribuire și nu este actul prin care autoritatea contractantă trebuie să
+facă dovada fundamentării legale a concesiunii, acesta fiind studiul de
+fundamentare, act premergător strategiei de contractare.
+ Se impune a fi punctat faptul că respectivele fișe de fundamentare
+reprezentând anexe ale studiului de fundamentare nu se regăsesc
+publicate în SEAP.
+Așa cum a susținut și contestatoarea, studiul de oportunitate
+adoptat prin ... ... nr. .../2024, conține la pct. 7 o secțiune privind
+„Fezabilitatea tehnică" însă, niciunde în cuprinsul său nu se face și o analiză a
+fezabilității economico-financiare.
+ Așa cum a fost anterior arătat, raportat la prevederile legale
+citate, autoritatea contractantă are obligația de a realiza studiul de
+fundamentare în care trebuie să identifice categoriile esențiale de
+cheltuieli și să le estimeze prin mijloace obiective, astfel încât să se
+poată verifica matematic că din veniturile estimate pot fi acoperite
+costurile estimate și că astfel proiectul este realizabil.
+ În studiul de fundamentare neexistând nicio analiză economico-
+financiară, neexistând nicio analiză a veniturilor și cheltuielilor
+preconizate autoritatea contractantă a lăsat neaplicate prevederile
+relevante, citate și referite mai sus, din Legea nr. 100/2016 și din HG nr.
+867/2016.
+ Față de cele reținute sunt relevante precizările contestatoarei
+potrivit cărora:
+Totodată, din cauza acestei deficiențe a studiului de fundamentare, nu există o bază
+reală nici pentru determinarea valorii estimate a contractului nici pentru stabilirea duratei
+contractului la 8 ani, toate impunând, conform legii, o fundamentare economico-financiară
+realizată pe baze obiective, care în speță, lipsește.
+Acest lucru este cu atât mai grav cu cât în speță se atribuire serviciul de salubrizare,
+care este un serviciu de utilitate publică, cu privire la care art. 3 lit. e și j din Legea nr.
+101/2006 stabilesc că trebuie organizate astfel încât să se asigure continuitatea și securitatea
+serviciului, care în speță, din cauza lipsei unei analize economico-financiare de cost efective, nu
+pot fi garantate.
+Existența justificărilor menționate de autoritatea contractantă în
+strategia de contractare nu invalidează criticile privind caracterul
+nemotivat al studiului de fundamentare, în condițiile prevăzute de lege,
+nu dovedește că proiectul este realizabil lipsind o estimare pe baze
+justificate a cheltuielilor, lipsind o analiză tehnico-economică și de
+eficiență a costurilor de operare, respectiv o analiză a caracterului
+realizabil a proiectului.
+Lipsa elementelor mai sus amintite conduc la lipsa fundamentului
+pentru determinarea obiectivă a valorii estimate de autoritatea
+contractantă din considerentele mai jos expuse.
+La momentul stabilirii valorii estimate care se determină conform
+art. 12 alin. (2) din Legea nr. 100/2016 coroborat cu art. 16 alin. (1),
+alin. (2) și alin. (3) din HG nr. 867/2016, înainte de inițierea procedurii
+Pagina 54 din 58
+
+de atribuire și care este valabilă la momentul inițierii procedurii de
+atribuire, autoritatea contractantă trebuie să țină cont de toate
+prevederile legale în vigoare, astfel încât rezultatul procedurii să nu fie
+viciat de către operatorii economici prin propunerea unor prețuri care nu
+sunt rezultatul liberei concurențe sau care nu pot fi justificate.
+ Autoarea contestației a reclamat nejustificarea valorii estimate pe
+considerentul că, prin studiul de oportunitate, nu s-a făcut o analiză
+economico-financiară a contractului, astfel neexistând repere obiective
+pentru a verifica justificarea valorii estimate a contractului, respectiv:
+Putem însă susține fără dubiu că aceasta este supraestimată. Acest lucru întrucât, în
+prezent, subscrisa este operatorul serviciului în aria delegării și, valoarea totală a serviciilor
+prestate de subscrisa în ultimii 8 ani nu se apropie nici pe departe de valoarea de aprox.
+400.000.000 lei estimată în prezent, încasările subscrisei în toți acești 8 ani fiind de doar
+76.000.000 lei, astfel:
+(...)
+Situația anuală a încasărilor, constituie anexă la prezenta contestație, aceasta putând fi
+confirmată și de evidențele interne ale autorității contractante.
+În consecință, pentru că studiul de oportunitate nu conține o determinare obiectivă a
+valorii estimate a contractului și întrucât valoarea estimată a contractului este evident
+supradimensionată, procedura este nelegală.
+În măsura în care autoritatea contractantă a realizat intern un calcul obiectiv al valorii
+estimate a contractului, pe de o parte, acesta trebuia publicat ca parte a documentației de
+atribuire și, pe de altă parte, acesta este în mod vădit greșit, la o medie istorică anuală de sub
+10.000.000 lei a serviciului, nu se poate obiectiv justifica o valoare anuală estimată în această
+procedură de 50.000.000 lei. Dacă autoritatea contractantă, urmare a prezentei contestații,
+face dovada existenței unui calcul obiectiv a valorii estimate a contractului, subscrisa, în baza
+acestuia, urmează a detalia punctual motivele pentru care respectivul calcul este eronat.
+Specificul contractului de concesiune, dată fiind și perioada
+contractuală, presupune o estimare a implicațiilor financiare și de altă
+natură pe care le presupun derularea acestuia pe baza unor cercetări și
+fundamentări anterioare, iar o stabilire exactă a implicațiilor
+financiare este greu de manageriat, astfel că organizatoarea
+procedurii trebuie să aibă la bază o cercetare amplă, prin punerea la
+dispoziție a studiului de fundamentare, caietului de sarcini, analizei cost-
+beneficiu și a costurilor estimative ale serviciilor, documente care stau la
+baza elaborării documentației de atribuire.
+Având în vedere importanța stabilirii tarifelor în cadrul valorii
+contractului și determinarea profitabilității acestuia, Consiliul determină
+că autoritatea contractantă trebuie să procedeze la punerea la dispoziție
+a calculelor care au stat la baza valorii estimate, fișele de fundamentare
+reprezentând anexele la studiul de fundamentare, astfel încât acestea să
+permită elaborarea de către operatorii economici a unor oferte
+corespunzătoare și care, în același timp, să asigure profitabilitatea
+proiectului, fiind în interesul achizitoarei depunerea, în cadrul procedurii,
+a unor oferte conforme, din rândul cărora să stabilească oferta
+câștigătoare.
+Ofertele depuse reprezintă angajamente asumate de către ofertanți
+în scopul realizării obiectului contractului, astfel tarifele ofertate nu sunt
+elemente pur formale al ofertei, ci reprezintă elemente esențiale ale
+Pagina 55 din 58
+
+propunerii tehnice și financiare a cărui realitate și sustenabilitate
+urmează a fi verificată de comisia de evaluare, în baza respectării
+principiilor asumării răspunderii, tratamentului egal și nediscriminării și
+confirmate de ofertanți prin documentele înaintate autorității
+contractante. 
+Autoritatea contractantă nu se poate aștepta să primească oferte
+conforme și care să îi asigure posibilitatea desemnării ofertei
+câștigătoare și derularea proiectului complex și, în același timp, de o
+importanță deosebită pentru ..., câtă vreme nu asigură o informare
+completă, informații detaliate care să ajute operatorii economici în
+elaborarea ofertelor. 
+Pentru ca un operator economic să poată prezenta o ofertă
+conformă și cu posibilitatea de obținere a unui profit este necesar să
+cunoască în detaliu informațiile avute în vedere la estimarea valorii
+contractului.
+Față de cele de mai sus, Consiliul are în vedere că, dată fiind
+complexitatea contractului, importanța acestuia, durata contractuală și
+rezultate așteptate de la derularea proiectului, asigurarea posibilității
+depunerii unor oferte conforme, a unui echilibru contractual și a
+profitabilității contractului, îndeplinirea indicatorilor de performanță a
+prestării activității, specificați în regulamentul serviciului de salubrizare,
+se impune anularea procedurii pentru ca autoritatea contractantă să refacă
+studiul de oportunitate, să calculeze transparent și/sau corect valoarea
+estimată a contractului și elementele pe care, prin documentația de atribuire,
+autoritatea contractantă stabilit în funcție de valoarea estimată a contractului
+(garanția de participare și cea de bună execuție, nivelul experienței similare,
+nivelul bonității/resurselor reale negrevate de datorii pentru primele luni de
+contract etc).
+În raport de cele mai sus reținute, studiul de fundamentare este
+netemeinic sub aspectul analizei de determinare a tipului de contract
+licitat, sub aspectul identificării și alocării de către autoritatea
+contractantă a riscurilor, în special a celui de operare, așadar sub
+aspectul sustenabilității economico-financiare a contractului licitat, fapt
+pentru care se impune anulat. Ca o consecință a anulării studiului de
+fundamentare, se impune anularea procedurii de atribuire, a cărei
+întreagă construcție are la bază studiul de fundamentare greșit realizat.
+Pe cale de consecință se constată caracterul întemeiat al solicitărilor
+contestatoarei privind anularea procedurii pentru motivele arătate.
+Întrucât studiul de oportunitate este greșit și întrucât întreaga
+documentație de atribuire vizează un contract de concesiune, aceste acte
+se impun a fi anulate și refăcute, cu consecința anulării procedurii de
+atribuire.
+ Recapitulând ansamblul considerentelor anterior expuse,
+constatându-se faptul că, pe de o parte, criteriul esențial al plăților,
+stabilit imperativ de CJUE ca element de distincție între achiziție și
+Pagina 56 din 58
+
+concesiune, face ca în prezenta procedură contractul să aibă natura
+unuia de achiziție,iar pe de altă parte, criteriul secundar pentru
+determinarea tipului de contract licitat, cel al riscului de operare, a fost
+folosit de autoritatea contractantă după cum a dorit, alocarea riscurilor în
+sarcina operatorului fiind făcută pentru ca procedura să fie de
+concesiune, actele administrative prin care autoritatea contractantă a
+aprobat atribuirea unei concesiuni, precum și întreaga documentație de
+atribuire ce vizează atribuirea și executarea unei concesiuni se impun
+anulate.
+Dat fiind faptul că nu este posibilă adoptarea unor măsuri de
+remediere de către achizitoare, se impune anularea procedurii de
+atribuire.
+Fiind constatată necesitatea anulării procedurii, Consiliul nu se va
+mai pronunța asupra criticilor formulate de contestatoare în referire la
+remedierea anumitor prevederi a căror temeinicie este reclamată.
+ Față de cele constatate, Consiliu va admite, în parte, contestația
+depusă de ... SRL și va anula procedura de atribuire.
+Capătul de cerere referitor la remedierea documentației de atribuire
+va fi respins, ca rămas fără obiect, urmare a dispunerii măsurii anulării
+procedurii.
+Pentru aceste motive,
+în baza legii și a mijloacelor de probă aflate la dosar,
+CONSILIUL DECIDE:
+În temeiul art. 26 alin. (2) și (7) din Legea nr. 101/2016 privind
+remediile și căile de atac în materie de atribuire a contractelor de
+achiziție publică, a contractelor sectoriale și a contractelor de concesiune
+de lucrări și concesiune de servicii, precum și pentru organizarea și
+funcționarea Consiliului Național de Soluționare a Contestațiilor, pentru
+considerentele evocate în motivarea prezentei, admite, în parte,
+contestația depusă de ... SRL, în contradictoriu cu ... și anulează
+procedura de licitație deschisă organizată pentru atribuirea contractului
+având ca obiect .
+În temeiul art. 26 alin. (6) din Legea nr. 101/2016, respinge, ca
+rămas fără obiect, capătul de cerere referitor la remedierea
+documentației de atribuire pentru lotul amintit.
+Prezenta decizie este obligatorie pentru părțile cauzei potrivit
+dispozițiilor art. 28 alin. (1) din Legea nr. 101/2016, cu modificările și
+completările ulterioare.
+Împotriva prezentei decizii se poate formula plângere, în termen de
+10 zile de la comunicare pentru părțile cauzei, respectiv de la data luării
+la cunoștință de către alte persoane vătămate, în temeiul art. 29 din
+Legea nr. 101/2016.
+Pagina 57 din 58
+
+PREȘEDINTE,MEMBRU,MEMBRU,
+. . .
+ 
+Redactată în 4 exemplare originale, conține 50 pagini.
+Pagina 58 din 58

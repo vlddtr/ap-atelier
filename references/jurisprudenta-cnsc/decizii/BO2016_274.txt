@@ -1,0 +1,327 @@
+DECIZIE CNSC BO2016_274 — text integral (anonimizat de CNSC la publicare; raționament/considerente complete).
+Citeaz-o prin BO2016_274.
+
+CONSILIUL NAȚIONAL DE SOLUȚIONARE A
+CONTESTAȚIILOR
+C. N. S. C.
+Str. Stavropoleos, nr. 6, sector 3, București, România, CP 030084, CUI [CUI]
+Tel. +4 021 3104641 Fax. +4 021 3104642, +40218900745 www.cnsc.ro
+În conformitate cu prevederile art. 266 alin. (2) din Ordonanța de
+urgență a Guvernului nr. 34/2006 privind atribuirea contractelor
+de achiziție publică, a contractelor de concesiune de lucrări
+publice și a contractelor de concesiune de servicii, aprobată cu
+modificări și completări prin Legea nr. 337/2006, cu modificările
+și completările ulterioare, Consiliul adoptă următoarea
+DECIZIE
+Nr. ........./........./.........
+Data: ......... 
+Prin contestația nr. 21/26.01.......... (precizată prin adresa nr.
+65/01.02.........., înregistrată la CNSC sub nr. 2551/.........), înregistrată
+la Consiliul Național de Soluționare a Contestațiilor sub nr.
+2024/27.01.........., înaintată de SC ......... SRL, cu sediul în .........,
+str. ..., județul ........., înmatriculată la Oficiul Registrului Comerțului sub
+nr. ........., având CUI ........., reprezentată legal prin ......... – Director
+general, formulată împotriva rezultatului procedurii emis de ... ........., cu
+sediul în ........., ........., în calitate de autoritate contractantă în
+procedura, cerere de oferte online cu etapă finală de licitație electronică,
+organizată în vederea atribuirii contractului de achiziție publică având ca
+obiect „Prize de potențial cu stâlp din material plastic”, cu invitație de
+participare nr. ........., publicată în SEAP în ........., s-a solicitat Consiliului
+obligarea autoritatii contractante la a accepta prețul prevăzut în oferta
+financiară depusă pe platforma SEAP, aceasta urmând să înlocuiască
+prețul eronat rezultat în urma procesului de criptare, sau la a relua
+procesul de înscriere aferent acestei proceduri.
+ 
+În baza legii și a documentelor depuse de părți,
+ CONSILIUL NAȚIONAL DE SOLUȚIONARE A CONTESTAȚIILOR
+DECIDE:
+Admite contestația depusă de SC ......... SRL.
+Anulează raportul procedurii, în partea dedicată ofertei sale,
+precum și adresele de comunicare a rezultatului procedurii, ca acte
+subsecvente ale raportului procedurii.
+Obligă autoritatea contractantă ca, în termen de 15 zile de la
+primirea deciziei Consiliului, să reanalizeze oferta depusă de SC .........
+SRL, cu respectarea dispozițiilor legale și a celor evocate în motivare.
+1
+
+Dispune continuarea procedurii de achiziție publică, cu respectarea
+celor decise.
+Obligatorie.
+Împotriva prezentei decizii se poate formula plângere, în termen de
+10 zile de la comunicare.
+MOTIVARE
+În luarea deciziei, s-au avut în vedere următoarele:
+Prin contestația nr. 21/26.01.......... (precizată prin adresa nr.
+65/01.02.........., înregistrată la CNSC sub nr. 2551/.........), înregistrată
+la Consiliul Național de Soluționare a Contestațiilor sub nr.
+2024/27.01.........., SC ......... SRL atacă rezultatul procedurii emis
+de ........, în calitate de autoritate contractantă în procedura de atribuire
+mai sus arătată, potrivit căruia oferta sa a fost declarată neconformă în
+temeiul dispozițiilor art. 79 alin. (3) din HG nr. 925/2006 și inacceptabilă
+în temeiul dispozițiilor coroborate ale art. 36 alin. (1) lit. f) și art. 361
+alin. (4) din același act normativ.
+În fapt, contestatoarea susține că a introdus corect, în SEAP, prețul
+ofertat, respectiv 283500 lei. În urma criptării, precizează
+contestatoarea, deși nu au fost folosite „semne de punctuație”, prețul
+transmis către autoritatea contractantă a fost de 283,5 lei.
+De altfel, arată contestatoarea, între documentele încărcate în
+SEAP se află și Formularul de ofertă (document pdf) care conține prețul
+corect în cifre și litere.
+În acest context, contestatoarea susține că a răspuns solicitării de
+clarificări formulate de autoritatea contractantă, privind prețul neobișnuit
+de scăzut, raportându-se la momentul introducerii acestuia în SEAP.
+Față de considerentele expuse anterior, contestatoarea solicită
+obligarea autoritatii contractante la a accepta prețul prevăzut în oferta
+financiară depusă pe platforma SEAP, aceasta urmând să înlocuiască
+prețul eronat rezultat în urma procesului de criptare, sau la a relua
+procesul de înscriere aferent acestei proceduri.
+Prin adresa nr. 5717/08.02.........., înregistrată la CNSC sub nr.
+3253/08.02.........., autoritatea contractantă a transmis Consiliului
+punctul de vedere la contestație, solicitând respingerea acesteia ca
+nefondată și neîntemeiată.
+Raportându-se la criticile formulate de contestatoare, autoritatea
+contractantă precizează că, în fișa de date a achiziției, secțiunea IV.4.2)
+- Modalitatea de prezentare a propunerii financiare – sunt prevăzute
+următoarele: (...) Având în vedere faptul că procedura de achiziție se
+desfășoară online, prin mijloace electronice, propunerea financiară
+(Formularul de ofertă) se va încărca într-un singur fișier și va fi marcată
+ca „Formular de ofertă financiară”. Atenție: Propunerea financiară
+trebuie salvată și criptată în câmpul special din aplicația SEAP până la
+data limită de depunere a ofertelor. În caz contrar, autoritatea
+contractantă nu va putea evalua oferta de preț. A se avea în vedere că
+prețul care va fi criptat în secțiunea Ofertă a procedurii să fie identic cu
+2
+
+cel menționat în cadrul formularului de ofertă, în caz contrar ofertantul
+va fi descalificat. (...).
+În urma analizării propunerii financiare, comisia de evaluare a
+observat o neconcordanță între oferta de preț cuprinsă în Formularul de
+ofertă și oferta de preț criptată în SEAP, sens în care a adresat o
+solicitare de clarificare contestatoarei, prin intermediul SEAP, solicitare la
+care aceasta a răspuns în termenul indicat, prin adresa nr.
+18/19.01...........
+Astfel, precizează autoritatea contractantă, oferta de preț (prețul)
+criptată în SEAP (de 283,5 lei) reprezintă un preț aparent neobișnuit de
+scăzut în raport cu ceea ce urmează a fi furnizat și, totodată, este
+diferită de cea indicată în formularul depus în cadrul procedurii, respectiv
+283.500 lei (două sute optzeci și trei mii cinci sute).
+Autoritatea contractantă mai precizează că ofertantul avea obligația
+de a depune oferta (propunerea tehnică și propunerea financiară) în
+SEAP, în conformitate cu prevederile art. 36 coroborate cu cele ale art.
+17 alin. (1) și (2) din Normele de aplicare a HG nr. 1660/2006, conform
+facilităților sistemului.
+Prețul ofertei trebuia introdus în SEAP conform facilităților oferite
+de sistem și nu în cadrul documentelor de calificare, așa cum a procedat
+contestatoarea. Chiar dacă autoritatea contractantă cunoaște prețul prin
+introducerea, de către ofertant, a formularului de ofertă cu centralizator
+de prețuri la documentele de calificare, aceasta nu are dreptul și nu
+poate interveni în sistem, procedura fiind online, unde prețul trebuie
+afișat de sistem după introducerea deciziilor comisiei de evaluare.
+În opinia autorității contractante, explicația formulată de
+contestatoare în răspunsul la solicitarea de clarificări nu este relevantă și
+nu poate fi asimilată prevederilor art. ......... din HG nr. 925/2006,
+referitoare la existența unor vicii de formă/erori aritmetice.
+De altfel, nu există niciun indiciu referitor la faptul că, în speță,
+este vorba despre un viciu de formă, așa cum este acesta definit de
+art. ......... alin. (3) din HG nr. 925/2006, deoarece valoarea din
+formularul de ofertă, depus în cadrul documentelor de calificare,
+respectiv 283.500 lei, este eronat criptată în SEAP.
+În plus, susține autoritatea contractantă, prețul criptat în SEAP este
+acela care se are în vedere la evaluarea ofertelor, iar eventualele
+neconcordanțe, erori sau vicii ce pot apărea după confruntarea tuturor
+documentelor, se lămuresc pe baza clarificărilor solicitate.
+În speță, apreciază autoritatea contractantă, răspunsul la
+solicitarea de clarificări nu a fost în măsură să elimine neconcordanța
+asupra ofertei de preț, contestatoarea neputând produce nicio probă prin
+care să demonstreze existența unui viciu de formă/erori aritmetice.
+Aceasta nu a prelevat nicio probă în sensul efectuării de fotografii/capturi
+ale ecranului calculatorului din care să rezulte că, la un anumit moment,
+câmpul destinat introducerii valorii ofertei, spre a fi criptată și salvată, a
+fost completat cu valoarea propunerii financiare corecte, astfel nu se
+poate reține un viciu de funcționare a sistemului SEAP, cum în mod
+eronat susține în motivarea cererii sale.
+3
+
+În absența oricărui probatoriu adecvat, în cauză, sunt relevante
+dispozițiile art. 172 alin. (2) și (4) din OUG nr. 34/2006, potrivit cărora
+Riscurile transmiterii ofertei, inclusiv forța majoră, cad în sarcina
+operatorului economic și, respectiv, Conținutul ofertelor trebuie să
+rămână confidențial până la data stabilită pentru deschiderea acestora,
+autoritatea contractantă urmând a lua cunoștință de conținutul
+respectivelor oferte numai după această dată, iar în cazul special al
+procedurii derulate integral prin mijloace electronice, informațiile privind
+propunerile financiare ale ofertanților ale căror oferte au fost considerate
+admisibile sunt permise autorității contractante de către sistemul
+informatic, în mod automat, doar după stabilirea ofertelor admisibile și
+introducerea informațiilor referitoare la acestea prin utilizarea facilităților
+sistemului.
+Pe de altă parte, autoritatea contractantă susține că riscul întocmirii
+ofertei cade în sarcina operatorului economic, el neputând să își invoce
+propria culpă ca motiv al întocmirii inacceptabile/neconforme a ofertei,
+potrivit principiului nemo auditur propriam turpitudinem allegans.
+În aceste condiții, autoritatea contractantă apreciază că analiza
+comisiei de evaluare și hotărârea adoptată, cu referire la oferta
+contestatoarei, sunt corecte. 
+Prin adresa nr. 3369/......... ........./09.02.........., Consiliul a solicitat
+Agenției pentru Agenda Digitală a României să transmită desfășurătorul
+procedurii, cu evidențierea valorii propunerii financiare încărcate în
+sistem de SC ......... SRL, precum și a ordinii în care autoritatea
+contractantă a accesat documentele depuse de acest ofertant.
+Drept răspuns, prin adresa nr. 5233/........., înregistrată la CNSC
+sub nr. 4095/16.02.........., Agenția pentru Agenda Digitală a României a
+prezentat desfășurătorul cu acțiunile operatorului economic SC .........
+SRL, în perioada de depunere a ofertelor și desfășurătorul cu
+documentele depuse de acesta. 
+Conform desfășurătorului atașat, operatorul economic SC ......... SRL
+a depus documentele de calificare și propunere tehnică, precum și
+formularul de ofertă financiară, pe care l-a criptat și care a fost marcat
+de sistem cu eticheta DA.
+De asemenea, a depus, criptat și salvat oferta financiară în câmpul
+special destinat din aplicație, care a fost disponibil la nivelul procedurii în
+perioada de depunere a ofertelor.
+În ceea ce privește propunerea financiară (oferta de preț și
+formularul de ofertă financiară), aceasta poate fi vizualizată și verificată
+de către operatorul economic în perioada de depunere, în timp ce
+autoritatea contractantă, organizatoare a procedurii de achiziție publică,
+poate vizualiza propunerea financiară doar pentru acei operatori
+economici care au fost admiși la etapa de evaluare tehnică și au trecut în
+următoarea etapă, cea de evaluare financiară, etapa de evaluare
+financiară fiind și cea în care se decriptează oferta financiară.
+Dat fiind faptul că în etapa de evaluare financiară a fost decriptată
+oferta financiară, Agenția pentru Agenda Digitală a României pune la
+dispoziție valoarea acesteia – 283,5 RON - cu mențiunea că această
+4
+
+valoare a fost criptată și salvată de către operatorul economic SC .........
+SRL în data de 11.01.......... la ora 02:10:08 PM.
+Față de susținerile părților și de documentele depuse la dosarul
+cauzei, Consiliul reține cele ce urmează:
+Pentru atribuirea contractului de achiziție publică având ca obiect
+„Prize de potențial cu stâlp din material plastic”, cod CPV 44425500-0
+Tije din plastic (Rev.2),........ (în calitate de autoritate contractantă), a
+inițiat procedura de cerere de oferte online cu etapă finală de licitație
+electronică, prin publicarea în SEAP a invitației de participare nr. .........
+din ........., la care a atașat documentația de atribuire.
+Decizia privind rezultatul aplicării procedurii i-a fost comunicată
+SC ......... SRL prin adresa nr. 3443 din 26.01.........., respectiv faptul că
+oferta acestei societăți a fost respinsă ca neconformă, potrivit art. 79
+alin. (3) din HG nr. 925/2006, deoarece, prin răspunsul la clarificarea
+prețului aparent neobișnuit de scăzut, ofertanta și-a modificat prețul din
+propunerea financiară criptată și salvată în SEAP, și ca inacceptabilă,
+potrivit art. 36 alin. (1) lit. f) coroborat cu art. 361 alin. (4) din HG nr.
+925/2006, deoarece prețul criptat în SEAP nu a fost justificat.
+Împotriva acestei decizii a autorității contractante, SC ......... SRL a
+înaintat Consiliului prezenta contestație (însoțită de garanția de bună
+conduită în valoare de 2.835,00 lei), solicitând obligarea autorității
+contractante la a accepta prețul prevăzut în oferta financiară depusă pe
+platforma SEAP, aceasta urmând să înlocuiască prețul eronat rezultat în
+urma procesului de criptare, sau la a relua procesul de înscriere aferent
+acestei proceduri.
+Analizând cauza supusă soluționării, Consiliul constată că, în acord
+cu regulile de desfășurare online a procedurilor de atribuire, SC .........
+SRL a postat în SEAP prețul ofertei sale ca fiind în valoare de 283,5 lei.
+Acest fapt este confirmat și de către Agenția pentru Agenda Digitală a
+României (adresa nr. 5233 din .........), ca urmare a solicitării Consiliului.
+În continuare, prin intermediul SEAP, autoritatea contractantă a
+solicitat ofertantei ca, în baza art. 202 din OUG nr. 34/2006, să justifice
+prețul aparent neobișnuit de scăzut postat în SEAP.
+Din punctul de vedere al autorității contractante la contestația
+primită, rezultă că la momentul solicitării clarificării privind prețul criptat
+de SC ......... SRL, aceasta cunoștea și faptul că în formularul de ofertă
+postat de societate în SEAP, era înscris un alt preț al ofertei acesteia,
+respectiv 283500 lei.
+SC ......... SRL a răspuns prin adresa nr. 18 din 19.01.......... și a
+arătat că prețul ofertei sale este de 283500 lei (conform formularului de
+ofertă), prețul criptat în SEAP datorându-se unei erori de criptare a
+sistemului electronic.
+Așa cum se preciza mai sus, autoritatea contractantă a înțeles să
+respingă oferta SC ......... SRL, pentru motivele expuse în adresa de
+comunicare a rezultatului procedurii.
+În analiza situației de fapt expusă, Consiliul are în vedere
+următoarele dispoziții ale HG nr. 925/2006:
+5
+
+alin. (2)- art. 79: „(3) În cazul în care ofertantul modifică prin
+răspunsurile pe care le prezintă conținutul propunerii financiare, oferta
+sa va fi considerată neconformă, cu excepția situației prevăzute la
+art. ......... alin. (2).” 
+- art. .........: „(1) Comisia de evaluare are dreptul de a corecta
+erorile aritmetice sau viciile de formă numai cu acceptul ofertantului. În
+cazul în care ofertantul nu acceptă corecția acestor erori/vicii, oferta sa
+va fi considerată neconformă.
+(2) Erorile aritmetice se corectează după cum urmează: [...]
+b) dacă există o discrepanță între litere și cifre, trebuie luată în
+considerare valoarea exprimată în litere, iar valoarea exprimată în cifre
+va fi corectată corespunzător. 
+(3) Viciile de formă reprezintă acele erori sau omisiuni din cadrul
+unui document a căror corectare/completare este susținută în mod
+neechivoc de sensul și de conținutul altor informații existente inițial în
+alte documente prezentate de ofertant sau a căror corectare/completare
+are rol de clarificare sau de confirmare, nefiind susceptibile de a produce
+un avantaj incorect în raport cu ceilalți participanți la procedura de
+atribuire.” 
+Rezultă, din expunerea de fapt, că, în situația prețului criptat al
+ofertei SC ......... SRL, se identifică atât existența unei erori aritmetice,
+de vreme ce prețul criptat în SEAP este diferit de prețul exprimat în litere
+și cifre, menționat în formularul de ofertă, legiuitorul stabilind că în acest
+caz primează prețul exprimat în litere, respectiv „două sute optzeci și trei
+de mii cinci sute” lei, cât și existența unui viciu de formă de vreme ce
+corectarea erorii din prețul criptat este susținută în mod neechivoc de
+sensul și de conținutul informațiilor existente inițial în formularul de
+ofertă.
+Se poate constata, din vizualizarea câmpului electronic (conform
+print-screen asigurat de autoritatea contractantă), că valoarea introdusă
+(283.5) a ofertei contestatoarei prezintă doar diferențe de caractere de
+punctuație, față de oferta contracandidata (283,500). Prin urmare, este
+ușor de înțeles că se poate explica eroarea de introducere a sumei în
+sistem, care recunoaște punctul dintre cifre drept separator al
+zecimalelor, în timp ce virgula separă ordinul sutelor de cel al miilor etc.
+Așadar, având în vedere aspectele de fapt și de drept menționate,
+Consiliul stabilește că autoritatea contractantă era ținută la a lua în
+considerare explicația primită de la SC ......... SRL prin adresa nr. 18 din
+19.01.......... și la a corecta, în consecință, situația acestei ofertante, prin
+luarea în considerare a prețului real și corect al acesteia, menționat în
+formularul de ofertă, răspunsul societății din adresa nr. 18 din
+19.01.......... putând fi considerat, fără dubiu, un acord în sensul
+corectării erorii constatate.
+Remedierea nu ar fi fost de natură să afecteze procesul
+competițional, de vreme ce, la momentul lămuririi situației, prețurile nu
+erau vizibile pentru ceilalți ofertanți, care să fi fost induși în eroare,
+procedura nefiind trecută în etapa sa finală de licitație electronică.
+6
+
+Sunt lipsite de relevanță susținerile autorității contractante că
+formularul de ofertă, la rândul său, ar fi fost adăugat documentelor de
+calificare și nu în secțiunea dedicată propunerii financiare, câte vreme
+acest aspect nu a fost reținut drept motiv de excludere din competiție.
+De altfel, o asemenea apreciere a autorității contractante vine și în
+contradicție cu demersul său de a clarifica neconcordanța dintre prețul
+criptat în SEAP și prețul din formularul de ofertă.
+Având în vedere considerentele expuse, Consiliul stabilește ca
+nelegală decizia autorității contractante și reține caracterul fondat al
+criticilor din contestație.
+Luând în considerare aspectele de fapt și de drept evocate, în baza
+art. 278 alin. (2) din Ordonanța de urgență a Guvernului nr. 34/2006
+privind atribuirea contractelor de achiziție publică, a contractelor de
+concesiune de lucrări publice și a contractelor de concesiune de servicii,
+cu modificările și completările ulterioare, Consiliul urmează să admită
+contestația depusă de SC ......... SRL și să anuleze raportul procedurii, în
+partea dedicată ofertei sale, precum și adresele de comunicare a
+rezultatului procedurii, ca acte subsecvente ale raportului procedurii.
+În baza art. 278 alin. (2) și (4) din ordonanță, Consiliul va obliga
+autoritatea contractantă ca, în termen de 15 zile de la primirea deciziei
+Consiliului, să reanalizeze oferta depusă de SC ......... SRL, cu
+respectarea dispozițiilor legale și a celor evocate în motivare.
+În baza art. 278 alin. (6) din ordonanța de urgență, Consiliul va
+dispune continuarea procedurii de achiziție publică, cu respectarea celor
+decise.
+La punerea în aplicare a dispozițiilor din prezenta decizie, părțile
+vor avea în vedere că este obligatorie, dar și că pot formula plângere
+împotriva ei, în conformitate cu dispozițiile art. 280 alin. (3) și art. 281
+din OUG nr. 34/2006. 
+PREȘEDINTE COMPLET
+.........
+ MEMBRU COMPLET MEMBRU COMPLET
+ ......... .........
+....
+7

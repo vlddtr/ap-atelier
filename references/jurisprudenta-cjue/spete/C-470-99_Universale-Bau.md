@@ -1,0 +1,14 @@
+# C-470/99 — Universale-Bau AG și alții c. Entsorgungsbetriebe Simmering GmbH
+
+- Instanță: CJUE (Camera a șasea)
+- Data: 2002-12-12
+- ECLI: ECLI:EU:C:2002:746
+- Părți: Universale-Bau AG, Bietergemeinschaft (1) Hinteregger & Söhne Bauges.mbH Salzburg, (2) ÖSTÜ-STETTIN Hoch- und Tiefbau GmbH c. Entsorgungsbetriebe Simmering GmbH (trimitere de la Vergabekontrollsenat des Landes Wien, Austria)
+- Temă: noțiunea de autoritate contractantă / organism de drept public; remedii — termene de contestare
+- Cadru juridic: Directiva 93/37/CEE (lucrări publice), inclusiv noțiunea de „organism de drept public"; Directiva 89/665/CEE (remedii), art. 1 alin. (1).
+- Întrebarea preliminară: (1) O entitate care nu a fost înființată pentru a satisface în mod specific nevoi de interes general fără caracter industrial sau comercial, dar care a preluat ulterior asemenea nevoi, poate fi „organism de drept public"? (2) Directiva 89/665 se opune unei reglementări naționale care condiționează exercitarea căilor de atac de respectarea unor termene de decădere (preclusive)?
+- Soluția (ratio): (1) Calitatea de „organism de drept public" se apreciază în funcție de îndeplinirea în concret a celor trei condiții cumulative; **nu este necesar ca entitatea să fi fost înființată chiar de la origine pentru satisfacerea nevoilor de interes general fără caracter industrial sau comercial** — este suficient ca ea să fi preluat ulterior asemenea atribuții, calitatea apreciindu-se prin raportare la activitatea efectiv desfășurată. (2) Directiva 89/665 **nu se opune** unei reglementări naționale care prevede termene de decădere rezonabile pentru introducerea căilor de atac, sub condiția respectării principiilor efectivității și echivalenței; termenele de decădere servesc securității juridice și nu sunt, ca atare, incompatibile cu directiva.
+- Text-cheie verbatim (din versiunea EN a hotărârii; versiunea RO de pe EUR-Lex redă doar titlul/sumarul tradus): „[...] in order to give a useful answer to the question whether a body [...] satisfies the condition [...], it is necessary to take account of the activities which it actually carries out." (cf. motivare, privind aprecierea în concret a calității de organism de drept public)
+- Relevanță achiziții RO: dublă relevanță. (a) Pentru noțiunea de **organism de drept public / autoritate contractantă** — art. 4 din **L. 98/2016** (calificarea se face după activitatea efectivă, nu doar după actul de înființare). (b) Pentru **termenele de contestare** din **L. 101/2016**: confirmă că termenele de decădere rezonabile sunt compatibile cu dreptul UE, dacă respectă efectivitatea și echivalența.
+- Sursă oficială: https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:61999CJ0470
+- Status: VERIFICAT (notă: versiunea RO de pe EUR-Lex conține doar titlul tradus; motivarea și dispozitivul consultate în versiunea EN. Nr., ECLI, data, instanța, părțile, dispozitivul — verificate.)

@@ -1,0 +1,2028 @@
+DECIZIE CNSC BO2016_1732 — text integral (anonimizat de CNSC la publicare; raționament/considerente complete).
+Citeaz-o prin BO2016_1732.
+
+CONSILIUL NAȚIONAL DE
+SOLUȚIONARE A CONTESTAȚIILOR
+Str. Stavropoleos nr. 6, sector 3, București, cod poștal 030084, România
+Tel: +4 021.310.46.41 Fax: +4 021.890.07.45 și +4 021.310.46.42 www.cnsc.ro
+În conformitate cu prevederile art. 12 alin. (1) și ale art. 27
+alin. (1) din Legea nr. 101/2016 privind remediile și căile de atac
+în materie de atribuire a contractelor de achiziție publică, a
+contractelor sectoriale și a contractelor de concesiune de lucrări
+și concesiune de servicii, precum și pentru organizarea și
+funcționarea Consiliului Național de Soluționare a Contestațiilor,
+Consiliul adoptă următoarea
+DECIZIE
+Nr. ...
+Data: ...
+Prin contestația nr. 1925/12.09.2016, înregistrată la Consiliu cu nr.
+27788/13.09.2016, înaintată de SC ...SRL, cu sediul în ..., înmatriculată
+la Oficiul Registrului Comerțului sub nr. ..., având CUI RO ..., reprezentată
+convențional prin Cabinetul de ..., formulată împotriva documentației de
+atribuire întocmită de ..., cu sediul în ..., în calitate de autoritate
+contractantă, în cadrul procedurii de licitație deschisă organizată în
+vederea atribuirii contractului de furnizare având ca obiect “computer
+tomograf, transport, instalare, punere în funcțiune și instruire personal”,
+s-a solicitat:
+- în principal, modificarea următoarelor specificații tehnice:
+1Distanța focar izocentru: maxim 55 cm și 
+Distanța focar detector: maxim 95 cm
+Distanța focar izocentru: minim 55 cm și Distanța focar
+detector: minim 95 cm
+2Puterea generatorului: minim 50 kW. Nu se
+acceptă echivalente.
+Puterea generatorului: minim 42 kw. Nu se acceptă
+echivalente.
+3Curent anodic reglabil între: minim 30-340
+mA. Nu se acceptă echivalente.
+Curent anodic reglabil între: minim 30-300 mA. Nu se
+acceptă echivalente.
+4Tub RX cu două focare cu dimensiunile:
+maxim 0,8 x 0,6 mm pentru focarul mic și
+maxim 0,9 x 0,8 mm pentru focarul mare
+(IEC 60336)
+Tub RX cu două focare cu dimensiunile: maxim 0,8 x 0,6
+mm pentru focarul mic și maxim 1.4 x 1.6 mm pentru
+focarul mare (IEC 60336)
+Precizarea numărului filamentelor tubului de raze X
+- în subsidiar, anularea procedurii de atribuire a contractului de
+achiziție publică;
+- suspendarea procedurii de achiziție publică până la soluționarea
+fondului cauzei.
+Prin contestația nr. 1720/12.09.2016, înregistrată la Consiliul
+Național de Soluționare a Contestațiilor cu nr. 27800/13.09.2016,
+înaintată de SC ...SRL, cu sediul în ..., având CUI ..., înregistrată la
+Registrul Comerțului ... sub nr. ..., reprezentată convențional prin SCA ...,
+formulată împotriva caietului de sarcini și a răspunsului la clarificări,
+elaborate de către ..., în cadrul aceleiași procedurii de atribuire, s-a
+solicitat:
+1
+ 
+
+- obligarea autorității contractante la adoptarea măsurilor de
+remediere;
+- în subsidiar, în cazul în care adoptarea măsurilor de remediere nu
+este posibilă, solicită anularea procedurii de atribuire, pentru
+nerespactarea legislației privind achizițiile publice și a principiilor ce se
+impun a fi respectate în acest domeniu;
+- suspendarea procedurii de atribuire până la soluționarea fondului
+cauzei.
+Prin Încheierea nr. .../15.09.2016, Consiliul s-a pronunțat asupra
+cererilor de suspendare a procedurii de atribuire, pe care le-a admis. Pe
+rol, în prezent, se află celelalte capete de cerere din contestații.
+Aplicând dispozițiile art. 17 alin. 2 din Legea nr. 101/2016, pentru
+pronunțarea unei soluții unitare, Consiliul conexează cele două cauze.
+CONSILIUL NAȚIONAL DE SOLUȚIONARE A CONTESTAȚIILOR,
+asupra cauzei de față, constată următoarele:
+Consiliul a fost legal sesizat și este competent, potrivit dispozițiilor
+art. 12 alin. (1) din Legea nr. 101/2016, să soluționeze contestațiile de
+față, prin care SC ...SRL și SC ...SRL, operatori economici interesați de
+participarea la prezenta procedură, au criticat o serie de cerințe cuprinse
+în documentația de atribuire, solicitând cele menționate în partea
+introductivă a deciziei. 
+În fapt, la data de 29.08.2016, în conformitate cu prevederile art. 6
+din Legea nr. 101/2016 și în termen legal, contestatoarea SC ... SRL a
+notificat autoritatea contractantă cu privire la nelegalitatea specificațiilor
+tehnice, precum și cu privire la necesitatea remedierii acestora, astfel
+încât accesul operatorilor economici la procedura de atribuire a
+contractului să nu fie restricționat în mod nejustificat.
+La data de 30.08.2016, prin Clarificarea nr. 4203, autoritatea
+contractantă a răspuns solicitării și a acceptat exclusiv să remedieze
+documentația de atribuire cu privire la cerința privind numărul de canale
+de detector/secțiune. Totodată, prin răspunsul la notificarea prealabilă
+nr. 4264/01.09.2016, autoritatea contractantă a refuzat adoptarea
+măsurilor de remediere cu privire la cerințele menționate.
+A. În ceea ce privește nelegalitatea cerințelor din documentația de
+atribuire, petenta precizează următoarele:
+Prin caietul de sarcini (Secțiunea Caracteristici tehnice), autoritatea
+contractantă a impus, inter alia, următoarele specificații tehnice:
+ComponentaCerința din caietul de sarcini
+Gantry3.1. Distanța focar izocentru: maxim 55 cm și 
+Distanța focar detector: maxim 95 cm
+Generator de înaltă tensiune3.2. Puterea generatorului: minim 50 kW. Nu se 
+acceptă echivalențe.
+3.3. Curent anodic reglabil între: minim 30 - 340 mA.
+Nu se acceptă echivalențe.
+Ansamblu tub cupolă3.4. Tub RX cu două focare cu dimensiunile: maxim 
+0,8 x 0,6 mm pentru focarul mic și maxim 0,9 x 0,8 
+mm pentru focarul mare (IEC 60336)
+2
+
+Totodată, potrivit caietului de sarcini, toate condițiile și
+caracteristicile minimale menționate în specificația tehnică, sunt
+obligatorii. Neîndeplinirea unei singure cerințe atrage excluderea din
+competiție.
+În opinia sa, aceste specificații tehnice sunt restrictive și nelegale,
+astfel:
+1. Distanța focar izocentru: maxim 55 cm și Distanța focar
+detector: maxim 95 cm.
+Solicitarea autorității contractante este pentru un sistem cu
+apertura gantry de minim 70 cm. Prin urmare, implicit și distanțele focar
+izocentru și focar detector vor fi mai mari cu cât apertura gantry crește.
+În aceste condiții, cerințele legate de distanțele focar izocentru și
+focar detector trebuie să fie maximale. Astfel, cele 2 distanțe sunt direct
+proporționale cu deschiderea gantry. Acestea nu pot fi de tip minimal, în
+timp ce apertura este de tip maximal (cu cât este mai mare, cu atât este
+mai bună).
+Prin urmare, contrar celor afirmate de autoritatea contractantă prin
+răspunsul la notificarea prealabilă, calitatea imaginii obținute prin
+computer în tomografia modernă nu mai depinde de cantitatea de doză.
+Soluțiile actuale sunt de diminuare a dozei de raze X la care este expus
+pacientul. Astfel, cerința legată de scăderea puterii generatorului nu este
+contradictorie, ci dimpotrivă, este sinergică cu tendința la nivel mondial
+în sensul scăderii dozelor prin învestigația de computer tomografie.
+Pe de altă parte, în ceea ce privește cerințele autorității
+contractante de a oferta un echipament cu un gantry cât mai mare, dar
+cu distanțele focar detector și focar izocentru cât mai mici, acestea sunt
+contradictorii. Cu cât apertura gantry va crește, implicit și distanța dintre
+tubul de raze X și detector va crește direct proporțional.
+Este evident că solicitarea concomitentă a unui gantry cât mai
+mare și a celor două distanțe cât mai mici este lipsită de orice logică
+tehnică.
+Având în vedere cele de mai sus, contestatoarea solicită obligarea
+autorității contractante la modificarea aceastei cerințe, după cum
+urmează:
+Distanța focar izocentru: minim 55 cm și Distanță focar
+detector: minim 95 cm.
+2. Puterea generatorului: minim 50 kW. Nu se acceptă echivalente.
+Sistemele noi de computer tomografie sunt dotate cu detectori ce
+prezintă o capacitate crescută de detecție a fotonilor, iar în consecință nu
+mai sunt necesare puteri mari ale generatorului.
+În plus, cerințele caietului de sarcini nu sunt corelate. Astfel, având
+în vedere formula fizică: P = I x T (putere = intensitatea x tensiunea
+curentului electric), rezultă că pentru valorile maxime ale curentului și
+tensiunii solicitate (340 mA și respectiv 130 kV) puterea maximă a
+generatorului ar trebui să fie de 44 kW.
+Astfel, menținerea unei puteri de 50 kW nu justifică celelalte
+cerințe ale caietului de sarcini, iar pragul este ales arbitrar.
+3
+
+Nici argumentația autorității contractante din Răspunsul la
+notificarea prealabilă nu poate fi reținută, deoarece cerința caietului de
+sarcini se referă la puterea maximă a generatorului. Or, puterea maximă
+a generatorului va fi atinsă prin valoarea maximă a intensității curentului
+și a diferenței de potențial, de care este capabil acesta. Prin urmare,
+indiferent de momentul ales în timp, dacă acesta nu poate crește
+intensitatea curentului peste 340 mA și a tensiunii peste 130 kV, puterea
+maximă va fi de 44 kW.
+Având în vedere cele de mai sus și faptul că această valoare nu
+limitează nicio aplicație clinică solicitată, petenta cere Consiliului să
+dispună modificarea acestei cerințe astfel:
+Puterea generatorului: minim 42 kW. Nu se acceptă
+echivalente.
+3. Curent anodic reglabil între: minim 30 - 340 mA. Nu se acceptă
+echivalente.
+Având în vedere relația dintre putere, tensiune și intensitatea
+curentului anodic, în măsura în care va fi acceptată cerința legată de
+generator, va fi necesară și modificarea cerinței legate de intensitate.
+În acest context, se impune modificarea specificației tehnice, după
+cum urmează:
+Curent anodic reglabil între: minim 30 - 300 mA. Nu se
+acceptă echivalente.
+4. Tub RX cu două focare cu dimensiunile: maxim 0,8 x 0,6 mm
+pentru focarul mic și maxim 0,9 x 0,8 mm pentru focarul mare (IEC
+60336).
+- referitor la modalitatea de formulare a cerinței tehnice:
+Modalitatea de formulare a cerinței tehnice avantajează
+echipamentele inferioare din punct de vedere tehnologic, iar limitarea
+impusă nu este de natură a conduce la achiziția unor echipamente
+superioare, ci doar de a crea avantaje artificiale anumitor echipamente.
+Punctul focar este definit și măsurat de fiecare producător după
+recomandările standardului IEC 60336:2007, ce standardizează
+măsurarea focarelor și emite recomandări în privința dimensiunilor
+acestora. Acest standard stabilește, în egala măsură, și valoarea maximă
+permisă a acestora.
+Din punct de vedere tehnic, cele două focare sunt folosite în condiții
+de scanare diferite pentru a maximiza diferențierea diferitelor țesuturi,
+reducând la minimum expunerea pacientului la razele X.
+Astfel, focarele mici sunt utilizate pentru scanările structurilor de
+dimensiuni reduse și volume mici de achiziție, în timp ce focarele de
+dimensiuni mari sunt utilizate pentru scanările volumelor mari (ipoteza
+evaluărilor oncologice). Prin urmare, scanările mari - de peste 150 cm -
+vor fi efectuate cu focarul mare.
+Un echipament care are o pată focală spre limita inferioară și o
+pată focală spre limita superioară (în conformitate cu recomandările
+standardului IEC 60336:2007) este un echipament superior. Astfel,
+solicitând un punct focal mic de maxim 0,8 x 0.6 mm, rezultă că acesta
+poate avea o dimensiune de 0,8 x 0,6 mm, iar solicitând ca punctul focal
+4
+
+mare de maxim 0,8 x 0,9 mm, rezultă că acesta ar putea fi de 0,8 x 0,9
+mm. Or, un astfel de sistem solicitat nu este în niciun caz superior,
+neavând posibilitatea de a scana în mod continuu volume mari.
+În susținere, petenta invocă jurisprudența Consiliului, respectiv
+Decizia CNSC nr. .../20.05.2016, prin care s-a reținut nelegalitatea
+impunerii unei cerințe restrictive privind focarul mare pentru ansamblul
+tub cupolă. 
+Totodată, se arată că autoritatea contractantă nu menționează
+dacă cele 2 focare sunt reprezentate de 2 filamente diferite, care vor
+asigura o fiabilitate mai mare decât în cazul tuburilor cu un singur
+filament.
+- referitor la argumentația autorității contractante din răspunsul la
+notificarea prealabilă, petenta susține următoarele:
+În absența oricăror contraargumente tehnice valide, autoritatea
+contractantă încearcă să minimizeze valoarea probatorie a Standardului
+IEC 60336:2007. Însă, punctul focar este definit și măsurat de fiecare
+producător după recomandările standardului IEC 60336:2007, ce
+standardizează măsurarea focarelor și emite recomandări în privința
+dimensiunilor acestora. Nici afirmațiile potrivit cărora „o pată focală
+redusă îmbunătățește imaginea prin delimitarea mai clară a conturului
+organelor, cât și prin delimitarea mai clară a leziunilor”, nu sunt corecte
+din punct de vedere tehnic. Prin impunerea dimensiunii focarului mare de
+„maxim 0,9 x 0,8 mm”, autoritatea contractantă solicită, în realitate,
+ofertarea unui echipament cu două focare „mici”. 
+Petenta precizează că focarul mic al produsului pe care dorește să-l
+oferteze îndeplinește specificațiile tehnice impuse de autoritatea
+contractantă, în timp ce focarul mare al echipamentelor din portofoliul
+Toshiba este mai mare decât limita impusă de aceasta. Astfel, în măsura
+în care autoritatea intenționează să scaneze doar cu focarul mic, nu se
+justifică cerința ca un al doilea focar (cel mare) să fie similar celui mic.
+Totodată, se arată că, în cadrul Răspunsului la notificarea
+prealabilă, autoritatea contractantă face o confuzie între grosimea slice-
+urilor și pata focală. Grosimea slice-urilor este determinată de colimarea
+conului de raze X și de lățimea unității de detector și nicidecum de pata
+focală. Prin urmare, valorile alese nu pot fi justificate în niciun fel, fiind
+doar un mod de a restrânge, artificial, concurența în cadrul procedurii.
+În concluzie, având în vedere cele de mai sus, contestatoarea
+solicită modificarea specificației tehnice, astfel:
+Tub RX cu două focare cu dimensiunile: maxim 0,8 x 0,6 mm
+pentru focarul mic și maxim 1,4 x 1,6 mm pentru focarul mare
+(IEC 60336), precum și obligarea autorității contractante la
+precizarea numărului filamentelor tubului de raze X.
+B. Referitor la nelegalitatea cerințelor formulate de autoritatea
+contractantă, contestatoarea apreciază că: 
+1. Restrânge concurența la un singur producător: atât cerințele
+menționate mai sus, cât și ansamblul cerințelor din caietul de sarcini,
+restricționează accesul la procedura de atribuire a producătorilor de
+echipamente medicale. În opinia sa, singurul producător care poate
+5
+
+participa la procedura de achiziție publică apare a fi Siemens. De
+exemplu, Toshiba Medical Systems, unul dintre cei mai importanți
+producători de echipamente medicale din lume, are în portofoliul său
+numeroase echipamente de computer tomografie, însă niciunul dintre
+aceste echipamente nu îndeplinește cerința privind focarul mare.
+Prevederile art. 50 din Legea nr. 98/2016 interzic autorităților
+contractante restrângerea artificială a concurenței prin modul de
+structurare a achizițiilor sau a unor elemente ale acestora, prin
+favorizarea ori dezavantajarea în mod nejustificat a anumitor operatori
+economici. În particular, cu privire la caietul de sarcini, art. 155 alin. (6)
+din Legea nr. 98/2016 prevede că, specificațiile tehnice trebuie să
+permită tuturor operatorilor economici accesul egal la procedura de
+atribuire și nu trebuie să aibă ca efect introducerea unor obstacole
+nejustificate față de asigurarea unei concurențe efective între operatorii
+economici.
+Contestatoarea susține că, specificațiile tehnice, astfel cum au fost
+formulate prin caietul de sarcini, sunt de natură să distorsioneze în mod
+grav concurența, SC ...SRL fiind exclusă de plano din procedura de
+atribuire, în pofida faptului că are posibilitatea de a oferta echipamente
+echivalente sau chiar superioare.
+2. Cerințele tehnice au un caracter nejustificat și disproporționat:
+Noile prevederi legale din domeniul achizițiilor publice stipulează,
+expressis verbis, faptul că specificațiile tehnice nu pot fi stabilite în mod
+arbitrar de către autoritățile contractante, acestea trebuind să reflecte
+nevoile concrete ale acestora. În acest sens sunt indicate prevederile art.
+3 alin. (1) pct. 44 din Legea nr. 98/2016 și art. 20 alin. (10) din HG nr.
+395/2016.
+Or, modalitatea de formulare a cerințelor tehnice avantajează
+echipamentele inferioare din punct de vedere tehnologic, iar limitarea
+impusă de cerințele caietului de sarcini nu este de natură a conduce la
+achiziția unor echipamente superioare, ci doar de a crea avantaje
+artificiale echipamentelor inferioare, ce se încadrează în limitările
+impuse.
+De asemenea, contestatoarea arată că impunerea unor cerințe
+lipsite de relevanță tehnică și deopotrivă restrictive este de natură a
+încălca și principiul proporționalității, pe care autoritatea contractantă
+avea obligația să-l observe cu strictețe atunci când a stabilit produsele și
+specificațiile tehnice solicitate prin caietul de sarcini. Potrivit acestui
+principiu, atât produsele solicitate prin caietul de sarcini, cât și
+specificațiile tehnice aferente acestora trebuie să se limiteze numai la
+cele strict necesare pentru a se asigura îndeplinirea în condiții optime a
+contractului respectiv.
+Atât dreptul european, cât și cel național, urmăresc să reprime
+tendința supracondiționării atribuirii contractului, manifestată de
+autoritățile contractante prin impunerea unei obligații în sarcina acestora
+de a justifica orice cerințe impuse, privite ca piedici în accesarea
+contractelor de achiziție publică. 
+3. Fondurile publice sunt cheltuite ineficient: 
+6
+
+Prin restricționarea concurenței, autoritatea contractantă nu va mai
+primi același număr de oferte, iar limitarea numărului de oferte va
+conduce, cel mai probabil, la ofertarea unor prețuri mai mari de către
+puținii operatori (poate singurul) care vor participa la procedură. Or,
+scopul unei proceduri de atribuire nu este acela de a elimina un număr
+cât mai mare de operatori economici participanți, prin impunerea unor
+cerințe restrictive. Dimpotrivă, în vederea asigurării unui climat
+concurențial și pentru o eficientă utilizare a fondurilor, este oportună
+promovarea concurenței între cât mai mulți ofertanți, astfel încât oferta
+cea mai bună să fie declarată câștigătoare, iar autoritatea contractantă
+să obțină cel mai bun raport calitate-preț.
+În concluzie, solicitările din caietul de sarcini încalcă:
+- prevederile legale relevante în materia elaborării documentației
+de atribuire;
+- principiile în materia achizițiilor publice.
+Față de cele arătate, autoarea contestației consideră că modificarea
+specificațiilor tehnice, în sensul indicat, se impune prin prisma
+prevederilor art. 3 alin. (1) pct. 44, art. 50 și art. 155 alin. (6) din Legea
+nr. 98/2016, dar și a principiilor ce stau la temelia sistemului de achiziții
+publice.
+C. Anularea procedurii de atribuire:
+În subsidiar, în situația în care Consiliul va respinge, în tot sau în
+parte, capetele de cerere formulate în principal, contestatoarea solicită
+anularea procedurii de atribuire față de abaterile grave de la prevederile
+legislative care afectează procedura de atribuire, în conformitate cu art.
+212 alin. (1) lit. c) din Legea nr. 98/2016.
+Astfel, doctrina și jurisprudența sunt unanime în a aprecia că
+procedura de atribuire se consideră afectată în cazul în care, în cadrul
+documentației de atribuire și/sau în modul de aplicare a procedurii de
+atribuire, se constată erori sau omisiuni care au ca efect încălcarea
+principiilor achizițiilor publice, iar autoritatea contractantă se află în
+imposibilitatea de a adopta măsuri corective fără ca acestea să conducă,
+la rândul lor, la încălcarea principiilor privind nediscriminarea,
+tratamentul egal, recunoașterea reciproca, transparența,
+proporționalitatea, eficiența utilizării fondurilor publice.
+Mai mult, art. 55 alin. (2) lit. a) din HG nr. 395/2016 arată că
+modificările substanțiale ale specificațiilor tehnice pot conduce la
+anularea procedurii de atribuire, inter alia, când „afectează atât de mult
+elementele ce descriu contextul achiziției publice încât au ca efect
+schimbarea indicatorilor principali ce caracterizează rezultatul
+contractului ce urmează a fi atribuit, fapt ce afectează nivelul de
+competiție sau schimbă piața de profil la care se adresează”.
+Autoritatea contractantă a transmis dosarul achiziției și punctul său
+de vedere nr. 4538/19.09.2016, înregistrat la Consiliu cu nr. 28545 din
+20.09.2016, prin care solicită respingerea contestației ca fiind
+neîntemeiată.
+Față de argumentele contestatoarei cu privire la parametrii tehnici
+invocați, autoritatea face următoarele mențiuni:
+7
+
+1. Cu referire la cerința Distanța focar izocentru: maxim 55 cm
+și Distanța focar detector: maxim 95 cm:
+Autoritatea precizează că diametrul gantry-ului reprezintă
+deschiderea prin care trece pacientul în timpul scanării și care trebuie să
+aibă un diametru minim de 70 cm, fiind mult mai confortabil pentru
+pacient cu cât este mai mare. În acest sens, a definit această specificație
+ca fiind minimă.
+Solicitarea dimensiunilor distanță focar izocentru și distanță
+detector ca fiind maximale nu este în contradictoriu cu solicitarea unui
+gantry minim. 
+Odată ce tehnologia a evoluat gantry-urile s-au dezvoltat ca și
+dimensiuni, dar pentru a permite menținerea calității imaginii s-au
+proiectat sistemele, astfel încât distanța dintre focar și izocentru și focar
+detector să fie optimă.
+Caracteristicile geometrice nu sunt fixe și nu trebuie să crească în
+mod automat cu creșterea dimensiunilor gantry-ului. Astfel, sunt
+echipamente pe piață care au 70 cm în diametru, dar au distanțe focar
+izocentru și focar detector diferite. Asta înseamnă că geometria
+sistemului este diferită, unii preferând să aibă o distanță mai mică focar
+izocentru în timp ce alții preferă să fie mai mare, în funcție de tub și
+modul de aplicare al metodelor de reconstrucție, toate având sisteme cu
+gantry de 70 cm.
+În urma consultării site-ului www.itnonline.com, autoritatea a
+constatat că, în privința dimensiunilor gantry-ului, toți producătorii au
+valori diferite pentru geometria acestuia (înălțime, lățime, diametru), dar
+apertura de 70 cm, cu excepția firmei Toshiba. Prin urmare, pentru toate
+aceste echipamente, distanța focar izocentru și focar detector vor fi
+diferite, deși au toate o apertură gantry de 70 cm. 
+Din punct de vedere clinic, valorile au fost solicitate pentru a crește
+performanța sistemului. Principiile fizice ale computer tomografiei spun
+că la FWHM (Full Width Half Maximum - lățimea maximă la jumătatea
+distanței), pentru distanța focar izocentru și focar detector, se calculează
+eficiența fasciculului de raze X. Pentru ca acesta să fie optim dimensionat
+trebuie ca distanțele să fie maximale și nu minimale. Cu cât distanțele
+menționate cresc, cu atât scade rezoluția imaginii.
+Astfel, orice punct de pe un cerc are o componentă radială și una
+azimutală. În cazul în care distanțele prezentate cresc peste valorile
+solicitate, componentele azimutale în două puncte distincte vor fi
+similare. Deci, pe un arc de cerc, adică pe o parte din rotație,
+componentele azimutale sunt identice în timp ce cele radiale sunt extrem
+de puțin diferite. Acest aspect are efecte grave asupra imaginii, devenind
+"încețoșată".
+Prin urmare, autoritatea solicită menținerea cerinței: Distanța focar
+izocentru: maxim 55 cm și Distanța focar detector: maxim 95 cm.
+2. Cu referire la cerința Puterea generatorului: minim 50 KW
+(nu se acceptă echivalente):
+8
+
+Autoritatea contractantă precizează că formula liniară a puterii este
+P=IxT (intensitate x tensiune anodică) și aceasta se aplică doar la un
+anumit moment de timp. 
+Din punct de vedere al operatorilor matematici, se dă următoarea
+explicație tehnică: odată ce o tensiune sau o intensitate de curent este
+aplicată, ea trebuie menținută pentru o anumită perioadă de timp
+necesară scanării. În condiții de uz clinic, de exemplu, o examinare
+extinsă de tip torace abdomen pelvis, timpul de scanare este de
+aproximativ 25 secunde. Astfel, tubul trebuie să aibă o putere care să
+permită generarea acestui curent pentru o perioadă mai lungă de timp.
+Din acest motiv, există formule matematice care descriu necesitatea de
+putere ce trebuie să mențină în timp o anumită valoarea pentru
+miliamperaj și tensiune anodică. Acest operator matematic se numește
+derivată parțială și este o ecuație diferențială, iar formula devine: 
+dP/dT = dI/dt x dT/dt, unde I este intensitatea curentului anodic, T
+-tensiunea curentului anodic, iar t reprezintă componenta temporală.
+Argumentația tehnică este susținută inclusiv de valorile de putere
+ale tuturor sistemelor, indiferent de producător, valoare care este
+întotdeauna mai mare decât produsul tensiune - curent.
+Se arată că și contestatoarea, conform ITN Online, are în portofoliu
+sisteme al căror produs tensiune x intensitate curent anodic este mai
+mică decât puterea tubului.
+În acest context, autoritatea contractantă solicită menținerea
+solicitării din caietul de sarcini neschimbată.
+3. Cu privire la cerința Curent anodic reglabil între minim 30 -
+340 mA. Nu se accepta echivalente:
+Potrivit explicațiilor de la punctul anterior, puterea generatorului
+trebuie să rămână la valoarea solicitată, prin urmare și curentul anodic
+trebuie să rămână la acea valoare.
+Prin urmare, autoritatea contractantă solicită Consiliului menținerea
+cerinței tehnice.
+4. Cu privire la cerința Tub RX cu două focare cu dimensiunile
+maxim 0.8 x 0.6 mm pentru focarul mic și maxim 0.9 x 0.8 mm
+pentru focarul mare (IEC 60336):
+Autoritatea susține că, potrivit aceluiași site comparativ ITN Online
+(www.itnonline.com), la toate echipamentele concurenței, pata focală
+mare are o valoare mai mică decât cea solicitată a fi modificată de către
+contestatoare, de unde rezultă că toate echipamentele sunt inferioare
+celor oferite de SC ...SRL. Conform afirmației acesteia, o pată focală
+mare de dimensiuni mici denotă un sistem inferior tehnologic, deci toate
+celelalte echipamente de pe piață sunt inferioare celui oferit de
+contestatoare.
+Însă, în opinia autorității contractante, o pată focală mare de
+dimensiuni mici ajută la obținerea unor rezoluții mai bune și nu are nicio
+legătură cu acoperirea de 150 cm. Acoperirea este dată de capacitatea
+tubului de a menține tensiunea și curentul anodic pentru toți cei 150 cm
+și nu de pata focală. Dacă se folosește slice de 5 mm grosime atunci se
+va folosi pata focală mare pe toată lungimea și nu va intra niciodată pata
+9
+
+focală mică. Prin urmare, este evident că o pată focală mică va fi folosită
+la studiul, de exemplu, al urechii interne și pata focala mare va "intra"
+pentru examinările de tipul celor mai sus enunțate.
+Conform articolelor de specialiate (radiopedia.org), o pată focală de
+1,0 x 1,2 mm este caracteristică sistemelor de radiografie și nicidecum
+unui sistem de computer tomografie. Deci, dimensiunile petelor focale au
+fost solicitate în raport cu standardele de calitate la nivelul anului 2016,
+menționate în literatura de specialitate și pe site-urile comparative de tip
+ITN Online (www.itnonline.com).
+În legătură cu standardul IEC 60336, autoritatea contractantă
+specifică faptul că acesta menționează modul în care fiecare producător
+trebuie să efectueze măsurătorile pentru pata focală (mare și mică) în
+vederea ponderării rezultatelor și cuantificarea acestora între diferite
+tipuri de tehnologii ale diferiților producători. În același timp, acesta
+recomandă care este pata focală maximă sub care nu mai există
+posibilitatea interpretării unui examen de computer tomografie, dar
+nicăieri nu este menționat că acest standard recomandă o anumită
+dimensiune ca fiind cea care trebuie acceptată.
+Standardul nu impune dimensiunile pe care trebuie să le aibă o
+pată focală, fiecare producător va proiecta propriile dimensiuni pentru a
+atinge propria rezoluție spațială. Unii producători asigură o rezoluție
+spațială de 0,35 mm pentru un voxel izotropic, pentru acest lucru ei fiind
+capabili să ofere dimensiuni foarte mici ale petelor focale, atât pentru
+pata focală mare, cât și pentru pata focală mică. Acest lucru, nu
+înseamnă, însă, că acești producători au echipamente inferioare și oferă
+numai pete focale mici.
+Prin urmare, autoritatea solicită menținerea valorilor pentru
+dimensiunile petelor focale (mare și mică).
+În concluzie, aceasta menționează că cerințele din caietul de sarcini
+reprezintă strictul necesar al unității și nu are ca scop favorizarea
+niciunui producător, fiind caracteristici care reprezintă nevoile sale clinice
+și de performanță.
+Urmare studierii dosarului achiziției, contestatoarea SC ...SRL, a
+depus adresa nr. 1941/26.09.2016, înregistrată la Consiliu cu nr.
+29431/28.09.2016, reprezentând concluzii scrise și răspuns la punctul de
+vedere, prin care subliniază că cerințele tehnice impuse nu pot fi
+justificate din punct de vedere tehnic și sunt irelevante față de
+necesitățile autorității contractante.
+Pornind de la susținerile autorității, petenta prezintă punctual
+opinia sa cu privire la nelegalitatea cerințelor restrictive din caietul de
+sarcini, precum și necesitatea modificării acestora, astfel încât accesul
+operatorilor economici la procedura de atribuire a contractului să nu fie
+restricționat în mod nejustificat.
+1. Distanța focar izocentru: maxim 55 cm și Distanța focar
+detector: maxim 95 cm.
+Prin argumentația sa, autoritatea contractantă confirmă faptul că
+dorește achiziționarea unui echipament cu un gantry cu deschidere cât
+mai mare, considerând superior un astfel de sistem: „diametrul gantry-
+10
+
+ului reprezintă deschiderea prin care trece pacientul în timpul scanării și
+care trebuie să aibă un diametru minim de 70 cm, fiind mult mai
+confortabil pentru pacient cu cât este mai mare”.
+Este de reținut, însă, că distanțele focar izocentru și focar detector
+nu sunt definite în caietul de sarcini de tip maximal (astfel cum susține în
+mod eronat autoritatea contractantă), ci de tip minimal (dimensiunile
+reduse sunt invers proporționale cu calitatea echipamentului, astfel încât
+cu cât distanțele sunt mai reduse, cu atât crește calitatea
+echipamentului).
+În pofida faptului că autoritatea face referire la o distanță optimă
+dintre focar - izocentru și focar - detector („distanța dintre focar și
+izocentru și focar detector să fie optimă”), cerințele caietului de sarcini
+definesc aceste distanțe ca minimale, prin impunerea unor valori maxime
+ale celor două distanțe, considerând practic, în mod eronat că, cu cât
+distanțele sunt mai mici, cu atât sunt mai bune.
+Raportat la afirmațiile autorității contractante conform cărora „prin
+urmare, pentru toate aceste echipamente, distanța focar izocentru și
+focar detector vor fi diferite, deși au toate o apertura gantry de 70 de
+cm”, petenta prezintă un extras din comparativele NHS, prin care vrea
+să demonstreze că, în mod clar, creșterea distanțelor focar-izocentru și
+focar-detector este direct proporțională cu creșterea deschiderii gantry.
+Cu privire la extrasul de pe site-ul ITN, invocat de autoritatea
+contractantă, se arată că face referire la dimensiunile externe ale gantry-
+ului, dimensiuni irelevante, însă, pentru speța de față, acestea nefiind
+invocate în cerințele caietului de sarcini.
+Totodată, contestatoarea arată că, în cadrul specificațiilor tehnice
+anexate Notei de fundamentare nr. 1240/07.03.2016, nu se regăsesc
+definite aceste distanțe. Prin urmare, apreciază că susținerile sale în
+sensul în care aceste distanțe trebuie definite de tip maximal (prin
+impunerea unei valori minime de 55 cm și 95 cm), în concordanță cu
+deschiderea gantry-ului sunt justificate și reale.
+Avand în vedere cele de mai sus, solicită Consiliului să dispună
+modificarea aceastei cerințe, după cum urmează:
+Distanța focar izocentru: minim 55 cm și Distanta focar detector:
+minim 95 cm.
+2. Puterea generatorului: minim 50 kW. Nu se accepta
+echivalente.
+Referitor la această cerință, autoarea contestației ține să precizeze
+că argumentația tehnică a autorității sub acest aspect este lipsită de
+logică. 
+În primul rând, timpul maxim de scanare este definit în cerințele
+caietului de sarcini ca fiind de minim 100 s. Acesta este limitat de
+capacitatea de răcire a tubului și, în niciun caz, de durata de timp în care
+generatorul poate asigura intensitatea sau tensiunea necesară.
+Prin urmare, puterea imprimată de generator tubului de raze X (I x
+T), astfel cum a afirmat și în cadrul contestației, se va transforma, în
+tubul de raze X, după cum urmează: 99% în căldură și 1% în raze x.
+Astfel, examinarea va fi posibilă cât timp tubul de raze X are o capacitate
+11
+
+de răcire care să permită absorția procentului de 99% transformat din
+putere în căldură.
+În al doilea rând, dacă se simplifică, cu dt, ecuația diferențială
+prezentată de autoritatea contractantă [dP/dt = di/dt x dt/dt), va rezulta
+formula: P = I xT. Astfel, argumentația acesteia, în opinia petentei, nu
+poate fi reținută, fiind lipsită de fundament.
+În al treilea rând, este de reținut că în cadrul specificațiilor tehnice
+anexate Notei de fundamentare nr. 1240/07.03.2016, puterea
+generatorului este stabilită la 48 kW. În acest context, este neclar
+motivul pentru care autoritatea contractantă a impus o putere a
+generatorului de minim 50 kW.
+Având în vedere cele de mai sus și faptul că această valoare nu
+limitează nicio aplicație clinică solicitată, contestatoarea solicită
+modificarea cerinței astfel:
+Puterea generatorului: minim 42 kW. Nu se acceptă echivalente.
+3. Curent anodic reglabil între: minim 30 - 340 mA. Nu se
+accepta echivalente.
+Având în vedere relația dintre putere, tensiune și intensitatea
+curentului anodic, în măsura în care va fi acceptată cerința legată de
+generator, va fi necesară și modificarea cerinței legate de intensitate.
+Prin urmare, petenta consideră că se impune modificarea inclusiv a
+acestei specificații tehnice, după cum urmează:
+Curent anodic reglabil între: minim 30 - 300 mA. Nu se acceptă
+echivalente.
+4. Tub RX cu două focare cu dimensiunile: maxim 0,8 x 0,6
+mm pentru focarul mic și maxim 0,9 x 0,8 mm pentru focarul
+mare (IEC 60336).
+În opinia contestatoarei, un echipament care are 2 pete focale
+distincte (respectiv o pată focală mică, de dimensiuni reduse, și o pată
+focală mare, de dimensiuni cât mai mari, dar în parametrii indicați de
+standardul IEC 60336) este superior, dat fiind că permite utilizarea
+echipamentului în condiții optime. Un astfel de sistem este superior celui
+solicitat de autoritatea contractantă, fiind mai versatil decât un sistem
+care are, în fapt, 2 pete focale mici.
+De asemenea, se arată că, în încercarea de a-și fundamenta tehnic
+propriile afirmații, autoritatea contractantă face confuzie între pata focală
+și colimarea și dimensiunea unui element detector, acestea din urmă
+fiind cele care oferă grosime slice-urilor, nicidecum pata focală. În
+continuare, susținerile autorității nu fac altceva decât să confirme că
+petele focale mici vor concentra căldură pe o suprafața mică și vor încălzi
+excesiv anoda.
+Se mai precizează că, în cadrul specificațiilor tehnice anexate Notei
+de fundamentare nr. 1240/07.03.2016, petele focale au fost definite ca
+fiind „0,7 și 1,2 mm”, astfel că nu se justifică motivul pentru care
+dimensiunile focarului mare nu au fost inserate ca atare în nota de
+fundamentare.
+În concluzie, având în vedere cele de mai sus, contestatoarea
+solicită Consiliului modificarea specificației tehnice astfel:
+12
+
+Tub RX cu două focare cu dimensiunile: maxim 0,8 x 0,6 mm
+pentru focarul mic și maxim 1,4 x 1,6 mm pentru focarul mare (IEC
+60336), precum și obligarea autorității contractante la precizarea
+numărului filamentelor tubului de raze X.
+În data de 03.10.2016, autoritatea contractantă a transmis adresa
+nr. 4848, înregistrată la Consiliu cu nr. 29915/03.10.2016, prin care reia
+susținerile și argumentele din punctul său de vedere cu privire la
+contestația SC ...SRL.
+Ulterior, în data de 05.10.2016, aceasta transmite adresa nr. 4911,
+înregistrată la Consiliu cu nr. 30178/05.10.2016, aducând o serie de noi
+argumente în susținerea opiniei sale de menținere a cerințelor tehnice
+criticate de contestatoare, așa cum au fost precizate în caietul de sarcini.
+Prin cea de a doua contestație formulată împotriva rezultatului
+procedurii, SC ...SRL, în calitate de operator economic interesat de
+participarea la procedura de atribuire indicată mai sus, critică atât caietul
+de sarcini, cât și răspunsul la clarificări, documente elaborate de către
+autoritatea contractantă ....
+În fapt, urmare publicării în SEAP a caietului de sarcini și a
+răspunsurilor la clarificări, în temeiul prevederilor art. 6 din Legea nr.
+101/2016, petenta a formulat notificarea prealabilă nr. 1713 din
+29.08.2016, ce a avut ca obiect solicitarea transmisă autorității
+contractante de a adopta măsuri de remediere care să restabilească
+legalitatea și temeinicia procedurii de atribuire prin modificarea cerințelor
+tehnice ale caietului de sarcini și prin anularea în parte a răspunsului la
+clarificări. Autoritatea contractantă a transmis răspunsul la notificarea
+prealabilă, refuzând adoptarea măsurilor de remediere solicitate. 
+Petenta a cerut, inițial, prin solicitarea de clarificări din data de
+22.08.2016, modificarea anumitor cerințe tehnice ale echipamentului,
+însă autoritatea a refuzat, în cea mai mare parte, modificarea acestora,
+fără a oferi vreo justificare solidă. 
+1. Referitor la cerința tehnică „Panou frontal pe gantry cu afișarea
+următorilor parametri: valori curente ale kV, mA, timp scanare, poziție
+masă, înclinare gantry, nume pacient”.
+Petenta susține că cerința tehnică, așa cum a fost configurată prin
+caietul de sarcini, este de natură a restricționa în mod nejustificat
+concurența, întrucât limitează accesul la procedură pentru toate
+sistemele din gama 16-32 slice-uri.
+Astfel:
+- afișarea tensiunii și miliamperajului curentului anodic nu aduc
+niciun avantaj clinic sau în fluxul de lucru nici pentru operator și, cu
+siguranță, nici pentru pacient. Mai mult, din motive de siguranță, precum
+și din considerente medico-legale este inoportună afișarea acestor
+parametri în timpul scanării. Avantaje, precum calitatea imaginii
+surclasează „oportunitatea” afișării parametrilor „curent anodic” și
+tensiune în timpul examinării; de aceea, consideră că pretinsa
+„oportunitate” a afișării acestora, în timp real, nu este decât un mijloc de
+restricționare a accesului unui număr important de producători
+consacrați de astfel de echipamente;
+13
+
+- parametrii referitori la curentul anodic sunt setați de operator de
+la consola de comandă a echipamentului, fiind afișați pe filmul radiologie
+sau pe imaginile de pe CD-ul ce conține examinarea. Nu există niciun
+avantaj în afișarea lor pe un display prezent pe gantry, neaducând
+îmbunătățiri ale fluxului de lucru.
+În plus, pacienții nu sunt în niciun fel prejudiciați în ce privește
+dreptul lor la informare corectă și detaliată prin lipsa afișării tensiunii și
+miliamperajului curentului anodic pe panoul frontal de gantry, întrucât la
+sfârșitul fiecărei examinări CT pacientul primește un raport detaliat legat
+de doza de radiații pe care a primit-o în timpul scanării.
+De asemenea, petenta consideră innacceptabil răspunsul autorității
+contractante formulat ca urmare a notificării prealabile, potrivit căruia
+operatorul se va uita pe monitorul gantry-ului pentru a stabili valorile
+„urmând ca de la consolă să facă o simplă verificare”. 
+Astfel, stabilirea parametrilor de scanare și a protocolului de
+examinare se realizează de la consola de operare. Această consolă
+dispune de două monitoare medicale care oferă informații detaliate
+legate atât de protocolul de scanare, cât și de parametrii care sunt setați
+în vederea realizării examinărilor.
+Mai mult, se afirmă că dacă pacientul observă că valorile intensității
+curentului, cât și ale tensiunii anodice sunt peste limitele admise, poate
+să solicite oprirea investigației. Acest răspuns este, în opinia
+contestatoarei, fals: în primul rând, pacientul nu este informat asupra
+valorilor maxime admise ale acestor parametri, iar în al doilea rând, în
+majoritatea investigațiilor, pacientul este poziționat cu capul în Gantry,
+ceea ce înseamnă că pentru orice investigație pacientul nu va avea acces
+la ecranul gantry-ului, deci nu are cum să observe valorile parametrilor
+mai sus menționați.
+În consecința, explicația conferită de autoritatea contactantă nu are
+finalitate practică, este pur teoretică, iar următoarea măsură de
+remediere se impune a fi adoptată, în cazul în care procedura de
+atribuire nu este anulată:
+Măsura de remediere 1:
+• Modificarea cerinței tehnice, astfel: „Panou frontal pe
+gantry cu afișarea următorilor parametri: timp scanare, poziție
+masă, înclinare gantry, nume pacient”.
+2. Referitor la cerința tehnică: „Tub RX cu două focare cu
+dimensiunile: maxim 0,8 x 0,6 mm pentru focarul mic și maxim 0,9 x
+0,8 mm pentru focarul mare (IEC 60336)”
+Cerința tehnică, așa cum este formulată în prezent, este de natură
+să restrângă concurența în cadrul procedurii restricționând accesul unui
+producător consacrat de astfel de echipamente, cu orice produs din
+gama 16-32 slice.
+În plus, contestatoarea arată că răspunsul la clarificări conține
+afirmații contradictorii standardelor medicale acceptate.
+Astfel, dimensiunea petei focale are un rol definitoriu în
+determinarea rezoluției spațiale a sistemului. SC ...SRL susține că
+îndeplinește cerința din caietul de sarcini conform căreia rezoluția
+14
+
+spațială la contrast înalt, exprimată în linii pe cm la MTF 10%, să fie
+minim 13,5 lp/cm. Diferența care rezultă între valoarea solicitată de
+către autoritate și valoarea propusă de petentă este de 0,38 mm pe una
+dintre laturi. Această diferența insesizabilă ar reprezenta o restrângere
+nejustificată a accesului la licitație, în măsura în care ar constitui motivul
+neacceptării ofertei. În plus, îndeplinește întrutotul cerințele caietului de
+sarcini referitoare la calitatea imaginii/rezoluția spațială (Punctul
+"Calitatea imaginii", subpunctul "Rezoluția spațială la contrast înalt
+exprimată în perechi de linii pe cm la MTF 10%: minim 13,5 lp/cm").
+Referitor la standardele medicale actuale, care au fost invocate în
+răspunsul la clarificări, se menționează că orice echipament de CT
+primește o marcă CE, atestând conformitatea cu standardele CE, iar
+valorile pe care SC ...SRL le are pentru echipamentul pe care dorește să
+îl oferteze respectă întocmai standardele impuse de CE, deci și de caietul
+de sarcini (IEC 60336).
+În concluzie, contestatoarea apreciază că nu se justifică
+introducerea unui impediment minor care să impiedice participarea sa,
+dar și a altor agenți economici, la procedura de atribuire, în condițiile în
+care sunt îndeplinite cerințele tehnice aferente rezoluției spațiale, aspect
+determinant din punct de vedere clinic.
+Măsura de remediere 2:
+• Modificarea cerinței tehnice astfel: „Tub RX cu două focare
+cu dimensiunile: maxim 0,8 x 0,7 mm pentru focarul mic și
+maxim 1,1 x 1,0 mm pentru focarul mare”.
+3. Referitor la cerința tehnică „Algoritm de reconstrucție iterativă a
+imaginii, din date brute, pentru reducerea dozei cu minimum 55% -
+opțiune disponibilă ca upgrade ulterior”.
+Contestatoarea precizează că, un soft de reconstrucție iterativă a
+imaginii poate reduce doza de radiații cu minim 40%. Cerința tehnică,
+așa cum este formulată („reducerea dozei cu minim 55%”) nu are o
+justificare din punct de vedere clinic, deoarece nu vine să aducă valoare
+adăugată diagnosticului. Un soft care ar îndeplini cerințele din caietul de
+sarcini este specific exclusiv sistemelor cu mai mult de 64 de slice-uri,
+sisteme a căror rezoluție spațială este mult mai mare decât cea a unui
+sistem de 16 slice-uri. Astfel, un upgrade ulterior al aparatului, cu un
+astfel de soft, nu ar aduce nicio îmbunătățire a calității imaginii
+diagnostice și nicio reducere suplimentară de doză.
+Din studiile producătorilor rezultă că reducerea dozei de radiații,
+prin folosirea soft-ului de reconstrucție iterativă, poate fi și de 60% sau
+chiar de 75%, în cazul unor producători. Așadar, „tehnologia actuală” pe
+care o invocă autoritatea, pentru a motiva cerința procentului de 55%,
+include și softul de reconstrucție iterativă ce permite reducerea dozei cu
+40%. Cerința procentului de 55% reducere doză radiații devine cu atât
+mai nesustenabilă cu cât orice reducere a dozei de radiații are impact
+direct în costurile de întreținere ale aparatului - fără a aduce avantaje
+clinice.
+Ținând cont de cele prezentate, petenta apreciază că menținerea
+acestei cerințe tehnice, așa cum este formulată în prezent, apare ca
+15
+
+abuzivă, având ca scop favorizarea participării la procedura a unui singur
+producător. Mai mult, cerința tehnică este de natură să restrângă
+concurența în cadrul procedurii, restricționând accesul unui producător
+consacrat de astfel de echipamente, așa cum este SC ..., cu orice produs
+din gama 16-32 slice.
+Măsura de remediere 3:
+• Eliminarea acestei cerințe tehnice.
+4. Referitor la cerința tehnică: „Viteza procesor: minim 3,2 GHz”
+din cadrul capitolului Sistem computer pentru achiziție, reconstrucție și
+vizualizare.
+Contestatoarea arată că, prin răspunsul la clarificari nu se justifică
+sub nicio formă utilitatea vitezei procesorului.
+Faptul că se estimează 15 pacienți/zi și că aceștia vor avea
+examinări multiple nu se susține. Fiecare producător își dimensionează
+aparatele în așa fel încât să nu existe sincope în fluxul de lucru cu
+aparatul. SC ...SRL asigură un flux de lucru de până la 50-60 de
+examinări/zi pentru CT-ul care dorește să îl oferteze. 
+În cazul achiziției unui computer tomograf, fiecare parametru are
+legătură unul cu celalalt. Computerul de achiziție, reconstrucție și
+vizualizare nu poate fi configurat ca un PC independent, ci are valori
+specifice pentru care producătorul primește o marcă CE. Viteza
+procesorului asigură o bună funcționalitate, printre altele, a vitezei de
+reconstrucție. Acest parametru este îndeplinit de către SC ..., tipul de
+procesor cu care este echipat sistemul pe care intenționează să-l
+oferteze fiind "Dual Quad Core" (8 nuclee, față de 4 nuclee cum este
+specificat în caietul de sarcini) cu performanțe superioare față de cele ale
+procesorului enunțat prin caietul de sarcini la o viteză de lucru de 1,8
+GHz. 
+Petenta menționează că atât SC ..., dar și toți ceilalți producători,
+pot îmbunătăți prin softuri și dotări, în anumite limite și cu privire la
+anumite componente, un astfel de echipament, și în niciun caz cu privire
+la viteza procesorului, parte din computerul de achiziție, reconstrucție și
+vizualizare.
+Măsura de remediere 4:
+• Modificarea cerinței tehnice astfel: „Procesor cvadruplu de
+mare viteză: minim 1,8 GHz”.
+5. Referitor la cerința tehnică: „Capacitate HDD pentru stocare
+imagini: minim 650 GB” din cadrul capitolului Sistem computer pentru
+achiziție, reconstrucție și vizualizare.
+De asemenea, prin răspunsul la clarificări, autoritatea contractantă
+nu justifică utilitatea capacității HDD de stocare imagini de minim 650
+GB.
+Configurația consolei de achiziție este parte a întregului echipament
+supus marcajului CE, motiv pentru care aceasta nu poate fi configurată
+de la caz la caz așa cum se poate proceda în cazul calculatoarelor
+personale.
+Având în vedere răspunsul autorității contractante, punctul 4 al
+solicitării de clarificări, și anume că există o estimare de 15 pacienți/zi cu
+16
+
+examinări multiple, rezultă o medie de 350-400 de pacienți/lună. În
+medie, o imagine are cca 0,5 MB. Din experiența sa, contestatoarea
+susține că pentru o examinare de cap rezultă un număr de aproximativ
+200-250 de imagini. Pentru protocoale complexe, de genul abdomen-
+pelvis, rezultă un număr de imagini de cca 900-1100. În concluzie,
+pentru acești pacienți, dacă se consideră o medie de 240.000-250.000
+de imagini, înseamnă un spațiu total pentru imagini de cca 130-150 GB.
+Deci, o capacitate de stocare a imaginilor pe HDD de 300 GB este
+suficientă pentru numărul de pacienți estimați de către autoritatea
+contractantă, ce urmează a fi scanați într-o lună.
+Spitalul a susținut că dorește arhivarea imaginilor la intervale cât
+mai mari de timp, fără a defini în vreun fel acest interval.
+Deși, în Răspunsul la notificare, autoritatea susține că nu ar
+dispune de o soluție PACS, aceasta a prevăzut în configurația
+echipamentului o stație independentă de postprocesare cu memorie RAM
+32 GB și capacitate de stocare imagini de minim 450 GB, dar și cu
+mențiunea că sistemul trebuie să permită stocarea imaginilor pe DVD
+sau CD. În consecință, s-a solicitat spațiu de stocare imagini și în stația
+de postprocesare și s-a prevăzut și opțiunea pentru sistem de a permite
+stocarea imaginilor pe DVD sau CD. Deci, imaginile nu vor sta la
+nesfârșit pe consola de achiziție și nici în stația de postprocesare, ci vor fi
+salvate pe DVD-uri și CD-uri. 
+Măsura de remediere 5:
+• Modificarea cerinței tehnice astfel: „Capacitate HDD
+pentru stocare imagini: minim 300 GB”.
+6. Referitor la cerința tehnică: „Viteza procesor: minim 3,2 GHz”
+din cadrul capitolului Stație pentru postprocesare și aplicații pe stația de
+postprocesare
+În primul rând, contestatoarea menționează că, stația de post-
+procesare este optim dimensionată de către producător, pentru care
+există emis un certificat de marcă europeană (CE marked) cu un
+procesor care îndeplinește optim toate cerințele sistemului de vizualizare
+și post-procesare și care permite rularea tuturor aplicațiilor instalate, în
+condiții optime, fără să afecteze fluxul de lucru sau timpul necesar post-
+procesării imaginilor achiziționate.
+Prin răspunsul oferit în cadrul clarificărilor, autoritatea contractantă
+susține că dorește să achiziționeze o stație de postprocesare care să
+dispună de componente IT de ultimă generație. Pe de altă parte, solicită
+prin caietul de sarcini ca tipul de procesor să fie minim Quad Core, ceea
+ce înseamnă ca există posibilitatea de a fi ofertat un tip de procesor care
+să nu fie de ultimă generație, dar totuși să îndeplinească această cerință
+minimă privind viteza procesorului.
+Astfel, se poate oferta un sistem cu procesor Six Core, de generație
+superioară celui Quad Core, cum este Stația de procesare AW Volume
+Share 7, care să aibă 6 nuclee, deci Six Core, și o viteză de lucru de 2,6
+GHz. Chiar dacă viteza de lucru este puțin mai mică, o astfel de stație de
+procesare, cu 6 nuclee, este net superioară uneia de 4 nuclee, cum
+solicită autoritatea contractantă. Nucleele în plus măresc automat viteza
+17
+
+de lucru, echipamentul de generație superioară având tocmai acest rol,
+de a fi mai performant.
+În aceste condiții, petenta consideră că nu se justifică menținerea
+cerinței referitoare la viteza procesorului (minim 3,2 GHz), care este
+specifică numai celor de tip Quad Core, altfel decât pentru a asigura
+calificarea anumitor producători la procedura de atribuire și excluderea
+altora.
+Oricum, autoritatea contractantă nu justifică sub nicio formă nici în
+răspunsul la clarificări și nici în cel oferit la notificarea prealabilă, de ce
+insistă în a avea o viteză a procesorului de mimim 3,2 GHz, raportat
+desigur și la tipul procesorului solicitat: Quad Core.
+Măsura de remediere 6:
+• Modificarea cerinței tehnice astfel: „Viteza procesor:
+minim 2,6 GHz”.
+7. Referitor la cerința tehnică: „Etichetare automată coloanei
+vertebrale pentru imagini de CT și RMN”
+Contrar răspunsurilor autorității contractante, menținerea acestei
+cerințe tehnice din caietul de sarcini este nejustificată, întrucât
+etichetarea automată a coloanei vertebrale are un mare dezavantaj în
+cazul vertebrelor de tranziție sau în cazul blocurilor congenitale. În
+ambele cazuri sistemul nu poate recunoaște în mod corect vertebra
+afectată și o va eticheta în mod eronat, ceea ce poate conduce la un caz
+medico-legal. Conform codului de practică medicală, aprobat și elaborat
+de către Colegiul Medicilor din România, orice eroare de natură soft sau
+postprocesare are la baza o eroare umană care nu a controlat și validat
+activitatea softului.
+Cerința, astfel cum este formulată, pe lângă faptul că este
+restrictivă și discriminatorie, eliminând alternativa etichetării manuală,
+generează și un risc major în diagnosticare.
+Daca softul are cea mai mică eroare, diagnosticarea este imposibilă
+sau, în cel mai rău caz, greșită. Blocurile congenitale pot fi și de
+dimensiuni mai mici, neputând fi detectate de soft ca fiind ceva în
+neregulă. Ochiul uman și experiența medicului radiolog trebuie să
+primeze în orice situație, ajutându-se de tehnologie. Numai așa se pot
+diagnostica corect și la timp pacienții cu complicații, care nu sunt vizibile
+la o simplă „scanare” automată a coloanei vertebrale de către sistem.
+Măsura de remediere 7:
+• Modificarea cerinței tehnice astfel: „Etichetare automată
+și/sau manuală a coloanei vertebrale pentru imaginile CT și
+RMN”.
+8. Referitor la cerința tehnică: „Etichetare automată a oaselor cutiei
+toracice”
+Menținerea acestei cerințe tehnice din caietul de sarcini este
+nejustificată întrucât etichetarea automată a oaselor cutiei toracice
+dispune de un mare dezavantaj. Conform codului de practică medicală,
+aprobat și elaborat de către Colegiul Medicilor din România, orice eroare
+de natură soft sau postprocesare are la bază o eroare umană care nu a
+controlat și validat activitatea softului.
+18
+
+Ca și la punctul anterior, petenta apreciază ca este abuziv și
+discriminator să se excludă fără nicio explicație pertinentă alternativa
+etichetării manuale, mai ales în condițiile în care aprecierea medicului
+radiolog, raportat la complexitatea unei situații, poate fi o chestiune de
+viață și de moarte.
+Măsura de remediere 8:
+• Modificarea cerinței tehnice astfel: „Etichetare automată
+și/sau manuală a oaselor cutiei toracice”.
+9. Referitor la cerința tehnică: „Densitatea maximă - minim 4.0”
+din cadrul capitolului IMPRIMANTĂ LASER
+Valoarea densității maxime solicitată prin caietul de sarcini nu are
+nicio relevanță în procesul clinic, fiind un factor ce ține de filmul
+radiologie, nu de performanța imprimantei în sine, astfel că nu
+influențează în niciun fel fluxul de lucru și acuratețea datelor
+achiziționate. Contestatoarea consideră că nu se justifică utilitatea
+acestei cerințe tehnice, ea fiind de natură să îngrădească dreptul de
+participare la procedură.
+Astfel, așa cum preciza autoritatea contractană în răspunsul la
+clarificări, dar și în răspunsul la notificarea prealabilă, densitatea optică
+este o caracteristică ce dispune de o importanță majoră în acuratețea
+examenului clinic și a diagnosticului. Pe de altă parte, contrar afirmațiilor
+acesteia, densitatea devine o proprietate relativă în funcție de tipul de
+film radiologic folosit. Imprimanta pe care petenta dorește să o oferteze
+este creată de așa natură încât prin arhitectura și performanțele sale să
+ofere o eficiență remarcabilă și o capacitate mare de acoperire a
+necesităților medicale. Astfel, în funcție de fiecare tip de film folosit,
+aceasta folosește tehnologia optimă de imprimare, adaptându-și funcțiile
+cu mare ușurință.
+Măsura de remediere 9:
+• Eliminarea acestei cerințe tehnice.
+10. Referitor la prevederile art. 15.4 din Contractul de furnizare:
+„La primirea unei astfel de notificări, furnizorul are obligația de a
+remedia defecțiunea sau de a înlocui produsul în perioada convenită (5
+zile de la formularea unei astfel de solicitări), fără costuri suplimentare
+pentru achizitor. Produsele care, în timpul perioadei de garanție, le
+înlocuiesc pe cele defecte, beneficiază de o nouă perioadă de garanție
+care decurge de la data înlocuirii produsului”, autoarea contestației arată
+că termenul solicitat pentru remedieri, de 5 zile, este mult prea scurt
+întrucât echipamentul în discuție, respectiv piesele de schimb, sunt
+aduse din afara României pe cale aeriană sau terestră, astfel încât pot
+interveni numeroase impedimente ce nu țin de acțiunile/inacțiunile
+furnizorului. De asemenea, termenul este mult prea scurt și pentru
+îndeplinirea formalităților ce țin de procedurile interne de plasare a
+comenzilor.
+Totodată, se precizează că produsele care în timpul perioadei de
+garanție le înlocuiesc pe cele defecte, nu au cum să beneficieze de o
+nouă perioadă de garanție, întrucat acest lucru ar putea însemna
+prelungirea indefinită a perioadei contractuale și a termenului de
+19
+
+garanție; garanția rămâne cea stabilită inițial, indiferent de numărul de
+înlocuiri apărute și indiferent de piesele sau subansamblele care se
+înlocuiesc.
+Măsura de remediere 10:
+• Modificarea art. 15.4, astfel: „La primirea unei astfel de
+notificări, furnizorul are obligația de a remedia defecțiunea sau
+de a înlocui produsul în perioada convenită (5 zile lucrătoare
+când piesele sunt în stoc și 7 zile lucrătoare când piesele nu sunt
+în stoc, de la formularea unei astfel de solicitări), fără costuri
+suplimentare pentru achizitor. Produsele care, în timpul
+perioadei de garanție, le înlocuiesc pe cele defecte, beneficiază
+de o nouă perioadă de garanție care decurge de la data înlocuirii
+produsului, dar nu mai mult decât perioada totală de garanție a
+echipamentului”. 
+• Corelarea prevederilor articolului 15.4 propuse de petentă
+cu prevederile cerinței 5 din caietul de sarcini.
+11. Referitor la prevederile articolului 15.5 din Contractul de
+furnizare: „Dacă furnizorul, după ce a fost înștiințat, nu reușește să
+remedieze defectul în perioada convenită, achizitorul are dreptul de a lua
+măsuri de remediere pe riscul și pe cheltuiala furnizorului și fără a aduce
+niciun prejudiciu oricăror alte drepturi pe care achizitorul le poate avea
+față de furnizor prin contract”, contestatoarea solicită eliminarea acestui
+articol, întrucât intervenția achizitorului asupra echipamentului conduce
+automat la anularea garanției acordate. Singurul în măsură să
+întreprindă acțiuni de remediere, pe perioada garanției, este furnizorul
+care acordă garanția, orice altă prevedere contrară fiind în discordanță
+cu practica existentă și cu reglementările legale incidente.
+Aparentul avantaj de a repara pe riscul și cheltuiala furnizorului, în
+cazul în care acesta nu remediază în termen de 5 zile, este în realitate
+nul, întrucât [spital] pierde garanția furnizorului și orice reparație
+neautorizată poate prejudicia actul medical, cu consecințe mai grave
+asupra pacienților decât un timp de așteptare impus, obiectiv, de
+posibilitatea furnizorului de a executa remedierea potrivit instrucțiunilor
+și standardelor producătorului.
+Măsura de remediere 11:
+• Eliminarea acestui articol.
+• Alternativ, dacă nu se acceptă eliminarea art. 15.5,
+contestatoarea solicită modificarea art. 15.5, astfel: „Dacă
+furnizorul, după ce a fost înștiințat, nu reușește să remedieze
+defectul în maximum 30 zile, achizitorul are dreptul de a lua
+măsuri de remediere, contractând un alt furnizor de service care
+să dețină autorizație de la producătorul echipamentului pentru
+furnizare service echipamente, pe riscul și pe cheltuiala
+furnizorului și fără a aduce niciun prejudiciu oricăror alte drepturi
+pe care achizitorul le poate avea față de furnizor prin contract.”
+Prin punctul său de vedere nr. 4539/19.09.2016, înregistrat la
+Consiliu cu nr. 28547/20.09.2016, autoritatea contractantă solicită
+respingerea contestației ca fiind neîntemeiată, precizând următoarele:
+20
+
+Caietul de sarcini reprezintă solicitările sale pentru un CT
+performant, fiind bazate pe criteriile de performanță ale acestui tip de
+echipament la nivelul anului 2016 și în concordanță cu valorile tehnice
+publicate pe site-ul comparativ www.itnonline.com. Alcătuirea caietului
+de sarcini a avut la bază nevoile clinice și tehnice ale instituției și nu
+performanțele tehnice ale unui anumit producător. Fiecare parametru
+tehnic criticat de către contestatoare a fost solicitat de către instituție în
+raport cu nevoile clinice, astfel:
+1. Cu referire la măsura de remediere 1
+În urma surselor multiple care există pe internet, pacientul poate
+să aibă informații detaliate referitoare la doza de radiație pe care o
+primește în timpul examinării și care este influențată de intensitatea
+curentulului anodic și tensiunea anodică. În aceste condiții, pentru o
+informare cât mai corectă și detaliată a pacientului, în timpul examinării,
+și pentru a fi optim informat în timp real, este necesară afișarea pe
+gantry a acestor parametri. Din motive de siguranță și din considerente
+medico-legale este oportună afișarea acestor parametri în timpul
+scanării.
+Cu privire la argumentele contestatoarei, autoritatea menționează
+că:
+- s-a solicitat un singur monitor pentru consola de achiziție. Faptul
+că petenta oferă 2 monitoare este un caz particular și nu unul general,
+prin urmare, cerința este relevantă pentru toți ceilalți producători;
+- pacientul este informat de valorile maxime pentru parametrii
+tensiune și curent anodic, accesul la informații fiind facil, iar valorile
+respective fiind publice. Astfel, pe site-ul www.aapm.org, sunt
+menționate valorile maxime pentru intensitatea curentului anodic și
+tensiunea anodică;
+- orice examinare, cu excepția celei cerebrale, se face cu
+poziționarea pacientului cu capul în afara gantry-ului (poziție feet-first),
+astfel încât pacientul are acces la ecranul gantry-ului.
+În conformatitate cu cele argumentate mai sus, autoritatea solicită
+menținerea cerinței inițiale din caietul de sarcini.
+2. Cu referire la măsura de remediere 2
+În primul rând, autoritatea ține să precizeze că rezoluția spațială la
+contrast înalt reprezintă capacitatea sistemului de a decela între două
+linii apropiate calculate la un anumit procent dintr-o funcție de transfer
+modular, denumită MTF. Ceea ce contestatoarea nu definește este că
+această rezoluție la contrast înalt este diferită de rezoluția în plan (sau
+rezoluția planară) ce reprezintă calitatea imaginii de a avea detalii nete și
+un smooth care face posibilă decelarea unei leziuni față de o anatomie
+normală. Deci, pentru a concluziona cele menționate: la contrast înalt se
+definește capacitatea sistemului de a evidenția două linii apropiate
+măsurate pe o fantomă (CATPHAN) în timp ce rezoluția planară definește
+capacitatea sistemului de a evidenția o anumită leziune ce trebuie să fie
+net vizibilă față de anatomia normală și să nu apară "flu", făcând astfel
+imposibilă izolarea leziunii față de anatomia normală. Acest ultim aspect
+este esențial în diagnosticul imagistic prin computer tomografie, fiindcă
+21
+
+este absolut primordial ca leziunea să fie identificată cu limitele sale de
+demarcație.
+Autoritatea precizează că, potrivit informațiilor de pe site-ul
+http://www.radiology-tip.com/servl.php?type=dbl&dbs=Focal%20Spot,
+cu cât este mai mică pata focală cu atât este mai bună rezoluția
+imaginilor.
+În legătură cu standardul IEC 60336, se arată că acesta
+menționează modul în care fiecare producător trebuie să efectueze
+măsurătorile pentru pata focală, mare și mică, în vederea ponderării
+rezultatelor și cuantificarea acestora între diferite tipuri de tehnologii ale
+diferiților producători. În același timp, acesta recomandă care este pata
+focală maximă sub care nu mai există posibilitatea interpretării unui
+examen de computer tomografie, dar nicăieri nu este menționat că acest
+standard recomandă o anumită dimensiune ca fiind cea care trebuie
+acceptată.
+Standardul nu impune dimensiunile pe care trebuie să le aibă o
+pată focală, fiecare producător va proiecta propriile dimensiuni pentru a
+atinge propia rezoluție spațială. Unii producători asigură o rezoluție
+spațială de 0,35 mm pentru un voxel izotropic, pentru acest lucru ei fiind
+capabili să ofere dimensiuni foarte mici ale petelor focale, atât pentru
+pata focală mare, cât și pentru pata focală mică. Acest lucru, nu
+înseamnă, însă, că acești producători au echipamente inferioare și oferă
+numai pete focale mici.
+Prin urmare, în conformitate cu cele argumentate mai sus,
+autoritatea solicită menținerea cerinței inițiale din caietul de sarcini.
+3. Cu referire la măsura de remediere 3
+Autoritatea contractantă dorește achiziționarea unui echipament
+performant, la nivelul tehnologiei actuale, care să permită upgrade-ul, în
+orice moment, cu un algoritm de reconstrucție iterativă din date brute ce
+va duce la reducerea costurilor de întreținere a echipamentului și,
+implicit, reducerea dozei încasată de pacient. Față de orice altă metodă
+convențională, algoritmele de reconstrucție iterativă reduc doza
+semnificativ, păstrând în același timp rezoluția spațială și, implicit,
+perioada de utilizare a tubului de raze X, care este cea mai costisitoare
+componentă a echipamentului CT. În urma analizei pieței, conform
+datelor publice, toți producătorii consacrați de echipamente CT au
+disponibilă opțiunea de reconstrucție iterativă, pe toată gama de
+echipamente, inclusiv pe cele de 16 slice-uri.
+Referitor la afirmația contestatoarei, potrivit căreia „orice reducere
+a dozei de radiație cu menținerea rezoltuției spațiale, înseamnă o
+imagine slab calitativă”, autoritatea susține că, însăși definiția
+reconstrucției iterative este aceea de a păstra calitatea imaginii la
+reducerea semnificativă a dozei. Orice producător poate oferi, pe
+echipamentele CT 16 slice-uri, tehnica de reconstrucție iterativă.
+Autoritatea își susține argumentele pe baza informațiilor oferite de site-ul
+comparativ www.itnonline.com.
+În concluzie, aceasta solicită menținerea cerinței inițiale din caietul
+de sarcini.
+22
+
+4. Cu referire la măsura de remediere 4
+Autoritatea subliniază că nevoia instituției este achiziția unui
+echipament CT cu un sistem informatic de ultimă generație, ținând cont
+de evoluția fulminantă a tehnologiei în IT, unitatea vrând să evite
+situația ca în câțiva ani să fie deja depășit tehnologic.
+Un procesor performant este un procesor care poate prelucra un
+volum foarte mare de date (cum este cazul datelor brute de CT) într-un
+timp foarte scurt, iar acest lucru poate fi realizat de un procesor cu o
+frecvență cât mai mare (adică o viteză cât mai bună), indiferent de
+numărul de nuclee. În concluzie, un procesor cu o viteză de 3,2 GHz,
+chiar dacă are nuclee mai puține, procesează mult mai rapid un volum
+foarte mare de date brute decât un procesor cu o viteză de doar 1.8 GHz
+(cu peste 75% mai mic), indiferent de numărul de nuclee.
+Necesitatea instituției este de 30-40 de investigații multiple zilnice,
+iar petenta când a afirmat că sistemul pe care dorește să-l oferteze
+asigură un flux de lucru de până la 50-60 de examinări zilnice, nu a
+menționat tipul de examinări, dacă acestea sunt de tip spiral, care
+necesită resurse IT crescute, sau de tip axial care nu necesită resurse IT
+performante.
+Prin urmare, în conformatitate cu cele argumentate mai sus,
+autoritatea solicită menținerea cerinței inițiale din caietul de sarcini.
+5. Cu referire la măsura de remediere 5
+Necesitatea unității este de a avea un echipament CT care să
+permită stocarea imaginilor achiziționate pe o perioadă cât mai lungă, în
+condițiile în care nu dispune de o soluție PACS, fără a exista o limitare în
+timp, calculată la o lună, așa cum a exemplificat petenta.
+Rolul stației de achiziție nu este doar de a achiziționa și de a
+transmite imaginile către stația de post-procesare, ci și de stocare a
+acestora, pentru reconstrucțiile ulterioare din date brute. În cazul în care
+medicul radiolog decide să reanalizeze detaliat o zona incertă, ce
+presupune reconstrucții mai fine decât cele achiziționate, acest lucru se
+poate efectua doar pe stația de achiziție, nefiind o operațiune posibilă pe
+stația de post-procesare.
+Stația de post-procesare a fost solicitată cu o capacitate mare de
+stocare, deoarece necesită spațiu pentru reconstrucțiile și reformatările
+care sunt efectuate adițional examinării, iar stocarea imaginilor pe
+CD/DVD a fost solicitată în vederea eliberării rezultatului examinării și a
+imaginilor aferente pentru pacient.
+Prin urmare, autoritatea solicită menținerea cerinței inițiale din
+caietul de sarcini.
+6. Cu referire la măsura de remediere 6
+Un procesor performant, de ultimă generație, este un procesor care
+are o frecvență cât mai mare (adică o viteză cât mai bună), indiferent de
+numărul de nuclee, pentru a putea fi capabil să prelucreze un volum
+foarte mare de date (cum este cazul datelor brute de CT) într-un timp
+foarte scurt. În concluzie, un procesor cu o viteză de 3,2 GHz, așa cum
+este solicitat prin caietul de sarcini, chiar dacă are nuclee mai puține,
+procesează mult mai rapid un volum foarte mare de date brute decât un
+23
+
+procesor cu o viteză de doar 2.6 GHz (cu peste 20% mai mic), chiar
+dacă are un numărul de nuclee mai mare.
+Prin urmare, se solicită menținerea cerinței inițiale din caietul de
+sarcini.
+7. Cu referire la măsura de remediere 7
+Autoritatea contractantă menționează că, în urma consultării site-
+ului Societății de Radiologie și Imagistică Medicală din România,
+www.srimr.ro, și cel al Colegiului Medicilor din Romania, www.cmr.ro, nu
+a găsit nicio referire la un anumit cod de practică medicală, așa cum
+eronat afirmă contestatoarea.
+Până la apariția soft-urilor care ajută la identificarea vertebrelor,
+tot fluxul de lucru se realiza manual, fiind necesar ca medicul radiolog să
+reidentifice nivelul vertebral la care se află leziunea. Soft-urile actuale
+permit identificarea automată a acestor leziuni, permițând, în același
+timp, medicului radiolog să decidă, după examinare, dacă validează
+propunerea software, sau dacă face mici modificări proprii. Aceste
+eventuale modificări nu reprezintă etichetări manuale, fiind vorba doar
+de un singur click de mouse, pentru validare sau ajustare.
+Prin urmare, în conformitate cu cele argumentate, aceasta solicită
+menținerea cerinței inițiale din caietul de sarcini.
+8. Cu referire la măsura de remediere 8
+Având în vedere aceleași argumente ca cele de la punctul anterior,
+autoritatea solicită menținerea cerinței inițiale din caietul de sarcini.
+9. Cu referire la măsura de remediere 9
+Densitatea optică este un parametru deosebit de important pentru
+calitatea imaginii radiologice, fiind un parametru obiectiv, de cuantificare
+a numărului de nuanțe de gri, care este cu atât mai mare cu cât
+densitatea optică este mai mare. Calitatea finală a imaginilor depinde nu
+doar de calitatea filmului radiologie, cât și de calitatea imprimantei, care
+trebuie să fie capabilă să diferențieze un număr cât mai mare de nuanțe
+de gri, ceea ce permite stabilirea cu exactitate a unui diagnostic.
+Prin urmare, în conformatitate cu cele argumentate mai sus,
+solicită Consiliului menținerea cerinței inițiale din caietul de sarcini.
+10. Cu referire la măsura de remediere 10
+Având în vedere că unitatea va asigura urgențele medicale ce sunt
+adresate, conform protocoalelor de lucru, serviciului de radiologie -
+Computer Tomograf, este necesar ca echipamentul CT să funcționeze cât
+mai mult timp, iar solicitarea de remediere în 5 zile este deja un
+dezavantaj, deoarece în această perioadă unitatea nu va putea fi
+capabilă să deservească Compartimentul de Primiri Urgențe. În acest caz
+este absolut imposibilă acceptarea unei perioade mai mari pentru
+remedierea unui defect.
+La înlocuirea unei piese cu defecte este normal ca aceasta să
+beneficieze de o nouă perioadă de garanție.
+Prin urmare, autoritatea solicită păstrarea articolul 15.4 din
+Contractul de furnizare, nemodificat.
+11. Cu referire la măsura de remediere 11
+24
+
+În condițiile în care furnizorul nu poate remedia o defecțiune în
+termenul indicat în modelul de contract de furnizare, achizitorul are
+dreptul să solicite repararea echipamentului oricărui alt furnizor de
+servicii de diagnosticare și reparare Computer Tomograf, pe cheltuiala
+furnizorului, fără a fi afectate condițiile de garanție ale echipamentului.
+Prin urmare, se solicită păstarea articolul 15.5 din Contractul de
+furnizare, nemodificat.
+Referitor la afirmația contestatoarei, potrivit căreia procedura a fost
+direcționată voit către un anumit producător, autoritatea contractantă
+arată că specificațiile solicitate prin caietul de sarcini reprezintă un minim
+necesar al institutiei, fiecare producător de astfel de echipamente
+(General Electric, Siemens, Toshiba, Philips, Hitachi, Samsung, Neusoft
+etc.) poate oferta un echipament similar, echivalent sau superior
+cerințelor. Ansamblul cerințelor din caietul de sarcini poate fi îndeplinit
+de către mai mulți producători, așa cum reiese și din studiul site-ului ITN
+Online.
+Urmare studierii dosarului achiziției, transmis de autoritatea
+contractantă în vederea soluționării prezentei contestații, SC ...SRL a
+transmis concluzii scrise, prin adresa nr. 1731/28.09.2016, înregistrată
+la Consiliu cu nr. 29322/28.09.2016, învederând următoarele:
+- nu există o notă justificativă în sensul stabilirii specificațiilor
+tehnice din caietul de sarcini, în care autoritatea să justifice de ce a ales
+o anumită valoare pentru un parametru sau altul;
+- există doar o Anexa cu Specificații tehnice la Nota de
+fundamentare a demarării licitației;
+- în această Anexă, dimensiunea pentru focare este stabilită la 0,7
+mm și 1,2 mm, cu referire la mult discutatul standard IEC 60336, iar la
+stocare, la Consola de operare sunt menționate DVD drive (CD-R/DVD-
+R);
+- nu a existat o consultare a pieței care să fi determinat autoritatea
+contractantă să fi stabilit specificațiile tehnice într-o anume modalitate;
+- orientarea licitației către producătorul Siemens este confirmată și
+de contestatorul Cortech Med, care critică alte specificații tehnice, doar
+una fiind comună.
+Contestatoarea își menține criticile și solicitările de remediere din
+contestație, punctând următoarele aspecte cu privire la anumite cerințe
+tehnice, raportat la răspunsul autorității și cele identificate în dosarul
+achiziției:
+1) Referitor la cerința tehnică „Panou frontal pe gantry cu afișarea
+următorilor parametri: valori curente ale kV, mA, timp scanare, poziție
+masă, înclinare gantry, nume pacient”.
+Petenta precizează că introducerea unor astfel de valori pornește
+de la 4 prezumții total eronate: 1) faptul că toți pacienții supusi unor
+astfel de proceduri se informează înainte despre cantitatea de radiații; 2)
+faptul că toți pacienții supuși unor astfel de proceduri identifică
+modalitatea de calcul a nivelului de radiații în funcție de tensiunea
+anodică și intensitatea curentului anodic; 3) faptul că toți pacienții au
+înțeles modul de calcul expus la punctul 2); 4) faptul că toți pacienții, în
+25
+
+timpul unei proceduri care și așa îi expune la un stres psihic (nu numai
+fizic) își calculează nivelul radiațiilor la care sunt expuși. 
+Mai mult decât atât, consideră că acest calcul ar putea să creeze un
+stres suplimentar pacientului, ceea ce ar denatura valorile procesate de
+echipament și care ar putea să facă procedura inutilă, în funcție de
+nivelul de anxietate sau de stres manifestat de pacient.
+2) Referitor la cerința tehnică „Tub RX cu două focare cu
+dimensiunile: maxim 0,8 x 0,6 mm pentru focarul mic și maxim 0,9 x
+0,8 mm pentru focarul mare (IEC 60336)”.
+Petenta arată că, în dosarul înaintat Consiliului, la pag. 220-221
+(TOSHIBA) și la pag. 223 (CORTHECH MED), se găsesc punctele de
+vedere cu privire la faptul că cerința tehnică în discuție favorizează
+echipamente de o performanță tehnică inferioară.
+Astfel, operatorul TOSHIBA afirmă: „Modalitatea de formulare a
+cerinței tehnice avantajează echipamentele inferioare din punct de
+vedere tehnologic, iar limitarea impusă nu este de natură a conduce la
+achiziția unor echipamente superioare, ci doar de a crea avantaje
+artificiale anumitor echipamente.
+Punctul focar este definit și măsurat de fiecare producător după
+recomandările standardului IEC 60336:2007, standard ce stabilește, în
+egală măsură, și valoarea maximă permisă a acestora.
+Din punct de vedere tehnic, cele două focare sunt folosite în
+condiții de scanare diferite pentru a maximiza diferențierea diferitelor
+țesuturi, reducând la minimum expunerea pacientului la razele X. [...]
+Un echipament care are o pată focală spre limita inferioară și o pată
+focală spre limita superioară (în conformitate cu recomandările
+standardului IEC 60336:2007) este un echipament superior. Astfel,
+solicitând un punct focal mic de maxim 0.8 x 0.6 mm rezultă că acesta
+poate avea o dimensiune de 0.8 x 0.6 mm, iar solicitând un punct focal
+mare de maxim 08 x 0.9 mm rezultă că acesta ar putea fi de 0.8 x 0.9
+mm. Or, un astfel de sistem solicitat nu este în niciun caz superior,
+neavând posibilitatea de a scana în mod continuu volume mari”.
+Astfel, contestatoarea arată că achiesează la cele expuse de
+operatorul în cauză, cu mențiunea că solicită remedierea proprie,
+respectiv modificarea cerinței tehnice, astfel: „Tub RX cu două focare cu
+dimensiunile: maxim 0,8 x 0,7 mm pentru focarul mic și maxim 1,1 x
+1,0 mm pentru focarul mare”.
+3. Referitor la cerința tehnică „Algoritm de reconstrucție iterativă a
+imaginii, din date brute, pentru reducerea dozei cu minimum 55% -
+opțiune disponibilă ca upgrade ulterior”, contestatoarea susține că prin
+menținerea acestei cerințe, se permite ofertarea unui echipament
+inferior, în niciun caz la nivelul de performanță al anului 2016.
+4. Referitor la cerința tehnică „Viteza procesor: minim 3,2 GHz din
+cadrul capitolului Sistem computer pentru achiziție, reconstrucție și
+vizualizare”, petenta menționează că autoritatea însăși determină că
+necesitatea vitezei procesului de 3.2 GHz, de fapt, are ca finalitate
+realizarea a minimum 8 imagini/s. Prin urmare, important pentru aceasta
+este numărul de imagini/secundă ce pot fi preluate de echipamentul
+26
+
+ofertat, pentru a reda un rezultat corespunzător și corect, ceea ce se
+poate face inclusiv printr-un procesor de o viteză de 1,8 GHz cu 8 nuclee
+(față de 4, oferite de procesoarele obișuite). Dacă autoritatea ar fi
+redactat note de justificare/fundamentare, probabil se putea înțelege
+mai bine motivele pentru care a solicitat introducerea, și ulterior,
+menținerea acestei cerințe. 
+Așadar, această cerința are în vedere o altă utilitate practică decât
+viteza în sine a procesorului, și anume preluarea mai multor
+imagini/secundă. Contestatoarea susține că a arătat deja că
+echipamentul său, deși prevăzut cu un procesor cu o viteză mai mică,
+poate prelua 22 imagini/secundă, oferind o soluție tehnică superioară
+față de minimul ofertat. Totuși, din cauza cerinței exprese a vitezei de
+3.2 GHz care, pe fond, are o altă utilitate decât cea expusă în punctul de
+vedere al autorității, nu se califică în procedură.
+5) Referitor la cerința tehnică „Capacitate HDD pentru stocare
+imagini: minim 650 GB, din cadrul capitolului Sistem computer pentru
+achiziție, reconstrucție și vizualizare”, se precizează că scopul unității de
+achiziție este preluarea pentru un termen scurt a imaginilor captate prin
+razele X. Cheia aici este „termenul scurt” pentru care este nevoie de
+aceste imagini.
+În cadrul Anexei cu Specificații tehnice, atașată notei de
+fundamentare, este menționată stocarea pe CD și DVD.
+O capacitate crescută de stocare este specifică sistemelor PACS, nu
+stației de achiziție a unui computer tomograf.
+Dacă [spital] să justifice dimensiunea de stocare raportat
+la nevoia clinică de revenire a medicului radiolog asupra scanărilor, ar
+trebui, de fapt, să menționeze cazurile în care aceste reveniri sunt
+necesare/apar practic, pentru a se determina rezonabil dimensiunea
+efectivă de stocare necesară.
+10) Referitor la prevederile articolului 15.4 din Contractul de
+furnizare, potrivit căruia „La primirea unei astfel de notificări, furnizorul
+are obligația de a remedia defecțiunea sau de a înlocui produsul în
+perioada convenită (5 zile de la formularea unei astfel de solicitări), fără
+costuri suplimentare pentru achizitor. Produsele care, în timpul perioadei
+de garanție, le înlocuiesc pe cele defecte, beneficiază de o nouă perioadă
+de garanție care decurge de la data înlocuirii produsului”, contestatoarea
+susține că termenul propus (5 zile în caz că produsele sunt pe stoc și 7
+zile în cazul în care ele trebuie comandate) reprezintă termene maximale
+înăuntrul cărora să se poată conforma. Termenele maximale înseamnă
+că debitorul obligației poate îndeplini sarcina ce i se impută și mai
+devreme de împlinirea termenului, ceea ce ar însemna că operatorul nu
+va aștepta împlinirea termenului pentru a-și îndeplini obligația, ci o va
+face de îndată ce circumstanțele faptice îi vor permite acest lucru.
+În condițiile în care mulți operatori importă piesele de schimb,
+termenul de 5 zile pentru comandă/livrare este nerealist. Aceasta
+înseamnă că diagnosticarea aparatului (procedura care uneori poate dura
+mai mult de câteva ore), comanda, livrarea pieselor și montajul să se
+întâmple toate în 5 zile. 
+27
+
+Eventual, în contract se poate stipula expres o obligație de
+diligență, de tipul va face toate demersurile pentru a înlocui cât mai
+curând posibil, dar nu mai târziu de 5/7 zile, tocmai pentru a putea trage
+la răspundere operatorul în cazul în care nu este suficient de activ în
+procesul de reparare a echipamentului.
+Analizând actele existente la dosarul cauzei, Consiliul constată
+următoarele: 
+Pentru atribuirea contractului de furnizare având ca obiect
+„computer tomograf, transport, instalare, punere în funcțiune și instruire
+personal”, ..., în calitate de autoritate contractantă, a inițiat procedura
+licitație deschisă prin publicarea în SEAP a anunțului de participare nr.
+169219 din 19.08.2016, odată cu care a postat și documentația de
+atribuire. Nemulțumite de răspunsul autorității contractante la notificarea
+prealabilă (ce i-a fost comunicat prin adresa nr. 4264 din 01.09.2016 și
+4266/01.09.2016), SC ...SRL și SC ...SRL au formulat prezentele
+contestații, solicitând:
+SC ...SRL:
+- în principal, modificarea următoarelor specificații tehnice:
+1Distanța focar izocentru: maxim 55 cm și 
+Distanța focar detector: maxim 95 cm
+Distanța focar izocentru: minim 55 cm și Distan’a focar
+detector: minim 95 cm
+2Puterea generatorului: minim 50 kW. Nu se
+acceptă echivalente.
+Puterea generatorului: minim 42 kw. Nu se acceptă
+echivalente.
+3Curent anodic reglabil între: minim 30-340
+mA. Nu se acceptă echivalente.
+Curent anodic reglabil între: minim 30-300 mA. Nu se
+acceptă echivalente.
+4Tub RX cu două focare cu dimensiunile:
+maxim 0,8 x 0,6 mm pentru focarul mic și
+maxim 0,9 x 0,8 mm pentru focarul mare
+(IEC 60336)
+Tub RX cu două focare cu dimensiunile: maxim 0,8 x 0,6
+mm pentru focarul mic și maxim 1.4 x 1.6 mm pentru
+focarul mare (IEC 60336)
+Precizarea numărului filamentelor tubului de raze X
+- în subsidiar, anularea procedurii de atribuire a contractului de
+achiziție publică.
+SC ...SRL:
+- obligarea autorității contractante la adoptarea măsurilor de
+remediere;
+- în subsidiar, în cazul în care adoptarea măsurilor de remediere nu
+este posibilă, solicită anularea procedurii de atribuire, pentru
+nerespectarea legislației privind achizițiile publice și a principiilor ce se
+impun a fi respectate în acest domeniu.
+Criticile ambelor contestatoare formulate împotriva refuzului
+autorității contractante de a modifica cerința tehnică privind dimensiunile
+celor două focare (cerințe care sunt îndeplinite doar de [OPERATOR ECONOMIC]), sunt considerate de Consiliu întemeiate în parte. În conformitate
+cu prevederile art. 20 alin. (10) din HG nr. 395/2016, Caietul de sarcini
+conține, în mod obligatoriu, specificații tehnice care reprezintă cerințe,
+prescripții, caracteristici de natură tehnică ce permit fiecărui produs,
+serviciu sau lucrare să fie descris, în mod obiectiv, astfel încât să
+corespundă necesității autorității contractante.
+În același timp, dispozițiile art. 50 din Legea nr. 98/2016 prevăd:
+(1) Autoritățile contractante nu vor concepe sau structura achizițiile
+ori elemente ale acestora cu scopul exceptării acestora de la aplicarea
+dispozițiilor prezentei legi ori al restrângerii artificiale a concurenței.
+28
+
+(2) În sensul alin. (1), se consideră că există o restrângere
+artificială a concurenței în cazul în care achiziția ori elemente ale
+acesteia sunt concepute sau structurate cu scopul de a favoriza ori
+dezavantaja în mod nejustificat anumiți operatori economici.
+De asemenea, dispozițiile art. 155 alin. (6) din Legea nr. 98/2016
+prevăd: Specificațiile tehnice trebuie să permită tuturor operatorilor
+economici accesul egal la procedura de atribuire și nu trebuie să aibă ca
+efect introducerea unor obstacole nejustificate față de asigurarea unei
+concurențe efective între operatorii economici.
+Prin caietul de sarcini, autoritatea contractantă a precizat:
+Ansamblu tub cupolă: Tub RX cu două focare cu dimensiunile: maxim
+0,8 x 0,6 mm pentru focarul mic și maxim 0,9 x 0,8 mm focarul mare
+(IEC 60336).
+Prin notificarea prealabilă SC ...SRL a solicitat modificarea acestei
+cerințe tehnice în sensul, maxim 0,8 x 0,6 mm pentru focarul mic și
+maxim 1,4 x 1,6 mm focarul mare (IEC 60336), iar SC ...SRL în sensul,
+maxim 0,8 x 0,7 mm pentru focarul mic și maxim 1,1 x 1,0 mm
+focarul mare.
+Autoritatea contractantă în ambele cazuri a respins solicitarea de
+remediere susținând că modificările solicitate sunt în dezacord cu nevoile
+sale. 
+Din verificarea specificațiilor tehnice aferente produselor mai multor
+producători (prin consultarea site-ului www.itnonline.com), Consiliul
+constată că această cerință este îndeplinită doar de [OPERATOR ECONOMIC] cu computer tomograf cu două focare:
+SOMATOM PROSPECTIVE 128-slice – dimensiuni 0,8 x 0,5 mm și
+0,8 x 0,7 mm;
+SOMATOM Emotion 16-slice - dimensiuni 0,8 x 0,5 mm și 0,8 x 0,7
+mm;
+SOMATOM DEFINITION Flash - dimensiuni 0,8 x 0,9 mm și 0,6 x
+0,6 mm,
+și cu tomografele care au trei focare, la care două dintre ele se
+încadrează în cerințele autorității contractante.
+Nici unul din ceilalți trei producători existenți pe piața românească
+(SC ...SRL, [OPERATOR ECONOMIC] și SC TOSHIBA America
+Medical Systems) nu au în portofoliu un echipament care să
+îndeplinească această cerință. 
+Consiliul nu va reține în soluționare, ca fondată, afirmația autorității
+contractante că aceste valori conduc către o calitate mai bună a imaginii,
+cât și către o doză mai redusă a radiației, deoarece aceasta nu a venit cu
+probe în sensul în care o valoare mai mare a suprafeței focarelor ar
+conduce la neîndeplinirea nevoilor sale legate de achiziție și a scopului
+utilizării computerului tomograf. De asemenea, sunt întemeiate
+susținerile contestatoarelor că deși a solicitat un computer tomograf cu
+un focar mic și un focar mare, prin dimensiunile impuse autoritatea
+contractantă a solicitat în fapt două focare mici. 
+Prin urmare, Consiliul nu va stabili dimensiunile focarelor prin
+raportare la cerințele contestatoarelor care sunt foarte diferite (fiecare a
+29
+
+solicitat dimensiunile focarelor funcție de produsele pe care le dețin),
+însă va dispune în sarcina autorității contractante dimensionarea
+focarelor astfel încât, pe de o parte, să satisfacă necesitățile sale, iar pe
+de altă parte, să permită participarea la procedură și a altor producători. 
+Autoritatea contractantă nu poate organiza o procedură deschisă,
+concurențială doar de formă, în condițiile în care doar un producător
+poate livra echipamentul ce îndeplinește această cerință.
+În ceea ce privește susținerea contestatoarei SC ... SRL ca
+autoritatea contractantă nu a răspuns cererii sale de a preciza numărul
+filamentelor tubului de raze X, Consiliul constată că prin clarificarea 2
+postată în SEAP sub nr. 4204/30.08.2016 la răspunsul 5 a precizat
+printre altele: Nu s-a menționat dacă cele 2 focare sunt reprezentate de
+2 filamente diferite deoarece numărul filamentelor tubului de raze X nu
+este o cerință a caietului de sarcini. În concluzie, autoritatea
+contractantă a precizat că aceasta nu este o cerință a caietului de
+sarcini, prin urmare nu are relevanță dacă este un tub cu un filament sau
+cu două. 
+Criticile contestatoarei SC ...SRL formulate împotriva cerințelor
+caietului de sarcini 3.2. Puterea generatorului: minim 50 kW. Nu se
+acceptă echivalențe și 3.3 Curent anodic reglabil între: minim 30-340
+mA. Nu se acceptă echivalente, pe care le consideră restrictive, sunt
+considerate de Consiliu nefondate. Contestatoarea susține că aceste
+cerințe impuse de autoritatea contractantă prin caietul de sarcini sunt
+restrictive și nelegale dar nu demonstrează în vreun fel cum este
+restricționată participarea sa la procedură prin raportare la produsele cu
+care vrea să participe la procedură. În aceste condiții, pentru a
+demonstra că acești parametri sunt restrictivi, contestatoarea trebuia să
+prezinte argumente tehnice concrete și obiective, raportat la cele date de
+autoritatea contractantă care a subliniat nevoia acestui aparat pentru
+buna funcționare a secțiilor din spital, nu doar să afirme că cerințele sunt
+nelegale. O afirmație la nivel general că anumite cerințe tehnice sunt
+restrictive nu reprezintă o motivare validă dacă operatorul economic nu
+dovedește în concret că este împiedicat să participe la procedură cu
+produsele sale. Din calculele contestatoarei rezultă că puterea maximă a
+generatorului, prin raportare la valorile maxime ale intensității și
+tensiunii curentului impuse de autoritatea contractantă ar trebui să fie
+44KW (P=IxT, respectiv 130Kv x 340mA = 44,2 KW), cu toate acestea
+solicită modificarea puterii generatorului la 42 KW și în consecință a
+intensității curentului la intervalul 30 -300mA. 
+Pe de altă parte, din verificarea specificațiilor tehnice aferente
+produselor Toshiba (prin consultarea site-ului www.itnonline.com) al
+căror furnizor este contestatoarea, Consiliul constată că toate cele cinci
+echipamente indicate de producătorul TOSHIBA prin declarația dată în
+susținerea primei critici (referitoare la dimensiunile focarelor) au puterea
+generatorului peste 60KW, tensiunea de 135 KV și intensitate de 10
+-500mA.
+30
+
+Prin urmare, Consiliul constată că autoarea contestației, prin
+raportare la produsele pe care le poate furniza nu justifică cererea de
+modificare a specificațiilor tehnice impuse de autoritatea contractantă
+prin caietul de sarcini, cerințe care satisfac nevoile autorității la acest
+moment.
+ Pe baza aceluiași raționament, Consiliul respinge ca neîntemeiată
+și solicitarea contestatoarei de modificare a cerinței tehnice Distanța
+focar izocentru: maxim 55 cm și Distanța focar detector: maxim 95 cm,
+deoarece nu motivează cum este împiedicată să participle la procedură
+cu produsele al căror furnizor este. Simpla afirmație a faptului că atunci
+când deschiderea gantry crește și distanțele focar izocentru și focar
+detector cresc direct proporțional, nu este de natură a obliga autoritatea
+contractantă la modificarea cerinței tehnice dacă operatorul economic nu
+face dovada că prin impunerea ca aceste distanțe să fie maximale este
+împiedicată să participe la procedură. Contestatoarea nu precizează care
+este produsul cu care dorește să participe la procedură, care sunt
+caracteristicile acestuia și în ce mod concret dorește modificarea
+cerințelor tehnice criticate. Autoritatea contractantă și-a motivat
+impunerea cerinței ca distanțele focar izocentru și focar detector să fie
+maximale prin nevoia ca imaginile obținute să aibă o rezoluție cât mai
+bună. Solicitarea contestatoarei de a preciza pentru cele două distanțe,
+în loc de valori maximale, valori minimale are un caracter general,
+nedemonstrând că indiferent cât de mari sunt distanțele focar izocentru
+și focar detector rezoluția imaginii este la fel de bună și se bazează doar
+pe presupunerea că cele două distanțe cresc direct proporțional cu
+creșterea deschiderii gantry-ului (fapt combătut de autoritatea
+contractantă). 
+Criticile contestatoarei SC ...SRL formulate împotriva refuzului
+autorității contractante de a modifica cerința tehnică Panou frontal pe
+gantry cu afișarea următorilor parametri: valori curente ale kV, mA, timp
+scanare, poziție masă, înclinare gantry, nume pacient, în sensul
+eliminării parametrilor privind valori curente ale kV, mA, sunt
+considerate de Consiliu nefondate. Prin caietul de sarcini, la secțiunea
+„Gantry”, autoritatea contractantă a precizat: Panou frontal pe gantry cu
+afișarea următorilor parametri: valori curente ale kV, mA, timp scanare,
+poziție masă, înclinare gantry, nume pacient.
+Contestatoarea consideră că afișarea tensiunii și miliamperajului
+curentului anodic nu aduc niciun avantaj clinic sau în fluxul de lucru nici
+pentru operator și cu siguranță nici pentru pacient. Mai mult, consideră
+că din motive de siguranță precum și din considerente medico-legale
+este inoportună afișarea acestor parametri în timpul scanării. Pe de altă
+parte, arată că acești parametri sunt setați de operator de la consola de
+comandă, fiind afișați pe filmul radiologic sau pe imaginile de pe CD-ul ce
+conține examinarea motiv pentru care afișarea lor pe display nu aduce
+vreo îmbunătățire a fluxului de lucru.
+31
+
+În susținerea menținerii cerinței în forma din caietul de sarcini
+autoritatea contractantă precizează că afișarea acestor parametri pe
+display-ul gantry este importantă atât pentru pacient cât și pentru
+operatorul care efectuează poziționarea pacientului. Doza de radiații pe
+care o primește pacientul este influențată de intensitatea curentului
+anodic și de tensiunea anodică motiv pentru care, pentru o informare cât
+mai corectă și detaliată a pacientului, în timpul examinării, și pentru a fi
+optim informat în timp real, este necesară afișarea pe gantry a acestor
+parametri. De asemenea, autoritatea contractantă consideră oportună
+afișarea acestor parametri din motive de siguranță și din considerente
+medico-legale, putând fi sesizate în timp real anumite erori și corectate. 
+Pe de altă parte, din analiza specificațiilor tehnice aferente
+echipamentului OPTIMA CT 660 al GE Healthcare, Consiliul constată că la
+componenta Xtream Display se precizează: poate afișa informații de
+bază pentru pacient iar utilizatorul poate confirma informații pacientului
+în sala de scanare, poate îmbunătăți fluxul de lucru și reduce
+posibilitatea de eroare.
+Prin urmare, intensitatea curentului anodic și tensiunea anodică
+fiind doi parametri care influențează doza de radiație este important să
+fie afișați pe display-ul gantry pentru corectarea eventualelor erori în
+timp real, sesizarea lor după ce s-a efectuat scanarea (pe filmul
+radiologic sau pe imaginile de pe CD-ul ce conține examinarea)
+nemaiavând vreo relevanță nici pentru pacient nici pentru operator.
+Contestatoarea susține că cei doi parametri sunt irelevanți pentru
+scopul urmărit prin achiziționarea acestui echipament (deși specificațiile
+tehnice aferente echipamentului său OPTIMA CT 660 precizează
+contrariul) iar menținerea lor duce la excluderea de la procedură a
+tuturor echipamentelor din gama 16-32 slice-uri, însă nu dă cel puțin un
+exemplu în acest sens. 
+Criticile contestatoarei formulate împotriva cerinței caietului de
+sarcini „Algoritm de reconstrucție iterativă a imaginii, din date brute,
+pentru reducerea dozei cu minimum 55% - opțiune disponibilă ca
+upgrade ulterior”, a cărei eliminare o solicită, sunt considerate de
+Consiliu nefondate. În argumentarea deciziei de menținere a acestei
+specificații tehnice, autoritatea contractantă precizează că dorește
+achiziționarea unui echipament performant, la nivelul tehnologiei actuale
+care să permită upgrade-ul, în orice moment, cu un algoritm de
+reconstrucție iterativă din date brute ce va duce la reducerea costurilor
+de întreținere a echipamentului și, implicit, reducerea dozei încasată de
+pacient. Față de orice altă metodă convențională, algoritmele de
+reconstrucție iterativă reduc doza semnificativ, păstrând în același timp
+rezoluția spațială și, implicit, perioada de utilizare a tubului de raze X,
+care este cea mai costisitoare componentă a echipamentului CT. În urma
+analizei pieței, conform datelor publice, toți producătorii consacrați de
+echipamente CT au disponibilă opțiunea de reconstrucție iterativă, pe
+toată gama de echipamente, inclusiv pe cele de 16 slice-uri.
+32
+
+Contestatoarea solicită eliminarea acestei cerințe, pe de o parte,
+deoarece consideră că din punct de vedere clinic nu are o justificare și nu
+aduce un plus diagnosticului. Precizează că un soft care ar îndeplini
+cerința caietului de sarcini este specific exclusive sistemelor cu mai mult
+de 64 de slice-uri astfel că un upgrade ulterior al aparatului cu un astfel
+de soft nu ar aduce nicio îmbunătățire a calității imaginii diagnostice și
+nicio reducere suplimentară de doză. Pe de altă parte, contestatoarea
+arată că din studiile producătorilor rezultă că reducerea dozei de radiații
+prin folosirea soft-ului de reconstrucție iterativă poate fi și de 60% sau
+chiar de 75% în cazul unor producători. În cazul său arată că 40%
+reprezintă procentul teoretic de reducere al dozei de radiații însă,
+procentul raportat de reducere a dozei poate ajunge până la 76% (în
+susținere atașează un studio efectuat în anul 2013 de Societatea
+Europeană de Radiologie).
+Din verificarea informațiilor incluse în studiul prezentat de
+contestatoare, Consiliul constată că toți ceilalți producători (Philips,
+Siemens, Toshiba), prin folosirea soft-ului de reconstrucție iterativă
+acordă un procent de reducere a dozei de radiații de la 60 -80%, ceea ce
+înseamnă că prin cerința impusă autoritatea contractantă nu a
+restricționat participarea la procedură. Așa cum s-a precizat mai sus,
+autoritatea contractantă are interesul de a achiziționa un echipament
+performant care să răspundă necesităților sale iar faptul că un operator
+economic nu poate satisface cu un anumit produs această cerință nu o
+obligă pe aceasta la modificarea cerinței în condițiile în care pe piață
+există operatori economic ice pot asigura o concurență reală. 
+Pe de altă parte, dacă poate demonstra că soft-ul de reconstrucție
+iterativă folosit poate da un procent de reducere a dozei de radiații cu
+până la 76% nu are un motiv întemeiat de a solicita eliminarea cerinței
+în discuție.
+În ceea ce privește cerința „Viteza procesor: minim 3,2 GHz” din
+cadrul capitolului “Sistem computer pentru achiziție, reconstrucție și
+vizualizare”, criticile contestatoarei sunt considerate de Consiliu
+nefondate. Contestatoarea solicită modificarea cerinței la minim 1,8 GHz
+susținând că față de cerința caietului de sarcini viteza de reconstrucție a
+imaginii: minim 8 imagini/s, sistemul pe care dorește să-l oferteze atinge
+o valoare de 22 imagini reconstruite pe secundă asigurând astfel o
+funcționare fără timpi de așteptare care să afecteze fluxul de lucru. De
+asemenea, susține că tipul de procesor cu care este echipat sistemul pe
+care intenționează să-l ofere este “Dual Quad Core” (8 nuclee față de 4
+nuclee cum este specificat în caietul de sarcini).
+Autoritatea contractantă în susținerea cerinței viteză procesor de
+minim 3,2 GHz precizează că aceasta este pe deplin justificată în cazul
+său deoarece se estimează un număr de peste 15 pacienți/zi, fiecare
+pacient fiind cu examinări multiple (de exemplu examinare de torace-
+abdomen-pelvis, abdomen-pelvis, cap-torace-abdomen, etc), ceea ce
+duce la un număr de aproximativ 30-40 de investigații pe parcursul unei
+ture. Prin urmare, pentru satisfacerea necesităților sale (urgențele zilnice
+și cazurile oncologice) dorește achiziționarea unui echipament
+33
+
+performant. Mai mult, precizează că la acest moment nu există nicio
+echivalență între numărul de nuclee al procesorului, cu viteza de lucru a
+acestuia, care să certifice că un procesor cu 8 nuclee cu o viteză de 1,8
+GHz este superior unui procesor cu 4 nuclee cu viteza de 3,2 GHz. 
+Cu referire la acest aspect, Consiliul are în vedere faptul că viteza
+de prelucrare a datelor de către un procesor este raportată la frecvența
+acestuia, deci o frecvență mai mare înseamnă un procesor mai rapid.
+Indiferent dacă am 4 nuclee la un procesor sau am 8 nuclee pe un
+procesor frecvența procesorului este aceeași pentru fiecare nucleu în
+parte, prin urmare numărul de nuclee nu influențează viteza
+procesorului. Numărul de nuclee este relevant și important pentru
+prelucrarea multitasking. În cazul de față autoritatea contractantă este
+interesată pentru satisfacerea nevoilor sale, de un procesor cu patru
+nuclee dar care are o viteză de procesare mai mare decât un procesor cu
+opt nuclee cum propune contestatoarea dar cu o viteză de procesare mai
+mică. 
+Prin contestație, autoarea acesteia vine și susține că asigură un flux
+de 50-60 de examinări/zi pentru CT-ul pe care dorește să-l oferteze, iar
+parametrul viteza de reconstrucție este îndeplinit, procesorul ofertat de
+ea cu viteză de lucru de 1,8 GHz având performanțe superioare față de
+cel solicitat prin caietul de sarcini cu viteză de 3,2 GHz.
+Având în vedere cele precizate, Consiliul constată că autoarea
+contestației nu aduce niciun argument concret în susținerea modificării
+cerinței tehnice ci doar face afirmații. Contestatoarea nu precizează tipul
+echipamentului pe care dorește să-l oferteze și nu prezintă vreun
+document din care să rezulte că procesorul cu care este echipat CT-ul pe
+care dorește să-l oferteze este cel puțin la fel de performant ca cel
+solicitat de autoritatea contractantă. Mai mult, deși contestatoarea
+susține că sistemul pe care dorește să-l oferteze atinge o valoare de 22
+imagini reconstruite pe secundă (față de cerința caietului de minim 8
+imagini reconstruite pe secundă), din tabelul comparativ anexat
+contestației (Anexa 8) rezultă că echipamentul său nu îndeplinește
+această cerință (în dreptul acesteia a scris NU). Totodată, din verificarea
+informațiilor existente pe site-ul www.itnonline.com niciunul din cele opt
+tipuri de CT ale contestatoarei nu are parametrul viteza de reconstrucție
+a imaginii de 22 imagini/s (au valori până la 55 imagini/s CT de mare
+putere). În schimb, ceilalți trei producători existenți pe piață la acest
+moment îndeplinesc cerința minimă viteză procesor de minim 3,2 GHz.
+Prin urmare, Consiliul va respinge critica contestatoarei menținând
+cerința în forma din caietul de sarcini.
+Criticile contestatoarei privind cerința tehnică „Capacitate HDD
+pentru stocare imagini: minim 650 GB” din cadrul capitolului „Sistem
+computer pentru achiziție, reconstrucție și vizualizare”, bazate pe
+caracterul restrictiv al acesteia, sunt considerate de Consiliu nefondate.
+Contestatoarea susține reducerea cerinței minime de la 650 GB la 300
+GB în baza unui calcul făcut de ea, raportat la numărul de pacienți
+prezumați în medie într-o lună. Din experiența sa consideră că o
+capacitate de stocare a imaginilor pe HDD de 300GB este suficientă
+34
+
+pentru numărul de pacienți estimați de către autoritatea contractantă ce
+urmează a fi scanați într-o lună.
+Pe de altă parte, autoritatea contractantă susține că are nevoie de
+o capacitate de stocare mult mai mare decât cea menționată de
+contestatoare, deoarece dorește stocarea imaginilor pentru un timp
+îndelungat (nu doar o lună), pe de o parte, pentru că unitatea nu
+dispune de o soluție PACS (Picture Archiving and Communication
+Systems) care să ajute la stocarea imaginilor pe o perioadă de timp cât
+mai lungă. Pe de altă parte, arată că rolul stației de achiziție nu este
+doar de a achiziționa și de a transmite imaginile către stația de post-
+procesare, ci și de stocare a acestora, pentru reconstrucțiile ulterioare
+din date brute. În cazul în care medicul radiolog decide să reanalizeze
+detaliat o zona incertă, ce presupune reconstrucții mai fine decât cele
+achiziționate, acest lucru se poate efectua doar pe stația de achiziție,
+nefiind o operațiune posibilă pe stația de post-procesare.
+De asemenea, autoritatea precizează că stația de post-procesare a
+fost solicitată cu o capacitate mare de stocare, deoarece necesită spațiu
+pentru reconstrucțiile și reformatările care sunt efectuate adițional
+examinării, iar stocarea imaginilor pe CD/DVD a fost solicitată în vederea
+eliberării rezultatului examinării și a imaginilor aferente pentru pacient.
+Prin urmare, nevoia autorității contractante a fost clar exprimată și
+motivată în ceea ce privește capacitate de stocare de minim 650 GB. În
+același timp, Consiliul constată că toți ceilalți trei producători existenți pe
+piață îndeplinesc această cerință minimă a caietului de sarcini, fapt ce
+rezultă și din tabelul anexat contestației.
+Referitor la criticile privind caracterul restrictiv al cerinței „Viteza
+procesor: minim 3,2 GHz” din cadrul capitolului Stație pentru
+postprocesare și aplicații pe stația de postprocesare, Consiliul o va
+respinge ca nefondată motivarea fiind aceeași ca pentru cerința „Viteza
+procesor: minim 3,2 GHz” din cadrul capitolului “Sistem computer pentru
+achiziție, reconstrucție și vizualizare”.
+Criticile contestatoarei privind modificarea cerințelor tehnice
+„Etichetare automată coloanei vertebrale pentru imagini de CT și RMN” și
+„Etichetare automată a oaselor cutiei toracice”, sunt considerate de
+Consiliu nefondate. Contestatoarea solicită modificarea cerințelor în
+sensul etichetare automată și/sau manuală considerând că utilizarea
+doar a etichetării automate generează un risc major în diagnosticare. În
+acest sens arată că dacă softul are cea mai mică eroare, diagnosticarea
+este imposibilă sau, în cel mai rău caz, greșită. Blocurile congenitale pot
+fi și de dimensiuni mai mici, neputând fi detectate de soft ca fiind ceva în
+neregulă. Ochiul uman și experiența medicului radiolog trebuie să
+primeze în orice situație, ajutându-se de tehnologie. Numai așa se pot
+diagnostica corect și la timp pacienții cu complicații, care nu sunt vizibile
+la o simplă „scanare” automată a coloanei vertebrale de către sistem.
+35
+
+Prin punctul de vedere, autoritatea contractantă clarifică acest
+aspect arătând că softurile actuale permit identificarea automată a
+acestor leziuni, permițând, în același timp, medicului radiolog să decidă,
+după examinare, dacă validează propunerea software, sau dacă face mici
+modificări proprii. Aceste eventuale modificări nu reprezintă etichetări
+manuale, fiind vorba doar de un click de mause, pentru validare sau
+ajustare.
+Prin urmare, în condițiile în care propunerea software nu este
+preluată automat ci trebuie validatăși eventual modificată de medicul
+radiolog, în mod cert nu se confirmă suspiciunile contestatoarei privind
+riscul în diagnosticare ce ar putea apare fără experiența medicului
+radiolog.
+Și în ceea ce privește critica contestatoarei referitoare la cerința
+tehnică „Densitatea maximă - minim 4.0” din cadrul capitolului
+IMPRIMANTĂ LASER, prin care solicită eliminarea ei, Consiliul constată
+netemeinicia acestora. Prin contestație susține că valoarea densității
+maxime solicitate prin caietul de sarcini nu are nicio relevanță în procesul
+clinic, fiind un factor ce ține de filmul radiologic nu de performanța
+imprimantei în sine, astfel că nu influențează în niciun fel fluxul de lucru
+și acuratețea datelor achiziționate. Pe de altă parte, susține că
+imprimanta pe care dorește să o oferteze este creată de așa natură încât
+prin arhitectura și performanțele sale să ofere o eficiență remarcabilă și o
+capacitate mare de acoperire a necesităților medicale. Astfel, în funcție
+de fiecare tip de film folosit, aceasta folosește tehnologia optimă de
+imprimare, adaptându-și funcțiile cu mare ușurință.
+În răspuns la criticile contestatoarei, prin punctul de vedere la
+contestație, autoritatea contractantă arată că densitatea optică este un
+parametru deosebit de important pentru calitatea imaginii radiologice,
+fiind un parametru obiectiv, de cuantificare a numărului de nuanțe de
+gri, care este cu atât mai mare cu cât densitatea optică este mai mare.
+Calitatea finală a imaginilor depinde nu doar de calitatea filmului
+radiologic, cât și de calitatea imprimantei, care trebuie să fie capabilă să
+diferențieze un număr cât mai mare de nuanțe de gri, ceea ce permite
+stabilirea cu exactitate a unui diagnostic.
+Prin concluziile scrise, contestatoarea nu combate argumentele
+autorității contractante din punctul de vedere, ceea ce duce la concluzia
+că acestea sunt pertinente. Mai mult, Consiliul constată, că, deși
+contestatoarea susține că deține o imprimantă performantă care acoperă
+necesitățile medicale, nu indică care este tipul imprimantei și nu
+anexează fișa tehnică a acesteia pentru a verifica susținerile sale. 
+Simpla susținere a contestatoarei conform căreia cerințele tehnice
+impuse restricționează accesul la procedura de atribuire a unor
+importanți producători de echipamente medicale, nefiind probată în
+vreun fel, nu poate conduce la modificarea caietului de sarcini. Or, o
+astfel de posibilitate, respectiv modificarea unei documentații de
+36
+
+atribuire la solicitarea oricărui operator economic astfel încât cerințele
+impuse să satisfacă exact interesul acestuia, iar nu interesul general, nu
+pot determina Consiliul să modifice documentația de atribuire, un astfel
+de demers nefiind în concordanță cu dispozițiile aplicabile în materia
+achizițiilor publice, care prevăd dreptul autorității contractante de a
+demara o procedură în funcție de necesitățile sale obiective. 
+Pe de altă parte, impunerea, de către operatorii economici, a
+schimbării valorilor anumitor parametri tehnici ai unor aparate/
+echipamente medicale, nu e o bună practică, întrucât specificațiile
+tehnice ale acestora trebuie să fie atât permisive pentru participarea la
+licitație a operatorilor economici, cât și adaptate unor cerințe specifice, în
+conformitate cu nevoile autorității contractante, care, în cazul de față,
+fiind un spital de urgență, trebuie să acopere o gamă largă de situații
+într-un timp relativ scurt.
+Criticile contestatoarei formulate împotriva prevederilor art. 15.4
+din modelul de contract, sunt considerate de Consiliu întemeiate în parte.
+Prin modelul de contract atașat documentației de atribuire, la art. 15.4
+autoritatea contractantă a precizat: 15.4 - La primirea unei astfel de
+notificări, furnizorul are obligația de a remedia defecțiunea sau de a
+înlocui produsul în perioada convenită (5 zile de la formularea unei astfel
+de solicitări), fără costuri suplimentare pentru achizitor. Produsele care,
+în timpul perioadei de garanție, le înlocuiesc pe cele defecte, beneficiază
+de o nouă perioadă de garanție care decurge de la data înlocuirii
+produsului.
+Prin contestație se solicită modificarea clauzei sub forma: „La
+primirea unei astfel de notificări, furnizorul are obligația de a remedia
+defecțiunea sau de a înlocui produsul în perioada convenită (5 zile
+lucrătoare când piesele sunt în stoc și 7 zile lucrătoare când piesele nu
+sunt în stoc, de la formularea unei astfel de solicitări), fără costuri
+suplimentare pentru achizitor. Produsele care, în timpul perioadei de
+garanție, le înlocuiesc pe cele defecte, beneficiază de o nouă perioadă de
+garanție care decurge de la data înlocuirii produsului, dar nu mai mult
+decât perioada totală de garanție a echipamentului”.
+Totodată, solicită Corelarea prevederilor articolului 15.4 propuse cu
+prevederile cerinței 5 din caietul de sarcini.
+Contestatoarea justifică solicitarea termenului de 7 zile pentru
+remedirea defecțiunilor prin faptul că piesele de schimb sunt aduse din
+afara României și nu ar exista timpul fizic pentru îndeplinirea tuturor
+formalităților.
+Pe de altă parte, autoritatea contractantă în justificarea refuzului
+de a mări termenul de remediere a defectelor aduce faptul că este un
+spital de urgență care asigură urgențele medicale din întreg municipiul [localitate] ar însemna ca [spital] nu poată asigura
+urgențele medicale pe toată această perioadă.
+37
+
+Consiliul consideră susținerile autorității contractante întemeiate în
+condițiile în care mijloacele de comunicare și de transport la acest
+moment sunt ultra performante, respectarea termenului ținând de
+diligențele operatorului economic.
+ Este neîntemeiată solicitarea contestatoarei de modificare a
+clauzei, în sensul că, produsele ce se înlocuiesc beneficiază de o nouă
+perioadă de garanție care decurge de la data înlocuirii produsului, dar nu
+mai mult decât perioada totală de garanție a echipamentului. 
+Este de subliniat că orice contract de achiziție publică este un
+contract administrativ, nu unul comercial (civil), în lumina definiției
+contractului de achiziție publică și a Legii contenciosului administrativ nr.
+554/2004.
+Orice contract cu o autoritate publică centrală sau locală cuprinde
+clauze ce pot fi considerate exorbitante pentru particulari, dată fiind
+calitatea aparte a beneficiarului și destinația vizând interesul public a
+contractului. În consecință, și contractele de achiziție publică presupun
+anumite rigori pe care trebuie să le accepte cei care doresc să se implice
+într-o relație contractuală cu statul sau entitățile publice ale sale. Aceeași
+lege organică a contenciosului administrativ instituie regula conform
+căreia principiul libertății contractuale este subordonat principiului
+priorității interesului public.
+Art. 1.716 alin. (1) și (2) C. civ. dispun că vânzătorul care a
+garantat pentru un timp determinat buna funcționare a bunului vândut
+este obligat, în cazul oricărei defecțiuni ivite înăuntrul termenului de
+garanție, să repare bunul pe cheltuiala sa. Dacă reparația este imposibilă
+sau dacă durata acesteia depășește timpul stabilit prin contract sau prin
+legea specială, vânzătorul este obligat să înlocuiască bunul vândut.
+Clauza nu este una neuzuală, în sensul codului (art. 1.203), ci
+dimpotrivă, fiind regăsită în mod frecvent în documentațiile de atribuire,
+putând fi asimilată unei uzanțe (o simplă căutare pe internet evidențiază
+numeroasele cazuri în care a fost utilizată clauza în practica achizițiilor
+publice).
+Nici aceste texte legale și nici altele nu interzic autorității să
+propună în modelul de contract că, pentru produsul care îl înlocuiește pe
+cel defect, va curge o nouă perioadă de garanție. Producătorul trebuie să
+fie conștient că produsele de folosință îndelungată ce urmează a fi
+achiziționate trebuie să fie corespunzătoare din punct de vedere tehnic
+cel puțin în perioada de garanție declarată. Cu alte cuvinte, ofertarea
+unui produs care nu este în măsură să funcționeze fără probleme măcar
+pe durata de garanție atrage răspunderea culpabilă a producătorului, iar
+beneficiarului nu i se poate imputa defectarea produsului utilizat în
+condiții normale pe durata garanției acordate.
+În viziunea contestatoarei ar însemna că se poate oferta un produs
+ce nu este fiabil, respectiv care trebuie înlocuit de numeroase ori în
+perioada de garanție de un an, știind că la finalul acesteia nu va avea
+38
+
+nicio obligație de a înlocui produsul nefiabil. Totodată, contractantul va fi
+încurajat să aducă un produs cu probleme, ce nu va funcționa minimum
+un an, mai cu seamă dacă defectarea [inerentă a] lui necesită o înlocuire
+în partea de final a perioadei de garanție.
+Art. 1.169 C. civ. prescrie că părțile sunt libere să încheie orice
+contracte și să determine conținutul acestora, în limitele impuse de lege,
+de ordinea publică și de bunele moravuri, iar clauza contractuală 15.4 se
+încadrează în aceste limite și nici nu este disproporționată.
+Sunt întemeiate criticile contestatoarei privind necorelarea acestei
+clauze cu cerințele de la punctual 5 din caietul de sarcini. Astfel, prin
+clauza contractuală de la art. 15.4 se impune obligația de a remedia
+defecțiunea sau de a înlocui produsul în perioada convenită (5 zile de la
+formularea unei astfel de solicitări) iar prin caietul de sarcini, la punctual
+5 se precizează: În perioada de garanție, furnizorul are obligația de a
+înlocui fără nici un fel de costuri, orice subansamblu care se defectează
+în perioada de garanție, într-un interval de timp ce nu va depăși 72 de
+ore de la momentul înștiințării scrise de către beneficiar.
+Pentru corecta informare a operatorilor economici, autoritatea
+contractantă va modifica cerința caietului de sarcini, în sensul înlocuirii
+sintagmei 72 de ore cu sintagma 5 zile.
+Solicitarea contestatoarei de eliminare a art. 15.5 din modelul de
+contract, este considerată de Consiliu nefondată. Prin art. 15.5 din
+modelul de contract, autoritatea contractantă a solicitat: Dacă furnizorul,
+după ce a fost înștiințat, nu reușește să remedieze defectul în perioada
+convenită, achizitorul are dreptul de a lua măsuri de remediere pe riscul
+și pe cheltuiala furnizorului și fără a aduce niciun prejudiciu oricăror alte
+drepturi pe care achizitorul le poate avea față de furnizor prin contract.
+Ca alternativă la eliminarea acestui articol, contestatoarea solicită
+modificarea art. 15.5 în sensul: „Dacă furnizorul, după ce a fost
+înștiințat, nu reușește să remedieze defectul în maximum 30 zile,
+achizitorul are dreptul de a lua măsuri de remediere, contractând un alt
+furnizor de service care să dețină autorizație de la producătorul
+echipamentului pentru furnizare service echipamente, pe riscul și pe
+cheltuiala furnizorului și fără a aduce niciun prejudiciu oricăror alte
+drepturi pe care achizitorul le poate avea față de furnizor prin contract.”
+În susținerea eliminării acestei clauze contractuale contestatoarea
+invocă faptul că în momentul în care altcineva face reparația asupra
+echipamentului, autoritatea contractantă va pierde garanția din partea
+furnizorului. În accepțiunea contestatoarei, autoritatea contractantă ar
+trebui să accepte faptul că în situația, în care din diferite motive
+(întemeiate sau nu) nu face remedierile asupra echipamentului furnizat,
+în termenele stabilite prin contract, aceasta să aștepte până decide
+contestatoarea să-și îndeplinească obligațiile fără a întreprinde vreun
+demers. Autoritatea contractantă din cauza în speță este un spital de
+urgență, care trebuie să rezolve toate urgențele din municipiu, motiv
+39
+
+pentru care nu-și permite, în nicio situație, să aștepte pasivă ca
+furnizorul să-și îndeplinească obligațiile asumate prin contract. Prin
+urmare, așa cum s-a precizat mai sus, pentru satisfacerea intersului
+public, autoritatea contractantă are dreptul de a impune clauze
+contractuale care să-i asigure continuitate în desfășurarea actului
+medical.
+Consiliul respinge ca nefondată și solicitarea contestatoarei de
+modificare a art. 15.5 în sensul de a aștepta 30 de zile și doar după
+aceea să contacteze alt operator pentru remedierea defecțiunilor.
+Această solicitare de modificare nu este justificată, pe de o parte, pentru
+că autoarea contestației, la articolul anterior a solicitat maxim 7 zile
+pentru efectuarea remedierilor, ceea ce implica dreptul autorității
+contractante ca după 7 zile să contacteze alt operator pentru efectuarea
+remedierilor. Pe de altă parte, nu se susține nici afirmația sa că se pierde
+garanția, deoarece indiferent dacă se intervine de către altcineva după 7
+zile sau 30 de zile situația este aceeași. Intervenția asupra
+echipamentului este datorată tocmai neîndeplinirii de către contestatoare
+a obligațiilor asumate prin contract, motiv pentru care, ea este obligată
+să asigure în continuare garanția produsului furnizat, după intervenția
+altui operator economic.
+Criticile contestatoarei privind lipsa din cadrul dosarului achiziției a
+notei justificative privind alegerea specificațiilor tehnice aferente
+echipamentului ce se dorește a se achiziționa sunt respinse de Consiliu
+ca nefondate neexistând obligația întocmirii acestei note justificative.
+Sunt respinse ca nefondate și criticile contestatoarei privind lipsa etapei
+de consultare a pieții deoarece acesta este un drept al autorității
+contractante și nu o obligație. Dispozițiile art. 139 din Legea nr. 98/2016
+privind achizițiile publice sunt relevante în acest sens: (1) Înainte de
+inițierea procedurii de atribuire, autoritatea contractantă are dreptul de a
+organiza consultări ale pieței în vederea pregătirii achiziției, prin
+raportare la obiectul contractului de achiziție publică, și pentru a informa
+operatorii economici cu privire la planurile de achiziție și cerințele avute
+în vedere în legătură cu acestea, făcând cunoscut acest lucru prin
+intermediul SEAP, precum și prin orice alte mijloace.
+În condițiile în care autoritatea contractantă era edificată asupra
+echipamentului ce dorea să-l achiziționeze nu era obligată să organizeze
+etapa de consultare a pieții, responsabilitatea, fiind în acest caz, în
+exclusivitate a sa.
+Solicitarea contestatoarelor de anulare a procedurii de atribuire
+este respinsă de Consiliu, fiind posibilă dispunerea măsurilor de
+remediere a caietului de sarcini.
+În consecință, luând în considerare cele mai sus menționate, în
+temeiul art. 26 alin. (2) și (5) din Legea nr. 101/2016, Consiliul va
+admite în parte contestațiile (în referire la dimensionarea focarelor astfel
+încât, pe de o parte, să satisfacă necesitățile autorității contractante, iar
+40
+
+pe de altă parte, să permită participarea la procedură și a altor
+producători și corelarea informațiilor din caietul de sarcini de la punctul 5
+cu cele de la art. 15.4 din modelul de contract) formulate de SC ...SRL și
+SC ...SRL în contradictoriu cu ....
+Consiliul va dispune publicarea în SEAP a unui document clarificator
+prin care se vor preciza dimensiunile focarelor astfel încât, pe de o parte,
+să satisfacă necesitățile autorității contractante, iar pe de altă parte, să
+permită participarea la procedură și a altor producători și corelarea
+informațiilor din caietul de sarcini de la punctul 5 cu cele de la art. 15.4
+din modelul de contract, în termen de 10 zile de la comunicarea
+prezentei decizii.
+În temeiul art. 26 alin. (6) din Legea nr. 101/2016, Consiliul va
+respinge ca nefondate celelalte critici din contestații.
+Pentru aceste motive,
+în baza legii și a mijloacelor de probă aflate la dosar,
+CONSILIUL DECIDE:
+În temeiul art. 26 alin. (2) și (5) din Legea nr. 101/2016, admite în
+parte contestațiile (în referire la dimensionarea focarelor astfel încât, pe
+de o parte, să satisfacă necesitățile autorității contractante, iar pe de altă
+parte, să permită participarea la procedură și a altor producători și
+corelarea informațiilor din caietul de sarcini de la punctul 5 cu cele de la
+art. 15.4 din modelul de contract) formulate de SC ...SRL și SC ...SRL în
+contradictoriu cu ....
+Consiliul dispune publicarea în SEAP a unui document clarificator
+prin care se vor preciza dimensiunile focarelor astfel încât, pe de o parte,
+să satisfacă necesitățile autorității contractante, iar pe de altă parte, să
+permită participarea la procedură și a altor producători și corelarea
+informațiilor din caietul de sarcini de la punctul 5 cu cele de la art. 15.4
+din modelul de contract, în termen de 10 zile de la comunicarea
+prezentei decizii.
+În temeiul art. 26 alin. (6) din Legea nr. 101/2016, Consiliul
+respinge ca nefondate celelalte critici din contestații.
+Prezenta decizie este obligatorie pentru părțile cauzei, în
+conformitate cu dispozițiile art. 28 alin. (1) din Legea nr. 101/2016 și
+poate fi atacată cu plângere, în temeiul art. 29 alin. (1) din același act
+normativ, în termen de 10 zile de la comunicare.
+PREȘEDINTE, MEMBRU, MEMBRU,
+.........
+Redactată în cinci exemplare, conține 41 pagini.
+41

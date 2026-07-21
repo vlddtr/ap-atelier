@@ -1,0 +1,19 @@
+# T-211/02 — Tideland Signal Ltd împotriva Comisiei
+- Instanță: Tribunalul (Tribunalul de Primă Instanță, Camera întâi) — procedură accelerată
+- Data: 2002-09-27
+- ECLI: ECLI:EU:T:2002:232
+- Părți: Tideland Signal Limited împotriva Comisiei Comunităților Europene
+- Temă: respingerea unei oferte ambigue fără exercitarea competenței de a solicita clarificări; obligația de bună administrare, egalitate, proporționalitate
+- Cadru juridic: norme privind achizițiile finanțate de UE (program TACIS) — „Instructions to Tenderers”, secțiunea 19.5 (competența comitetului de evaluare de a cere clarificări); principiile generale ale dreptului UE (bună administrare, egalitate de tratament, proporționalitate)
+- Întrebarea/litigiul: Oferta indica o perioadă de valabilitate ambiguă („until 28/07/02”), în timp ce instrucțiunile cereau 90 de zile de la termenul de depunere. Comitetul de evaluare a respins oferta ca neconformă, fără a cere lămuriri. Întrebarea: era comitetul obligat să își exercite competența de a solicita clarificarea ambiguității înainte de a respinge?
+
+- Soluția (ratio): Tribunalul a **anulat** decizia de respingere. Deși comitetele de evaluare nu sunt obligate să ceară clarificări ori de câte ori o ofertă e redactată ambiguu, competența de a cere clarificări (secț. 19.5) este însoțită, în temeiul principiului bunei administrări, de **obligația de a o exercita** atunci când clarificarea este în mod vădit atât posibilă practic, cât și necesară — în special când ambiguitatea are, probabil, o explicație simplă și ușor de soluționat. Respingerea ofertei fără a cere o asemenea clarificare constituie o eroare vădită de apreciere. Principiul egalității de tratament nu se opune cererii de clarificare, cu condiția ca toți ofertanții aflați în aceeași situație să fie tratați la fel.
+
+- Text-cheie verbatim (limba engleză — versiunea oficială; cauza precedă aderarea României, fără text RO pe EUR-Lex):
+  - Pct. 37: „[...] the power set out in section 19.5 of the Instructions to Tenderers must, notably in accordance with the Community law principle of good administration, be accompanied by an obligation to exercise that power in circumstances where clarification of a tender is clearly both practically possible and necessary [...]. In cases where the terms of a tender itself and the surrounding circumstances known to the Commission indicate that the ambiguity probably has a simple explanation and is capable of being easily resolved, then, in principle, it is contrary to the requirements of good administration for an evaluation committee to reject the tender without exercising its power to seek clarification.”
+  - Pct. 34: „[...] where a tender is ambiguous and the Commission does not have the possibility to establish what it actually means quickly and efficiently, the institution has no choice but to reject that tender.”
+  - Pct. 38: „[...] the principle of equality did not preclude the Evaluation Committee from allowing tenderers to clarify any ambiguities in their tenders [...] the Evaluation Committee was obliged to treat all tenderers in a similar manner with regard to the exercise of this power.”
+
+- Relevanță achiziții RO: Hotărâre fondatoare (preluată ulterior de SAG ELV, Manova) pentru regimul **art. 209 L. 98/2016**: când o ambiguitate a ofertei are vădit o explicație simplă, autoritatea contractantă nu poate respinge oferta fără a solicita în prealabil clarificări — un corolar al principiului bunei administrări și al proporționalității (art. 2 L. 98/2016). Folosită ca temei pentru a sancționa respingerile „formale”/excesiv de stricte, fără dialog clarificator.
+- Sursă oficială: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62002TJ0211
+- Status: VERIFICAT pe EUR-Lex (versiunea oficială în limba engleză; versiunea RO nu există — cauză anterioară aderării RO la UE)

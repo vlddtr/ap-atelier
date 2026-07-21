@@ -1,0 +1,14 @@
+# C-19/13 — Ministero dell'Interno c. Fastweb SpA
+
+- Instanță: CJUE (Camera a cincea)
+- Data: 2014-09-11
+- ECLI: ECLI:EU:C:2014:2194
+- Părți: Ministero dell'Interno (Ministerul de Interne italian, Departamentul pentru Securitate Publică) c. Fastweb SpA, cu participarea Telecom Italia SpA (trimitere de la Consiglio di Stato, Italia)
+- Temă: remedii; lipsa efectelor contractului (ineffectiveness); atribuire directă fără publicare prealabilă; transparență ex ante voluntară
+- Cadru juridic: Directiva 89/665/CEE astfel cum a fost modificată prin Directiva 2007/66/CE, în special art. 2d alin. (1) lit. (a) și alin. (4); Directiva 2004/18/CE.
+- Întrebarea preliminară: Art. 2d alin. (4) din Directiva 89/665 — care exclude declararea lipsei de efecte a unui contract atribuit fără publicare prealabilă a anunțului de participare, atunci când autoritatea contractantă a publicat un anunț de transparență ex ante voluntară și a respectat un termen suspensiv de cel puțin 10 zile înainte de încheierea contractului — este compatibil cu dreptul la o cale de atac efectivă, iar instanța națională păstrează o marjă de apreciere?
+- Soluția (ratio): Art. 2d alin. (4) din Directiva 89/665 trebuie interpretat în sensul că, atunci când autoritatea contractantă (i) a publicat în JOUE un anunț de transparență ex ante voluntară, considerând cu bună-credință că atribuirea directă fără publicare era permisă, și (ii) a respectat termenul suspensiv de minimum 10 zile între publicare și încheierea contractului, instanța națională **nu poate** declara contractul lipsit de efecte, chiar dacă atribuirea directă era ilegală. Verificarea îndeplinirii condițiilor (în special a bunei-credințe) revine instanței naționale. Sancțiunea lipsei efectelor rămâne, în acest scenariu, exclusă; rămân disponibile celelalte remedii (sancțiuni alternative).
+- Text-cheie verbatim (din considerentul 13 al Directivei 2007/66, reluat în motivare): „Pentru a combate atribuirea directă ilegală a contractelor, pe care Curtea de Justiție a calificat-o drept cea mai gravă încălcare a dreptului comunitar în domeniul achizițiilor publice [...], ar trebui prevăzute sancțiuni efective, proporționale și disuasive. De aceea, un contract rezultat în urma unei atribuiri directe ilegale ar trebui considerat, în principiu, lipsit de efecte."
+- Relevanță achiziții RO: relevant pentru regimul nulității/lipsei de efecte a contractului din **L. 101/2016** (capitolul privind nulitatea contractului — situații de atribuire directă nelegală) și pentru rolul anunțului de transparență voluntară + perioadei de așteptare ca „scut" împotriva sancțiunii lipsei de efecte. Confirmă proporționalitatea sancțiunilor și că publicarea ex ante de bună-credință + standstill pot exclude declararea contractului ca lipsit de efecte.
+- Sursă oficială: https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62013CJ0019
+- Status: VERIFICAT

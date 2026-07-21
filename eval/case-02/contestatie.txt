@@ -1,0 +1,304 @@
+[SARCINĂ PENTRU DRAFTER]
+Ești avocatul asocierii desemnate CÂȘTIGĂTOARE (asocierea X SRL — lider — și Y SA), a cărei
+ofertă este atacată prin contestația de mai jos. Redactează o CERERE DE INTERVENȚIE (în interesul
+autorității contractante / al menținerii rezultatului procedurii), care să răspundă TUTUROR
+criticilor contestatorului. Nu ai acces la raportul procedurii și nici la dosarul achiziției la
+momentul formulării cererii; cunoști însă conținutul propriei oferte de la client, în limitele
+celor de mai jos. Nu inventa înscrisuri, pagini sau numere de documente care nu îți sunt cunoscute.
+
+[CONTEXT PROCEDURAL — comunicat de client]
+- Procedură simplificată, online, pentru atribuirea unui contract de achiziție publică de LUCRĂRI
+  având ca obiect „Reabilitări și extinderi conducte de alimentare cu apă (etapa a 3-a)",
+  cod CPV 45232150-8, organizată de o autoritate contractantă (UAT).
+- Criteriul de atribuire: „prețul cel mai scăzut". Au fost depuse 10 oferte.
+- Oferta asocierii client (X SRL lider — Y SA asociat) a fost declarată admisibilă și câștigătoare,
+  cu o propunere financiară de 4.488.208,96 lei fără TVA; contestatorul (Z SRL) s-a clasat pe
+  locul 2, cu 4.541.311,59 lei fără TVA.
+- Contestația a fost publicată în SEAP la 21.09.2021. Data limită de depunere a ofertelor:
+  22.06.2021, ora 15:00.
+- Clientul confirmă: (a) fiecare membru al asocierii a depus, odată cu DUAE, la data limită de
+  depunere a ofertelor, declarațiile privind evitarea conflictului de interese (art. 59-60) și
+  privind neîncadrarea în art. 164, semnate și datate 22.06.2021; (b) împuternicirea de semnare a
+  ofertei dată de asociat liderului a fost depusă la documentele de calificare; (c) propunerea
+  tehnică conține echipa de experți (manager de proiect, RTE autorizat ISC, șef șantier, ingineri,
+  responsabil CQ, sudori autorizați PEHD), proceduri tehnice de execuție proprii (inclusiv PTE
+  pentru subtraversare prin foraj dirijat), repartizarea tabelară a personalului și utilajelor,
+  graficul de execuție cu organizarea de șantier și trimiteri la Normativul C16-84, precum și
+  indicarea laboratorului de încercări contractat și autorizația acestuia; (d) la solicitarea de
+  clarificări a comisiei, asocierea a prezentat contractul de prestări servicii cu laboratorul
+  autorizat ISC, contract încheiat anterior depunerii ofertei (25.03.2021); (e) angajamentul de a
+  nu subcontracta și angajamentul de suportare a costurilor din omisiuni/greșeli + declarația
+  privind polița ALL-RISK au fost depuse de lider în numele asocierii.
+
+[CONTESTAȚIA — conținutul criticilor, astfel cum au fost formulate de contestatorul Z SRL]
+
+Contestatorul solicită: (1) anularea adresei de comunicare a rezultatului procedurii, a raportului
+procedurii, a proceselor-verbale de evaluare (garanție de participare/DUAE/calificare; propuneri
+tehnice — intermediar și final; propuneri financiare; documente-suport DUAE) și a raportului
+intermediar al etapei de selecție; (2) obligarea autorității contractante la constatarea ofertei
+asocierii X SRL — Y SA ca inadmisibilă (inacceptabilă/neconformă) și declararea ca și câștigătoare
+a ofertei societății sale; (3) acordarea cheltuielilor de judecată.
+
+Contestatorul apreciază că evaluarea ofertei asocierii X SRL — Y SA a fost realizată superficial,
+prin aplicarea unui tratament diferențiat, discriminatoriu, prin conferirea unor avantaje evidente
+și nejustificate în favoarea acesteia de către autoritatea contractantă, cu încălcarea prevederilor
+legislației din domeniul achizițiilor publice.
+
+I. Cu privire la etapa privind evaluarea garanției de participare, a informațiilor din DUAE și a
+documentelor care îl însoțesc, precum și îndeplinirea cerințelor de calificare, de asemenea cu
+privire la etapa privind evaluarea documentelor-suport depuse de ofertanți pentru demonstrarea
+informațiilor din DUAE:
+
+I.1. Contestatorul arată că prin fișa de date, cap. III.1) Condiții de participare — III.1.1.a)
+Situația personală a candidatului sau ofertantului, autoritatea contractantă a stabilit ca cerință
+minimală, ce trebuie îndeplinită încă de la data depunerii ofertei, dovedirea neîncadrării
+ofertanților în art. 58, 59, 60 din Legea nr. 98/2016, solicitând odată cu depunerea DUAE și
+depunerea declarației privind evitarea conflictului de interese: „2. Declarație privind
+neîncadrarea în prevederile Art. 58, 59, 60 din Legea nr. 98/2016 privind achizițiile publice.
+Fiecare participant la procedura de atribuire (ofertant/asociat/terț susținător/subcontractant,
+după caz) va prezenta declarația o dată cu DUAE."
+Prin fila nr. 2 din Formulare, autoritatea contractantă a reiterat: „I. Documente solicitate de
+Autoritatea Contractantă a fi prezentate de Ofertanți... 2. Declarație privind conflictul de
+interese în vederea verificării situațiilor prevăzute la art. 59, 60 din Legea nr. 98/2016", iar
+în ajutorul ofertanților a publicat Formularul nr. 4. Prin Instrucțiunile pentru ofertanți, cap. 8
+lit. D, a publicat Reguli de evitare a conflictului de interese, iar prin caietul de sarcini,
+cap. 8, a precizat că, în conformitate cu art. 58 din Legea nr. 98/2016, va fi formulată și o
+cerință privind neîncadrarea în prevederile art. 59 și art. 60 din același act normativ.
+Contestatorul invocă art. 154 din Legea nr. 98/2016 și art. 20 alin. (1), (2), (3), (5), (6) și
+(7) din HG nr. 395/2016 și concluzionează că ofertanții aveau obligația implicită de a depune
+Declarația privind conflictul de interese până la data limită de depunere a ofertelor.
+Contestatorul menționează că din procesul-verbal privind evaluarea garanției de participare, a
+informațiilor din DUAE și a documentelor care îl însoțesc, precum și îndeplinirea cerințelor de
+calificare, rezultă în mod fals că asocierea X SRL — Y SA a îndeplinit solicitările minimale
+privind această etapă, inclusiv depunerea declarației privind neîncadrarea în prevederile art. 58,
+59, 60 din Legea nr. 98/2016, motiv pentru care oferta sa a fost declarată admisibilă.
+Contestatorul arată că prin procesul-verbal nr. 20286/09.09.2021 (încheiat la 2 luni diferență)
+privind evaluarea documentelor-suport depuse de ofertanți pentru demonstrarea informațiilor din
+DUAE, autoritatea contractantă reține: „i. Ofertantul Asocierea X SRL — Y SA nu a prezentat
+declarațiile privind neîncadrarea în situațiile prevăzute la art. 164, 165 și 167 din Legea
+98/2016 privind achizițiile publice și declarația privind evitarea conflictului de interese
+prevăzute la art. 59, 60 din Legea nr. 98/2016", iar comisia a transmis o solicitare de
+clarificări; prin adresa nr. 20260/09.09.2021 asocierea a prezentat declarațiile respective.
+Contestatorul apreciază că solicitarea de clarificări este formulată tardiv în raport de etapa
+procedurii în care s-a realizat evaluarea privind neîncadrarea/evitarea conflictului de interese.
+Din răspunsul asocierii la solicitarea de clarificări se poate observa că asociații nu declară că
+nu s-ar fi aflat în conflict de interese încă de la data limită de depunere a ofertelor, respectiv
+22.06.2021, ora 15:00, ci de la data de 08.09.2021 — data la care aceștia depun declarațiile.
+Autoritatea contractantă nu i-a putut furniza informații la consultarea dosarului de achiziție
+dacă asociații au fost sau nu în conflict de interese pe parcursul procedurii, până la depunerea
+declarațiilor acestora. Toate cele de mai sus nu pot reprezenta decât dovezi neechivoce privind
+aplicarea unui tratament diferențiat, discriminatoriu, crearea unui avantaj evident și nejustificat
+în favoarea asocierii de către autoritatea contractantă.
+
+I.2. Contestatorul arată că prin fișa de date, cap. III.1.1.b) Capacitatea de exercitare a
+activității profesionale, autoritatea contractantă a cerut dovedirea unei forme de înregistrare în
+condițiile legii, iar prin fila nr. 2 din Formulare a solicitat: „II. Documente solicitate de
+Autoritatea Contractantă a fi prezentate în baza prevederilor art. 196, alin. (2) din Legea nr.
+98/2016 și art. 132, alin. (2) din HG nr. 395/2016 sau art. 66, alin. (1) și (2) din HG nr.
+395/2016 sau art. 196, alin. (1) din Legea nr. 98/2016: 1. Cazier judiciar al operatorului
+economic și al membrilor organului de administrare...; 2. Certificat constatator emis de Oficiul
+Registrului Comerțului...; 3. Certificat de atestare fiscală...". Din Subsecțiunea „Documentele
+solicitate din Dosarul Companiei" din SEAP rezultă că autoritatea a solicitat în mod expres
+încărcarea, odată cu oferta, a documentelor: certificat de cazier fiscal pentru companie,
+certificat de cazier judiciar pentru companie, certificat/e de cazier judiciar pentru
+administrator, certificat de atestare fiscală, certificat fiscal cu privire la impozitele și
+taxele locale, certificat constatator eliberat de ONRC. De asemenea, prin caietul de sarcini,
+cap. 8, autoritatea a formulat o condiție în conformitate cu art. 173 din Legea nr. 98/2016.
+Contestatorul precizează că din documentația de atribuire și din normele legale incidente,
+art. 163-186 din Legea nr. 98/2016, rezultă că ofertanții aveau obligația implicită de a
+depune/încărca în SEAP Documentele solicitate din Dosarul Companiei până la data limită de
+depunere a ofertelor. Prin procesul-verbal privind evaluarea documentelor-suport, autoritatea
+contractantă reține că asocierea X SRL — Y SA a depus aceste documente ulterior depunerii ofertei,
+iar prin raportul procedurii, publicat în SEAP la 10.09.2021, constată că în Subsecțiunea
+Documente Solicitate din Dosarul Companiei asocierea nu a încărcat niciun document. Contestatorul
+nu înțelege de ce autoritatea contractantă nu a constatat neîndeplinirea cerințelor minimale de
+către asociere și nu a respins oferta ca inacceptabilă.
+
+I.3. Pentru raționamente juridice asemănătoare celor de la punctele I.1 și I.2, în temeiul legii
+din domeniul achizițiilor și a jurisprudenței CJUE privind aplicarea Directivei 24/14/CEE,
+contestatorul enumeră următoarele neregularități ale ofertei asocierii, referitor la care
+autoritatea contractantă a solicitat expres prin documentația de atribuire să fie depuse/încărcate
+odată cu oferta în SEAP, și solicită Consiliului să le analizeze pe fondul cauzei. Asocierea nu a
+depus în procedura de achiziții, nici la data încărcării ofertei în SEAP, dar nici ca urmare a
+unei solicitări de clarificări din partea autorității contractante:
+
+I.3.1. Formular nr. 8 — ÎMPUTERNICIRE privind autorizarea semnării ofertei — contestatorul
+apreciază că persoana autorizată să semneze oferta din partea asocierii nu a fost confirmată de
+toți membrii asocierii, prin înaintarea împuternicirilor semnate de toți reprezentanții cu drept
+de semnătură ai acestora; mai exact, asociatul Y SA nu a împuternicit/nu a confirmat
+reprezentantul asocierii să semneze contractul. Contestatorul invocă nota din Formulare
+(filele 17-18): „În cazul unei asocieri, persoana care a semnat oferta, autorizată să angajeze
+operatorul economic, trebuie confirmată de către toți membrii asocierii, prin înaintarea
+împuternicirilor semnate de toți reprezentanții cu drept de semnătură ai acestora." și
+Instrucțiunile pentru ofertanți, cap. 5 pct. 4): „Împuternicire din partea fiecărui membru al
+Asocierii pentru aceeași persoană, autorizând persoana desemnată să semneze Oferta și să angajeze
+Ofertantul în procedura de atribuire [doar în cazul unei Asocieri]".
+
+I.3.2. Declarația de a nu subcontracta — contestatorul apreciază că asocierea nu a respectat
+cerința autorității contractante, respectiv nu s-a angajat să nu subcontracteze servicii/lucrări
+parțiale ulterior emiterii ordinului de începere a lucrărilor fără acceptul autorității
+contractante, dat fiind faptul că declarația a fost depusă numai de către liderul asocierii, în
+nume propriu; celălalt asociat, Y SA, poate astfel subcontracta fără acordul autorității
+contractante. Contestatorul invocă fișa de date cap. IV.4.1 pct. 9, caietul de sarcini cap. 14 și
+Instrucțiunile pentru ofertanți: „Declarația angajament a ofertantului de a nu subcontracta
+servicii/lucrări parțiale ulterior emiterii ordinului de începere a lucrărilor fără acceptul
+autorității contractante către operatori economici care nu au fost nominalizați ca fiind
+subcontractanți de specialitate în cadrul ofertei în alte condiții decât cele prevăzute la
+art. 151-161 din H.G. nr. 395/2016".
+
+I.3.3. Declarația angajament a ofertantului de a suporta pe parcursul derulării contractului toate
+costurile generate de omisiuni sau greșeli în activitatea derulată, precum și modalitatea de
+acoperire a eventualelor prejudicii cauzate autorității contractante, cel puțin la nivelul valorii
+ofertei adjudecate — contestatorul apreciază că această declarație a asocierii ori nu există, ori
+este limitată astfel încât asocierea să poată avea drept de alegere cu privire la modalitatea de
+acoperire a eventualelor prejudicii cauzate autorității contractante. Invocă fișa de date
+cap. IV.4.1 pct. 8, caietul de sarcini cap. 14 și Instrucțiunile pentru ofertanți.
+
+I.3.4. Formular nr. 16 — Acord cu privire la prelucrarea datelor cu caracter personal —
+contestatorul se întreabă în baza cărui acord/autorizări a deschis autoritatea contractantă oferta
+depusă de asociere, ținând cont de existența a numeroase date protejate de GDPR redate în
+conținutul ofertei.
+
+I.4./I.4.1. Contestatorul arată că prin fișa de date, cap. III.1.3.a) Capacitatea tehnică și/sau
+profesională, partea a 2-a, autoritatea contractantă a stipulat: „Pentru contractele de achiziție
+de lucrări: tehnicieni sau organisme tehnice pentru executarea lucrărilor. Operatorii economici ce
+depun oferta trebuie să numească persoane specializate în domeniul contractului și necesare pentru
+realizarea lucrărilor de execuție. Modalitatea de îndeplinire: Până la termenul limită stabilit
+pentru depunerea ofertelor, operatorii economici participanți vor prezenta DUAE atașat
+documentației de atribuire, conform art. 193 alin. (1) din Legea 98/2016, completat în mod
+corespunzător de fiecare entitate participantă în parte." Potrivit procesului-verbal nr.
+17008/07.07.2021, autoritatea contractantă nu a avut dovezi preliminare privind îndeplinirea
+cerinței desemnării tehnicienilor pentru executarea lucrărilor în oferta asocierii, dat fiind că
+aceștia nu au completat DUAE conform cerințelor autorității. Or, acest aspect trebuia să conducă
+din nou la inadmisibilitatea ofertei asocierii în această etapă; cu toate acestea, oferta a fost
+calificată ca admisibilă.
+
+I.4.2. Contestatorul observă că prin fișa de date cap. IV.4.1, caietul de sarcini cap. 14 și
+Instrucțiunile pentru ofertanți s-a prevăzut prezentarea propunerii tehnice cu evidențierea, între
+altele, a personalului utilizat pentru execuție (categorii de personal, număr, repartizare grafică
+pe perioada execuției) și a modalității de asigurare a accesului la specialiștii necesari și
+obligatorii în vederea verificării nivelului de calitate corespunzător cerințelor fundamentale
+aplicabile lucrărilor, în conformitate cu prevederile Legii 10/1995. Invocând art. 6 alin. (2) din
+Legea nr. 10/1995 privind calitatea în construcții (care enumeră între factorii implicați experții
+tehnici atestați și responsabilii tehnici cu execuția autorizați), contestatorul formulează
+următoarele critici cu privire la propunerea tehnică a asocierii, pe care solicită Consiliului să
+le analizeze pe fondul cauzei (menționând că la momentul consultării dosarului de achiziție nu a
+avut acces efectiv la oferta asocierii):
+- A desemnat asocierea, în propunerea tehnică, experții tehnici atestați și responsabilii tehnici
+  cu execuția autorizați, conform Legii nr. 10/1995? Contestatorul exemplifică expres, fără să
+  excludă lipsa altor experți atestați sau responsabili autorizați din oferta asocierii:
+  topometrist autorizat pentru execuția lucrărilor de ridicare topo în vederea amplasării corecte
+  a rețelelor de apă ori realizate pentru faza finală pentru definitivarea planurilor „as-built".
+- A depus asocierea, în propunerea tehnică, repartizare grafică pe perioada execuției cu
+  includerea experților tehnici atestați și responsabililor tehnici cu execuția autorizați?
+- A prezentat asocierea, în propunerea tehnică, modalitatea de asigurare a accesului la
+  specialiștii necesari și obligatorii în vederea verificării nivelului de calitate, în
+  conformitate cu prevederile Legii 10/1995?
+În opinia contestatorului, toate cele arătate în secțiunea I nu pot reprezenta decât dovezi
+neechivoce privind aplicarea unui tratament diferențiat, discriminatoriu, crearea unui avantaj
+evident și nejustificat în favoarea asocierii de către autoritatea contractantă.
+
+II. Cu privire la etapa privind evaluarea propunerilor tehnice cu prevederile caietului de sarcini
+și, după caz, cu factorii de evaluare:
+
+II.1. Contestatorul arată că documentația de atribuire prevede: „Propunerea tehnică elaborată de
+ofertant va respecta în totalitate cerințele prevăzute în caietul de sarcini și proiectul tehnic
+nr. 38/2018... Aceasta va fi prezentată cu evidențierea cel puțin a următoarelor aspecte: ...
+Laboratoarele utilizate și autorizate, cu grad corespunzător lucrărilor". Prin răspunsul la
+solicitarea de clarificare nr. 14345/21.05.2021, autoritatea contractantă a clarificat:
+„Ofertanții au obligația de a deține sau de a avea un contract de prestări servicii cu un
+Laborator de analize și încercări în construcții — Grad II cu următoarele profiluri autorizate:
+ANCFD, BBABP, D, GTF, MBM." Din procesul-verbal intermediar nr. 106/26.07.2021 rezultă că
+autoritatea contractantă a constatat neîndeplinirea cerinței de mai sus de către asociere și i-a
+transmis solicitarea de clarificări nr. 17977/26.07.2021, prin care i s-a solicitat să precizeze
+unde se regăsesc înscrisuri în cadrul propunerii tehnice care demonstrează că dețin un laborator
+autorizat ISC pentru execuția testelor și verificărilor de calitate pentru lucrările executate pe
+faze determinante. Prin procesul-verbal privind evaluarea propunerilor tehnice, autoritatea a
+reținut că asocierea a completat propunerea tehnică prin depunerea contractului de prestări
+servicii încheiat între ofertant și laboratorul autorizat ISC.
+Contestatorul susține că, potrivit art. 133 alin. (2) din HG nr. 395/2016, propunerea tehnică
+trebuie să corespundă cerințelor minime prevăzute în caietul de sarcini, iar din perspectiva
+art. 209 din Legea nr. 98/2016 coroborat cu art. 133 alin. (1), (3) și art. 134 alin. (1) din HG
+nr. 395/2016, legiuitorul a instituit un drept al autorității contractante de a solicita
+clarificări/completări formale sau de confirmare, iar nu dreptul de a solicita completarea ofertei
+în vederea corespunderii acesteia cu cerințele minimale stabilite prin documentația de atribuire.
+Autoritatea contractantă a cerut asocierii să precizeze unde se regăsesc înscrisuri în cadrul
+propunerii tehnice, iar nu completarea propunerii tehnice cu documentele lipsă. Contestatorul
+invocă jurisprudența CJUE — Decizia C-599/10 (limitele dreptului autorității contractante de a
+solicita clarificări cu privire la ofertele tehnice imprecise) și cauza C-131/16, pct. 36: „o
+solicitare adresată de autoritatea contractantă unui ofertant de a furniza declarațiile și
+documentele necesare nu poate avea, în principiu, alt obiect decât clarificarea ofertei acestuia
+din urmă sau îndreptarea unei erori vădite care viciază oferta menționată. Prin urmare, ea nu îi
+poate permite cu titlu general unui ofertant să furnizeze declarațiile și documentele a căror
+comunicare era impusă prin caietul de sarcini și care nu au fost comunicate în termenul stabilit
+pentru depunerea ofertelor."
+În concluzie, contestatorul apreciază că autoritatea contractantă a permis completarea ofertei
+asocierii cu documente ce probează capacitatea tehnică a ofertantului de a executa contractul de
+lucrări, privind etape esențiale din derularea acestuia, respectiv testele și încercările
+obligatorii pe care trebuie să le realizeze un prestator de servicii expres determinat încă de la
+momentul depunerii ofertei, respectiv Laborator autorizat ISC.
+
+II.2. Contestatorul arată că documentația de atribuire a solicitat prezentarea propunerii tehnice
+cu evidențierea, cel puțin, a: strategiei de abordare a obiectivului (planul de execuție efectivă
+a lucrărilor, metode de lucru, etapizare, inclusiv grafice; personal utilizat pentru execuție;
+asigurarea tehnică a execuției — mijloace de transport, utilaje, echipamente + repartizarea
+grafică pe perioada execuției; grafic de execuție însoțit de eșalonarea resurselor; mecanisme de
+gestionare a riscurilor; Planul de Asigurare a Calității, cu lista procedurilor tehnice de
+execuție, planul de control al calității și laboratoarele utilizate), a graficului fizic de
+execuție de detaliu a lucrărilor permanente și temporare (cu luarea în considerare a condițiilor
+meteorologice și a legislației specifice) și a extraselor de resurse materiale, manoperă, utilaj
+și transport. Contestatorul susține că asocierea nu a depus, cel puțin (cu titlu exemplificativ):
+repartizarea grafică privind asigurarea tehnică a execuției (mijloace de transport, utilaje,
+echipamente) și graficul fizic de execuție de detaliu a lucrărilor permanente și temporare.
+Ca o primă critică, asocierea nu a specificat care sunt lucrările temporare. A doua critică:
+asocierea nu a luat în considerare condițiile meteorologice și cerințele de realizare a
+proiectului tehnic și nici legislația specifică în domeniul construcțiilor — în propunerea tehnică
+trebuie să se regăsească detalii privind perioadele de restricții de execuție a lucrărilor pe timp
+friguros, respectiv 15 noiembrie - 15 martie, stabilite prin Normativul C16-84 (BC 6/1985), prin
+care se prevede că investitorii, proiectanții și executanții lucrărilor de construcții au
+obligația de a lua măsuri speciale în realizarea lucrărilor în perioada cu temperaturi scăzute.
+
+II.3. Cu privire la cerința privind depunerea Listei procedurilor tehnice de execuție aferente
+tuturor obiectelor și categoriilor de lucrări, precum și descrierea procedurilor tehnice de
+execuție indicate în listă: contestatorul arată că documentația prevede: „Ofertantul va prezenta
+răspunsuri detaliate la toate cerințele Caietului de Sarcini prin care să arate modul concret în
+care acesta va realiza toate activitățile solicitate... Ofertele care se vor limita la a confirma
+faptul că se vor executa toate lucrările solicitate, fără să prezinte concret modul în care vor
+realiza acest lucru, vor fi considerate neconforme. Lipsa din ofertă a oricăror informații dintre
+cele solicitate anterior în acest capitol sau prezentarea unor descrieri nerelevante sau care nu
+demonstrează înțelegerea proiectului va conduce la declararea ofertei ca fiind neconformă și,
+implicit, la descalificarea Ofertantului."
+Contestatorul susține că metodologia de lucru și tehnologia de execuție privind SUBTRAVERSAREA
+DRUMURILOR prezentată de asociere reprezintă o copie a caietului de sarcini pe specialități
+privind subtraversarea drumurilor, publicat de autoritatea contractantă, demonstrând că asocierea
+nu înțelege proiectul în sine, nici cum trebuie executat acesta și, mai ales, lipsa capacității
+tehnice a asocierii de a executa contractul de lucrări, fapt ce trebuia să conducă la declararea
+ofertei acesteia ca inadmisibilă pentru neconformitate.
+De asemenea, contestatorul arată că, potrivit documentației de atribuire și legislației în
+vigoare, asocierea avea obligația de a face dovada îndeplinirii cerinței de calificare privind
+capacitatea tehnică de a executa lucrările de subtraversare a drumurilor, prin
+documente/angajamente care să demonstreze dreptul de proprietate sau de folosință, pe întreaga
+durată de implementare a contractului, pentru utilajele/echipamentele necesare acestei lucrări. În
+special, contestatorul formulează critici cu privire la utilajul instalație de foraj dirijat
+orizontal și solicită Consiliului să verifice pe fondul cauzei: prin Lista mijloacelor
+fixe/imobilizărilor, asocierea dovedește că deține în proprietate acest utilaj? În cazul în care
+nu îl deține, a atașat înscrisuri doveditoare ale dreptului de folosință necondiționată pe durata
+lucrărilor de execuție a subtraversărilor, cu utilizarea personalului propriu, nu cu personalul
+locatorului utilajului/instalației?
+Contestatorul precizează că forajul orizontal dirijat presupune manevrarea unei instalații formate
+din subansamble și accesorii (foreza, containerul — sistemul de pompe — și sistemele de
+radiodetecție), utilizarea acesteia putând fi realizată numai de personal instruit. Astfel, în
+condițiile în care utilajul nu există în proprietatea ofertantului, acesta nu poate „închiria"
+utilajul decât împreună cu personalul pregătit să-l folosească, ceea ce conduce la concluzia că
+operatorul de la care se „închiriază" utilajul împreună cu personalul instruit va executa părți
+ori elemente ale contractului, respectiv lucrările de executare a subtraversărilor de drumuri.
+Contestatorul invocă art. 3 alin. (1) lit. yy) din Legea nr. 98/2016 (definiția
+subcontractantului, cu precizarea că punerea la dispoziție a unui utilaj sau furnizarea de
+materiale/bunuri nu este considerată subcontractare) și susține că asocierea avea obligația de a
+declara subcontractantul și de a depune, odată cu oferta, toate documentele de ofertare rezultate
+din calitatea unui subcontractant. În opinia contestatorului, în condițiile în care aceste dovezi
+nu există, oferta asocierii trebuia declarată inadmisibilă pentru nedovedirea capacității tehnice,
+ca fiind neconformă.
+
+Potrivit dispozițiilor art. 19 din Legea nr. 101/2016, contestatorul solicită să i se aprobe
+cererea de studiu a dosarului aflat pe rolul CNSC, precum și fotocopierea documentelor.

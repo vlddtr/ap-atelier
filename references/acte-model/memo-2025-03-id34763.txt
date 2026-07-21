@@ -1,0 +1,300 @@
+
+
+
+
+MEMORANDUM
+
+
+
+CU PRIVIRE LA IMPLICAȚIILE EXISTENȚEI UNUI CONTRACT ÎNCHEIAT ASUPRA POSIBILITĂȚII DE ACCESARE A PROGRAMELOR DE FINANȚARE DIN FONDURI EUROPENE PENTRU REALIZAREA PROIECTULUI
+
+
+
+Față de solicitarea [OPERATOR ECONOMIC] („ACS3”),  persoană  juridică  având sediul social în municipiul [localitate], B-dul Basarabia nr. 256, clădirea C1, sector 3, societate înregistrată  la  Registrul  Oficiului  Comerțului  sub  nr.  [REG COM],  având  CUI [CUI] („Clientul”) de a furniza consultanță juridică privind posibilitatea accesării unei surse alternative de finanțare de către beneficiarul Sector 3 în vederea realizării unui parc tematic în Parcul Pantelimon și la implicațiile menținerii în vigoare a Contractului de lucrări nr. 249162/30.07.2024 încheiat cu beneficiarul, asupra procesului de accesare a fondurilor europene, am pregătit prezentul memorandum în care tratăm aspectele juridice pe care le implică această situație și soluțiile identificate.
+
+
+
+Prezentul Memorandum este strict limitat la termenii de referință și nu poate fi folosit de către Client pentru alte scopuri decât cele avute în vedere la elaborarea lui.
+
+Prezentul Memorandum a fost elaborat și are în vedere doar informațiile puse la dispoziție de Client prin raportare la actele normative incidente speței.
+
+Utilizarea prin analogie a textului sau prin oricare alt mod, înlătură orice răspundere din partea autorului [PARTE]. [PARTE] își rezervă dreptul unilateral de a consimți cu privire la dezvăluirea de către Client în tot/în parte a informațiilor/concluziilor înaintate prin prezentul Memorandum.
+
+Ideile, raționamentele, opiniile juridice exprimate de [PARTE] în cuprinsul prezentei lucrări sunt expresia analizei exclusive în calitate de avocați și nu sunt menite a garanta Clientului vreun rezultat conform acestora. Acest Memorandum conține idei, raționamente care urmăresc să acopere aspectele juridice supuse atenției [PARTE], Clientul fiind unicul răspunzător cu privire la decizia de a implementa aspectele prezentate in cuprinsul acestuia.
+
+Afirmațiile din prezentul Memorandum nu vor fi interpretate în sensul că instanțele judecătorești, instanțele arbitrale ori autoritățile fiscale, ONRC, ANCPI, ANAF, MIPE și nu numai, care ar urma să dezbată și să statueze asupra problemelor prezentate în conținutul acestui document, vor dezbate și vor statua, în mod necesar, în sensul conținutului prezentului document sau pe baza argumentelor invocate în acesta.
+
+
+
+CUPRINSUL MEMORANDUMULUI
+
+
+
+Importanța finanțării din fonduri europene
+
+
+
+Fondurile europene reprezintă o sursă esențială de finanțare pentru proiecte de dezvoltare în diverse domenii, inclusiv infrastructură, mediu, educație și digitalizare. Pentru a accesa aceste fonduri, solicitanții trebuie să respecte o serie de cerințe stricte de eligibilitate, stabilite de Uniunea Europeană și transpuse în legislația națională.
+
+
+
+Planul Național de Redresare și Reziliență (PNRR) este un mecanism specific de finanțare instituit pentru redresarea economiilor statelor membre după criza COVID-19, având obiective precise legate de tranziția verde, digitalizare, reziliența economică și reforme structurale.
+
+
+
+Această opinie juridică analizează cerințele generale de eligibilitate pentru accesarea fondurilor europene, cu un accent special pe cele prevăzute în cadrul PNRR.
+
+
+
+
+
+Identificarea programelor de finanțare
+
+
+
+Uniunea Europeană oferă atât finanțare directă, gestionată de instituțiile europene, cât și finanțare indirectă, administrată prin autoritățile naționale și regionale.
+
+
+
+Programe de finanțare relevante:
+
+
+
+Programul Operațional Regional (POR): Vizează dezvoltarea regională și sprijină proiecte în domenii precum infrastructura, mediul și dezvoltarea urbană. 
+
+
+
+Planul Național de Redresare și Reziliență (PNRR): Oferă oportunități de finanțare pentru proiecte de infrastructură, digitalizare și tranziție verde. 
+
+
+
+Pentru accesarea fondurilor structurale este necesară consultarea autorităților de management responsabile la nivel național sau regional, pentru a obține informații detaliate despre eligibilitate și procedurile de aplicare, pregătirea din timp a documentației și îndeplinirea condițiilor de eligibilitate specifice programului selectat, înainte de completarea cererii de finanțare.
+
+
+
+
+
+
+
+Analiza cerințelor generale pentru accesarea fondurilor europene
+
+
+
+Pentru a beneficia de fonduri europene, un proiect trebuie să respecte o serie de criterii generale impuse de Uniunea Europeană și de autoritățile de management naționale. Printre acestea, relevante pentru cazul de față sunt următoarele:
+
+
+
+Principiul adiționalității: Fondurile europene nu trebuie să înlocuiască surse de finanțare naționale sau locale deja angajate. În cazul în care, la data depunerii cererii de acordare a finanțării, proiectul beneficiază deja de finanțare din partea autorității contractante, proiectul respectiv ar putea fi considerat neeligibil.
+
+Evitarea dublei finanțări: Un proiect nu poate fi finanțat simultan din două surse pentru aceleași activități eligibile. În aceste condiții, o finanțare deja pusă în practică pentru anumite activități din cadrul contractului ar putea fi considerată neeligibilă, în funcție de specificul ghidului programului de finanțare accesat.
+
+Nedemararea proiectului anterior aprobării finanțării: Pentru unele programe de finanțare, dacă un proiect a fost inițiat anterior depunerii cererii de finanțare, acesta poate deveni neeligibil. În funcție de prevederile specifice ale ghidului solicitantului aferent programului de finanțare accesat, demararea proiectului sau existența unui contract semnat ar putea fi considerate cauze de neeligibilitate.
+
+
+
+Impactul unui contract preexistent asupra eligibilității pentru finanțare europeană
+
+
+
+Existența unui contract semnat înainte de obținerea finanțării europene poate ridica următoarele probleme, la momentul depunerii cererii de finanțare:
+
+Interpretarea contractului încheiat ca echivalând cu demararea proiectului, ceea ce poate face ca proiectul să fie considerat neeligibil.
+
+Obligațiile contractuale asumate, care pot intra în contradicție cu cerințele de finanțare europeană, anumite activități putând fi considerate neeligibile.
+
+Riscul ca autoritatea de management să considere că proiectul nu mai are nevoie de sprijin financiar european, având în vedere existența unei surse de finanțare.
+
+
+
+Descrierea contractului
+
+
+
+Contractul de lucrări nr. 249162/30.07.2024 („Contractul”) încheiat între [autoritate locală] în calitate de achizitor și [OPERATOR ECONOMIC] în calitate de executant are ca obiect proiectarea, execuția, finalizarea și întreținerea lucrărilor pentru „Amenajare Parc Tematic în Parcul Pantelimon”.
+
+Contractul este încheiat la data de 30.07.2024 și este valabil până la executarea obligațiilor contractuale de către Părți, dar nu mai târziu de 31.12.2025.
+
+
+
+Execuția lucrărilor trebuie finalizată in termen de 360 de zile de la data transmiterii ordinului de începere.
+
+
+
+Conform informațiilor furnizate de către Client. ordinul de începere a lucrărilor prevăzut de art. 14.1 din Contract nu a fost încă emis. 
+
+
+
+
+
+Analiza detaliată a implicației existenței unui contract de proiectare și execuție asupra condițiilor de eligibilitate
+
+
+
+În lipsa unei referințe exacte la programul de finanțare care va fi accesat și a ghidului solicitantului aplicabil, am analizat următoarele scenarii alternative însoțite de recomandările noastre.
+
+
+
+
+
+6.1. Situația demarării proiectării și execuției lucrărilor anterior depunerii cererii de finanțare
+
+
+
+Există posibilitatea ca ghidul specific programului de finanțare vizat să prevadă cerința nedemarării proiectării și execuției lucrărilor înaintea depunerii cererii de finanțare sau înaintea semnării contractului de finanțare.
+
+
+
+Unele programe de finanțare consideră ca neeligibile proiectele prin care se solicită finanțarea activităților deja executate.
+
+
+
+În acest caz, recomandarea noastră este păstrarea în vigoare a contractului și încheierea unui act adițional de suspendare a contractului până la momentul prevăzut în ghidul specific (momentul depunerii cererii de finanțare, momentul semnării contractului de finanțare sau momentul depunerii cererii de transfer al fondurilor), dacă acest moment este înaintea expirării duratei contractului.
+
+
+
+Având in vedere termenul limită de 31.12.2025 impus de Contract recomandăm ca odată cu suspendarea să se dispună prorogarea termenului de finalizare a lucrărilor acestuia cu durata suspendării la care s-ar adăuga perioada de 360 de zile necesară finalizării lucrărilor.
+
+
+
+
+
+6.2. Situația menținerii în vigoare a contractului fără demararea proiectării și execuției lucrărilor
+
+
+
+În funcție de specificul programului de finanțare accesat, existența unui contract de proiectare și execuție a lucrărilor, chiar și fără ordin de începere emis, poate fi considerată o cauză de neeligibilitate.
+
+
+
+Autoritățile finanțatoare pot considera că proiectul pentru care se solicită finanțare beneficiază deja de finanțare, iar nevoia unei finanțări suplimentare nu se justifică.
+
+
+
+Din această perspectivă prezintă relevanță faptul că la art. 5.3. din Contract sunt identificate în mod expres sursele de finanțare a activităților ce fac obiectul Contractului.
+
+
+
+O atenție deosebită trebuie acordată obligației de constituire a garanției de bună execuție. Chiar dacă ordinul de începere a execuției nu a fost emis, contractul este considerat a fi în desfășurare. Menționăm în acest sens art. 13.1 din Contract care prevede că „Executantul se obligă să constituie garanția de bună execuție a Contractului în cuantum de 5% din valoarea Contractului de lucrări fără TVA [...] în termen de 5 zile de la semnarea prezentului Contract” termenul contractual pentru constituirea garanției fiind 04.08.2024.
+
+
+
+Astfel, deși obligația de începere a lucrărilor este suspendată până la emiterea ordinului de începere a acestora, există alte obligații în contract care nu au fost suspendate, creând efecte juridice între părți. 
+
+
+
+În analiza îndeplinirii condiției „demarării” Contractului trebuie avute în vedere atât obligațiile de proiectare și execuție cât și celelalte obligații referitoare la garanție (constituire și valabilitatea acesteia), Contractul neputând fi considerat suspendat.
+
+
+
+În această situație, este recomandată încetarea contractului anterior depunerii cererii de finanțare și restituirea garanției.
+
+
+
+
+
+6.3. Situația cofinanțării
+
+
+
+Există programe de finanțare care nu numai că acceptă cofinanțarea, dar acoperă și activități deja executate. 
+
+
+
+În această situație, recomandăm verificarea îndeplinirii condițiilor din ghidul de finanțare specific și solicitarea fondurilor pentru activitățile eligibile, cu decontarea activităților deja implementate și cu cereri de transfer pentru activitățile care urmează să fie implementate după semnarea contractului de finanțare. 
+
+
+
+Programele de finanțare stabilesc termene stricte de finalizare a lucrărilor a căror depășire poate atrage obligația returnării fondurilor. 
+
+
+
+Recomandăm consultarea ghidului specific de finanțare pentru a extrage condițiile în care durata de execuție a lucrărilor poate fi extinsă , fără să atragă sancțiuni pentru beneficiarul finanțării. 
+
+
+
+Condiții specifice de eligibilitate în cadrul PNRR
+
+
+
+Pentru ipoteza în care finanțarea va fi solicitată în cadrul PNRR, vom analiza pe scurt cerințele acestui program pentru a putea verifica, sumar, îndeplinirea condițiilor generale de eligibilitate.
+
+
+
+PNRR stabilește reguli stricte pentru proiectele care beneficiază de finanțare prin acest mecanism. Prima și cea mai importantă este alinierea proiectului la pilonii PNRR. Proiectul trebuie să contribuie la atingerea obiectivelor de (i) tranziție verde, (ii) tranziție digitală, (iii) coeziune economică și socială și (iv) reziliență instituțională. 
+
+
+
+Proiectele de investiții depuse în cadrul PNRR trebuie să respecte principiul „Do No Significant Harm” (DNSH). Acest lucru înseamnă că proiectele nu trebuie să aibă un impact semnificativ asupra mediului, iar activitățile finanțate trebuie să respecte obiectivele de protecție a climei și biodiversității.
+
+
+
+Proiectele trebuie să fie finalizate în termenul impus de PNRR, fără posibilitate de prelungire. Beneficiarii trebuie să demonstreze capacitatea de implementare rapidă a proiectului.
+
+
+
+
+
+Concluzii
+
+
+
+Pentru a accesa fonduri europene, inclusiv cele disponibile prin PNRR, beneficiarii trebuie să respecte criterii clare de eligibilitate. Recomandările principale pentru succesul unei cereri de finanțare includ:
+
+
+
+Verificarea atentă a eligibilității conform ghidurilor oficiale ale fiecărui program de finanțare.
+
+Planificarea clară a proiectului, evitând orice demarare a activităților înainte de aprobarea finanțării.
+
+Respectarea principiilor de transparență, sustenabilitate și eficiență impuse de legislația europeană.
+
+
+
+Pentru a maximiza șansele de accesare a fondurilor europene, în funcție de cerințele specifice ale ghidului de finanțare aferent programului accesat, se vor putea adopta unele dintre următoarele măsuri:
+
+Suspendarea executării contractului existent, pentru a evita interpretarea acestuia ca inițiere a proiectului;
+
+
+
+Încetarea contractului de proiectare și execuție lucrări cel puțin în ziua anterioară depunerii cererii de finanțare;
+
+
+
+Clarificarea eligibilității în raport cu autoritatea de management.
+
+
+
+Menținerea contractului, fără adaptări, poate afecta eligibilitatea proiectului pentru finanțare europeană. 
+
+
+
+În acest sens, precizăm că la art. 6.1. din Contract se prevede că acesta ”intră în vigoare la data semnării acestuia de către ambele părți și produce efecte până la încheierea procesului verbal de recepție la terminarea lucrărilor, respectiv până la îndeplinirea tuturor obligațiilor contractuale de către ambele părți, dar nu mai târziu de 31.12.2025”.
+
+
+
+De asemenea, potrivit art. 7.2. lit. b) din Contract, ”execuția lucrărilor se va efectua în decurs de 360 zile lucrătoare pentru execuția lucrărilor, de la data transmiterii ordinului de începere, cu drept de finalizare în avans”.
+
+
+
+În condițiile în care: (i) executarea Contractului nu a fost inițiată până în prezent, (ii) termenul contractual de execuție a lucrărilor este de 360 de zile, astfel încât nici dacă ar începe la acest moment executarea contractului nu s-ar mai putea încadra în durata maximă a Contractului (cu excepția finalizării în avans), precum și faptul că (iii) identificarea și accesarea unei surse de finanțare europeană este un proces a cărui durată nu poate fi anticipată la acest moment, ar fi oportună modificarea limitării temporale de la art. 6.1. din Contract, în ceea ce privește durata acestuia.
+
+
+
+Faptul că activitățile ce fac obiectul Contractului nu ar putea fi duse la bun sfârșit în perioada stabilită ca durată maximă a Contractului ar putea constitui un impediment pentru accesarea / acordarea finanțării.
+
+
+
+Totodată, existența unei surse de finanțare, chiar și suspendată, poate fi interpretată ca alternativă care poate fi utilizată, nejustificând necesitatea unei finanțări externe. Însă în funcție de cerințele concrete ale ghidului de finanțare, nu excludem nici posibilitatea menținerii contractului de proiectare și execuție, concomitent cu accesarea programelor de finanțare europeană.
+
+
+
+În luarea unei decizii, trebuie consultat ghidul aferent programului de finanțare care va fi accesat, acest document fiind de natură să lămurească implicațiile existenței Contractului de proiectare și execuție lucrări nr. 249162/30.07.2024.
+
+
+
+
+
+12.03.2025,
+
+[PARTE]
+

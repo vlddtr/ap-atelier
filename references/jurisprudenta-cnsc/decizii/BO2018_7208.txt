@@ -1,0 +1,992 @@
+DECIZIE CNSC BO2018_7208 — text integral (anonimizat de CNSC la publicare; raționament/considerente complete).
+Citeaz-o prin BO2018_7208.
+
+CONSILIUL NAȚIONAL DE
+SOLUȚIONARE A CONTESTAȚIILOR
+C. N. S. C.
+Str. Stavropoleos nr. 6, Sector 3, București, România, CP 030084, CUI [CUI]
+Tel. +4 021 3104641 Fax. +4 021 3104642; +4 021 8900745, www.cnsc.ro
+În conformitate cu prevederile art. 12 alin. (1) și ale art. 27
+alin. (1) din Legea nr. 101/2016 privind remediile și căile de atac
+în materie de atribuire a contractelor de achiziție publică, a
+contractelor sectoriale și a contractelor de concesiune de lucrări și
+concesiune de servicii, precum și pentru organizarea și
+funcționarea Consiliului Național de Soluționare a Contestațiilor,
+Consiliul adoptă următoarea,
+DECIZIE
+Nr. ...
+Data: ...
+Prin contestația nr. 101/17.01.2018, înregistrată la Consiliul
+Național de Soluționare a Contestațiilor cu nr. 2489/18.01.2018, depusă
+de SC ... SRL, cu sediul în ..., CUI RO..., număr de înregistrare în registrul
+comerțului ..., reprezentată legal de ... - administrator, împotriva
+comunicării nr. 1169/26.03.2018, a celorlalte comunicări de rezultat
+procedură și a raportului procedurii nr. 1167/26.03.2018, emise de
+către ..., cu sediul în ..., în calitate de autoritate contractantă, în cadrul
+procedurii simplificată online – într-o singură etapă, organizată în vederea
+atribuirii contractului de servicii având ca obiect „Servicii de întocmire
+Proiect tehnic, detalii de execuție, documentații de obținere avize,
+modificări tehnice și asistență pe timpul desfășurării lucrărilor «Alimentare
+cu apă potabilă în satele: ... și Rețea de canalizare menajeră și stație de
+epurare în localitățile: ...»”, s-a solicitat anularea actelor atacate și
+obligarea autorității contractante la plata cheltuielilor efectuate cu
+prezenta contestație, în valoare de 3.000 lei, în conformitate cu art. 26
+alin. (9) din Legea nr. 101/2016, având în vedere că, prin decizia CNSC
+nr. ..., autoritatea contractantă a fost obligată la plata a doar 2.000 lei din
+cei 5.000 lei prezentați ca și cheltuieli de judecată, deoarece cheltuielile
+prezentate sunt justificate dat fiind faptul că este deja la a doua
+contestație.
+Prin contestația nr. 120/10.04.2018, înregistrată la Consiliul
+Național de Soluționare a Contestațiilor cu nr. 14257/10.04.2018, depusă
+de SC ... SRL, cu sediul în ..., CUI RO..., număr de înregistrare în registrul
+comerțului ..., reprezentată de ... - director, privind procedura menționată
+anterior, organizată de ..., s-a solicitat revocarea raportului procedurii nr.
+1167/26.03.2018 și a actelor subsecvente, inclusiv „Comunicare rezultat
+procedură”, și reevaluarea ofertei SC ... SRL, în conformitate cu
+prevederile documentației de atribuire, și emiterea unui nou raport, prin
+1
+ 
+
+care se declară conformă și acceptabilă oferta SC ... SRL, având în vedere
+respectarea tuturor cerințelor documentației de atribuire. 
+Pentru soluționarea unitară a contestațiilor, având în vedere că
+acestea au fost formulate în cadrul aceleiași proceduri de atribuire,
+Consiliul a procedat la conexarea lor, în conformitate cu dispozițiile art. 17
+alin. (2) din Legea nr. 101/2016.
+CONSILIUL NAȚIONAL DE SOLUȚIONARE A CONTESTAȚIILOR,
+asupra cauzelor de față, constată următoarele:
+1. Consiliul a fost legal sesizat și este competent, potrivit
+dispozițiilor art. 12 alin. (1) din Legea nr. 101/2016, să soluționeze
+contestația de față, prin care SC ... SRL critică rezultatul procedurii,
+solicitând anularea acestuia, prin raportare la următoarele aspecte:
+În fapt, contestatoarea arată că autoritatea contractantă invocă
+faptul că răspunsul la clarificări nr. 1009/13.03.2018, încărcat în SEAP la
+data de 16.03.2018 ora 18:21, cu numărul RFQ0101797/122, nu poartă
+semnătură electronică, în condițiile în care aceasta folosește un soft
+învechit pentru semnăturile electronice, iar motivele pentru care apare
+acea eroare pot fi cauzate de faptul ca:
+- autoritatea contractantă nu are softurile updatate la zi;
+- autoritatea contractantă face verificarea semnăturii cu un soft
+Easysign, soft mai puțin uzual față de softul de la Certsign;
+- poate exista un conflict între semnătura electronică și adobe
+reader.
+Așadar, contestatoarea invită autoritatea contractantă să-și
+revizuiască calculatoarele și după aceea să se pronunțe în conformitate cu
+semnătura validă.
+Totodată, petenta susține că, înainte de a refuza documentele sau
+de a nu recunoaște semnătura SC ... SRL, autoritatea contractanta nu a
+respectat prevederile Legii nr. 455/2001.
+În drept, contestatoarea invocă Legea 455/2001, Legea nr.
+98/2016, HG nr. 395/2016, Legea nr. 101/2016.
+În probațiune, s-au depus, în copie, documente.
+Prin punctul de vedere nr. 1.477/18.04.2018, înregistrat la Consiliu
+cu nr. 16247/23.04.2018, autoritatea contractantă a solicitat respingerea
+contestației ca nefondată, având în vedere următoarele aspecte: 
+Autoritatea contractantă arată că pentru punerea în aplicarea
+deciziei CNSC nr. ...:
+- a transmis SC ... SRL solicitarea de clarificări nr.
+1009/13.03.2018;
+- SC ... SRL a contestat solicitarea de clarificări nr.
+1009/13.03.2018, depunând notificarea prealabilă nr. 344/13.03.2018;
+- prin adresa nr. 1055/16.03.2018, autoritatea contractantă a
+răspuns, comunicându-i faptul că nu o să se adopte măsuri reparatorii;
+- cu toate că a contestat solicitarea de clarificări, ofertantul a
+răspuns acesteia printr-o adresă încărcată în SEAP;
+2
+
+- după finalizarea termenului în care putea să depună contestație la
+CNSC, constatând că nu a făcută aceasta, s-a procedat la analizarea
+răspunsurilor primite la solicitările de clarificări (printre care și al SC ...
+SRL), ocazie cu care s-a constatat că răspunsul acestuia la solicitarea de
+clarificări nu poate fi descărcat/deschis/vizualizat, întrucât, la încercarea
+de descărcare din SEAP, se primește un mesaj din care rezultă că
+semnătura electronică nu este validă, semnătura este coruptă și
+certificatul lipsește (mesaje înregistrate cu nr.1095, 1096 și 1097 din
+19.03.2018);
+- în contestație (la fel ca în notificarea prealabilă) se menționează că
+certificatul de semnătură electronică EasySign, pe care-l folosește
+autoritatea contractantă pentru semnarea electronică a documentelor,
+este un soft învechit și că din această cauză nu se poate
+descărca/deschide vizualiza răspunsul depus în SEAP și că nu s-au
+respectat prevederile Legii nr. 455/2001. 
+Având în vedere cele prezentate, autoritatea contractantă precizează
+că nu contestă înscrisurile sau semnătura electronică a contestatoarei și
+nici certificatul calificat eliberat de furnizorul de servicii de certificare
+acreditat pe care-l folosește, ci doar constată că, din diferite motive
+(neglijență, neatenție, nepricepere, etc.), nu a respectat dispozițiile art.
+123 alin. (2) și (3) din HG nr. 395/2016, care menționează că operatorul
+economic este obligat să depună oferta, DUAE, documentele de calificare,
+răspunsurile la solicitările de clarificări numai prin mijloace electronice,
+care se semnează cu semnătură electronică extinsă, bazată pe un
+certificat calificat, eliberat de un furnizor de servicii de certificare
+acreditat, reprezentând documente originale. 
+În opinia autorității contractante, susținerile contestatoarei
+referitoare la certificatul de semnătură electronică EasySign (folosit), sunt
+nesusținute de nimic concret, întrucât EasySign, la fel ca și CERTSIGN, pe
+care-l folosește SC ... SRL, respectă în totalitate prevederile Legii nr. 455
+2001 privind semnătura electronică.
+Din alt punct de vedere, autoritatea contractantă învederează că:
+- toate documentele încărcate în SEAP, atât în cadrul proceduri cât și
+în cadrul altor proceduri, sunt semnate folosind EasySign; 
+- nu a existat niciun singur caz în care vreun document semnat să
+nu poată fi descărcat/deschis/vizualizat de către ofertanți;
+- toate ofertele și răspunsurile la solicitările de clarificări, atât în
+cadrul proceduri cât și în cadrul altor proceduri, au fost
+descărcate/deschise/vizualizate fără a avea niciun fel de probleme.
+Pentru asigurarea în cadrul procedurii a principiilor transparenței, a
+recunoașterii reciproce și a asumării răspunderii, autoritatea contractantă
+precizează că, în răspunsul la notificarea prealabilă, a invitat expertul
+responsabil cu achizițiile angajat al SC ... SRL, să se prezinte la sediul
+său, pentru ca, împreună cu responsabilul cu achizițiile și cu președintele
+comisiei de evaluare, să încerce descărcarea/deschiderea/vizualizarea
+răspunsului la solicitarea de clarificări, încărcat în SEAP de către SC ...
+SRL, ocazie cu care să fie întocmit un proces-verbal de constatare, în care
+3
+
+să se notifice rezultatul operațiunii, iar, în funcție de acesta să se ia va lua
+o hotărâre privind adoptarea sau neadoptarea de măsuri de remediere.
+Dar, SC ... SRL nu a răspuns și nu a dat curs acestei solicitări și nu a
+așteptat eventualele măsuri reparatorii (dacă era cazul).
+Pentru a verifica declarația contestatoarei referitoare la folosirea
+unui soft învechit pentru semnarea electronică a documentelor
+(EasySign), motiv pentru care nu se poate descărca/deschide/vizualiza
+răspunsul depus în SEAP, autoritatea contractantă menționează că s-a
+adresat furnizorului său (SC ... SRL din ...), care a comunicat faptul că
+certificatul de semnătură electronică EasySign (folosit), respectă în
+totalitate prevederile Legii nr. 455/2001 privind semnătura electronică și
+că remarca SC ... SRL este total nefondată. De asemenea, s-a solicitat SC
+... SRL din ... efectuarea unei verificări de specialitate a documentului
+depus în SEAP de către SC ... SRL, care, după o verificare amănunțită a
+comunicat că „ ... reiese că semnătură este coruptă și invalidă... „,
+rezultând astfel faptul că problema constatată se datorează
+contestatoarei.
+În continuarea expunerii sale, autoritatea contractantă se opune
+solicitării SC ... SRL referitoare la obligarea privind plata cheltuielilor de
+judecată, deoarece s-au făcut toate demersurile necesare în vederea
+rezolvării problemei, fără a se ajunge la CNSC, dar contestatorul nu a
+răspuns, încălcând astfel principiile care stau la baza achizițiilor publice.
+Mai mult, autoritatea contractantă solicită obligarea contestatoarei la
+plata eventualelor penalizări din partea finanțatorului proiectului (AFIR
+România), penalizări posibil de primit datorită întârzierilor în derularea și
+implementare proiectului (având în vedere că finanțarea are la bază
+fonduri europene) .
+În probațiune, autoritatea depune copii ale documentelor din dosarul
+achiziției publice.
+2. Consiliul a fost legal sesizat și este competent, potrivit
+dispozițiilor art. 12 alin. (1) din Legea nr. 101/2016, să soluționeze
+contestația prin care SC ... SRL critică faptul că oferta sa a fost declarată
+inacceptabilă, pe baza unor motive nejustificate și fără niciun temei legal,
+deoarece:
+a) Având în vedere decizia CNSC nr. „7708/171,
+184/C8/26.02.2018”, prin care s-a constatat că încălcarea prevederilor
+legale a fost făcută în perioada de evaluare a ofertelor, și că, prin adresa
+nr.84/01.03.2018, înregistrată la autoritatea contractantă cu nr
+930/06.03.2018, s-a depus prelungirea ofertei, de la momentul
+constituirii garanției de participare, data de 05.10.2017, și până în
+prezent, garanția de participare rămânând constituită în contul autorității
+contractante, SC ... SRL consideră că deține o ofertă în termenul de
+valabilitate, precum și o garanție de participare corect constituită, ceea ce
+ii conferă statutul de ofertant în cadrul procedurii de atribuire a
+contractului de achiziție publică în discuție.
+4
+
+b) În oferta tehnică depusă, s-a prezentat nominalizarea
+personalului implicat în proiect, cu specificația funcției și a sarcinilor în
+cadrul proiectului. În plus, s-a prezentat organigrama personalului
+implicat și graficul de prestare a serviciilor de proiectare. 
+Prin adresa nr. 4.046/27.11.2017, autoritatea contractantă a cerut
+clarificări cu privire la modul de formare a prețului ofertat pentru serviciile
+solicitate, la care s-a răspuns, prin adresa nr 383/04.12.2017,
+prezentându-se documentul „Fundamentare economică”, în care s-a
+specificat care este cheltuiala totală cu salariile, conform cărților de
+muncă și a contractelor de muncă, urmând ca autoritatea contractantă să
+solicite o clarificare suplimentară, nr. 4.239/11.12.2017, cu privire la
+justificarea prețului și fundamentarea economică a modului de formare a
+prețului. 
+Prin adresa nr. 390/14.12.2017 s-a răspuns punctual la toate
+solicitările autorității contractante cu privire la salariile personalului inclus
+în echipa de efectuare servicii. 
+Autoritatea contractantă nu a solicitat, prin adresa nr
+4239/11.12.2017, prezentarea numărului de ore alocate pentru fiecare
+specialist în parte, dar, răspunsul societății a cuprins documente suport
+pentru susținerea detalierii sumelor alocate pentru salarii aferente
+personalului echipei de prestare a serviciilor din care se pot deduce
+cheltuielile aferente fiecărui membru al echipei în parte și nivelul total al
+costurilor salariale pentru echipa de prestare a serviciilor. 
+Luând în considerare oferta tehnică inițială, este evident numărul de
+ore alocat pentru fiecare specialist în parte și anume: 52 ore pentru șef
+proiect ..., 52 ore pentru inginer amenajări și construcții hidrotehnice ...,
+104 ore pentru inginer CCIA ..., 52 ore pentru arhitect ... și 208 ore
+pentru personal auxiliar .... Numărul de ore a fost calculat în funcție de
+norma de lucru a fiecărui membru al echipei, așa cum rezultă din
+contractele de muncă și în funcție de numărul de zile alocat pentru
+prestarea serviciilor, și cum reiese din graficul de prestarea a serviciilor
+pentru elaborare proiect tehnic, detalii de execuție și documentații tehnice
+obținere avize, acorduri și autorizații faza PT. 
+Având în vedere oferta inițială cuprinzând nominalizarea personalului
+implicat și graficul de prestare a serviciilor, coroborat cu răspunsul la
+clarificări nr 390/14.12.2017, în care s-a precizat nivelul salarial pentru
+fiecare membru al echipei de proiect în parte, i s-au pus la dispoziție
+autorității contractante informații cu privire la numărul de ore alocate
+pentru fiecare specialist în parte.
+c) În adresa nr. 1008/13.03.2018, se solicită prezentarea expertului
+care va efectua măsurătorile care se impun, iar invocarea unor servicii
+care nu au fost stabilite și aduse la cunoștința ofertanților prin
+documentația de atribuire, respectiv a realizării serviciilor de întocmire a
+studiului topografic, încalcă prevederile Legii nr. 98/2016. Cu toate
+acestea comisia de evaluare declară inacceptabilă oferta, invocând că nu
+au fost cuprinse valori aferente acestei categorii de servicii și specialiști
+pentru aceasta categorie. 
+5
+
+Astfel, având în vedere valorile prevăzute în fișa de date a achiziției
+la punctul II.1.5) Descrierea succintă a contractului sau a
+achiziției/achizițiilor, precum și răspunsul la solicitarea de clarificări nr.
+3.238/02.10.2017, prin care autoritatea contractantă asigura că se va
+pune la dispoziția câștigătorului studiul topografic în format electronic,
+rezultă că în procedură nu s-a menționat că ofertantul trebuie să presteze
+servicii de întocmire studiu topografic și cheltuieli pentru verificare
+studiului topografic. În plus, în oferta tehnică, se precizează că „pentru
+întocmirea proiectului tehnic se vor utiliza studii de specialitate, cum ar fi
+studiul geotehnic, studiul topografic și alte studii după caz. Pe toate
+străzile care urmează să se monteze conducte de apă și canalizare există
+efectuate ridicări topografice care vor fi reprezentate într-un plan de
+situație, de preferință scara 1:500. Ridicările topografice sunt necesare
+dimensionării rețelei de canalizare, respectiv stabilirii pantelor de curgere
+gravitațională, necesitații stațiilor de pompare etc.”. Astfel, precizările din
+cadrul ofertei tehnice, inclusiv precizarea „Se va acorda o atenție
+deosebita porțiunilor în care rețeaua de canalizare
+subtraversează/supratraversează drumurile rutiere, căi ferate și cursurile
+de apă. În aceste cazuri sunt necesare ridicări topografice atât înainte cât
+și după locul de subtraversare/supratraversare„, făceau referire la
+ridicările topografice existente în cadrul proiectului necesare pentru
+elaborarea studiului de fezabilitate. 
+Având în vedere cele prezentate, măsurătorile necesare modificării
+proiectului tehnic și implicit a soluției tehnice propuse în cadrul studiului
+de fezabilitate care stă la baza finanțării proiectului nu pot fi efectuate
+decât de către un topograf autorizat, iar pentru că acestea nu au fost
+solicitate în fișa de date a achiziției și în caietul de sarcini, nu au fost
+ofertate, SC ... SRL bazându-se pe faptul că acest studiu topografic îi va fi
+pus la dispoziție de către autoritatea contractantă în răspunsul la
+clarificări nr 3.238/02.10.2017. 
+Mai mult, prin decizia CNSC, s-a atras atenția autorității
+contractante asupra faptului că nu se pot solicita noi aspecte la
+propunerea tehnică prezentată de ofertant, față de cele aduse la
+cunoștință înainte de data depunerii ofertei, respectiv „... evaluarea
+ofertelor trebuie realizată raportat la aceeași documentație de atribuire,
+fără adăugarea de noi condiții și reguli, pe care autorii ofertelor nu le-au
+cunoscut încă de la momentul luării deciziei de implicare în procedura de
+achiziție publică”. 
+d) Deoarece, autoritatea contractantă nu a solicitat, nici în fișa de
+date, nici în caietul de sarcini, necesitatea organizării unor întâlniri
+săptămânale pentru verificarea stadiului lucrărilor și pentru
+managementul proiectului, execuția lucrărilor cu respectarea parametrilor
+cantitativi și calitativi solicitați prin caietul de sarcini, la care să participe
+beneficiar, executant, diriginte de șantier, consultant, proiectant și
+eventual reprezentantul finanțatorului (AFIR), ofertantul are dreptul să își
+calculeze propriile cheltuieli consideră necesare pentru prestarea
+serviciilor ofertate. Prin oferta depusă, SC ... SRL demonstrează că se pot
+6
+
+efectua deplasări la sediul beneficiarului, ori de cate ori va solicita acesta,
+iar în răspunsul la solicitarea de clarificări nr 4.046/27.11.2017,
+înregistrată cu nr 390/14.12.2017, s-a prezentat conținutul cheltuielilor
+administrative pentru realizare proiect tehnic și asistență tehnică, în care
+au fost incluse deplasări în valoare de 15.000 lei și 10.000 lei pentru
+asistență tehnică. Având în vedere că s-a estimat un cost de 100 de lei
+pentru o deplasare (defalcat în adresa nr. 390/14.12.2017), sumele
+prevăzute pentru cheltuieli administrative și asistență tehnică sunt
+suficiente nu doar pentru cele 60 de deplasări, considerate suficiente, și
+pentru numărul de deplasări săptămânale, estimate de autoritatea
+contractantă, în comunicarea nr 1168/26.03.2018, dar necuprinse în fișa
+de date și caietul de sarcini. Costul maxim total al deplasărilor (115) ar fi
+de 11.500 lei. 
+Prin Decizia CNSC, s-a atras atenția autorității contractante asupra
+faptului că nu se pot solicita noi aspecte la propunerea tehnică prezentată
+de către ofertant, față de cele aduse la cunoștință înainte de data
+depunerii ofertei, respectiv „... evaluarea ofertelor trebuie realizată
+raportat la aceeași documentație de atribuire, fără adăugarea de noi
+condiții și reguli, pe care autorii ofertelor nu le-au cunoscut încă de la
+momentul luării deciziei de implicare în procedura de achiziție publică”. 
+e) Având în vedere că asistența tehnică nu a fost detaliată în
+documentația de atribuire, respectiv nu a fost impus nici un număr de ore
+obligatoriu pentru specialiștii implicați, fiecare ofertant a avut dreptul, din
+propria experiență în asistența tehnică asigurată la alte proiecte, să-și
+calculeze propriile costuri pentru realizarea asistentei tehnice, astfel încât
+să poată duce la bun sfârșit prestarea acestor servicii. În oferta SC ... SRL
+au fost nominalizați doi specialiști care să asigure prestarea serviciilor de
+asistență tehnică. Raportarea activității acestora la un număr de ore, în
+condițiile în care în documentația de atribuire nu a fost prezentat clar un
+calendar al execuției și un plan al întâlnirilor, prezentarea unui număr
+exact de ore este imposibil. Cu toate acestea, SC ... SRL a prevăzut o
+valoare superioară față de cât va fi necesar, astfel încât pe parcursul
+prestării serviciilor de asistență tehnică să poate răspunde prompt, ori de
+cate ori autoritatea contractantă va solicita prezența proiectantului pe
+teren. Conform contractelor de muncă, a salariilor și a valorii prevăzute în
+oferta pentru asistența tehnică, rezultă o valoare suficientă pentru
+prestarea acestor servicii. 
+Prin Decizia CNSC, s-a atras atenția autorității contractante asupra
+faptului că nu se pot solicita noi aspecte la propunerea tehnică prezentată
+de ofertant, față de cele aduse la cunoștință înainte de data depunerii
+ofertei, respectiv „... evaluarea ofertelor trebuie realizată raportat la
+aceeași documentație de atribuire, iară adăugarea de noi condiții și reguli,
+pe care autorii ofertelor nu le-au cunoscut încă de la momentul luării
+deciziei de implicare în procedura de achiziție publică”. 
+Contestatoarea consideră că, prin oferta depusă, cât și prin
+clarificările prezentate, a răspuns autorității contractante la toate cerințele
+fișei de date și a neclarităților constate de comisia de evaluare.
+7
+
+De asemenea, contestatoarea susține că, prin răspunsul numărul
+1.332/04.04.2018 la notificarea prealabilă nr. 116/02.04.2018, comisia
+de evaluare invocă aceleași motive care au fost respinse de către CNSC
+prin decizia ..., și aceleași justificări care nu au nici un temei legal,
+încălcând prevederile legislative în vigoare referitoare la achizițiile publice.
+Totodată, în răspunsul comisiei de evaluare, se constata o contrazicere a
+deciziilor comisiei de evaluare referitoare la propriile hotărâri luate pe
+parcursul evoluării ofertelor. Astfel, folosind tertipuri de formulare și
+limbaj, comisia de evaluare folosește extrase din conținutul deciziei CNSC,
+dar și din ofertă, reformulându-le și dând un cu totul alt context față de
+cel care a fost în decizia CNSC și în oferta depusă. De asemenea, în
+răspunsul mai sus menționat, nefiind bazat pe nici un temei legal, comisia
+de evaluare deviază grav de la obiectivul procedurii de achiziții, de
+exemplu prezintă definiția conform DEX a sintagmei „Releveu”, care nu
+are niciun fel de legătură cu procedura. Totodată, în comunicare sunt
+prezentate extrase din caietul de sarcini, în care se vede că nu au fost
+solicitate clar și concret servicii cuantificabile, acestea fiind prezentate
+vag, iar ulterior în analiză, comisia de evaluare, invocă servicii
+cuantificate, atât cantitativ cât și valoric, pentru a putea găsi motive care
+să conducă la declararea inacceptabilă a ofertei.
+SC ... SRL menționează că, atât în comunicarea nr.
+1.168/26.03.2018, referitoare la motivele care au stat la baza declarării
+neconformă și inacceptabilă a ofertei, cât și în răspunsul nr.
+1.332/04.04.2018 la notificarea prealabilă, comisia de evaluare invocă
+motive care nu se bazează pe articole legislative prevăzute de legislația în
+vigoare a achizițiilor publice.
+În acest sens, contestatoarea subliniază faptul că motivele declarării
+neconformă și inacceptabilă a ofertei sunt aceleași motive care au fost
+trecute inițial și în raportul 25/24.01.2018, raport care a fost respins de
+către CNSC, prin decizia .... 
+În continuarea demersului său, contestatoarea învederează intenția
+vădită a comisiei de evaluare de a încalcă prevederile legislației achizițiilor
+publice, astfel încât să avantajeze unii ofertanți la prezenta procedură de
+atribuire, având în vedere că la declararea neconformă și inacceptabilă a
+ofertei s-au invocat motive care nu au fost aduse la cunoștința tuturor
+operatorilor încă de la publicarea documentației de atribuire, aceste
+motive fiind invocate doar după depunerea ofertelor în cadrul procedurii.
+Declararea aceluiași ofertant câștigător și la prima evaluare și la a doua
+evaluare, prin descalificarea tuturor ofertele participante la procedură,
+denotă că ofertantul câștigător a avut alte informații față de cele care au
+fost publicate în SEAP. Toate deciziile comisiei de evaluare pe parcursul
+evaluării, cât și motivele de descalificare a tuturor ofertanților participanți,
+mai puțin unul, cel câștigător, totodată, nerespectarea deciziilor CNSC
+referitoare la evaluarea ofertelor depuse în cadrul procedurii, încalcă grav
+prevederile legislației în vigoare. 
+Rugam onoratul consiliu sa ia în considerare că prin deciziile și
+intențiile comisiei de evaluare în cadrul procedurii nu au fost respectate
+8
+
+prevederile art. 2 din Legea 98/2016, fiind încălcate: nediscriminarea,
+tratamentul egal, recunoașterea reciprocă, transparența,
+proporționalitatea și asumarea răspunderii.
+În drept, contestatoarea invocă Legea nr. 101/2016, Legea nr.
+98/2016 și H.G. nr. 395/2016, cu completări și modificări ulterioare.
+În probațiune, SC ... SRL depune, în copie, înscrisuri.
+Referitor la contestația SC ... SRL, autoritatea contractantă a
+transmis punctul de vedere nr. 1.475/18.04.2018, înregistrat la Consiliu
+cu nr. 16247/23.02.2018, prin care solicită respingerea contestației, ca
+nefondată, având în vedere următoarele:
+a) Prin adresa nr. 34/04.01.2018 s-a solicitat SC ... SRL prelungirea
+valabilității ofertei depuse și a garanției de participare, dat fiind faptul că
+valabilitatea ofertei expira la data de 09.01.2018; contestatoarea a
+refuzat prelungirea valabilității ofertei, astfel încât, aceasta și-a pierdut
+valabilitatea începând cu data de 10.01.2018, notificarea prealabilă
+nerespectând prevederile legale, deoarece oferta depusă nu mai are
+valabilitate.
+În data de 06.03.2018 (după 64 de zile de la termenul limită de
+prelungire a valabilității ofertei), SC ... SRL înștiințează cu privire la
+prelungirea valabilității ofertei, prin adresa nr. 84/01.03.2018, transmisă
+prin intermediul e-mail-ului și înregistrată cu nr. 930/06.03.2018,
+comunicând faptul că prelungirea se efectuează în baza deciziei C.N.S.C.
+nr. ..., în conținutul căreia nu se menționează nimic în legătură cu
+prelungirea valabilității ofertei. 
+Cu privire la refuzul de prelungire a valabilității ofertei în termenul
+stabilit (09.01.2018), SC ... SRL a menționat în notificarea prealabilă
+faptul că prelungirea ofertei a fost efectuată în mod corect, în baza
+deciziei CNSC.
+Acceptarea prelungirii ofertei, după finalizarea termenului stabilit, ar
+aduce un avantaj pentru oferta SC ... SRL, în comparație cu ceilalți
+participanți la procedură, și s-ar încălca prevederile art. 134 alin. (5) și
+art. 135 alin. (3) din HG nr. 395/2016.
+b. Cu privire la solicitarea privind prezentarea numărului de ore
+alocate pentru fiecare specialist în parte, prevăzută la cap. IV. 4.1) Modul
+de prezentare a propunerii tehnice din fișa de date a achiziției, precum și
+în caietul de sarcini, pe care SC ... SRL nu a prezentat-o în oferta tehnică,
+acesta comunică faptul că, prin oferta tehnică depusă și prin cele două
+răspunsuri la solicitările de clarificări dinaintea deciziei CNSC, a fost
+clarificat și acest aspect. 
+Având în vedere termenul prevăzut pentru execuția contractului (o
+lună calendaristică, în care sunt aprox. 21 de zile lucrătoare) și
+comparând numărul de ore alocate pe fiecare specialist în parte cu
+numărul de ore conform contractelor de muncă și a statelor de plată, se
+constată următoarele:
+... - are alocate 52 ore, cu toate că este angajat cu 40 ore/lună (cu
+12 ore mai multe decât cele prevăzute în contractul de muncă);
+9
+
+... - are alocate 52 ore, cu toate că este angajat cu 40 ore/lună (cu
+12 ore mai multe decât cele prevăzute în contractul de muncă);
+... - are alocate 104 ore, cu toate că este angajat cu 80 ore/lună (cu
+24 ore mai multe decât cele prevăzute în contractul de muncă);
+... - are alocate 52 ore, cu toate că este angajat cu 40 ore/lună cu
+12 ore mai multe decât cele prevăzute în contractul de muncă );
+... - are alocate 208 ore, cu toate că este angajat cu 160 ore/lună
+(cu 48 ore mai multe decât cele prevăzute în contractul de muncă).
+Astfel, în cazul fiecăruia dintre specialiștii propuși se depășește
+norma de ore stabilită în contractul de muncă, în contractul de muncă al
+fiecărui specialist fiind prevăzut clar faptul că: „ ... nu se vor efectua ore
+suplimentare cu excepția cazurilor de forță majoră, sau pentru situații
+destinate prevenirii producerii unor accidente sau înlăturării consecințelor
+acestora”.
+Nu s-a menționat nicăieri în oferta depusă, în răspunsurile la
+solicitările de clarificări sau în notificarea prealabilă, numărul de ore
+alocate pentru fiecare specialist în parte pentru asigurarea asistenței
+tehnice pe durata execuției lucrărilor, ceea ce era necesar în vederea
+defalcării cheltuielilor specificate în anexa la oferta financiară pentru
+asigurarea asistenței tehnice pe perioada execuției lucrărilor.
+Astfel, nu au fost respectate prevederile art. 137 alin. (2) lit. b), art.
+134 alin. (5), art. 137 alin. (3) lit. a) și d) din HG nr. 395 /2016.
+c. Referitor la solicitarea privind realizarea măsurătorilor necesare în
+vederea proiectării și ulterior la emiterea modificărilor tehnice, prevăzute
+în caietul de sarcini, asumate de către SC ... SRL și menționate în
+propunerea tehnică, contestatoarea comunică faptul că realizarea unui
+studiu topografic nu a fost solicitată în documentația de atribuire, dar, așa
+cum rezultă din solicitarea de clarificări nr. 1008/13.03.2018, nu s-a
+solicitat realizarea vreunui studiu topografic, ci doar prezentarea
+modalității de realizare a măsurătorilor necesare proiectării, precum și
+modalitatea de realizare a măsurătorile necesare întocmirii modificărilor
+tehnice, detaliilor suplimentare, realizării dispozițiilor de șantier,
+prevăzute în caietul de sarcini, ținând cont de faptul că în propunerea
+tehnică depusă în SEAP, în echipa de proiect, nu se prezintă specialistul
+care va efectua măsurătorile respective. 
+În propunerea tehnică s-a menționat că: „Se va acorda o atenție
+deosebită porțiunilor în care rețeaua de canalizare
+subtraversează/supratraversează drumurile rutiere, căi ferate și cursurile
+de apă. În aceste cazuri sunt necesare ridicări topografice atât înainte cât
+și după locul de subtraversare/supratraversare”, contestatorul specificând
+că în acestă mențiune se face referire, de fapt, la ridicările topografice
+existente. 
+Remarca că aceste servicii nu au fost solicitate prin fișa de date sau
+prin caietul de sarcini, este contrazisă de cerințele din caietul de sarcini,
+astfel: 
+- „Să execute Serviciile de proiectare prevăzute în tema de
+proiectare/studiu de fezabilitate, cu respectarea legislației aplicabile, în
+10
+
+vigoare la data efectuării prestației, precum și orice alte prevederi legale
+și normative tehnice prevăzute de lege aplicabile executării Contractului,
+prin (după caz): experimentări, încercări, studii, relevee, analize sau
+evaluări, măsurători, etc. care se impun pentru fundamentarea tehnico-
+economică a deciziei de intervenție”;
+- Releveu (conform DEX) reprezintă: Măsurarea, desenarea și
+reprezentarea la scară a elementelor unei construcții, ale unui ansamblu
+de construcții sau ale unui detaliu constructiv;
+- „Să participe ori de câte ori va solicita beneficiarul sau executantul
+pe șantier, pentru emiterea de soluții tehnice, precizări sau clarificări
+legate de aplicarea proiectului în concordanță cu situația din teren în
+termen de maxim 1 zi de la comunicare. Modificările aduse, din motive
+obiective, proiectului, caietelor de sarcini sau listelor de cantități vor fi
+realizate numai de către proiectantul lucrării și însușită de către experții
+tehnici și specialiștii verificatori de proiecte”,
+- „Sa răspundă solicitărilor venite din partea beneficiarului cu privire
+la unele completări sau detalii suplimentare, dispoziții de șantier s.a.m.d.
+în maxim 3 zile de la solicitare. Dispozițiile de șantier emise vor fi
+numerotate și îndosariate, iar atunci când conduc la modificări din punct
+de vedere financiar sau al termenelor de execuție vor fi însoțite de
+justificări”.
+Astfel, nu au fost respectate prevederile art. 137 alin. (3) lit. a și
+d), art. 134 alin. (5) din HG nr. 395 /2016.
+d. Cu privire la solicitarea privind punctul de vedere al SC ... SRL
+despre intenția de a organiza întâlniri săptămânale pentru verificarea
+stadiului lucrărilor și pentru managementul proiectului, execuția lucrărilor
+cu respectarea parametrilor cantitativi și calitativi solicitați prin caietul de
+sarcini, la care să participe beneficiar, executant, diriginte de șantier,
+consultant, proiectant și eventual reprezentantul finanțatorului (AFIR),
+conform prevederilor caietului de sarcini la asistența tehnică din partea
+proiectantului pe durata execuției lucrărilor, în care s-a prevăzut ca
+proiectantul „Să participe ori de cate ori va solicita beneficiarul sau
+executantul pe șantier, pentru emiterea de soluții tehnice, precizări sau
+clarificări legate de aplicarea proiectului în concordanță cu situația din
+teren...”, acesta menționeze că aceasta nu a fost prevăzută în fișa de date
+sau prin caietul de sarcini. 
+În ceea ce privește faptul că în răspunsul la solicitarea de clarificări
+nr. 4046/27.11.2017, înregistrat la ofertant cu nr. 390/14.12.2017, s-a
+prezentat conținutul cheltuielilor administrative și asistență tehnică, în
+care au fost incluse deplasări în valoare de 15.000 lei și 10.000 lei pentru
+asistență tehnică, comisia a constatat că aceste detalii sunt prezentate de
+fapt în răspunsul nr. 383/04.12.2017, răspuns întocmit în baza solicitării
+de clarificări nr. 4046/27.11.2017, și sunt în totală neconcordanță cu
+oferta financiară, astfel:
+- la pct. nr. 5 sunt notificate cheltuielile administrative și asistență
+tehnică, din care: 15.000 lei deplasări; 2.000 lei cazare; 750 lei diurnă;
+2.500 lei asigurări medicale; 10.000 lei consumabile birotică;
+11
+
+- la punctul nr. 11 este notificată suma de 10.000 lei pentru
+cheltuieli privind asistența tehnică pe toată durata execuției lucrărilor;
+- în anexa la oferta financiară, în care sunt defalcate toate
+cheltuielile financiare, la capitolul asistență tehnică pe durata execuției
+lucrărilor este prevăzută suma totală de 10.000 lei (5.000 lei pentru
+alimentare cu apă și 5.000 lei pentru canalizare);
+- concluzia este următoarea: dacă cei 10.000 lei prevăzuți în anexa
+la oferta financiară pentru asistență tehnică se regăsesc la pct. nr. 11 din
+răspunsul la solicitarea de clarificări, sumele prevăzute la pct. 5 din
+răspuns (15.000 lei deplasări; 2.000 lei cazare; diurnă 750 lei) sunt
+practic o dublare a asistenței tehnice, rezultând foarte clar ceea ce este
+specificat la art. 137 alin. 3 lit. d) din HG nr. 395/2016: propunerea
+financiară nu este corelată cu elementele propunerii tehnice ceea ce ar
+putea conduce la executarea defectuoasă a contractului.
+e. Privitor la solicitarea privind detalierea sumei de 10.000 lei
+prevăzută la în anexa la oferta financiară pentru asistență tehnică a
+proiectantului pe perioada execuției lucrărilor, ținând cont că la acest
+capitol sunt incluse: cheltuielile salariale ale specialiștilor prevăzuți,
+cheltuieli cu deplasările acestora în șantier, cheltuieli cu diurna, cheltuieli
+cu privire la completări sau detalii suplimentare ale proiectului tehnic,
+realizarea dispozițiilor de șantier, a măsurătorilor și modificărilor tehnice
+necesare (prevăzute în caietul de sarcini și asumate de către ofertant),
+comisia constată refuzul contestatoarei de a face această detaliere,
+menționând că „... a prevăzut o valoare superioară față de câte era
+necesar...” și că „Conform contractelor de muncă, a salariilor și a valorii
+prezentate în oferta noastră pentru asistență tehnică, rezultă o valoare
+suficientă pentru prestarea acestor servicii”.
+Astfel, rezultă foarte ceea ce este specificat la art. 137 alin. (3) lit.
+d) din HG nr. 395/2016: propunerea financiară nu este corelată cu
+elementele propunerii tehnice ceea ce ar putea conduce la executarea
+defectuoasă a contractului.
+În probațiune, autoritatea depune copii ale documentelor din dosarul
+achiziției publice.
+Din analiza susținerilor părților și a documentelor existente la
+dosarul cauzei, Consiliul reține cele ce urmează:
+..., în calitate de autoritate contractantă, a inițiat o procedură
+simplificată în vederea atribuirii contractului de servicii având ca obiect
+„Servicii de întocmire Proiect tehnic, detalii de execuție, documentații de
+obținere avize, modificări tehnice și asistență pe timpul desfășurării
+lucrărilor «Alimentare cu apă potabilă în satele: ... și Rețea de canalizare
+menajeră și stație de epurare în localitățile: ...»”, publicând în SEAP
+anunțul de participare simplificat nr. ..., criteriul de atribuire stabilit fiind
+„prețul cel mai scăzut”, cu o valoare estimată de 320.839,22 lei, fără TVA.
+Preliminar, Consiliul retine că, în cadrul aceleiași proceduri au fost
+formulate contestația nr. 101/17.01.2018, înregistrată la Consiliul
+Național de Soluționare a Contestațiilor cu nr. 2489/18.01.2018, depusă
+12
+
+de SC ... SRL, și contestația nr. 28/19.01.2018, înregistrată la Consiliul
+Național de Soluționare a Contestațiilor cu nr. 2814/19.02.2018, depusă
+de SC ... SRL, soluționate prin decizia nr. ..., în sensul: admiterii
+contestațiilor; anulării raportului procedurii, în părțile dedicate ofertelor
+SC ... SRL și SC ... SRL, precum și a adreselor de comunicare a
+rezultatului procedurii, ca acte subsecvente; obligării autorității
+contractante la reanalizarea ofertelor depuse de SC ... SRL și de SC ...
+SRL, cu respectarea prevederilor legale și a celor evocate în motivare, în
+termen de 15 zile de la primirea deciziei Consiliului.
+Decizia privind rezultatul procedurii de atribuire i-a fost comunicată
+SC ... SRL prin adresa nr. 1169 din 26.03.2018, în care se arată că oferta
+acestei societăți a fost respinsă ca inacceptabilă, conform prevederilor art.
+134 alin. (5), art. 137 alin. (2) lit. b) și j) din HG nr. 395/2016, și ca
+neconformă, în baza prevederilor art. 137 alin. (3) lit. a) și d), art. 134
+alin. (9) lit. a) din HG nr. 395/2016. în adresa se regaseste un prim motiv
+de respingere, descris astfel de catre autoritatea contractanta:
+«- ați răspuns solicitării noastre de clarificări nr. 1009/13.03.2018,
+transmisă conform dispozițiilor Deciziei C.N.S.C. nr. ..., înregistrată la noi
+cu nr. 917 / 05.03.2018, (cu toate că în prealabil ați contestat legalitatea
+solicitării de clarificări prin Notificarea prealabilă nr. 344/13.03.2018,
+înregistrată la noi cu nr. 1035/14.01.2018, iar răspunsul cu nr.
+1055/16.03.2018, transmis de noi la notificare nu l-ați contestat la
+CNSC) printr-o adresă încărcată în SEAP în data de 16.03.2018, adresă
+care nu poate fi descărcată și vizualizată datorită faptului că la încercarea
+de descărcare din SEAP se primește un mesaj din care rezultă faptul că
+semnătura electronică nu este validă, semnătura este coruptă și
+certificatul lipsește (mesaje înregistrate la noi cu nr. 1095, 1096 și
+1097/19.03.2018 și atașate alăturat);
+- ținând cont de cele prezentate mai sus și având în vedere art. 123,
+alin. 2 și alin. 3 care prevăd faptul că operatorul economic depune oferta,
+DUAE, documentele de calificare, răspunsurile la solicitările de clarificări
+numai prin mijloace electronice, care se semnează cu semnătură
+electronică extinsă, bazată pe un certificat calificat, eliberat de un furnizor
+de servicii de certificare acreditat, reprezentând documente originale,
+oferta este declarată inacceptabilă, conform prevederilor art. 137, alin. 2,
+litera j din HG nr. 395/2016.»
+Cu privire la celelalte motive de respingere evocate în adresa de
+comunicare a rezultatului nr. 1169 din 26.03.2018, Consiliul reține că
+sunt consecințe ale faptului că autoritatea contractantă, neputând să
+acceseze conținutul adresei de răspuns al SC ... SRL la solicitarea sa de
+clarificări nr. 1009/13.03.2018, a considerat că ofertanta, în fapt, nu a
+răspuns cererii sale de clarificare a ofertei.
+Împotriva acestei decizii a autorității contractante, SC ... SRL a
+înaintat Consiliului contestația de față (îndeplinind procedura notificării
+prealabile, stabilită la art. 6 din Legea nr. 101/2016), solicitând anularea
+actelor atacate și obligarea autorității contractante la plata cheltuielilor
+efectuate cu prezenta contestație, în valoare de 3.000 lei, în conformitate
+13
+
+cu art. 26 alin. (9) din Legea nr. 101/2016, având în vedere că, prin
+decizia CNSC nr. ..., autoritatea contractantă a fost obligată la plata a
+doar 2.000 lei din cei 5.000 lei prezentați ca și cheltuieli de judecată,
+deoarece cheltuielile prezentate sunt justificate dat fiind faptul că este
+deja la a doua contestație.
+Verificând legalitatea deciziei de respingere a ofertei SC ... SRL,
+Consiliul reține că, în aplicarea deciziei sale anterioare, prin adresa nr.
+1009/13.03.2018, autoritatea contractantă a cerut acestei societăți o
+serie de clarificări cu termen de răspuns până la data de 16.03.2018.
+SC ... SRL a postat în SEAP răspunsul său la data de 16.03.2018,
+acesta neputând fi accesat de către autoritatea contractantă, așa cum
+rezultă din actele cauzei și din susținerile acesteia.
+Pentru a se edifica asupra situației faptice reale din prezenta speță și
+pentru a determina care este cauza reală care a condus la situația în care
+documentul transmis de SC ... SRL nu a putut fi deschis și vizualizat de
+către autoritatea contractantă, Consiliul a transmis Agenției pentru
+Agenda Digitală a României adresa nr. ..., prin care a cerut următoarele:
+«vă solicităm ca, în cel mai scurt timp posibil, să ne comunicați
+dacă documentul încărcat în SEAP, la data de 16.03.2018, 18:21, la
+secțiunea „Document” sub denumirea „[RFQ0101797/122] RC Balan
+13.03.pdf.p7s”, de către SC ... SRL, ca răspuns la solicitarea de
+clarificări nr. 1009/13.03.2018, postată de autoritatea contractantă în
+SEAP la data de 13.03.2018, 15:33:
+- este un document semnat cu semnătură electronică extinsă,
+bazată pe un certificat calificat, eliberat de un furnizor de servicii de
+certificare acreditat, conform prevederilor art. 123 alin. (2) și (3) din HG
+nr. 395/2016, în condițiile în care SC ... SRL afirmă în acest sens;
+- dacă acest document poate fi deschis, în condițiile în care, conform
+afirmațiilor autorității contractante și celor 3 print screen-uri depuse de
+aceasta, pe pagina SEAP în care apare documentul „[RFQ0101797/122]
+RC Balan 13.03.pdf.p7s”, la încercarea de deschidere a acestuia au apărut
+următoarele mesaje: „semnătura este coruptă”, „semnătura nu este
+validă” și „certificatul lipsește”.»
+Agenția pentru Agenda Digitală a României a răspuns prin adresa nr.
+28546 din 16.05.2018 în care arată că transmite atașat, pe suport CD,
+documentul depus de către SC ... SRL, în perioada de evaluare a
+ofertelor, în secțiunea Întrebări. De asemenea, instituția mai arată și că
+operatorul SEAP nu are competențe de verificare a documentelor și a
+semnăturii electronice, nu verifică conținutul sau integritatea
+documentelor, ci doar „găzduiește” documentele atașate de operatorii
+economici/autoritățile contractante în formatul în care au fost încărcate,
+responsabilitatea încărcării și semnarea cu semnătură electronică extinsă
+a documentelor fiind strict în sarcina operatorilor economici sau a
+autorităților contractante.
+Accesând conținutul CD-ului transmis de către Agenția pentru
+Agenda Digitală a României (aflat la dosarul cauzei), Consiliul constată că
+documentele transmise de SC ... SRL („Declarație de disponibilitate” și
+14
+
+„Răspuns solicitare de clarificări nr. 1009/13.03.2018”) au putut fi
+deschise, forma lor tipărită fiind inserată de Consiliu în dosarul cauzei.
+Drept urmare, Consiliul stabilește că viciul care a făcut imposibilă,
+pentru autoritatea contractantă, deschiderea și vizualizarea răspunsului
+SC ... SRL la solicitarea sa de clarificări nr. 1009 din 13.03.2018, nu este
+în culpa ofertantei și nu poate fi reținut în sarcina acesteia, concluzia fiind
+că aspecte de ordin tehnic, ce țin exclusiv de dotarea și întrebuințarea
+autorității contractante, au făcut imposibilă primirea răspunsului
+ofertantei la actul autorității contractante.
+Drept urmare, stabilind că respingerea ofertei SC ... SRL are ca
+premisă o chestiune care nu este în sarcina acestei societăți, Consiliul
+stabilește că aceasta nu poate suporta consecința unor fapte care nu îi
+sunt imputabile, respingerea ofertei sale având, în consecință, un caracter
+nelegal.
+Văzând că întreaga decizie de respingere are la baza aspecte care
+rezidă din considerarea inexistenței unui răspuns al SC ... SRL la
+clarificările cerute de autoritatea contractantă, Consiliul, având în vedere
+cele expuse mai sus, reține nelegalitatea măsurii autorității contractante
+și necesitatea reanalizării ofertei acestei societăți.
+Luând în considerare aspectele de fapt și de drept evocate, în baza
+art. 26 alin. (2) din Legea nr. 101/2016 privind remediile și căile de atac
+în materie de atribuire a contractelor de achiziție publică, a contractelor
+sectoriale și a contractelor de concesiune de lucrări și concesiune de
+servicii, precum și pentru organizarea și funcționarea Consiliului Național
+de Soluționare a Contestațiilor, Consiliul urmează să admită contestația
+depusă de SC ... SRL și să anuleze raportul procedurii nr. 1167 din
+26.03.2018, în partea dedicată ofertei SC ... SRL, precum și adresele de
+comunicare a rezultatului procedurii.
+În baza art. 26 alin. (2) și (5) din Legea nr. 101/2016, Consiliul va
+obliga autoritatea contractantă ca, în termen de 15 zile de la primirea
+deciziei Consiliului, să analizeze oferta depusă de SC ... SRL, cu
+respectarea prevederilor legale și a celor evocate în motivare.
+În baza art. 26 alin. (9) din Legea nr. 101/2016, Consiliul va
+respinge ca nedovedită cererea SC ... SRL privind obligarea autorității
+contractante la plata cheltuielilor efectuate cu prezenta contestație, în
+valoare de 3.000 lei. Susținerea contestatoarei potrivit căreia cheltuielile
+de soluționare sunt justificate prin cuantumul onorariului avocațial în
+valoare de 5.000 lei (conform factură nr. 3 din 15.01.2018), dovedit în
+dosarul Consiliului nr. 171/2016, soluționat prin decizia nr. 487/C8/171,
+184 din 26.02.2018, nu va fi primită în justificarea pretinselor cheltuieli
+ocazionate de soluționarea prezentei cauze, deoarece sumele achitate
+conform facturii din 15.01.2018 nu puteau viza acte și activități
+desfășurate ulterior datei de 26.03.2018 (data la care i-a fost comunicat
+SC ... SRL rezultatul procedurii atacat prin contestația în analiză).
+Decizia privind rezultatul procedurii de atribuire i-a fost comunicată
+SC ... SRL prin adresa nr. 1168 din 26.03.2018, în care se arată că oferta
+15
+
+acestei societăți a fost respinsă ca inacceptabilă, conform prevederilor art.
+134 alin. (5), art. 137 alin. (2) lit. b) și i) din HG nr. 395/2016, și ca
+neconformă, în baza prevederilor art. 137 alin. (3) lit. a) și d) din HG nr.
+395/2016. În adresa autorității sunt evocate pe larg motivele pentru care
+a fost luată această decizie.
+Împotriva acestei decizii a autorității contractante, SC ... SRL a
+înaintat Consiliului contestația de față (îndeplinind procedura notificării
+prealabile, stabilită la art. 6 din Legea nr. 101/2016), solicitând revocarea
+raportului procedurii nr. 1167/26.03.2018 și a actelor subsecvente,
+inclusiv „Comunicare rezultat procedură”, și reevaluarea ofertei SC ...
+SRL, în conformitate cu prevederile documentației de atribuire, și
+emiterea unui nou raport, prin care se declară conformă și acceptabilă
+oferta SC ... SRL, având în vedere respectarea tuturor cerințelor
+documentației de atribuire. 
+Verificând legalitatea deciziei autorității contractante de a respinge
+oferta depusă de SC ... SRL, Consiliul reține că un prim motiv în luarea
+acesteia este cel comunicat prin adresa nr. 1168 din 26.03.2018 astfel:
+ „- ați răspuns solicitării noastre de clarificări nr. 1008/13.03.2018,
+transmisă conform dispozițiilor Deciziei C.N.S.C. nr. ..., înregistrată la noi
+cu nr. 917/05.03.2018, prin adresa nr. 98/15.03.2018, înregistrată la noi
+cu nr. 1094/19.03.2018, iar din analizarea răspunsului primit și a întregii
+oferte, au fost constatate următoarele:
+a. la solicitarea noastră cu privire la refuzul d-voastră de prelungire
+a valabilități ofertei în termenul stabilit și de constatare a tardivității
+prelungirii ofertei (la 64 de zile de la termenul stabilit), ați răspuns că prin
+decizia dată de către CNSC a fost rezolvată și problema prelungirii ofertei,
+motiv pentru care ați procedat la prelungirea valabilități ofertei după 64
+de zile de la finalizarea termenului stabilit;
+- comisia contată faptul că refuzul de prelungire a valabilității ofertei
+nu a fost printre motivele de declarare a ofertei ca inacceptabilă, așa cum
+rezultă din comunicarea rezultatului procedurii nr. 27/04.01.2018.
+Solicitarea de prelungire a valabilități ofertei a fost transmisă ulterior
+adresei de comunicare a rezultatului procedurii, fiind înregistrată cu nr.
+34 04.01.2018. D-voastră ați refuzat prelungirea valabilității ofertei până
+la termenul stabilit (09.01.2018), prelungind totuși valabilitatea ofertei în
+data de 06.03.2018 (după 64 de zile de la termenul limită de prelungire a
+valabilității ofertei), prin adresa nr. 84/01.03.2018, transmisă prin
+intermediul mail-ului și înregistrată la noi cu nr. 930/06.03.2018;
+- ținând cont de cele prezentate mai sus și având în vedere faptul că
+acceptarea prelungirii ofertei după finalizarea termenului stabilit ar aduce
+un avantaj pentru oferta SC ... SRL în comparație cu ceilalți participanți la
+procedură, oferta este declarată inacceptabilă, conform prevederile art.
+134, alin. 5 și conform art. 137, alin. 2 , litera i, din HG 395/2016.”
+Față de această situație, analizând documentele depuse la dosarul
+cauzei, Consiliul reține că, prin adresa nr. 34 din 04.01.2018, autoritatea
+contractantă a cerut SC ... SRL ca, până la data de 09.01.2018, să
+16
+
+prelungească valabilitatea ofertei și a garanției de participare cu încă 90
+de zile.
+În procesul-verbal nr. 7, înregistrat la autoritate cu nr. 130 din
+10.01.2018, încheiat cu ocazia ședinței de evaluare a ofertelor, este
+menționat că SC ... SRL nu a răspuns solicitării de prelungire a valabilității
+ofertei și a garanției de participare.
+În urma deciziei anterioare a Consiliului, respectiv decizia nr. ...,
+autoritatea contractantă a transmis SC ... SRL adresa nr. 1008 din
+13.03.2018, în care, printre altele, solicită următoarea clarificare:
+«a. Prin solicitarea noastră de clarificări nr. 34/04.01.2018,
+încărcată în SEAP în data de 04.01.2018, am solicitat prelungirea
+valabilității ofertei depuse și a garanției de participare, având în vedere
+faptul că valabilitatea ofertei expiră la data de 09.01.2018. Termenul
+până la care trebuia să răspundeți solicitării noastre de prelungirea
+valabilității ofertei era data de 09.01.2018. D-voastră ați refuzat
+prelungirea valabilității ofertei depuse, iar aceasta începând cu data de
+10.01.2018 și-a pierdut valabilitatea.
+În data de 06.03.2018 (după 64 de zile de la termenul limită de
+prelungire a valabilității ofertei), ne înștiințați cu privire la prelungirea
+valabilității ofertei, prin adresa nr. 84/01.03.2018, transmisă prin
+intermediul mail-ului și înregistrată la noi cu nr. 930/06.03.2018,
+comunicându-ne faptul că prelungirea se efectuează în baza Deciziei
+C.N.S.C. nr. .... Dar, așa cum rezultă din conținutul deciziei respective, nu
+se menționează nimic în legătură cu prelungirea valabilității ofertei d-
+voastră.
+Având în vedere tardivitatea prelungirii valabilității ofertei și având
+în vedere faptul că acceptarea prelungirii ofertei după terminarea
+termenului stabilit ar aduce un avantaj pentru oferta d-voastră în
+comparație cu ceilalți participanți la procedură, vă rugăm să ne
+comunicați punctul d-voastră de vederea în legătură cu acest aspect,
+ținând cont de prevederile art. 134 alin. 5 și de art. 137 alin. 2 litera i, din
+HG 395/2016.»
+SC ... SRL a răspuns prin adresa nr. 98 din 15.03.2018 în care arată
+următoarele:
+«Punctul a:
+Având în vedere că dvs. în întâmpinarea transmisă către CNSC,
+respectiv adresa numărul 372/30.01.2018, prin care expuneți exact
+aceste aspecte și CNSC-ului, sub exact aceeași formă care se regăsește și
+în solicitarea de clarificări 1.008 din 13.03.2018, considerăm că CNSC-ul,
+a ținut cont și de acest aspect al valabilității ofertei, drept urmare
+analizând că toate încălcările grave legislative referitoare la legea
+achizițiilor publice din Romania, au fost făcute în timpul evaluării ofertei
+societății noastre, expunând următoarea frază:
+„În aceste condiții, Consiliul stabilește nelegalitatea deciziilor
+autorității contractante de a respinge ofertele celor două contestatoare
+pentru argumentele de fapt expuse în adresele a căror nelegalitate este
+reclamată”.
+17
+
+Având în vedere că în contestația formulată de către societatea
+noastră a fost constatată și respingerea ofertei noastre pe motivul
+valabilității ofertei, rezultă că acest aspect a fost analizat și de către
+CNSC, decizia dată de acesta fiind corectă și concretă:
+„Obligă autoritatea contractantă ca, în termen de 15 zile de la
+primirea deciziei Consiliului, să reanalizeze ofertele depuse de SC ... SRL
+și de SC ... SRL”. 
+Astfel conform deciziei, oferta noastră și adresa de prelungire a
+valabilității ofertei noastre trebuie luată în considerare.
+Vă aducem la cunoștință că nerespectarea unei decizii a CNSC poate
+duce la anularea procedurii de atribuire. Totodată, neîncadrarea
+solicitărilor comisiei de evaluare în aspectele constatate de CNSC, la
+evaluarea anterioară a ofertei noastre privind încălcarea legislației privind
+publice, pot de asemenea conduce către anularea procedurii.
+Așa cum este specificat și în contestația CNSC:
+„În mod similar, nu rezultă din documentele întocmite de autoritatea
+contractantă în derularea procedurii, eventuala îndeplinire de către
+aceasta a obligației prevăzute la art. 134 alin. (1) din HG nr. 395/2016,
+respectiv aceea de a stabili care sunt clarificările și completările formale
+sau de confirmare, necesare pentru evaluarea propunerilor tehnice ale
+celor doua ofertante contestatoare.”,
+și
+„Or, pe lângă încălcările legale amintite, Consiliul are în vedere și
+necesitatea respectării de către autoritate și a principiilor transparenței și
+asumării răspunderii. Astfel, procesul de evaluare a ofertelor, alături de
+rigurozitate și legalitate trebuie să fie și transparent, respectiv să poată fi
+facil verificată respectarea drepturilor și obligațiilor părților angrenate în
+procesul de achiziție publică. Or, prin aparenta lipsă a unei veritabile
+verificări și evaluări a propunerilor tehnice ale celor două societăți,
+autoritatea contractantă nu asigură tocmai acest caracter transparent al
+activității sale.”, 
+cât și a,
+„Astfel, în condițiile în care întreaga conduită a ofertanților s-a bazat
+pe informațiile și regulile arătate în documentația de atribuire, în
+respectarea principiului transparenței, evaluarea ofertelor trebuie
+realizată raportat la aceeași documentație de atribuire, iară adăugarea de
+noi condiții și reguli, pe care autorii ofertelor nu le-au cunoscut încă de la
+momentul luării deciziei de implicare în procedura de achiziție publică.”»
+Ca un prim aspect, Consiliul subliniază faptul că prin decizia sa
+nr. ..., a fost soluționată și contestația nr. 28/19.01.2018, depusă de
+SC ... SRL împotriva deciziei de respingere ce îi fusese comunicată prin
+adresa nr. 27 din 04.01.2018. Verificând susținerea SC ... SRL că aspectul
+legat de valabilitatea ofertei a fost examinat și tranșat de către Consiliu,
+acesta din urmă reține, pe de o parte, faptul că în adresa nr. 27 din
+04.01.2018, prin care autoritatea contractantă a comunicat acestei
+societăți respingerea ofertei sale, nu se regăsește, ca motiv al acestei
+decizii, și cel rezultând din valabilitatea ofertei, iar pe de altă parte, nici
+18
+
+din considerentele deciziei anterioare a Consiliului nu rezultă că acesta ar
+fi analizat și s-ar fi pronunțat asupra acestei chestiuni.
+De altfel, așa cum arată și contestatoarea în răspunsul său la
+clarificarea pe care i-a cerut-o autoritatea contractantă, în decizia
+anterioară a Consiliului se regăsește mențiunea acestuia potrivit căreia
+„În aceste condiții, Consiliul stabilește nelegalitatea deciziilor autorității
+contractante de a respinge ofertele celor două contestatoare pentru
+argumentele de fapt expuse în adresele a căror nelegalitate este
+reclamată.”
+Or, în condițiile în care analiza Consiliului, în pronunțarea deciziei
+sale nr. ..., a vizat decizia de respingere a ofertei SC ... SRL, luată pentru
+motivele expuse în adresa contestată nr. 27 din 04.01.2018, este lesne de
+înțeles că decizia acestuia se întinde exclusiv asupra aspectelor care au
+făcut obiectul examinării sale, organismul de soluționare fiind ținut la a
+verifica legalitatea și temeinicia actului atacat prin contestație. Drept
+urmare, nu va fi reținută ca întemeiată, în prezenta soluționare,
+susținerea contestatoarei potrivit căreia situația valabilității ofertei sale ar
+fi fost examinată anterior de către Consiliu, care s-ar fi și pronunțat
+asupra acestei chestiuni.
+Mai mult, Consiliul reține sublinierea autorității contractante, potrivit
+căreia adresa de solicitare a prelungirii valabilității ofertei și a garanției de
+participare (adresa nr. 34 din 04.01.2018) a fost ulterioară celei prin care
+s-a comunicat rezultatul procedurii către SC ... SRL (adresa nr. 27 din
+04.01.2018), constatarea faptului că societatea nu a dat curs cererii
+autorității făcându-se în data de 10.01.2018, drept urmare nu era posibil
+ca decizia de respingere comunicată în 04.01.2018 să facă referire la un
+motiv de respingere (valabilitatea ofertei) care s-a inițiat a fi lămurit
+printr-un act al autorității ulterior luării deciziei de respingere și despre a
+cărui existență certă autoritatea s-a edificat abia în data de 10.01.2018.
+ Drept urmare, Consiliul va înlătura premisa indicată de
+contestatoare, conform căreia aspectul valabilității ofertei sale a fost
+examinat anterior și validat de către Consiliu.
+În acest context, Consiliul reține următoarele dispoziții ale HG nr.
+395/2016: 
+- art. 124
+„(1) Oferta are caracter obligatoriu, din punctul de vedere al
+conținutului, pe toată perioada de valabilitate stabilită de către
+autoritatea contractantă și asumată de ofertant. 
+(2) Perioada de valabilitate a ofertelor, prevăzută în
+anunțul/invitația de participare și în documentația de atribuire, trebuie să
+fie stabilită astfel încât să cuprindă toate etapele până la momentul
+încheierii contractului/acordului-cadru. 
+(3) Atunci când stabilește perioada de valabilitate a ofertelor,
+autoritatea contractantă va lua în considerare estimările privind perioada
+necesară pentru analiza și evaluarea ofertelor, perioada necesară pentru
+verificările legate de aceste activități, precum și perioada legală prevăzută
+pentru rezolvarea eventualelor contestații. Autoritatea contractantă
+19
+
+are obligația de a solicita prelungirea valabilității ofertelor, precum
+și, după caz, a garanției de participare, în situații excepționale care impun
+o astfel de prelungire.” 
+- art. 137
+„(2) În condițiile art. 215 alin. (4) din Lege, oferta este considerată
+inacceptabilă în următoarele situații: 
+i) ofertantul refuză să prelungească perioada de valabilitate a
+ofertei și a garanției de participare.” 
+Văzând aceste dispoziții, Consiliul constată că autoritatea
+contractantă și-a respectat obligația de a solicita SC ... SRL prelungirea
+valabilității ofertei sale, demers căruia aceasta nu i-a răspuns, ceea ce
+echivalează cu un refuz, implicit, de îndeplinire a obligației corelative de
+asigurare a unei valabilități continue a ofertei, oferta având caracter
+obligatoriu în perioada de timp în care este și confirmată ca validă de
+către ofertant.
+De altfel, chiar legiuitorul a sancționat expres cu respingerea ca
+inacceptabilă oferta a cărei valabilitate este refuzată a fi prelungită de
+către autorul său.
+Primirea conduitei ofertantului care își prelungește valabilitatea
+ofertei fără să asigure continuitatea acesteia nu poate fi primită,
+deoarece, pe de o parte, conduce la încălcarea prevederii art. 124 alin.
+(1) din HG nr. 395/2016, existând o perioadă de timp (în cazul ofertei
+SC ... SRL, 64 de zile) în care oferta nu este obligatorie pentru ofertantul
+care nu și-a asumat valabilitatea acesteia, iar pe de altă parte, conduce la
+încălcarea principiului tratamentului egal, în condițiile în care ceilalți
+operatori economici participanți la procedură au înțeles să asigure
+continuitatea valabilității ofertelor lor, creându-se, astfel, un avantaj
+nelegal SC ... SRL.
+Drept urmare, Consiliul stabilește faptul că, de la data la care
+valabilitatea ofertei SC ... SRL a expirat (09.01.2018), fără ca aceasta să
+fie prelungită ca urmare a cererii exprese a autorității contractante,
+această ofertă este inacceptabilă, în baza legii (art. 137 alin. 2 lit. i din HG
+nr. 395/2016).
+În aceste condiții, Consiliul reține că este de prisos examinarea
+celorlalte motive pentru care oferta SC ... SRL a fost respinsă, caracterul
+inacceptabil al acesteia, rezultând din motivul analizat mai înainte,
+neputând fi înlăturat.
+Luând în considerare aspectele de fapt și de drept evocate, în baza
+art. 26 alin. (6) din Legea nr. 101/2016 privind remediile și căile de atac
+în materie de atribuire a contractelor de achiziție publică, a contractelor
+sectoriale și a contractelor de concesiune de lucrări și concesiune de
+servicii, precum și pentru organizarea și funcționarea Consiliului Național
+de Soluționare a Contestațiilor, Consiliul urmează să respingă ca
+nefondată contestația depusă de SC ... SRL.
+Pentru aceste motive,
+în baza legii și a mijloacelor de probă aflate la dosar,
+20
+
+CONSILIUL DECIDE:
+Admite contestația depusă de SC ... SRL în contradictoriu cu ....
+Anulează raportul procedurii nr. 1167 din 26.03.2018, în partea
+dedicată ofertei SC ... SRL, precum și adresele de comunicare a
+rezultatului procedurii.
+Obligă autoritatea contractantă ca, în termen de 15 zile de la
+primirea deciziei Consiliului, să analizeze oferta depusă de SC ... SRL, cu
+respectarea prevederilor legale și a celor evocate în motivare.
+Respinge, ca nedovedită, cererea SC ... SRL privind obligarea
+autorității contractante la plata cheltuielilor efectuate cu prezenta
+contestație, în valoare de 3.000 lei.
+Respinge, ca nefondată, contestația depusă de SC ... SRL în
+contradictoriu cu ....
+Prezenta decizie este obligatorie, în conformitate cu dispozițiile art.
+28 alin. (1) din Legea nr. 101/2016.
+Împotriva prezentei decizii se poate formula plângere, în termen de
+10 zile de la comunicare, potrivit art. 29 alin. (1) din Legea nr. 101/2016.
+ PREȘEDINTE,MEMBRU,MEMBRU,
+.........
+Redactată în ... exemplare, conține ... pagini. 
+21

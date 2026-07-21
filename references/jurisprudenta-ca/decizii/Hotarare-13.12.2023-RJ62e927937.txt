@@ -1,0 +1,274 @@
+Decizie nr. RJ 62e927937/2023 din 13-dec-2023, Curtea de Apel Bucuresti, litigiu privind achizitiile publice (Contencios administrativ si fiscal)
+
+Decizie
+
+din 13 Decembrie 2023 
+
+62927937/2023
+
+Text speță
+
+Societate comercială vs Persoană fizică, Societate comercială
+
+Cod ECLI ECLI:RO:CABUC:2023:197.######
+
+DOSAR NR. ####/2/2023
+
+#######
+
+CURTEA DE APEL BUCUREȘTI
+
+SECȚIA A X-A C_________ ADMINISTRATIV ȘI FISCAL ȘI ACHIZIȚII PUBLICE
+
+DECIZIA CIVILĂ NR. ###
+
+Ședințapublică de la 13.12.2023
+
+Curtea constituită din:
+
+PREȘEDINTE: ####### ########## ####
+
+JUDECĂTOR: ##### ######## #########
+
+JUDECĂTOR: ###### ### #######
+
+GREFIER: ####### ##### #####
+
+Pe rol se află soluționarea plângerii formulate de petenta #### ###### ######## S.R.L. împotriva Deciziei nr. ####/C6/2244 din data de 30.10.2023, pronunțată de Consiliul Național de Soluționare a Contestațiilor, în contradictoriu cu intimații Orașul ######## și ########## ######## S.R.L., având ca obiect litigiu privind achizițiile publice.
+
+La apelul nominal făcut în ședință publică, se prezintă petenta, prin avocat ####### ######, cu împuternicire avocațială aflată la fila 43 din dosar, și intimatul Orașul ########, prin avocat, cu împuternicire avocațială aflată la fila 109 din dosar, lipsind intimata ########## ######## S.R.L.
+
+Procedura de citare este legal îndeplinită.
+
+S-a făcut referatul cauzei de către grefierul de ședință, după care:
+
+Petenta, prin avocat, depune la dosar dovada comunicării plângerii și dovada cheltuielilor de judecată, constând în onorariu de avocat.
+
+Constatând că nu mai sunt cereri de formulat și excepții de invocat, Curtea constată încheiată cercetarea judecătorească și acordă cuvântul asupra plângerii.
+
+Petenta, prin avocat, solicită admiterea plângerii, modificarea în integralitate a deciziei CNSC, cu consecința admiterii contestație formulate.
+
+În concret, discuția care se poartă în prezentul dosar este reprezentată de aplicația corpurilor de iluminat care a fost ofertată de către ########## ####### S.R.L..
+
+În primul ciclu de contestare, Consiliul a stabilit în sarcina autorității contractante obligația de a reevalua oferta ########## ####### S.R.L. prin raportare la aplicația corpurilor de iluminat, respectiv de a stabili dacă aceasta este identică cu aplicație de telegestiune.
+
+Prin răspunsul la solicitarea de clarificări transmisă de către autoritate, acest ofertant a precizat faptul că aplicația corpurilor de iluminat, de fapt, poate fi accesată prin descărcarea unei alte aplicații din M______ Play. Această aplicație este o aplicație de scanat coduri QR.
+
+#### de această poziție, autoritatea contractantă a considerat că oferta este admisibilă.
+
+Sub acesta aspect, a invocat, pe de o parte, faptul că acest ofertant și-a completat oferta prin răspunsul la solicitarea de calificări și, pe de altă parte, faptul că acest ofertant nu a prezentat o aplicație a corpurilor de iluminat, având în vedere dovada existenței acestei aplicații.
+
+Consiliul a reținut că dimpotrivă aplicația QR cod scanner nu poate fi considerată o aplicație care să fi fost ofertată ulterior, în etapa solicitărilor de clarificări, și, pe de altă parte, a reținut că s-a dovedit că această aplicație a corpurilor de iluminat există.
+
+În ceea ce privește această aplicație care a fost ofertată doar prin răspunsul la solicitarea de clarificări, solicită să se aibă în vedere atitudinea intervenientei care, pe de o parte, susține că aceasta aplicație este imperios necesară pentru a putea fi accesată aplicația corpurilor de iluminat care se presupune că ar exista și, pe de altă parte, susține într-un alt document că aceasta aplicație QR cod scanner, de fapt, este o denumirea alternativă a aplicației corpurilor de iluminat.
+
+Or, față de această poziție, consideră, pe de o parte, că ofertantul și-a modificat oferta pe calea răspunsului la solicitarea de clarificări.
+
+Mai mult decât atât, având în vedere faptul că se precizează că denumirea aplicației corpurilor de iluminat este QR cod scanner atunci în mod evident aplicația indicată anterior Intellight nu este aplicația corpurilor de iluminat și se dovedește, din nou, faptul că intervenienta nu a ofertat o aplicație a corpurilor de iluminat.
+
+Pentru aceste considerente, solicitarea sa este de admitere a plângerii, cu cheltuieli de judecată.
+
+Intimatul, prin avocat, solicită respingerea plângerii formulate de petenta Elbi Energy.
+
+În fond, se constată că cele două aplicații sunt distincte, astfel cum a fost solicitat și prin documentația de atribuire, respectiv a fost ofertată o aplicație mobilă cu denumirea de Intellight și o aplicație pentru sistemul de telegestiune cu aceeași denumire Intellight.
+
+În esență, cele două aplicații sunt diferite, respectiv prima aplicație pentru corpurile de iluminat poate facilita accesul prin intermediul unui cod QR la informațiile de natură tehnică, cu privire la corpurile de iluminat.
+
+Acest aspect a fost reținut și de către CNSC prin decizia anterioară care a rămas definitivă prin hotărârea Curții de Apel, respectiv că a fost prezentat de către ########## ####### S.R.L. un cod QR care permite accesarea informațiilor referitoare la corpurile de iluminat.
+
+În ceea ce privește aplicația pentru sistemul de telegestiune, aceasta poate fi accesatăprin accesarea unui link pe baza unor informații de tip user și parolă.
+
+Astfel, aceste două informații au fost verificate de către comisia de evaluare și s-a constatat că cele două aplicații sunt diferite,
+
+Pentru aceste motive, solicită respingerea plângerii formulate de Elbi Energy. ##### că înțelege să solicite cheltuieli de judecată și depune la dosar dovada cheltuielilor de judecată.
+
+Curtea constată închise dezbaterile și reține cauza în pronunțare.
+
+CURTEA,
+
+Deliberând asupra plângerii de față, reține următoarele:
+
+1.Decizia Consiliului Național de Soluționare a Contestațiilor
+
+Prin Decizia nr. ####/C6/2244 din data de 30.10.2023, pronunțată de Consiliul Național de Soluționare a Contestațiilor, s-a încuviințat, în principiu, cererea de intervenție înaintată de către societatea ########## ####### S.R.L..
+
+S-a respins, ca nefondată, contestația formulată de către #### ###### ######## S.R.L., în contradictoriu cu autoritatea contractantă Orașul ########.
+
+Pe cale de consecință, s-a respins solicitarea contestatoarei de obligare a autorității contractante la plata cheltuielilor de judecată.
+
+S-a admis cererea de intervenție înaintată de către societatea ########## ####### S.R.L..
+
+S-a respins solicitarea intervenientei de obligare a contestatoarei la plata cheltuielilor de judecată.
+
+2. Plângerea formulată în cauză
+
+Împotriva acestei decizii, a formulat plângere contestatoarea #### ###### ######## S.R.L., în temeiul art. 29 și următoarele din Legea nr. 101/2016 în termenul legal, prin care a solicitat să se dispună modificarea în integralitate a Deciziei CNSC nr. 1588/C6/2023.
+
+În susținere petenta a argumentat că prin Decizia nr. ####/C6/2244 din 30.10.2023 comunicată petentei la data de 01.11.2023, Consiliul a respins ca neîntemeiată contestația sa, reținând că:
+
+a. Nu ar fi vorba despre o completare a ofertei inițiale, ci doar despre o completare a informațiilor deja existente în cuprinsul ofertei;
+
+b. Oferta depusă de ########## ####### S.R.L. ar fi conformă sub aspectul aplicației mobile a corpurilor de iluminat;
+
+În considerarea acestei soluții și având în vedere că din documentele de la dosarul CNSC reiese atât caracterul inacceptabil, cât și caracterul neconform al ofertei desemnate câștigătoare, consideră că soluția Consiliului este nelegală și netemeinică, în considerarea argumentelor ce vor fi prezentate în continuare.
+
+I. ########## ####### S.R.L. și-a modificat oferta pe calea răspunsurilor la solicitările de clarificări
+
+Prin Decizia CNSC nr. 1588/2023, Consiliul a reținut, în ceea ce privește obligativitatea ofertării unei aplicații mobile a corpurilor de iluminat diferită față de aplicația de telegestiune, faptul că:
+
+Or, în condițiile în care acest lucru nu a fost lămurit de către autoritatea contractantă, Consiliul constată că aceasta nu a finalizat procesul de evaluare a propunerii tehnice aparținând SC ########## ####### S.R.L. cu rigoarea desprinsă din interpretarea art. 133 alin. 1) din H.G. nr. 395/2016 pentru aprobarea Normelor metodologice de aplicare a prevederilor referitoare la atribuirea contractului de achiziție publică/acordului-cadru din Legea nr. 98/2016 privind achizițiile publice, potrivit cărora "####### de evaluare are obligația de a analiza și de a verifica fiecare ofertă atât din punct de vedere al elementelor tehnice propuse (...)".
+
+Ca urmare a solicitării de clarificări emise de către orașul ######## în urma pronunțării Deciziei N CNSC nr. 1588/2023, ########## ######## S.R.L. a precizat:
+
+"Ca răspuns la solicitarea dumneavoastră de clarificări va transmitem următoarele:
+
+1. - Aplicația mobila "Intellight" este o aplicație gratuită ce funcționează în sistem browser web și care poate fi accesată de pe orice terminal cu orice sistem de operare ( Andoid sau Iphone) prin descărcarea din Google Play sau AppStore a aplicației mobile gratuite QR Code Scanner și apoi scanarea codului QR a corpului de iluminat stradal sau pietonal.
+
+- În urma scanării codului QR aplicația furnizează date despre aparatul de iluminat și, de asemenea, permite introducerea de date suplimentare.
+
+- Toate aceste informații pot să fie verificate urmărind pașii descriși mai sus și scanarea codului QR pus la dispoziție.
+
+Cu toate că prin răspunsul la solicitarea de clarificări, societatea intervenientă a indicat o aplicație terță și nouă, la care nu a mai făcut referire în cuprinsul ofertei și pe care nu a menționat nici în fața CNSC, presupus a fi necesară accesării aplicației corpurilor de iluminat, prin Decizia CNSC nr. 2547/C6/2244, Consiliul a reținut că:
+
+În ceea ce privește susținerea contestatoarei potrivit căreia, prin răspunsurile la clarificări, societatea în discuție ar fi modificat propunerea tehnică, întrucât "a suplimentat aplicația/aplicațiile ofertate,, incluzând și aplicația mobilă QR Code Scanner", Consiliul nu va reține ca întemeiată, întrucât, pe de o parte, explicațiile contestatoarei au avut rol de completare a informațiilor deja existente, aspect, permis de legiuitor prin art. 209 alin. 1) din Legea nr. 101/2016, respectiv: "în cazul în care informațiile ... sunt incomplete ...sau în cazul în care lipsesc anumite documente, autoritatea contractantă are dreptul de a solicita într-un anumit termen ofertanților/candidaților clarificări și, după caz, completări ale documentelor prezentate de aceștia în cadrul ofertelor sau solicitărilor de participare, cu respectarea principiilor tratamentului egal și transparenței", iar, pe de altă parte, chiar în cadrul Deciziei CNSC nr. 1588/C6/1623 din 11.07.2023, Consiliul a reținut deja că "SC #### ##### ####### S.R.L. a prezentat atât aplicația mobilă, cât și codul QR aferent".
+
+Or, în condițiile în care codul QR, existent deja în oferta #### ##### ####### S.R.L., conține toate informațiile necesare aplicației QR Code Scanner, a permis autorității contractante citirea informațiilor respective și nicidecum modificarea acestora. De altfel, QR Code Scanner nici nu are cum să fie parte din propunerea tehnică, deoarece este doar un "scanner virtual de coduri de bare".
+
+Contrar opticii Consiliului, atât timp cât este vorba despre o aplicație care a fost "ofertată" doar prin răspunsul la solicitările de clarificări, cu atât mai mult cu cât discutăm despre o aplicație de tipul "scanner virtual de coduri de bare", se impunea a fi constatată modificarea ofertei.
+
+II. Aplicația corpurilor de iluminat
+
+Ca urmare a pronunțării Deciziei CNSC nr. 1588/C6/1623, autoritatea contractantă avea obligația de a verifica dacă aplicația corpurilor de iluminat este diferită de aplicația de telegestiune.
+
+Prin contestația formulată, a arătat că intervenienta și-a modificat oferta depusă și că, din perspectiva aplicației corpurilor de iluminat, nu sunt îndeplinite cerințele documentației de atribuire.
+
+Soluționând contestația sa formulată și sub acest aspect, prin Decizia CNSC nr. 2547/C6/2244, Consiliul a reținut că:
+
+"Or, în condițiile în care codul QR, existent deja în oferta #### ##### ####### S.R.L., conține toate informațiile necesare aplicației QR Code Scanner, a permis autorității contractante citirea informațiilor respective și nicidecum modificarea acestora. De altfel, QR Code Scanner nici nu are cum să fie parte din propunerea tehnică, deoarece este doar un "scanner virtual de coduri de bare".
+
+#### de cele prezentate anterior, Consiliul va respinge ca neîntemeiată și afirmația contestatoarei conform căreia "aplicația QR Code Scanner nu respectă solicitările de la punctele 5.3, 5.4 respectiv 5.5 din fișele tehnice nr. 1 și 2".
+
+În concluzie, Consiliul apreciază că autoritatea contractantă a stabilit, în mod corect, conformitatea ofertei #### ##### ####### S.R.L., pe acest aspect, raportat la conținutul documentației de atribuire".
+
+####, analizând superficial contestația sa, Consiliul a ignorat atât modificarea ofertei de către ########## ####### S.R.L., cât și modalitatea efectivă de ofertare, respectiv verificare a aplicației corpurilor de iluminat.
+
+Astfel, în primul rând, prin concluziile scrise depuse în dosarul nr. 2244/C6/#### ########## ####### S.R.L. susține că aplicația de telegestiune se numește Intelilight și aplicația corpurilor de iluminat se numește Intellight (sau QR Code Scanner), fiind necesară aplicația QR Code Scanner pentru accesarea aplicației corpurilor de iluminat.
+
+"Așa cum am arătat în Răspunsul nostru la solicitarea de clarificări, încă de la început, cele două aplicații ofertate InteliLIGHT© pentru sistemul de telegestiune și aplicația mobilă Intellight pentru mentenanța și întreținerea corpurilor de iluminat sunt două aplicații diferite și fiecare are un rol bine determinat. Singura relație dintre acestea este că din aplicația de telegestiune InteliLIGHT© pot fi preluate în mod automat, la cerere, informații care să fie utilizate de aplicația mobilă Intellight".
+
+####, prin răspunsul la solicitarea de clarificări, aceeași intervenienta a arătat că aplicația corpurilor de iluminat se numește Intelilight aspect ce rezultă din următorul extras din acest răspuns: "de atribuire, dacă acestea pot fi reprezentative pentru oferta noastră, mai ales că întreaga documentație publicată în SICAP este publică și nu este protejată de un drept de proprietate intelectuală sau de autor. Precizăm că la pct. 5.1 din #### tehnică nr. 1 am indicat așa cum ați solicitat numele aplicației Intelitight ce poate fi descărcată din Google Play, urmând ca d-voastră să transmiteți numele userului pentru a primi acces".
+
+Practic, inițial, aplicația mobilă se numea Intelilight, pentru ca mai apoi să se numească Intellight și, ulterior, să se numească Intellight/QR Code Scanner/R_____.
+
+Astfel, toată această modificare perpetuă a denumirii aplicației corpurilor de iluminat presupus a fi ofertată, confirmă ceea ce petenta a susținut încă de la început, respectiv inexistența unei aplicații diferite a corpurilor de iluminat față de aplicația de telegestiune.
+
+3. Apărările formulate în cauză
+
+######## ########## ####### S.R.L., a formulat, în termenul legal prevăzut de alin. (2) al art. 31 din Legea nr. 101/2016 întâmpinare în raport cu plângerea, prin care a solicitat:
+
+1. respingerea solicitării petentei #### ###### ######## S.R.L. de suspendare a procedurii în principal ca lipsită de obiect și în subsidiar ca neîntemeiată.
+
+2. respingerea ca neîntemeiata a plângerii formulate de către #### ###### ######## S.R.L.
+
+2. menținerea ca fiind legala și temeinica Decizia CNSC nr. 2547/C6##### # ##.10.2023.
+
+3. obligarea petentei la plata cheltuielilor de judecata ocazionate de prezenta procedura conform documentelor justificative ce vor fi depuse înainte de pronunțarea deciziei de soluționare a plângerii.
+
+Cu privire la fondul cauzei, a învederat că reevaluarea ofertei sale trebuia realizată de către Autoritatea contractantă "numai cu privire la modalitatea de îndeplinire a cerinței Aplicația mobilă a aparatelor de iluminat este diferită față de aplicația sistemului de telegestiune", acesta fiind unicul capăt de cerere admis din contestația formulată de către petenta #### ###### ######## S.R.L., lucru care s-a și întâmplat, pe datele 19.07.2023, 24.07.2023, respectiv 27.07.2023 intimata recepționând Adresele nr. _____/19.07.2023, _____/24.07.2023, respectiv _____/27.07.2023, prin intermediul cărora Autoritatea contractantă i-a solicitat clarificări în etapa de reevaluare a ofertei dispusă de către Consiliu prin Decizia nr. ####/C6##### # ##.07.2023, solicitări la care aceasta a răspuns în mod concludent pe datele de 21.07.2023, 25.07.2023, respectiv 28.07.2023, prin intermediul Adreselor nr. 489/21.07.2023, 492/25.07.2023, respectiv 500/28.07.2023.
+
+În egală măsură, sunt corecte susținerile Consiliului de la pag. 26-27 din Decizia nr. ####/C6/2244/30.10.2023, în cuprinsul cărora sunt redate selecțiuni din Decizia CNSC nr. 1588/C6##### # ##.07.2023, dintre care a menționat:
+
+"Din răspunsul de mai sus, rezultă că SC ########## ####### S.R.L. a prezentat atât aplicația mobilă cât și codul QR aferent. Singurul aspect rămas în discuție fiind acela că ofertanta desemnată câștigătoare a ofertat o aplicație mobilă a cărei denumire este identică cu cea a sistemului de telegestiune (Intelilight), astfel cum este precizat în propunerea sa tehnică - #### tehnică nr. 3 pct. 2.12 - Sistem telegestiune - Intelilight, pag. 6, în condițiile în care cele 2 (două) aplicații trebuie să fie diferite, astfel cum se menționează în adresa nr. 7738/07.03.2023, publicată în S.E.A.P., în data de 07.03.2023, sub indentificator CN1051852/_____, anterior citat."
+
+Așa cum rezultă din analiza răspunsurilor la solicitările de clarificări adresate de către comisia de evaluare și cum în mod corect a statuat și CNSC prin Decizia nr. ####/C6##### # ##.10.2023, oferta sa îndeplinește în integralitate cerințele documentației de atribuire și în mod corect a fost declarată admisibilă și câștigătoare a procedurii, intimata lămurind aspectul cu privire la care se impunea acest lucru, respectiv faptul că "Aplicația mobilă a aparatelor de iluminat este diferită față de aplicația sistemului de telegestiune", aplicația mobilă pentru corpurile de iluminat fiind diferită față de aplicația sistemului de telegestiune, atât în ceea ce privește denumirea, cât și în ceea ce privește conținutul, rolul și funcțiile acesteia.
+
+Denumirea aplicației mobile este Intellight /QR Cod Scanner/R_____, iar denumirea aplicației de telegestiune este InteliLIGHT. După cum cu ușurința se poate observa, există o diferență semnificativă atât în denumire, cât și în continui.
+
+La solicitarea de clarificări a Autorității contractante din cadrul etapei de reevaluare a ofertei dispuse de către Consiliu prin Decizia nr. ####/C6##### # ##.07.2023, cu privire la faptul că aceasta nu a putut vizualiza caracteristicile aparatului de iluminat în aplicația mobilă ofertată, intimata, contrar alegațiilor neîntemeiate ale contestatoarei, a precizat denumirea completă a aplicației mobile OR Code Scanner/R_____ și nu a transmis o altă aplicație mobilă, dovadă fiind faptul că datele unice despre aparatele de iluminat ofertate se regăsesc în aplicația mobilă indicată prin fișele tehnice încă de la depunerea ofertei sale, după cum în mod corect a statuat CNSC la pag. 29 din Decizia sa nr. 2547/C6##### # ##.10.2023- "(...) Pornind la cele stabilite în decizia de mai sus, raportat la solicitările de lămuriri, precum și la informațiile comunicate prin răspunsurile date, Consiliul apreciază că societatea #### ##### ####### S.R.L. a îndeplinit cerința care trebuie clarificată, respectiv: "Aplicația mobilă a aparatelor de iluminat este diferită față de aplicația sistemului de telegestiune".
+
+Intimatul, UAT [localitate] ########, în temeiul art. 31 alin. (2) din Legea nr. 101/2016 privind remediile și căile de atac în materie de atribuire a contractelor de achiziție publică, a contractelor sectoriale și a contractelor de achiziție publică, a contractelor sectoriale și a contractelor de concesiune de lucrări și concesiune de servicii, precum și pentru organizarea și funcționarea CNSC (în continuare " Legea nr. 101/2016 "), a formulat, în termen legal, prezenta întâmpinare cu privire la plângerea promovată de petenta #### ###### ######## S.R.L. împotriva Deciziei CNSC nr. 2547/C6/2244 din data de 30.10.2023 (în continuare și "Decizia CNSC"), prin care a solicitat, în temeiul prevederilor art. 34 alin. (5) din Legea nr. 101/2016, să se dispună respingerea plângerii, ca nefondată; menținerea ca fiind temeinică și legală a deciziei CNSC; respingerea capătului de cerere privind suspendarea procedurii de atribuire, ca fiind lipsit de obiect, având în vedere următoarele motive:
+
+După cum a fost reținut și în cuprinsul Procesului verbal nr. _____/01.08.2023, "####### de evaluare a scanat gratuit codul QR, fără a fi necesar user și parolă cu orice telefon mobil, fără costuri suplimentare și a verificat caracteristicile tehnice ale corpului de iluminat, document obținut prin scanarea codul QR și a accesat aplicația de telegestiune prin logarea cu userul și parola create în (a)cest sens.
+
+Atât din răspunsul ofertantului cât și din verificarea efectuată de comisia de evaluare se înțelege că sunt două aplicații distincte; prin simpla scanare gratuită a codului se pot obține informații tehnice despre corpurile de iluminat; iar prin logarea în baza unui user și parolă se intră în aplicația de telegestiune."
+
+Așadar, ulterior răspunsului transmis de ########## ######## S.R.L., comisia de evaluare a verificat caracteristicile tehnice ale corpurilor de iluminat, informații obținute prin scanarea codului QR, și a accesat aplicația de telegestiune prin logarea cu userul și parola create în acest sens, constatându-se că ne aflăm în prezența a două aplicații distincte. Pe scurt, evidențiază că, prin simpla scanare a codului QR se pot obține informații tehnice despre corpurile de iluminat, iar în ceea ce privește accesarea aplicației de telegestiune, aceasta are loc prin logare, în baza unor informații de tip "user" și "parolă".
+
+#### de susținerile eronate ale petentei, conform cărora, prin răspunsul la solicitarea de clarificări, ofertantul ar fi "indicat o aplicație terță și nouă, la care nu a mai făcut referire în cuprinsul ofertei", a evidențiat că, față de probatoriul administrat, în mod just, CNSC a concluzionat că, "în ceea ce privește susținerea contestatoarei potrivit căreia, prin răspunsurile la clarificări, societatea în discuție ar fi modificat propunerea tehnică, întrucât "a suplimentat aplicația/aplicațiile ofertate incluzând și aplicația mobilă QR Code Scanner", Consiliul nu va reține ca întemeiată, întrucât, pe de o parte, explicațiile contestatoarei au avut rol de completare a informațiilor deja existente, aspect, permis de legiuitor prin art. 209 alin. (1) din Legea nr. 101/2016, respectiv: "în cazul în care informațiile... sunt incomplete...sau în cazul în care lipsesc anumite documente, autoritatea contractantă are dreptul de a solicita într-un anumit termen ofertanților/candidaților clarificări și, după caz, completări ale documentelor prezentate de aceștia în cadrul ofertelor sau solicitărilor de participare, cu respectarea principiilor tratamentului egal și transparenței", iar, pe de altă parte, chiar în cadrul Deciziei CNSC nr. 1588/C6/1623 din 11.07.2023, Consiliul a reținut deja că "SC ########## ####### S.R.L. a prezentat atât aplicația mobilă, cât și codul QR aferent.".
+
+4. ####### Curții de Apel București
+
+Analizând materialul probator administrat în cauză, Curtea reține următoarele:
+
+În calitate de autoritate contractantă, Orașul ######## a demarat procedura de achiziție publică prin licitație deschisă, în vederea atribuirii contractului de lucrări având ca obiect "Lucrări pentru obiectivul «Creșterea eficienței energetice a infrastructurii de iluminat public - zona centrală, oraș ########, ####### #########»", cod CPV ########## Instalare de echipament de iluminare stradală (Rev.2), anunț de participare nr. CN1051852/08.02.2023, în valoare de 2951875 lei, fără TVA, criteriul de atribuire fiind "cel mai bun raport calitate-preț", prin aplicarea factorilor de evaluare și ponderile aferente, respectiv "prețul ofertei – 70% și perioada de garanție a lucrărilor, concretizată în perioada de garanție acordată lucrări de construcții montaj și în perioada de garanție acordată corpurilor de iluminat – 30%".
+
+După aplicarea criteriului de atribuire și a factorilor de evaluare, societatea ########## ####### S.R.L. s-a clasat pe locul I cu un total de 100 puncte, iar societatea #### ###### ######## S.R.L. pe locul II cu un total de 62,48 puncte, astfel cum este prevăzut în Raportul procedurii nr. _____/ 07.06.2023.
+
+Nemulțumită de acest rezultat, #### ###### ######## S.R.L. a formulat contestație în fața CNSC, contestație care a fost admisă, în parte, prin Decizia nr. ####/C6/1623 din 11.07.2023, dispunându-se obligarea autorității contractante la anularea raportului procedurii nr. _____/07.06.2023, numai în partea care privește propunerea tehnică aparținând SC ########## ####### S.R.L., cu consecința reevaluării propunerii tehnice aparținând SC ########## ####### S.R.L. numai cu privire la modalitatea de îndeplinire a cerinței ,,Aplicația mobilă a aparatelor de iluminat este diferită față de aplicația sistemului de telegestiune", cu solicitarea de clarificări raportat la cerința din adresa nr. 7738/07.03.2023, potrivit căreia ,,Aplicația mobilă a aparatelor de iluminat este diferită față de aplicația sistemului de telegestiune".
+
+Împotriva Deciziei CNSC nr. 1588/C6/1623 din 11.07.2023, societatea #### ###### ######## S.R.L. a formulat plângere, respinsă ca nefondată de către Curtea da Apel București, Secția a X-a contencios administrativ și fiscal și pentru achiziții publice, prin Hotărârea nr. #### #### din 11.10.2023.
+
+Ținând cont de cele dispuse de Consiliu, autoritatea contractantă a reanalizat oferta ########## ####### S.R.L., iar, conform Raportului procedurii nr. _____/02.08.2023, comisia de evaluare a stabilit același rezultat.
+
+Nemulțumită de acest aspect, #### ###### ######## S.R.L. a formulat contestație împotriva comunicării cu nr. _____/02.08.2023 privind rezultatul procedurii de atribuire și a Raportului procedurii nr. _____/02.08.2023, solicitând admiterea acesteia, anularea Adresei nr. _____/02.08.2023, anularea Raportului procedurii nr. _____/02.08.2023 și a tuturor documentelor ce au stat la baza întocmirii acestuia, reluarea procedurii de atribuire începând cu etapa verificării conformității ofertelor, precum și obligarea autorității contractante la plata cheltuielilor de judecată.
+
+Prin Decizia nr. ####/30.10.2023, CNSC a respins, ca nefondată, contestația formulată de #### ###### ######## S.R.L..
+
+Împotriva acestei decizii, petenta #### ###### ######## S.R.L. a formulat plângere, solicitând (i) admiterea contestației, în sensul anulării adresei, rezultatului procedurii și documentelor amintite mai sus, cu consecința reluării procedurii de atribuire, începând cu etapa verificării conformității ofertelor, obligarea la achitarea cheltuielilor de judecată aferente contestației; (ii) suspendarea procedurii de atribuire până la soluționarea plângerii ce formează obiectul prezentului dosar; (iii) obligarea intimatelor la plata cheltuielilor de judecată ocazionate de soluționarea prezentei plângeri.
+
+În susținerea acestei plângeri, petenta aduce mai multe critici, după cum urmează:
+
+1. Societatea ########## ####### S.R.L. și-a modificat oferta pe calea răspunsurilor la solicitările de clarificări, în sensul că a indicat o aplicație terță și nouă, la care nu a mai făcut referire în cuprinsul ofertei și pe care nu a menționat-o nici în fața CNSC.
+
+Curtea apreciază că aceste susțineri nu sunt întemeiate, întrucât intimata a procedat la îndeplinirea celor dispuse de Consiliu prin Decizia nr. ####/C6/1623 din 11.07.2023, respectiv la a transmite un răspuns la solicitarea de clarificări, explicațiile acesteia având un rol de completare a informațiilor existente, în acord cu dispozițiile art. 209 alin. (1) din Legea nr. 101/2016. De asemenea, Curtea apreciază că în cadrul deciziei inițiale amintite mai sus, Consiliul a reținut #### ##### ####### S.R.L. a prezentat în cadrul ofertei depuse atât aplicația mobilă, cât și codul QR aferent, aplicația QR Code Scanner fiind doar un scanner virtual de coduri de bare.
+
+Astfel cum reiese din analiza răspunsului la solicitarea de clarificări, Curtea apreciază că intimata a precizat denumirea completă a aplicației mobile QR Code Scanner/R_____ și nu a transmis o altă aplicație mobilă, Consiliul apreciind în mod judicios faptul că societatea #### ##### ####### S.R.L. a îndeplinit cerința care trebuia clarificată, respectiv "Aplicația mobilă a aparatelor de iluminat este diferită față de aplicația sistemului de telegestiune".
+
+##### în vedere că respectivul cod QR se regăsea în cadrul ofertei depuse și toate informațiile necesare ca aplicația QR Code Scanner să poată permite autorității citirea informațiilor respective se regăseau în cuprinsul codului QR din ofertă, Curtea reține că prin răspunsul la clarificări transmis autorității contractante nu a fost modificată oferta, astfel cum în mod judicios a apreciat și Consiliul.
+
+2. Consiliul a apreciat în mod eronat existența unei aplicații diferite a corpurilor de iluminat față de aplicația de telegestiune
+
+Din analiza răspunsurilor la solicitările de clarificări și a celor reținute prin Decizia nr. ####/C6/2244/30.01.2023, Curtea apreciază că susținerile petentei privind această critică nu sunt întemeiate, intimata lămurind aspectul privind îndeplinirea condiției ca aplicația mobilă a aparatelor de iluminat să fie diferită de aplicația sistemului de telegestiune.
+
+Astfel cum rezultă din actele depuse la dosarul cauzei, Curtea reține că denumirea aplicației mobile este Intellight/QR Cod Scanner/R_____, iar denumirea aplicației de telegestiune este InteliLIGHT, existând o diferență între acestea atât în denumire, cât și în conținut/rol/funcții. Astfel, din informațiile prezentate în cadrul răspunsului la solicitarea de clarificări transmis prin Adresa nr. 500/28.07.2023, rezultă următoarele:
+
+- Aplicația mobilă "Intellight/QR Cod Scanner/R_____" este o aplicație gratuită ce funcționează în sistem browser web și care poate fi accesată de pe orice terminal cu orice sistem de operare (Android sau Iphone) prin descărcarea din Google Play sau App Store a aplicației mobile gratuite QR Code Scanner și apoi scanarea codului QR a corpului de iluminat stradal sau pietonal.
+
+- Aplicația de telegestiune "InteliLIGHT" este o aplicație separată de cea mobilă și se poate vizualiza accesând link-ul: https://cms-eu1.intelilight.eu/.
+
+În consecință, contrar susținerilor petentei, Curtea apreciază că aplicația mobilă pentru corpurile de iluminat este diferită față de aplicația sistemului de telegestiune, singura remarcă în legătură cu utilizarea în comun a informațiilor privind corpurile de iluminat fiind făcută cu referire la eliminarea redundanței introducerii datelor de același fel și în același timp în cele două aplicații de persoane diferite. În acest scop, a fost creată posibilitatea transferului de date între aplicații, prin import-export de date, nefiind vorba despre aceeași aplicație, astfel încât să nu fie îndeplinită condiția ca aplicația mobilă a aparatelor de iluminat să fie diferită de aplicația sistemului de telegestiune.
+
+Pentru considerentele expuse în cele ce preced, în temeiul art. 34 din Legea nr. 101/2016, Curtea urmează a respinge ca nefondată plângerea formulată de petenta #### ###### ######## S.R.L., împotriva Deciziei nr. ####/C6/2244 din data de 30.10.2023 pronunțate de către Consiliul N_______ de Soluționare a Contestațiilor.
+
+Cu privire la cheltuielile de judecată solicitate de intimatul ########## ######## S.R.L. petentei #### ###### ######## S.R.L., Curtea, în baza art. 453 din Codul de procedură civilă , apreciază întemeiată această cerere și, având în vedere că dovada a fost depusă la dosar, urmează a obliga #### ###### ######## S.R.L. la plata sumei de _____ de lei către ########## ######## S.R.L., reprezentând onorariu de avocat.
+
+PENTRU ACESTE MOTIVE,
+
+ÎN NUMELE LEGII
+
+HOTĂRĂȘTE:
+
+Respinge plângerea formulată de petenta #### ###### ######## S.R.L., cu sediul ales în ########, #### ##### ####### ### ##, ####### ###############, împotriva Deciziei nr. ####/C6/2244 din data de 30.10.2023, pronunțată de Consiliul Național de Soluționare a Contestațiilor, în contradictoriu cu intimații Orașul ########, cu sediul ales în București, #### ###### ########### ### ##, sector 2, și ########## ######## S.R.L., cu sediul în Târgoviște, #### ######## ### #, ####### #########, ca nefondată.
+
+Obligă petenta la plata către intimat a sumei de _____ de lei, reprezentând cheltuieli de judecată cu titlu de onorariu de avocat.
+
+Definitivă.
+
+Pronunțată azi, 13.12.2023, prin punerea soluției la dispoziția părților de către grefa instanței.
+
+PREȘEDINTE, JUDECĂTOR, JUDECĂTOR,
+
+####### ########## ##### ######## ###### ### #######
+
+#### #########
+
+GREFIER,
+
+####### ##### #####
+
+Red. / Tehnored. ######/ 2 ex.
+
+Com. 3 ex. la ...............................
+
+Sursa www.rejust.ro Cod RJ: 62e927937
+

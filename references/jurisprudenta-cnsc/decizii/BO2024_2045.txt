@@ -1,0 +1,625 @@
+DECIZIE CNSC BO2024_2045 — text integral (anonimizat de CNSC la publicare; raționament/considerente complete).
+Citeaz-o prin BO2024_2045.
+
+În conformitate cu prevederile art. 14 alin. (2) din Legea nr.
+101/2016 privind remediile și căile de atac în materie de
+atribuire a contractelor de achiziție publică, a contractelor
+sectoriale și a contractelor de concesiune de lucrări și concesiune
+de servicii, precum și pentru organizarea și funcționarea
+Consiliului Național de Soluționare a Contestațiilor, cu
+modificările și completările ulterioare, Consiliul adoptă
+următoarea:
+DECIZIE
+Nr. .../.../...
+Data: ...
+Prin contestația nr. 237/10.06.2024, înregistrată la Consiliul
+Național de Soluționare a Contestațiilor sub nr. .../..., formulată de ...
+SRL, în calitate de membru al Asocierii ... SRL – ... SRL, cu sediul în ...,
+înmatriculată la Registrul Comerțului cu nr. ..., având cod unic de
+înregistrare ..., reprezentată legal de administrator ..., împotriva adresei
+de comunicare a rezultatului procedurii nr. 1076/03.06.2024 și a
+raportului procedurii nr. 1075/03.06.2024, emise de către ..., în calitate
+de autoritate contractantă, cu sediul în ..., în cadrul procedurii
+simplificate, derulată online, organizată în vederea atribuirii contractului
+având ca obiect „ÎNFIINȚARE PISTE DE BICICLETE, ...”, cod CPV
+45233162-2 – Lucrări de construcții de piste de biciclete (Rev. 2), anunț
+de participare simplificat nr. .../..., s-a solicitat Consiliului: 
+„1. ANULAREA adresei de comunicare a rezultatului nr.
+1076/03.06.2024;
+2. ANULAREA raportului procedurii nr. 1075/03.06.2024 în partea ce
+vizează oferta subscrisei;
+3. Obligarea autorității contractante la continuarea procedurii de
+atribuire și la stabilirea ofertei câștigătoare prin aplicarea corectă a
+criteriului de atribuire stabilit prin documentația de atribuire”.
+În luarea deciziei, CONSILIUL, legal investit, a avut în vedere
+următoarele:
+... SRL, în calitate de membru al Asocierii ... SRL – ... SRL,
+formulează contestația nr. 237/10.06.2024, înregistrată la Consiliul
+Național de Soluționare a Contestațiilor sub nr. .../..., împotriva adresei
+de comunicare a rezultatului procedurii nr. 1076/03.06.2024 și a
+raportului procedurii nr. 1075/03.06.2024, emise de către ..., solicitând
+cele redate în partea introductivă.
+În fapt, contestatorul precizează că oferta pe care a depus-o în
+cadrul prezentei proceduri a fost respinsă de către autoritatea
+Pagina 1 din 23
+
+contractantă pe motiv că documentele de calificare nu au fost semnate
+cu semnătură electronică extinsă.
+Acesta susține că abordarea organizatoarei procedurii este abuzivă,
+iar motivul de respingere este nefondat întrucât, pe de-o parte, nu a fost
+solicitată nicio clarificare cu privire la acest aspect, iar pe de altă parte,
+documentele menționate în adresa de comunicare a rezultatului chiar au
+fost semnate cu semnătură electronică extinsă (sens în care redă extras
+din cuprinsul acestora).
+
+Certificatul digital calificat, emis de certSIGN, asigură „identitatea
+virtuală” a posesorului și permite crearea de semnătură electronică cu
+valoare legală (extinsă), permițând identificarea fără echivoc, în baza
+garantării integrității, autenticității și nerepudierii mesajelor și
+documentelor electronice, mai adaugă.
+De asemenea, explică și că există două posibilități de semnare:
+- în interiorul documentului, doar în cazul documentelor de tip PDF,
+semnătura fiind creată prin utilizarea opțiunii „Fill and Sign” din Adobe,
+fiind vizibilă în interiorul documentului;
+- semnarea documentelor de tip word, excel, etc. cu aplicația Click
+Sign, furnizată la achiziționarea kit-ului, care schimbă extensia
+documentelor în P7S.
+Astfel, afirmă că aplicarea semnăturilor electronice extinse se face
+fie înglobând semnătura direct în fișierul de tip .pdf, fiind vizibilă în
+interiorul documentului (această opțiune fiind specifică acestui tip de
+fișiere), fie încapsulând semnătura într-o arhivă de tipul .p7S sau .p7M
+(această opțiune putând fi utilizată pentru orice tip de fișiere). Indiferent
+de opțiunea aleasă, conchide petentul, semnătura electronică, aplicată
+prin una din cele două modalități, utilizează un certificat digital calificat
+emis de un furnizor de servicii de certificare acreditat, și reprezintă o
+semnătura electronică extinsă în sensul Legii nr. 455/2001.
+Totodată, mai menționează că aplicația Adobe Reader deține
+funcționalitatea de semnare a fișierelor de tipul .pdf, semnătura putând fi
+aplicată și verificată cu aceasta, iar pentru ca o semnătură electronică
+aplicată unui fișier în format .pdf prin intermediul aplicației Adobe Reader
+să aibă valoarea unei semnături electronice extinse, această semnătură
+trebuie să fie generată cu un certificat digital calificat, emis de un
+furnizor de servicii de certificare acreditat.
+Față de cele de mai sus, solicită Consiliului să rețină că un fișier
+căruia i s-a aplicat sau logic asociat o semnătură electronică, fiind utilizat
+un certificat digital calificat activ, emis de un furnizor de servicii de
+certificare acreditat, indiferent de aplicația utilizată de semnare sau de
+extensia fișierului care conține semnătura (.pdf sau .p7S ori .p7M),
+reprezintă un fișier care poartă o semnătura electronică extinsă.
+În susținere, face trimitere și la prevederile art. 4 pct. 4 și art. 5 din
+Legea nr. 455/2001, despre care declară au fost întocmai respectate, în
+sensul că, pentru a putea imprima semnătură în documentul de tip .pdf,
+a fost necesară instalarea unui certificat calificat eliberat de un furnizor
+de servicii de certificare acreditat și introducerea parolei. Certificatul,
+astfel cum reiese din documentele aferente dosarului achiziției publice și
+cum poate fi verificat de către AADR, este eliberat pentru o anumită
+persoană pe baza unor documente justificative solicitate conform legilor
+în vigoare, de către un furnizor de servicii de certificare acreditat,
+Pagina 3 din 23
+
+detaliază contestatorul. După introducerea parolei s-a imprimat numele
+deținătorului certificatului calificat (administratorul societății, dl.
+Coțofană Nicolae Gabriel), data și ora semnării în documentul de tip PDF,
+așa cum se poate observa din documentele ridicate în SEAP, arată
+acesta. 
+De asemenea, consideră important de precizat că fișierele de tip
+.pdf, semnate cu semnătură electronică extinsă, bazată pe un certificat
+calificat, permit identificarea oricărei modificări ulterioare. 
+
+Citând dispozițiile art. 6, art. 7 din Legea nr. 455/2001 și
+menționând și că art. 5-11 din cap. II al aceluiași act normativ recunosc
+condiția de probă și de validitate a unui act juridic, ca înscris în formă
+electronică, căruia „i s-a încorporat, atașat sau i s-a asociat logic o
+semnătură electronică extinsă, bazată pe un certificat calificat și
+generată prin intermediul unui dispozitiv securizat de creare a
+semnăturii”, conchide că semnătura electronică extinsă pe care a utilizat-
+o este creată pe baza unui certificat digital calificat emis de un furnizor
+acreditat de servicii de certificare și a unei aplicații specializate pe
+crearea semnăturii, având valoare legală și garantând datelor semnate
+autenticitatea, integritatea și nerepudierea.
+În consecință, solicită Consiliului să rețină ca întemeiate criticile
+sale, respectiv ca nelegală adresa de comunicare a rezultatului
+procedurii.
+Prin raportare la prevederile art. 13 alin. (3) din HG nr. 395/2016,
+punctează că, deși autoritatea contractantă poate respinge o ofertă
+pentru neconstituirea garanției de participare, totuși, legiuitorul permite
+acesteia ca, în cazul în care există neclarități cu privire la cuantumul și
+valabilitatea garanției de participare, să clarifice aceste aspecte într-o
+perioadă de 3 zile lucrătoare de la data-limită de depunere a ofertelor.
+Din cuprinsul adresei de comunicare a rezultatului și al raportului
+procedurii, susține petentul, nu reiese vreo motivare în fapt a deciziei
+autorității contractante de a-i declara inacceptabilă oferta,
+nespecificându-se în ce fel membrii comisiei de evaluare au ajuns, în
+unanimitate, la concluzia că documentele de calificare depuse nu sunt
+semnate cu semnătură electronică extinsă, bazată pe un certificat
+calificat, eliberat de un furnizor de servicii de certificare acreditat.
+Totodată, adaugă că nu s-au întreprins măsuri precum solicitarea de
+clarificări în acest sens sau adresarea către Agenția pentru Agenda
+Digitală a României în vederea edificării. 
+În drept, au fost invocate prevederile Legii nr. 101/2016, cele ale
+Legii nr. 98/2016, cele ale HG nr. 395/2016, precum și cele ale
+documentației de atribuire. 
+În probațiune, au fost atașate înscrisuri.
+Prin adresa nr. .../..., în temeiul art. 61
+1
+ alin. (1) lit. a) din Legea
+nr. 101/2016, Consiliul solicită ... SRL să transmită dovada constituirii
+cauțiunii aferente contestației formulate, în cuantumul legal prevăzut.
+Totodată, în temeiul art. 10 din lege, îi cere acestuia să transmită
+raportul procedurii, iar în conformitate cu art. 16 alin. (1), să facă
+dovada comunicării contestației și către autoritatea contractantă.
+Cu adresa nr. 247/13.06.2024, înregistrată la C.N.S.C. cu
+nr. .../..., contestatorul a transmis raportul procedurii, precum și dovada
+comunicării contestației către autoritatea contractantă.
+Pagina 5 din 23
+
+Prin punctul de vedere nr. 1140/13.06.2024, înregistrat la C.N.S.C.
+sub nr. .../..., ... solicită respingerea contestației ce face obiectul
+prezentei cauze, ca neîntemeiată și nelegală.
+Autoritatea contractantă precizează că nu contestă faptul că
+documentele de calificare depuse de contestator prin intermediul SEAP
+poartă semnătură electronică, dar că aceasta poate fi, conform legislației
+în vigoare, de trei tipuri: simplă, avansată și calificată, fiecare variantă
+asigurând niveluri diferite de securitate și recunoaștere pentru persoana
+ce o utilizează.
+
+Subliniind diferența dintre cele trei tipuri indicate, menționează
+următoarele:
+• semnătura electronică simplă (nivel scăzut de încredere) - datele
+de contact trecute în semnătura din e-mail, semnătura biometrică
+(făcută pe o tabletă). Cu acest tip de semnătură se pot semna e-mail-uri
+sau documente electronice cu un nivel scăzut de risc, cum ar fi recipisele
+sau chitanțele;
+• semnătura electronică avansată, ce necesită un certificat digital
+simplu (nivel mediu de încredere) - se pot semna e-mail-uri, documente
+electronice cu nivel mediu de risc (de exemplu, în interiorul firmei se pot
+semna cereri de concediu, deconturi sau formulare), documente
+însoțitoare (avize, devize sau procese-verbale). În mod obișnuit,
+semnătura avansată e folosită într-un context ce presupune și alte
+acțiuni care pot confirma existența actului de voință a pârților (de
+exemplu, semnarea unui contract de închiriere și plata aferentă);
+• semnătura electronică calificată, ce necesită un certificat digital
+calificat (nivel ridicat de încredere) - semnarea e-mail-urilor sau a
+documentelor cu nivel ridicat de risc, cum ar fi contractele de credit,
+contractele comerciale sau de prestări de servicii, contractele de muncă
+și actele adiționale la acestea, mandatele de reprezentare, contractele de
+mediere, facturile fiscale, documentele medicale (buletine de analiză, fișe
+de internare sau externare) sau documente în relația persoanelor fizice și
+a firmelor cu statul. 
+Ulterior citării prevederilor art. 60 alin. (3) din HG nr. 395/2016,
+despre a căror interpretare afirmă că trebuie făcută în sensul unei
+protejări superioare a informațiilor furnizate de către ofertant și
+asigurării totale a autorității contractante cu privire la conținutul asumat
+prin semnătură electronică, subliniază că:
+1. în condițiile semnării documentelor cu semnătură calificată în
+interiorul acestora, deschiderea documentelor se face în mod automat,
+fără a fi necesara „decriptarea” acestora, ca măsura de protecție a
+documentului asumat.
+2. în condițiile semnării documentelor în afara acestora, cu extensie
+de tip .p7s /.p7m, deschiderea documentelor se face prin accesarea
+cheilor de decriptare. 
+Detaliind, menționează că documentele P7S sunt fișiere digitale
+care conțin semnături electronice în conformitate cu standardele PKCS#7
+(Public Key Cryptography Standards #7). Aceste semnături electronice
+sunt utilizate pentru a atesta autenticitatea și integritatea unui document
+electronic. 
+Un document P7S, mai arată, este, de fapt, un document semnat
+electronic; semnătura digitală dintr-un fișier P7S este generată cu
+ajutorul unei chei criptografice, iar informațiile despre semnătură,
+Pagina 7 din 23
+
+inclusiv cheia publică a semnatarului, sunt incluse în fișierul P7S, pentru
+a permite verificarea ulterioară a semnăturii.
+Aceste tipuri de documente sunt utilizate în special în mediul
+electronic, pentru a oferi o formă de autentificare și protecție împotriva
+modificărilor nedorite ale documentelor digitale. Ele sunt des utilizate în
+tranzacțiile online, contracte electronice, SEAP și în alte contexte unde
+este importantă autenticitatea și integritatea informațiilor, adaugă
+organizatoarea procedurii.
+
+Fișierele P7S sunt, în esență, fișiere de semnătură digitală și nu pot
+fi deschise în mod direct ca documente obișnuite; ele sunt create pentru
+a atesta integritatea și autenticitatea unui alt fișier, de obicei un
+document electronic, și nu conțin date vizibile sau interpretabile în mod
+direct, mai explică.
+Autoritatea contractantă precizează că sensul introducerii
+semnăturii digitale extinse în modul de lucru al SEAP este dat tocmai de
+această caracteristică a faptului că documentele cărora li s-a aplicat
+extensia .p7s/.p7m nu mai pot fi modificate, nu pot fi corupte și nu pot fi
+accesate /vizualizate prin accesare simplă, întrucât documentele
+realizate prin intermediul mijloacelor moderne sunt ușor de modificat. De
+asemenea, mai oferă și certitudinea că nu s-au operat modificări asupra
+documentului, mai specifică.
+Apreciind că nu există o definire concretă a modului de semnare a
+documentelor care se încarcă în SEAP, sens în care face trimitere la
+prevederile art. 7
+1
+ alin. (2) din HG nr. 525/2007, la specificațiile SEAP
+referitoare la Deschiderea documentelor semnate electronic cu certificat
+digital/Certificat Digital (certificat-digital.ro), la rubrica „manual utilizare
+ofertant” din SEAP (care prezintă explicit faptul ca fișierele acceptate de
+ANAP și SEAP sunt purtătoare de extensie .p7s / .p7m), declară că va
+utiliza principiul „tratamentului egal” al achizițiilor publice și va aborda
+semnătură electronică extinsă ca și semnătură cu extensia .p7s /.p7m,
+din motive de securitate și din motive de abordare unitară, prin raportare
+la sistemul SEAP. De asemenea, susține că va avea în vedere
+îndrumările SEAP și ANAP în acest sens care, în astfel de situații, devin
+sistem de raportare. 
+Totodată, indică faptul că este unanim acceptată operarea prin
+SEAP a documentelor cu extensia .p7s/.p7m, sens în care adaugă că
+site-urile furnizorilor acreditați (cu extras de pe site-ul www.certsign.ro)
+prezintă în mod distinct „modalitatea de semnare a documentelor care
+se încarcă în SEAP și modalitatea de decriptare a documentelor încărcate
+în SEAP”.
+Organizatoarea procedurii semnalează că petentul cunoaște, a
+înțeles și a acceptat că, pentru ca oferta sa să fie validă, aceasta trebuie
+să poarte semnătură digitală extinsă cu extensia .p7s/.p7m, deoarece
+propunerea tehnică încărcata în SEAP - tot fișiere de tip .pdf – poartă
+această extensie.
+Obligația verificării documentelor încărcate în SEAP îi revenea
+contestatorului, în conformitate cu dispozițiile art. 125 din HG nr.
+395/2016, transmite autoritatea contractantă. 
+În combaterea afirmațiilor ... SRL, mai susține că, dacă i-ar fi
+solicitat clarificări acestuia, i-ar fi permis remedierea erorii și ar fi
+Pagina 9 din 23
+
+încălcat principiul tratamentului egal între ofertanți, prevăzut la art. 2
+alin. (2) din Legea nr. 98/2016.
+Reliefând obligația ofertanților de a încărca în SEAP oferta și
+documentele care o însoțesc, semnate cu semnătura electronică, sub
+sancțiunea respingerii acesteia ca inacceptabilă, autoritatea contractantă
+apreciază că o eventuală solicitare de clarificări ar goli de conținut
+prevederile art. 137 alin. (2) lit. j) din HG nr. 395/2016, iar acceptarea
+redepunerii documentelor cu semnătură electronică extinsă corectă ar
+echivala, practic, cu acceptarea redepunerii ofertei (situație nepermisă în
+
+considerarea prevederilor legale anterior citate, dar și a principiului
+tratamentului egal, anterior invocat). 
+Astfel, fără a contesta legalitatea semnăturii electronice în interiorul
+documentului, autoritatea contractantă, strict prin raportare la normele
+ANAP și SEAP, concluzionează că semnătură aplicată de contestator
+documentelor de calificare nu poate fi reținută ca fiind conformă cu
+cerințele platformelor și cu condițiile de securitate care trebuie atinse
+prin aplicarea extensiei, așa cum reiese în mod clar din toata practica
+incidentă.
+Pe de altă parte, declară că afirmațiile petentului ce insinuează că
+descalificarea ofertei sale s-a produs din cauza depunerii unei garanții
+necorespunzătoare (sau neconstituită) sunt nefondate. Motivul
+respingerii ofertei acestuia, ca inadmisibilă, a fost dat lipsa semnăturii
+electronice extinse, în forma unanim acceptată de ANAP și SEAP, pe
+documentele de calificare depuse, subliniază organizatoarea procedurii. 
+În concluzie, apreciază contestația ca fiind nemotivată în fapt și în
+drept, bazată pe argumente neîntemeiate și nelegale, motiv pentru care
+reia solicitarea de respingere a acesteia.
+De asemenea, declară că, în urma recepționării contestației, a
+suspendat procedura de atribuire.
+În drept, au fost invocate dispozițiile Legii nr. 101/2016.
+Dovada comunicării punctului de vedere către contestator a fost
+atașată.
+Cu adresa înregistrată la C.N.S.C. cu nr. .../..., ... a transmis, pe
+suport electronic, documente din componența dosarului achiziției.
+Prin nota internă încheiată la data de 10.07.2024, în temeiul art. 24
+alin. (2) din Legea nr. 101/2016, Consiliul a dispus prelungirea
+termenului de soluționare cu 10 zile. Această decizie a fost comunicată și
+autorității contractante prin adresa nr. .../....
+Cu adresa nr. 247/13.06.2024, înregistrată la C.N.S.C. cu
+nr. .../..., ... SRL transmite, în original, recipisa de consemnare nr. ... din
+12.06.2024, în valoare de 36.535,00 lei, emisă de CEC Bank – Sucursala
+....
+Analizând susținerile și documentele depuse la dosarul cauzei,
+CONSILIUL constată următoarele:
+..., în calitate de autoritate contractantă, a organizat procedura
+simplificată, derulată online, organizată în vederea atribuirii contractului
+având ca obiect „ÎNFIINȚARE PISTE DE BICICLETE, ...”, cod CPV
+45233162-2 – Lucrări de construcții de piste de biciclete (Rev. 2),
+elaborând, în acest sens, documentația de atribuire aferentă și publicând
+în SEAP, anunțul de participare simplificat nr. .../.... Conform acestui
+anunț, valoarea estimată a procedurii este de 1.826.712,06 lei, fără TVA,
+iar criteriul de atribuire utilizat este „Cel mai bun raport calitate-preț”, cu
+Pagina 11 din 23
+
+factorii de evaluare: Prețul ofertei – 85%; Durata de garanție de bună
+execuție acordată lucrării – 5%; Experiența deținută de personalul de
+specialitate – 10%.
+Analizând contestația formulată de ... SRL, Consiliul constată că
+autorul acesteia este nemulțumit de decizia autorității contractante de a
+respinge oferta sa depusă în cadrul procedurii, motivat de faptul că
+documentele de calificare nu au fost semnate cu semnătură electronică
+extinsă.
+
+Consiliul are în vedere faptul că, prin adresa nr. 1076/03.06.2024,
+autoritatea contractantă a comunicat contestatorului respingerea ofertei
+acestuia depusă în cadrul procedurii, motivând respingerea prin
+următoarele precizări:
+„/.../ Conform cerinței din fișa de date a achiziției Pentru transmiterea
+Ofertei în SEAP documentele care compun Oferta și DUAE vor fi semnate cu
+semnătură electronică extinsă, bazată pe un certificat calificat, eliberat de un
+furnizor de servicii de certificare acreditat în condițiile legii și încărcate în SEAP
+în secțiunile specifice disponibile în sistemul informatic, astfel documentele de
+calificare încărcate în SEAP de către ofertantul ... SRL nu prezintă semnătura
+electronică extinsă /.../ 
+În conformitate cu prevederile art. 60 alin. (4) din HG nr. 395/2016 –
+varianta actualizată din data de 19 aprilie 2023
+(4) Oferta va fi semnată cu semnătură electronică extinsă, bazată pe un
+certificat calificat, eliberat de un furnizor de servicii de certificare acreditat în
+condițiile legii și încărcată în SEAP în secțiunile specifice disponibile în sistemul
+informatic și numai de către operatorii economici înregistrați. 
+În aceste condiții cerința este neîndeplinită
+În conformitate cu art. 137 din HG 395/2016 /.../ alin. (2) oferta și
+documentele care o însoțesc nu sunt semnate cu semnătură electronică
+extinsă, bazată pe un certificat calificat, eliberat de un furnizor de servicii de
+certificare acreditat /.../”.
+În cadrul adresei anterior menționată a fost inclusă și o captură de
+ecran din SEAP, în care sunt vizibile denumirile a trei fișiere din cadrul
+secțiunii Documente de calificare a ofertei depusă de ... SRL, astfel:
+„[..._00045]formular 1.pdf”, „[..._00046]OP.pdf” și „[..._00047]POLITA
+DE ASIGURARE.pdf”.
+Consiliul a regăsit în instrucțiunile pentru ofertanți, publicate în
+SEAP în anexa anunțului de participare simplificat nr. .../..., sub
+identificatorul „[.../00002] FisaDate_DF1206975.pdf”, intitulate generic
+„fișa de date”, următoarele prevederi invocate de autoritatea
+contractantă în adresa de comunicare a respingerii ofertei
+contestatorului:
+„IV.4.3 Modul de prezentare al ofertei /.../ Pentru transmiterea Ofertei în
+SEAP documentele care compun Oferta și DUAE vor fi semnate cu semnătură
+electronică extinsă, bazată pe un certificat calificat, eliberat de un furnizor de
+servicii de certificare acreditat în condițiile legii și încărcate în SEAP în
+secțiunile specifice disponibile în sistemul informatic /.../”.
+Verificând modul de lucru al comisiei de evaluare a ofertelor,
+Consiliul constată că a fost întocmit procesul-verbal privind evaluarea
+garanției de participare, a informațiilor din DUAE și a documentelor care
+îl însoțesc, precum și îndeplinirea cerințelor de calificare, înregistrat la
+autoritatea contractantă sub nr. 751/11.04.2024, în care au fost
+consemnate informații similare celor din adresa nr. 1076/03.06.2024.
+Pagina 13 din 23
+
+Consiliul constată că, în cuprinsul fișierelor „[..._00045]formular
+1.pdf”, „[..._00046]OP.pdf” și „[..._00047]POLITA DE ASIGURARE.pdf”,
+încărcate de ... SRL în secțiunea Documente de calificare se regăsește
+aplicată o semnătură electronică, fiind precizat „Semnat digital de
+Coțofană Nicolae-Gabriel Data 2024.04.08 13:00:44+3’00’ /.../”. La
+efectuarea unui click pe aceasta semnătură se deschide o fereastră de
+validare a stării semnăturii, în care este precizat faptul că semnătura
+este validă, a fost aplicată de Coțofană Nicolae-Gabriel, documentul nu a
+
+fost modificat după semnarea acestuia și identitatea semnatarului este
+validă. 
+De asemenea, în cadrul ferestrei, la activarea butonului
+Proprietățile semnăturii, se deschide o nouă fereastră, în care este
+menționat că „This is a Qualified Electronis Signature according to EU
+Regulation 910/2014 /.../ The signer’s certificate is valid and has not
+been revoked” (traducerea Consiliului: Aceasta este o semnătură
+electronică calificată conform Regulamentului UE 910/2014 /.../
+Certificatul semnatarului este valid și nu a fost revocat).
+Informații similare apar și la activarea butonului Show Signer’s
+Certificate, fiind precizat că certificatul utilizat pentru semnare a fost
+emis de „DigiSign Qualified /.../”, fiind valid din anul 2023 până în anul
+2026.
+Prin punctul de vedere nr. 1140/13.06.2024, înregistrat la CNSC
+sub nr. .../..., autoritatea contractantă susține următoarele:
+«Contestatara susține faptul ca semnătură electronica pe care a aplicat-o
+documentelor depuse in secțiunea DUAE (in interiorul documentelor) este
+considerata semnătură electronica extinsa, in sensul dispozițiilor Legii
+455/2001 cu modificările si completările ulterioare si in sensul dispozițiilor si
+rigorilor Legii 98/2016 si HG 395/2016.
+De asemenea, Contestatara susține ca documentele de tip .pdf, fiind
+generate prin aplicația Adobe Reader, se semnează in interiorul documentului
+si ca, valoarea de „semnătură electronica extinsa” este data de generarea
+acesteia cu un certificat digital calificat emis de un furnizor de servicii de
+certificare acreditat.
+Contestatara susține faptul ca „semnătură electronica aplicata prin una
+din cele doua modalitati [in interiorul documentului sau ca extensie de tip
+p7s /p7m] utilizeaza un certificat digital calificat emis de un furnizor de servicii
+de certificare acreditat si reprezintă o semnătură electronica extinsa in sensul
+Legii nr. 455/2001 privind semnătură electronica.”
+Precizam faptul ca Autoritatea Contractanta nu contesta faptul ca
+documentele depuse de Contestatara la secțiunea DOCUMENTE CALIFICARE in
+SEAP poarta semnătură digitala. Cu toate acestea, asa cum stipuleaza si
+legislația incidenta si asa cum prezintă furnizorii acreditati de semnătură
+electronica, aceste semnaturi (legale) sunt de mai multe tipuri si acopera
+aspecte diferite. Mai mult, asa cum vom arata in cele ce urmeaza, SEAP
+accepta formele de tip .p7s / .p7m ca semnătură electronica extinsa.
+Există trei tipuri de semnături electronice, conform legislației în vigoare:
+semnătura simplă, semnătura avansată și semnătura calificată. In practică,
+acestea asigură niveluri diferite de securitate și recunoaștere pentru persoana
+care le folosește în relațiile sale cu alte persoane sau entități (firme sau
+instituții publice). Din acest motiv, cele trei tipuri de semnături electronice nu
+pot fi considerate egale și trebuie folosite în funcție de riscul asociat
+documentelor ce trebuie semnate.
+Pagina 15 din 23
+
+• semnătura electronică simplă (nivel scăzut de încredere): datele de
+contact trecute în semnătura din e-mail, semnătura biometrică (făcută pe o
+tabletă). Cu acest tip de semnătură se pot semna e-mail-uri sau documente
+electronice cu un nivel scăzut de risc. cum ar fi recipisele sau chitanțele;
+•semnătura electronică avansată, ce necesită un certificat digital
+simplu (nivel mediu de încredere): se pot semna e-mail-uri, documente
+electronice cu nivel mediu de risc (de exemplu, în interiorul firmei se pot
+semna cereri de concediu, deconturi sau formulare), documente însoțitoare
+(avize, devize sau procese-verbale). în mod obișnuit, semnătura avansată e
+
+folosită într-un context ce presupune și alte acțiuni care pot confirma existența
+actului de voință a părților (de exemplu, semnarea unui contract de închiriere
+și plata aferentă);
+•semnătura electronică calificată, ce necesită un certificat digital
+calificat (nivel ridicat de încredere): semnarea e-mail-urilor sau a
+documentelor cu nivel ridicat de risc, cum ar fi contractele de credit,
+contractele comerciale sau de prestări de servicii, contractele de muncă și
+actele adiționale la acestea, mandatele de reprezentare, contractele de
+mediere, facturile fiscale, documentele medicale (buletine de analiză, fișe de
+internare sau externare) sau documente în relația persoanelor fizice și a
+firmelor cu statul.
+Prevederile art. 60, alin. 3 din HG 395/2016 [(4) Oferta va fi semnată cu
+semnătură electronică extinsă, bazată pe un certificat calificat, eliberat de un
+furnizor de servicii de certificare acreditat în condițiile legii și încărcată în SEAP
+în secțiunile specifice disponibile în sistemul informatic și numai de către
+operatorii economici înregistrați.] vor fi interpretate, asa cum CNSC precizeaza
+in mod corect in multe spete, in spiritul legii - si anume, in sensul unei
+protejări superioare a informațiilor furnizate de către Ofertant si asigurarii
+totale a Autoritatii Contractante cu privire la continutul asumat prin semnătură
+electronica.
+Atragem atentia asupra unor aspecte de Securitate prin raportare la
+metodele de semnare a unor documente astfel:
+1.In condițiile semnării documentelor cu semnătură calificata in
+interiorul acestora, deschiderea documentelor se face in mod automat, fara a fi
+necesara "decriptarea" acestora - ca masura de protectie a documentului
+asumat.
+2.In condițiile semnării documentelor in afara acestora, cu extensie
+de tip .p7s / ,p7m, deschiderea documentelor se face prin accesarea cheilor de
+decriptare.
+Documentele P7S sunt fișiere digitale care conțin semnături electronice
+în conformitate cu standardele PKCS#7 (Public Key Cryptography Standards
+#7). Aceste semnături electronice sunt utilizate pentru a atesta autenticitatea
+și integritatea unui document electronic.
+Un document P7S este, de fapt, un document semnat electronic.
+Semnătura digitală dintr-un fișier P7S este generată cu ajutorul unei chei
+criptografice, iar informațiile despre semnătură, inclusiv cheia publică a
+semnatarului, sunt incluse în fișierul P7S pentru a permite verificarea
+ulterioară a semnăturii.
+Aceste tipuri de documente sunt utilizate în special în mediul electronic
+pentru a oferi o formă de autentificare și protecție împotriva modificărilor
+nedorite ale documentelor digitale. Ele sunt des utilizate în tranzacțiile online,
+contracte electronice. SEAP și în alte contexte unde este importantă
+autenticitatea și integritatea informațiilor.
+Programele de semnare electronică și de verificare a semnăturilor
+digitale pot fi utilizate pentru a manipula și verifica astfel de documente P7S.
+Fișierele P7S sunt, în esență, fișiere de semnătură digitală și nu
+pot fi deschise în mod direct ca documente obișnuite. Ele sunt create pentru a
+Pagina 17 din 23
+
+atesta integritatea și autenticitatea unui alt fișier, de obicei un document
+electronic, și nu conțin date vizibile sau interpretabile în mod direct.
+Sensul introducerii semnăturii digitale extinse in modul de lucru
+al SEAP este dat tocmai de aceasta caracteristica a faptului ca
+documentele carora li s-a aplicat extensia .p7s/.p7m nu mai pot fi
+modificate, nu pot fi corupte si nu pot fi accesate / vizualizate prin
+accesare simpla, întrucât documentele realizate prin intermediul
+mijloacelor moderne sunt ușor de modificat, aceasta mai oferă și
+certitudinea că nu s-au operat modificări asupra documentului.
+
+Neexistand o definire concreta a modului de semnare a documentelor
+care se incarca in SEAP (in acest sens vezi HG 525/30 mai 2007 privind
+organizarea si funcționarea Autoritatii Naționale pentru Reglementarea si
+Monitorizarea Achizițiilor Publice modificata si completata prin HG 801/2011,
+art. 7^1 , alin (2) "In sensul alin. (1), până la publicarea invitației/anunțului
+de participare operatorul S.E.A.P. are obligația de a asigura numai
+A.N.R.M.A.P. accesul imediat și nerestricționat la documentația de atribuire și
+notele justificative prevăzute de legislația în domeniul achizițiilor publice,
+încărcate integral de către autoritățile contractante și semnate cu semnătură
+electronică.” unde se specifica doar "semnătură electronica"; vezi SEAP:
+Deschiderea documentelor semnate electronic cu certificat digital/Certificat
+Digital (certificat-digital.ro) unde se specifica faptul ca Autoritatile contractante
+care opereaza pe SEAP au obligativitatea, potrivit HG 801/2011, sa semneze
+electronic si sa transmita documentația de atribuire catre ANRMAP spre
+verificare inainte de a lansa licitatia prin Sistemul Electronic de Achiziții Publice
+(SEAP).
+Potrivit aceleiași HG, documentația de atribuire trebuie semnata
+electronic folosind un certificat digital calificat emis de un furnizor acreditat de
+servicii de certificare.
+Dupa aplicarea semnăturii electronice, documentele astfel semnate
+primesc extensia .p7s sau .p7m la cea a documentului inițial. Astfel,
+documentul care rezulta are o extensie de forma .doc.p7s sau .doc
+p7m /.../”».
+Consiliul constată că nu sunt întemeiate susținerile autorității
+contractante din cadrul punctului de vedere, anterior reproduse, dat fiind
+faptul că cerința documentației de atribuire nu a fost ca documentele
+transmise de ofertanți să fie de tipul .p7s sau de tipul .p7m, ci ca
+acestea să fie semnate cu semnătură electronică extinsă, bazată pe un
+certificat calificat, eliberat de un furnizor de servicii de certificare
+acreditat în condițiile legii și încărcate în SEAP în secțiunile specifice
+disponibile în sistemul informatic, în acest sens fiind și dispozițiile legale
+invocate de autoritatea contractantă.
+Astfel, autoritatea contractantă nu a verificat, în realitate, dacă
+fișierele „[..._00045]formular 1.pdf”, „[..._00046]OP.pdf” și
+„[..._00047]POLITA DE ASIGURARE.pdf”, încărcate de ... SRL în
+secțiunea Documente de calificare, sunt semnate conform cerințelor
+documentației de atribuire și ale legislației incidente speței, ci dacă
+acestea sunt un tip particulare de fișiere semnate cu semnătură
+electronică extinsă și criptate, respectiv fișiere de tipul .p7s sau .p7m.
+Or, în condițiile în care Consiliul a identificat, în fișierele în discuție,
+o semnătură electronică bazată pe un certificat digital calificat, valabil
+până în anul 2026 și care nu a fost repudiat, care confirmă faptul că a
+fost aplicată de persoana nominalizată în semnătura electronică și
+identitatea acestei persoane, precum și faptul că documentul nu a fost
+modificat după semnarea acestuia, autoritatea contractantă, prin comisia
+Pagina 19 din 23
+
+de evaluare a ofertelor, trebuia, în cazul în care avea incertitudini cu
+privire la modul de semnare a documentelor în discuție, să procedeze la
+solicitarea de clarificări ofertantului în discuție. 
+Astfel, Consiliul constată că sunt incidente dispozițiile art. 134 alin.
+(1) din HG nr. 395/2016, care stipulează următoarele:
+„Art. 134. - (1) Comisia de evaluare are obligația de a stabili care sunt
+clarificările și completările formale sau de confirmare, necesare pentru
+evaluarea fiecărei solicitări de participare/oferte, precum şi perioada de timp
+acordată pentru transmiterea acestora, termenul-limită neputând fi stabilit
+
+decât la nivel de zile lucrătoare, fără a fi precizată o oră anume în cadrul
+acestuia”.
+De asemenea, Consiliul constată că autoritatea contractantă poate
+solicita consiliere de specialitate de la instituțiile cu atribuții în domeniu,
+inclusiv de la Autoritatea pentru Digitalizarea României, în calitate de
+operator al SEAP, inclusiv cu privire la tipul de semnătură electronică
+aplicată pe fișierele în discuție, sau, în cazul în care este necesară
+expertiză aprofundată într-un anumit domeniu, poate face aplicarea
+dispozițiilor art. 126 alin. (3) din HG nr. 395/2016, care stipulează
+următoarele:
+„Art. 126. – /.../ (3) În cazul în care evaluarea solicitărilor de
+participare/ofertelor necesită o expertiză aprofundată în domeniul achizițiilor
+publice ori de natură tehnică, financiară, juridică și/sau privind aspectele
+contractuale specifice, autoritatea contractantă poate desemna, pe lângă
+comisia de evaluare, specialiști externi numiți experți cooptați /.../”.
+Date fiind aceste constatări, Consiliul nu se poate substitui
+membrilor comisiei de evaluare, care au obligația îndeplinirii cu
+rigurozitate a atribuțiilor stabilite în sarcina lor prin legislația incidentă
+achizițiilor publice.
+Având în vedere aspectele de fapt și de drept mai sus evocate, în
+temeiul dispozițiilor art. 26 alin. (2) și (5) din Legea nr. 101/2016, cu
+modificările și completările ulterioare, Consiliul va admite contestația
+formulată de ... SRL, în contradictoriu cu autoritatea contractantă ..., sub
+aspectul necesității reevaluării ofertei depusă de ... SRL în cadrul
+procedurii de atribuire,
+va anula adresa de comunicare a rezultatului procedurii și actele
+subsecvente acesteia, respectiv referirile la oferta depusă de ... SRL în
+cadrul procedurii și la aplicarea criteriului de atribuire și 
+va obliga autoritatea contractantă ca, în termen de 10 zile de la
+primirea deciziei, să continue procedura de atribuire prin reevaluarea
+ofertei depusă de ... SRL în cadrul procedurii de atribuire, începând cu
+etapa de verificare a garanțiilor de participare, a informațiilor din DUAE
+și a documentelor care îl însoțesc, cu respectarea documentației de
+atribuire, a legislației incidente și a celor reținute în motivare.
+Pentru aceste motive
+în baza documentelor depuse de părți,
+CONSILIUL NAȚIONAL DE SOLUȚIONARE A CONTESTAȚIILOR
+DECIDE:
+ 
+Admite contestația formulată de ... SRL, în contradictoriu cu
+autoritatea contractantă ..., sub aspectul necesității reevaluării ofertei
+depusă de ... SRL în cadrul procedurii de atribuire,
+Pagina 21 din 23
+
+Anulează adresa de comunicare a rezultatului procedurii și actele
+subsecvente acesteia, respectiv referirile la oferta depusă de ... SRL în
+cadrul procedurii și la aplicarea criteriului de atribuire și 
+Obligă autoritatea contractantă ca, în termen de 10 zile de la
+primirea deciziei, să continue procedura de atribuire prin reevaluarea
+ofertei depusă de ... SRL în cadrul procedurii de atribuire, începând cu
+etapa de verificare a garanțiilor de participare, a informațiilor din DUAE
+și a documentelor care îl însoțesc, cu respectarea documentației de
+atribuire, a legislației incidente și a celor reținute în motivare.
+
+Obligatorie.
+Împotriva prezentei decizii se poate formula plângere în termen de
+10 zile de la comunicare.
+Complet de soluționare a contestațiilor 
+în domeniul achizițiilor publice:
+Consilier de soluționare
+... 
+PREȘEDINTE
+...
+Consilier de soluționare
+...
+Redactat practicaua deciziei
+ ...
+Redactată în 4 (patru) exemplare originale, conține ... (...) pagini.
+Pagina 23 din 23

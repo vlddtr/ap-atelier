@@ -1,0 +1,252 @@
+CURTEA DE APEL BUCUREȘTI
+
+Secția a X-a Contencios Administrativ și Fiscal și pentru Achiziții Publice
+
+Dosar nr. 7032/2/2023
+
+Termen: 05.03.2026
+
+
+
+
+
+
+
+dOAMNĂ PREȘEDINTE,
+
+
+
+
+
+
+
+[autoritate locală], cu sediul în [ADRESĂ]. 191, Sector 3, având cod de identificare fiscală 4420465, cont RO66TREZ70321300205XXXXX deschis la Trezoreria Sectorului 3, reprezentat legal prin Primarul Sectorului 3 București - dl [persoană] și reprezentat convențional de către SCA [PARTE], cu sediul în [ADRESĂ]. Părintele Galeriu nr. 9, sector 2, tel.: 021-315.21.45; 021-315.21.47, fax: 021-326.70.71, e-mail: [EMAIL], unde, în temeiul dispozițiilor art. 158 din Codul de Procedură Civilă, solicităm să dispuneți comunicarea tuturor actelor de procedură efectuate în prezenta cauză, persoana însărcinată cu primirea corespondenței fiind dna [persoană], în calitate de reclamant în prezenta cauză,
+
+
+
+În temeiul dispozițiilor art. 337, art. 338 și următoarele din Codul de Procedură Civilă, formulăm prezentele
+
+
+
+
+
+OBIECȚIUNI LA RAPORTUL DE EXPERTIZĂ TEHNICĂ 
+
+ÎN SPECIALITATEA CONSTRUCȚII
+
+
+
+
+
+întocmit de dna expert judiciar Drăgan Patriciia, depus la dosar la termenul din data de 22.01.2026, prin care vă rugăm să dispuneți:
+
+
+
+Refacerea raportului de expertiză în ceea ce privește Obiectivul nr. 4.
+
+Refacerea raportului de expertiză în ceea ce privește Obiectivul nr. 5.
+
+Completarea raportului de expertiză în ceea ce privește Obiectivul nr. 6, prin raportare la înscrisurile și documentele justificative de decontare care au fost puse la dispoziția expertizei, completate cu contractele subsecvente anexate prezentelor obiecțiuni.
+
+
+
+Pentru a dispune în sensul celor solicitate, vă rugăm să aveți în vedere următoarele considerente:
+
+
+
+1.	Refacerea răspunsului la Obiectivul nr. 4
+
+
+
+Obiectivul nr. 4: Să se stabilească prețul pentru schelă ofertat de către Asocierea cu lider [OPERATOR ECONOMIC] prin raportare la Norma C183 și Norma C007. 
+
+
+
+	Răspunsul doamnei expert [persoană]:
+
+
+
+”În norma C183, Asocierea cu lider [OPERATOR ECONOMIC] ofertează prețul pentru utilizarea schelei pentru 1 oră/mp de 0,34 lei/oră la care se aplică cheltuieli indirecte 10% și profit 5% rezultând 0,39 lei/oră. 
+
+În norma C007, Asocierea cu lider [OPERATOR ECONOMIC] ofertează prețul pentru realizarea a 1 mp de placare pereți fațadă cu termosistem polistiren 10 cm care include, pe langă placarea cu polistiren, și realizarea montării, demontării unui mp de schelă cu utilizarea acesteia pe timp de 1,8 ore. 
+
+Rezultă un consum de utilizare schelă de: 1 oră/mp + 1,8 ore/mp = 2,8 ore/mp 
+
+Prețul utilizării schelei este de 2,8 ore/mp x 0,39 lei/oră = 1,092 lei/oră/mp”.
+
+
+
+Obiecțiunile reclamantului:
+
+
+
+Calculul prețului ofertat de Asocierea cu lider [OPERATOR ECONOMIC] pentru schelă, în cadrul Normei C007, este eronat.
+
+Concluzia din cadrul Raportului de expertiză conform căreia ”Rezultă un consum de utilizare schelă de: 1 oră/mp + 1,8 ore/mp = 2,8 ore/mp”, este bazată pe însumarea valorilor din coloana ”Cantitate” din cadrul Formularului F3, pentru articolele CB47A1 și AUT1303. Însă acest demers nu se justifică, întrucât unitatea de măsură pentru articolul CB47A1 este MP, în timp ce unitatea de măsură pentru articolul AUT1303 este ORE.
+
+
+
+Această modalitate de calcul a condus la stabilirea eronată a prețului pentru schelă din Norma C007, respectiv ”Prețul utilizării schelei este de 2,8 ore/mp x 0,39 lei/oră = 1,092 lei/oră/mp”.
+
+Prin Obiectivul nr. 4 s-a solicitat să se stabilească prețul pentru schelă ofertat de Asocierea cu lider [OPERATOR ECONOMIC] în cadrul Normei C007, astfel încât trebuiau avute în vedere toate costurile cu schela din cadrul Formularului F3 aferent acestei norme.
+
+După cum a precizat și doamna expert [persoană] în cadrul răspunsului la Obiectivul nr. 2, Asocierea cu lider [OPERATOR ECONOMIC] a inclus schela și în rețeta pentru Norma C007 Placare pereți fațadă cu polistiren expandat de 10 cm prin articolele: CB47A1 și AUT1303 (conform Formularului F3).
+
+Din Formularul F3  rezultă că această categorie de lucrări include montare și demontare schelă metalică la prețul de 17,60 lei/mp (materiale + manoperă) pentru indicatorul de deviz CB47A1, la care se adaugă 1,8 ore/mp pentru schelă la prețul de 0,34 lei aferent utilajului, pentru indicatorul de deviz AUT1303 rezultând prețul de 0,61 lei/mp, în cadrul Normei C007 rezultând astfel un preț total cu schela de 17,94 lei /ore/mp. 
+
+După aplicarea coeficienților de 10% (cheltuieli indirecte) și 5% (profit) din cadrul Recapitulației aferente Normei C007, valoarea pentru schelă a Asocierii cu lider [OPERATOR ECONOMIC], din cadrul acestei norme de deviz (C007), este de 20.72 lei /ore/mp. 
+
+Având în vedere că valoarea de 20,72 lei aferentă schelei incluse în prețul de placare cu polistiren se raportează la 1,8 ore/mp, rezultă că pentru schela inclusă de Asocierea cu lider [OPERATOR ECONOMIC] în Norma C007, prețul pe oră este de 20,72 / 1,8 = 11,51 lei/oră/mp.
+
+Față de aceste considerente, vă solicităm să dispuneți refacerea răspunsului la Obiectivul nr. 4 în ceea ce privește stabilirea prețului pentru schelă ofertat de Asocierea cu lider [OPERATOR ECONOMIC] în cadrul Normei C007, prin luarea în considerare a tuturor costurilor aferente schelei din cuprinsul Normei C007,  astfel cum rezultă din formularele anexate cererii de chemare în judecată (Formularul F3 aferent Normei C007, Formularul C8, Recapitulație).
+
+
+
+2.	Refacerea răspunsului la Obiectivul nr. 5
+
+
+
+Obiectivul nr. 5: Să se stabilească dacă coeficientul mediu de 4,5 aplicat tuturor contractanților la decontarea schelei este unui rezonabil și corect raportat la durata de imobilizare a schelei. 
+
+
+
+Răspunsul doamnei expert [persoană]:
+
+
+
+”Din Tabelul – durata de imobilizare a schelei (Anexa 5 la cererea de chemare în judecată) rezultă o durată de imobilizare a schelei cuprinsă între 10 luni și 15 luni. 
+
+Durata de imobilizare a schelei trebuia să fie de 390 ore/mp = 2 luni 
+
+Coeficientul mediu de 4,5 este unul rezonabil. Acest coeficient, în opinia mea, se aplică doar pentru utilizarea schelei (AUT), nu și pentru montare/demontare, transport schelă (nu se montează/demontează și transportă schela la fiecare 2 luni)”.
+
+
+
+Obiecțiunile reclamantului:
+
+
+
+Mențiunile din cadrul Raportului de expertiză, conform cărora ”durata de imobilizare a schelei trebuia să fie de 390 ore/mp = 2 luni”, iar coeficientul mediu de 4,5 ”se aplică doar pentru utilizarea schelei (AUT), nu și pentru montare/demontare, transport schelă (nu se montează/demontează și transportă schela la fiecare 2 luni)”, sunt infirmate de modul în care au fost elaborate ofertele și de clauzele contractuale.
+
+Conform art. 7 din contractele subsecvente încheiate în temeiul Acordului - cadru nr. 14911/03.12.2015, termenul contractual de execuție era de 4 luni:
+
+”7. Executarea contractului
+
+7.1. Executarea contractului începe după predarea amplasamentului și emiterea ordinului de începere. 
+
+7.2. Termenul de execuție este de 4 luni/fiecare bloc în parte, calculat de la data prevăzută în ordinul de începere a lucrărilor. Ordinul de începere a lucrărilor va fi emis concomitent pentru toate blocurile ce fac obiectul prezentului contract.
+
+7.3. Termenul de execuție se va decala corespunzător cu numărul de zile calendaristice atunci când intervine orice fel de sistare comunicată de achizitor”.
+
+Din perspectiva ofertării, precizăm următoarele:
+
+i) Asocierea cu lider [OPERATOR ECONOMIC] a utilizat pentru compunerea Normei C183, în cadrul Formularului F3, indicatorul de deviz CB14A – Schelă metalică tubulară pentru lucrări pe suprafață verticală până la 30 m, care ia în calcul automat o imobilizare a schelei timp de 200 de ore (25 zile). 
+
+ii) Asocierea cu lider [OPERATOR ECONOMIC] a utilizat pentru compunerea Normei C 183 indicatorul de deviz CB47B1 - Montare și demontare schelă metalică tubulară pentru lucrări pentru suprafețe verticale h > 30 m, care ia în calcul automat tot o imobilizare a schelei timp de 200 de ore (25 de zile), diferența de codificare a normei de deviz fiind cauzată de ediții diferite ale Normelor indicatori de deviz. 
+
+Prin raportare la termenul contractual de execuție de 4 luni (o medie de 900 de ore), durata de imobilizare a schelei nu putea fi de 2 luni, cum s-a precizat în Raportul de expertiză. De altfel, nici nu rezultă din cuprinsul raportului ce documente au stat la baza concluziei conform căreia ”Durata de imobilizare a schelei trebuia să fie de 390 ore/mp = 2 luni”. 
+
+Având în vedere că prețurile ofertate de cele două Asocieri pentru Norma C183 reprezintă un tarif pentru o imobilizare a schelei timp de 200 de ore (25 de zile), iar termenul de execuție a lucrărilor a fost de 4 luni, mai mare decât zilele de imobilizare ofertate, aplicarea coeficientului mediu de 4,5 s-a impus pentru a reflecta durata contractuală de execuție a lucrărilor.
+
+Aprecierea doamnei expert conform căreia coeficientul mediu de 4,5 ”se aplică doar pentru utilizarea schelei (AUT), nu și pentru montare/demontare, transport schelă (nu se montează/demontează și transportă schela la fiecare 2 luni)” rezultă dintr-o analiză bazată pe descompunerea normei C183 Schelă tubulară, aspect care contravine modalității în care s-a realizat ofertarea (pentru norma închisă).
+
+Față de cele expuse, vă solicităm să dispuneți refacerea răspunsului la Obiectivul nr. 5 al raportului de expertiză, cu luarea în considerare a termenului contractual de execuție (4 luni) și a modalității în care s-a făcut ofertarea (preț unitar/ore, aferent unei imobilizări a schelei timp de 200 de ore, respectiv 25 de zile).
+
+3.	Completarea răspunsului la Obiectivul nr. 6
+
+
+
+Obiectivul nr. 6: Să se stabilească dacă decontările efectuate de către [autoritate locală] pentru Normele de deviz C243 și C183, în cadrul contractelor subsecvente ce au făcut obiectul controlului finalizat prin emiterea Procesului Verbal nr. 102391/27.07.2020, s-au realizat pe baza lucrărilor real executate în teren și a documentelor justificative, cu respectarea prevederilor Acordului - Cadru de lucrări nr. 14911/03.12.2015, ale contractelor subsecvente și ale ofertelor Asocierii cu lider [OPERATOR ECONOMIC] și Asocierii cu lider [OPERATOR ECONOMIC], anexă la Acordul - Cadru, respectiv: 
+
+i) să se stabilească dacă decontarea sumelor pentru lucrările aferente normei C243 Demontare, remontare aparate exterioare de climatizare s-a realizat pe baza prețurilor unitare prevăzute în ofertele anexă la Acordul - Cadru, cu respectarea documentației de atribuire a Acordului - Cadru și a clauzelor contractuale; 
+
+ii) să se stabilească dacă decontarea sumelor pentru utilizare schelă aferente normei C183 Schelă tubulară s-a realizat conform prețurilor unitare prevăzute în ofertele anexă la Acordul - Cadru și conform perioadei reale de imobilizare a schelei, cu respectarea documentației de atribuire a Acordului - Cadru și a clauzelor contractuale”.
+
+
+
+	Răspunsul doamnei expert [persoană]:
+
+
+
+”La dispoziția expertizei nu au fost puse toate contractele subsecvente, toate decontările, toate documentele justificative și toate atașamentele pentru a putea face o analiză a acestora.
+
+Din înscrisurile aflate la dosar reiese că, pentru acestea, este respectat prețul unitar din Acordul – Cadru pentru normele C183 și C243”.
+
+
+
+Obiecțiunile reclamantului:
+
+
+
+La dispoziția expertizei au fost puse, în format electronic (pe stick), înscrisurile din dosarul cauzei, împreună cu toate documentele justificative privind decontările efectuate în baza contractelor subsecvente încheiate în temeiul Acordului - cadru nr. 14911/03.12.2015, aferente Contractelor de finanțare enumerate în Procesul - Verbal nr. 102391/27.07.2020.
+
+Procesul - Verbal de constatare a neregulilor și de stabilire a creanțelor bugetare nr. 102391/27.07.2020 a fost emis cu privire la următoarele contracte de finanțare:
+
+”1. nr. 1899/20.04.2018 - „Creșterea eficientei energetice a blocurilor de locuințe din Sectorul 3 - FE 56”, cod SMIS 116926
+
+2. nr. 1972/20.04.2018 - „Creșterea eficientei energetice a blocurilor de locuințe din Sectorul 3 - FE 66”, cod SMIS 117113
+
+3. nr. 1720/28.03.2018 - „Creșterea eficientei energetice a blocurilor de locuințe din Sectorul 3 - FE 57”, cod SMIS 117057
+
+4. nr. 1901/20.04.2018 - „Creșterea eficientei energetice a blocurilor de locuințe din Sectorul 3 - FE 59”, cod SMIS 117061
+
+5. nr. 1889/20.04.2018, /„Creșterea eficienței energetice a blocurilor de locuințe din Sectorul 3 - FE 55 ”, cod SMIS 116921	
+
+6. nr. 1894/20.04.2018 „Creșterea eficientei energetice a blocurilor de locuințe din Sectorul 3 - FE 60”, cod SMIS 117062”.
+
+
+
+În cadrul documentelor puse la dispoziție de reclamant se regăsește folderul ”Situații de lucrări”, cu subfolderele FE 55, FE 59, FE 60, FE 66, FE 56 și FE 57, ce conțin documentele justificative de decontare aferente fiecărui contract de finanțare menționat, pentru fiecare obiectiv (bloc) în parte (ex. în cadrul FE 50 - obiectivul ”[ADRESĂ]”), astfel cum au fost indicate în cuprinsul Procesul - Verbal nr. 102391/27.07.2020 (ex. FE 55 - ”Componenta 2, bl. M50, sc. 1,2,3 Strada Alexandru Vlahuță nr. 2”).
+
+În cadrul fiecărui subfolder FE, se regăsește câte un subfolder pentru fiecare obiectiv (bloc), ce cuprinde următoarele documente justificative:
+
+devizele ofertă;
+
+centralizatoarele financiare și atașamentele aferente situațiilor de lucrări;
+
+dispoziții de șantier;
+
+note de constatare;
+
+facturi și OP-uri.
+
+
+
+Prin urmare, la dispoziția expertizei au fost puse la dispoziție integral documentele care au stat la baza decontărilor efectuate pentru Normele C183 și C234, acestea vizând toate obiectivele (blocurile) aferente contractelor de finanțare indicate în Procesul - Verbal nr. 102391/27.07.2020 și contractelor subsecvente Acordului - cadru nr. 14911/03.12.2015 ce corespund acestor contracte de finanțare.
+
+De asemenea, au fost puse la dispoziția expertizei înscrisurile depuse la dosar în format electronic de către pârâtul MIPE, care au stat la baza emiterii Procesului Verbal nr. 102391/27.07.2020.
+
+Astfel, față de mențiunea din Raportul de expertiză conform căreia ”La dispoziția expertizei nu au fost puse toate contractele subsecvente, toate decontările, toate documentele justificative și toate atașamentele pentru a putea face o analiză a acestora”, precizăm că singurele documente incomplete, dintre cele enumerate, sunt contractele subsecvente aferente contractelor de finanțare, în documentele transmise regăsindu-se Contractul subsecvent nr. 13077/11.11.2016 și Contractul subsecvent nr. 13078/11.11.2016, împreună cu actele adiționale aferente.
+
+Precizăm că prin raportare la Obiectivul nr. 6 la care trebuia să se răspundă prin raportul de expertiză, în contractele subsecvente nu se regăsesc informații suplimentare față de cele ce rezultă din înscrisurile de la dosar și documentele justificative de decontare deja prezentate, clauzele contractuale fiind similare.
+
+În măsura în care doamna expert a apreciat că pentru a se răspunde în mod complet la Obiectivul nr. 6 al Raportului de expertiză sunt necesare toate contractele subsecvente aferente contractelor de finanțare menționate, anexăm prezentelor obiecțiuni Contractele subsecvente de lucrări nr. 14360/16.12.2016, nr. 13076/11.11.2016, nr. 10710/09.09.2016, nr. 11080/19.09.2016 și nr. 13075/11.11.2016, împreună cu actele adiționale aferente.
+
+În consecință, vă solicităm să dispuneți completarea răspunsului la Obiectivul nr. 6, prin raportare la înscrisurile și documentele justificative de decontare care au fost puse la dispoziția expertizei, completate cu contractele subsecvente anexate prezentelor obiecțiuni.
+
+Depunem prezentele obiecțiuni în trei exemplare, unul pentru uzul instanței și două pentru comunicare.
+
+
+
+Anexăm prezentelor obiecțiuni următoarele documente, în format electronic:
+
+- Documentele care au fost puse la dispoziția expertizei (folderele Doc Sector 3 - expertiza constructii Dosar nr. 7032 2 2023 și Doc CD MIPE - Dosar 7032 2 2023).
+
+- Contractele subsecvente de lucrări nr. 14360/16.12.2016, nr. 13076/11.11.2016, nr. 10710/09.09.2016, nr. 11080/19.09.2016 și nr. 13075/11.11.2016, împreună cu actele adiționale aferente.
+
+
+
+
+
+Cu considerație,
+
+[autoritate locală]
+
+prin SCA [PARTE] 
+
+________________________
+
+
+
+
+

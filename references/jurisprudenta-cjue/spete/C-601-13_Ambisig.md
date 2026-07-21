@@ -1,0 +1,17 @@
+# C-601/13 — Ambisig
+
+- Instanță: CJUE (Camera a cincea)
+- Data: 2015-03-26
+- ECLI: ECLI:EU:C:2015:204
+- Părți: Ambisig – Ambiente e Sistemas de Informação Geográfica SA împotriva Nersant – Associação Empresarial da Região de Santarém și Núcleo Inicial – Formação e Consultoria Lda; cerere de decizie preliminară formulată de Supremo Tribunal Administrativo (Curtea Administrativă Supremă, Portugalia)
+- Temă: criterii de atribuire; oferta cea mai avantajoasă din punct de vedere economic (MEAT); calitatea echipei tehnice (experiență, competențe, CV-uri) ca factor de evaluare pentru servicii intelectuale; legătura cu obiectul contractului
+- Cadru juridic: Directiva 2004/18/CE — art. 53(1)(a) (criterii de atribuire referitoare la obiectul contractului, în vederea identificării ofertei celei mai avantajoase economic), citit în lumina art. 44-48.
+- Întrebarea preliminară (sinteză): Pentru contracte de achiziții publice de prestări de servicii cu caracter intelectual, de formare și de consultanță, art. 53(1)(a) din Directiva 2004/18 permite ca autoritatea contractantă să stabilească un criteriu de ATRIBUIRE care să permită evaluarea echipelor concret propuse de ofertanți pentru executarea contractului, ținând seama de componența echipei, de experiența și de analiza curriculumului (CV-urilor) membrilor săi?
+- Soluția (ratio): Art. 53(1)(a) din Directiva 2004/18 NU se opune ca, pentru atribuirea unui contract de prestare de servicii cu caracter intelectual, autoritatea contractantă să stabilească un criteriu de atribuire care permite evaluarea calității echipelor concret propuse pentru executarea contractului, ținând seama de componența echipei, de experiența și de CV-urile membrilor. Aceasta deoarece, pentru anumite contracte ce presupun servicii intelectuale (formare, consultanță), calitatea executării depinde în mod determinant de valoarea profesională a persoanelor însărcinate cu execuția; o astfel de calitate este o caracteristică INTRINSECĂ a ofertei și este legată de obiectul contractului. (Această soluție constituie o nuanțare/excepție explicită la principiul Lianakis, fiind ulterior codificată în art. 67(2)(b) al Directivei 2014/24/UE.)
+- Text-cheie verbatim:
+  - „[...] calitatea executării unui contract de achiziții publice poate depinde în mod determinant de valoarea profesională a persoanelor însărcinate să îl execute, valoare care este constituită din experiența lor profesională și din formarea lor.”
+  - „Această calitate poate fi o caracteristică intrinsecă a ofertei și poate fi legată de obiectul contractului, în sensul articolului 53 alineatul (1) litera (a) din Directiva 2004/18.”
+  - „[...] calitatea menționată poate figura drept criteriu de atribuire în anunțul de participare sau în caietul de sarcini respectiv.”
+- Relevanță achiziții RO: Temei pentru factorii de evaluare privind organizarea, calificarea și experiența echipei/personalului propus pentru execuție din art. 187 alin. (3) lit. c) L. 98/2016 (calitatea/experiența personalului desemnat, când nivelul acestuia poate afecta în mod semnificativ nivelul de executare). Distinge net de Lianakis: pentru servicii intelectuale, experiența echipei concrete de execuție POATE fi factor de evaluare (nu doar criteriu de calificare), fiind o caracteristică a ofertei legată de obiectul contractului. Util în contestații CNSC pentru a justifica/contesta factori de evaluare bazați pe personal.
+- Sursă oficială: https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62013CJ0601
+- Status: VERIFICAT

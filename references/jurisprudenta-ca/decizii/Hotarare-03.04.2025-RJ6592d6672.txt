@@ -1,0 +1,834 @@
+Decizie nr. RJ 6592d6672/2025 din 03-apr-2025, Curtea de Apel Bucuresti, litigiu privind achizitiile publice (Contencios administrativ si fiscal)
+
+Decizie
+
+din 3 Aprilie 2025 
+
+65926672/2025
+
+Text speță
+
+Societate comercială vs Minister, Societate comercială
+
+ECLI:RO:CABUC:2025:197.######
+
+#######
+
+CURTEA DE APEL BUCUREȘTI
+
+SECȚIA A X-A DE C_________ ADMINISTRATIV ȘI FISCAL ȘI PENTRU ACHIZIȚII PUBLICE
+
+Dosar nr. ####/2/2024
+
+DECIZIA CIVILĂ NR. ###/R/2025
+
+Ședința publică din data de 03.04.2025
+
+Curtea constituită din:
+
+PREȘEDINTE: ######### ####
+
+JUDECĂTOR: ###### ###
+
+JUDECĂTOR: ###### ####
+
+GREFIER: ######## #######
+
+Pe rol se află soluționarea litigiului privind achizițiile publice, având ca obiect plângerea împotriva Deciziei C.N.S.C. nr. 3183/C7/3581 din 08.11.2024, formulată de către petenta S.C. ########### ######### ############# S.R.L. în contradictoriu cu intimații MINISTERUL APĂRĂRII NAȚIONALE - UNITATEA MILITARĂ _____ BUCUREȘTI și S.C. #### #### ######### S.R.L.
+
+Dezbaterile asupra cererii au avut loc în ședința publică din data de 28.03.2025, fiind consemnate în încheierea de ședință de la acea dată, care face parte integrantă din prezenta, când instanța, având nevoie de timp pentru a delibera, a amânat pronunțarea pentru 02.04.2025 și 03.04.2025, dată la care a adoptat această hotărâre:
+
+CURTEA,
+
+Deliberând asupra cauzei de față, constată următoarele:
+
+I. Procedura în fața Consiliului Național de Soluționare a Contestațiilor
+
+Prin Decizia Consiliului Național de Soluționare a Contestațiilor nr. 3183/C7/3581 din 08.11.2024 s-au respins, ca nefondate, excepția lipsei de interes a contestatoarei și excepția tardivității contestației, invocate de autoritatea contractantă, respingându-se, ca nefondată, contestația formulată de ########### ######### ############# S.R.L. în contradictoriu cu Ministerul Apărării - Unitatea Militară _____ București, în calitate de autoritate contractantă.
+
+Totodată, s-a respins ca rămasă fără obiect solicitarea ########### ######### ############# S.R.L., datată 06.11.2024, de suspendare a soluționării contestației până la soluționarea cererii de recuzare a completului 7 formulată prin adresa nr. _____/06.11.2024.
+
+În același timp, s-a admis cererea de intervenție formulată de #### #### ######### S.R.L.
+
+II. Plângerea contestatoarei
+
+Prin cererea înregistrată pe rolul Curții de Apel București – Secția a X-a de C_________ Administrativ și Fiscal și pentru Achiziții Publice în data de 27.02.2025, sub nr. ####/2/2024, petenta [OPERATOR ECONOMIC], în contradictoriu cu intimații Ministerul Apărării Naționale - Unitatea Militară _____ București și S.C. #### #### ######### S.R.L., a formulat plângere împotriva Deciziei C.N.S.C. nr. 3183/C7/3581 din 08.11.2024, solicitând instanței ca, prin hotărârea ce o va pronunța, să dispună:
+
+[1] Prealabil, acordarea accesului Transcarpat la dosarul achiziției în forma sa integrală aflată la C.N.S.C., cu deconfidențializarea tuturor documentelor indicate cu titlu de experiență similară la pag. 90-121 din documentele de calificare aferente candidaturii Cess-Nitro, întrucât limitarea accesului s-a realizat cu încălcarea dreptului la apărare și a principiului contradictorialității;
+
+[2] Anularea în tot a deciziei C.N.S.C., cu consecința admiterii contestației formulate, dispunând după cum urmează:
+
+(i) În principal, obligarea autorității contractante la adoptarea măsurilor de remediere solicitate prin contestație, respectiv:
+
+- anularea adresei de comunicare a rezultatului etapei I de calificare și selecție și a invitației de participare la etapa a II-a de ofertare adresate candidatului nelegal selectat, anularea în parte a raportului intermediar al procedurii și a tuturor actelor subsecvente strict pentru partea corespunzătoare calificării, selectării și invitării la ofertă a candidatului nelegal selectat;
+
+- reevaluarea candidaturii depuse de către candidatul nelegal selectat, prin aplicarea strictă a prevederilor documentației de atribuire și, în consecință, emiterea unui nou raport intermediar al procedurii aferent etapei I pentru partea corespunzătoare calificării, selectării și invitării cu ofertă a candidatului nelegal selectat, în care să fie înscrise în mod obiectiv modalitățile de îndeplinire a cerințelor de calificare și selecție, cu consecința constatării și respingerii candidaturii depuse de către candidatul nelegal selectat ca neîndeplinind criteriile de calificare și selecție, așa cum au fost prevăzute în documentația de atribuire;
+
+- continuarea procedurii cu singura candidatură care îndeplinește criteriile de calificare și selecție, cea a petentei;
+
+(ii) În subsidiar, anularea procedurii în cazul în care nu se mai pot adopta măsurile de remediere sau dacă sunt încălcate scopul și principiile fundamentale ale achizițiilor publice;
+
+(iii) Suspendarea procedurii și/sau suspendarea executării contractului și suspendarea aplicării oricărei decizii adoptate de autoritatea contractantă până la soluționarea definitivă a fondului cauzei;
+
+[3] Obligarea intimaților la plata cheltuielilor de judecată ocazionate de prezentul demers litigios.
+
+În motivare, petenta a susținut, în esență, că decizia C.N.S.C. este netemeinică și nelegală, fiind emisă cu nesocotirea dispozițiilor Legii nr. 101/2016, a cerințelor impuse prin documentația de atribuire și a legislației speciale care guvernează regimul activităților cu muniție militară. Modalitatea în care Consiliul a instrumentat dosarul denotă o lipsă completă de echidistanță și o dorință acerbă de a trece peste vădita neîndeplinire a criteriilor de calificare și selecție de către candidatura Cess-Nitro (impunerea unor termene de 24 de ore pentru formularea punctului de vedere cu privire la excepția tardivității, respingerea pe bandă rulantă a tuturor cererilor formulate de Transcarpat, respingerea cererii de suspendare a procedurii de atribuire fără ca în prealabil să fie citit și înțeles petitul contestației).
+
+Dispozițiile art. 15 alin. (1) din Legea nr. 101/2016 impun derularea procedurii de soluționare a contestațiilor cu respectarea, printre altele, a principiilor legalității și imparțialității. Aceasta înseamnă, deopotrivă, că C.N.S.C. trebuie să încadreze soluția pronunțată în limitele legii și că activitatea sa în asigurarea supremației legii trebuie să fie activă și, când sesizează o nelegalitate, să nu o ignore, ci să reacționeze și să o sancționeze așa cum impune legea, documentația de atribuire aferentă procedurii respective și practica Curții de Justiție a Uniunii Europene (C.J.U.E.) aplicabilă.
+
+În cauză, decizia atacată nu respectă aceste rigori, întrucât Consiliul a soluționat cauza cu vădită părtinire și lipsă de echidistanță. Consiliul nu a motivat decizia pronunțată, raționamentul fiind unul sumar, superficial, expeditiv. Consiliul și-a depășit atribuțiile administrativ-jurisdicționale, subrogându-se, practic, în rolul și atribuțiile UM _____ - obligativitatea evaluării temeinice a candidaturilor depuse e o atribuție exclusiv în sarcina autorității contractante, care nu poate fi preluată de C.N.S.C. Consiliul a soluționat cauza cu încălcarea cerințelor din documentația de atribuire, legislației speciale care reglementează regimul activităților cu muniție militară, aplicabile în mod direct în cazul unei achiziții care implică o componentă de vânzare produse militare.
+
+În opinia petentei, C.N.S.C. a soluționat cauza cu vădită lipsă de echidistanță și părtinire.
+
+În acest sens, prin Adresa nr. ###########C7/23.10.2024, Consiliul i-a pus în vedere să transmită, în termen de 24 de ore de la primirea adresei, punctul său de vedere cu privire la excepția tardivității contestației invocată de autoritatea contractantă prin Completarea nr. _____/21.10.2024 înregistrat la C.N.S.C. sub nr. _____/22.10.2024. Adresa i-a fost comunicată pe e-mail la 24.10.2024, ora 10:02 AM. Practic, raportându-ne la programul de lucru al C.N.S.C., care este între orele 09:00-15:00 pentru depunerea contestațiilor, petenta a "beneficiat" de un termen de răspuns de mai puțin de 6 ore la o excepție peremptorie și absolută, care ar fi împiedicat orice analiză a fondului cauzei.
+
+La polul opus, Consiliul a permis autorității contractante să transmită Completarea nr. _____/21.10.2024 la punctul de vedere emis inițial, peste termenul legal de 5 zile prevăzut la art.18 alin. (1) din Legea nr. 101/2016. Nicăieri nu a fost probată intervenirea unui element de noutate, astfel încât să se fi putut argumenta că autoritatea contractantă ar fi fost în imposibilitatea de a formula aceste excepții odată cu punctul de vedere transmis inițial.
+
+Prin contestație, petenta a solicitat Consiliului să dispună inclusiv suspendarea procedurii de atribuire până la soluționare. Prin Încheierea nr. ####/C7/3581/21.10.2024 pronunțată de Consiliu cu privire la cererea de suspendare a procedurii, Consiliul a respins cererea, bazat pe motive complet străine de obiectul contestației. A remarcat cu această ocazie faptul că nu a fost depus minimul efort de a fi analizat măcar capetele de cerere din contestație, înainte de a fi respins cererea de suspendare. Prin această încheiere, Consiliul a reținut că obiectul contestației ar fi fost "rezultatul procedurii și etapa a II-a de evaluare a candidaturilor, corespunzătoare procedurii de licitație restrânsă". Or, contestația a fost formulată împotriva rezultatului etapei I de evaluare a candidaturilor, și nu împotriva "rezultatului procedurii" (care implică finalizarea evaluării ofertelor și stabilirea ofertei declarate câștigătoare), și nici împotriva "etapei a II-a de evaluare a candidaturilor" (terminologie folosită cu nesocotirea legii, întrucât etapa a II-a implică evaluarea ofertelor depuse de candidații selectați, nu evaluarea candidaturilor). Astfel de sincope ale C.N.S.C. și de omisiuni intenționate nu au putut fi trecute cu vederea, motiv pentru care Transcarpat a formulat plângere împotriva acestei încheieri, fiind înregistrate pe rolul CA București sub nr. dosar ####/2/2024, având termen de judecată la 29.11.2024.
+
+Urmare a formulării plângerii, prin Încheierea nr. ####/C7/3581/31.10.2024, Consiliul, din oficiu, dispune îndreptarea unei pretinse erori materiale strecurate în cuprinsul Încheierii nr. ####/C7/3581/21.10.2024, deși doar părțile pot solicita îndreptarea și chestiunile nu reprezentau erori materiale. #### evidentă îndreptarea unei veritabile greșeli de soluționare. Or, dispozițiile art. 28 din Legea nr. 101/2016 sunt clare și stabilesc expres că doar părțile pot solicita Consiliului îndreptarea, lămurirea sau completarea hotărârii. Conduita C.N.S.C. de a trece peste cadrul legal aplicabil și a dispune din oficiu cu privire la o pretinsă eroare materială nu a făcut altceva decât să confirme bănuiala legitimă a Transcarpat: Consiliul a fost complet dezinteresat să analizeze și să înțeleagă criticile Transcarpat, iar odată ce acest dezinteres a fost deconspirat, Consiliul a utilizat subterfugii nelegale pentru a crea o falsă aparență a unei judecăți imparțiale, echidistante, în spiritul legii. Dincolo de orice, toate aceste elemente reprezintă veritabile greșeli de judecată, care se traduc în motive de netemeinicie și nelegalitate a încheierii de respingere a cererii de suspendare pronunțate de C.N.S.C. Aceste mențiuni nu se circumscriu noțiunii de eroare materială în sensul art. 28 din Legea nr. 101/2016, ci vor fi analizate de instanța de control judiciar învestite cu soluționarea plângerii înregistrate sub nr. ####/2/2024.
+
+Componența Completului 7 s-a modificat de la o zi la alta, fără să existe la dosarul cauzei proba unor motive temeinice, cu încălcarea principiului continuității instanței de judecată:
+
+- Prin Răspunsul nr. ###########C7/18.10.2024 existent la dosarul cauzei, Consiliul i-a comunicat componența completului 7: ##### ########## (P_________), ######-##### ####### și ###-######### ####;
+
+- Prin Încheierea nr. ####/C7/3581/21.10.2024, Consiliul a respins cererea Transcarpat de suspendare a procedurii de atribuire până la soluționarea contestației, Completul 7 având următoarea componență: ##### ########## (P_________), ######-##### #######, #####-###### ######;
+
+- Prin Încheierea nr. ####/C7/3581/31.10.2024, din oficiu, Consiliul a dispus îndreptarea unei pretinse erori materiale din cuprinsul Încheierii nr. ####/C7/3581/21.10.2024, Completul 7 având următoarea componență: ##### loanițescu (P_________), ######-##### #######, #####-###### ######;
+
+- Prin Încheierea nr. ####/C7/3581/31.10.2024, Consiliul a respins și cea de-a doua cerere de suspendare a procedurii de atribuire formulată de Transcarpat, Completul 7 având de data aceasta următoarea componență: ##### ########## (P_________), ######-##### ####### și ###- ######### ####.
+
+Transcarpat a formulat două cereri de recuzare a membrilor Completului 7, argumentul cert fiind acela că majoritatea contestațiilor formulate de Transcarpat, prin care a arătat inadmisibilitatea ofertei/candidaturii #### #### ######### S.R.L., au fost repartizate chiar Completului 7, soluția fiind, cu regularitate, respingerea contestațiilor pe excepții sau fond. Era evident că acest complet are deja o părere formată cu privire la criticile Transcarpat, iar maniera în care au instrumentat și prezentul dosar denotă o opinie deja consolidată, nemaiobosindu-se nimeni să analizeze real noile critici formulate prin prezenta contestație.
+
+Toate aspectele de fapt enumerate supra, coroborate cu termenele extrem de scurte "oferite" Transcarpat pentru a-și exprima poziția procesuală (un termen faptic de doar 6 ore pentru a răspunde la excepția tardivității contestației) denotă caracterul nelegal al deciziei C.N.S.C., aceasta fiind pronunțată cu încălcarea, sistematică, a principiului contradictorialității, respectării dreptului la apărare, egalității de arme și continuității instanței de judecată.
+
+De asemenea, potrivit petentei, decizia C.N.S.C. este nemotivată.
+
+Pentru ca rolul Consiliului să poată fi îndeplinit în conformitate cu atribuțiile sale, acesta ar fi trebuit ca, în lumina aspectelor reliefate în contestație, să analizeze, în primul rând, dacă autoritatea contractantă a analizat în mod efectiv candidatura Cess-Nitro și, mai apoi, dacă a respectat legislația specială aplicabilă direct și propriile cerințe stabilite prin documentația de atribuire.
+
+În prezenta cauză, în mod evident a fost însușită poziția UM _____, cu o analiză a criticilor Transcarpat sumară, selectivă, lipsită de imparțialitate și echidistanță. Această abordare nu poate fi permisă, pentru că invalidează rolul dat de legiuitor Consiliului și denotă un subiectivism nepermis.
+
+Din această perspectivă, petenta a înțeles să indice, punctual, doar câteva critici pe care Consiliului nici măcar nu le-a analizat prin decizia atacată, ignorându-le pur și simplu în mod voit, cu toate că un singur motiv de inadmisibilitate ar fi fost suficient pentru respingerea candidaturii Cess-Nitro.
+
+Primul lucru pe care Consiliul ar fi trebuit să îl constate este acela că autoritatea contractantă nu a evaluat, în mod concret și temeinic, conținutul documentelor depuse de candidatul Cess-Nitro, dar evident că nu s-a întâmplat acest lucru. Consiliul nu numai că nu a sancționat conduita UM _____ rezumată doar la activități de inventariere, nu și de evaluare, dar s-a substituit practic în rolul UM _____, depășindu-și propriile atribuții.
+
+Consiliul nu a analizat dacă subcontractantul Nitro are în obiectul de activitate (conform certificatului constatator O.N.R.C.) toate activitățile care sunt menționate și în acordul de subcontractare. Practic, acordul de subcontractare arată care sunt activitățile pe care Nitro le va presta pe parcursul executării contractului de achiziție publică, în situația în care oferta va fi declarată câștigătoare. Primul lucru care trebuia să fie verificat de către UM _____ era acela că Nitro are autorizate și menționate în obiectul de activitate coduri CAEN pentru fiecare dintre activitățile trecute și în acordul de subcontractare.
+
+Consiliul nu a analizat dacă subcontractantul Nitro are capacitatea legală de a efectua activitățile trecute în acordul de subcontractare. Transcarpat a formulat critici prin care a arătat că unele activități nici măcar nu pot fi prestate de Nitro: asigurarea pazei cu jandarmi e o activitate monopol de stat, activitatea de asigurare a armurierului și nici termenul de armurier nu se regăsesc în cuprinsul Legii nr. 232/2016 privind operațiunile cu muniție militară, fiind o pură invenție a tandemului fraudulos Cess-Nitro.
+
+Consiliul nu a analizat dacă Cess-Nitro dețin autorizații emise în baza Legii nr. 232/2016 pentru a presta în mod licit, pe piață, activitatea de vânzare/comercializare, manipulare, transport produse militare. Raționamentul Consiliului se rupe intempestiv la a reține că nu a identificat o cerință expresă în documentația de atribuire, însă Consiliul a omis în mod voit să constate că vorbim despre o obligație legală, care decurge direct din lege, de a fi autorizat pentru a presta în mod licit pe piață activitățile care reprezintă obiectul principal al contractului. Mai mult, vorbim despre obligația autorității contractante de a verifica ab initio dacă fiecare entitate care a depus candidatura deține calitatea de operator economic definit ca persoană juridică de drept privat care oferă în mod licit pe piață produse/servicii/lucrări.
+
+Consiliul nu a analizat criticile privind licența pentru activități conexe transportului rutier depusă de Nitro. Candidatul depune într-o procedură având ca obiect vânzarea de muniții militare (implicit transport de muniții militare) o licență prin care este autorizat să presteze activități de autogară și de intermediere transport public (practic transport de persoane). Consiliul nu a fost interesat să vadă că, în ipoteza în care Cess-Nitro ar fi declarat ofertant câștigător, Nitro nu ar urma să transporte persoane, ci produse militare extrem de sensibile și cu un regim special. Prin această conduită, C.N.S.C. urmărește practic să acopere "inventarierea" realizată de UM _____, care a consemnat prin procesul-verbal de evaluare și licența prin care subcontractantul Nitro e autorizat să presteze transport public de persoane, deși acest document nu are nicio relevanță atunci când vorbim despre transport de muniție militară.
+
+Consiliul nu a analizat întreaga practică a instanțelor din zone diferite din țară, prin care a fost oferită o interpretare juridică, oficială, a legislației speciale din domeniul armelor si munițiilor militare. Deciziile CA ####, CA ####, Tribunalului #### și Tribunalului București sunt clare în sensul în care operatorii economici pot vinde/comercializa și transporta produse militare către autorități din domeniul apărării naționale doar dacă dețin autorizație emisă în baza Legii nr. 232/2016, având autorizate coduri CAEN specifice. Atât CA ####, cât și CA #### au reținut în mod expres că obligația de a deține aceste autorizații decurge direct din lege, autoritățile contractante neputând să se supună riscului ca ofertantul declarat câștigător să nu fie autorizat să execute activitatea principală a contractului de achiziție publică.
+
+Acestea sunt doar câteva exemple care probează dezinteresul Consiliului față de criticile Transcarpat și o motivare lacunară, expeditivă, lipsită de substanță și părtinitoare.
+
+A mai precizat petenta că va detalia în continuare motivele de netemeinicie și nelegalitate a deciziei C.N.S.C. atacate, în condițiile în care candidatura Cess-Nitro nu îndeplinește cerințele din documentația de atribuire.
+
+În acest sens, C.N.S.C. și-a depășit atribuțiile administrativ-jurisdicționale, în condițiile în care autoritatea contractantă nu a evaluat candidatura Cess-Nitro, iar Consiliul s-a subrogat în atribuțiile autorității.
+
+Primul aspect pe care Consiliul trebuia să îl verifice era acela dacă autoritatea contractantă a evaluat, în realitate, candidatura Cess-Nitro.
+
+După cum s-a reținut și în practica anterioară a C.N.S.C., verificarea candidaturilor depuse în procedură nu se limitează doar la simpla inventariere a documentelor, ci este un proces laborios, constând în verificarea efectivă a fiecărei cerințe din documentația de atribuire și a conținutului fiecărui document prezentat în acest sens, astfel încât să confere autorității certitudinea că sunt îndeplinite conform legii toate cerințele impuse.
+
+În linie cu această delimitare între "inventariere" și "evaluare", din procesele-verbale de evaluare ar fi trebuit să reiasă: cu prioritate, o analiză a încadrării în noțiunea de operator economic și, implicit, a deținerii tuturor autorizațiilor prevăzute de lege pentru a presta în mod licit pe piață activitățile ce fac obiectul contractului de achiziție publică, iar, mai apoi, o analiză a conținutului fiecărui document prezentat de candidatul Cess-Nitro. Toate aceste consemnări lipsesc cu desăvârșire din actele de evaluare emise de UM _____.
+
+În lipsa unor consemnări în procesele-verbale de evaluare care să ateste că UM _____ a analizat, în concret, conținutul fiecărui document prezentat în candidatura Cess-Nitro, vorbim despre o evaluare incompletă, nefinalizată, chiar inexistentă.
+
+Cu titlu de exemplu, din certificatul de înregistrare și certificatul constatator O.N.R.C. reiese că activitate principală prestată de Nitro este cod CAEN 8299 - #### activități de servicii suport pentru întreprinderi n.c.a. UM _____ a consemnat acest cod CAEN în cuprinsul procesului-verbal de evaluare, fără a verifica în ce manieră acest cod CAEN corespunde în mod real activităților trecute în cuprinsul acordului de subcontractare. Candidatura Cess-Nitro cuprinde inclusiv licența prin care subcontractantul Nitro este autorizat să presteze activitatea de transport public de persoane. UM _____ nu a avut interesul să verifice conținutul acestui document, să clarifice cu candidatul care e relevanța acestui înscris față de scopul și obiectul procedurii, activitatea comisiei de evaluare s-a rezumat doar la a consemna existenta acestui document în procesul-verbal de evaluare a cerințelor de calificare și selecție, unicul scop fiind acela de a crea aparența de legalitate a procesului de evaluare.
+
+În cazul codului CAEN 8299, dacă ar fi avut minimul interes să verifice, UM _____ ar fi constatat faptul că acesta nu acoperă niciuna dintre activitățile subcontractate.
+
+Or, astfel cum s-a reținut și în practica anterioară a Consiliului, în privința apărărilor exprimate de autoritatea contractantă doar prin punctul de vedere, acesta din urmă este un act întocmit în procedura de remedii, iar nu unul emis de comisia de evaluare în procesul de atribuire. Evaluarea candidaturilor nu se face de către autoritatea contractantă prin punctul de vedere emis în etapa contestației, după ce a aflat ce critici temeinice sunt formulate de Transcarpat, acesta nefiind un act asumat de membrii comisiei de evaluare în acord cu atribuțiile stabilite în sarcina lor.
+
+Odată constatat faptul că UM _____ s-a rezumat doar la a inventaria documentele din candidatura Cess-Nitro, fără să le și analizeze conținutul, singura măsură pe care Consiliul o putea dispune era obligarea autorității contractante la reevaluarea candidaturii, cu respectarea cerințelor din documentația de atribuire și cu aplicarea legislației speciale care reglementează regimul activităților cu muniției militare.
+
+În realitate, Consiliul însuși a evaluat candidatura Cess-Nitro direct în etapa contestației, cu depășirea atribuțiilor sale de organism administrativ-jurisdicțional și suprimând petentei calea de atac eficientă împotriva măsurilor nelegale adoptate de UM _____.
+
+Totodată, prin decizia atacată, Consiliul a apărat cu vehemență poziția UM _____, pregătind apărări pe care aceasta din urmă nici măcar nu a înțeles să le facă, cu depășirea rolului său, care se vrea a fi independent și imparțial, și a atribuțiilor sale administrativ-jurisdicționale.
+
+Un exemplu care probează faptul că C.N.S.C. se subrogă în atribuțiile UM _____ este acela că însuși Consiliul remarcă faptul că, în procesul-verbal de evaluare a documentelor de calificare și selecție, UM _____ a reținut pentru subcontractantul declarat doar codul CAEN 8299. Indirect, Consiliul confirmă că nu există o evaluare temeinică a conținutului certificatului constatator O.N.R.C. depus pentru Nitro în oglindă cu activitățile trecute în acordul de subcontractare, însă continuă să apere cu insistență poziția UM _____.
+
+O astfel de conduită adoptată de C.N.S.C. înfrânge practic dreptul Transcarpat la o cale eficientă de atac, în condițiile în care evaluarea candidaturilor se face de către Consiliu, direct în etapa contestației, Transcarpat nu beneficiază în mod eficient de calea de atac a contestației. Nu se pot formula apărări eficiente, evaluarea candidaturilor fiind adusă la cunoștință odată cu decizia C.N.S.C. Există, așadar, doar o singură cale de atac, cea a plângerii, urmată, însă, de o decizie definitivă pronunțată de instanța de judecată, golind, practic, de conținut întreg mecanismul prevăzut de Legea nr. 101/2016 pentru a ataca actele și măsurile nelegale adoptate de autoritățile contractante.
+
+În același timp, în opinia petentei, candidatura Cess-Nitro nu îndeplinește cerințele privind capacitatea de exercitare a activității profesionale.
+
+Astfel, Cess-Nitro nu au probat și nu îndeplinesc cerința privind capacitatea de exercitare a activității profesionale, în condițiile în care ține de esența noțiunii de operator economic aspectul furnizării produselor militare în mod licit. UM _____ nu a verificat la niciun moment dacă Cess-Nitro au calitatea de operatori economici în prezenta procedură, respectiv dacă dețin autorizația prevăzută de Legea nr. 232/2016 pentru a vinde - comercializa, manipula și transporta produse militare.
+
+Certificatul constatator O.N.R.C. nu reprezintă o autorizare pentru a putea desfășura operațiuni cu produse militare. Conform art. 121 alin. (3) din Legea nr. 265/2022 privind registrul comerțului și pentru modificarea și completarea altor acte normative cu incidență asupra înregistrării în registrul comerțului (Legea nr. 265/2022), activitățile pentru care legea reglementează condiții speciale de autorizare sunt autorizate de autoritățile de resort, potrivit procedurilor emise în acest sens, prealabil sau ulterior desfășurării activităților economice pentru care este necesară autorizația.
+
+Pentru a putea îndeplini în mod licit obiectul acordului-cadru, e obligatoriu ca Cess-Nitro să facă dovada că dețin autorizație emisă în temeiul Legii nr. 232/2016. Petenta a probat că Nitro nu deține această autorizație, ba chiar i-a fost respins dosarul pentru obținerea acesteia. A probat că licența emisă de MAE-ANCEX nu conferă dreptul de a vinde, comercializa și transporta produse militare pe teritoriul României către unități militare, ci doar confirmă dreptul de import/export/transfer din alte state și intermediere.
+
+Textul suplimentar cuprins în certificatele constatatoare O.N.R.C. e irelevant, din moment ce se face pe propria răspundere, deci nu este probat cu deținerea autorizațiilor speciale pentru a executa licit obiectul acordului-cadru. Instanța nu va putea valida un raționament atât de periculos pentru ordinea publică, precum cel al C.N.S.C., conform căruia autorizarea activităților cu muniție militară se poate face de însuși solicitantul autorizației, în baza unei declarații pe propria răspundere.
+
+Obiectul de activitate trecut în certificatul constatator depus pentru Nitro nu corespunde cu activitățile trecute în obiectul acordului de subcontractare, iar decizia C.N.S.C. este în dezacord cu practica anterioară a Completului 7 pe aceeași problemă de drept.
+
+Potrivit petentei, ține de esența noțiunii de operator economic furnizarea produselor militare în mod licit.
+
+Consiliul face o gravă greșeală de interpretare a dispozițiilor legale, raționamentul său plecând de la o premisă complet eronată, respectiv aceea că în documentația de atribuire nu s-ar fi impus cerința deținerii autorizației emise în baza Legii nr. 232/2016.
+
+Operatorul economic este definit de O.U.G. nr. 114/2011 ca fiind oricare furnizor de produse, prestator de servicii ori executant de lucrări - persoană fizică/juridică, de drept public sau privat, ori grup de astfel de persoane cu activitate în domeniul care oferă în mod licit pe piață produse, servicii și/sau execuție de lucrări.
+
+Această condiție trebuie verificată cu prioritate în orice procedură de achiziție publică. În situația în care nu se poate proba faptul că Cess-Nitro sunt operatori economici, respectiv că au posibilitatea concretă de a îndeplini contractul, de a furniza, deci, licit muniție militară și de a rezolva eventualele dificultăți legate de îndeplinirea acestuia, candidatura Cess-Nitro nu putea fi declarată drept admisibilă.
+
+Abordarea propusă de Consiliu e contrară propriei practici, în care s-a cristalizat interpretarea că ține de esența noțiunii de operator economic ca acesta să poată furniza produse militare în mod licit pe piață [Decizia C.N.S.C. nr. ####/011/2945,3067/22.11.2023 din dosarul nr. 3067/2023, prin care a admis criticile Transcarpat: "(...) În consecință, se poate aprecia că ține de esența noțiunii de operator economic, în lumina legislației achizițiilor publice în domeniile apărării și securității, dreptul acestuia de a furniza produse, presta servicii și/sau executa lucrări în mod licit, iar, în speță, cu certitudine, autorității contractante îi revine obligația corelativă de a verifica legalitatea prestării viitoarelor activități, nefiind chemată să ignore ori să încurajeze prestarea ilicită a activităților în executarea propriilor contracte, altminteri rămânând expusă riscului că a încredințat contractul unui operator economic care nu îl poate executa în mod licit (...)"].
+
+E cât se poate de clar că, în speță, un astfel de demers al autorității contractante nu a fost întreprins în legătură cu candidatul Cess-Nitro, iar C.N.S.C. a confirmat în mod nepermis o astfel de conduită.
+
+Prin anexa confidențială parte integrantă din contestație a arătat Consiliului care este interpretarea judiciară, oficială, ce emană de la instanțele judecătorești cu privire la sfera de aplicabilitate a actelor normative aplicabile în materia activităților cu muniție, militară sau civilă, după caz (Legea nr. 232/2016, O.U.G. nr. 158/1999, Legea nr. 295/2004). În deciziile pronunțate de CA ####, CA ####, Tribunalul #### și Tribunalul București, instanțele au concluzionat, în esență, următoarele: indiferent dacă autoritatea contractantă a solicitat sau nu în mod expres prezentarea unei anumite autorizații, din scopul concret al procedurii reiese că ofertanții trebuie să dispună de capacitatea profesională pentru a realiza obiectul contractului. Furnizarea produselor militare nu reprezintă o activitate cu importanță nesemnificativă în realizarea contractului, ci este chiar activitatea principală a acestuia, astfel încât autoritatea contractantă este obligată să verifice și să se asigure că achiziționarea muniției are loc în condiții de deplină legalitate. Confirmarea de înregistrare la MAE-ANCEX confirmă dreptul de import/export/transfer și intermediere, dar nu și dreptul pentru comercializarea muniției militare. Pentru a putea participa la o procedură de achiziție de produse militare organizată de către o autoritate contractantă din domeniul Apărării Naționale Siguranței și Ordinii Publice, e obligatorie autorizația emisă în baza Legii nr. 232/2016, în care să figureze activitatea de vânzare-cumpărare cu muniții militare.
+
+Consemnările sumare din procesele-verbale emise de UM _____ probează faptul că autoritatea contractantă nu a verificat, cu prioritate, dacă Cess-Nitro dețin calitatea de operatori economici, conform O.U.G. nr. 114/2011. În lipsa acestei verificări prealabile și obligatorii, evaluarea este una incompletă, nefinalizată, iar C.N.S.C. nu putea trece peste acest lucru, lipsind, practic, actul de evaluare emis de membrii comisiei de evaluare.
+
+De asemenea, petenta a învederat că ofertanții au obligația de a deține și de a prezenta autorizațiile speciale în baza cărora s-a introdus în mod legal obiectul de activitate în certificatul O.N.R.C.
+
+Din această perspectivă, Consiliul interpretează cerințele din documentația de atribuire într-o manieră superficială, în total dezacord cu legislația specială care reglementează regimul activităților cu muniție militară.
+
+Astfel cum a arătat prin anexa confidențială parte integrantă din contestație și prin concluziile scrise, cerințele prevăzute la secțiunea III.1.1.b) din FDA implică în sarcina candidaților să probeze, iar în sarcina autorității contractante să verifice: existența în certificatul O.N.R.C. a obiectului de activitate producere/comercializare de muniție militară; în cazul subcontractanților, existența în certificatul O.N.R.C. a activităților menționate în acordul de subcontractare; existența și prezentarea autorizațiilor speciale în baza cărora s-a introdus în mod legal acest obiect de activitate; în cazul în care se importă muniția militară, existența și prezentarea confirmării de înregistrare eliberate de MAE-ANCEX.
+
+Prin decizia atacată, Consiliul a pierdut din vedere (voit sau nu) un aspect esențial: O.N.R.C. nu autorizează efectuarea activităților din materia legilor speciale, iar certificatul constatator/certificatul de înregistrare eliberate de O.N.R.C. nu reprezintă o autorizație pentru efectuarea acestor activități.
+
+Cu alte cuvinte, certificatul constatator/certificatul de înregistrare eliberate de O.N.R.C. reprezintă un sumar al situației unei companii, realizat pe baza declarațiilor pe propria răspundere prezentate, ci nu o autorizație.
+
+În acest sens, sunt și dispozițiile art. 121 din Legea nr. 265/2022. În același sens, conform informațiilor disponibile pe portalul O.N.R.C., la momentul depunerii dosarului pentru înființarea unei societăți sau pentru înregistrarea mențiunilor privind modificarea obiectului de activitate (completare, extindere, reformulare, precizare domeniu și activitate principală, schimbare domeniu și activitate principală), societățile interesate depun Formularul - Declarația pe propria răspundere cu privire la îndeplinirea condițiilor de funcționare/desfășurare a activității pentru sediul social și/sau sedii secundare sau, după caz, la terți.
+
+Coroborând cerința din FDA privind obiectul de activitate și informațiile disponibile pe portalul O.N.R.C., dispozițiile art. 121 alin. (3) din Legea nr. 265/2022, este limpede că nu se poate declara admisibilă candidatura Cess-Nitro doar în baza unor certificate O.N.R.C., fără a fi prezentate și autorizațiile speciale, în baza cărora a fost introdus în mod legal obiectul de activitate. O astfel de interpretare e una disproporționată și contrară scopului achizițiilor publice. Mergând pe această linie, ar însemna că orice entitate ar putea ajunge să furnizeze muniție militară către autorități din domeniul apărării naționale, doar în baza unei simple declarații pe propria răspundere depusă la O.N.R.C., instituție care nu are în atribuții emiterea de autorizații pentru prestarea activităților economice specifice.
+
+UM _____ nici măcar nu a analizat în procesele-verbale emise dacă Cess-Nitro dețin autorizația specială emisă în baza Legii nr. 232/2016 pentru producerea/comercializarea de muniții militare, iar Consiliul a trecut cu indiferență peste criticile Transcarpat, cu toate că vorbim despre un subiect extrem de sensibil: achiziția de muniție militară.
+
+O evaluare a candidaturii Cess-Nitro doar în baza declarației pe propria răspundere prezentată de aceste entități în mod fals în fața reprezentanților O.N.R.C. este una incompletă, nefinalizată, întrucât nu se probează în mod cert că aceste entități sunt autorizate în mod legal, de către ministerul de resort, pentru a vinde - comercializa și pentru a transporta muniție militară. Confirmarea de înregistrare la MAE-ANCEX confirmă dreptul de import/export/transfer și intermediere, dar nu și dreptul pentru comercializarea muniției militare.
+
+Consiliul ignoră și nu analizează în concret prin decizia atacată care este sfera de aplicabilitate a O.U.G. nr. 158/1999 în baza căreia au fost emise Confirmările de înregistrare la MAX-ANCEX prezentate pentru candidații Cess-Nitro.
+
+În măsura în care ar fi avut minimul interes să analizeze criticile Transcarpat, Consiliul ar fi constatat că, potrivit interpretării judiciare oferite legislației speciale care reglementează regimul activităților cu muniție militară, autorizarea emisă în baza O.U.G. nr. 158/1999 nu acoperă operațiuni obiect al contractului de achiziție publică, respectiv vânzare și transport, ci doar operațiuni de import din alte state, deci privind simpla introducere pe teritoriul vamal al României de muniție militară.
+
+Simpla deținere a acestor licențe emise în baza O.U.G. nr. 158/1999 nu conferă dreptul de a vinde - comercializa, manipula și transporta muniție militară pe teritoriul României către unități militare. Decizia atacată este, practic, o frondă a C.N.S.C. față de întreaga jurisprudență a curților de apel prin care s-au desființat în lanț deciziile C.N.S.C. anterioare, instanțele de judecată interpretând în mod corect legislația specială privind activitățile cu muniție militară.
+
+Ceea ce este relevant pentru a proba îndeplinirea cerinței privind deținerea capacității profesionale de a executa obiectul principal al acordului-cadru este autorizația specială emisă în baza Legii nr. 232/2016.
+
+Totodată, prin decizia atacată, Consiliul se rezumă să rețină că respectivele coduri CAEN reținute de UM _____ ca relevante privesc activități cu muniție de uz militar, iar aceste precizări regăsite ca text suplimentar în cadrul certificatului constatator emis de Ministerul Justiției - O.N.R.C. nu puteau fi ignorate.
+
+Aceste considerente reținute de Consiliul sunt irelevante, în condițiile în care nici O.N.R.C. și nici Ministerul Justiției nu au printre atribuții emiterea autorizației pentru operațiuni cu arme și muniție militară. Această atribuție aparține ministerului de resort - Ministerului economiei, fiind necesar să se parcurgă procedura prevăzută de Legea nr. 232/2016.
+
+Textul suplimentar regăsit în cadrul certificatului constatator reprezintă o simplă transcriere efectuată de registratorii O.N.R.C. a declarației pe propria răspundere depuse de entitatea care a formulat solicitarea. Niciun text suplimentar menționat într-un certificat constatator emis de O.N.R.C. nu poate proba că entitatea deține capacitatea de a furniza muniție militară către unități militare în lipsa prezentării autorizației emise în temeiul Legii nr. 232/2016.
+
+E cel puțin îngrijorător cum Consiliul se rezumă doar la textul suplimentar din certificatul constatator emis de O.N.R.C. și omite să analizeze o probă esențială depusă de Transcarpat odată cu contestația: refuzul Ministerului Economiei de a emite autorizație pentru subcontractantul Nitro în temeiul Legii nr. 232/2016, actul normativ care reglementează operațiunile de vânzare, transport, manipulare, depozitare muniție militară.
+
+Atât Consiliul, cât și UM _____ aleg să treacă peste acest refuz și evită să îl analizeze prin decizia atacată și prin punctul de vedere, neavând nici măcar minimul interes de a clarifica cu candidatul Cess-Nitro legătura dintre acest refuz al Ministerului Economiei și mențiunile din certificatul constatator O.N.R.C. depus. Practic, prin această conduită, atât Consiliul, cât și UM _____ dau undă verde furnizării și transportului muniției militare în mod nelegal, doar în baza unei declarații pe propria răspundere, cu riscul ca informațiile declarate să fie un veritabil fals.
+
+E evidentă contradicția între mențiunile din certificatul constatator O.N.R.C. prezentat pentru subcontractantul Nitro și refuzul Ministerului Economiei de a emite autorizație în temeiul Legii nr. 232/2016 pentru Nitro, însă nimeni nu apreciază util a fi clarificată această contradicție.
+
+#### instanța încă nu are o opinie formată cu privire la lipsa de relevanță a textului suplimentar regăsit în certificatul constatator O.N.R.C. în condițiile în capacitatea profesională de a vinde - comercializa produse militare se probează doar prin prezentarea autorizației speciale emise în temeiul Legii nr. 232/2016, trebuie avute în vedere argumentele Transcarpat detaliate prin concluziile scrise din 05.11.2024 [para. (45)-(64)]:
+
+- referitor la codul CAEN 4690 - Comerț cu ridicata nespecializat - Text suplimentar activitate principală: pentru activitatea de import/export arme și muniții, nu se poate pune semnul egal între activitatea de producere/comercializare muniție militară și activitatea de import/export muniție militară; sunt operațiuni distincte, de sine stătătoare, reglementate prin acte normative diferite (Legea nr. 232/2016 și O.U.G. nr. 158/1999); conform Normelor Metodologice din 2021 de aplicare a O.U.G. nr. 158/1999, codul CAEN 4690 este aferent operațiunii de import/export și această operațiune nu se regăsește în Legea nr. 232/2016; în materia legilor speciale aferente operațiunilor cu arme și muniții, codul CAEN 4690 nu este alocat producerii sau comercializării de arme și muniții; actul normativ aplicabil nu stabilește întinderea codului CAEN 4690 la operațiuni cu muniții;
+
+- referitor la codul CAEN 4669 - Comerț cu ridicata al altor mașini și echipamente de birou - Text suplimentar: pentru activitățile de import export/comerț cu ridicata al produselor și echipamentelor militare, armelor și muniției de uz militar sau neletale și/sau comerț cu amănuntul al produselor și echipamentelor militare, armelor și muniției de uz militar, activitatea explicitată prin textul suplimentar nu își are corespondent și nu se regăsește în niciuna dintre operațiunile cu muniții militare reglementate prin legile speciale (O.U.G. nr. 158/1999 și Legea nr. 232/2016); în materia legilor speciale aferente operațiunilor cu arme și muniții, codul CAEN 4669 nu este alocat producerii sau comercializării de arme și muniții; actul normativ nu stabilește întinderea codului CAEN 4669 la operațiuni cu muniții.
+
+În plus, obiectul de activitate Nitro nu corespunde cu activitățile trecute în acordul de subcontractare.
+
+Mergând pe aceeași notă de favoritism, Consiliul nu analizează criticile Transcarpat privind necorelarea între obiectul de activitate Nitro și activitățile trecute în acordul de subcontractare.
+
+Analizând comparativ obiectul de activitate din certificatul constatator Nitro și activitățile din acordul de subcontractare, a ridicat câteva întrebări, ignorate, însă, de Consiliu prin analiza sa sumară: este Nitro autorizat pentru a presta servicii de pază? Analizând certificatul constatator, e limpede că nu. Are Nitro capacitatea legală de folosință pentru a presta activități de asigurarea pazei cu jandarmi? E o activitate monopol de stat, e limpede că nu. Noțiunea de armurier are vreo legătură cu materia armelor și muniției militare? Analizând Legea nr. 232/2016, rezultă că nu, activitatea de asigurare armurier nu există în această lege, reprezentând o pură invenție a acestui tandem fraudulos.
+
+Toate aceste necorelări ignorate de C.N.S.C. probează faptul că Cess-Nitro nu îndeplinește cerința privind deținerea capacității profesionale pentru a îndeplini obiectul acordului-cadru. Mai mult, aceste necorelări între obiectul de activitate din certificatul constatator și acordul de subcontractare supun autoritatea contractantă unui risc iminent de executare defectuoasă a acordului-cadru în ipoteza în care oferta Cess-Nitro ar fi declarată câștigătoare.
+
+Mai mult decât atât, decizia Completului 7 este în dezacord cu practica pronunțată anterior.
+
+Experiența Transcarpat de peste 20 de ani în acest domeniu ne arată că, de-a lungul timpului, practica Completului 7 privind probleme de drept similare a devenit contradictorie, oscilantă, în pofida faptului că dispozițiile Legii nr. 101/2016 instituie obligația aplicării unitare a dispozițiilor legale în momentul soluționării contestațiilor înregistrate pe rolul C.N.S.C., în acest sens citând paragrafe relevante din Deciziile C.N.S.C. nr. 684/C7######### și nr. 1436/C7##########.
+
+În același timp, candidatura Cess-Nitro nu îndeplinește cerințele privind situația personală a candidaților.
+
+Astfel, cu referire la criticile Transcarpat privind lipsa prezentării pentru subcontractantul Nitro a documentelor privind plata taxelor și impozitelor datorate către bugetul general consolidat și către bugetul local, Consiliul s-a limitat în mod eronat să rețină că o astfel de cerință nu a fost prevăzută prin FDA. Or, raționamentul C.N.S.C. nesocotește dispozițiile OUG nr. 114/2011 care definesc noțiunea de "candidat".
+
+Conform art. 3 pct. 5 din O.U.G. nr. 114/2011, "candidat - oricare operator economic care a depus candidatura în cazul unei proceduri de licitație restrânsă, negociere sau dialog competitiv", iar conform art. 3 pct. 25 din O.U.G. nr. 114/2011, "operator economic - oricare furnizor de produse, prestator de servicii ori executant de lucrări - persoană fizică/juridică, de drept public sau privat, ori grup de astfel de persoane cu activitate în domeniul care oferă în mod licit pe piață produse, servicii și/sau execuție de lucrări".
+
+Coroborând dispozițiile legale citate, rezultă cu claritate faptul că prin noțiunea de candidat se înțelege operatorul economic care a depus candidatura, iar mai departe noțiunea de operator economic poate fi înțeleasă atât în sens individual, cât și în sensul de grup, atunci când participarea se face prin asociere, subcontractant sau terț susținător.
+
+De asemenea, punctează faptul că oricine încearcă să obțină un contract de achiziție publică trebuie să demonstreze că nu se află în situații de excludere și că respectă toate și orice cerință din documentația de atribuire, inclusiv cerința privind depunerea certificatelor de atestare fiscală.
+
+Totodată, petenta a apreciat că este util să arate instanței de judecată maniera lipsită de consecvență în care candidatul Cess înțelege și interpretează cerințele din documentația de atribuire.
+
+Practic, pe de-o parte, în ceea ce privește cerința de la secțiunea III.1.1.b) din FDA privind capacitatea de exercitare a activității profesionale, Cess a depus inclusiv documente privind subcontractantul Nitro, deși exprimarea este aceeași, făcându-se referire la "candidați", pe de altă parte, în prezentul caz, nu a depus documente privind subcontractantul Nitro.
+
+Pe cale de consecință, solicită să se constate netemeinicia considerentelor C.N.S.C. și să observe faptul că subcontractantul Nitro nu a depus documente care probează cerința privind prezentarea certificatelor de atestare fiscală, documente care trebuiau a fi depuse până la data-limită de depunere a candidaturilor și nu pot face obiectul completărilor prin eventuale solicitări de clarificări, consecința fiind excluderea candidaturii nelegale.
+
+De asemenea, candidatul Cess-Nitro a omis să declare faptul că situația sa se încadrează în prevederile art. 156 lit. b), c) și f) din O.U.G. nr. 114/2011.
+
+Consiliul nu analizează în concret nici această critică din contestație, rezumându-se doar la a reține că Sentința civilă nr. #### din 04.04.2024, prin care Tribunalul București a dispus anularea contractului încheiat între Cess și UM 0575 București, ar fi fost atacată, până în prezent dosarul nefiind înregistrat la CA București.
+
+#### de reținerile extrem de sumare și expeditive ale C.N.S.C., care denotă un dezinteres total în a înțelege criticile Transcarpat, petenta a arătat faptul că, potrivit dispozițiilor art. 61 alin. (2) din Legea nr. 101/2016, "Sentința tribunalului poate fi atacată numai cu recurs, în termen de 10 zile de la data comunicării, la secția contencios administrativ și fiscal a curții de apel, care judecă în complet specializat în achiziții publice. Recursul este soluționat de urgență și cu precădere, într-un termen care nu va depăși 30 de zile de la data sesizării legale a instanței", iar conform alin. (3) din același articol, "Hotărârea judecătorească prin care a fost admisă acțiunea în constatarea nulității absolute și s-a dispus repunerea părților în situația anterioară constituie titlu executoriu." 
+
+Prin urmare, independent dacă s-a formulat sau nu cale de atac împotriva sentinței în discuție, aceasta este executorie în prezent și se impune cu putere de lucru judecat. În măsura în care Consiliul se considera nelămurit sub aspectul acestor critici, avea obligația de a pune în vedere Transcarpat să furnizeze explicații suplimentare, aceasta fiind singura modalitate prin care s-ar fi respectat dreptul la o cale eficientă de atac și principiul contradictorialității.
+
+Astfel, instanța va constata faptul că Cess-Nitro nu a declarat faptul că situația sa se încadrează în prevederile art.156 lit. b), c) și f) din O.U.G. nr. 114/2011, prin aceea că Tribunalul București i-a anulat un contract de achiziții publice de muniții militare în care a furnizat și informații false, fiind devoalată și tendința acestuia de a stabili și de a beneficia de relații neetice cu autorități contractante cum este și cazul actualei. În cadrul litigiului invocat, atât Consiliul, cât și Tribunalul București au reținut că documentele probante depuse de Cess-Nitro ca dovadă a îndeplinirii specificațiilor tehnice nu corespund solicitării exprese a autorității contractante de a fi emise de organismele abilitate care să ateste conformitatea produselor, respectiv laboratoare specializate acreditate, neutre, care să nu aparțină operatorului economic sau furnizorului (producătorului).
+
+De asemenea, instanța va constata inclusiv faptul că Cess-Nitro a omis să declare faptul că, în prezent, ambele entități fac obiectul cercetărilor penale demarate de autoritățile competente, pentru săvârșirea infracțiunii de nerespectare a regimului armelor si munițiilor sub aspectul efectuării fără drept de operațiuni cu arme și muniții militare, prevăzute de art. 342 alin. (1) și (5) din Codul penal. Măsura redeschiderii urmăririi penale sub aspectul săvârșirii acestor infracțiuni a fost dispusă prin Ordonanță de prim-procurorul Parchetului de pe lângă Judecătoria Sectorului 2 București. Prin raportare la acest dosar penal în curs, e important și obligatoriu ca instanța de judecată să înțeleagă gravitatea situației și consecințele care se pot ivi în situația în care muniția militară va fi furnizată de către o entitate care nu deține autorizațiile necesare pentru a vinde - comercializa și pentru a transporta produse militare către autorități din domeniul apărării naționale.
+
+Completul 7 și-a făcut deja o cutumă din a acoperi tandemul fraudulos Cess-Nitro, însă instanța de judecată trebuie să se aplece asupra criticilor Transcarpat și să restabilească legalitatea în prezenta procedură.
+
+În fine, candidatura Cess-Nitro nu îndeplinește cerințele privind capacitatea tehnică și profesională, aceeași indiferență și dezinteres în a analiza criticile Transcarpat regăsindu-se și în această privință.
+
+Sub pretextul unei confidențializări excesive, Consiliul se rezumă să rețină faptul că ,,societatea #### #### ######### S.R.L. a depus documente în susținerea experienței similare, respectiv 4 Declarații - Formular 10 în care au fost indicate contracte de furnizare, în calitate de contractant unic, având ca obiect produse similare, încadrate în același cod CPV precum cel din procedura organizată, încheiate și finalizate în ultimii 5 ani, a căror valoare depășește cu mult pragul valoric impus prin documentația de atribuire. Mai mult, pentru aceste contracte, candidatul a depus documente semnate de beneficiarii contractelor, precum procese-verbale de recepție și/sau documente constatatoare pentru îndeplinirea corespunzătoare a contractului". Nimic din ceea ce expune C.N.S.C. aici nu a reprezentat o analiză concretă a criticilor Transcarpat, care au vizat: valorile prezentate, valorile aferente procentelor subcontractate, cantitățile contractelor, încadrarea lor în codul CPV impus, documentele depuse de Cess-Nitro care să demonstreze livrarea efectivă a produselor.
+
+Dincolo de confidențializarea excesivă a candidaturii Cess-Nitro sub aspectul documentelor prezentate privind experiența similară, decizia atacată cuprinde o "motivare" extrem de generală a C.N.S.C., cu încălcarea gravă a principiului transparenței și a obligației de a motiva în concret decizia pronunțată. Orice raționament al Consiliului sub aspectul criticilor Transcarpat privind experiența similară trebuia să fie fundamentat pe baza consemnărilor efectuate de autoritatea contractantă în cadrul procesului-verbal de evaluare a criteriilor de calificare.
+
+Or, astfel cum a arătat și prin contestație și prin concluziile scrise din 05.11.2024, UM _____ nu a verificat în concret modalitatea în care Cess-Nitro îndeplinește cerința privind experiența similară și conținutul documentelor prezentate în cadrul candidaturii în acest sens.
+
+Analizând consemnările sumare din procesul-verbal de evaluare a cerinței privind experiența similară, observăm faptul că nu se verifică valorile prezentate, nu se extrag valorile aferente procentelor subcontractate, nu se verifică cantitățile contractelor, nu se verifică nici încadrarea lor în codul CPV impus, nu se verifică dacă documentele depuse de Cess-Nitro demonstrează livrarea efectivă a produselor.
+
+Autoritatea contractantă a decis că Cess îndeplinește cerința privind experiența similară doar prin raportare la Declarația privind lista principalelor livrări de produse în ultimii 5 ani, iar C.N.S.C. a validat această inventariere sumară (și nu evaluare), deși evaluarea candidaturilor nu trebuie să fie rezultatul analizei subiective a Completului 7, ci, dimpotrivă, trebuie să fie rezultatul unui act de evaluare emis de membrii comisiei de evaluare și consemnat în scris.
+
+În aceste condiții, instanța va constata că, în fapt, nu există un act de evaluare, emis de membrii comisiei de evaluare și consemnat în scris cu privire la îndeplinirea cerinței privind experiența similară de către candidatul Cess-Nitro, decizia C.N.S.C. fiind nelegală și netemeinică inclusiv sub acest aspect.
+
+Cât privește suspendarea procedurii și suspendarea executării acordului-cadru, în prezent nu se cunoaște care este stadiul procedurii, existând riscul iminent ca autoritatea contractantă să se grăbească să atribuie acordul-cadru către Cess-Nitro, așa cum este bine cunoscuta cutumă a acestui tandem fraudulos.
+
+Chiar dacă procedura se află deja în etapa a II-a a licitației restrânse, cererea de suspendare a procedurii are temei legal și este justificată, având în vedere că sunt contestate acte ale autorității contractante care vizează rezultatul etapei I a licitației restrânse, acte de care petenta a luat la cunoștință exclusiv prin procesul-verbal de deschidere a ofertelor.
+
+D__ fiind că Legea nr. 101/2016 nu indică nicio modalitate de apreciere a cazului justificat ori a pagubei iminente, însă, pe de altă parte, prevede la art. 68 că dispozițiile sale se completează cu prevederile Legii nr. 554/2004, urmează ca înțelesul acestor două noțiuni să fie apreciate în funcție de înțelesul dat acestora la art. 2 alin. (1) lit. ș) și t) din Legea nr. 554/2004.
+
+Așadar, prin prisma dispozițiilor art. 33 din Legea nr. 101/2016 și art. 14 din Legea nr. 554/2004, pentru a se putea dispune suspendarea executării contractului, trebuie îndeplinite cumulativ condițiile existenței unui caz bine justificat și condiția prevenirii producerii unei pagube iminente.
+
+În cauză, condițiile legale necesare în vederea dispunerii suspendării procedurii și suspendării executării contractului sunt îndeplinite în totalitate.
+
+În ceea ce privește condiția cazului bine justificat, potrivit art. 65 alin. (2) din O.U.G. nr. 114/2011, "este interzisă invitarea la etapa a doua a licitației restrânse a unui operator economic care nu a depus candidatura în prima etapă sau care nu a îndeplinit criteriile de selecție".
+
+Desfășurarea în continuare a procedurii de atribuire conduce la nerespectarea dispozițiilor legale imperative care nu permit desfășurarea etapei a II-a cu un operator economic care nu îndeplinește criteriile de selecție.
+
+Autoritatea contractantă nu a analizat temeinic documentele depuse de Cess-Nitro pentru dovedirea capacității de exercitare a activității profesionale, Cess și Nitro nedeținând în obiectul de activitate furnizarea de muniție și Nitro neavând dreptul de a presta activitățile pe care le-a contractat prin acordul de subcontractare.
+
+Cess nu are capacitatea profesională de a asigura transportul munițiilor, fapt care a determinat excluderea sa repetată din proceduri de furnizare de muniție derulate de autorități contractante diligente, aspect demonstrat de Transcarpat.
+
+Cess-Nitro sunt în prezent cercetați penal pentru săvârșirea infracțiunii de nerespectare a regimului armelor și munițiilor, prevăzute de art. 342 alin. (1) și (5) din Codul penal, remarcându-se încălcarea tratamentului egal față de Transcarpat prin favorizarea Cess-Nitro printr-o evaluare superficială și favorizantă, și invocarea unor prevederi legale străine de litigiul pendinte, prin săvârșirea unor abuzuri și abateri legislative ca urmare a aplicării unor acte normative inaplicabile procedurii, dar care favorizează ofertantul Cess.
+
+În ceea ce privește condiția pagubei iminente, și această condiție este îndeplinită în cauză, existând riscul ca, în măsura în care oferta Cess-Nitro este declarată câștigătoare iar acordul-cadru atribuit acestuia, repunerea în situația anterioară ca urmare a admiterii plângerii să fie foarte greu de realizat, presupunând, în plus, și costuri pentru autoritatea contractantă și aducând atingere inclusiv interesului public.
+
+#### instanța va admite plângerea și va dispune măsuri de remediere în sensul celor solicitate, acestea nu vor mai putea fi implementate cu succes dacă se va proceda anterior la executarea acordului-cadru, creându-se un evident prejudiciu față de Transcarpat, dar și interesului public, prin achiziționarea unui produs de la o entitate neautorizată să vândă și să transporte produse militare.
+
+În ceea ce privește, confidențializarea candidaturii Cess-Nitro, petenta a susținut că este nelegală, solicitând accesul integral la dosarul achiziției publice.
+
+Astfel, conștientizând că nu îndeplinește, în mod real, cerința privind capacitatea tehnică și profesională sub aspectul experienței similare, candidatul Cess-Nitro a confidențializat în integralitate documentele prezentate. În mod nelegal și lipsit de transparență, atât UM _____, cât și C.N.S.C. au validat această conduită, restricționând în mod abuziv accesul Transcarpat la documentele depuse de Cess-Nitro pentru a proba îndeplinirea cerinței privind experiența similară.
+
+Instanța trebuie să aibă în vedere și că, în cauză, sunt incidente considerentele obligatorii expuse de C.J.U.E. în cauza C54/21 ##### Polska, de care trebuie să țină cont. În această decizie, C.J.U.E. aduce o clarificare în sensul în care se arată că o practică a autorităților contractate de a accepta în mod sistematic cererile de confidențialitate cu privire la ansamblul informațiilor cuprinse în oferte ar fi susceptibilă să aducă atingere principiului transparenței, al protecției jurisdicționale efective, precum și principiului general al bunei administrări. Principala concluzie care se desprinde din această hotărâre este că operatorul economic trebuie, în primul rând, să efectueze o analiză exhaustivă a elementelor ce fac parte din ofertă și să justifice, utilizând suficiente mijloace și argumente, necesitatea protecției confidențialității în cazul informațiilor cuprinse în oferta sa.
+
+UM _____ nu a luat nicio măsură în această situație. Aceasta ar fi putut solicita candidatului Cess-Nitro să deconfidențializeze documentele privind experiența similară din candidatură, sub sancțiunea respingerii candidaturii. ##### în vedere că nu a fost adoptată această măsură de remediere, s-a adus încălcare gravă principiului transparenței (nu există o evaluare reală, palpabilă a candidaturii Cess-Nitro sub aspectul îndeplinirii cerinței privind experiența similară), și principiului tratamentului egal, principiului contradictorialității și dreptului la apărare (afectează dreptul Transcarpat la o cale de atac efectivă, aceea a contestației față de nelegala evaluare a candidaturii Cess-Nitro).
+
+În drept, plângerea a fost întemeiată pe dispozițiile art. 29 și urm., art. 33 din Legea nr. 101/2016.
+
+În dovedirea acțiunii, petenta a pretins încuviințarea probei cu înscrisuri, pe care le-a înaintat la dosar (f. 20-59 - vol. I).
+
+Plângerea este scutită de la plata taxei judiciare de timbru, conform art. 361 din Legea nr. 101/2016, iar petenta nu trebuie să constituie o nouă cauțiune, față de prevederile art. 611 alin. (3) din Legea nr. 101/2016.
+
+III. Poziția procesuală a părților adverse
+
+(i) Intimatul Ministerul Apărării Naționale, pentru Unitatea Militară _____ București, a depus întâmpinare în 29.11.2024, prin care solicitat respingerea plângerii ca neîntemeiată (f. 74-79 - vol. I).
+
+În motivare, acesta a afirmat se impune menținerea Deciziei nr. ####/C7/3581 din data de 08.11.2024, având în vedere că a fost emisă de C.N.S.C. cu respectarea dispozițiilor legale și cu deplină înțelegere a stadiului în care se află procedura de atribuire, respectiv etapa a II-a de evaluare a ofertelor depuse de cei doi candidați selectați (S.C. #### #### ######### S.R.L. și S.C. ########### ######### ############# S.R.L.).
+
+Analizând atât contestația, cât și plângerea, se poate deduce că principala critică adusă de S.C. ########### ######### ############# S.R.L. are ca obiect neîndeplinirea criteriilor de calificare și selecție de către S.C. #### #### ######### S.R.L. (subcontractor S.C. ##### ##### ##### S.R.L.), critici care, în acord cu decizia C.N.S.C., sunt în mod vădit nefondate, motiv pentru care nu pot fi reținute.
+
+În acest sens, prin Raportul intermediar al procedurii nr. As/_____ din 16.09.2024, autoritatea contractantă a calificat și selectat candidaturile depuse de operatorii economici [OPERATOR ECONOMIC], C.N. ###### S.A. și S.C. ########### ######### ############# S.R.L.
+
+Potrivit dispozițiilor art. 154 alin. (1) din O.U.G. nr. 114/2011, "criteriile de calificare și selecție trebuie să aibă o legătură evidentă cu obiectul contractului ce urmează a fi atribuit". De asemenea, art. 175 din O.U.G. nr. 114/2011 stabilește că "autoritatea contractantă are obligația de a stabili oferta câștigătoare pe baza criteriului de atribuire precizat în anunțul de participare (...) în condițiile în care ofertantul îndeplinește criteriile de selecție și calificare impuse".
+
+Din Confirmarea de înregistrare pentru efectuarea de operațiuni de comerț exterior cu produse militare, eliberată de Ministerul Afacerilor Externe - Departamentul pentru controlul exporturilor, rezultă că #### #### ######### S.R.L. este autorizată pentru efectuarea de operațiuni de export/import/transfer cu produse militare.
+
+Potrivit Ordinului Institutului N_______ de S_________ nr. 337/2007, diviziunea 4669 se referă la "Comerț cu ridicata al altor mașini și echipamente", iar diviziunea 469 se referă la "Comerț cu ridicata nespecializat codul CAEN 4690" făcând referire la "Comerț cu ridicata nespecializat", și nu la "comerțul cu ridicata al diverselor produse fără nicio specializare", astfel cum, în mod eronat, susține petenta.
+
+De asemenea, din ghidul pus la dispoziție de Oficiul N_______ al Registrului Comerțului pe site-ul instituției, se poate observa că încadrarea activității tuturor candidaților selectați potrivit codurilor CAEN este corectă, astfel cum reiese și din conținutul certificatelor constatatoare aflate la dosarul constituit în cadrul procedurii de atribuire, și respectă în totalitate cerințele documentației de atribuire.
+
+Din documentele prezentate rezultă că S.C. #### #### ######### S.R.L. este autorizată pentru comerț cu arme și produse militare, astfel cum, în mod legal, s-a reținut și în considerentele Deciziei nr. ####/C7/3581 din data de 08.11.2024.
+
+Astfel, C.N.S.C. a apreciat ca fiind corectă decizia autorității contractante de a declara admisibilă candidatura pentru lotul 3, reținând că, "din verificarea documentelor existente la dosarul cauzei, Consiliul constată că societatea #### #### ######### S.R.L. a depus documentele reținute și de autoritatea contractantă prin Procesul - verbal nr. A3-_____ din 16.09.2024.
+
+Mai mult, se reține că, prin aceste certificate s-a confirmat că societatea a implementat și menține Sistemul de Management al Calității pentru: Comercializare echipamente militare, industriale armament și muniție".
+
+Totodată, din Declarația privind lista subcontractanților și partea/părțile din contract care sunt îndeplinite de aceștia (Formular nr. 11) și Acordul de subcontractare nr. 722/05.08.2024, subcontractantul S.C. ##### ##### ##### S.R.L. este autorizat pentru desfășurarea activităților de transport muniție, asigurare armurier, însoțire transport muniție.
+
+De asemenea, din Confirmarea de înregistrare pentru efectuarea de operațiuni cu produse militare, eliberată de Ministerul Afacerilor Externe - Departamentul pentru controlul exporturilor, reiese că S.C. ##### ##### ##### S.R.L. este autorizată pentru efectuarea de operațiuni de export/import/transfer cu produse militare.
+
+Așadar, contrar criticilor petentei, [OPERATOR ECONOMIC] a subcontractat firmei S.C. ##### ##### ##### S.R.L. doar activitatea de transport muniție, asigurare armurier, însoțire transport muniție, pentru care deține autorizare.
+
+Conform prevederilor cerinței din fișa de date a achiziției pct. III.2.3. a.) Capacitatea tehnică și/sau profesională, subcontractorii nu trebuie să se afle în situația care determină excluderea din procedura de atribuire. Potrivit art. 155 și art. 156 din O.U.G. nr. 114/2011, acesta va prezenta completate Formularele nr. 4 și 5 - Secțiunea Formulare Etapa I.
+
+Mai mult, S.C. ##### ##### ##### S.R.L. a depus Declarația pe proprie răspundere privind neîncadrarea în situațiile prevăzute la art. 150 din O.U.G nr. 114/2011 (Formular nr. 6), Certificat de înregistrare emis de O.N.R.C., Certificat constatator, Confirmarea de înregistrare pentru efectuarea de operațiuni de comerț exterior cu produse militare, eliberată de Ministerul Afacerilor Externe - Departamentul pentru controlul exporturilor și ####### pentru activități conexe transportului rutier.
+
+Referitor la imposibilitatea Cess-Nitro de a-și îndeplini activitățile din punctul de vedere al capacității tehnice și profesionale și, în special, în ceea ce privește activitatea de transport, potrivit legislației achizițiilor publice, asumarea răspunderii în ceea ce privește modul de executare a unui posibil contract care ar urma să fie încheiat între S.C. #### #### ######### S.R.L. și autoritatea contractantă aparține acestuia, iar asumarea răspunderii subcontractantului nu înlătură răspunderea contractantului principal în relația contractuală cu autoritatea contractantă.
+
+În urma analizei documentelor, comisia de evaluare a constatat îndeplinirea cerințelor impuse în etapa I prin documentația de atribuire de către S.C. #### #### ######### S.R.L., în condițiile legii, fără ca eventualele alte aspecte ce țin de condițiile privind executarea contractului să poată fi îndeplinite încă de la momentul etapei I, o astfel de măsură din partea autorității contractante putând fi considerată excesivă, de natură să descurajeze operatorii economici să participe la procedurile de achiziție publică și care ar încălca prin aceasta principiile proporționalității și transparenței garantate, astfel cum s-a reținut prin Hotărârea C.J.U.E. din 8 iulie 2021, Sanresa, C-295/20, E.U:C:2021:556, punctul 62.
+
+Potrivit cerinței nr. 3, prevăzute la punctul III.2.1) Situația personală a operatorilor economici, inclusiv cerințele referitoare la înscrierea în registrul comerțului sau al profesiei din Documentația de atribuire aferentă etapei I, candidații-persoane juridice române vor depune:
+
+"- Certificat de atestare fiscală, eliberat de Agenția Națională de Administrare Fiscală - ####, din care să rezulte că operatorul economic participant ca si candidat la procedura de atribuire nu are datorii la bugetul general consolidat scadente la nivelul lunii anterioare celei în care este prevăzut termenul limită de depunere a candidaturilor, în cazul unei asocieri, documentul va fi prezentat de către toți membrii asocierii;
+
+- Certificat de atestare fiscală privind impozitele și taxele locale, eliberat de Autoritățile Publice Locale, din care să rezulte că operatorul economic participant ca și candidat la procedura de atribuire nu are datorii la bugetele locale scadente la nivelul lunii anterioare celei în care este prevăzut termenul limită de depunere a candidaturilor, inclusiv pentru punctele de lucru declarate în certificat. în cazul unei asocieri, documentul va fi prezentat de către toți membrii asocierii".
+
+Potrivit documentației de atribuire, subcontractanții nu au obligația de a depune certificatele de atestare fiscală, aceasta rămânând doar în sarcina candidaților, persoane juridice române, astfel cum în mod just a reținut și C.N.S.C.
+
+De altfel, contrar criticilor petentei, în considerentele Deciziei nr. ####/C7/3581 din data de 08.11.2024, C.N.S.C. a reținut (filele 24-27) că, pentru verificarea îndeplinirii cerinței de selecție în discuție, cele reținute de autoritatea contractantă prin Procesul-verbal nr. A3/_____/16.09.2024 sunt corecte, "Declarațiile - Formulare 4, 5 și 6 solicitate fiind depuse atât de candidatul #### #### ######### S.R.L., cât și de subcontractantul acestuia ##### ##### ##### S.R.L. Mai mult, candidatul #### #### ######### S.R.L. a depus și Certificatul nr. ______/16.07.2024 pentru punctul de lucru din București, ##### Plevnei nr. 20, ### #, ### ##, sector 1, din care rezultă că nu figurează cu creanțe bugetare de plată scadente către bugetul local".
+
+În ceea ce privește respectarea criteriului experienței similare, cu referire la capacitatea tehnică și profesională, menționează faptul că S.C. #### #### ######### S.R.L. își asumă întreaga răspundere privind valoarea declarată a contractelor realizate, respectiv privind veridicitatea și realitatea datelor cuprinse în documentele depuse în cadrul procedurii de atribuire. Autoritatea contractantă a procedat în mod corect la analiza celor declarate, apreciind că S.C. #### #### ######### S.R.L. îndeplinește condițiile legale și cerințele documentației de atribuire, fiind calificată în etapa a II-a, de evaluare a ofertelor.
+
+În continuare, autoritatea contractantă a precizat că a încheiat în anul 2021 cu #### #### ######### S.R.L. un acord-cadru având ca obiect achiziția produsului "###### 9x19 mm cu glonț frangibil", în baza căruia au fost încheiate două contracte subsecvente, în urma derulării acestora furnizorul îndeplinindu-și obligațiile contractuale, livrând produsele la sediile beneficiarilor, conform prevederilor contractuale. De altfel, îndeplinirea cerințelor experienței similare este reținută și de C.N.S.C.
+
+Fiind îndeplinite cerințele impuse de autoritatea contractantă pentru demonstrarea experienței similare, C.N.S.C. a constatat, în mod temeinic și legal, că, și din acest punct de vedere, criticile petentei sunt nefondate.
+
+De asemenea, contrar susținerilor petentei, C.N.S.C. nu și-a depășit atribuțiile administrativ-jurisdicționale, deoarece Declarațiile privind lista principalelor livrări de produse în ultimii 5 ani, depuse de S.C. #### #### ######### S.R.L., au fost analizate de comisia de evaluare, iar concluziile acesteia au fost consemnate în cadrul Procesului-verbal al ședinței de evaluare a documentelor de calificare și selecție nr. A3/_____ din 16.09.2024, din care rezultă faptul că valoarea produselor similare aferente unor contracte încheiate/finalizate în perioada ######### este de 3796548,10 lei, valoare cu mult peste cerințele din fișa de date a achiziție.
+
+Or, C.N.S.C. doar a reținut aspectele consemnate de autoritatea contractantă în cuprinsul Procesului-verbal al ședinței de evaluare a documentelor de calificare și selecție nr. A3/_____ din 16.09.2024, prin raportare la documentația procedurii, confirmând temeinicia și legalitatea desfășurării procedurii de atribuire.
+
+Nu pot fi reținute nici criticile petentei privind nemotivarea Deciziei nr. ####/C7/3581 din data de 08.11.2024.
+
+Motivarea unei hotărâri nu reprezintă o problemă de volum, ci una de esență, de conținut, aceasta urmând să fie clară, concisă și concretă, în concordanță cu probele și actele de la dosar, iar, din analiza deciziei criticate, se poate observa că C.N.S.C. a cercetat în mod exhaustiv plângerea, analizând atât susținerile părților în litigiu, cât și documentația procedurii, cu respectarea dispozițiilor legale și cu deplină înțelegere a stadiului în care se află procedura de atribuire, respectiv etapa a II-a de evaluare a ofertelor depuse de cei doi candidați selectați (S.C. #### #### ######### S.R.L. și S.C. ########### ######### ############# S.R.L.).
+
+######## a identificat și analizat în mod corect atât situația de fapt, cât și cadrul legislativ aplicabil obiectului plângerii, motivarea soluției pronunțate regăsindu-se în cuprinsul filelor 24-36 din decizia contestată.
+
+În plus, au fost respinse în mod just și criticile privind furnizarea de informații false de către candidatul S.C. #### #### ######### S.R.L. (cu subcontractant S.C. ##### ##### ##### S.R.L.), deoarece, astfel cum a reținut și C.N.S.C., în situația în care considera că au fost furnizate informații false în procedură, petenta trebuia să se adreseze instituțiilor abilitate în acest sens, Consiliul neavând asemenea atribuții.
+
+În combaterea acțiunii, intimatul a pretins încuviințarea probei cu înscrisuri.
+
+(ii) La rândul său, intimata S.C. #### #### ######### S.R.L., a depus întâmpinare în 02.12.2024, prin care a solicitat respingerea plângerii ca nefondată (f. 80-86 - vol. I).
+
+În motivare, aceasta a afirmat că, în opoziție cu susținerile subiective ale petentei, Consiliul a soluționat cauza în mod obiectiv, fără părtinire, pronunțând o decizie motivată corespunzător, întemeiată pe un raționament corect și riguros, care s-a raportat la dispozițiile legale relevante atât în domeniul achizițiilor publice, cât și în materie de comercializare muniție cu destinație militară. Consiliul nu și-a depășit atribuțiile administrativ-jurisdicționale, nu a derogat de la regulile documentației de atribuire și a analizat în mod temeinic probatoriul administrat în cauză.
+
+Cu titlu prealabil, intimata a învederat că, împotriva Încheierii nr. ####/C7/3581/21.10.2024 prin care s-a respins cererea de suspendare a procedurii, Transcarpat a formulat plângerea care face obiectul dosarului nr. ####/2/2024. Mai mult, în condițiile în care a solicitat suspendarea procedurii inclusiv prin prezenta plângere, sunt vădit lipsite de interes criticile care vizează respectiva încheiere emisă de C.N.S.C.
+
+Cu privire la pretinsa încălcare a principiului contradictorialității și dreptului la apărare pe care o invocă petenta, se poate constata că nu se face dovada unei eventuale vătămări cauzate de modul în care Consiliul a dat eficiență principiului celerității în soluționarea contestației. În condițiile în care Transcarpat a avut posibilitatea reală și neîngrădită de a formula toate apărările necesare, petenta nu poate invoca un prejudiciu cert care ar fi fost provocat de timpul care i-a fost acordat pentru a răspunde excepției tardivității contestației.
+
+#### în privința schimbării componenței completului de soluționare a contestației nu se demonstrează o vătămare efectivă a intereselor petentei.
+
+În privința soluțiilor de respingere a cererilor de recuzare a membrilor completului 7 al Consiliului, solicită a se constata legalitatea acestora prin raportare la inexistența unor incompatibilități legale de soluționare a unor contestații în spețe similare.
+
+Contrar susținerilor petentei, decizia Consiliului este amplu motivată, fiind analizate toate criticile formulate de către Transcarpat în ceea ce privește capacitatea de exercitare a activității profesionale de către candidat și subcontractantul declarat, în considerarea regulilor din documentația de atribuire.
+
+Pe fondul contestației, Transcarpat a solicitat prin demersul său anularea rezultatului etapei privind depunerea candidaturilor și a actelor care au stat la baza emiterii acestuia, apreciind nefondat că societatea intimată nu ar îndeplini cerințele minime de calificare stabilite de autoritatea contractantă UM _____.
+
+Precum a arătat și prin cererea de intervenție, criticile formulate de Transcarpat prin contestație și reluate în plângere reprezintă opinii personale ale Transcarpat, nesusținute în drept și în fapt, fără corespondent concret în documentația de atribuire publicată în SEAP și nici în cuprinsul candidaturii depuse de societatea intimată.
+
+Astfel, este corectă aprecierea Consiliului cu privire la admisibilitatea candidaturii societății Cess, organismul administrativ-jurisdicțional apreciind în mod riguros fie inexistența unor cerințe de calificare eronat invocate de către Transcarpat, fie respectarea cerințelor documentației de atribuire, astfel cum acestea au fost exprimate în mod transparent.
+
+În mod corect, Consiliul a acordat preeminență caracterului obligatoriu al documentației de atribuire. Astfel, s-a avut în vedere că, odată publicată în SEAP și ulterior deschiderii ofertelor, toate prevederile documentației de atribuire și-au consolidat forța obligatorie atât pentru operatorii economici participanți la procedura de atribuire, cât și pentru autoritatea contractantă, acestea fiind sensul prevederilor art. 32 alin. (1) și (2) din O.U.G. nr. 114/2011.
+
+În consecință, comisia de evaluare avea obligația de a analiza candidaturile exclusiv în raport de cerințele stabilite, fără posibilitatea reinterpretării documentației. De altfel, în acest sens este inclusiv jurisprudența Consiliului, prin Decizia nr. ###/C1/462, 468, 471 din 14.05.2020 fiind reținute următoarele: "In soluționare, Consiliul va retine faptul ca atât cerințele din fisa de date si caietul de sarcini referitoare la modul de elaborare a propunerii tehnice si cu privire la serviciile ce fac obiectul prezentei proceduri de atribuire sunt obligatorii si nu formale, înscrisurile elaborate de autoritatea contractanta nefiind contestate de către niciun operator economic interesat".
+
+De asemenea, în cuprinsul Deciziei nr. ###/C1/554 din 06.05.2020, definitive prin Decizia civilă nr. ###/24.06.2020 pronunțată de Curtea de Apel București, C.N.S.C. a consemnat următoarele aspecte: "Cerintele exprese din caietul de sarcini cu privire la specificațtiile tehnice ale lampilor si modul de elaborare a propunerii tehnice nu au fost contestate de participanta la procedura, iar prin depunerea ofertelor pentru procedura in cauza, operatorii economici au acceptat condițiile impuse de autoritatea contractanta. Nemodificata anterior datei limita de depunere a ofertelor, documentatia de atribuire (inclusiv fisa de date si caietul de sarcini) devine obligatorie atat pentru ofertanti care trebuie sa o respecte intocmai, cat si pentru autoritate in procesul de evaluare a ofertelor".
+
+Mai mult, prin Decizia nr. ####/C8/1511 din 06.06.2014, C.N.S.C. a reținut următoarele: "De asemenea, Consiliul retine ca analiza ofertei se realizeaza exclusiv la continutul documentatiei de atribuire, fara posibilitatea de a reinterpreta prevederi ale acesteia si analizarea ofertei in consecinta".
+
+####, astfel, evident că autoritatea contractantă nu putea respinge o candidatură care a respectat cerințele documentației, așa cum a fost publicată în SEAP, cu respectarea principiului transparenței, prin reinterpretarea acesteia.
+
+Mai mult, motivat de faptul că Transcarpat acționează cu rea-credință prin contestarea tuturor procedurilor de atribuire, invocând aceleași motive nefondate referitoare la candidatura intimatei, la soluționarea plângerii trebuie avută în vedere Decizia C.N.S.C. nr. 2268/C9/2196, 2338, 2404 din 26.09.2023, pronunțată între aceleași părți, prin care a fost respinsă contestația aceluiași operator economic, în cuprinsul căreia au fost inserate critici identice cu cele care fac obiectul raportului juridic litigios, prin raportare la cerințe ale documentației de atribuire similare cu cele aferente prezentei proceduri, pe care înțelege să o invoce ca efect al puterii de lucru judecat de care se bucură deciziile C.N.S.C.
+
+În considerarea celor mai sus menționate, intimata a înțeles să reitereze argumentele invocate în intervenție pentru care criticile aduse candidaturii depuse de Cess sunt vădit nefondate.
+
+Astfel, Cess îndeplinește criteriul de calificare și selecție privind Situația personală a candidatului sau ofertantului.
+
+Sub acest aspect, Transcarpat reia prin plângere critica conform căreia intimata nu ar fi prezentat documente din care să rezulte situația personala a subcontractantului ##### ##### ##### S.R.L.
+
+În soluționarea acestei critici, C.N.S.C. a precizat corect că aspectele invocate de Transcarpat sunt nefondate prin raportare la conținutul documentației de atribuire.
+
+Cess a prezentat în cadrul candidaturii toate documentele solicitate de autoritate, iar pentru Nitro a fost prezentată inclusiv declarația privind neîncadrarea în situațiile prevăzute la art. 150 din O.U.G. nr. 114/2011, precum și Declarație privind calitatea de participant la procedură, împreună cu dovada capacității subcontractantului de a îndeplini obligațiile asumate prin acordul de subcontractare.
+
+Contrar celor susținute de Transcarpat, în ceea ce privește subcontractantul Nitro, intimata nu avea nicio altă obligație decât prezentarea Formularului nr. 6, în condițiile în care în documentația de atribuire se face referire la obligația candidatului, acesta din urmă fiind definit la art. 3 pct. 5 din O.U.G. nr. 114/2011 ca fiind: "oricare operator economic care a depus candidatura în cazul unei proceduri de licitație restrânsă, negociere sau dialog competitiv".
+
+Or, în prezenta procedură, candidatura a fost depusă de Cess, doar în sarcina acestuia existând obligația de a prezenta și alte declarații/documente prevăzute de autoritatea contractantă. De altfel, văzând inclusiv textul prevederilor art. 155 și al art. 156 din O.U.G. nr. 114/2011, chiar legiuitorul face referire la situația candidatului, iar nu a subcontractantului, care ar putea fi exclus dintr-o procedură în cazul în care se află în situațiile reglementate de dispozițiile legale mai sus menționate.
+
+În acest context, nefondate sunt inclusiv afirmațiile referitoare la obligația depunerii certificatelor de atestare fiscală pentru subcontractantul Nitro, în condițiile în care, așa cum rezultă din cuprinsul documentației de atribuire, doar candidatul Cess avea obligația de a le prezenta.
+
+Mai departe, în ceea ce privește îndeplinirea criteriului de calificare și selecție privind capacitatea de exercitare a activității profesionale, contrar celor invocate de Transcarpat, intimata a prezentat în cadrul candidaturii toate documentele necesare realizării obiectului acordului-cadru, pe lângă certificatul constatator fiind prezentate inclusiv autorizațiile eliberate de MAE-ANCEX și de către DGPMB, documente care fac pe deplin dovada capacității de a realiza obiectul acordului-cadru.
+
+#### nu s-au solicitat prin documentația de atribuire cerințe exprese privind autorizarea subcontractanților de a desfășura anumite activități, a prezentat dovezi concludente privind deținerea de către Nitro ##### Group a autorizațiilor necesare pentru prestarea serviciilor subcontractate.
+
+Pe de altă parte, relevante la soluționarea plângerii sunt aspectele reținute sub puterea lucrului judecat de Curtea de Apel București prin Decizia civilă nr. ### din 20 mai 2020, instanța de judecată pronunțându-se atât în ceea ce privește codul CAEN existent în certificatele constatatoare eliberate pe numele celor doi operatori economici, cât și în ceea ce privește autorizațiile prevăzute de lege.
+
+Critici similare au fost invocate de către Transcarpat în cadrul contestației soluționate prin Decizia C.N.S.C. nr. 1436/C7/1440 din 11.07.2022, rămasă definitivă prin Decizia civilă nr. #### din 10.10.2022 pronunțată de Curtea de Apel București.
+
+În același sens, critici identice invocate de Transcarpat au fost respinse de către C.N.S.C. prin Decizia nr. ####/C9/2196, 2338, 2404 din 26.09.2023, pronunțată între aceleași părți, prin care a fost respinsă contestația aceluiași operator economic împotriva rezultatului etapei I aferente unei alte proceduri de atribuire având obiect similar, prin raportare la cerințe ale documentației de atribuire identice cu cele aferente prezentei proceduri.
+
+În considerarea celor mai sus menționate, contrar argumentelor invocate de Transcarpat, intimata, împreună cu subcontractantul declarat Nitro, deține capacitatea legală, demonstrată prin înscrisuri, de a derula obiectul acordului-cadru, aspect care poate fi constatat inclusiv prin contractele prezentate drept experiență similară, situație în care se impune respingerea contestației ca nefondată.
+
+Susținerile societății contestatoare în ceea ce privește codurile CAEN care se regăsesc în cuprinsul certificatelor constatatoare depuse versus impunerea unor anumitor coduri nu pot fi reținute la soluționarea plângerii, având in vedere că autoritatea contractantă nu a impus un numit cod CAEN, situație, de altfel, reținută cu putere de lucru judecat inclusiv prin Decizia C.N.S.C. nr. 1436/C7/1440 din 11.07.2022 și prin Decizia C.N.S.C. nr. 2268/C9/2196, 2338, 2404 din 26.09.2023.
+
+În ceea ce privește experiența similară relevantă, astfel cum a reținut corect C.N.S.C., în cadrul candidaturii, Cess a prezentat o ________ contracte și documente emise și contrasemnate de autorități publice, prin care este demonstrată îndeplinirea corespunzătoare a obligațiilor în cadrul contractelor prezentate drept experiență similară, din documente rezultând obiectul contractelor, numele beneficiarului, valorile contractelor, perioada și locul de furnizare a produselor, confirmarea îndeplinirii corespunzătoare a obligațiilor contractuale.
+
+Referitor la presupusele informații false despre situația și capacitățile Cess, calitatea de contractant în contractele prezentate drept experiență similară a fost deținută de Cess, fiind entitatea care și-a asumat responsabilitatea derulării acestora, sens în care întreaga experiență este a contractantului, chiar dacă în cadrul procedurii a declarat subcontractant. În acest sens, relevante sunt dispozițiile art. 14 alin. (3) din Instrucțiunea Agenției Naționale pentru Achiziții Publice nr. 2/2017.
+
+În ceea ce privește aspectele referitoare la afectarea gravă a concurenței reale în procedura de atribuire, acestea sunt nemotivate și nefondate.
+
+Nu există un motiv de excludere, petenta invocând îin mod vădit nefondat o pretinsă incidență a dispozițiilor art. 156 lit. b), c) și f) din O.U.G. nr. 114/2011 prin raportare la Sentința civilă nr. ####/04.04.2024.
+
+Conform intimatei, este evidentă încercarea de inducere în eroare a instanței de judecata prin menționarea respectivei sentințe a Tribunalului București, în cuprinsul căreia nu s-a reținut existența unui potențial motiv de excludere a societății Cess din procedurile de atribuire viitoare. Astfel, prin respectiva hotărâre judecătorească s-a dispus anularea unui contract de achiziție publică exclusiv ca urmare a anulării procedurii de atribuire determinate de erori ale autorității contractante în modalitatea de organizare a unei proceduri de atribuire, fără a se reține o eventuală abatere gravă/încălcare a obligațiilor contractuale sau furnizarea de informații false în sarcina intimatei Cess. În acest context, nu era necesară declararea de către societatea intimată a încadrării într-o potențială situație de excludere din procedura de atribuire.
+
+De asemenea, nu era necesară și nici obligatorie declararea unei eventuale proceduri judiciare de soluționare a unei eventuale plângeri penale invocate de către Transcarpat, în condițiile în care nu are cunoștință de existența unui/unor dosare penale care să vizeze societățile Cess și Nitro. Mai mult, inclusiv în ipoteza în care ar exista anchete penale în curs nu ar fi necesară declararea, în lipsa unei/unor condamnări penale definitive pentru săvârșirea unor infracțiuni grave din categoria celor prevăzute de art. 155 din O.U.G. nr. 114/2011. 
+
+Intimata a solicitat să se valideze raționamentul Consiliului care a ținut cont inclusiv că o parte dintre criticile formulate au fost respinse cu putere de lucru judecat în spețe similare. Astfel, în considerarea principiului "Res indicata proveritate habetur", în mod corect Consiliul a ținut seama de dezlegările jurisdicționale și judiciare anterior invocate.
+
+Referitor la cererea subsidiară de anulare a procedurii, nu există niciun motiv temeinic pentru a fi dispusă această măsură extremă, legalitatea evaluării candidaturilor și ofertelor fiind confirmată de actele emise de autoritatea contractantă și de jurisprudența relevantă invocată în cererea de intervenție.
+
+De asemenea, se impune a se respinge ca neîntemeiată cererea de suspendare a procedurii de atribuire, nefiind îndeplinite condițiile legale pentru a fi dispusă o astfel de măsură. În acest sens, nu a fost demonstrată vătămarea produsă societății contestatoare prin raportare la stadiul procedurii de atribuire și la imposibilitatea finalizării procedurii de atribuire prin semnarea acordului-cadru anterior soluționării pe fond a contestației.
+
+În combaterea acțiunii, intimata a pretins încuviințarea probei cu înscrisuri.
+
+IV. Aspecte procesuale
+
+La data de 12.12.2024, petenta a depus o cerere de denunțare a unor înscrisuri ca falsuri, întemeiată pe art. 304 și urm. C.proc.civ. (f. ####### # vol. I), în aceeași zi formulând și o excepție de nelegalitate, bazată pe dispozițiile art. 4 alin. (1)-(3) din Legea nr. 554/2004, cu privire la o ________ acte, solicitând soluționarea plângerii fără a ține seama de acestea (f. ####### # vol. I).
+
+Prin Încheierea din 14.02.2025, instanța a respins ca neîntemeiată cererea petentei de suspendare a judecății cauzei (f. 46-50 - vol. II).
+
+V. Considerentele Curții asupra plângerii
+
+În fapt, Ministerul Apărării - Unitatea Militară _____ București, în calitate de autoritate contractantă, a inițiat o procedură de achiziție publică de tipul licitației restrânse accelerate, în vederea încheierii unor acorduri-cadru de furnizare a produselor "Lotul 1 - ###### 7,62x25 mm cu glonț obișnuit, Lotul 2 - ###### 7,65x17 mm cu glonț obișnuit, Lotul 3 - ###### 7,62x51 mm, pe bandă", cod CPV principal ########## Cartuse (Rev.2), conform Anunțului de participare publicat în SEAP sub nr. CN1071437/26.07.2024, respectiv în J.O.U.E. sub nr. ###########,. Valoarea totală estimată a achiziției, fără T.V.A., a fost stabilită la 8689620 lei, criteriul de atribuire fiind "Prețul cel mai scăzut".
+
+Prin Procesul-verbal al ședinței de evaluare a documentelor de calificare și selecție depuse în cadrul procedurii nr. A3/_____ din 16.09.2024, comisia de evaluare a constatat că, pentru Lotul 3, sunt admisibile candidaturile depuse de #### #### ######### S.R.L. și de S.C. ########### ######### ############# S.R.L.
+
+Totodată, prin Raportul intermediar al procedurii privind selectarea și calificarea candidaților pentru etapa a II-a nr. A3/_____ din 16.09.2024, cei doi candidați au fost selectați pentru etapa a II-a a procedurii, comisia de evaluare propunând transmiterea documentației de atribuire pentru etapa respectivă candidaților selectați, începând cu data de 18.09.2024.
+
+Ulterior, prin Comunicările privind rezultatul etapei I - Selectarea candidaților nr. A3/_____ și, respectiv, nr. A3/_____ din 18.09.2024, candidaților li s-a adus la cunoștință faptul că au fost calificați și selectați pentru a participa la etapa a II-a - Elaborarea ofertei, în baza îndeplinirii cerințelor minime de calificare solicitate prin documentație, pentru loturile pentru care s-au înscris.
+
+De asemenea, aceiași candidați au primit Invitațiile de participare nr. A3/_____ și, respectiv, nr. A3/_____ din 18.09.2024, prin care li s-a adus la cunoștință transmiterea documentației de atribuire etapa a II-a și invitația de a depune oferta elaborată în limba română, până la data de 02.10.2024.
+
+Nemulțumită fiind de selectarea candidatului #### #### ######### S.R.L., societatea ########### ######### ############# S.R.L. a formulat contestație la C.N.S.C. cu privire la Lotul 3, prin care a atacat parțial rezultatul etapei I de selectare a candidaților și decizia autorității contractante de invitare în etapa a II-a de evaluare a ofertelor a candidatului #### #### ######### S.R.L., cu subcontractant ##### ##### S.R.L., pentru motivele expuse în rândurile ce urmează:
+
+→ Nu a fost analizată calitatea de operator economic a tandemului Cess-Nitro; astfel, nu a fost probat că Cess și Nitro sunt operatori economici, respectiv că au abilitarea legală și, astfel, posibilitatea concretă de a îndeplini contractul în condiții legale, deci de a furniza în mod legal muniția militară obiect al contractului și de a rezolva în aceleași condiții legale dificultăți legate de îndeplinirea acestuia; obiectul de activitate al Cess a fost analizat diferit de cel al celorlalți candidați, în mod favorizant, din acesta nereieșind îndeplinirea cerinței, în aceeași situație regăsindu-se și certificatul de înregistrare al lui Cess și analiza acestor documente pentru Nitro; Cess-Nitro nu îndeplinește cerința privind obiectul de activitate și nu are autorizate nici activitățile de comercializare de muniții militare și nici operațiunile subcontractate, deci nu le poate efectua în legalitate;
+
+→ Situația personală a candidatului Cess-Nitro nu a fost examinată cu atenție; lipsesc anumite documente ce ar fi trebuit să fie depuse de către subcontractant, precum certificatele fiscale din care să rezulte lipsa datoriilor la bugetul de stat și la cel local; certificatul fiscal al lui Cess pentru punctul de lucru din București, #### ####### ### ##, Sector 1 nu este depus; din actele procedurii rezultă că Cess-Nitro nu a depus în cadrul candidaturii nici declarațiile impuse și nici celelalte documente care probează sau confirmă îndeplinirea cerințelor;
+
+→ Cess-Nitro a omis să declare faptul că situația sa se încadrează în prevederile art. 156 lit. b), c) și f) prin aceea că instanța competentă i-a anulat un contract de achiziții publice de muniții militare în care a furnizat și informații false, fiind devoalată și tendința acestuia de a stabili și de a beneficia de relații neetice cu autorități contractante, cum este și cazul actualei;
+
+→ #### Cess și nici Nitro nu au capacitatea profesională de a efectua în mod legal toate activitățile implicate de acest contract; nu are autorizare pentru transportul munițiilor, nu are autorizare pentru obiectul principal al contractului, comercializarea sub forma vânzării-cumpărării munițiilor militare, din activitățile înscrise în certificatul O.N.R.C. al Cess nerezultând îndeplinirea cerinței; Cess nu deține autorizarea specială pentru activitatea de producere/comercializare de muniție militară; Nitro nu deține autorizarea specială pentru desfășurarea activităților subcontractate, și anume pentru paza transportului cu jandarmi, asigurare armurier, informare autorități și însoțire transport; obiectul de activitate al Cess-Nitro, spre deosebire de candidaturile concurente, nu conține nicio referire la activități cu produse, corespunzător codului CPV aferent celor de natura celor care fac obiectul prezentei proceduri, fiind un obiect de activitate general, fără referire la operațiuni cu muniție militară; în cazul unui obiect de activitate impus printr-o lege specială, codul CAEN nu mai are înțelesul comun, ci pe cel atribuit de către autoritatea care l-a avizat/autorizat, drept pentru care codurile comune 4690 sau 4669 au exclusiv înțelesul dat de nomenclatorul CAEN (comerțul cu ridicata al diverselor produse fără nicio speicalizare, respectiv al altor mașini și echipamente), munițiile nefiind, în niciun caz, produse fără nicio specializare și nici mașini și echipamente; intermedierea nu este echivalentă cu obiectul contractului (vânzarea-cumpărarea) și nici nu există ca activitate în materia guvernată de legea specială; pentru obiectul de activitate al lui Nitro, autoritatea nu a înscris nicio mențiune; documentele prezentate nu demonstrează certificarea pentru domeniul de activitate producere/comercializare muniție, în conformitate cu standardul ISO-9001 sau echivalent, pentru activitatea proprie de producere/comercializare;
+
+→ Entitatea contractantă nu a analizat efectiv experiența similară invocată de Cess-Nitro prin raportare la impunerile din #### de date; nu au fost verificate nici măcar valorile prezentate; fiind realizate cu subcontractant, Cess nu își putea asuma întreaga valoare a contractelor, trebuind a extrage valoarea aferentă procentului subcontractat; același contract a fost prezentat de către Cess-Nitro în mod diferit în diverse proceduri, rezultând o manipulare a informației; există discrepanțe evidente privind valorile și cantitățile contractelor invocate ca experiență similară (cum ar fi cazul Contractului nr. 1 din 16.03.2020, încheiat între Cess și UM _____ București, unde cantitățile contractate nu coincid cu cele pretins livrate), precum și neîncadrarea lor în codul CPV impuse; multe dintre documentele depuse nu demonstrează livrarea efectivă a produselor; este incident și motivul de excludere privind furnizarea de informații false în vederea calificării candidaturii Cess;
+
+→ Prin acțiunile sale și prin actele emise, autoritatea contractantă a urmărit exclusiv alterarea și distorsionarea concurenței în procedură, încercând să direcționeze contractul către operatorii economici preferați, cu încălcarea principiului tratamentului egal, al nediscriminării și al proporționalității; unii membri ai comisiei de evaluare sunt în conflict de interese față de candidatul criticat, având un istoric de favorizare a acestuia cu scopul defavorizării Transcarpat; există o bogată jurisprudență care a sancționat conduite similare ale autorităților contractante ca urmare a contestațiilor depuse de Transcarpat.
+
+Autoritatea contractantă a depus 17.10.2024 un punct de vedere la contestația introdusă, iar în 21.10.2024 a transmis o completare la punctul de vedere initițial, prin care a ridicat excepția tardivității contestației și excepția lipsei de interes.
+
+Ulterior, prin concluziile scrise din 05.11.2024, contestatoarea a invocat, inter alia (printre altele), decăderea autorității din dreptul de a depune completări la punctul de vedere, precum și declararea de către Cess în mod abuziv și nelegal a candidaturii sale drept confidențială.
+
+Prin Decizia Consiliului Național de Soluționare a Contestațiilor nr. 3183/C7/3581 din 08.11.2024 s-au respins, ca nefondate, excepția lipsei de interes a contestatoarei și excepția tardivității contestației, invocate de autoritatea contractantă, respingându-se ca nefondată contestația, respectiv ca rămasă fără obiect solicitarea ########### ######### ############# S.R.L., datată 06.11.2024, de suspendare a soluționării contestației până la soluționarea cererii de recuzare a completului 7 formulată prin adresa nr. _____/06.11.2024. În același timp, s-a admis cererea de intervenție introdusă de către #### #### ######### S.R.L. în favoarea autorității contractante.
+
+Împotriva deciziei C.N.S.C. antereferite, Transcarpat a formulat plângerea ce face obiectul prezentei analize, prin care a invocat o ________ critici vizând nelegalitatea și netemeinicia acesteia, și anume:
+
+(i) Atât autoritatea, cât și Consiliul i-au restricționat în mod abuziv accesul la documentele depuse de Cess-Nitro pentru a proba îndeplinirea cerinței privind experiența similară;
+
+(ii) Soluționarea cauzei de către Consilliu cu vădită lipsă de echidistanță și părtinire;
+
+(iii) Caracterul nemotivat al deciziei;
+
+(iv) Depășirea de către Consiliu a atribuțiilor sale administrativ-jurisdicționale;
+
+(v) Contrar reținerilor C.N.S.C., candidatura Cess-Nitro nu îndeplinește cerințele privind capacitatea de exercitare a activității profesionale;
+
+(vi) Candidatura Cess-Nitro nu îndeplinește cerințele privind situația personală a candidaților;
+
+(vii) Candidatul Cess-Nitro a omis să declare faptul că situația sa se încadrează în prevederile art. 156 lit. b), c) și f) din O.U.G. nr. 114/2011;
+
+(viii) Candidatura Cess-Nitro nu îndeplinește cerințele privind capacitatea tehnică și profesională.
+
+Totodată, pe parcursul litigiului, petenta s-a înscris în fals și a invocat excepția de nelegalitate cu privire la anumite înscrisuri.
+
+Examinând cu prioritate declarația de înscriere în fals și excepția de nelegalitate, Curtea le va respinge ca inadmisibile, acestea fiind incompatibile de plano cu procedura plângerii instituite de art. 29 din Legea nr. 101/2016, pentru care legiuitorul a stabilit necesitatea soluționării de urgență, într-un termen maximal de 45 de zile de la data sesizării legale a instanței, precum și limitarea dezabaterilor în cadrul plângerii la motivele invocate de către contestator la Consiliu, fără posibilitatea de a propune probe noi față de cele care au fost depuse în cadrul contestației.
+
+În continuare, analizând criticile petentei, instanța constată netemeinicia acestora, plângerea fiind nefondată.
+
+Astfel, în ceea ce privește susținerea petentei că autoritatea și Consiliul i-au restricționat în mod abuziv accesul la documentele depuse de Cess-Nitro pentru a proba îndeplinirea cerinței privind experiența similară, instanța remarcă, pe de o parte, că prin contestația depusă la C.N.S.C., petenta nu a criticat declararea de către candidata Cess drept confidențiale a documentelor cu pricina. #### pe calea concluziilor scrise, transmise prin e-mail în 05.11.2024, petenta a înțeles să critice acest aspect, prin paragraful notat "(77)".
+
+Or, așa cum s-a reținut și în decizia C.N.S.C., neatacată din această perspectivă, termenul de 10 zile pentru formularea contestației a început să curgă la data de 02.10.2024, când i-a fost comunicat petentei Procesul-verbal al ședinței de deschidere a candidaturilor, înscris în care se consemnează inclusiv faptul că societatea #### #### ######### S.R.L. a depus "Declarație privind partea/părțile din documentația de atribuire care au caracter confidențial". În acest context, critica referitoare la confidențializare era tardiv formulată în fața Consiliului, sens în care nici nu a mai fost analizată, iar petenta nu poate invoca pe calea plângerii alte motive împotriva actelor autorității contractante decât cele cuprinse în contestația adresată Consiliului, conform art. 30 alin. (2) din Legea nr. 101/2016, critica fiind, astfel, inadmisibilă.
+
+Pe de altă parte, potrivit art. 19 alin. (1) din Legea nr. 101/2016, "La cerere, părțile cauzei au acces la documentele dosarului constituit la Consiliu, în aceleași condiții în care se realizează accesul la dosarele constituite la instanțele de judecată potrivit prevederilor Legii nr. 134/2010, republicată, cu modificările ulterioare, cu excepția documentelor pe care operatorii economici le declară și probează ca fiind confidențiale (s.n.), întrucât cuprind, fără a se limita la acestea, secrete tehnice și/sau comerciale, stabilite conform legii, iar dezvăluirea acestora ar prejudicia interesele legitime ale operatorilor economici, în special în ceea ce privește secretul comercial și proprietatea intelectuală", iar "Consultarea documentelor confidențiale din oferte este permisă numai cu acordul scris al respectivilor ofertanți (s.n.)" [art. 19 alin. (3) teza a II-a din lege].
+
+##### în vedere cererea societății Transcarpat de acordare de către Consiliu a accesului la dosarul format/depus în vederea formulării de concluzii scrise, precum și faptul că societatea #### #### ######### S.R.L. a declarat că părțile/informațiile din documentele depuse în cadrul Etapei I, pag. 90-121, au caracter confidențial, C.N.S.C. i-a solicitat celei din urmă să comunice temeiul juridic al încadrării tuturor înscrisurilor indicate de aceasta ca fiind confidențiale și să probeze, respectiv, să prezinte dovada care conferă caracter de confidențialitate înscrisurilor.
+
+Intervenienta accesorie a transmis în data de 25.10.2024 un răspuns, prin care a arătat că își exprimă refuzul în sensul acordării accesului contestatoarei la documentele din candidatură declarate ca fiind confidențiale, explicând declarația de confidențialitate prin prisma necesității respectării obligației contractuale asumate față de UM 0461 (S.R.I.) de a nu divulga informațiile din contractele încheiate, în condițiile în care în documentele de calificare de la paginile 90-121 sunt prezentate informații sensibile privind achizițiile de muniție efectuate de Serviciul ##### de Informații, a căror dezvăluire poate afecta interesele acelei instituții și, implicit, interesele de securitate ale României.
+
+Prin urmare, văzând explicațiile oferite de către intervenienta Cess, Curtea conchide că în mod corect a procedat Consiliul atunci când a permis societății Transcarpat să studieze dosarul la data indicată, cu excepția informațiilor declarate confidențiale, aflate la paginile 90-121, pentru studierea cărora i s-a pus în vedere că trebuie să obțină acordul scris al contracandidatului, în acord cu dispozițiile art. 19 alin. (3) din Legea nr. 101/2016, critica fiind nefondată.
+
+Mai departe, petenta afirmă că soluționarea cauzei de către Consiliu a fost făcută cu vădită lipsă de echidistanță și părtinire, prin aceea că:
+
+→ I-a acordat un termen de 24 de ore de la primirea Adresei nr. ###########C7/23.10.2024 pentru a-și exprima punctul de vedere cu privire la excepția tardivității invocată de către autoritatea contractantă prin completarea la punctul de vedere inițial, termenul concret fiind, susține petenta, de mai puțin de 6 ore, ținând seama de programul de lucru al C.N.S.C., care este de la 09:00 la 15:00 pentru depunerea contestațiilor.
+
+Contrar acestor alegații, petenta nu a avut la dispoziție 6 ore pentru depunerea punctului de vedere.
+
+Astfel, Legea nr. 101/2016 nu reglementează termenele socotite pe ore, sens în care devin incidente dispozițiile generale cuprinse în Codul de procedură civilă, aplicabile în completare, în baza art. 68 din lege.
+
+Potrivit art. 181 alin. (1) pct. 1 C.proc.civ., atunci "când termenul se socotește pe ore, acesta începe să curgă de la ora zero a zilei următoare", iar "Actul de procedură, depus înăuntrul termenului prevăzut de lege prin scrisoare recomandată la oficiul poștal sau depus la un serviciu de curierat rapid ori la un serviciu specializat de comunicare ori trimis prin fax sau e-mail, este socotit a fi făcut în termen", după cum statuează art. 183 alin. (1) C.proc.civ.
+
+Ca atare, observând că petenta a primit adresa în data de 24.10.2024, la ora 10:02, termenul de 24 de ore a început să curgă de la ora zero a zilei următoare, 25.10.2024, iar partea putea transmite punctul de vedere, bunăoară, prin e-mail, pe parcursul celor 24 de ore, chiar dacă programul Consiliului ar fi fost până la ora 15:00. Cu alte cuvinte, petenta a avut la dispoziție în mod concret chiar mai mult de 24 de ore, iar nu maximum 6 ore, așa cum a susținut în mod neîntemeiat.
+
+→ A permis autorității contractante să transmită completarea la punctul de vedere emis inițial peste termenul legal de 5 zile prevăzut la art. 18 alin. (1) din Legea nr. 101/2016, fără a fi fost probată intervenirea unui element de noutate.
+
+Sub acest aspect, prin punctul de vedere inițial, depus în termenul legal, entitatea contractantă nu a invocat nicio excepție, pentru ca ulterior, prin respectiva completare la punctul de vedere, depusă la mai mult de 5 zile de la comunicarea contestației, să ridice două excepții: excepția lipsei de interes și excepția tardivității.
+
+Potrivit art. 18 alin. (3) teza a II-a din Legea nr. 101/2016. "##### punctului de vedere al autorității contractante atrage decăderea ei din dreptul de a mai propune probe și de a invoca excepții, în afara celor de ordine publică, dacă legea nu prevede altfel".
+
+#### situația din speță nu se pliază perfect pe textul legal sus-citat, nefiind în prezența unei lipse a punctului de vedere, trebuie cercetată rațiunea pentru care legiuitorul a instituit sancțiunea decăderii din dreptul de a mai propune probe și de a invoca excepții, în afara celor de ordine publică, pentru a înțelege ce se întâmplă în cazul în care se depune o completare la un punct de vedere, în afara termenului legal. Or, aceasta nu poate fi decât aceea ca partea adversă să poată cunoască pe deplin, din timp, probele de care autoritatea înțelege să se folosească și excepțiile de ordine privată, pentru a-și formula apărări în consecință.
+
+D____ urmare, în ipoteza în care prin punctul de vedere nu sunt propuse probe sau invocate excepții de ordine privată, entitatea nu mai poate, în principiu, să propună alte probe sau să ridice excepții de ordine privată.
+
+În cauza de față, însă, autoritatea contractantă a invocat prin completarea la punctul de vedere două excepții de ordine publică, în legătură cu care nu era decăzută, așa încât în mod legal și temeinic a procedat Consiliul când a pus în discuție și a examinat excepțiile cu pricina.
+
+→ Încheierea din 21.10.2024, prin care Consiliul a respins cererea sa de suspendare a procedurii de atribuire, este bazată pe motive complet străine de obiectul contestației, iar C.N.S.C. a dispus, prin Încheierea din 31.10.2024, îndreptarea unei pretinse erori în încheierea inițială, deși doar părțile puteau solicita o atare îndreptare, iar acestea nu constituiau erori materiale, ci veritabile greșeli de soluționare.
+
+Chestiunile legate de modalitatea de soluționare de către C.N.S.C. a cererii de suspendare și utilizarea din oficiu a procedurii de îndreptare a erorii materiale nu pot constitui motiv de plângere împotriva deciziei Consiliului prin care a fost respinsă contestația, câtă vreme împotriva încheierilor antereferite partea putea formula plângere separată, lucru care s-a și întâmplat, de altfel.
+
+→ Componența Completului 7 a fost modificată de la o zi la alta, fără să existe la dosar proba unor motive temeinice, cu încălcarea principiului continuității.
+
+Sub acest aspect, componența completului comunicată inițial petentei [##### loanițescu (Președinte), ######-##### ####### și ###-######### ####] este identică celei care a pronunțat decizia C.N.S.C. atacată, pronunțarea încheierilor privind cererea de suspendare și îndreptare a erorii materiale de către Completul 7 într-o componență distinctă fiind o problemă ce ar fi putut fi semnalată exclusiv pe calea plângerilor împotriva acelor încheieri.
+
+→ Completul 7 are deja o părere formată cu privire la criticile Transcarpat, iar maniera în care a instrumentat și prezentul dosar denotă o opinie consolidată, neanalizând în mod real noile critici formulate prin contestație.
+
+Astfel cum a arătat și petenta, această chestiune a fost invocată, parțial, pe calea celor două cereri de recuzare formulate de către societate în fața Consiliului, iar, dacă ar fi fost nemulțumită, așa cum pare a fi, de soluția de respingere a cererilor de recuzare, partea litigantă avea posibilitatea de a contesta, odată cu fondul, și încheierile de respingere a recuzării, în acord cu prevederile art. 53 alin. (1) C.proc.civ., lucru pe care nu l-a întreprins, atacând exclusiv decizia prin care contestația a fost respinsă în fond.
+
+În plus, după cum se va constata în rândurile subsecvente, contestația a fost efectiv examinată de către complet, iar, în cauzele pe care le soluționează, consilierul de soluționare a contestațiilor se poate pronunța asupra unor probleme de drept similare,fără ca acest aspect să constituie, în sine, o dovadă a formulării unei păreri înainte de analizarea situației de fapt din speță prin prisma materialului probator existent la dosar, în lipsa altor elemente concrete.
+
+##### în vedere că niciunul dintre argumentele expuse de către petentă nu dovedește încălcarea dreptului său la un proces echitabil, critica reprezentată de o așa-zisă lipsă de echidistanță și părtinire din partea C.N.S.C este nefondată.
+
+În continuare, cât privește pretinsul caracter nemotivat al deciziei contestate, instanța notează că organul administrativ-jurisdicțional, asemenea instanței de judecată, nu are obligația de a analiza fiecare argument în parte, fiind suficient a proceda la expunerea raționamentului logico-juridic care să susțină într-o manieră clară concluzia adoptată. În situația în care se expune argumentația decisivă care a susținut concluzia, iar raționamentul exclude relevanța altor premise, motivarea este una suficientă pentru a considera că poziția părții a fost efectiv analizată, față de caracterul implicit al forței raționamentului asupra argumentelor nerelevante.
+
+######## și-a motivat în concret soluția, împrejurarea că motivarea nu este, în aprecierea petentei, suficient de detaliată ori că nu a fost însușit de către Consiliu raționamentul expus de partea contestatoare nu determină concluzia unei nemotivări.
+
+Mai departe, referitor la pretinsa depășire de către Consiliu a atribuțiilor sale administrativ-jurisdicționale, C.N.S.C. a menționat în cuprinsul deciziei următoarele: "#### adevărat că, în procesul – verbal nr. A3/_____/16.09.2024, al ședinței de evaluare a documentelor de calificare și selecție depuse în cadrul procedurii, autoritatea contractantă a reținut pentru subcontractantul declarat doar codul CAEN 8299 – #### activități de servicii suport pentru întreprinderi n.c.a., dar câtă vreme în Certificat constatator nr. _____/30.07.2024 prezentat în cadrul candidaturii existau și alte coduri CAEN relevante pentru îndeplinirea contractului în cauză, respectiv ale activităților desfășurate de acesta, Consiliul nu le-a putut ignora".
+
+Astfel, în Procesul-verbal al ședinței de evaluare a documentelor de calificare și de selecție nr. A3/_____ din 16.09.2024 s-a consemnat că societatea Cess a depus Certificat de înregistrare subcontractant nr. ##########.07.2017 emis O.N.R.C., ce menționează ca activitate principală cod CAEN 8299 - #### activități de servicii suport pentru întreprindere n.c.a., precum și Certificat constatator subcontractant nr. ______/30.07.2024, în care este menționată activitate principală cod CAEN 8299 - #### activități de servicii suport pentru întreprindere n.c.a., comisia de evaluare precizând că documentele se acceptă pentru îndeplinirea cerinței vizând "Certificatul de înregistrare și certificat constatator emise de către ONRC de pe lângă Tribunalul teritorial (pentru persoane juridice române) - original sau copie lizibilă, din care să rezulte informații care sunt reale/actuale la data limită de depunere a candidaturilor privind obiectul de activitate și sunt autorizați în desfășurarea acestui obiect de activitate, datele de identificare, acționarii/asociații, organele de conducere, administratorii, alte informații relevante - în original sau copie lizibilă cu mențiunea «conform cu originalul» cu semnătura și ștampila ofertantului".
+
+Cu toate că, în speță, comisia nu procedează la o analiză detaliată a informațiilor regăsite în certificatul constatator, rezumându-se la indicarea codului CAEN aferent activității principale, fără a face referire concretă la activitățile secundare enumerate în același certificat, activități relevante pentru executarea contractului în discuție, nu se poate aprecia că C.N.S.C. s-ar fi subrogat în atribuțiile autorității contractante, de vreme ce aceasta din urmă este cea care a conchis că cerința este îndeplinită prin raportare la certificatul constatator respectiv, iar nu Consiliul, care nu a făcut altceva decât să rețină că cerința era, într-adevăr, îndeplinită în cauză, prin raportare la mențiunile din certificat.
+
+Cât privește alegația petentei conform căreia candidatura intervenientei nu îndeplinește cerințele privind capacitatea de exercitare a activității profesionale, Curtea o socotește nefondată.
+
+În acest sens, pct. III.1.1.b) din #### de date reglementează cerința privind capacitatea de exercitare a activității profesionale, prevăzând, cu mențiunea că sublinierile sunt ale noastre, că cei care își depun candidatura "vor face dovada că sunt înregistrați și că au în obiectul de activitate și sunt autorizați în desfășurarea producerii/comercializării de produse, corespunzător codului CPV aferent celor de natura celor care fac obiectul prezentei proceduri de atribuire.
+
+Documente solicitate:
+
+a) pentru persoane juridice române:
+
+a.1) certificat de înregistrare emis de Oficiul Registrului Comerțului, în copie lizibilă cu mențiunea "conform cu originalul" cu semnătura și ștampila candidatului;
+
+a.2) certificat constatator, emis de Oficiul Registrului Comerțului, din care să rezulte informații care sunt reale/actuale la data limită de depunere a candidaturilor privind obiectul de activitate și sunt autorizați în desfășurarea acestui obiect de activitate, datele de identificare, acționarii/asociații, organele de conducere, administratorii, alte informații relevante - în original sau copie lizibilă cu mențiunea "conform cu originalul" cu semnătura și ștampila ofertantului;
+
+a.3) documente valabile la data depunerii candidaturii, din care să reiasă că operatorii economici sunt înregistrați în vederea efectuării de operațiuni de comerț exterior cu produse militare în conformitate cu prevederile OuG nr. 158/1999 privind regimul de control al exporturilor, importurilor și altor operațiuni cu produse militare, republicată, în cazul în care produsele/subansamble ale produselor au producător extern (confirmarea de înregistrare pentru efectuarea de operațiuni de comerț exterior cu produse militare, eliberată de Ministerul Afacerilor Externe-ANCEX).
+
+(...) Note:
+
+- Din doc. prezentate, trebuie să reiasă că op. econ. au în ob. de activ. producerea/comercializarea de produse, corespunzător codului CPV aferent celor care fac obiectul prezentei proceduri de atribuire și faptul că sunt autorizați în desfășurarea acestui obiect de activitate.
+
+- În cazul unei asocieri, fiecare asociat trebuie să prezinte aceste documente.
+
+- În cazul în care ofertantul clasat pe primul loc a prezentat Certificatul constatator emis de O.R.C./ documentele de înregistrare în copie, autoritatea contractantă va solicita, în etapa de evaluare a ofertelor, înainte de comunicarea rezultatului procedurii de atribuire, să prezinte pentru conformitate documentul în original /copie legalizată.
+
+Sancțiunea neîndeplinirii criteriului: Candidaturile operatorilor economici care nu sunt înregistrați și care nu au în obiectul de activitate producere/comercializare de produse de natura celor care fac obiectul prezentei proceduri de atribuire și/sau care nu sunt însoțite de documentele care probează/confirmă îndeplinirea cerinței, vor fi respinse".
+
+În speță, societatea Cess a depus:
+
+1) Certificatul de înregistrare ##### # ### #######, emis de Oficiu Registrului Comerțului de pe lângă Tribunalul I____, privind pe #### #### ######### S.R.L., în care se menționează activitatea principală: "4690 - Comerț cu ridicata nespecializat (pentru activitatea de import/export arme și muniții)";
+
+2) Certificatul constatator nr. ______/15.07.2024 emis de Oficiul Național al Registrului Comerțului, privind pe #### #### ######### S.R.L., în care se specifică datele de identificare, asociații, administratorii, precum și următoarele informații:
+
+"Activitate principală
+
+(...) 4690 - Comerț cu ridicata nespecializat
+
+Text suplimentar activitate principală: pentru activitatea de import/export arme și muniții
+
+Activități secundare
+
+(...) Text suplimentar activități secundare: 4614: pentru activitatea de intermediere în comerțul cu produse și echipamente militare, arme și muniții;
+
+4669: pentru activitățile de import export/comerț cu ridicata al produselor și echipamentelor militare, armelor și muniției de uz militar sau neletale și/sau comerț cu amănuntul al produselor și echipamentelor militare, armelor și muniției de uz militar;
+
+4941: pentru activitatea de transport rutier de produse și echipamente militare, arme, piese și muniții în țară/străinătate, efectuată contra cost (pe bază de tarif sau contract) pentru terți;
+
+5210: pentru activitatea de depozitare arme și muniții";
+
+3) Confirmare de înregistrare pentru efectuarea de operațiuni cu produse militare având cod de înregistrare C 15-128, emisă la 10.06.2022 de Ministerul Afacerilor Externe - Departamentul pentru Controlul Exporturilor, valabilă de la 14.06.2022 până la 13.06.2025, pentru efectuarea următoarelor operațiuni cu produse militare: export/import/transfer; intermediere conform art. 5 alin. (1) lit. k) din O.U.G. nr. 158/1999, republicată, privind pe #### #### ######### S.R.L.;
+
+4) Certificatul de înregistrare ##### # ### #######, emis de Oficiu Registrului Comerțului de pe lângă Tribunalul București, privind pe ##### ##### ##### S.R.L., în care se menționează activitatea principală: "8299 - #### activități de servicii suport pentru întreprinderi";
+
+5) Certificatul constatator nr. _____/30.07.2024 emis de Oficiul Național al Registrului Comerțului, privind pe ##### ##### ##### S.R.L., în care se specifică datele de identificare, asociații, administratorii, precum și următoarele informații:
+
+"Activitate principală
+
+(...) 8299 - #### activități de servicii suport pentru întreprindere n.c.a.
+
+Activități secundare
+
+(...) Text suplimentar activitate secundară: 4619 - inclusiv intermedieri arme și muniții
+
+4778- inclusiv comert cu arme si munitii ,
+
+7739 - inclusiv arme și muniții
+
+5210 - inclusiv depozitari arme și muniții
+
+(...) 7739 -inclusiv arme și muniții
+
+4941 - inclusiv arme si munitii
+
+4614 - intermedieri arme si munitii
+
+4669 - inclusiv import-export arme si munitii; comert cu amanuntul al armelor si munitiei de uz militar
+
+4690 - inclusiv arme si munitii";
+
+6) Confirmare de înregistrare pentru efectuarea de operațiuni cu produse militare având cod de înregistrare N 08-116, emisă la 16.10.2023 de Ministerul Afacerilor Externe - Departamentul pentru Controlul Exporturilor, valabilă de la 20.10.2023 până la 15.10.2026, pentru efectuarea următoarelor operațiuni cu produse militare: export/import/transfer; tranzit și transbordare; intermediere conform art. 5 alin. (1) lit. k) din O.U.G. nr. 158/1999, republicată, privind pe ##### ##### ##### S.R.L.
+
+Așadar, societatea #### #### ######### S.R.L. a depus atât pentru sine, cât și pentru subcontractantul ##### ##### ##### S.R.L. toate documentele pretinse în #### de date, iar acestea dovedesc că au în obiectul de activitate comercializarea de produse, corespunzător codului CPV aferent celor care fac obiectul prezentei proceduri de atribuire, atestând că sunt autorizate în desfășurarea respectivului obiect de activitate.
+
+Împrejurarea învederată de către petenta Transcarpat potrivit căreia autoritatea contractantă ar fi trebuit să verifice deținerea de către intervenientă și subcontractantul său a autorizației speciale emise în baza Legii nr. 232/2016 este neîntemeiată, o atare condiție nefiind inserată în documentația de atribuire, drept pentru care neîndeplinirea ei nu ar putea atrage respingerea candidaturii respective pe acest motiv. Odată ce documentația a rămas definitivă prin neatacarea sa în termenul legal ori respingerea totală/parțială a unei eventuale contestații, aceasta devine obligatorie pentru candidați și entitatea contractantă, deopotrivă.
+
+Astfel, autoritatea contractantă are obligația, conform art. 27 alin. (1) din O.U.G. nr. 114/2011, "de a preciza în cadrul documentației de atribuire orice cerință, criteriu, regulă și alte informații necesare pentru a asigura ofertantului/candidatului o informare completă, corectă și explicită cu privire la modul de aplicare a procedurii de atribuire", în vreme ce ofertantul are obligația, potrivit art. 32 alin. (1) din aceeași ordonanță, "de a elabora oferta în conformitate cu prevederile din documentația de atribuire", printre principiile care stau la baza atribuirii contractului de achiziție publică aflându-se nediscriminarea, tratamentul egal, transparența și proporționalitatea [art. 2 alin. (2) lit. a), b), d), e) din ordonanță].
+
+De altfel, în Hotărârea Curții de Justiție a Uniunii Europene din 26 ianuarie 2023, SC ## ######### SRL împotriva Județului #####, C-403/21, ECLI:EU:C:2023:47, instanța europeană a reținut că "Principiile proporționalității și transparenței garantate la articolul 18 alineatul (1) primul paragraf din Directiva 2014/24 trebuie interpretate în sensul că se opun ca documentele achiziției să fie completate de drept cu criterii de calificare rezultate din reglementări speciale aplicabile unor activități legate de contractul ce urmează să fie atribuit care nu au fost prevăzute în aceste documente și pe care autoritatea contractantă nu a intenționat să le impună operatorilor economici în cauză (s.n.)".
+
+Referirile pe care petenta (dar și intimații) le fac la o ________ decizii ale unor instanțe judecătorești sunt lipsite de relevanță, atât timp cât acestea nu au putere de lucru judecat în cauză, nefiind soluționată anterior aceeași chestiune juridică litigioasă, simplul fapt că ar exista, parțial, o similitudine între cauzele invocate și prezenta nejustificând reținerea efectului pozitiv al hotărârilor cu pricina.
+
+Ca atare, critica este nefondată.
+
+În continuare, în legătură cu pretinsa neîndeplinire de către intervenientă a cerințelor privind situația personală a candidaților, prin faptul că subcontractantul Nitro nu a depus doucmentele privind plata taxelor și impozitelor datorate către bugetul general consolidat și către bugetul local, conform pct. III.1.1.a) din #### de date, vizând Situația personală a candidatului sau ofertantului, cu sublinierile noastre, "Candidații vor face dovada că nu se încadrează în niciuna din situațiile stipulate la art. 155, art. 156 și art. 150 din O.u.G. nr. 114/2011.
+
+Documente solicitate:
+
+1. Declarație pe proprie răspundere privind neîncadrarea în situațiile prevăzute la art. 155 din O.u.G nr. 114/2011, Formular nr. 4, care va fi prezentat și de terțul susținător (financiar), dacă este cazul, iar în cazul unei asocieri, de către toți membrii asocierii;
+
+2. Declarație pe proprie răspundere privind neîncadrarea în situațiile prevăzute la art. 156 din O.u.G nr. 114/2011, Formular nr. 5. În cazul în care oferta se va depune în asociere, formularul va fi prezentat de către toți membrii asocierii.
+
+3. Certificate constatatoare privind îndeplinirea obligațiilor exigibile de plată a impozitelor și taxelor către stat, inclusiv cele locale, precum și a contribuției pentru asigurările sociale de stat, astfel:
+
+a) pentru persoane juridice române:
+
+- Certificat de atestare fiscală, eliberat de Agenția Națională de Administrare Fiscală – ####, din care să rezulte că operatorul economic participant ca și candidat la procedura de atribuire nu are datorii la bugetul general consolidat scadente la nivelul lunii anterioare celei în care este prevăzut termenul limită de depunere a candidaturilor. În cazul unei asocieri, documentul va fi prezentat de către toți membrii asocierii;
+
+- Certificat de atestare fiscală privind impozitele și taxele locale, eliberat de Autoritățile Publice Locale, din care să rezulte că operatorul economic participant ca și candidat la procedura de atribuire nu are datorii la bugetele locale scadente la nivelul lunii anterioare celei în care este prevăzut termenul limită de depunere a candidaturilor, inclusiv pentru punctele de lucru declarate în certificat. În cazul unei asocieri, documentul va fi prezentat de către toți membrii asocierii.
+
+b) pentru persoane juridice străine:
+
+- Documente edificatoare pentru demonstrarea faptului că și-au îndeplinit obligațiile de plată a impozitelor, taxelor și contribuțiilor către bugetul de stat și bugetul local (certificate, caziere fiscale sau alte documente echivalente), eliberate de autorități competente, în conformitate cu legislația națională a țării de origine sau a țării în care sunt stabilite, din care să rezulte că operatorul economic participant ca și candidat la procedura de atribuire nu are datorii scadente la nivelul lunii anterioare celei în care este prevăzut termenul limită de depunere a candidaturilor. Documentele se vor prezenta însoțite de traducerea autorizată a acestora în limba română.
+
+În cazul în care în țara de origine sau în țara în care este stabilit operatorul economic nu se emit documente de natura celor prevăzute la pct. 3 lit. b, autoritatea contractantă acceptă o declarație pe propria răspundere sau, dacă în țara respectivă nu există prevederi legale referitoare la declarația pe propria răspundere, o declarație autentificată dată în fața unui notar, a unei autorități administrative sau judiciare sau a unei asociații profesionale care are competențe în acest sens.
+
+4. Declarație pe proprie răspundere privind neîncadrarea în situațiile prevăzute la art. 150 din O.U.G nr. ######### Formular nr. 6, care va fi prezentată și de subcontractanți, dacă este cazul, iar în cazul unei asocieri de către toți membrii asocierii;
+
+(...) 5. Declarație privind calitatea de participant la procedură - Formular nr. 7
+
+6. Certificat de participare la procedură cu ofertă independentă, conform art. 147 alin. (2) din O.u.G. nr. 114/2011: - Formular nr. 8;
+
+(...) Sancțiunea neîndeplinirii criteriului: Vor fi excluși din cadrul procedurii operatorii economici care se încadrează în oricare din situațiile stipulate la art. 150, art. 155 și/ sau art. 156 din O.u.G. nr. 114/2011 sau nu prezintă documentele care probează/confirmă îndeplinirea cerințelor".
+
+Așadar, autoritatea contractantă a solicitat prin documentația de atribuire, pentru dovedirea cerinței privind situația personală a candidatului, depunerea de certificate constatatoare privind îndeplinirea obligațiilor exigibile de plată a impozitelor și taxelor către stat, inclusiv cele locale, precum și a contribuției pentru asigurările sociale de stat, certificate care să-l vizeze pe operatorul economic participant ca și candidat la procedura de atribuire, iar, în cazul unei asocieri, pe fiecare dintre membrii asocierii.
+
+Prin plângerea formulată, petenta pare să pună semnul egalității între noțiunea de candidat și cea de operator economic, ajungând, în acest mod, la o concluzie evident greșită, în acord cu care inclusiv subcontractantul ar trebui să depună un asemenea certificat.
+
+Or, potrivit dispozițiilor O.U.G. nr. 114/2011, prin operator economic se înțelege "oricare furnizor de produse, prestator de servicii ori executant de lucrări - persoană fizică/juridică, de drept public sau privat, ori grup de astfel de persoane cu activitate în domeniul care oferă în mod licit pe piață produse, servicii și/sau execuție de lucrări" [art. 3 pct. 5], candidatul fiind "oricare operator economic care a depus candidatura în cazul unei proceduri de licitație restrânsă, negociere sau dialog competitiv" [art. 3 pct. 25]. Cu alte cuvinte, raportul dintre noțiunea de candidat și cea de operator economic este de la parte la întreg, candidatul fiind un tip de operator economic, noțiune ce înglobează și alte persoane fizice/juridice decât cele care au depus o candidatură.
+
+De altfel, o asemenea distincție reiese inclusiv din celelalte dispoziții ale ordonanței antemenționate, precum art. 29 alin. (2), care statuează că, "În cazul în care, în cadrul procedurii de atribuire sau la executarea unui contract, sunt gestionate sau accesate informații clasificate, autoritatea contractantă este obligată să impună prin documentația de atribuire ca respectivul candidat/ofertant/contractant/subcontractant și personalul implicat al acestuia (s.n.) să fie autorizați în acest sens, potrivit legislației naționale aplicabile", art. 49 alin. (1), conform căruia "În cazul în care participarea la procedura de atribuire sau executare a unui contract de achiziții publice/acord cadru implică accesul sau gestionarea de informații clasificate, autoritatea contractantă este obligată să impună în anunțul/invitația de participare și în documentația de atribuire ca ofertantul/candidatul/contractantul/subcontractantul (s.n.) să dețină autorizații în acest sens, eliberate în conformitate cu legislația națională în domeniu sau recunoscute de Oficiul Registrului N_______ al Informațiilor Secrete de Stat - ORNISS, în baza tratatelor, acordurilor sau protocoalelor internaționale la care ####### este parte", sau art. 150, care arată că "Ofertantul/Candidatul/Ofertantul asociat/ Subcontractantul (s.n.) care are drept membri în cadrul consiliului de administrație/organului de conducere sau de supervizare și/sau are acționari ori asociați persoane care sunt soț/soție, rudă sau afin până la gradul al patrulea inclusiv sau care se află în unul dintre raporturile prevăzute la art. 149 alin. (2) lit. a) cu persoane ce dețin funcții de decizie în cadrul autorității contractante este exclus din procedura de atribuire".
+
+Împrejurarea că un candidat poate fi reprezentat nu doar de un operator economic, individual, ci și de un grup de operatori economici, față de prevederile art. 5 din ordonanță, ce stabilesc că "Orice operator economic are dreptul de a participa, individual sau într-un grup de operatori, la procedura de atribuire", nu înseamnă nicidecum că subcontractantul propus de către candidat devine el însuși candidat, alături de operatorul economic care și-a depus candidatura.
+
+În acest context legislativ, și autoritatea contractantă a stabilit prin documentația de atribuire condiții diferite de participare, pretinzând pentru dovedirea întrunirii cerinței privind situația personală a candidatului ca anumite documente să fie depuse exclusiv de către candidat, iar, în cazul în care candidat este o asociere, de către toți membrii asocierii, iar anumite documente să fie depuse și de terțul susținător sau de către subcontractant.
+
+Potrivit Fișei de date, certificatele de atestare fiscală trebuie depuse de către operatorul economic participant ca și candidat la procedura de atribuire, iar, în cazul unei asocieri, de către toți membrii asocierii, fără ca o atare mențiune să fie impusă pentru subcontractanți.
+
+Prin urmare, și această critică este nejustificată.
+
+Relativ la omisiunea candidatei #### #### ######### S.R.L., cu subcontractant ##### ##### ##### S.R.L., de a declara faptul că situația sa se încadrează în prevederile art. 156 lit. b), c) și f) din O.U.G. nr. 114/2011, Curtea amintește că, potrivit acestora, "Autoritatea contractantă are dreptul de a exclude dintr-o procedură pentru atribuirea contractului de achiziție publică orice ofertant/candidat care se află în oricare dintre următoarele situații:
+
+(...) b) a fost condamnat în ultimii 3 ani, prin hotărârea definitivă a unei instanțe judecătorești, pentru o faptă care a adus atingere eticii profesionale sau pentru comiterea unei greșeli în materie profesională;
+
+c) în ultimii 2 ani nu și-a îndeplinit sau și-a îndeplinit în mod defectuos obligațiile contractuale, din motive imputabile ofertantului în cauză, cum ar fi încălcarea obligațiilor în domeniul securității informației sau al securității aprovizionării într-un contract anterior, fapt care a produs ori este de natură să producă grave prejudicii beneficiarilor acestuia;
+
+(...) f) prezintă informații false sau nu prezintă informațiile solicitate de către autoritatea contractantă, în scopul demonstrării îndeplinirii criteriilor de calificare și selecție".
+
+În speță, candidata Cess nu se află în niciuna dintre situațiile enumerate mai sus. Împrejurarea că prin Sentința civilă nr. #### din 04.04.2024, pronunțată de Tribunalul București - Secția a II-a C_________ Administrativ și Fiscal în dosarul nr. #####/3/2023, s-a anulat Contractul nr. 429.709/28.02.2023 încheiat între #### #### ######### S.R.L. și [instituție publică] a Municipiului București – U.M. 0575 București, privind furnizarea de "###### cal. 40 mm cu efect iritant lacrimogen pentru armă lansator", dispunându-se repunerea părților contractante în situația anterioară încheierii acestui contract, este lipsită de relevanță din perspectiva analizată.
+
+Aceasta întrucât contractul a fost anulat în baza art. 58 alin. (2) lit. d) din Legea nr. 101/2016, pe motiv că autoritatea contractantă a evaluat incomplet oferta Cess, fără a fi dovedită respectarea tuturor cerințelor caietului de sarcini potrivit solicitărilor autorității contractante și fără a se fi cerut justificarea prețului aparent neobișnuit de scăzut, ipoteză ce nu este acoperită de niciuna dintre cazurile prevăzute la art. 156 lit. b), c) sau f) din O.U.G. nr. 114/2011.
+
+De asemenea, existența dosarului de urmărire penală nr. 7328/###/P/2022, în care se desfășoară cercetări împotriva intervenientei și a subcontractantului său sub aspectul săvârșirii infracțiunii de nerespectare a regimului armelor și muniților, nu face incident cazul prevăzut de art. 156 lit. b), neexistând o condamnare pronunțată printr-o hotărâre judecătorească definitivă, critica fiind neîntemeiată.
+
+Cât privește critica privind neîndeplinirea de către candidatura Cess a cerinței privind capacitatea tehnică și profesională, instanța învederează prevederile de la pct. III.1.3.a) al Fișei de date, cu sublinierile noastre, conform cărora, pentru dovedirea îndeplinirii cerinței minime de calificare vizând experiența similară, "op. econ. trebuie să fi îndeplinit contract/ contracte al căror obiect să fi fost furnizarea de produse similare și care, individual/ cumulat în ultimii 5 ani să fi avut o valoare mai mare decât cea precizată mai jos:
+
+Lotul 1 - ###### 7,62x25 mm cu glonț obișnuit: 72.000,00 RON
+
+Lotul 2 - ###### 7,65x17 mm cu glonț obișnuit: 3312900,00 RON
+
+Lotul 3 - ###### 7,62x51 mm, pe bandă: 1200000,00 RON (s.n.)
+
+În cazul în care contractul a fost încheiat în euro, echivalența lei – euro se va calcula la un curs de schimb mediu anual după cum urmează:
+
+•Pentru anul 2019: 1 euro = 4,7452 lei.
+
+•Pentru anul 2020: 1 euro = 4,8371 lei;
+
+•Pentru anul 2021: 1 euro = 4,9204 lei;
+
+•Pentru anul 2022: 1 euro = 4,9315 lei.
+
+•Pentru anul 2023: 1 euro = 4,9465 lei
+
+Candidații care trebuie să efectueze conversia altor monede decât euro vor utiliza cursurile de schimb medii anuale lei/valută comunicate de către BNR și vor specifica cursurile utilizate în documentele depuse.
+
+Obs.
+
+Prin produse similare, autoritatea contractantă înțelege numai produse livrate în baza unor contracte ce au avut ca obiect producerea/comercializarea de muniție care se încadrează la codul CPV aferent produselor de natura celor care fac obiectul prezentei proceduri de atribuire (s.n.).
+
+Cei cinci ani se calculează prin raportare la data limită de depunere a candidaturilor.
+
+Documente solicitate:
+
+Declarație/ declarații privind lista principalelor livrări de produse similare în ultimii 5 ani (experiența similară) – (Secțiunea Formulare Etapa I-a - Formular nr. 10).
+
+Pentru confirmarea acestora, se vor anexa certificate/documente emise sau contrasemnate de o autoritate ori de către clienți beneficiari. Documentele de confirmare se vor prezenta în copie lizibilă cu mențiunea ,,conform cu originalul" semnat și ștampilat, iar din conținutul acestora trebuie să reiasă clar că furnizorul și-a îndeplinit obligațiile contractuale.
+
+NOTE:
+
+(1)Experiența similară se dovedește prin completarea și prezentarea unui formular (în conformitate cu modelul prezentat în Secțiunea formulare –Etapa I Formularul nr. 10). Pentru faza de calificare, autoritatea contractantă va analiza corectitudinea datelor înscrise în acest formular, dacă acesta poate fi luat în considerare (sunt contracte finalizate, încadrarea corespunzătoare în codul CPV solicitat, s-au derulat în intervalul de timp solicitat).(2)Cap.teh. și prof. a candidatului poate fi susținută, ptr îndepl. unui ctr., și de o altă pers.,indiferent de nat.rel.jur. existente între candidat și pers. respectivă, cu resp. celorlalte cond. impuse prin prezenta doc. (3) În cazul care candidatul își dem. cap.teh. și prof. invocând și susținerea acordată, în cf. cu prev. alin.(1), de o altă pers., atunci are oblig. de a dovedi susținerea de care benef., de regulă, prin prez. unui angajament ferm al pers. resp., încheiat în formă autentică,prin care aceasta conf. faptul că va pune la disp. candidatului/ofertantului resursele teh. și prof. invocate. ####. care asig. susținerea teh. și prof. nu trebuie să se afle în sit. care det. excluderea din proc. de atribuire, cf. art. 155 și 156 din O.u.G. nr. 114/2011 (va prezenta completate (Formularele nr. 4 și 5- Secțiunea Formulare Etapa I-a ). (4) Atunci când un grup de op. econ. depun candidatura comună, cap.teh. și prof. se dem. prin luarea în considerare a resurselor tuturor membrilor grupului. În cazul în care grupul beneficiază de susținerea teh. și prof. a unei/unor terțe pers., cap. teh. și prof. se dem. în cond. prev. la alin.(2). #### op. econ. susținători nu depun doc. în forma solicitată, resursele acestora nu vor fi luate în considerare. Susținătorul răsp. pentru prejudiciile cauzate aut. contr. ca urmare a nerespectării oblig. prev. în angajament, aceasta din urmă având posibilitatea de acțiune directă împotriva susținătorului. (5) Angajamentul ferm prezentat de ofertantul câștigător face parte integrantă din contractul de furnizare.
+
+Sancțiunea neîndeplinirii criteriului: Candidaturile operatorilor economici care nu îndeplinesc cerința minimă de calificare referitoare la experiența similară, conform cerinței impuse, sau nu prezintă documentele care probează/confirmă îndeplinirea cerinței, vor fi respinse".
+
+În procedură, societatea #### #### ######### S.R.L. a depus 4 declarații privind lista principalelor livrări de produse în ultimii 5 ani, câte una pentru fiecare contract invocat, contractele fiind încheiate de către Cess în calitate de contractant unic, în ultimii cinci ani anteriori datei limită de depunere a candidaturilor, 13.08.2024, având ca obiect furnizarea de produse similare, ce se încadrează în codul CPV aferent produselor de natura celor care fac obiectul prezentei proceduri de atribuire [########## Cartuse (Rev.2)], cu o valoare cumulată mai mare decât cea prevăzută pentru Loturile 2 și 3, la care Cess și-a depus candidatura. Declarațiile sunt însoțite de contractele la care fac referire, de procesele-verbale de recepție cantitativă și/sau calitativă, iar două dintre contracte au atașate și documente constatatoare, care atestă îndeplinirea în mod corespunzător a obligațiilor contractuale.
+
+#### drept că în Procesul-verbal al ședinței de evaluare a documentelor de calificare și de selecție nr. A3/_____ din 16.09.2024 s-a indicat doar că "Cerința minimă de calificare este îndeplinită întrucât din Declarația privind lista principalelor livrări de produse în ultimii 5 ani, rezultă: Total valoare produse similare aferente unor contracte încheiate/finalizate în perioada #########: 1137854,50 lei + 375.600,00 lei + 952.428,60 lei + 1330665,00 lei = 3796548,10 lei Prezentate în forma solicitată", constatându-se întrunită cerința.
+
+În ciuda explicațiilor relativ sumare oferite de către comisia de evaluare, constatarea îndeplinirii cerinței vizând experiența similară este legală și temeinică prin raportare la documentele depuse de către candidata Cess, după cum corect a punctat și Consiliul și s-a arătat în paragrafele precedente.
+
+În ceea ce privește nemenționarea de către candidata Cess ori de către autoritate a valorii subcontractate din contractele înfățișate ca experiență similară nu impietează nicidecum asupra concluziei privind conformitatea candidaturii Cess.
+
+Că este așa rezultă inclusiv din Instrucțiunea ANAP nr. 2/2017, care stabilește la art. 14 alin. (3) lit. b) că cerința referitoare la experiența similară se consideră îndeplinită și în situația în care operatorul economic, ce prezintă respectiva experiență, a avut calitatea de antreprenor general în contractul prezentat drept experiență similară, indiferent dacă acesta a avut subcontractori, urmând a fi luată în calcul întreaga valoare a respectivului contract (deoarece antreprenorul general a avut răspunderea ducerii la îndeplinire a contractului în cauză).
+
+Petenta în mod corect afirmă că Instrucțiunea nr. 2/2017 a fost emisă în baza Legii nr. 98/2016, iar nu a O.U.G. nr. 114/2011, însă articolul antereferit din instrucțiune este aplicabil și-n cazul procedurii derulate în temeiul ordonanței, în contextul în care cea din urmă nu cuprinde, din perspectiva evaluării cerinței similare, o normă derogatorie față de norma generală din materia achizițiilor publice, regăsită în Legea nr. 98/2016, astfel cum aceasta este explicată și interpretată prin instrucțiune. Or, ubi eadem est ratio, eadem solutio esse debet (unde este aceeași rațiune, se aplică aceeași soluție).
+
+În fine, referirile pe care petenta le face la existența unor discrepanțe privind valorile și cantitățile contractelor, cum ar fi cazul Contractului nr. 1 din 16.03.2020, unde cantitățile contractate nu coincid cu cele pretins livrate, sunt străine de obiectul cauzei. După cum rezultă din Procesul-verbal al ședinței de evaluare, al cărui conținut petenta îl cunoaște, contractele depuse de Cess în susținerea îndeplinirii cerinței vizând experiența similară au fost încheiate în perioada #########, iar nu în anul 2020, critica petentei fiind, așadar, lipsită de fundament.
+
+VI. Soluția instanței
+
+Pe cale de consecință, față de cele ce preced, Curtea va respinge ca nefondată plângerea astfel formulată, cererea de suspendare a procedurii și/sau a executării contractului rămânând fără obiect, în contextul în care suspendarea poate fi dispusă până la soluționarea cauzei, potrivit art. 33 alin. (1) din Legea nr. 101/2016, iar prezenta hotărâre este definitivă.
+
+În același timp, constatând culpa procesuală a petentei în introducerea unei plângeri neîntemeiate, o va obliga pe aceasta la plata către intimata #### #### ######### S.R.L. a sumei de 5712 lei, cu titlu de cheltuieli de judecată, reprezentând onorariu de avocat, în baza art. 453 alin. (1) C.proc.civ.
+
+PENTRU ACESTE MOTIVE,
+
+ÎN NUMELE LEGII,
+
+HOTĂRĂȘTE:
+
+Respinge plângerea formulată de către petenta S.C. ########### ######### ############# S.R.L., având atribuit ###### ########, înregistrată la Oficiul Național al Registrului Comerțului sub nr. J___________, cu sediul în Mun.. [localitate] , Sector 2, #### ####### ######## ### #, în contradictoriu cu intimații MINISTERUL APĂRĂRII NAȚIONALE - UNITATEA MILITARĂ _____ BUCUREȘTI, cu sediul în Mun.. [localitate] , Sector 5, #### ##### ### ###, și S.C. #### #### ######### S.R.L., având atribuit ###### ########, înregistrată la Oficiul Național al Registrului Comerțului sub nr. J23##########, cu sediul în Orașul [localitate] , #### ########## ### ##-79, tarla 65, parcela 605, cu sediul procesual ales la ###### și ###### - Societate Civilă de Avocați, în Mun.. [localitate] , Sector 2, #### ###### ########## ### ## , ca nefondată.
+
+Obliga petenta la plata către intimata #### #### ######### S.R.L. a sumei de 5712 lei, cu titlu de cheltuieli de judecată, reprezentând onorariu de avocat.
+
+Definitivă.
+
+Pronunțată astăzi, 03.04.2025, prin punerea soluției la dispoziția părților prin mijlocirea grefei instanței.
+
+PREȘEDINTE JUDECĂTOR JUDECĂTOR
+
+######### #### ###### ### ###### ####
+
+GREFIER
+
+######## #######
+
+Red., Tehnored. ####/39 pag./30.12.2025
+
+2 ex. originale/3 ex. pt. comunicare (petentei i se comunică la sediul social)
+
+3 ex. au fost comunicate la data de _____________________ – semnătură grefier _____________________
+
+Sursa www.rejust.ro Cod RJ: 6592d6672
+

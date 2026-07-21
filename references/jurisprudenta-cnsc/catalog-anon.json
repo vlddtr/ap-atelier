@@ -1,0 +1,5252 @@
+[
+ {
+  "file": "BO2016_1706",
+  "year": 2016,
+  "pages": 8,
+  "nr": null,
+  "data": null,
+  "obiect": null,
+  "cpv": null,
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "DECLINĂ COMPETENȚA",
+  "themes": [
+   {
+    "name": "concesiune-L100",
+    "count": 4,
+    "mod": "M16"
+   }
+  ]
+ },
+ {
+  "file": "BO2016_1732",
+  "year": 2016,
+  "pages": 41,
+  "nr": null,
+  "data": null,
+  "obiect": "computer tomograf, transport, instalare, punere în funcţiune şi instruire personal",
+  "cpv": null,
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE ÎN PARTE",
+  "themes": [
+   {
+    "name": "specificatii-restrictive",
+    "count": 68,
+    "mod": "M6"
+   },
+   {
+    "name": "anulare-procedura",
+    "count": 8,
+    "mod": "M10"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 6,
+    "mod": "M7"
+   }
+  ]
+ },
+ {
+  "file": "BO2016_1745",
+  "year": 2016,
+  "pages": 22,
+  "nr": null,
+  "data": null,
+  "obiect": "Achiziție de bonuri valorice pentru carburant",
+  "cpv": "09132000-3",
+  "proc": "negociere fără publicare",
+  "law": "L99",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "negociere-fara-publicare",
+    "count": 31,
+    "mod": "M5"
+   },
+   {
+    "name": "concesiune-L100",
+    "count": 4,
+    "mod": "M16"
+   }
+  ]
+ },
+ {
+  "file": "BO2016_1759",
+  "year": 2016,
+  "pages": 28,
+  "nr": null,
+  "data": null,
+  "obiect": "încheierea unui contract de servicii având ca obiect",
+  "cpv": null,
+  "proc": "negociere fără publicare",
+  "law": "L100",
+  "acordCadru": false,
+  "outcome": "ADMITE ÎN PARTE",
+  "themes": [
+   {
+    "name": "concesiune-L100",
+    "count": 57,
+    "mod": "M16"
+   },
+   {
+    "name": "negociere-fara-publicare",
+    "count": 35,
+    "mod": "M5"
+   },
+   {
+    "name": "anulare-procedura",
+    "count": 8,
+    "mod": "M10"
+   },
+   {
+    "name": "loturi-valoare-estimata",
+    "count": 4,
+    "mod": "M4"
+   }
+  ]
+ },
+ {
+  "file": "BO2016_1761",
+  "year": 2016,
+  "pages": 11,
+  "nr": null,
+  "data": null,
+  "obiect": "lucrări de intervenţie la ...... ......",
+  "cpv": null,
+  "proc": "procedură simplificată",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "loturi-valoare-estimata",
+    "count": 7,
+    "mod": "M4"
+   },
+   {
+    "name": "pret-neobisnuit",
+    "count": 4,
+    "mod": "M9"
+   }
+  ]
+ },
+ {
+  "file": "BO2016_1796",
+  "year": 2016,
+  "pages": 12,
+  "nr": null,
+  "data": null,
+  "obiect": "Realizare PT+DDE+CS",
+  "cpv": "71322500-6",
+  "proc": "procedură simplificată",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "DUAE",
+    "count": 57,
+    "mod": "M8"
+   },
+   {
+    "name": "experienta-similara",
+    "count": 22,
+    "mod": "M8"
+   },
+   {
+    "name": "modificare-propunere",
+    "count": 4,
+    "mod": "M9"
+   },
+   {
+    "name": "tert-sustinator",
+    "count": 4,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2016_1866",
+  "year": 2016,
+  "pages": 14,
+  "nr": null,
+  "data": null,
+  "obiect": "Mansardare și termosistem la pavilionul administrativ al ISU",
+  "cpv": null,
+  "proc": "procedură simplificată",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "DUAE",
+    "count": 36,
+    "mod": "M8"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 11,
+    "mod": "M7"
+   },
+   {
+    "name": "procedura-simplificata",
+    "count": 5,
+    "mod": "M5"
+   },
+   {
+    "name": "experienta-similara",
+    "count": 4,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2016_1889",
+  "year": 2016,
+  "pages": 10,
+  "nr": null,
+  "data": null,
+  "obiect": "Echipamente şi piese de schimb specifice caroseriei troleibuzelor Astra Irisbus tip PS01T1 şi PS01T2",
+  "cpv": "34320000-6",
+  "proc": "concesiune",
+  "law": "L99",
+  "acordCadru": true,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "sectorial-L99",
+    "count": 11,
+    "mod": "M15"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 9,
+    "mod": "M7"
+   },
+   {
+    "name": "garantie-participare",
+    "count": 8,
+    "mod": "M12"
+   },
+   {
+    "name": "DUAE",
+    "count": 4,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2016_2188",
+  "year": 2016,
+  "pages": 22,
+  "nr": null,
+  "data": null,
+  "obiect": "„Elaborarea documentațiilor tehnico – economice (SF pentru întregul proiect complex de investiţii, cu includerea elementelor specifice din D",
+  "cpv": null,
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "SEAP-semnatura",
+    "count": 23,
+    "mod": "M7"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 14,
+    "mod": "M6"
+   },
+   {
+    "name": "clarificari",
+    "count": 10,
+    "mod": "M9"
+   },
+   {
+    "name": "modificare-propunere",
+    "count": 9,
+    "mod": "M9"
+   }
+  ]
+ },
+ {
+  "file": "BO2016_2310",
+  "year": 2016,
+  "pages": 9,
+  "nr": null,
+  "data": null,
+  "obiect": "„GAME DE PRODUSE DIVERSE PENTRU DOTAREA NOILOR SPAȚII CONSTRUITE LA OBIECTIVUL DE INVESTIȚII «...» AL ..., CU SERVICII ACCESORII DE INSTALAR",
+  "cpv": null,
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "modificare-propunere",
+    "count": 9,
+    "mod": "M9"
+   },
+   {
+    "name": "clarificari",
+    "count": 5,
+    "mod": "M9"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 4,
+    "mod": "M7"
+   },
+   {
+    "name": "concesiune-L100",
+    "count": 4,
+    "mod": "M16"
+   }
+  ]
+ },
+ {
+  "file": "BO2016_2355",
+  "year": 2016,
+  "pages": 10,
+  "nr": null,
+  "data": null,
+  "obiect": null,
+  "cpv": "45233142-6",
+  "proc": "procedură simplificată",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "DUAE",
+    "count": 58,
+    "mod": "M8"
+   },
+   {
+    "name": "excludere-164-167",
+    "count": 15,
+    "mod": "M8"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 12,
+    "mod": "M7"
+   },
+   {
+    "name": "clarificari",
+    "count": 4,
+    "mod": "M9"
+   }
+  ]
+ },
+ {
+  "file": "BO2016_274",
+  "year": 2016,
+  "pages": 7,
+  "nr": null,
+  "data": null,
+  "obiect": "Prize de potenţial cu stâlp din material plastic",
+  "cpv": "44425500-0",
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "SEAP-semnatura",
+    "count": 26,
+    "mod": "M7"
+   },
+   {
+    "name": "erori-aritmetice",
+    "count": 6,
+    "mod": "M9"
+   },
+   {
+    "name": "concesiune-L100",
+    "count": 4,
+    "mod": "M16"
+   }
+  ]
+ },
+ {
+  "file": "BO2016_643",
+  "year": 2016,
+  "pages": 13,
+  "nr": null,
+  "data": null,
+  "obiect": null,
+  "cpv": null,
+  "proc": "negociere fără publicare",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "negociere-fara-publicare",
+    "count": 14,
+    "mod": "M5"
+   },
+   {
+    "name": "criterii-atribuire",
+    "count": 4,
+    "mod": "M8"
+   },
+   {
+    "name": "clarificari",
+    "count": 4,
+    "mod": "M9"
+   }
+  ]
+ },
+ {
+  "file": "BO2016_687",
+  "year": 2016,
+  "pages": 162,
+  "nr": null,
+  "data": null,
+  "obiect": "„.........",
+  "cpv": "45234100-7",
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "VERIFICĂ MANUAL",
+  "themes": [
+   {
+    "name": "asociere",
+    "count": 265,
+    "mod": "M8"
+   },
+   {
+    "name": "clarificari",
+    "count": 25,
+    "mod": "M9"
+   },
+   {
+    "name": "experienta-similara",
+    "count": 16,
+    "mod": "M8"
+   },
+   {
+    "name": "tardivitate-termen",
+    "count": 15,
+    "mod": "M13"
+   }
+  ]
+ },
+ {
+  "file": "BO2017_2693",
+  "year": 2017,
+  "pages": 19,
+  "nr": null,
+  "data": null,
+  "obiect": "„Execuție lucrări de modernizare a drumurilor de acces agricole către ferme (căi de acces din afara exploatărilor agricole) în localitățile",
+  "cpv": null,
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "SEAP-semnatura",
+    "count": 92,
+    "mod": "M7"
+   },
+   {
+    "name": "DUAE",
+    "count": 29,
+    "mod": "M8"
+   },
+   {
+    "name": "clarificari",
+    "count": 11,
+    "mod": "M9"
+   },
+   {
+    "name": "modificare-propunere",
+    "count": 7,
+    "mod": "M9"
+   }
+  ]
+ },
+ {
+  "file": "BO2017_2729",
+  "year": 2017,
+  "pages": 22,
+  "nr": null,
+  "data": null,
+  "obiect": "Achiziționarea de servicii pentru refacerea site-ului Programului Operațional Regional 2014-2020, www.inforegio.ro și realizarea unei aplica",
+  "cpv": "72413000-8",
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE ÎN PARTE",
+  "themes": [
+   {
+    "name": "criterii-atribuire",
+    "count": 39,
+    "mod": "M8"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 31,
+    "mod": "M6"
+   },
+   {
+    "name": "anulare-procedura",
+    "count": 6,
+    "mod": "M10"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 6,
+    "mod": "M7"
+   }
+  ]
+ },
+ {
+  "file": "BO2017_2741",
+  "year": 2017,
+  "pages": 7,
+  "nr": null,
+  "data": null,
+  "obiect": "„Proiectare faza PT și asistența tehnică din partea proiectantului pe durata execuției lucrărilor pentru investiția Construire și dotare gră",
+  "cpv": null,
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "anulare-procedura",
+    "count": 14,
+    "mod": "M10"
+   }
+  ]
+ },
+ {
+  "file": "BO2017_2752",
+  "year": 2017,
+  "pages": 11,
+  "nr": null,
+  "data": null,
+  "obiect": "„...”, s-a solicitat: 1.Anularea rezultatului procedurii de achiziție publică și a tuturor actelor din procedură; 2.Remedierea procedurii de",
+  "cpv": null,
+  "proc": "negociere fără publicare",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "specificatii-restrictive",
+    "count": 9,
+    "mod": "M6"
+   },
+   {
+    "name": "negociere-fara-publicare",
+    "count": 5,
+    "mod": "M5"
+   }
+  ]
+ },
+ {
+  "file": "BO2017_2821",
+  "year": 2017,
+  "pages": 7,
+  "nr": null,
+  "data": null,
+  "obiect": "Elaborare servicii de proiectare la faza: proiect tehnic pentru Construire grădiniţă cu program normal şi afterschool",
+  "cpv": null,
+  "proc": "procedură simplificată",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "SEAP-semnatura",
+    "count": 18,
+    "mod": "M7"
+   },
+   {
+    "name": "modificare-propunere",
+    "count": 9,
+    "mod": "M9"
+   },
+   {
+    "name": "erori-aritmetice",
+    "count": 7,
+    "mod": "M9"
+   }
+  ]
+ },
+ {
+  "file": "BO2017_2825",
+  "year": 2017,
+  "pages": 9,
+  "nr": null,
+  "data": null,
+  "obiect": "Servicii de pază pentru obiectivele ...",
+  "cpv": "79713000-5",
+  "proc": "procedură proprie",
+  "law": "L99",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "sectorial-L99",
+    "count": 15,
+    "mod": "M15"
+   },
+   {
+    "name": "procedura-proprie",
+    "count": 6,
+    "mod": "M5"
+   },
+   {
+    "name": "procedura-simplificata",
+    "count": 5,
+    "mod": "M5"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 5,
+    "mod": "M7"
+   }
+  ]
+ },
+ {
+  "file": "BO2017_2933",
+  "year": 2017,
+  "pages": 11,
+  "nr": null,
+  "data": null,
+  "obiect": "proiectare și execuție lucrări pentru obiective de investiții incluse Programul național de construcții de interes public sau social Subprogramul",
+  "cpv": "45200000-9",
+  "proc": "procedură simplificată",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "SEAP-semnatura",
+    "count": 49,
+    "mod": "M7"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 13,
+    "mod": "M6"
+   },
+   {
+    "name": "DUAE",
+    "count": 10,
+    "mod": "M8"
+   },
+   {
+    "name": "concesiune-L100",
+    "count": 4,
+    "mod": "M16"
+   }
+  ]
+ },
+ {
+  "file": "BO2017_3093",
+  "year": 2017,
+  "pages": 9,
+  "nr": null,
+  "data": null,
+  "obiect": "„Servicii de proiectare PT + DDE + DTAC și asistență tehnică din partea proiectantului pentru obiectivul «Realizare școală în satul ....., .",
+  "cpv": "71322000-1",
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "garantie-participare",
+    "count": 19,
+    "mod": "M12"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 9,
+    "mod": "M7"
+   },
+   {
+    "name": "loturi-valoare-estimata",
+    "count": 4,
+    "mod": "M4"
+   }
+  ]
+ },
+ {
+  "file": "BO2017_3226",
+  "year": 2017,
+  "pages": 9,
+  "nr": null,
+  "data": null,
+  "obiect": "Echipament de bucătărie şi mături, perii şi alte articole de diverse tipuri",
+  "cpv": null,
+  "proc": "procedură simplificată",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "specificatii-restrictive",
+    "count": 13,
+    "mod": "M6"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 8,
+    "mod": "M7"
+   },
+   {
+    "name": "modificare-propunere",
+    "count": 5,
+    "mod": "M9"
+   }
+  ]
+ },
+ {
+  "file": "BO2017_3307",
+  "year": 2017,
+  "pages": 13,
+  "nr": null,
+  "data": null,
+  "obiect": "Servicii de mentenență a sistemului informatic din cadrul proiectului",
+  "cpv": "72267000-4",
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE ÎN PARTE",
+  "themes": [
+   {
+    "name": "specificatii-restrictive",
+    "count": 16,
+    "mod": "M6"
+   },
+   {
+    "name": "negociere-fara-publicare",
+    "count": 16,
+    "mod": "M5"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 11,
+    "mod": "M7"
+   },
+   {
+    "name": "asociere",
+    "count": 4,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2017_3529",
+  "year": 2017,
+  "pages": 5,
+  "nr": null,
+  "data": null,
+  "obiect": "„.........",
+  "cpv": "45210000-2",
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "anulare-procedura",
+    "count": 11,
+    "mod": "M10"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 4,
+    "mod": "M7"
+   }
+  ]
+ },
+ {
+  "file": "BO2017_3617",
+  "year": 2017,
+  "pages": 10,
+  "nr": null,
+  "data": null,
+  "obiect": "„achiziția serviciilor de asistență tehnică (consultanță) pentru implementarea proiectului Îmbunătățirea capacității ... de a coordona imple",
+  "cpv": null,
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "DUAE",
+    "count": 62,
+    "mod": "M8"
+   },
+   {
+    "name": "subcontractant",
+    "count": 20,
+    "mod": "M8"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 12,
+    "mod": "M7"
+   },
+   {
+    "name": "asociere",
+    "count": 6,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2017_3716",
+  "year": 2017,
+  "pages": 15,
+  "nr": null,
+  "data": null,
+  "obiect": "Acord cadru de furnizare - Pachet legume - fructe",
+  "cpv": "03220000-9",
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": true,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "DUAE",
+    "count": 52,
+    "mod": "M8"
+   },
+   {
+    "name": "conflict-interese",
+    "count": 20,
+    "mod": "M14"
+   },
+   {
+    "name": "excludere-164-167",
+    "count": 10,
+    "mod": "M8"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 10,
+    "mod": "M7"
+   }
+  ]
+ },
+ {
+  "file": "BO2017_3785",
+  "year": 2017,
+  "pages": 118,
+  "nr": null,
+  "data": null,
+  "obiect": "”Delegarea de gestiune pentru prestarea serviciilor privind «Salubrizarea (inclusiv deszăpezirea) pe raza ... al Municipiului .........»",
+  "cpv": null,
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": true,
+  "outcome": "ADMITE ÎN PARTE",
+  "themes": [
+   {
+    "name": "specificatii-restrictive",
+    "count": 54,
+    "mod": "M6"
+   },
+   {
+    "name": "criterii-atribuire",
+    "count": 43,
+    "mod": "M8"
+   },
+   {
+    "name": "loturi-valoare-estimata",
+    "count": 27,
+    "mod": "M4"
+   },
+   {
+    "name": "DUAE",
+    "count": 19,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2017_4197",
+  "year": 2017,
+  "pages": 10,
+  "nr": null,
+  "data": null,
+  "obiect": "”Realizare căi de acces, trotuare și rigole pe str. Herculane și str. Ceahlău din ........., județul .........",
+  "cpv": "45233161-5",
+  "proc": "procedură simplificată",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "SEAP-semnatura",
+    "count": 18,
+    "mod": "M7"
+   },
+   {
+    "name": "erori-aritmetice",
+    "count": 7,
+    "mod": "M9"
+   },
+   {
+    "name": "clarificari",
+    "count": 4,
+    "mod": "M9"
+   }
+  ]
+ },
+ {
+  "file": "BO2017_4568",
+  "year": 2017,
+  "pages": 6,
+  "nr": null,
+  "data": null,
+  "obiect": "„.........",
+  "cpv": null,
+  "proc": "procedură simplificată",
+  "law": "L100",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "concesiune-L100",
+    "count": 27,
+    "mod": "M16"
+   },
+   {
+    "name": "loturi-valoare-estimata",
+    "count": 9,
+    "mod": "M4"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 8,
+    "mod": "M7"
+   },
+   {
+    "name": "procedura-simplificata",
+    "count": 4,
+    "mod": "M5"
+   }
+  ]
+ },
+ {
+  "file": "BO2017_4611",
+  "year": 2017,
+  "pages": 13,
+  "nr": null,
+  "data": null,
+  "obiect": "Execuția lucrărilor de",
+  "cpv": "45232150-8",
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "modificare-propunere",
+    "count": 10,
+    "mod": "M9"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 8,
+    "mod": "M7"
+   },
+   {
+    "name": "pret-neobisnuit",
+    "count": 6,
+    "mod": "M9"
+   },
+   {
+    "name": "erori-aritmetice",
+    "count": 5,
+    "mod": "M9"
+   }
+  ]
+ },
+ {
+  "file": "BO2017_4635",
+  "year": 2017,
+  "pages": 12,
+  "nr": null,
+  "data": null,
+  "obiect": "„.........",
+  "cpv": "24111500-0",
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE ÎN PARTE",
+  "themes": [
+   {
+    "name": "specificatii-restrictive",
+    "count": 24,
+    "mod": "M6"
+   }
+  ]
+ },
+ {
+  "file": "BO2017_5002",
+  "year": 2017,
+  "pages": 15,
+  "nr": null,
+  "data": null,
+  "obiect": "Proiectare și execuție «Varianta de ocolire ...»",
+  "cpv": null,
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "SEAP-semnatura",
+    "count": 103,
+    "mod": "M7"
+   },
+   {
+    "name": "asociere",
+    "count": 20,
+    "mod": "M8"
+   },
+   {
+    "name": "concesiune-L100",
+    "count": 4,
+    "mod": "M16"
+   }
+  ]
+ },
+ {
+  "file": "BO2017_5394",
+  "year": 2017,
+  "pages": 15,
+  "nr": null,
+  "data": null,
+  "obiect": "... (Rev.2), s-a solicitat Consiliului să dispună: - revocarea deciziei prin care oferta asocierii ... – ... a fost declarată inacceptabilă",
+  "cpv": null,
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "modificare-propunere",
+    "count": 23,
+    "mod": "M9"
+   },
+   {
+    "name": "erori-aritmetice",
+    "count": 16,
+    "mod": "M9"
+   },
+   {
+    "name": "asociere",
+    "count": 10,
+    "mod": "M8"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 10,
+    "mod": "M7"
+   }
+  ]
+ },
+ {
+  "file": "BO2017_5469",
+  "year": 2017,
+  "pages": 21,
+  "nr": null,
+  "data": null,
+  "obiect": "„...”, cod CPV: 79713000-5, ..., în calitate de autoritate contractantă, a inițiat o procedură simplificată, într-o singură etapă, online, p",
+  "cpv": "79713000-5",
+  "proc": "procedură simplificată",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE ÎN PARTE",
+  "themes": [
+   {
+    "name": "subcontractant",
+    "count": 55,
+    "mod": "M8"
+   },
+   {
+    "name": "DUAE",
+    "count": 21,
+    "mod": "M8"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 17,
+    "mod": "M7"
+   },
+   {
+    "name": "pret-neobisnuit",
+    "count": 6,
+    "mod": "M9"
+   }
+  ]
+ },
+ {
+  "file": "BO2017_5575",
+  "year": 2017,
+  "pages": 7,
+  "nr": null,
+  "data": null,
+  "obiect": "”.........",
+  "cpv": null,
+  "proc": "licitație deschisă",
+  "law": "L99",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "sectorial-L99",
+    "count": 7,
+    "mod": "M15"
+   }
+  ]
+ },
+ {
+  "file": "BO2017_5613",
+  "year": 2017,
+  "pages": 9,
+  "nr": null,
+  "data": null,
+  "obiect": "Contract furnizare Autospecială de pompieri Comuna ......., județul ......... - Autospecială de lucru cu apă și spuma pentru intervenții la incendii",
+  "cpv": "34144213-4",
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "asociere",
+    "count": 16,
+    "mod": "M8"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 7,
+    "mod": "M6"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 6,
+    "mod": "M7"
+   },
+   {
+    "name": "erori-aritmetice",
+    "count": 5,
+    "mod": "M9"
+   }
+  ]
+ },
+ {
+  "file": "BO2017_5690",
+  "year": 2017,
+  "pages": 15,
+  "nr": null,
+  "data": null,
+  "obiect": "„.........",
+  "cpv": null,
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "specificatii-restrictive",
+    "count": 21,
+    "mod": "M6"
+   },
+   {
+    "name": "criterii-atribuire",
+    "count": 4,
+    "mod": "M8"
+   },
+   {
+    "name": "loturi-valoare-estimata",
+    "count": 4,
+    "mod": "M4"
+   },
+   {
+    "name": "concesiune-L100",
+    "count": 4,
+    "mod": "M16"
+   }
+  ]
+ },
+ {
+  "file": "BO2017_5793",
+  "year": 2017,
+  "pages": 48,
+  "nr": null,
+  "data": null,
+  "obiect": "(...) sunt confidențiale, clasificate sau protejate de un drept de proprietate intelectuală, conform art. 57 din Legea nr. 98/2016 și art. 123 din H.G",
+  "cpv": null,
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "specificatii-restrictive",
+    "count": 41,
+    "mod": "M6"
+   },
+   {
+    "name": "confidentialitate-acces-dosar",
+    "count": 33,
+    "mod": "M13"
+   },
+   {
+    "name": "loturi-valoare-estimata",
+    "count": 18,
+    "mod": "M4"
+   },
+   {
+    "name": "pret-neobisnuit",
+    "count": 17,
+    "mod": "M9"
+   }
+  ]
+ },
+ {
+  "file": "BO2018_6379",
+  "year": 2018,
+  "pages": 23,
+  "nr": null,
+  "data": null,
+  "obiect": "servicii „de proiectare tehnică, verificare proiect și asistență tehnică prin proiectant",
+  "cpv": "71322000-1",
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "specificatii-restrictive",
+    "count": 26,
+    "mod": "M6"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 4,
+    "mod": "M7"
+   }
+  ]
+ },
+ {
+  "file": "BO2018_6387",
+  "year": 2018,
+  "pages": 13,
+  "nr": null,
+  "data": null,
+  "obiect": "servicii de proiectare și execuție de lucrări pentru obiectivul de investiție: Modernizare drum de interes local și ulițe în comuna ..., județul ...",
+  "cpv": null,
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "specificatii-restrictive",
+    "count": 8,
+    "mod": "M6"
+   },
+   {
+    "name": "asociere",
+    "count": 7,
+    "mod": "M8"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 6,
+    "mod": "M7"
+   },
+   {
+    "name": "concesiune-L100",
+    "count": 6,
+    "mod": "M16"
+   }
+  ]
+ },
+ {
+  "file": "BO2018_6411",
+  "year": 2018,
+  "pages": 9,
+  "nr": null,
+  "data": null,
+  "obiect": "Execuție lucrări: lot 1: «Reparații podeț tubular O 1000 pe ...»",
+  "cpv": "45221119-9",
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE ÎN PARTE",
+  "themes": [
+   {
+    "name": "concesiune-L100",
+    "count": 4,
+    "mod": "M16"
+   }
+  ]
+ },
+ {
+  "file": "BO2018_6536",
+  "year": 2018,
+  "pages": 7,
+  "nr": "689 / C9 / 637",
+  "data": "16.03.2018",
+  "obiect": "“ ...”, cod CPV ..., s-a solicitat să se dispună revocarea/anularea adresei nr. 2025/13.02.2018, prin care oferta sa a fost considerată neco",
+  "cpv": null,
+  "proc": "procedură simplificată",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "modificare-propunere",
+    "count": 6,
+    "mod": "M9"
+   },
+   {
+    "name": "concesiune-L100",
+    "count": 4,
+    "mod": "M16"
+   }
+  ]
+ },
+ {
+  "file": "BO2018_6669",
+  "year": 2018,
+  "pages": 12,
+  "nr": null,
+  "data": null,
+  "obiect": "„Modernizarea infrastructurii rutiere de drum județean dintre localitățile: Dumbrăveni – Gugești – Popești – Urechești - Budești – Cotești -",
+  "cpv": "45233140-2",
+  "proc": "concesiune",
+  "law": "L99",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "DUAE",
+    "count": 52,
+    "mod": "M8"
+   },
+   {
+    "name": "subcontractant",
+    "count": 37,
+    "mod": "M8"
+   },
+   {
+    "name": "asociere",
+    "count": 4,
+    "mod": "M8"
+   },
+   {
+    "name": "clarificari",
+    "count": 4,
+    "mod": "M9"
+   }
+  ]
+ },
+ {
+  "file": "BO2018_6721",
+  "year": 2018,
+  "pages": 6,
+  "nr": null,
+  "data": null,
+  "obiect": "PROIECTARE, ASISTENȚĂ TEHNICĂ ȘI EXECUȚIE LUCRĂRI PENTRU OBIECTIVUL – REABILITAREA ȘI DOTAREA DISPENSARULUI MEDICAL DIN SATUL BALEASA, ...",
+  "cpv": "45453000-7",
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "garantie-participare",
+    "count": 19,
+    "mod": "M12"
+   },
+   {
+    "name": "loturi-valoare-estimata",
+    "count": 4,
+    "mod": "M4"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 4,
+    "mod": "M7"
+   },
+   {
+    "name": "concesiune-L100",
+    "count": 4,
+    "mod": "M16"
+   }
+  ]
+ },
+ {
+  "file": "BO2018_6901",
+  "year": 2018,
+  "pages": 7,
+  "nr": null,
+  "data": null,
+  "obiect": "„Servicii de proiectare fazele P.T., D.D.E. D.T.A.C., D.T.O.E. documentații avize, verificarea tehnică a proiectului și asistență tehnică di",
+  "cpv": null,
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "SEAP-semnatura",
+    "count": 38,
+    "mod": "M7"
+   },
+   {
+    "name": "DUAE",
+    "count": 9,
+    "mod": "M8"
+   },
+   {
+    "name": "garantie-participare",
+    "count": 4,
+    "mod": "M12"
+   },
+   {
+    "name": "concesiune-L100",
+    "count": 4,
+    "mod": "M16"
+   }
+  ]
+ },
+ {
+  "file": "BO2018_7085",
+  "year": 2018,
+  "pages": 16,
+  "nr": null,
+  "data": null,
+  "obiect": "Construire pod peste râul Sohodol, ..., județul Gorj",
+  "cpv": "45221110-6",
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "DUAE",
+    "count": 42,
+    "mod": "M8"
+   },
+   {
+    "name": "subcontractant",
+    "count": 35,
+    "mod": "M8"
+   },
+   {
+    "name": "experienta-similara",
+    "count": 21,
+    "mod": "M8"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 7,
+    "mod": "M7"
+   }
+  ]
+ },
+ {
+  "file": "BO2018_7208",
+  "year": 2018,
+  "pages": 21,
+  "nr": null,
+  "data": null,
+  "obiect": "„Servicii de întocmire Proiect tehnic, detalii de execuție, documentații de obținere avize, modificări tehnice și asistență pe timpul desfăș",
+  "cpv": null,
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "SEAP-semnatura",
+    "count": 33,
+    "mod": "M7"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 13,
+    "mod": "M6"
+   },
+   {
+    "name": "modificare-propunere",
+    "count": 8,
+    "mod": "M9"
+   },
+   {
+    "name": "concesiune-L100",
+    "count": 6,
+    "mod": "M16"
+   }
+  ]
+ },
+ {
+  "file": "BO2018_7857",
+  "year": 2018,
+  "pages": 5,
+  "nr": null,
+  "data": null,
+  "obiect": null,
+  "cpv": "45453000-7",
+  "proc": "procedură simplificată",
+  "law": "L100",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "cautiune",
+    "count": 29,
+    "mod": "M13"
+   },
+   {
+    "name": "concesiune-L100",
+    "count": 6,
+    "mod": "M16"
+   },
+   {
+    "name": "loturi-valoare-estimata",
+    "count": 4,
+    "mod": "M4"
+   },
+   {
+    "name": "sectorial-L99",
+    "count": 4,
+    "mod": "M15"
+   }
+  ]
+ },
+ {
+  "file": "BO2018_8260",
+  "year": 2018,
+  "pages": 21,
+  "nr": null,
+  "data": null,
+  "obiect": "............................»",
+  "cpv": null,
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "modificare-propunere",
+    "count": 28,
+    "mod": "M9"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 17,
+    "mod": "M7"
+   },
+   {
+    "name": "erori-aritmetice",
+    "count": 8,
+    "mod": "M9"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 8,
+    "mod": "M6"
+   }
+  ]
+ },
+ {
+  "file": "BO2020_12898",
+  "year": 2020,
+  "pages": 26,
+  "nr": null,
+  "data": null,
+  "obiect": "” ........",
+  "cpv": null,
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "excludere-164-167",
+    "count": 45,
+    "mod": "M8"
+   },
+   {
+    "name": "DUAE",
+    "count": 32,
+    "mod": "M8"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 18,
+    "mod": "M7"
+   },
+   {
+    "name": "concesiune-L100",
+    "count": 8,
+    "mod": "M16"
+   }
+  ]
+ },
+ {
+  "file": "BO2020_2027",
+  "year": 2020,
+  "pages": 23,
+  "nr": "2027 / C9 / 2157, 2171",
+  "data": "04.11.2020",
+  "obiect": "Servicii de proiectare și asistență tehnică aferentă obiectivului de investiții:",
+  "cpv": "71322000-1",
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "anulare-procedura",
+    "count": 36,
+    "mod": "M10"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 16,
+    "mod": "M7"
+   },
+   {
+    "name": "tardivitate-termen",
+    "count": 10,
+    "mod": "M13"
+   },
+   {
+    "name": "confidentialitate-acces-dosar",
+    "count": 5,
+    "mod": "M13"
+   }
+  ]
+ },
+ {
+  "file": "BO2020_2072",
+  "year": 2020,
+  "pages": 100,
+  "nr": null,
+  "data": null,
+  "obiect": "Servicii de Asistență tehnică pentru Managementul Proiectului și Supervizarea lucrărilor din cadrul Proiectului «Sistem de Management Integrat al Deșe",
+  "cpv": "79411000-8",
+  "proc": "licitație deschisă",
+  "law": "L99",
+  "acordCadru": false,
+  "outcome": "ADMITE ÎN PARTE",
+  "themes": [
+   {
+    "name": "specificatii-restrictive",
+    "count": 125,
+    "mod": "M6"
+   },
+   {
+    "name": "criterii-atribuire",
+    "count": 42,
+    "mod": "M8"
+   },
+   {
+    "name": "asociere",
+    "count": 38,
+    "mod": "M8"
+   },
+   {
+    "name": "confidentialitate-acces-dosar",
+    "count": 35,
+    "mod": "M13"
+   }
+  ]
+ },
+ {
+  "file": "BO2020_2129",
+  "year": 2020,
+  "pages": 88,
+  "nr": null,
+  "data": null,
+  "obiect": "”Elaborare P.U.Z. Port ......... - Zona și Actualizare P.U.Z. Portul .........- Zona .........",
+  "cpv": "71410000-5",
+  "proc": "licitație deschisă",
+  "law": "L99",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "DUAE",
+    "count": 89,
+    "mod": "M8"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 58,
+    "mod": "M7"
+   },
+   {
+    "name": "sectorial-L99",
+    "count": 19,
+    "mod": "M15"
+   },
+   {
+    "name": "asociere",
+    "count": 14,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2020_2182",
+  "year": 2020,
+  "pages": 100,
+  "nr": null,
+  "data": null,
+  "obiect": "Consolidarea, restaurarea, conservarea și punerea în valoare a ansamblului monument istoric-MANASTIREA BERISLAVESTI",
+  "cpv": "45000000",
+  "proc": "procedură simplificată",
+  "law": "L99",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "asociere",
+    "count": 178,
+    "mod": "M8"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 106,
+    "mod": "M6"
+   },
+   {
+    "name": "DUAE",
+    "count": 105,
+    "mod": "M8"
+   },
+   {
+    "name": "confidentialitate-acces-dosar",
+    "count": 79,
+    "mod": "M13"
+   }
+  ]
+ },
+ {
+  "file": "BO2020_2235",
+  "year": 2020,
+  "pages": 5,
+  "nr": null,
+  "data": null,
+  "obiect": "Lucrări de hidroizolație la acoperișul Sălii de Lupte din Onești, str. Perchiului, nr. 3",
+  "cpv": "45261310-0",
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "concesiune-L100",
+    "count": 5,
+    "mod": "M16"
+   }
+  ]
+ },
+ {
+  "file": "BO2020_2375",
+  "year": 2020,
+  "pages": 29,
+  "nr": null,
+  "data": null,
+  "obiect": "lucrări de construcții civile categoria C sau o categorie superioară. Asocierea declarată câștigătoare a prezentat următoarele contracte: - nr. ..., a",
+  "cpv": "45000000-7",
+  "proc": "procedură simplificată",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "experienta-similara",
+    "count": 23,
+    "mod": "M8"
+   },
+   {
+    "name": "asociere",
+    "count": 21,
+    "mod": "M8"
+   },
+   {
+    "name": "pret-neobisnuit",
+    "count": 19,
+    "mod": "M9"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 17,
+    "mod": "M6"
+   }
+  ]
+ },
+ {
+  "file": "BO2020_2384",
+  "year": 2020,
+  "pages": 26,
+  "nr": null,
+  "data": null,
+  "obiect": "Servicii de consultanță management de proiect pentru proiectul «Îmbunătățirea serviciilor educaționale, sociale și a spațiilor publice urbane»",
+  "cpv": "72224000-1",
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "asociere",
+    "count": 41,
+    "mod": "M8"
+   },
+   {
+    "name": "pret-neobisnuit",
+    "count": 17,
+    "mod": "M9"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 10,
+    "mod": "M6"
+   },
+   {
+    "name": "modificare-propunere",
+    "count": 7,
+    "mod": "M9"
+   }
+  ]
+ },
+ {
+  "file": "BO2020_2416",
+  "year": 2020,
+  "pages": 25,
+  "nr": null,
+  "data": null,
+  "obiect": null,
+  "cpv": "45233120-6",
+  "proc": "procedură simplificată",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "specificatii-restrictive",
+    "count": 14,
+    "mod": "M6"
+   },
+   {
+    "name": "anulare-procedura",
+    "count": 12,
+    "mod": "M10"
+   },
+   {
+    "name": "criterii-atribuire",
+    "count": 10,
+    "mod": "M8"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 7,
+    "mod": "M7"
+   }
+  ]
+ },
+ {
+  "file": "BO2021_100",
+  "year": 2021,
+  "pages": 28,
+  "nr": "100/C1/2831",
+  "data": "15.01.2021",
+  "obiect": "„Servicii de proiectare faza (PT+DE și asistență tehnică de specialitate din partea proiectatului pe perioada de execuție) și execuție lucră",
+  "cpv": "45233120-6",
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "criterii-atribuire",
+    "count": 9,
+    "mod": "M8"
+   },
+   {
+    "name": "anulare-procedura",
+    "count": 8,
+    "mod": "M10"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 5,
+    "mod": "M7"
+   }
+  ]
+ },
+ {
+  "file": "BO2021_1017",
+  "year": 2021,
+  "pages": 31,
+  "nr": null,
+  "data": null,
+  "obiect": "Achiziție echipamente medicale, echipamente de protecție și dotări specifice pentru spitalul suport Covid-19 – Spitalul de Urgență ... SMIS 139776",
+  "cpv": "33100000-1",
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "specificatii-restrictive",
+    "count": 57,
+    "mod": "M6"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 7,
+    "mod": "M7"
+   },
+   {
+    "name": "loturi-valoare-estimata",
+    "count": 6,
+    "mod": "M4"
+   },
+   {
+    "name": "asociere",
+    "count": 4,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2021_1210",
+  "year": 2021,
+  "pages": 14,
+  "nr": null,
+  "data": null,
+  "obiect": "Echipamente de laborator",
+  "cpv": "33100000-1",
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": true,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "specificatii-restrictive",
+    "count": 24,
+    "mod": "M6"
+   },
+   {
+    "name": "anulare-procedura",
+    "count": 6,
+    "mod": "M10"
+   }
+  ]
+ },
+ {
+  "file": "BO2021_1317",
+  "year": 2021,
+  "pages": 21,
+  "nr": "1317/C6/1161",
+  "data": "18.06.2021",
+  "obiect": "Ansamblu cap cilindrii telescopici MID; CR #33685",
+  "cpv": "42124150-0",
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "garantie-buna-executie",
+    "count": 29,
+    "mod": "M12"
+   },
+   {
+    "name": "garantie-participare",
+    "count": 15,
+    "mod": "M12"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 8,
+    "mod": "M7"
+   },
+   {
+    "name": "loturi-valoare-estimata",
+    "count": 6,
+    "mod": "M4"
+   }
+  ]
+ },
+ {
+  "file": "BO2021_1329",
+  "year": 2021,
+  "pages": 66,
+  "nr": null,
+  "data": null,
+  "obiect": "”...”, cod CPV 79311100-8, organizată de ........., cu sediul în municipiul........., ........., ........., în calitate de autoritate contra",
+  "cpv": "79311100-8",
+  "proc": "procedură simplificată",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE ÎN PARTE",
+  "themes": [
+   {
+    "name": "specificatii-restrictive",
+    "count": 86,
+    "mod": "M6"
+   },
+   {
+    "name": "criterii-atribuire",
+    "count": 35,
+    "mod": "M8"
+   },
+   {
+    "name": "confidentialitate-acces-dosar",
+    "count": 12,
+    "mod": "M13"
+   },
+   {
+    "name": "procedura-proprie",
+    "count": 9,
+    "mod": "M5"
+   }
+  ]
+ },
+ {
+  "file": "BO2021_1390",
+  "year": 2021,
+  "pages": 8,
+  "nr": null,
+  "data": null,
+  "obiect": "Servicii de pază, protecție și servicii de transport valori monetare, cod CPV 79713000-5-Servicii de pază (Rev.2), contestatoarea a solicita",
+  "cpv": "79713000-5",
+  "proc": "procedură proprie",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "anulare-procedura",
+    "count": 17,
+    "mod": "M10"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 8,
+    "mod": "M6"
+   },
+   {
+    "name": "concesiune-L100",
+    "count": 4,
+    "mod": "M16"
+   }
+  ]
+ },
+ {
+  "file": "BO2021_155",
+  "year": 2021,
+  "pages": 28,
+  "nr": null,
+  "data": null,
+  "obiect": "Întreținere și amenajare a zonelor verzi și a locurilor de joacă - pe raza ...- precum și a zonelor verzi din cimitirele administrate de Consiliul loc",
+  "cpv": "77310000-6",
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "specificatii-restrictive",
+    "count": 70,
+    "mod": "M6"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 9,
+    "mod": "M7"
+   },
+   {
+    "name": "garantie-buna-executie",
+    "count": 8,
+    "mod": "M12"
+   },
+   {
+    "name": "experienta-similara",
+    "count": 7,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2021_1677",
+  "year": 2021,
+  "pages": 33,
+  "nr": null,
+  "data": null,
+  "obiect": "Servicii de curăţenie, salubrizare și colectare selectivă în spațiile aferente terminalelor de pasageri și curăţenie stradală, la punctul de lucru AIB",
+  "cpv": null,
+  "proc": "licitație deschisă",
+  "law": "L99",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "conflict-interese",
+    "count": 117,
+    "mod": "M14"
+   },
+   {
+    "name": "sectorial-L99",
+    "count": 45,
+    "mod": "M15"
+   },
+   {
+    "name": "subcontractant",
+    "count": 28,
+    "mod": "M8"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 14,
+    "mod": "M7"
+   }
+  ]
+ },
+ {
+  "file": "BO2021_1829",
+  "year": 2021,
+  "pages": 10,
+  "nr": "1829/C3/1973",
+  "data": "18.08.2021",
+  "obiect": "CL 12 - Execuție rețele de apă și canalizare în ...... inclusiv stații de pompare și conducte de refulare",
+  "cpv": null,
+  "proc": "licitație deschisă",
+  "law": "L99",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "criterii-atribuire",
+    "count": 30,
+    "mod": "M8"
+   },
+   {
+    "name": "sectorial-L99",
+    "count": 6,
+    "mod": "M15"
+   },
+   {
+    "name": "clarificari",
+    "count": 4,
+    "mod": "M9"
+   }
+  ]
+ },
+ {
+  "file": "BO2021_1863",
+  "year": 2021,
+  "pages": 22,
+  "nr": null,
+  "data": null,
+  "obiect": "DEZINFECTANTI și ANTISEPTICE 2021 SPITAL+UPU+MEDICINA LEGALA",
+  "cpv": "33631600-8",
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": true,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "specificatii-restrictive",
+    "count": 37,
+    "mod": "M6"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 6,
+    "mod": "M7"
+   }
+  ]
+ },
+ {
+  "file": "BO2021_2084",
+  "year": 2021,
+  "pages": 21,
+  "nr": null,
+  "data": null,
+  "obiect": "Execuție lucrări (re-licitare) - extindere, reabilitare și modernizare Școală Gimnazială ...",
+  "cpv": null,
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "experienta-similara",
+    "count": 29,
+    "mod": "M8"
+   },
+   {
+    "name": "DUAE",
+    "count": 20,
+    "mod": "M8"
+   },
+   {
+    "name": "criterii-atribuire",
+    "count": 14,
+    "mod": "M8"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 10,
+    "mod": "M7"
+   }
+  ]
+ },
+ {
+  "file": "BO2021_2113",
+  "year": 2021,
+  "pages": 15,
+  "nr": null,
+  "data": null,
+  "obiect": "Servicii de pază și monitorizare obiective",
+  "cpv": "79713000-5",
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": true,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "asociere",
+    "count": 20,
+    "mod": "M8"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 18,
+    "mod": "M7"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 15,
+    "mod": "M6"
+   },
+   {
+    "name": "clarificari",
+    "count": 7,
+    "mod": "M9"
+   }
+  ]
+ },
+ {
+  "file": "BO2021_2179",
+  "year": 2021,
+  "pages": 24,
+  "nr": null,
+  "data": null,
+  "obiect": "<Servicii pentru realizarea studiilor suport, a hărților necesare și a planului de management în cadrul proiectului POIM 2014- 2020",
+  "cpv": "90710000-7",
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "criterii-atribuire",
+    "count": 23,
+    "mod": "M8"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 4,
+    "mod": "M6"
+   }
+  ]
+ },
+ {
+  "file": "BO2021_2251",
+  "year": 2021,
+  "pages": 27,
+  "nr": "2251/C5/2276",
+  "data": "11.10.2021",
+  "obiect": "Servicii de pază la obiectivele Spitalului Clinic Județean de Urgență «SF. APOSTOL ANDREI» CONSTANȚA",
+  "cpv": "79713000-5",
+  "proc": "negociere fără publicare",
+  "law": "L98",
+  "acordCadru": true,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "negociere-fara-publicare",
+    "count": 44,
+    "mod": "M5"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 18,
+    "mod": "M7"
+   },
+   {
+    "name": "procedura-proprie",
+    "count": 16,
+    "mod": "M5"
+   },
+   {
+    "name": "loturi-valoare-estimata",
+    "count": 11,
+    "mod": "M4"
+   }
+  ]
+ },
+ {
+  "file": "BO2021_2276",
+  "year": 2021,
+  "pages": 9,
+  "nr": null,
+  "data": null,
+  "obiect": "Achiziție motorină euro 5 (vrac)",
+  "cpv": null,
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "loturi-valoare-estimata",
+    "count": 11,
+    "mod": "M4"
+   },
+   {
+    "name": "cautiune",
+    "count": 4,
+    "mod": "M13"
+   }
+  ]
+ },
+ {
+  "file": "BO2021_2373",
+  "year": 2021,
+  "pages": 65,
+  "nr": null,
+  "data": null,
+  "obiect": "”REABILITĂRI ȘI EXTINDERI CONDUCTE DE ALIMENTARE CU APĂ ÎN ........., JUDEȚUL ......... (ETAPA A-3-A)",
+  "cpv": "45232150-8",
+  "proc": "procedură simplificată",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "asociere",
+    "count": 171,
+    "mod": "M8"
+   },
+   {
+    "name": "DUAE",
+    "count": 73,
+    "mod": "M8"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 51,
+    "mod": "M6"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 29,
+    "mod": "M7"
+   }
+  ]
+ },
+ {
+  "file": "BO2021_2420",
+  "year": 2021,
+  "pages": 12,
+  "nr": null,
+  "data": null,
+  "obiect": "„Servicii de asistenţă tehnică pt managementul şi supervizarea lucrărilor aferente obictivului Reabilitarea sistemului de termoficare al mun",
+  "cpv": null,
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "garantie-participare",
+    "count": 24,
+    "mod": "M12"
+   },
+   {
+    "name": "asociere",
+    "count": 15,
+    "mod": "M8"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 14,
+    "mod": "M7"
+   },
+   {
+    "name": "clarificari",
+    "count": 6,
+    "mod": "M9"
+   }
+  ]
+ },
+ {
+  "file": "BO2021_290",
+  "year": 2021,
+  "pages": 20,
+  "nr": "290/C1/3",
+  "data": "09.01.2021",
+  "obiect": "Servicii de dirigenție de șantier în cadrul Proiectului «Realizare rețea de canalizare și stație de epurare în comuna ........., județul ......... (re",
+  "cpv": "71247000-1",
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "tert-sustinator",
+    "count": 48,
+    "mod": "M8"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 12,
+    "mod": "M7"
+   },
+   {
+    "name": "DUAE",
+    "count": 7,
+    "mod": "M8"
+   },
+   {
+    "name": "experienta-similara",
+    "count": 6,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2021_352",
+  "year": 2021,
+  "pages": 13,
+  "nr": "352 / C3 / 222",
+  "data": "18.02.2021",
+  "obiect": "Încălzitoare electrice pentru gaz, starea de insolvență în care se află societatea, interpretată prin prisma prevederilor art. 180 din Legea",
+  "cpv": "39340000-7",
+  "proc": "procedură simplificată",
+  "law": "L99",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "sectorial-L99",
+    "count": 13,
+    "mod": "M15"
+   }
+  ]
+ },
+ {
+  "file": "BO2021_495",
+  "year": 2021,
+  "pages": 68,
+  "nr": null,
+  "data": null,
+  "obiect": "Ornamente iluminat festiv de iarnă în municipiul Sibiu",
+  "cpv": "71322000-1",
+  "proc": "procedură simplificată",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "specificatii-restrictive",
+    "count": 51,
+    "mod": "M6"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 23,
+    "mod": "M7"
+   },
+   {
+    "name": "clarificari",
+    "count": 20,
+    "mod": "M9"
+   },
+   {
+    "name": "excludere-164-167",
+    "count": 18,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2021_50",
+  "year": 2021,
+  "pages": 22,
+  "nr": "50/C5/2679",
+  "data": "11.01.2021",
+  "obiect": "„Proiectare și execuție lucrări de modernizare a infrastructurii secundare de irigații, a clădirilor aferente stațiilor de pompare în locali",
+  "cpv": "45232120-9",
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "confidentialitate-acces-dosar",
+    "count": 20,
+    "mod": "M13"
+   },
+   {
+    "name": "asociere",
+    "count": 13,
+    "mod": "M8"
+   },
+   {
+    "name": "conflict-interese",
+    "count": 8,
+    "mod": "M14"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 7,
+    "mod": "M6"
+   }
+  ]
+ },
+ {
+  "file": "BO2021_848",
+  "year": 2021,
+  "pages": 111,
+  "nr": null,
+  "data": null,
+  "obiect": "”PROIECTARE ȘI EXECUȚIE «Drum Expres .......» Tronsonul ........",
+  "cpv": "45233100-0",
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "asociere",
+    "count": 124,
+    "mod": "M8"
+   },
+   {
+    "name": "excludere-164-167",
+    "count": 105,
+    "mod": "M8"
+   },
+   {
+    "name": "DUAE",
+    "count": 37,
+    "mod": "M8"
+   },
+   {
+    "name": "tert-sustinator",
+    "count": 27,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2021_96",
+  "year": 2021,
+  "pages": 58,
+  "nr": null,
+  "data": null,
+  "obiect": null,
+  "cpv": null,
+  "proc": "concesiune",
+  "law": "L100",
+  "acordCadru": false,
+  "outcome": "ADMITE ÎN PARTE",
+  "themes": [
+   {
+    "name": "concesiune-L100",
+    "count": 74,
+    "mod": "M16"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 44,
+    "mod": "M6"
+   },
+   {
+    "name": "procedura-proprie",
+    "count": 8,
+    "mod": "M5"
+   },
+   {
+    "name": "anulare-procedura",
+    "count": 6,
+    "mod": "M10"
+   }
+  ]
+ },
+ {
+  "file": "BO2022_1028",
+  "year": 2022,
+  "pages": 29,
+  "nr": null,
+  "data": null,
+  "obiect": "Contract de lucrări de",
+  "cpv": "45453000-7",
+  "proc": "procedură simplificată",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "SEAP-semnatura",
+    "count": 28,
+    "mod": "M7"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 17,
+    "mod": "M6"
+   },
+   {
+    "name": "criterii-atribuire",
+    "count": 6,
+    "mod": "M8"
+   },
+   {
+    "name": "clarificari",
+    "count": 5,
+    "mod": "M9"
+   }
+  ]
+ },
+ {
+  "file": "BO2022_1512",
+  "year": 2022,
+  "pages": 17,
+  "nr": null,
+  "data": null,
+  "obiect": "CONTOARE MONOFAZATE ȘI TRIFAZATE DE ENERGIE ELECTRICĂ – 4 LOTURI",
+  "cpv": null,
+  "proc": "licitație deschisă",
+  "law": "L99",
+  "acordCadru": true,
+  "outcome": "RESPINGE (parțial inadmisibilă/lipsă interes/nefondată)",
+  "themes": [
+   {
+    "name": "cautiune",
+    "count": 12,
+    "mod": "M13"
+   },
+   {
+    "name": "DUAE",
+    "count": 6,
+    "mod": "M8"
+   },
+   {
+    "name": "sectorial-L99",
+    "count": 6,
+    "mod": "M15"
+   },
+   {
+    "name": "anulare-procedura",
+    "count": 4,
+    "mod": "M10"
+   }
+  ]
+ },
+ {
+  "file": "BO2022_1558",
+  "year": 2022,
+  "pages": 34,
+  "nr": null,
+  "data": null,
+  "obiect": "CONSTRUIRE SEDIU ADMINISTRATIV PENTRU PRIMĂRIA COMUNEI ..., JUDEȚUL ...",
+  "cpv": "45210000-2",
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": true,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "DUAE",
+    "count": 61,
+    "mod": "M8"
+   },
+   {
+    "name": "experienta-similara",
+    "count": 46,
+    "mod": "M8"
+   },
+   {
+    "name": "subcontractant",
+    "count": 32,
+    "mod": "M8"
+   },
+   {
+    "name": "asociere",
+    "count": 18,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2022_2043",
+  "year": 2022,
+  "pages": 27,
+  "nr": null,
+  "data": null,
+  "obiect": "CS-CL-05 Extinderea și reabilitarea rețelelor de distribuție a apei și a rețelelor de canalizare în municipiul Reșița 1",
+  "cpv": null,
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "asociere",
+    "count": 30,
+    "mod": "M8"
+   },
+   {
+    "name": "experienta-similara",
+    "count": 16,
+    "mod": "M8"
+   },
+   {
+    "name": "DUAE",
+    "count": 12,
+    "mod": "M8"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 12,
+    "mod": "M6"
+   }
+  ]
+ },
+ {
+  "file": "BO2022_2067",
+  "year": 2022,
+  "pages": 12,
+  "nr": null,
+  "data": null,
+  "obiect": "Servicii de proiectare privind realizarea studiului de fezabilitate aferent obiectivului de investiţii - CENTURA FEROVIARĂ A MUNICIPIULUI .........",
+  "cpv": "71241000-9",
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "SEAP-semnatura",
+    "count": 28,
+    "mod": "M7"
+   },
+   {
+    "name": "asociere",
+    "count": 5,
+    "mod": "M8"
+   },
+   {
+    "name": "clarificari",
+    "count": 5,
+    "mod": "M9"
+   },
+   {
+    "name": "modificare-propunere",
+    "count": 4,
+    "mod": "M9"
+   }
+  ]
+ },
+ {
+  "file": "BO2022_2135",
+  "year": 2022,
+  "pages": 28,
+  "nr": null,
+  "data": "12.10.2022",
+  "obiect": "Achiziție servicii de pază",
+  "cpv": "79713000-5",
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": true,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "subcontractant",
+    "count": 61,
+    "mod": "M8"
+   },
+   {
+    "name": "asociere",
+    "count": 52,
+    "mod": "M8"
+   },
+   {
+    "name": "modificare-propunere",
+    "count": 12,
+    "mod": "M9"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 9,
+    "mod": "M7"
+   }
+  ]
+ },
+ {
+  "file": "BO2022_2170",
+  "year": 2022,
+  "pages": 11,
+  "nr": null,
+  "data": null,
+  "obiect": "....”, prin publicarea, în SEAP, a anunțului simplificat nr. ..... Valoarea estimată a contractului este de .... lei, fără TVA, iar criteriul de atrib",
+  "cpv": null,
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "garantie-participare",
+    "count": 35,
+    "mod": "M12"
+   },
+   {
+    "name": "subcontractant",
+    "count": 21,
+    "mod": "M8"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 10,
+    "mod": "M7"
+   }
+  ]
+ },
+ {
+  "file": "BO2022_2222",
+  "year": 2022,
+  "pages": 14,
+  "nr": null,
+  "data": null,
+  "obiect": "«Proiectare, asistență tehnică din partea proiectantului și execuția de lucrări pentru obiectivul de investiții",
+  "cpv": null,
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "subcontractant",
+    "count": 55,
+    "mod": "M8"
+   },
+   {
+    "name": "excludere-164-167",
+    "count": 26,
+    "mod": "M8"
+   },
+   {
+    "name": "asociere",
+    "count": 14,
+    "mod": "M8"
+   },
+   {
+    "name": "DUAE",
+    "count": 14,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2022_2244",
+  "year": 2022,
+  "pages": 25,
+  "nr": "2244/C9/2344",
+  "data": "26.10.2022",
+  "obiect": "Lucrări de construire - rest de executat, aferente UAT Județul Suceava, ce vor fi executate în cadrul Proiectului REGIUNEA NORD-EST - AXA RU",
+  "cpv": "45233120-6",
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE ÎN PARTE",
+  "themes": [
+   {
+    "name": "specificatii-restrictive",
+    "count": 14,
+    "mod": "M6"
+   },
+   {
+    "name": "concesiune-L100",
+    "count": 6,
+    "mod": "M16"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 5,
+    "mod": "M7"
+   },
+   {
+    "name": "loturi-valoare-estimata",
+    "count": 4,
+    "mod": "M4"
+   }
+  ]
+ },
+ {
+  "file": "BO2022_2361",
+  "year": 2022,
+  "pages": 25,
+  "nr": "2361/C1/2346",
+  "data": "09.11.2022",
+  "obiect": "Furnizare rații individuale de luptă",
+  "cpv": "15897100-3",
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": true,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "specificatii-restrictive",
+    "count": 32,
+    "mod": "M6"
+   },
+   {
+    "name": "confidentialitate-acces-dosar",
+    "count": 23,
+    "mod": "M13"
+   },
+   {
+    "name": "pret-neobisnuit",
+    "count": 10,
+    "mod": "M9"
+   },
+   {
+    "name": "asociere",
+    "count": 7,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2022_2417",
+  "year": 2022,
+  "pages": 16,
+  "nr": null,
+  "data": null,
+  "obiect": "Servicii proiectare, asistenţă tehnică din partea proiectantului, inclusiv verificarea tehnică a proiectului tehnic şi execuţie lucrări în cadrul proi",
+  "cpv": "45213331-2",
+  "proc": "licitație deschisă",
+  "law": "L99",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "SEAP-semnatura",
+    "count": 26,
+    "mod": "M7"
+   },
+   {
+    "name": "tardivitate-termen",
+    "count": 17,
+    "mod": "M13"
+   },
+   {
+    "name": "sectorial-L99",
+    "count": 12,
+    "mod": "M15"
+   },
+   {
+    "name": "concesiune-L100",
+    "count": 12,
+    "mod": "M16"
+   }
+  ]
+ },
+ {
+  "file": "BO2022_360",
+  "year": 2022,
+  "pages": 52,
+  "nr": null,
+  "data": null,
+  "obiect": "Aparatură medicală 3 (Aparat de anestezie, Ventilator, Aspirator chirurgical de putere mare şi Masa de operaţii multifuncţională (oftalmo, ORL, chirur",
+  "cpv": "33192230-3",
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "DUAE",
+    "count": 48,
+    "mod": "M8"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 43,
+    "mod": "M6"
+   },
+   {
+    "name": "excludere-164-167",
+    "count": 38,
+    "mod": "M8"
+   },
+   {
+    "name": "pret-neobisnuit",
+    "count": 14,
+    "mod": "M9"
+   }
+  ]
+ },
+ {
+  "file": "BO2023_1263",
+  "year": 2023,
+  "pages": 15,
+  "nr": null,
+  "data": null,
+  "obiect": "Construire Parc central în comuna Gârla Mare, judeţul Mehedinţi",
+  "cpv": null,
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "asociere",
+    "count": 28,
+    "mod": "M8"
+   },
+   {
+    "name": "DUAE",
+    "count": 28,
+    "mod": "M8"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 20,
+    "mod": "M7"
+   },
+   {
+    "name": "subcontractant",
+    "count": 9,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2023_1305",
+  "year": 2023,
+  "pages": 37,
+  "nr": null,
+  "data": null,
+  "obiect": "Lucrări de covoare asfaltice pe drumurile județene din județul ...",
+  "cpv": "45233140-2",
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "SEAP-semnatura",
+    "count": 25,
+    "mod": "M7"
+   },
+   {
+    "name": "loturi-valoare-estimata",
+    "count": 19,
+    "mod": "M4"
+   },
+   {
+    "name": "concesiune-L100",
+    "count": 5,
+    "mod": "M16"
+   },
+   {
+    "name": "criterii-atribuire",
+    "count": 4,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2023_1434",
+  "year": 2023,
+  "pages": 18,
+  "nr": null,
+  "data": null,
+  "obiect": "Execuție lucrări în vederea realizării obiectivului de investiții «Amenajare parcare pentru autocamioane, zona Dane Agabaritice CNE, oraș Cernavoda»",
+  "cpv": null,
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "specificatii-restrictive",
+    "count": 22,
+    "mod": "M6"
+   },
+   {
+    "name": "asociere",
+    "count": 20,
+    "mod": "M8"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 5,
+    "mod": "M7"
+   },
+   {
+    "name": "loturi-valoare-estimata",
+    "count": 4,
+    "mod": "M4"
+   }
+  ]
+ },
+ {
+  "file": "BO2023_1733",
+  "year": 2023,
+  "pages": 49,
+  "nr": null,
+  "data": null,
+  "obiect": "Servicii de pază, supraveghere, monitorizare și intervenție, ce a fost inițiată prin publicarea în SEAP a anunțului de participare nr. .../..., s-au s",
+  "cpv": "79713000-5",
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "asociere",
+    "count": 14,
+    "mod": "M8"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 6,
+    "mod": "M7"
+   },
+   {
+    "name": "pret-neobisnuit",
+    "count": 4,
+    "mod": "M9"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 4,
+    "mod": "M6"
+   }
+  ]
+ },
+ {
+  "file": "BO2023_2014",
+  "year": 2023,
+  "pages": 30,
+  "nr": null,
+  "data": null,
+  "obiect": "«Achiziție publica de dotări în cadrul proiectului",
+  "cpv": "33190000-8",
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "subcontractant",
+    "count": 86,
+    "mod": "M8"
+   },
+   {
+    "name": "experienta-similara",
+    "count": 37,
+    "mod": "M8"
+   },
+   {
+    "name": "tert-sustinator",
+    "count": 28,
+    "mod": "M8"
+   },
+   {
+    "name": "DUAE",
+    "count": 26,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2023_24",
+  "year": 2023,
+  "pages": 72,
+  "nr": null,
+  "data": null,
+  "obiect": "„INV – 3/2022 Execuţia lucrărilor pentru obiectivele de investiţii aflate în administrarea ANIF, din cadrul Programului Naţional de Reabilit",
+  "cpv": null,
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "specificatii-restrictive",
+    "count": 63,
+    "mod": "M6"
+   },
+   {
+    "name": "asociere",
+    "count": 27,
+    "mod": "M8"
+   },
+   {
+    "name": "subcontractant",
+    "count": 26,
+    "mod": "M8"
+   },
+   {
+    "name": "pret-neobisnuit",
+    "count": 12,
+    "mod": "M9"
+   }
+  ]
+ },
+ {
+  "file": "BO2023_2480",
+  "year": 2023,
+  "pages": 10,
+  "nr": null,
+  "data": null,
+  "obiect": "..., luându- se în considerare dispozițiile art. 212 alin. (1) lit. c) din Legea nr. 98/2016 care prevăd:",
+  "cpv": null,
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "anulare-procedura",
+    "count": 30,
+    "mod": "M10"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 4,
+    "mod": "M7"
+   },
+   {
+    "name": "concesiune-L100",
+    "count": 4,
+    "mod": "M16"
+   }
+  ]
+ },
+ {
+  "file": "BO2023_2667",
+  "year": 2023,
+  "pages": 57,
+  "nr": "2667 / C7 / 2319",
+  "data": "13.11.2023",
+  "obiect": "Cartuș cal. 40 mm cu efect iritant lacrimogen pentru arma lansator",
+  "cpv": "35331000-3",
+  "proc": "licitație restrânsă",
+  "law": "L98",
+  "acordCadru": true,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "confidentialitate-acces-dosar",
+    "count": 67,
+    "mod": "M13"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 54,
+    "mod": "M6"
+   },
+   {
+    "name": "pret-neobisnuit",
+    "count": 23,
+    "mod": "M9"
+   },
+   {
+    "name": "loturi-valoare-estimata",
+    "count": 13,
+    "mod": "M4"
+   }
+  ]
+ },
+ {
+  "file": "BO2023_2896",
+  "year": 2023,
+  "pages": 49,
+  "nr": null,
+  "data": null,
+  "obiect": "„Lucrări de construcție Facultatea de Inginerie Chimică și Biotehnologii, Facultatea de Inginerie Medicală, Facultatea de Inginerie Aerospaț",
+  "cpv": "45214410-7",
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "specificatii-restrictive",
+    "count": 55,
+    "mod": "M6"
+   },
+   {
+    "name": "criterii-atribuire",
+    "count": 13,
+    "mod": "M8"
+   },
+   {
+    "name": "anulare-procedura",
+    "count": 8,
+    "mod": "M10"
+   }
+  ]
+ },
+ {
+  "file": "BO2023_296",
+  "year": 2023,
+  "pages": 17,
+  "nr": null,
+  "data": null,
+  "obiect": "acordarea finanţării nerambursabile de către AM POIM, pentru implementarea Proiectului nr. <cod SMIS 149775> intitulat",
+  "cpv": "33191000-5",
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "anulare-procedura",
+    "count": 39,
+    "mod": "M10"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 20,
+    "mod": "M7"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 17,
+    "mod": "M6"
+   },
+   {
+    "name": "DUAE",
+    "count": 4,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2023_416",
+  "year": 2023,
+  "pages": 46,
+  "nr": null,
+  "data": null,
+  "obiect": "Construire 8 blocuri locuințe P+5 etaje - fază Studiu de fezabilitate",
+  "cpv": "71242000-6",
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "VERIFICĂ MANUAL",
+  "themes": [
+   {
+    "name": "subcontractant",
+    "count": 39,
+    "mod": "M8"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 33,
+    "mod": "M6"
+   },
+   {
+    "name": "asociere",
+    "count": 16,
+    "mod": "M8"
+   },
+   {
+    "name": "loturi-valoare-estimata",
+    "count": 13,
+    "mod": "M4"
+   }
+  ]
+ },
+ {
+  "file": "BO2023_532",
+  "year": 2023,
+  "pages": 19,
+  "nr": "532/C5 /445",
+  "data": "10.03.2023",
+  "obiect": "Servicii de proiectare, asistență tehnică și execuție lucrări a obiectivului de investiții «Modernizare drumuri de interes local în ........., județul",
+  "cpv": "45233120-6",
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "criterii-atribuire",
+    "count": 22,
+    "mod": "M8"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 7,
+    "mod": "M6"
+   },
+   {
+    "name": "garantie-buna-executie",
+    "count": 5,
+    "mod": "M12"
+   },
+   {
+    "name": "cautiune",
+    "count": 4,
+    "mod": "M13"
+   }
+  ]
+ },
+ {
+  "file": "BO2023_718",
+  "year": 2023,
+  "pages": 28,
+  "nr": "718/C5/590",
+  "data": "30.03.2023",
+  "obiect": "executarea lucrărilor la obiectivului de investiții",
+  "cpv": null,
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "experienta-similara",
+    "count": 28,
+    "mod": "M8"
+   },
+   {
+    "name": "confidentialitate-acces-dosar",
+    "count": 16,
+    "mod": "M13"
+   },
+   {
+    "name": "DUAE",
+    "count": 14,
+    "mod": "M8"
+   },
+   {
+    "name": "tert-sustinator",
+    "count": 12,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2023_773",
+  "year": 2023,
+  "pages": 5,
+  "nr": null,
+  "data": null,
+  "obiect": "Corectarea torenţilor și consolidarea alunecărilor de teren din fondul forestier al ...",
+  "cpv": null,
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "cautiune",
+    "count": 17,
+    "mod": "M13"
+   },
+   {
+    "name": "concesiune-L100",
+    "count": 6,
+    "mod": "M16"
+   },
+   {
+    "name": "sectorial-L99",
+    "count": 4,
+    "mod": "M15"
+   }
+  ]
+ },
+ {
+  "file": "BO2023_781",
+  "year": 2023,
+  "pages": 55,
+  "nr": null,
+  "data": null,
+  "obiect": "Execuţie a lucrărilor aferente obiectivului «VARIANTA OCOLITOARE .........»",
+  "cpv": "45233120-6",
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": true,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "loturi-valoare-estimata",
+    "count": 114,
+    "mod": "M4"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 59,
+    "mod": "M7"
+   },
+   {
+    "name": "asociere",
+    "count": 44,
+    "mod": "M8"
+   },
+   {
+    "name": "anulare-procedura",
+    "count": 19,
+    "mod": "M10"
+   }
+  ]
+ },
+ {
+  "file": "BO2023_831",
+  "year": 2023,
+  "pages": 25,
+  "nr": null,
+  "data": null,
+  "obiect": "„Delegarea gestiunii activității serviciului de salubrizare de sortare a deșeurilor de hârtie, carton metal, plastic și sticlă colectate sep",
+  "cpv": null,
+  "proc": "negociere fără publicare",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "negociere-fara-publicare",
+    "count": 54,
+    "mod": "M5"
+   },
+   {
+    "name": "concesiune-L100",
+    "count": 16,
+    "mod": "M16"
+   },
+   {
+    "name": "anulare-procedura",
+    "count": 7,
+    "mod": "M10"
+   },
+   {
+    "name": "asociere",
+    "count": 6,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2023_897",
+  "year": 2023,
+  "pages": 17,
+  "nr": null,
+  "data": null,
+  "obiect": "Bitum rutier 50/70 sau 70/100",
+  "cpv": "44113610-4",
+  "proc": "negociere fără publicare",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "pret-neobisnuit",
+    "count": 22,
+    "mod": "M9"
+   },
+   {
+    "name": "loturi-valoare-estimata",
+    "count": 11,
+    "mod": "M4"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 9,
+    "mod": "M6"
+   },
+   {
+    "name": "confidentialitate-acces-dosar",
+    "count": 6,
+    "mod": "M13"
+   }
+  ]
+ },
+ {
+  "file": "BO2023_958",
+  "year": 2023,
+  "pages": 32,
+  "nr": null,
+  "data": null,
+  "obiect": "Clădire laboratoare de cercetare inteligență artificială",
+  "cpv": null,
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE ÎN PARTE",
+  "themes": [
+   {
+    "name": "criterii-atribuire",
+    "count": 57,
+    "mod": "M8"
+   },
+   {
+    "name": "criterii-calificare",
+    "count": 18,
+    "mod": "M8"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 18,
+    "mod": "M6"
+   },
+   {
+    "name": "experienta-similara",
+    "count": 15,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2024_1327",
+  "year": 2024,
+  "pages": 15,
+  "nr": null,
+  "data": null,
+  "obiect": "Materie primă pentru stiksuri",
+  "cpv": "24322100",
+  "proc": "licitație deschisă",
+  "law": "L99",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "SEAP-semnatura",
+    "count": 26,
+    "mod": "M7"
+   },
+   {
+    "name": "DUAE",
+    "count": 17,
+    "mod": "M8"
+   },
+   {
+    "name": "sectorial-L99",
+    "count": 13,
+    "mod": "M15"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 4,
+    "mod": "M6"
+   }
+  ]
+ },
+ {
+  "file": "BO2024_1456",
+  "year": 2024,
+  "pages": 56,
+  "nr": null,
+  "data": null,
+  "obiect": "PRODUSE BIOCIDE GRUPA PRINCIPALA I. TIP PRODUS 1. 2. PRODUSE BIOCIDE ÎNCADRATE CA DISPOZITIVE MEDICALE. DETERGENTI CU EFECT TENSIOACTIV",
+  "cpv": "33631600-8",
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": true,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "specificatii-restrictive",
+    "count": 65,
+    "mod": "M6"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 17,
+    "mod": "M7"
+   },
+   {
+    "name": "concesiune-L100",
+    "count": 6,
+    "mod": "M16"
+   },
+   {
+    "name": "criterii-atribuire",
+    "count": 5,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2024_1525",
+  "year": 2024,
+  "pages": 31,
+  "nr": "1525/C9/1480",
+  "data": "04.06.2024",
+  "obiect": "P32: Lot 2: Finalizarea lucrărilor de execuție pentru obiectivul de investiție (conform scenariu ISU 2023) Reabilitare, modernizare și dotare așezămân",
+  "cpv": "45200000-9",
+  "proc": "procedură simplificată",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE ÎN PARTE",
+  "themes": [
+   {
+    "name": "modificare-propunere",
+    "count": 33,
+    "mod": "M9"
+   },
+   {
+    "name": "asociere",
+    "count": 33,
+    "mod": "M8"
+   },
+   {
+    "name": "erori-aritmetice",
+    "count": 29,
+    "mod": "M9"
+   },
+   {
+    "name": "clarificari",
+    "count": 14,
+    "mod": "M9"
+   }
+  ]
+ },
+ {
+  "file": "BO2024_1560",
+  "year": 2024,
+  "pages": 51,
+  "nr": null,
+  "data": null,
+  "obiect": "Servicii de pază pentru ...secția ... și secția ...",
+  "cpv": "79713000-5",
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE ÎN PARTE",
+  "themes": [
+   {
+    "name": "confidentialitate-acces-dosar",
+    "count": 73,
+    "mod": "M13"
+   },
+   {
+    "name": "criterii-atribuire",
+    "count": 20,
+    "mod": "M8"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 17,
+    "mod": "M6"
+   },
+   {
+    "name": "procedura-proprie",
+    "count": 6,
+    "mod": "M5"
+   }
+  ]
+ },
+ {
+  "file": "BO2024_159",
+  "year": 2024,
+  "pages": 25,
+  "nr": null,
+  "data": null,
+  "obiect": "......, în calitate de autoritate contractantă, contestatoarea a solicitat: - anularea, în tot, a rezultatului comunicat prin adresa nr. 246",
+  "cpv": "45321000-3",
+  "proc": "procedură simplificată",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "modificare-propunere",
+    "count": 38,
+    "mod": "M9"
+   },
+   {
+    "name": "asociere",
+    "count": 22,
+    "mod": "M8"
+   },
+   {
+    "name": "erori-aritmetice",
+    "count": 18,
+    "mod": "M9"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 8,
+    "mod": "M7"
+   }
+  ]
+ },
+ {
+  "file": "BO2024_1702",
+  "year": 2024,
+  "pages": 52,
+  "nr": null,
+  "data": null,
+  "obiect": "Concesiune prin gestiune delegata a serviciului de iluminat public în Municipiul ...",
+  "cpv": null,
+  "proc": "concesiune",
+  "law": "L100",
+  "acordCadru": false,
+  "outcome": "ADMITE ÎN PARTE",
+  "themes": [
+   {
+    "name": "concesiune-L100",
+    "count": 86,
+    "mod": "M16"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 84,
+    "mod": "M6"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 13,
+    "mod": "M7"
+   },
+   {
+    "name": "loturi-valoare-estimata",
+    "count": 11,
+    "mod": "M4"
+   }
+  ]
+ },
+ {
+  "file": "BO2024_1762",
+  "year": 2024,
+  "pages": 23,
+  "nr": null,
+  "data": null,
+  "obiect": "Servicii de colectare, transport și tratare/eliminare finală, deşeuri medicale și nemedicale periculoase",
+  "cpv": "90524400-0",
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": true,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "criterii-atribuire",
+    "count": 40,
+    "mod": "M8"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 28,
+    "mod": "M6"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 8,
+    "mod": "M7"
+   }
+  ]
+ },
+ {
+  "file": "BO2024_1892",
+  "year": 2024,
+  "pages": 30,
+  "nr": null,
+  "data": null,
+  "obiect": "Prestare servicii pază la obiectivele Direcției de Infrastructură și servicii .,..: depozit de deșeuri-autoturisme abandonate pe domeniul public al mu",
+  "cpv": "79713000-5",
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "confidentialitate-acces-dosar",
+    "count": 24,
+    "mod": "M13"
+   },
+   {
+    "name": "subcontractant",
+    "count": 18,
+    "mod": "M8"
+   },
+   {
+    "name": "excludere-164-167",
+    "count": 16,
+    "mod": "M8"
+   },
+   {
+    "name": "loturi-valoare-estimata",
+    "count": 9,
+    "mod": "M4"
+   }
+  ]
+ },
+ {
+  "file": "BO2024_2013",
+  "year": 2024,
+  "pages": 21,
+  "nr": null,
+  "data": null,
+  "obiect": "Echipamente medicale",
+  "cpv": "33192230-3",
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": true,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "specificatii-restrictive",
+    "count": 12,
+    "mod": "M6"
+   },
+   {
+    "name": "criterii-atribuire",
+    "count": 10,
+    "mod": "M8"
+   },
+   {
+    "name": "loturi-valoare-estimata",
+    "count": 9,
+    "mod": "M4"
+   },
+   {
+    "name": "asociere",
+    "count": 6,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2024_2045",
+  "year": 2024,
+  "pages": 23,
+  "nr": null,
+  "data": null,
+  "obiect": "ÎNFIINȚARE PISTE DE BICICLETE, ...",
+  "cpv": "45233162-2",
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "SEAP-semnatura",
+    "count": 86,
+    "mod": "M7"
+   },
+   {
+    "name": "DUAE",
+    "count": 6,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2024_284",
+  "year": 2024,
+  "pages": 19,
+  "nr": null,
+  "data": null,
+  "obiect": "Servicii de proiectare (inclusiv Asistență tehnică din partea proiectantului) și execuție lucrări pentru obiectivul",
+  "cpv": "45453000-7",
+  "proc": "procedură simplificată",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "asociere",
+    "count": 13,
+    "mod": "M8"
+   },
+   {
+    "name": "DUAE",
+    "count": 8,
+    "mod": "M8"
+   },
+   {
+    "name": "experienta-similara",
+    "count": 7,
+    "mod": "M8"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 4,
+    "mod": "M7"
+   }
+  ]
+ },
+ {
+  "file": "BO2024_2902",
+  "year": 2024,
+  "pages": 12,
+  "nr": null,
+  "data": null,
+  "obiect": "Contract furnizare chiller",
+  "cpv": "42500000-1",
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "SEAP-semnatura",
+    "count": 6,
+    "mod": "M7"
+   },
+   {
+    "name": "excludere-164-167",
+    "count": 4,
+    "mod": "M8"
+   },
+   {
+    "name": "DUAE",
+    "count": 4,
+    "mod": "M8"
+   },
+   {
+    "name": "concesiune-L100",
+    "count": 4,
+    "mod": "M16"
+   }
+  ]
+ },
+ {
+  "file": "BO2024_3050",
+  "year": 2024,
+  "pages": 23,
+  "nr": null,
+  "data": null,
+  "obiect": "realizarea investiţiei publice denumită",
+  "cpv": null,
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "clarificari",
+    "count": 16,
+    "mod": "M9"
+   },
+   {
+    "name": "pret-neobisnuit",
+    "count": 13,
+    "mod": "M9"
+   },
+   {
+    "name": "confidentialitate-acces-dosar",
+    "count": 8,
+    "mod": "M13"
+   },
+   {
+    "name": "modificare-propunere",
+    "count": 6,
+    "mod": "M9"
+   }
+  ]
+ },
+ {
+  "file": "BO2024_3245",
+  "year": 2024,
+  "pages": 61,
+  "nr": null,
+  "data": null,
+  "obiect": "EXECUȚIE DE LUCRǍRI la obiectivul de investiții:",
+  "cpv": null,
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "excludere-164-167",
+    "count": 30,
+    "mod": "M8"
+   },
+   {
+    "name": "DUAE",
+    "count": 19,
+    "mod": "M8"
+   },
+   {
+    "name": "confidentialitate-acces-dosar",
+    "count": 16,
+    "mod": "M13"
+   },
+   {
+    "name": "asociere",
+    "count": 14,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2024_3370",
+  "year": 2024,
+  "pages": 16,
+  "nr": null,
+  "data": null,
+  "obiect": "Restaurarea și amenajarea ansamblului Bisericii Sf. .... – ...",
+  "cpv": "45200000-9",
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "excludere-164-167",
+    "count": 38,
+    "mod": "M8"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 10,
+    "mod": "M7"
+   },
+   {
+    "name": "asociere",
+    "count": 8,
+    "mod": "M8"
+   },
+   {
+    "name": "DUAE",
+    "count": 8,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2024_3371",
+  "year": 2024,
+  "pages": 61,
+  "nr": null,
+  "data": null,
+  "obiect": "Execuție lucrări pentru obiectivul",
+  "cpv": null,
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "specificatii-restrictive",
+    "count": 21,
+    "mod": "M6"
+   },
+   {
+    "name": "tardivitate-termen",
+    "count": 21,
+    "mod": "M13"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 14,
+    "mod": "M7"
+   },
+   {
+    "name": "subcontractant",
+    "count": 10,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2024_3528",
+  "year": 2024,
+  "pages": 8,
+  "nr": null,
+  "data": null,
+  "obiect": "Acord-cadru privind Lucrări de întreținere și reparații curente pe timp de vară și iarnă pe rețeaua de drumuri și poduri aflate în administrarea Consi",
+  "cpv": "45233141-9",
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": true,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "cautiune",
+    "count": 49,
+    "mod": "M13"
+   },
+   {
+    "name": "loturi-valoare-estimata",
+    "count": 4,
+    "mod": "M4"
+   }
+  ]
+ },
+ {
+  "file": "BO2024_3531",
+  "year": 2024,
+  "pages": 17,
+  "nr": null,
+  "data": "12.12.2024",
+  "obiect": "Furnizarea şi montarea elementelor de mobilier urban necesare a se amplasa pe raza . .........",
+  "cpv": "34928400",
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "DUAE",
+    "count": 22,
+    "mod": "M8"
+   },
+   {
+    "name": "experienta-similara",
+    "count": 17,
+    "mod": "M8"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 4,
+    "mod": "M7"
+   }
+  ]
+ },
+ {
+  "file": "BO2024_407",
+  "year": 2024,
+  "pages": 128,
+  "nr": null,
+  "data": null,
+  "obiect": "Dotări echipamente medicale pentru proiectul",
+  "cpv": "33100000-1",
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "specificatii-restrictive",
+    "count": 208,
+    "mod": "M6"
+   },
+   {
+    "name": "anulare-procedura",
+    "count": 13,
+    "mod": "M10"
+   },
+   {
+    "name": "loturi-valoare-estimata",
+    "count": 11,
+    "mod": "M4"
+   },
+   {
+    "name": "criterii-atribuire",
+    "count": 10,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2024_460",
+  "year": 2024,
+  "pages": 142,
+  "nr": null,
+  "data": null,
+  "obiect": "”.. “..”, cod unic ........./2022/50",
+  "cpv": "45215140-0",
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "asociere",
+    "count": 200,
+    "mod": "M8"
+   },
+   {
+    "name": "subcontractant",
+    "count": 146,
+    "mod": "M8"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 48,
+    "mod": "M6"
+   },
+   {
+    "name": "excludere-164-167",
+    "count": 30,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2024_585",
+  "year": 2024,
+  "pages": 28,
+  "nr": null,
+  "data": null,
+  "obiect": "Implementarea unui sistem informatic tip ERP LA CNPR",
+  "cpv": null,
+  "proc": "concesiune",
+  "law": "L99",
+  "acordCadru": false,
+  "outcome": "ADMITE ÎN PARTE",
+  "themes": [
+   {
+    "name": "specificatii-restrictive",
+    "count": 76,
+    "mod": "M6"
+   },
+   {
+    "name": "criterii-atribuire",
+    "count": 35,
+    "mod": "M8"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 22,
+    "mod": "M7"
+   },
+   {
+    "name": "procedura-proprie",
+    "count": 19,
+    "mod": "M5"
+   }
+  ]
+ },
+ {
+  "file": "BO2024_616",
+  "year": 2024,
+  "pages": 13,
+  "nr": null,
+  "data": null,
+  "obiect": "Modernizare drumuri de interes local în ..., ...",
+  "cpv": "45233140-2",
+  "proc": "procedură simplificată",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "DUAE",
+    "count": 19,
+    "mod": "M8"
+   },
+   {
+    "name": "asociere",
+    "count": 13,
+    "mod": "M8"
+   },
+   {
+    "name": "experienta-similara",
+    "count": 8,
+    "mod": "M8"
+   },
+   {
+    "name": "modificare-propunere",
+    "count": 4,
+    "mod": "M9"
+   }
+  ]
+ },
+ {
+  "file": "BO2024_719",
+  "year": 2024,
+  "pages": 296,
+  "nr": null,
+  "data": null,
+  "obiect": "Servicii de supraveghere a lucrărilor de construcții obiectiv de investiții",
+  "cpv": "71247000-1",
+  "proc": "licitație deschisă",
+  "law": "L99",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "asociere",
+    "count": 159,
+    "mod": "M8"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 141,
+    "mod": "M6"
+   },
+   {
+    "name": "DUAE",
+    "count": 125,
+    "mod": "M8"
+   },
+   {
+    "name": "excludere-164-167",
+    "count": 97,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2024_720",
+  "year": 2024,
+  "pages": 322,
+  "nr": "720/C1/48, 51, 55, 95",
+  "data": "21.03.2024",
+  "obiect": "Proiectare și execuție «Varianta de ocolire a Municipiului .........",
+  "cpv": "45233110-3",
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE ÎN PARTE",
+  "themes": [
+   {
+    "name": "SEAP-semnatura",
+    "count": 99,
+    "mod": "M7"
+   },
+   {
+    "name": "tert-sustinator",
+    "count": 79,
+    "mod": "M8"
+   },
+   {
+    "name": "asociere",
+    "count": 74,
+    "mod": "M8"
+   },
+   {
+    "name": "experienta-similara",
+    "count": 72,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2024_942",
+  "year": 2024,
+  "pages": 147,
+  "nr": null,
+  "data": null,
+  "obiect": "PT, DE ȘI EXECUȚIE:",
+  "cpv": "45232400-6",
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE ÎN PARTE",
+  "themes": [
+   {
+    "name": "asociere",
+    "count": 180,
+    "mod": "M8"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 69,
+    "mod": "M6"
+   },
+   {
+    "name": "excludere-164-167",
+    "count": 48,
+    "mod": "M8"
+   },
+   {
+    "name": "DUAE",
+    "count": 32,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2025_104",
+  "year": 2025,
+  "pages": 10,
+  "nr": null,
+  "data": null,
+  "obiect": null,
+  "cpv": "45231221-0",
+  "proc": "procedură simplificată",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE ÎN PARTE",
+  "themes": [
+   {
+    "name": "pret-neobisnuit",
+    "count": 11,
+    "mod": "M9"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 10,
+    "mod": "M7"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 7,
+    "mod": "M6"
+   }
+  ]
+ },
+ {
+  "file": "BO2025_1319",
+  "year": 2025,
+  "pages": 82,
+  "nr": null,
+  "data": null,
+  "obiect": "atribuirea acordului cadru pentru",
+  "cpv": "45453000-7",
+  "proc": "licitație deschisă",
+  "law": "L99",
+  "acordCadru": true,
+  "outcome": "ADMITE ÎN PARTE",
+  "themes": [
+   {
+    "name": "confidentialitate-acces-dosar",
+    "count": 72,
+    "mod": "M13"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 44,
+    "mod": "M6"
+   },
+   {
+    "name": "tert-sustinator",
+    "count": 26,
+    "mod": "M8"
+   },
+   {
+    "name": "DUAE",
+    "count": 23,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2025_140",
+  "year": 2025,
+  "pages": 62,
+  "nr": null,
+  "data": null,
+  "obiect": "Servicii de proiectare, Asistență tehnică, verificare tehnică și execuție lucrări pentru",
+  "cpv": "71322500-6",
+  "proc": "licitație deschisă",
+  "law": "L99",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "confidentialitate-acces-dosar",
+    "count": 67,
+    "mod": "M13"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 30,
+    "mod": "M6"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 28,
+    "mod": "M7"
+   },
+   {
+    "name": "experienta-similara",
+    "count": 22,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2025_1538",
+  "year": 2025,
+  "pages": 56,
+  "nr": null,
+  "data": null,
+  "obiect": "Servicii de catering pentru pachet alimentar acordat în baza H.G. nr. 23/28.01.2025 privind finanțarea Programului național Masa sănătoasă la Școala G",
+  "cpv": "55524000-9",
+  "proc": "procedură proprie",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "specificatii-restrictive",
+    "count": 16,
+    "mod": "M6"
+   },
+   {
+    "name": "subcontractant",
+    "count": 8,
+    "mod": "M8"
+   },
+   {
+    "name": "procedura-proprie",
+    "count": 5,
+    "mod": "M5"
+   },
+   {
+    "name": "asociere",
+    "count": 4,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2025_1842",
+  "year": 2025,
+  "pages": 32,
+  "nr": null,
+  "data": null,
+  "obiect": "Elaborare Studiu de Prefezabilitate si Fezabilitate pentru «Varianta Ocolitoare lasi Est» si nr. 92/25489/04.04.2022: Elaborare Studiu de Fezabilitate",
+  "cpv": null,
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "excludere-164-167",
+    "count": 51,
+    "mod": "M8"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 19,
+    "mod": "M7"
+   },
+   {
+    "name": "DUAE",
+    "count": 15,
+    "mod": "M8"
+   },
+   {
+    "name": "concesiune-L100",
+    "count": 14,
+    "mod": "M16"
+   }
+  ]
+ },
+ {
+  "file": "BO2025_2108",
+  "year": 2025,
+  "pages": 22,
+  "nr": null,
+  "data": null,
+  "obiect": "Servicii de pază pentru centrala și subunitățile ...",
+  "cpv": "79713000-5",
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "specificatii-restrictive",
+    "count": 10,
+    "mod": "M6"
+   },
+   {
+    "name": "pret-neobisnuit",
+    "count": 7,
+    "mod": "M9"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 7,
+    "mod": "M7"
+   },
+   {
+    "name": "tardivitate-termen",
+    "count": 5,
+    "mod": "M13"
+   }
+  ]
+ },
+ {
+  "file": "BO2025_235",
+  "year": 2025,
+  "pages": 37,
+  "nr": "235/C8/4264",
+  "data": "31.01.2025",
+  "obiect": "Servicii de amenajare, extindere, modernizare și întreținere a domeniului public/privat al municipiului București din sectorul 6",
+  "cpv": null,
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE ÎN PARTE",
+  "themes": [
+   {
+    "name": "excludere-164-167",
+    "count": 28,
+    "mod": "M8"
+   },
+   {
+    "name": "DUAE",
+    "count": 14,
+    "mod": "M8"
+   },
+   {
+    "name": "pret-neobisnuit",
+    "count": 13,
+    "mod": "M9"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 8,
+    "mod": "M7"
+   }
+  ]
+ },
+ {
+  "file": "BO2025_2400",
+  "year": 2025,
+  "pages": 151,
+  "nr": "2400/C1/1746, 2209",
+  "data": "14.08.2025",
+  "obiect": "Servicii de elaborare a documentației tehnico-economice la stadiul PT + DDE, asistență tehnică din partea proiectantului, execuție lucrări în cadrul p",
+  "cpv": "45215140-0",
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE ÎN PARTE",
+  "themes": [
+   {
+    "name": "asociere",
+    "count": 158,
+    "mod": "M8"
+   },
+   {
+    "name": "confidentialitate-acces-dosar",
+    "count": 62,
+    "mod": "M13"
+   },
+   {
+    "name": "DUAE",
+    "count": 47,
+    "mod": "M8"
+   },
+   {
+    "name": "excludere-164-167",
+    "count": 46,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2025_2636",
+  "year": 2025,
+  "pages": 95,
+  "nr": null,
+  "data": null,
+  "obiect": "Furnizare, montaj şi punere în funcţiune staţii de reîncărcare pentru vehicule electrice în ..., judeţul ...",
+  "cpv": null,
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE ÎN PARTE",
+  "themes": [
+   {
+    "name": "asociere",
+    "count": 95,
+    "mod": "M8"
+   },
+   {
+    "name": "confidentialitate-acces-dosar",
+    "count": 55,
+    "mod": "M13"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 35,
+    "mod": "M6"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 13,
+    "mod": "M7"
+   }
+  ]
+ },
+ {
+  "file": "BO2025_281",
+  "year": 2025,
+  "pages": 143,
+  "nr": "281/C1/4240, 4248, 4398, 4399",
+  "data": "06.02.2025",
+  "obiect": "Proiectare și execuție pentru realizarea obiectivul de investiții",
+  "cpv": "45215140-0",
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "confidentialitate-acces-dosar",
+    "count": 107,
+    "mod": "M13"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 106,
+    "mod": "M6"
+   },
+   {
+    "name": "criterii-atribuire",
+    "count": 44,
+    "mod": "M8"
+   },
+   {
+    "name": "asociere",
+    "count": 38,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2025_289",
+  "year": 2025,
+  "pages": 58,
+  "nr": null,
+  "data": null,
+  "obiect": ".., cod CPV 90611000-3 Servicii de curățenie stradală (Rev.2), de ..., cu sediul în ..., .., în calitate de autoritate contractantă, contest",
+  "cpv": "90611000-3",
+  "proc": "licitație deschisă",
+  "law": "L100",
+  "acordCadru": false,
+  "outcome": "ADMITE ÎN PARTE",
+  "themes": [
+   {
+    "name": "concesiune-L100",
+    "count": 148,
+    "mod": "M16"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 56,
+    "mod": "M6"
+   },
+   {
+    "name": "loturi-valoare-estimata",
+    "count": 21,
+    "mod": "M4"
+   },
+   {
+    "name": "anulare-procedura",
+    "count": 18,
+    "mod": "M10"
+   }
+  ]
+ },
+ {
+  "file": "BO2025_2903",
+  "year": 2025,
+  "pages": 22,
+  "nr": null,
+  "data": null,
+  "obiect": "Achiziție de echipamente medicale în cadrul proiectului: «Extinderea și dotarea la cele mai înalte standarde a (...), unitate de asistenta medicala am",
+  "cpv": "33100000-1",
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "DUAE",
+    "count": 21,
+    "mod": "M8"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 11,
+    "mod": "M6"
+   },
+   {
+    "name": "tardivitate-termen",
+    "count": 11,
+    "mod": "M13"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 10,
+    "mod": "M7"
+   }
+  ]
+ },
+ {
+  "file": "BO2025_297",
+  "year": 2025,
+  "pages": 23,
+  "nr": "297 / C7 / 4342",
+  "data": "07.02.2025",
+  "obiect": null,
+  "cpv": null,
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE ÎN PARTE",
+  "themes": [
+   {
+    "name": "pret-neobisnuit",
+    "count": 17,
+    "mod": "M9"
+   },
+   {
+    "name": "clarificari",
+    "count": 9,
+    "mod": "M9"
+   },
+   {
+    "name": "loturi-valoare-estimata",
+    "count": 6,
+    "mod": "M4"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 6,
+    "mod": "M7"
+   }
+  ]
+ },
+ {
+  "file": "BO2025_3156",
+  "year": 2025,
+  "pages": 15,
+  "nr": "3156/C6/3864",
+  "data": "21.10.2025",
+  "obiect": null,
+  "cpv": null,
+  "proc": "concesiune",
+  "law": "L99",
+  "acordCadru": true,
+  "outcome": "ADMITE ÎN PARTE",
+  "themes": [
+   {
+    "name": "SEAP-semnatura",
+    "count": 40,
+    "mod": "M7"
+   },
+   {
+    "name": "garantie-participare",
+    "count": 21,
+    "mod": "M12"
+   },
+   {
+    "name": "sectorial-L99",
+    "count": 8,
+    "mod": "M15"
+   },
+   {
+    "name": "concesiune-L100",
+    "count": 4,
+    "mod": "M16"
+   }
+  ]
+ },
+ {
+  "file": "BO2025_316",
+  "year": 2025,
+  "pages": 68,
+  "nr": null,
+  "data": null,
+  "obiect": "...”, cod CPV 33100000-1 Echipamente medicale (Rev.2), anunț de participare nr. .../10.07.2024, în ce privește lotul nr. 14 –",
+  "cpv": "33100000-1",
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "specificatii-restrictive",
+    "count": 90,
+    "mod": "M6"
+   },
+   {
+    "name": "subcontractant",
+    "count": 54,
+    "mod": "M8"
+   },
+   {
+    "name": "confidentialitate-acces-dosar",
+    "count": 11,
+    "mod": "M13"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 9,
+    "mod": "M7"
+   }
+  ]
+ },
+ {
+  "file": "BO2025_3279",
+  "year": 2025,
+  "pages": 24,
+  "nr": null,
+  "data": null,
+  "obiect": "Tramvaie noi din gama de 18 m cu podea total coborâtă",
+  "cpv": "34622100-4",
+  "proc": "concesiune",
+  "law": "L99",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "anulare-procedura",
+    "count": 31,
+    "mod": "M10"
+   },
+   {
+    "name": "sectorial-L99",
+    "count": 25,
+    "mod": "M15"
+   },
+   {
+    "name": "criterii-atribuire",
+    "count": 6,
+    "mod": "M8"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 6,
+    "mod": "M7"
+   }
+  ]
+ },
+ {
+  "file": "BO2025_599",
+  "year": 2025,
+  "pages": 93,
+  "nr": "599/C5/229",
+  "data": "06.03.2025",
+  "obiect": "Proiectare și execuție lucrări aferente obiectivului de investiții",
+  "cpv": null,
+  "proc": "concesiune",
+  "law": "L99",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "asociere",
+    "count": 114,
+    "mod": "M8"
+   },
+   {
+    "name": "DUAE",
+    "count": 78,
+    "mod": "M8"
+   },
+   {
+    "name": "sectorial-L99",
+    "count": 56,
+    "mod": "M15"
+   },
+   {
+    "name": "clarificari",
+    "count": 38,
+    "mod": "M9"
+   }
+  ]
+ },
+ {
+  "file": "BO2025_647",
+  "year": 2025,
+  "pages": 38,
+  "nr": null,
+  "data": "12.03.2025",
+  "obiect": "Achiziție combustibil CLU tip M",
+  "cpv": "09100000-0",
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": true,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "specificatii-restrictive",
+    "count": 35,
+    "mod": "M6"
+   },
+   {
+    "name": "pret-neobisnuit",
+    "count": 29,
+    "mod": "M9"
+   },
+   {
+    "name": "loturi-valoare-estimata",
+    "count": 7,
+    "mod": "M4"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 7,
+    "mod": "M7"
+   }
+  ]
+ },
+ {
+  "file": "BO2026_1080",
+  "year": 2026,
+  "pages": 14,
+  "nr": null,
+  "data": "06.04.2026",
+  "obiect": null,
+  "cpv": null,
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": true,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "confidentialitate-acces-dosar",
+    "count": 15,
+    "mod": "M13"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 10,
+    "mod": "M7"
+   },
+   {
+    "name": "specificatii-restrictive",
+    "count": 8,
+    "mod": "M6"
+   },
+   {
+    "name": "loturi-valoare-estimata",
+    "count": 7,
+    "mod": "M4"
+   }
+  ]
+ },
+ {
+  "file": "BO2026_64",
+  "year": 2026,
+  "pages": 48,
+  "nr": null,
+  "data": null,
+  "obiect": "...”, cod CPV ... În acest sens a elaborat documentația de atribuire aferentă și a publicat în SEAP anunțul de participare nr. ..., criteriul de atrib",
+  "cpv": null,
+  "proc": "licitație deschisă",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "ADMITE",
+  "themes": [
+   {
+    "name": "confidentialitate-acces-dosar",
+    "count": 32,
+    "mod": "M13"
+   },
+   {
+    "name": "asociere",
+    "count": 28,
+    "mod": "M8"
+   },
+   {
+    "name": "conflict-interese",
+    "count": 27,
+    "mod": "M14"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 24,
+    "mod": "M7"
+   }
+  ]
+ },
+ {
+  "file": "BO2026_692",
+  "year": 2026,
+  "pages": 23,
+  "nr": "692/C10/582",
+  "data": "10.03.2026",
+  "obiect": "Execuție lucrări în vederea realizării obiectivului Modernizare infrastructură rutieră de bază în comuna ....................",
+  "cpv": null,
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "confidentialitate-acces-dosar",
+    "count": 159,
+    "mod": "M13"
+   },
+   {
+    "name": "tardivitate-termen",
+    "count": 20,
+    "mod": "M13"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 6,
+    "mod": "M7"
+   },
+   {
+    "name": "DUAE",
+    "count": 5,
+    "mod": "M8"
+   }
+  ]
+ },
+ {
+  "file": "BO2026_703",
+  "year": 2026,
+  "pages": 19,
+  "nr": null,
+  "data": null,
+  "obiect": "„...”, cod CPV 45233120-6 Lucrări de construcții de drumuri (Rev. 2), anunț de participare simplificat nr. ... din 05.01.2026, s-au solicita",
+  "cpv": "45233120-6",
+  "proc": "concesiune",
+  "law": "L98",
+  "acordCadru": false,
+  "outcome": "RESPINGE",
+  "themes": [
+   {
+    "name": "conflict-interese",
+    "count": 40,
+    "mod": "M14"
+   },
+   {
+    "name": "asociere",
+    "count": 16,
+    "mod": "M8"
+   },
+   {
+    "name": "SEAP-semnatura",
+    "count": 7,
+    "mod": "M7"
+   },
+   {
+    "name": "subcontractant",
+    "count": 6,
+    "mod": "M8"
+   }
+  ]
+ }
+]

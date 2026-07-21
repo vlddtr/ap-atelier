@@ -1,0 +1,1386 @@
+DECIZIE CNSC (din dosarele firmei, anonimizată; staging — neindexată încă)
+Sursă: BO2025_2780 Decizie site CNSC (ID 38196).pdf
+
+În   conformitate   cu  prevederile   art.   14   alin.   (2)   din   Legea
+nr. 101/2016 privind remediile și căile de atac în materie de
+atribuire   a   contractelor   de   achiziție   publică,   a   contractelor
+sectoriale și a contractelor de concesiune de lucrări și concesiune
+de   servicii,   precum   și   pentru   organizarea   și   funcționarea
+Consiliului   Național   de   Soluționare   a   Contestațiilor,   cu
+modificările   și   completările   ulterioare,   Consiliul   adoptă
+următoarea:
+DECIZIE
+Nr. 2780/C1/3022
+Data: 18.09.2025
+Prin contestația nr. 1894/06.08.2025, înregistrată la CNSC sub nr.
+54166/07.08.2025, formulată de ......... SA, cu sediul în .... .........,
+înregistrată în Registrul Comerțului sub nr. ........., având CUI RO .....,
+reprezentată legal de administrator și convențional de ........., cu sediul
+ales pentru comunicarea actelor de procedură în ........., ...., .........,
+împotriva   adresei   de   comunicare   a   rezultatului   procedurii   nr.
+15943/30.07.2025   și   a   raportului   procedurii   nr.   15939/30.07.2025,
+emise de către autoritate contractantă ......... cu sediul în ........., .........,
+........., în cadrul procedurii de licitație deschisă, organizată în vederea
+atribuirii contractului de achiziție publică, având ca obiect: „Servicii de
+proiectare   tehnică,   execuție   lucrări   și   verificare   proiect   din   cadrul
+proiectului:   Creșterea   siguranței   traficului   pe   drumurile   județene
+în ......... - iluminarea trecerilor de pietoni” cod CPV: 45316000-5, s-a
+solicitat: 
+1. Anularea Raportului procedurii nr. 15939/30.07.2025 publicat în
+SEAP la data de 30.07.2025, precum și a actelor de evaluare care au stat
+la baza acestuia, precum și a tuturor actelor subsecvente, în partea ce
+privește evaluarea ofertei Asocierii ......... SRL.
+2. Anularea adresei de comunicare a rezultatului procedurii nr.
+15943/30.07.2025   prin   care   oferta   Asocierii   .........   SRL   a   fost
+desemnată câștigătoare.
+3. Anularea adresei de comunicare a rezultatului procedurii nr.
+15941 din 30.07.2025, transmisă către Asocierea ......... SRL.
+4.   Obligarea   autorității   contractante   la   reevaluarea   ofertei
+Asocierii ......... SRL cu respectarea prevederilor legislației achizițiilor
+publice.
+5.Obligarea   autorității   contractate   la   plata   cheltuielilor   de
+judecată ocazionate de prezenta contestație.
+Pagina 1 din 51
+
+Prin   adresa   înregistrată   la   CNSC   sub   nr.   ........./19.08.2025,
+asocierea     .........     SRL,     .........     SRL,     cu     sediul
+în ........., ........., ........., ........., înregistrată în Registrul Comerțului sub
+nr.   .........,   având   CIF   .........,   reprezentată   legal   de   administrator,
+formulează   cerere   de   intervenție,   prin   care   solicită   admiterea,   în
+principiu, a acesteia și respingerea contestației formulate, cu consecința
+menținerii   ca   temeinic   și   legal,   a   raportului   procedurii   nr.
+15939/30.07.2025,   precum   și   a   actelor   anterioare   și   subsecvente
+acestuia.
+
+În  luarea   deciziei,   CONSILIUL,   legal  investit,   a  avut   în  vedere
+următoarele:
+În fapt, contestatorul consideră că oferta desemnată câștigătoare
+se impunea a fi respinsă ca inacceptabilă în temeiul art. 134 alin. (6) din
+HG nr. 395/2016, întrucât ofertantul în cauză, și-a completat în mod
+nelegal oferta prin răspunsul la clarificări nr. 755/19.06.2025
+1.   Cerința   privind   prezentarea   curbelor   K   emise   de   producător
+pentru fiecare fotometrie utilizată, prevăzută în fișa tehnică a aparatului
+de iluminat cu led.
+În cadrul Fișei tehnice - Aparat de iluminat cu LED și distribuție
+asimetrică a fluxului luminos special pentru treceri de pietoni, la punctul
+1.11, este stabilită următoarea cerință privind caracteristicile tehnice pe
+care aparatele de iluminat ofertate trebuie să le îndeplinească: „Aparatul
+va avea fotometrie asimetrica (stânga sau dreapta), pentru a răspunde
+situațiilor întâlnite în faza de proiectare. Pentru fiecare fotometrie se vor
+prezenta curbele K emise de producător.”
+Astfel, pentru demonstrarea îndeplinirii acestei cerințe, ofertanții
+trebuiau   să   prezinte   curbele   K   emise   de   producător   pentru   fiecare
+fotometrie utilizată, însă, asocierea câștigătoare a prezentat curba K
+pentru un alt aparat, cu fotometrie simetrică, și nu pentru cel ofertat și
+utilizat în calculele luminotehnice, după cum rezultă din compararea
+celor două planșe foto, redate în contestație.
+Contestatorul   arată   că   prin   adresa   de   solicitare   clarificări   nr.
+12794/17.06.2025,   autoritatea   contractantă   a   solicitat   asocierii   mai
+multe clarificări, printre care și clarificări cu privire la îndeplinirea cerinței
+referitoare la prezentarea curbelor K emise de producător pentru fiecare
+fotometrie, deoarece în cadrul ofertei depuse de aceasta, nu au fost
+identificate informații privind respectarea acestei cerințe.
+Precizează   că   la   pagina   204   din   Fișa   tehnică   depusă   de   către
+asocierea câștigătoare, este prezentată curba K pentru un aparat distinct
+față de cel solicitat de către autoritatea contractantă prin documentația
+de atribuire, respectiv un aparat de iluminat cu fotometrie simetrică pe
+care   Asocierea   câștigătoare   l-a   avut   în   vedere   și   în   calculele
+luminotehnice realizate; prin urmare, autoritatea contractantă nu a putut
+identifica informații privind respectarea cerinței referitoare la prezentarea
+curbelor K emise de producător pentru aparatele de iluminat având
+fotometrie asimetrică (stânga sau dreapta) întrucât documentele care ar
+fi trebuit să conțină aceste informații nu au fost incluse în oferta depusă
+inițial.
+Prin   Răspunsul   nr.   755/19.06.2025,   asocierea   câștigătoare
+răspunde   acestei   solicitări   și   completează   în   mod   nelegal   oferta,
+depunând  curbele  K emise de producător  pentru  „fiecare  aparat  de
+iluminat ofertat”.
+Pagina 3 din 51
+
+Arată că deși, potrivit art. 134 alin. (6) din HG nr. 395/2016, ar fi
+trebuit să considere răspunsul dat ca fiind o completare a propunerii sale
+tehnice și în consecință, să declare oferta asocierii câștigătoare ca fiind
+inacceptabilă, autoritatea contractantă reține, în mod nelegal, răspunsul
+său ca fiind „corespunzător și concludent'.
+Consideră că prin conduita sa, autoritatea contractantă a încălcat,
+atât prevederile art. 209 alin. (2) din Legea nr. 98/2016, cât și principiile
+fundamentale ale procedurilor de achiziție publică, creând un avantaj
+
+evident în favoarea asocierii câștigătoare a cărei ofertă se impunea a fi
+declarată, în mod evident, ca inacceptabilă.
+2. Cerința privind prezentarea a 8 fotometrii diferite șl a curbelor k emise
+de producător aferente acestora, prevăzută în fișa tehnică a sistemului
+de iluminat cu panouri fotovoltaice
+În cadrul Fișei tehnice - Sistem de iluminat cu panouri fotovoltaice,
+la   punctul   1.1.10,   sunt   prevăzute   cerințele   privind   componentele
+aparatele de iluminat solicitate, dintre care, relevantă, în prezenta speță
+este   următoarea:   „Aparatul   va   avea   minim   8   fotometrii   diferite   (2
+înguste, 2 medii, 2 largi, 2 asimetrice pentru treceri de pietoni), pentru a
+răspunde   situațiilor   întâlnite   în   faza   de   proiectare.   Pentru   fiecare
+fotometrie se vor prezenta curbele K emise de producător).”
+Contestatorul menționează că asocierea declarată câștigătoare nu a
+inclus în oferta inițial depusă cele 8 fotometrii-diferite și curbele K emise
+de producător pentru fiecare tip de fotometrie utilizată, așa cum era
+prevăzut în documentația de atribuire. În schimb, răspunzând solicitărilor
+de clarificări formulate de autoritatea contractantă, aceasta a completat
+în   mod   nelegal   oferta,   prin   transmiterea   fotometriilor   și   curbelor   K
+solicitate.
+Astfel, arată că prin solicitarea de clarificări nr. 12794/17.06.2025,
+autoritatea contractantă a solicitat informații referitoare la îndeplinirea
+cerinței în cauză, întrucât acestea nu au putut fi identificate în oferta
+inițială;   prin   răspunsul   nr.   755/19.06.2025,   asocierea   declarată
+câștigătoare răspunde acestei solicitări și completează în mod nelegal
+oferta, prin depunerea fotometriilor și a curbelor K solicitate.
+Susține că deși prin răspunsul dat, asocierea câștigătoare justifică
+omisiunea   prezentării   fotometriilor   și   curbelor   K   solicitate   prin
+documentația de atribuire ca fiind parte din categoria abaterilor tehnice
+minore prevăzute de art. 134 alin. (8) din HG 395/2016, contestatorul
+apreciază că, în mod evident, această omisiune nu poate fi încadrată ca
+atare.
+Consideră că lipsa acestor documente din oferta depusă inițial,
+urmată de transmiterea lor ulterioară în cadrul răspunsului la clarificări,
+reprezintă o completare nepermisă a propunerii tehnice ce a avut o
+influență clară asupra rezultatului procedurii de atribuire.
+3.   Cerințele   privind   prezentarea   procedurilor   tehnice   de   execuție
+specifice pentru fiecare lucrare în parte șl a planului de control al calității,
+a verificărilor șl încercărilor pentru fiecare lucrare în parte solicitate în
+cadrul formularului 7 - formular cadru propunere tehnică.
+Preliminar, contestatorul face trimitere la Formularul 7 - Formular
+cadru propunere tehnică, parte a documentației de atribuire, potrivit
+căruia,   ofertanții   vor   prezenta   planul   de   management   al   calității
+lucrărilor.
+Pagina 5 din 51
+
+În ceea ce privește oferta asocierii câștigătoare, arată că aceasta
+nu   conține   procedurile   tehnice   de   execuție   specifice   pentru   fiecare
+lucrare în parte și nici planul de control al calității, al verificărilor și
+încercărilor   aferente   fiecărei   lucrări,   așa   cum   au   fost   solicitate   prin
+Formularul 7 – Propunerea Tehnică.
+Prin   urmare,   în   lipsa   informațiilor   solicitate,   care   constituie
+fundamentul evaluării propunerii tehnice, consideră că oferta asocierii
+câștigătoare nu putea respecta  rigorile documentației  de atribuire și
+astfel, nu putea să conducă la câștigarea procedurii de atribuire.
+
+Arată că, faptul că aceste informații nu au fost prezentate în cadrul
+ofertei   inițiale   reiese,   în   mod   clar,   din   solicitarea   de   clarificări   nr.
+12794/17.06.2025, prin care autoritatea contractantă a invitat, în mod
+generic,   asocierea   câștigătoare   să   clarifice   aceste   aspecte,   adică   să
+indice unde anume se regăsesc în oferta depusă, informațiile referitoare
+la   procedurile   tehnice   de   execuție   și   planul   de   control   al   calității,
+verificărilor și încercărilor.
+Precizează   că   prin   răspunsul   nr.   755/19.06.2025,   asocierea
+câștigătoare, răspunde acestei solicitări și completează în mod nelegal
+oferta,   prin depunerea   documentelor  solicitate  prin documentația   de
+atribuire.
+4.   Cerința   privind   prezentarea   declarațiilor   de   disponibilitate   pentru
+persoanele nominalizate, solicitată prin formularul 7 - formular cadru
+propunere tehnică.
+Contestatorul precizează că asocierea declarată câștigătoare nu a
+prezentat în cadrul ofertei depuse declarațiile de disponibilitate pentru
+persoanele nominalizate, așa cum a fost solicitat în cadrul Formularului 7
+- Propunere tehnică. În schimb, prin răspunsul nr. 755/19.06.2025 la
+solicitarea de clarificări nr. 12794/17.06.2025, și-a completat, în mod
+nelegal,  oferta  inițială, prin  depunerea  declarațiilor de  disponibilitate
+solicitate   de   autoritatea   contractantă   pentru   personalul   disponibil   și
+propus de ofertant pentru realizarea contractului.
+Contestatorul   precizează   că   prin   răspunsul   nr.   755/19.06.2025,
+asocierea   câștigătoare   și-a   completat,   în   mod   nelegal,   oferta   prin
+depunerea   declarațiiilor   de   disponibilitate   pentru   domnul   ...   ...,
+nominalizat  ca   Manager  de  proiect   și   pentru   domnul   ing.   ...   ...-...,
+nominalizat în calitate de Șef de șantier.
+Apreciază că și de această dată, comisia de evaluare a considerat,
+în mod nelegal, răspunsul acordat ca fiind „corespunzător și concludent”,
+cu încălcarea prevederilor art. 209 alin. (2) din Legea nr. 98/2016.
+De asemenea, în ceea ce privește conduita autorității contractante,
+consideră că aceasta reprezintă o încălcare a principiului tratamentului
+egal, întrucât solicitarea unei astfel de declarații de disponibilitate rezidă
+în interesul autorității contractante, de a asigura că ofertantul are acces
+la anumite resurse umane calificate și necesare pentru buna execuție a
+contractului, iar această dovadă trebuie făcută la data depunerii ofertei,
+iar nu ulterior, prin intermediul răspunsului la solicitarea de clarificări.
+În plus, menționează că disponibilitatea persoanelor nominalizate
+nu este susținută în mod neechivoc de sensul și de conținutul altor
+informații existente în cadrul documentelor prezentate de ofertant, iar
+depunerea acestor declarații nu are rolul de a confirma o informație deja
+existentă, ci de a afirma pentru prima dată disponibilitatea personalului
+nominalizat.
+Pagina 7 din 51
+
+Or, în acest context, depunerea acestor declarații prin intermediul
+răspunsului la solicitările de clarificări nu poate reprezenta o simplă
+completare   formală   a   documentației   depuse   inițial,   ci   constituie   o
+completare nepermisă a ofertei.
+Prin urmare, consideră că autoritatea contractantă ar fi trebuit să
+respingă oferta asocierii câștigătoare ca inacceptabilă, în temeiul art. 134
+alin. (6) din HG 395/2016.
+În   continuare,   contestatorul   precizează   că   asocierea   declarată
+câștigătoare   nu   a   justificat   în   mod   corespunzător   nivelul   scăzut   al
+
+prețului,   conform   art.   210   din   Legea   nr.   98/2016,   răspunsurile   la
+solicitările   de   clarificări   fiind   neconcludente,   autoritatea   contractantă
+încălcând principiul tratamentului egal.
+Precizează   că   răspunsul   la   solicitarea   de   clarificări   nr.
+483/14.07.2025 este neconcludent, oferta asocierii impunându-se a fi
+respinsă ca inacceptabilă conform art. 134 alin. (5) din HG nr. 395/2016.
+În susținere, arată că prin adresa nr. 483/14.07.2025, Asocierea
+câștigătoare a transmis un răspuns incomplet, care nu justifică prețul
+ofertat, lipsind modul de formare a multor elemente componente ale
+acestui preț. 
+De asemenea, contestatorul arată că asocierea câștigătoare:
+- nu a prezentat informații privind nivelul de salarizare a forței de muncă
+și al costurilor pe care le implică aceasta pentru tot personalul implicat,
+ci doar pentru o parte din personalul de specialitate nominalizat;
+- nu a prezentat, spre exemplu, justificarea prețului în ceea ce privește
+personalul de execuție direct implicat în realizarea lucrărilor, precum și
+numărul de ore alocat fiecărui muncitor, în conformitate cu graficul de
+execuție;
+- pe lângă cele reținute de autoritatea contractantă în cadrul Procesului
+de  evaluare  nr.  9, nu a indicat costurile  cu resursele  și  personalul
+raportat la întreaga arie de desfășurare a contractului, respectiv la faptul
+că lucrările se vor desfășura în tot .........;
+- în vederea justificării costurilor cu echipamentele și utilajele închiriate,
+a   depus   contractul   de   închiriere   nr.   347/24.03.2025   ce   prevedea
+costurile achitate „zilnic” dar fără a se preciza costul total avut în vedere
+la   formarea   prețului,   respectiv   câte   zile   /   ore   erau   închiriate
+echipamentele;
+- nu a detaliat costurile privind utilajele care vor fi utilizate pentru
+execuția lucrărilor, nici în cadrul răspunsului nr. 846/14.07.2025, când a
+fost prezentat un contract de închiriere încheiat cu ... SRL pentru toate
+utilajele solicitate în caietul de sarcini, dar fără a detalia numărul de ore
+și   momentul   în   care   acestea   vor   fi   utilizate   raportat   la   graficul   de
+execuție asumat în ofertă.
+Contestatorul precizează că răspunsul la solicitarea de clarificări nr.
+15046/18.07.2025   este   neconcludent,   oferta   asocierii   câștigătoare
+impunându-se a fi respinsă ca inacceptabilă conform art. 134 alin. (5)
+din HG nr. 395/2016.
+Contestatorul   consideră   că   răspunsul   nr.   866/17.07.2025   este
+neconcludent,   deoarece   asocierea   câștigătoare   nu   a   justificat   prețul
+raportat la modul în care vor fi utilizate utilajele având în vedere modul
+de derulare a contractului, respectiv numărul de zile sau de ore în care
+acestea vor fi închiriate, ci a prezentat un răspuns la modul general ce
+nu justifică prețul ofertat.
+Pagina 9 din 51
+
+Precizează de asemenea că asocierea câștigătoare nu a justificat
+prețul cu personalul, deoarece nu a oferit justificări referitoare la tot
+personalul; nu a prezentat, spre exemplu, justificarea prețului în ceea ce
+privește personalul de execuție direct implicat în realizarea lucrărilor,
+precum și numărul de ore alocat fiecărui muncitor, în conformitate cu
+graficul de execuție; nu a indicat costurile cu resursele și personalul
+raportat la întreaga arie de desfășurare a contractului, respectiv la faptul
+că lucrările se vor desfășura în tot ..........
+
+În   continuare,   contestatorul   consideră   că   oferta   asocierii
+câștigătoare este neconformă.
+Potrivit art. 137 alin. (3) lit. a) din HG nr. 395/2016, coroborat cu
+art. 215 alin. (5) din Legea nr. 98/2016, oferta este neconformă dacă nu
+respectă cerințele caietului de sarcini sau ale fișelor tehnice.
+Astfel,   precizează   că   modulele   de   control   ofertate   nu   respectă
+cerințele documentației de atribuire.
+Arată că potrivit Fișei tehnice a Sistemului de Telegestiune, la pag.
+485-490 din documentul care conține Fișele tehnice F5 +anexe, modulul
+de control are o temperatură de -30 grade C - +60 Grade Celsius,
+interval care, în mod evident, nu îndeplinește cerința din documentația
+de atribuire, respectiv: „ofertanții trebuie să respecte o temperatură de
+operare -40 grade C - +70 Grade Celsius”.
+Menționează că aparatul de iluminat cu led utilizat în sistemul de
+iluminat   cu   panouri   fotovoltaice,   ofertat   nu   respectă   temperatura
+solicitată prin documentația de atribuire.
+Contestatorul face trimitere la punctului 1.1.12 din Fișa tehnică -
+Sistem   de   iluminat   cu   panouri   fotovoltaice,   arătând   că   Aparatul   de
+iluminat cu LED utilizat în sistemul de iluminat cu panouri fotovoltaice
+ofertat nu respectă temperatura de culoare TC = 3000 ±10%, astfel cum
+a   fost   solicitată   în   Fișa   tehnică   -   Sistem   de   iluminat   cu   panouri
+fotovoltaice, parte a documentației de atribuire, având o temperatură de
+culoare Tc= 4000 ±10%.
+În susținere atașează extrase de la pag. 608 și 612 din fișele
+tehnice prezentate de asocierea declarată câștigătoare. 
+Calculele luminotehnice (TP M4 solar și Tp M6 solar) efectuate de
+asocierea declarată câștigătoare, nu respectă cerința privind înălțimea de
+montaj solicitată prin documentația de atribuire.
+Contestatorul face trimitere la cerințele din Fișa tehnică - Stâlp
+metalic pentru susținere panouri solare, înălțime utila H=8m și console
+L=1m.
+Calculele luminotehnice (TP M4 solar si TP M6 solar) efectuate de
+asocierea   câștigătoare   nu   respectă   înălțimea   de   montaj   de   7m,
+prevăzută în cerința menționată anterior.
+În susținere, atașează un extras din calculul luminotehnic TP M4
+solar - VGP, unde înălțimea de montaj este de 5m, iar nu de 7m,
+conform celor solicitate prin Fișa tehnică - Stâlp metalic pentru susținere
+panouri solare, înălțime utilă H=8m și console L=1m
+De asemenea, atașează un extras din calculul luminotehnic TP M6
+solar - VGP, unde înălțimea de montaj este de 5m, nu de 7m, conform
+celor solicitate prin Fișa tehnică - Stâlp metalic pentru susținere panouri
+solare, înălțime utilă H=8m și console L=1m:
+Pagina 11 din 51
+
+În continuare, contestatorul precizează că nu au fost prezentate
+documente suport / rapoarte de testare pentru aparatele ofertate; deși
+asocierea a ofertat corpul Unistreet gen2 Solar - VGP282 T25 LXLED24-
+4s/740 DPRL, o parte din rapoartele de testare prezentate ca documente
+suport sunt pentru un alt tip de aparat.
+Astfel, susține că asocierea în cauză, nu a dovedit performanța
+produsului ofertat, respectiv a corpului Unistreet gen2 Solar - VGP282
+T25   1   xLED24-4s/740   DPRL,   prin   prezentarea   fragmentată   a   unor
+
+rapoarte de testare pentru acest aparat, iar altele pentru un aparat
+diferit
+Precizează de asemenea că asocierea câștigătoare a ofertat un
+modul de control care nu este compatibil cu aparatul de iluminat ofertat.
+Conform instrucțiunilor de montaj prezentate la paginile 622-627
+din Fișele tehnice F5 depuse în cadrul ofertei, aparatul de iluminat solar
+VGP282 nu are priză Zhaga pentru conectarea modulului tip LLC7852,
+LLC7853.
+Având în vedere că există o incompatibilitate funcțională între cele
+două, rezultă că soluția tehnică propusă nu respectă cerințele minime de
+funcționare prevăzute în documentația de atribuire ceea ce determină
+neconformitatea ofertei.
+Precizează că asocierea câștigătoare a ofertat un modul de control
+al producătorului THORN, însă certificarea ENEC este pentru modelul
+Zhaga IOT produs de TVILIGHT.
+Contestatorul   consideră   că prezentarea   unei   certificări   ENEC
+aferente  unui  produs  diferit față de cel  ofertat,  aparținând  unui  alt
+producător nu poate constitui o veritabilă dovadă a îndeplinirii cerințelor
+stabilite   prin   documentația   de   atribuire   cu   privire   la   respectarea
+standardelor de performanță solicitate pentru produsul ofertat.
+Lipsa   declarațiilor   de   conformitate   pentru   baterie   VRLA   cu   gel
+montată și panou solar policristalin aferente sistemului de iluminat cu
+panouri fotovoltaice. Fișele tehnice ale aparatelor de iluminat solar de tip
+VGP282 nu sunt confirmate de producătorul SIGNIFY.
+Contestatorul   susține   că   din   analiza   documentelor   depuse   de
+asocierea câștigătoare, rezultă că lipsesc declarațiile de conformitate
+pentru   componentele   cheie   ale   sistemului   de   iluminat   cu   panouri
+fotovoltaice:   Baterie   VRLA   cu   gel   montată   în   sol   și   Panou   solar
+policristalin.
+Totodată,   în   ceea   ce   privește   fișele   tehnice   prezentate   pentru
+aparatele de iluminat solar declarate în ofertă de tip VGP282, acestea nu
+sunt confirmate de către producătorul declarat în Formularul F5 - Fișă
+tehnică - Sistem de iluminat cu panouri fotovoltaice.
+Ulterior, prin adresa nr. 14361/14.08.2025, înregistrată la CNSC
+sub   nr.   56666/18.08.2025,   contestatorul   solicită   accesul   la   dosarul
+cauzei.
+Față   de   contestația   formulată   de   .........   SA,   autoritatea
+contractantă transmite dosarul achiziției publice, pe stick, precum și
+punctul de vedere nr. 16999/12.08.2025, înregistrat la CNSC sub nr.
+56950/18.08.2025, solicitând respingerea ca nefondată a contestației.
+În   opinia   autorității   contractante,   contrar   susținerilor
+contestatorului,   prin   răspunsul   la   solicitarea   de   clarificări   nr.
+Pagina 13 din 51
+
+12794/17.06.2025,  asocierea   câștigătoare   nu   și-a   completat  în   mod
+nelegal oferta.
+Susține că atâta timp cât în oferta transmisă de un ofertant există
+informații și documente care susțin respectiva informație, chiar dacă
+acestea sunt incomplete, eronate sau în situația în care lipsesc anumite
+documente, autoritatea contractantă are dreptul de a solicita ofertanților
+clarificări   și,   după   caz,   completări   ale   documentelor   prezentate   de
+aceștia în cadrul ofertelor.
+
+Prin prezentarea curbelor K emise de producător pentru fiecare
+fotometrie,   ca   urmare   a   solicitării   de   clarificări/completări   nr.
+12794/17.06.2025, ofertantul nu a făcut altceva decât să clarifice un
+aspect pe care comisia de evaluare nu l-a identificat în propunerea
+acestuia.
+În ceea ce privește solicitarea de clarificări nr. 12794/17.06.2025
+adresată asocierii câștigătoare, referitor la descrierea sistemului calității
+aplicat la lucrare, inclusiv liste cuprinzând procedurile aferente sistemului
+calității, procedurile tehnice de execuție specifice pentru fiecare lucrare
+în   parte,   în   conformitate   cu   cerințele   documentației   tehnice,   lista
+personalului   pe   categorii   de   meserii   împreună   cu   atribuțiile   și
+responsabilitățile   acestora,   precum   și   planul   de   control   al   calității,
+verificări și încercări pentru fiecare lucrare în parte, în conformitate cu
+cerințele documentației tehnice, autoritatea contractantă precizează că
+ofertantul a transmis documente, în susținerea celor deja existente.
+Consideră că nici în acest caz nu poate fi reținută o încălcare a
+dispozițiilor   art.   209   din   Legea   nr.   98/2016   și   nici   o   „completare
+nelegală” a ofertei.
+Referitor la critica privind presupusa „completare nelegală” a ofertei
+prin transmiterea declarațiilor de disponibilitate lipsă pentru persoanele
+nominalizate,   autoritatea   contractantă   precizează   că   solicitarea
+transmiterii acestor documente nu a constituit o încălcare a dispozițiilor
+art. 209 din Legea nr. 98/2016.
+În ceea ce privește sintagma „completări”, autoritatea contractantă
+susține că prin răspunsul formulat la solicitarea de clarificări transmisă în
+temeiul art. 134 din Anexa la HG nr. 395/2016, ofertantul nu a modificat
+oferta   inițială,   ci   a   susținut   prin   documente/informații   suplimentare
+precizări deja existente la nivelul ofertei inițiale și al documentelor care
+însoțesc aceasta.
+Cu privire la critica referitoare la prețul neobișnuit de scăzut ofertat
+de asocierea câștigătoare, autoritatea contractantă precizează că prin
+solicitarea de clarificări nr. 14449/10.07.2025, respectiv prin solicitarea
+de clarificări nr. 14450/10.07.2025 adresată contestatorului, autoritatea
+contractantă   a   solicitat   ambilor   ofertanți   aspecte   privind   justificarea
+prețului.   Asocierea   .........   SRL,   a   răspuns   prin   adresa   nr.
+14831/16.07.2025,   însoțită   de   Anexa   1   la   Contractul   de   închiriere
+nr.347/24.03.2025 încheiat cu ... SRL, închirierea urmând a fi plătită
+pentru orele de lucru realizate, respectiv zilele de lucru efectiv realizate.
+Costurile cu închirierea se rezumă la costurile de folosință ale utilajelor
+pe zile, ore, nicidecum pe toată perioada de derulare a contractului de
+achiziție publică, asocierea răspunzând concludent.
+Cu   privire   presupusa   neconformitate   a   ofertei   declarate
+câștigătoare, respectiv critica potrivit căreia aparatul de iluminat cu LED
+Pagina 15 din 51
+
+utilizat   în   sistemul   de   iluminat   cu   panouri   fotovoltaice   ofertat,   nu
+respectă temperatura de culoare TC = 3000K ±10%, astfel cum a fost
+solicitată prin Fișa tehnică – Sistem de iluminat cu panouri fotovoltaice,
+parte a documentației de atribuire, având în schimb o temperatură de
+culoare TC = 4000K ±10%, autoritatea contractantă a considerat că
+produsul   ofertat   prezintă   caracteristici   superioare   față   de   cerințele
+minime   impuse   prin   documentația   de   atribuire   și,   în   consecință,   a
+acceptat aceste caracteristici.
+
+Cu privire la critica potrivit căreia deși Asocierea ... S.R.L. & ...
+S.R.L. a ofertat corpul de iluminat Unistreet gen2 Solar – VGP282 T25
+1xLED24-4s/740 DPRI, o parte din rapoartele de testare prezentate ca
+documente-suport   ar   fi   aferente   unui   alt   tip   de   aparat,   autoritatea
+contractantă precizează că inclusiv contestatorul a ofertat același produs
+și   a   prezentat   un   raport   de   testare   similar   cu   cel   depus   de   către
+asocierea câștigătoare.
+În susținerea acestei afirmații, autoritatea contractantă atașează
+extras din oferta contestatorului, respectiv pagina 99 din Propunerea
+tehnică – partea 6, în care este indicat produsul Unistreet gen2 Solar –
+VGP282. 
+Precizează că raportul de testare a fost luat în considerare ca fiind
+valabil   pentru   întreaga   familie   de   produse   UNISTREET   GEN   2,   fiind
+aplicat   principiul   tratamentului   egal   atât   în   ceea   ce   privește   oferta
+depusă de asocierea câștigătoare, cât și oferta depusă de contestator.
+Subliniază de asemenea că același principiu al tratamentului egal a
+fost aplicat și în legătură cu critica referitoare la faptul că asocierea
+câștigătoare ar fi ofertat un modul de control care nu este compatibil cu
+aparatul de iluminat ofertat.
+Autoritatea contractantă consideră că această critică nu poate fi
+reținută, întrucât contestatorul a ofertat același modul și același aparat
+de iluminat. 
+Prin urmare, arată că în condițiile în care s-ar admite susținerea
+potrivit căreia modulul de control ofertat nu ar fi compatibil cu aparatul
+de   iluminat,   această   presupusă   neconformitate   s-ar   reflecta   inclusiv
+asupra propriei oferte a contestatorului.
+În ceea ce privește critica referitoare la certificarea ENEC aferentă
+unui produs diferit față de cel ofertat, aparținând unui alt producător,
+autoritatea   contractantă   face   trimitere   la  răspunsul  la  solicitarea   de
+clarificări nr. 13801/30.06.2025, considerând că asocierea a clarificat
+aspectul   cu   privire   la   neconcordanța   constatată,   toate   acestea   fiind
+consemnate în PV intermediar de evaluare nr. 7/14360/09.07.2025
+Prin   adresa   înregistrată   la   CNSC   sub   nr.   ........./19.08.2025,
+asocierea ......... SRL, ......... SRL, formulează cerere de intervenție, prin
+care solicită admiterea, în principiu, a acesteia și respingerea contestației
+formulate, cu consecința menținerii ca temeinic și legal, a raportului
+procedurii   nr.   15939/30.07.2025,   precum   și   a   actelor   anterioare   și
+subsecvente acestuia.
+Față de criticile formulate de contestator, intervenientul răspunde,
+punctual, după cum urmează:
+Critica privind neprezentarea curbelor k emise de producător pentru
+fiecare fotometrie utilizată.
+Pagina 17 din 51
+
+Intervenientul   precizează   că   în   cadrul   ofertei,   la   pagina   9,   a
+prezentat în cadrul documentului 03. Fise tehnice F5 + anexe, aparatul
+de iluminat cu codul IP 36L39 740 IVS NONE ZUD CL1 M60 ANT; din
+cadrul acestui document, reiese în mod clar distribuția asimetrică, acest
+document fiind contrasemnat și de către producător.
+Referitor la curba K la care face referire contestatorul, din cea de-a
+doua planșă de la aceiași critică nr. 1, planșă care se regăsește în cadrul
+ofertei în documentul 03. Fise tehnice F5 + anexe - semnat.pdf, la
+pagina 202, intervenientul precizează că aceasta a fost extrasă dintr-un
+
+raport de testare, realizat în conformitate cu schema de testare, pentru
+certificarea ENEC+ (alt document solicitat în cadrul procedurii).
+Menționează că documentul prin care își justifică critica vizează alte
+aspecte, respectiv anumite testări privind certificarea ENEC+ și nu din
+documente provenite de la producător privind curba K.
+Arată   de   asemenea   că   în   cadrul   rapoartelor   de   testare   nu   se
+realizează testarea pentru fiecare aparat de iluminat, ci pentru anumite
+aparate de iluminat puse la dispoziție de producător sau alese din fabrică
+ori din piață, de către organismul de testare acreditat, iar certificarea se
+emite pentru toată familia de produse, în conformitate cu schema de
+testare.
+Susține că acest aspect este verificabil și în cadrul ofertei, unde, în
+cadrul aceluiași document, la pagina 172, se regăsește Licența ENEC+
+din care redă, ca exemplu, una din pagini, de unde reiese faptul că
+certificarea se emite pentru aparate cu diferite distribuții luminoase,
+implicit aparate care au diferite curbe K.
+Mai mult, calculele luminotehnice prezentate în format electronic,
+calcule care se pot verifica și relua cu programul independent Dialux,
+atestă faptul că s-au ofertat aparate de iluminat cu distribuție asimetrică.
+De asemenea, precizează că prin adresa nr. 755/19.06.2025, a
+răspuns solicitării autorității contractante, transmițând curbele K pentru
+fiecare   aparat   de   iluminat,   de   unde   reiese   și   distribuția   asimetrică,
+prezentând documente care confirmă informațiile prezentate inițial în
+cadrul ofertei, respectiv faptul că aparatele de iluminat ofertate au o
+distribuție asimetrică.
+Critica privind neprezentarea a 8 fotometrii diferite și a curbelor k
+emise de producător aferente acestora.
+Intervenientul precizează că încadrul ofertei, a prezentat calcule
+luminotehnice, în format electronic, conform cerințelor documentației. În
+cadrul   acestor   fișiere,   au   fost   utilizate   aparate   de   iluminat   care   să
+respecte cerințele standardelor privind iluminarea trecerilor de pietoni,
+precum și caracteristicile tehnice minim impuse prin documentația de
+atribuire. 
+Menționează că din informațiile existente în cadrul acestor fișiere de
+calcul, tipul aparatului, puterea, etc., autoritatea contractantă a putut să
+verifice conformitatea și corectitudinea calculelor luminotehnice realizate,
+îndeplinirea parametrilor luminotehnici conform standardelor în vigoare,
+precum și tipul de aparat de iluminat utilizat.
+Totodată, menționează căla caracteristicile aparatelor de iluminat
+utilizate, din fișierul de calcul electronic, reiese și distribuția luminoasă,
+distribuție asimetrică.
+Arată că prin documentația de atribuire s-a solicitat prezentarea
+fișierelor sursă ale aparatelor de iluminat ofertate, fișiere care permit
+Pagina 19 din 51
+
+utilizarea aparatelor de iluminat ofertate în vederea verificării calculelor
+luminotehnice solicitate precum și vizualizarea caracteristicilor aparatelor
+de iluminat ofertate, prin codul produsului având posibilitatea accesării
+bazei de date, încărcate de către producătorul aparatelor de iluminat în
+programul independent Dialux, fișiere pe care prezenta asociere le-a
+prezentat în cadrul ofertei în documentul 2. Calcule luminotehnice + LDT
+AIL + Anexa 3- semnat.rar.
+
+Drept urmare, subliniază că informațiile privind minim 8 fotometrii
+diferite precum și curbele K, pentru aparatele de iluminat ofertate au fost
+puse la dispoziția autorității contractante la momentul prezentării ofertei.
+În susținere, face trimitere la extrase din Fișa tehnică emisă de
+către producător.
+Arată   că   prin   adresa   nr.   755/19.06.2025,   doar   a   confirmat
+informațiile existente în cadrul ofertei, iar transmiterea curbelor K pentru
+fiecare aparat de iluminat, de unde reies și cele minim 8 fotometrii
+diferite, are doar rol de confirmare.
+Precizează de asemenea că ......... SA a ofertat aceiași familie de
+aparate de iluminat solare ca și prezenta asociere, respectiv, Unistreet
+Solar, producător  Signify, astfel  încât, dacă familia  de  aparatele  de
+iluminat   solare   ofertate   de   asocierea   intervenientă   nu   îndeplinesc
+cerințele documentației de atribuire, referitor la distribuții si curbe K,
+similar, nici oferta contestatorului nu îndeplinește aceste cerințe.
+Critica   privind   neprezentarea   procedurilor   tehnice   de   execuție
+specifice pentru fiecare lucrare în parte și a planului de control al calității,
+a verificărilor și încercărilor pentru fiecare lucrare în parte.
+Intervenientul precizează că a prezentat Formularul 7, în cadrul
+documentului 01. Propunere tehnica-semnat.pdf, cu datele solicitate prin
+documentația de atribuire.
+Având   în   vedere   că   autoritatea   contractantă   nu   a   considerat
+suficient de detaliate informațiile prezentate în cadrul acestuia document
+sau nu au fost identificate anumite informații, datorită modului propriu
+de   întocmire   a   ofertei,   respectând   formatul   Formularului   7,   au   fost
+solicitate clarificări; ulterior, s-au retransmis documentele la care se
+făcea referire în cadrul solicitării de clarificări.
+Critica privind neprezentarea declarațiilor de disponibilitate pentru
+persoanele nominalizate, solicitată prin formularul 7.
+Intervenientul precizează că a prezentat în cadrul ofertei personalul
+minim solicitat prin documentația de atribuire.
+Susține   că   pentru   toate   persoanele   propuse   ca   personal   de
+specialitate, a prezentat în cadrul documentului 01. Propunere tehnica-
+semnat.pdf,   începând   cu   pagina   115,   CV-uri,   certificate,   atestate,
+recomandări, extrase Revisal și/sau angajamente de participare, etc.
+De   asemenea,   subliniază   că   prezentarea   declarațiilor   de
+disponibilitate are doar rol de confirmare a informațiilor existente inițial
+în cadrul ofertei.
+Consideră că lipsa prezentării declarație de disponibilitate pentru
+personale nominalizate nu poate fi considerată ca fiind lipsa deținerii sau
+a dovezii deținerii personalului minim solicitat.
+Menționează că prin răspunsul nr. 12794/17.06.2025, a transmis
+Declarațiile de disponibilitate.
+Pagina 21 din 51
+
+În opinia sa, lipsa acestor declarații poate fi considerat un viciu de
+formă, o abatere tehnică minoră așa cum este stabilit de art. 134 alin.
+(8) din HG 395/2016.
+Critica privind nejustificarea valorilor ofertate, critica 5.1 și 6.2.
+Intervenientul precizează că a justificat prețul ofertat și a răspuns
+fiecărei   cerințe   din   cadrul   solicitărilor   de   clarificări   prezentând
+modalitatea de formare a prețului.
+Precizează că a prezenta extrase Revisal pentru personalul angajat,
+(.., ... ..., .., ... ..., .., .., .., .., .., ..)
+
+De asemenea, pentru.., .., .., .. și .. a prezentat în cadrul adresei
+866/17.07.2025, oferta de preț pentru serviciile prestate de către acest
+personal, acest nefiind un personal contractual al asocierii și neexistând
+alte înțelegeri contractuale cu acest personal.
+De asemenea, arată că în cadrul răspunsului la clarificări, a precizat
+în cadrul justificării prețului că se va folosi de facilitățile pe care le are la
+punctul de lucru ... ........., precum și că va utiliza personal de la acest
+punct de lucru
+Subliniază   că   a   justificat   prin   documente,   prețul   ofertat,
+raportându-se la formularul de ofertă și anexa acestuia, precum și că
+prețul personalului deservent este inclus în costul de închiriere, conform
+contract.
+Critica privind faptul că modulele de control ofertate, nu respectă
+cerințele documentației de atribuire.
+Raportatla faptul că procedura implică realizarea serviciilor de
+proiectare și a faptului că dorim să oferim beneficiarului variante optime
+de   funcționare,   la   momentul   proiectării,   raportate   la   necesitățile
+acestuia, intervenientul precizează că a ofertat 2 module de control, una
+al cărui producător este Zumtobel Group, respectiv TVILIGHT pentru
+Zumtobel Group conform fișă tehnică din cadrul documentului 03. Fișele
+tehnice F5 +anexe - semnat.pdf, de la pagina 491 și una al cărui
+producător este Signify, conform fișă tehnică din cadrul documentului
+03. Fișele tehnice F5 +anexe - semnat.pdf, de la pagina 666.
+Într-adevăr,   admite   faptul   că,   controllerul   marca   Zumtobel   nu
+respectă cerința privind temperatura  de funcționare dar controller-ul
+marca Signify respectă cerința privind temperatura de funcționare, fiind
+același/ identic cu cel ofertat de către contestator.
+Critica   privind   faptul   că   aparatul   de   iluminat   cu   led   utilizat   în
+sistemul   de   iluminat   cu   panouri   fotovoltaice   ofertat   nu   respectă
+temperatura solicitată prin documentația de atribuire.
+Arată   că   prin   documentația   de   atribuire   s-a   permis   realizarea
+calculelor luminotehnice cu aparate de iluminat stradale, cu temperatura
+de culoare 4000K, care vor fi utilizate exact în același mediu/ zone/
+profile de drum,  ca și aparatele  de iluminat solare,  precizând  că a
+realizat calculele luminotehnice utilizând aparate cu aceiași temperatură
+de culoare 4000K.
+Raportatla   faptul   că   soluția   tehnică   nu   este   deja   proiectată,
+menționează că a realizat o ofertă unitară din punct de vedere a culorii
+emise de aparatele de iluminat ofertate.
+Deasemenea   indică   faptul   că   prin   normele,   normativele   și
+standardele în vigoare, din punct de vedere luminotehnic, nu se impune
+o anumită temperatură de culoare pe care aparatele de iluminat trebuie
+să le emită.
+Pagina 23 din 51
+
+Precizează că prin utilizarea acestei temperaturi de culoare nu i se
+crează nici un avantaj, iar prin calcule luminotehnice transmise a făcut
+dovada   îndeplinirii   parametrilor   luminotehnici   în   conformitate   cu
+standardele în vigoare precum și cu cerințele din cadrul documentației de
+atribuire.
+Critica referitoare la faptul că, calculele luminotehnice (tp m4 solar
+și tp m6 solar) efectuate nu respectă cerința privind înălțimea de montaj
+solicitată prin documentația de atribuire.
+
+Intervenientul menționează că prin documentația de atribuire nu a
+fost precizată o înălțime de montaj.
+Critica privind faptul că nu au fost prezentate documente suport/
+rapoarte de testare pentru aparatele ofertate, parte din rapoartele de
+testare prezentate ca documente suport fiind pentru un alt tip de aparat.
+Intervenientul   precizează   că   documentele   prezentate   în   cadrul
+ofertei   sunt   pentru   aparatele   de   iluminat   ofertate.     Rapoartele   de
+testare, certificate, declarații, etc. sunt pentru elementele componente
+ale ofertei, iar acestea respectă cerințele din cadrul documentației de
+atribuire.
+Critica privind faptul că s-a ofertat un modul de control care nu este
+compatibil cu aparatul de iluminat ofertat.
+Intervenientul precizează că, așa cum a mai menționat, controllere
+ofertate, sunt ofertate în vederea optimizării din punctul de vedere al
+funcționării sistemului de iluminat, raportat la necesitățile beneficiarului.
+Unuldin   controllere   este   complet   compatibil   cu   aparatul   de
+iluminat, respectiv controllere produse de către Signify sunt complet
+compatibile   cu   aparatele   de   iluminat   produse   de   către   Signify,   fost
+Philips,   iar   controllere   produse   de   Zumtobel   Group   sunt   complet
+compatibile cu aparatele de iluminat marca Thorn, membru al Zumtobel
+Group.
+De asemenea, controllere ofertate sunt certificate ENEC, DALI și
+Zhaga D4i, iar toate aparatele de iluminat sunt echipate cu drivere
+marca Signify, așa cum reiese din documentele prezentate în cadrul
+ofertei.
+Critica privind faptul că s-a ofertat un modul de control un modul de
+control   al   producătorului   THORN,   dar   certificarea   ENEC   este   pentru
+modelul ZHAGA IOT produs de TVILIGHT.
+Arată că, așacum   reiese   din   declarația   Zumtobel   Group,
+TVILIGHT   este   un   producător/   subcontractant   al   Zumtobel   Group,
+anexată   răspunsului   la   solicitarea   de   clarificări   806/02.07.2025,
+componentele de telegestiune hardware si software, precum modulul de
+control RF - ZG SIM lOy cod PR166203, sunt dezvoltate și fabricate de
+[OPERATOR ECONOMIC].   pentru   Thorn   Lighting   parte   a   [OPERATOR ECONOMIC].
+Modulul de control RF - ZG SIM lOy, cod PR166203, comercializat sub
+marca Thorn Lighting, nu este un produs diferit față de cel realizat de
+[OPERATOR ECONOMIC]., ci este fabricat de catre [OPERATOR ECONOMIC]. (Olanda) special
+pentru Zumtobel Group, în cadrul acestui parteneriat.
+Precizează că acestmodul  este integrat  în soluțiile de iluminat
+stradal inteligent ale Thorn Lighting și este comercializat sub brandul
+Thorn Lighting, parte a grupului [OPERATOR ECONOMIC], păstrându-și însă
+identitatea   tehnologica   și   compatibilitatea   garantata   de   producătorul
+original.
+Pagina 25 din 51
+
+Modululde   control   menționat   este   produs   sub   standarde
+internaționale   precum   si   neeliminativ:   Certificat   Zhaga-D4i;   Atestat
+conform standardului ENEC nr. 22372 - Conform cu cerințele CE și cu
+protocoalele DALl-2
+Critica   privind   faptul   că   nu   s-au   prezentat   declarațiile   de
+conformitate   pentru   baterie   VRLA   cu   gel   montată   și   panou   solar
+policristalin aferente sistemului de iluminat cu panouri fotovoltaice și
+totodată, fișele tehnice ale aparatelor de iluminat solar de tip VGP282 nu
+sunt confirmate de producătorul SIGNIFY.
+
+Intervenientul precizează că încadrul   ofertei,   a   prezenta
+documentul 03. Fișe tehnice F5 + anexe - semnat.pdf Declarația de
+conformitate aflată la pagina 628. Fișeletehnice   ale   producătorului
+Signify sunt documente cu caracter public, fiind disponibile pe site-ul
+acestuia și nefiind necesară confirmarea caracteristiciloracestuiade
+cătreproducător.
+Având în vedere documentele depuse de Asocierea ......... SRL, în
+cadrul procedurii de atribuire sus-menționată, marcate „CONFIDENȚIAL”,
+respectiv oferta tehnică și oferta financiară,  precum și raportat la faptul
+că   .........   SA   solicită   „accesul   la   dosarul   aflat   pe   rolul   CNSC”,   în
+conformitate   cu   dispozițiile   art.   20   din   Legea   nr.   101/2016,   cu
+modificările   și   completările   ulterioare,   prin   adresa   nr.
+60678/3022/C1/01.09.2025,   Consiliul   solicită   acestuia   să   comunice
+temeiul   juridic   al   încadrării   tuturor   înscrisurilor   menționate   ca   fiind
+„confidențiale”, să justifice această încadrare și să demonstreze prin
+orice   mijloc   de   probă,   caracterul   confidențial   al   documentelor   și
+prejudiciul   adus   urmare   a   dezvăluirii   acestor   informații,   conform
+dispozițiilor art. 19 alin. (1) din Legea nr. 101/2016, cu modificările și
+completările ulterioare, care stipulează că: „La cerere, părțile cauzei au
+acces la documentele dosarului constituit la Consiliu, în aceleași condiții
+în care se realizează accesul la dosarele constituite la instanțele de
+judecată   potrivit   prevederilor   Legii   nr.   134/2010,   republicată,   cu
+modificările   ulterioare,   cu   excepția   documentelor   pe   care   operatorii
+economici le declară și probează ca fiind confidențiale, întrucât cuprind,
+fără a se limita la acestea, secrete tehnice și/sau comerciale, stabilite
+conform legii, iar dezvăluirea acestora ar prejudicia interesele legitime
+ale   operatorilor   economici,   în   special   în   ceea   ce   privește   secretul
+comercial și proprietatea intelectuală.”
+... SRL răspunde prin adresa nr.1081/02.09.2025, înregistrată la
+CNSC   sub   nr.   61279/03.09.2025,   invocând,   în   susținerea
+confidențialității ofertei sale, prevederile legale în materie, jurisprudența
+CJUE.
+Întrucât contestatorul  a solicitat accesul la dosarul  cauzei, prin
+adresa nr. 62951/3022/C1/09.09.2025, Consiliul i-a comunicat acestuia,
+termenul de studiere a dosarului și implicit de depunere a concluziilor
+scrise; acesta s-a prezentat la sediul CNSC în data de 10.09.2025.
+Ulterior, prin adresa nr. 15552/11.09.2025, înregistrată la CNSC
+sub nr. 63685/12.09.2025, contestatorul transmite concluzii scrise, prin
+care solicită cele menționate în preambulul deciziei, precum și obligarea
+autorității contractante la plata cheltuielilor de judecată ocazionate cu
+prezentul demers.
+Succint,  prezintă  următoarele  argumente,  ca urmare  a studierii
+dosarului cauzei:
+Pagina 27 din 51
+
+-prezenta   societate   a   ofertat   modulele   de   telegestiune   de   tip
+LLC7852, LLC7853, identice cu cele ale Asocierii ... SRL si ... SRL, care
+au   ca   mod   de   conexiune   cu   aparatul   de   iluminat   un   conector
+standardizat de tip Zhagha si sunt compatibile cu aparatele de iluminat
+cu LED si distributie asimetrica a fluxului luminos special pentru trecerile
+de pietoni cu alimentare din rețeaua electrica, alimentate la 230V;
+- pentru aparatele de iluminat care permit integrarea într-un sistem
+de alimentare din panouri fotovoltaice la tensiune redusa, din gama
+
+VGP282, aceste module de telegestiune nu pot fi utilizate, pentru ca
+acestea nu sunt echipate cu conector standardizat de tip Zhaga;
+-pentru controlul aparatelor de iluminat care permit integrarea într-
+un sistem de alimentare din panouri fotovoltaice, subscrisa am ofertat un
+modul de telegestiune compatibil cu aceste aparate de iluminat, modul
+care   se   montează   pe   stâlpul   de   iluminat   si   comunica   direct   cu
+controllerul   sistemului   de   iluminat   solar.   Acest   modul   este   tip
+LLC7891/00 CT KIT MS EU4VF și a fost prezentat în propunerea tehnică
+pag. 1353 - 1357 (pag. 44 - 48 din documentul Propunere tehnica
+partea 8);
+-asocierea   declarată   câștigătoare   și-a   completat   în   mod   nelegal
+oferta prin răspunsul la clarificări nr. 755/19.06.2025, în cauză, fiind
+incidente dispozițiile art. 134 alin. (6) din HG nr. 395/2016, precum și
+cele ale art. 2 alin. (2) din Legea nr. 98/2016;
+-argumentul   autorități   contractante   din   cuprinsul   punctului   de
+vedere, conform căruia asocierea declarată câștigătoare doar a clarificat
+aspectul pe care comisia nu l-a identificat, nu poate fi primit deoarece
+depunerea   curbelor   K   emise   de   producător,   documente   ce   nu   se
+regăseau până la această dată în ofertă, nu poate fi asimilat unei simple
+completări ci reprezintă o completare a ofertei peste termenul limită de
+depunere a ofertelor.
+-nu pot fi reținute nici afirmațiile autorității cu privire la faptul că a
+respectat principiul tratamentului egal pentru că a transmis aceleași
+solicitări   de   clarificare   ambilor   ofertanți,   deoarece   acest   aspect   nu
+înlătură încălcarea principiului prin permisiunea dată unui ofertant de a-
+și completa oferta după termenul limită; astfel, favorizarea unui ofertant
+prin acordarea permisiunii de a-și completa oferta reprezintă o încălcare
+a principiului tratamentului egal prevăzut de art. 2 alin. (2) lit. b) din
+Legea nr. 98/2016;
+-lipsa unui document nu poate fi asimilată unui viciu de formă,
+deoarece informația nu este susținută în mod neechivoc de sensul și de
+conținutul altor informații existente inițial în alte documente prezentate
+de ofertant;
+-asocierea declarată câștigătoare și-a completat oferta cu privire la
+Planul de management al calității;
+-modulele de control prezentate de asocierea declarată câștigătoare,
+nu respectă cerința din Fișa tehnică - Sistem de telegestiune, punctul
+2.1.10. referitoare la temperatura de operare -40 Grade Celsius - +70
+Grade Celsius, aspect recunoscut inclusiv de către aceasta prin cererea
+de intervenție formulată; în cadrul formularul F5 nu este specificat drept
+producător   Signify,   deci   nu   se   poate   susține   că   au   fost   ofertate
+echipamente ale acestui producător;
+Pagina 29 din 51
+
+-dacă s-ar considera că asocierea declarată câștigătoare a ofertat
+două produse, marca Zumbotel și marca Signify, oferta ar echivala cu
+depunerea unei oferte alternative;
+-aparatul de iluminat cu LED utilizat în sistemul de iluminat cu
+panouri   fotovoltaice   ofertat   de   asocierea   declarată   câștigătoare,   nu
+respectă temperatura de culoare TC = 3000 ±10%, astfel cum a fost
+solicitată în Fișa tehnică - Sistem de iluminat cu panouri fotovoltaice,
+parte a documentației de atribuire, având o temperatură de culoare Tc=
+4000 ±10%;
+
+-se constată lipsa declarațiilor de conformitate pentru baterie VRLA
+cu gel montată și panou solar policristalin aferente sistemului de iluminat
+cu panouri fotovoltaice; de asemenea, fișele tehnice ale aparatelor de
+iluminat solar de tip VGP282 nu sunt confirmate de producătorul Signify.
+În susținerea  capătului  de  cerere  privind acordarea  cheltuielilor
+ocazionate   cu   prezentul   demers,     .........   SA   depune   următoarele
+înscrisuri:
+-Factura   nr. SCA880 din 21.08.2025, în cuantum de 44.046,33,
+însoțită de ordinul de plată aferent.
+-Factura   nr. SCA911 din 15.09.2025, în cuantum de 52.735,35,
+însoțită de ordinul de plată aferent.
+Prin adresa înregistrată la CNSC sub nr. 54641/08.08.2025 .........
+SA   depune,   în   original,   recipisa   de   consemnare   a   cauțiunii   nr
+211550017/1   din     05.08.2025,   eliberată   de   CEC   Bank   –   Sucursala
+Victoria,  în cuantum de 88.000,00 lei.
+Analizând   susținerile   și   documentele   depuse   la   dosarul   cauzei,
+CONSILIUL constată următoarele:
+.........,     în   calitate   de   autoritate   contractantă,   a   organizat
+procedura   de   licitație   deschisă,   în   vederea   atribuirii   contractului   de
+achiziție   publică,   având   ca   obiect:   „Servicii   de   proiectare   tehnică,
+execuție lucrări și verificare proiect din cadrul  proiectului: Creșterea
+siguranței   traficului   pe   drumurile   județene   în   .........   -   iluminarea
+trecerilor de pietoni” cod CPV: 45316000-5, elaborând, în acest sens,
+documentația de atribuire aferentă și publicând, în SEAP, anunțul de
+participare   nr.   .../24.12.2024,   conform   căruia   valoarea   estimată   a
+procedurii este 11.723.793,27 lei fără TVA. Conform cap. II.2.5 din
+anunț, criteriul de atribuire al contractului  este „cel mai bun raport
+calitate-preț”.
+Preliminar, Consiliul are în vedere că, în cauză, ... SRL, ofertant în
+cadrul procedurii în analiză, a formulat cerere de intervenție, prin care
+solicită   Consiliului   cele   precizate   în   partea   introductivă   a   prezentei
+decizii.
+Constatând că sunt îndeplinite cerințele impuse de art. 61 alin. (1)
+și alin. (3) Cod procedură civilă și de art. 17 alin. (3) și (4) din Legea nr.
+101/2016, în temeiul art. 63 și art. 64 alin. (2) Cod procedură civilă,
+Consiliul va admite în principiu cererea de intervenție formulată de  ...
+SRL  și va dispune introducerea în cauză, în calitate de intervenient, a
+acestuia. Cererea de intervenție va fi soluționată odată cu contestația.
+Preliminar   soluționării   contestației   care   face   obiectul   prezentei,
+Consiliul reține că  documentația  de atribuire,  așa cum aceasta este
+întocmită   de   autoritatea   contractantă,   este   obligatorie   atât   pentru
+operatorii economici participanți la procedură care au obligația de a-și
+elabora ofertele în conformitate cu prevederile acesteia (art. 123 din HG
+Pagina 31 din 51
+
+nr. 395/2016), dar, mai ales pentru autoritatea contractantă, aceasta
+fiind   obligată   ca   în   desfășurarea   procedurii   de   achiziție   publică   să
+respecte   atât   dispozițiile   legale   aplicabile   în   acest   domeniu,   cât   și
+prevederile propriei documentații de atribuire care stabilește regulile ce
+trebuie respectate de ambele părți în derularea procesului competitiv.
+La punctul 39 din Hotărârea pronunțată în cauza C-27/15, CJUE a
+reținut că:  „Astfel, conform unei jurisprudențe constante a Curții, în
+temeiul articolului 2 din Directiva 2004/18, unei autorități contractante îi
+revine sarcina de a respecta cu strictețe criteriile pe care ea însăși le a
+
+stabilit (a se vedea în special Hotărârea din 10 octombrie 2013, Manova,
+C 336/12, EU:C:2013:647, punctul 40, și Hotărârea din 6 noiembrie
+2014, Cartiera dell’Adda, C 42/13, EU:C:2014:2345, punctele 42 și 43)”,
+iar, la punctul 42 din aceeași hotărâre a reiterat că „astfel cum s-a
+amintit la punctul 39 din prezenta hotărâre, autoritatea contractantă are
+obligația de a respecta cu strictețe criteriile pe care ea însăși le a stabilit”
+și a precizat că „această considerație este cu atât mai importantă cu cât
+miza este excluderea din procedură”.
+Cerințele   din   documentația   de   atribuire   sunt   obligatorii   și   nu
+formale,   nu   au   fost   contestate   de   către   niciun   operator   economic
+interesat până la data-limită de depunere a ofertelor, iar, prin depunerea
+ofertelor la procedura în cauză, operatorii economici, au acceptat și și-au
+însușit condițiile impuse de autoritatea contractantă, motiv pentru care
+aveau obligația, potrivit art. 123 din HG nr. 395/2016, de a elabora
+ofertele în conformitate cu prevederile din documentația de atribuire.
+Procedând   la   soluționarea   contestației   formulate   de   .........   SA,
+Consiliul reține că acesta a participat la procedura în speță, oferta sa
+fiind admisibilă, dar necâștigătoare, pe primul loc fiind oferta depusă de
+Asocierea ......... SRL. Nemulțumit de rezultatul procedurii, ......... SA,
+considerând că oferta clasată pe primul loc, respectiv, cea depusă de
+Asocierea   .........   SRL   ar   fi   trebuit   respinsă,   formulează   prezenta
+contestație, solicitând cele precizate în preambulul deciziei.
+Analizând criticile formulate de ......... SA, Consiliul reține ca o
+primă   critică,   pe   cea   vizând   neconformitatea   modulelor   de   control
+ofertate de Asocierea ... SRL & ... SRL, respectiv, faptul că acestea nu
+respectă   cerința   din   Fișa   tehnică   -   Sistem   de   telegestiune   [FT
+Telegestiune.pdf]   pct.   2   -   Modulul   de   control,   subpunct   2.1.10:
+„Temperatura de operare -40 grade C – +70 Grade Celsius‟. 
+Consiliul reține, că, prin cererea de intervenție formulată,  ... SRL,
+precizează: „(...)subscrisa am ofertat 2 module de control, una al cărui
+producător este Zumtobel Group, respectiv TVILIGHT pentru Zumtobel
+Group conform fișă tehnică din cadrul documentului 03. Fișele tehnice F5
++anexe - semnat.pdf, de la pagina 491 și una al cărui producător este
+Signify, conform fișă tehnică din cadrul documentului 03. Fișele tehnice
+F5 +anexe - semnat.pdf, de la pagina 666.
+Într-adevăr,  controllerul   marca   Zumtobel   nu   respectă   cerința
+privind   temperatura   de   funcționare   dar   controller-ul   marca   Signify
+repectă cerința privind temperatura de funcționare, fiind același/identic
+cu cel ofertat de către contestatară‟.
+Față de cele de mai sus, Consiliul constată că, Asocierea ... SRL
+& ... SRL a ofertat două module de control diferite:
+-un modul de control marca Thorn Lighting Zumtobel, care nu este
+conform  cu cerințele documentației de atribuire din perspectiva
+Pagina 33 din 51
+
+temperaturii de operare, având „Temperatura de operare -30 grade
+C – +60 Grade Celsius‟ - mențiune care se regăsește la pag.491
+din fișierul [03. Fișele tehnice F5 +anexe - semnat.pdf];
+-un   modul   de   control   marca   Signify,   având   „Temperatura   de
+operare -40 grade C – +85 Grade C‟ - mențiune care se regăsește
+la pag.667 din fișierul [03. Fișele tehnice F5 +anexe - semnat.pdf].
+Prin urmare, Consiliul reține că înscrisurile depuse de Asocierea ...
+SRL & ... SRL,  aflate la dosarul CNSC aferent prezentei  contestații,
+confirmă faptul că, în fapt, respectivul operator economic a depus o
+
+ofertă alternativă, astfel cum este aceasta prevăzută la art. 162 din
+Legea nr. 98/2016, deoarece, conține două module de control, dintre
+care,   unul   (marca   Thorn   Lighting   Zumtobel)   nu   respectă  cerința
+documentației de atribuire din Fișa tehnică - Sistem de telegestiune [FT
+Telegestiune.pdf]   pct.   2   -   Modulul   de   control,   subpunct   2.1.10:
+„Temperatura de operare -40 grade C – +70 Grade Celsius‟. 
+Or, în această situație, Consiliul reține incidența prevederilor art.
+162 alin. (2) din Legea nr. 98/2016, potrivit cărora „În cazul în care
+autoritatea contractantă nu a precizat explicit că permite sau solicită
+depunerea   de   oferte   alternative   conform   dispozițiilor   alin.   (1),
+autoritatea contractantă nu are dreptul de a lua în considerare ofertele
+alternative”, motivat de faptul că, în fișa de date a achiziției, cap. II.2.10
+–   Informații  privind  variantele   -  autoritatea   contractantă  a precizat,
+explicit,   că   nu   se   acceptă   depunerea   de   oferte   alternative,   situație
+sancționată potrivit art. 137 alin. (2) lit. c) din HG nr. 395/2016, potrivit
+căruia „În condițiile art. 215 alin. (4) din Lege, oferta este considerată
+inacceptabilă   în   următoarele   situații   (...)   constituie   o   alternativă   la
+prevederile  caietului de sarcini alternativa care nu poate fi luată în
+considerare deoarece în anunțul de participare nu este precizată în mod
+explicit posibilitatea depunerii unor oferte alternative”.
+Având în vedere faptul că, în prezenta procedură nu sunt acceptate
+oferte alternative, Consiliul apreciază că ofertarea a două  module de
+control, unul al cărui producător este Thorn Lighting Zumtobel și unul al
+cărui producător este Signify, ar constitui, în fapt, depunerea unei oferte
+alternative   și,   implicit,   nerespectarea   documentației   de   atribuire   -
+obligatorie   pentru   ofertanți   și   autoritatea   contractantă,   aceasta   fiind
+obligată ca, în desfășurarea procedurii de achiziție publică să respecte
+atât dispozițiile legale aplicabile în acest domeniu, cât și prevederile
+propriei   documentații   de   atribuire   care   stabilește   regulile   ce   trebuie
+respectate de ambele părți în derularea procesului competitiv -  motiv
+pentru care, va admite criticile contestatorului, în sensul arătat.
+Consiliul va avea în vedere, în soluționare și faptul că autoritatea
+contractantă nu a înțeles să-și motiveze decizia cu privire la faptul că a
+acceptat oferta Asocierii ... SRL & ... SRL în ceea ce privește modulul de
+control, care nu este compatibil cu aparatul de iluminat ofertat, ci, se
+întreabă,   doar:  „(...)contestatorul   a   ofertat   același   modul   și   același
+aparat de iluminat, prin urmare, să înțelegem că critica susținută de
+acesta de neconformitate se răsfrânge și asupra ofertei sale? Nu putem
+lua   în   considerare   acest   fapt,   ambii   ofertanți   au   demonstrat
+conformitatea pentru acest punct‟.
+Critica   vizând   faptul   că   aparatul   de   iluminat   cu   led   utilizat   în
+sistemul de iluminat cu panouri fotovoltaice, ofertat de Asocierea ... SRL
+&   ...   SRL   nu   respectă   temperatura   de   culoare   solicitată   prin
+Pagina 35 din 51
+
+documentația   de   atribuire,   va   fi   admisă,   de   către   Consiliu,   pentru
+următoarele motive:
+Se   reține,   în   soluționare,   că,   în   caietul   de   sarcini,   autoritatea
+contractantă a solicitat, în mod expres, la pag. 37, în secțiunea „Sistem
+de iluminat cu panouri fotovoltaice, Parametri tehnici si funcționali‟:
+(...)Echipare cu sursă luminoasă tip LED de mare putere (se va preciza
+modelul și producătorul): temperatura de culoare Tc = 3000+/-10%.
+Aceeași cerință se regăsește în fișa tehnică „ F5 -Sistem de iluminat
+cu panouri fotovoltaice”, la punctul 1.1.12 - temperatura de culoare Tc =
+
+3000+/-10% (pag. 608 din fișierul cu identificator [03. Fise tehnice
+F5+anexe-semnat.pdf]), asocierea câștigătoare precizând: temperatura
+de culoare Tc = 4000+/-10%, producător Signify.
+Față de cele mai sus arătate, Consiliul constată că aparatul de
+iluminat cu LED utilizat în sistemul de iluminat cu panouri fotovoltaice
+ofertat de Asocierea ... SRL & ... SRL, nu respectă temperatura de
+culoare TC = 3000 ±10%, astfel cum a fost solicitată în documentația de
+atribuire.
+În   soluționare,   Consiliul   va   reține   argumentele   pertinente   ale
+contestatorului,   potrivit   cărora:  „Temperatura   Tc=   4000   ±10%   a
+aparatului de iluminat ofertat de Asocierea ... SRL & ... SRL nu poate fi
+superioară temperaturii 3000±10%, cum susține autoritatea, întrucât
+cele   două   temperaturi   corespund   unor   culori   diferite   ale   luminii,
+respectiv alb-gălbui (TC = 3000 ±10%) și alb neutru, rece (Tc= 4000
+±10%).
+52.Temperatura de culoare se referă la nuanța luminii produsă
+de o anumită sursă, se măsoară în Kelvin (K) și denotă căldura sau
+răcoarea unei surse de lumină. Culorile calde se află în intervalul inferior
+al valorilor Kelvin în timp ce culorile reci se află în intervalul superior.
+53.Există   trei   opțiuni   diferite   de   temperatură   de   culoare,
+respectiv alb cald, alb rece și alb neutru. Albul cald are o nuanță gălbuie,
+iar albul rece are mai multe tonuri de albastru decât albul cald.
+55.În ceea ce privește temperatura de culoare de 3000K, aceasta
+corespunde unei lumini calde alb-gălbuie, folosite în mod obișnuit în
+iluminatul exterior, reprezentând o alegere populară pentru a crea o
+ambianță   confortabilă.   Pe   scara   temperaturii   culorii,   3000K   se
+încadrează   în   categoria   alb   moale,   care   este   mai   caldă   decât
+temperaturile alb rece și lumina zilei.
+56.În schimb, temperatura de culoare de 4000K este un timp de
+temperatură de culoare care este adesea descrisă drept alb rece. Este
+considerată lumină neutră, ceea ce înseamnă că are un ton de alb
+natural‟.
+Consiliul   va   reține,   în   soluționare,   prevederile   Anexa   nr.   10   –
+Sisteme de iluminat rutier și semnalizare rutieră aferente Ordinului ANAP
+nr. 2395/27.12.2023,indicat de contestator, unde, la pct. 2 Poluarea
+luminoasă,   legiuitorul   a   prevăzut: „În   zonele   rezidențiale,   pentru   a
+reduce riscul de disconfort uman, valoarea CCT a surselor de lumină
+trebuie să fie ≤ 3000K(...)‟, valoare care nu este respectată de aparatul
+de iluminat cu LED utilizat în sistemul de iluminat cu panouri fotovoltaice
+ofertat de Asocierea ... SRL & ... SRL.
+Consiliul   nu   va   reține   apărările   autorității   contractante,   potrivit
+cărora  „Cu privire la critica contestatorului că aparatul de iluminat cu
+LED utilizat în sistemul de iluminat cu panouri fotovoltaice ofertat de
+Pagina 37 din 51
+
+Asocierea ... S.R.L. & ... S.R.L, nu respectă temperatura de culoare TC =
+3000 ±10%, astfel cum a fost solicitată în Fișa tehnică — Sistem de
+iluminat cu panouri fotovoltaice, parte a documentației de atribuire,
+având o temperatură de culoare Tc= 4000±10%, arătăm faptul că,
+autoritatea contractantă a considerat că produsul ofertat este superior
+cerinței  din   Documentația   de   atribuire,   drept   urmare   acceptând
+caracteristicile   superioare”,   întrucât,   aceasta   face   doar   susțineri
+generale,   din   documentele   aflate   la   dosarul   cauzei   nereieșind
+superioritatea produsului ofertat de asocierea câștigătoare.
+
+Consiliul urmează să admită și criticile contestatorului privind lipsa
+procedurilor tehnice de execuție și PCCVI, având în vedere că acestea nu
+se regăseau în propunerea tehnică din oferta depusă în SEAP, motiv
+pentru care autoritatea contractantă a solicitat Asocierii ... SRL & ... SRL
+clarificări,   prin   adresa   nr.   12794/17.06.2025   (fișierul   „5.   Sol   clarif
+Asocierea   ....pdf”   din   folderul   „CNSC   DOSAR   ILUMINAT\VOLUMUL   3
+Solicitari Clarificari\2. Solicit Teh 1”, transmis de autoritatea contractantă
+la dosarul cauzei în format electronic, pe memoie externă tip USB stick)
+astfel:
+„Comisia de evaluare a constatat că în Formularul 7 - Formular
+cadru de propunere  tehnică ați prezentat  Planul de management  al
+calității pentru obiectivul „Creșterea siguranței traficului pe drumurile
+județene în ......... - iluminarea trecerilor de pietoni” (Propunere tehnică
+pag. 55-pag.70).
+Referitor la cerința de la lit. b), comisia de evaluare nu a identificat
+procedurile tehnice de execuție specifice pentru fiecare lucrare în parte
+în conformitate cu cerințele documentației tehnice.
+(...)
+Referitor   la   cerința   de   la   lit.   d),   comisia   de   evaluare nu a
+identificat  Planul de control al calității, verificări și încercări pentru
+fiecare   lucrare   în   parte,   în   conformitate   cu   cerințele   documentației
+tehnice”.
+Cerințele   anterior   menționate,   la   care   s-a   referit   autoritatea
+contractantă prin solicitarea de clarificări au fost cerute prin modelul de
+formular   de   propunere   tehnică   (formularul   nr.   7),   înscris   al   cărui
+conținut/structură este obligatoriu/obligatorie conform mențiunilor de la
+secțiunea IV.4.1 Modul de prezentare al propunerii tehnice din fișa de
+date astfel:
+- fișa de date: „Propunerea tehnică trebuie să reflecte asumarea de
+către ofertant a tuturor cerințelor din documentația de atribuire (fișa de
+date a achiziției, caietul de sarcini, anexele la acesta, documentațiile
+puse la dispoziție de achizitor și contractul de achiziție).
+Ofertantul va prezenta:
+1.Formular cadru Propunere tehnica - Formular 7;
+(...)”;
+-Formularul nr. 7, intitulat „Formular cadru Propunere tehnică”, în
+care se menționează
+„Propunerea tehnică va cuprinde informații, după cum urmează:
+(...)
+5. Planul de management al calității lucrărilor care va cantine cel
+puțin următoarele:
+a) Descrierea sistemului calității aplicat la lucrare, inclusiv liste
+cuprinzând procedurile aferente sistemului calității (descrierea trebuie să
+Pagina 39 din 51
+
+aibă la baza cerințele documentației tehnice, precum și prevederi legale
+în materie);
+b) procedurile tehnice de execuție specifice pentru fiecare lucrare în
+parte în conformitate cu cerințele documentației tehnice;
+(...)
+d) Planul de control al calității, verificări și încercări pentru fiecare
+lucrare în parte, în conformitate cu cerințele documentației tehnice”.
+Cerințele din cadrul documentației de atribuire cu privire la modul
+de   elaborare   a   propunerii   tehnice   sunt   obligatorii,   și   nu   formale,
+
+înscrisurile elaborate de autoritatea contractantă nefiind contestate de
+către niciun operator economic interesat. 
+Mai mult, se reține că ofertantul Asocierea ... SRL & ... SRL nu a
+formulat obiecții cu privire la modul în care autoritatea contractantă a
+solicitat   elaborarea   și   depunerea   ofertei,   prin   urmare,   și-a   însușit
+obligația de a demonstra, în cadrul propunerii   tehnice, îndeplinirea
+tuturor cerințelor din caietul de sarcini, inclusiv să depună procedurile
+tehnice de execuție și Planul de control al calității, verificări și încercări
+(PCCVI), cât și riscul respingerii ofertei, ca urmare a omisiunii depunerii
+unor astfel de documente.
+Ori, se constată că  Asocierea ... SRL & ... SRL nu a depus nici
+procedurile tehnice și nici PCCVI solicitate prin modelul de formular de
+propunere   tehnică   și   fișa   de   date   iar,   ulterior,   prin   răspunsul   la
+solicitarea de clarificări, a menționat că „reatașează” planul calității în
+care se regăsesc documentele solicitate.
+Verificând   răspunsul   ofertantului   comparativ   cu   propunerea   sa
+tehnică depusă inițial, Consiliul reține că, potrivit opisului, planul calității
+se regăsea în propunerea tehnică la pag. 55-70.
+Totodată, se reține că cele 15 pagini indicate anterior se regăsesc
+la pag. 56-71 din fișierul „01. Propunere tehnica-semnat.pdf”, în folderul
+„DOSAR ILUMINAT\VOLUMUL 6 Oferte\...\Oferta TEHNICĂ” și nu conțin
+nici proceduri tehnice de execuție nici PCCVI.
+Pe de altă parte, se reține că planul calității din anexa răspunsului
+la solicitarea de clarificări are 32 de pagini (mai mult decât dublu față de
+cel din propunerea tehnică) și conține, între pag. 7 și 12, descrieri
+sumare  ale  lucrărilor  care  urmează  a  fi  executate,   similare  cu  cele
+incluse, de regulă, în procedurile tehnice de execuție formalizate.
+Rezultă că Asocierea ... SRL & ... SRL și-a completat propunerea
+tehnică prin solicitarea de clarificări cu procedurile tehnice de execuție
+care   nu   se   regăseau   inițial   în   aceasta,   situație   în   care   autoritatea
+contractantă ar fi trebui să constate incidența prevederilor art. 134 alin.
+(6) din HG nr. 395/2016, potrivit cărora „În cazul în care ofertantul
+modifică   prin   răspunsurile   pe   care   le   prezintă   comisiei   de   evaluare
+potrivit dispozițiilor alin. (1) conținutul propunerii tehnice sau propunerii
+financiare, oferta sa va fi considerată inacceptabilă”.
+Consiliul reține că, în speță, nu puteau fi aplicabile prevederile art.
+134 alin. (7) din HG nr. 395/2016, potrivit cărora „Prin excepție de la
+dispozițiile alin. (6), oferta va fi considerată admisibilă în măsura în care
+modificările operate de ofertant în legătură cu propunerea sa tehnică se
+încadrează în una din categoriile de mai jos:  
+   a) pot fi încadrate în categoria viciilor de formă; sau  
+     b) reprezintă corectări ale unor abateri tehnice minore, iar o
+eventuală   modificare   a   prețului   total   al   ofertei,   indusă   de   aceste
+Pagina 41 din 51
+
+corectări,   nu   ar   fi   condus   la   modificarea   clasamentului   ofertanților
+participanți la procedura de atribuire” deoarece lipsa procedurilor tehnice
+de execuție din propunerea tehnică nu poate fi considerată nici viciu de
+formă, motivat de faptul că informațiile lipsă (descrierea efectivă și
+amănunțită a lucrărilor) nu este susținută în mod neechivoc de alte
+informații  din oferta  depusă inițial și nici abatere  tehnică minoră ci
+reprezintă lipsa unor descrierii lucrărilor, solicitată cu titlu obligatoriu a fi
+prezentată în propunerea tehnică, situație reglementată de art. 137 alin.
+(3) lit. a) din HG nr. 395/2016 prin respingerea ofertei ca neconformă.
+
+Prin   urmare,   acceptarea   completării   propunerii   tehnice   a
+Asocierii ... SRL & ... SRL cu procedurile tehnice (și acestea extrem de
+sumare) după data limită de depunere a ofertelor a determinat apariția
+unui avantaj evident în favoarea respectivului ofertant, cu încălcarea
+prevederilor art. 209 alin. (2) din Legea nr. 98/2016, avantaj constând în
+transformarea ofertei Asocierii ... SRL & ... SRL dintr-o ofertă care nu
+respectă prevederile caietului de sarcini (situație reglementată de art.
+137 alin. (3) lit. a) din HG nr. 395/2016) într-o ofertă admisibilă și,
+ulterior, câștigătoare.
+În   ceea   ce   privește   susținerile   Asocierii   ...   SRL   &   ...   SRL   din
+răspunsul la solicitarea de clarificări, potrivit cărora procedurile tehnice
+de execuție ar trebui indicate de proiectant în cadrul contractului de
+proiectare și execuție, Consiliul subliniază faptul că, dacă ar fi considerat
+că este nelegală sau imposibil de îndeplinit cerința prezentării ÎN OFERTĂ
+a procedurilor tehnice de execuție, respectivul ofertant avea dreptul de a
+formula contestație, în termenul legal, prin care să solicite eliminarea
+cerinței.
+Or, Asocierea ... SRL & ... SRL nu a făcut obiecții privind cerința
+prezentării   procedurilor   tehnice   de   execuție   încă   de   la   momentul
+ofertării, situație în care, fie nu a observat cerința respectivă, fie a mizat
+pe superficialitatea și aparenta generozitate a comisiei de evaluare.
+Situația este identică și în ceea ce privește Planul de control al
+calității, verificări și încercări (PCCVI), acesta nefiind regăsit în oferta
+depusă în SEAP ci doar în completarea propunerii tehnice,, din anexa
+răspunsului la solicitarea de clarificări, acceptată în mod nelegal de către
+autoritatea   contractantă   cu   încălcarea   prevederilor   legale   anterior
+menționate.
+Mai mult, procedând la verificarea comparativă a celor două oferte
+(cea depusă de Asocierea ... SRL & ... SRL și cea depusă de contestator),
+Consiliul reține că societatea contestatoare a prezentat încă de la data
+depunerii   ofertelor   procedurile   tehnice   de   execuție,   acestea   fiind
+prezentate detaliat la pag. 96-154 din fișierul „Propunere tehnica partea
+1-semnat.pdf” și PCCVI (pag. 93-95 din același fișier), aspect din care
+rezultă că autoritatea contractantă nu a respectat, în etapa de evaluare,
+principiile tratamentului egal și nediscriminării, statuate la art. 2 alin. 2
+lit. a) și b) din Legea nr. 98/2016.
+În   cadrul   Hotărârii   din   10   octombrie   2013,   CJUE   s-a
+pronunțat în cauza C-336/12 astfel: 
+„31 Principiul egalității de tratament și obligația de transparență se opun
+oricărei negocieri între autoritatea contractantă și un ofertant în cadrul unei
+proceduri de atribuire a unor contracte de achiziții publice, ceea ce implică
+faptul că, în principiu, o ofertă nu poate fi modificată după depunerea sa nici la
+inițiativa   autorității  contractante,   nici  la  cea  a   ofertantului.  În  consecință,
+Pagina 43 din 51
+
+autoritatea contractantă nu poate solicita lămuriri unui ofertant a cărui ofertă
+apreciază că este imprecisă sau neconformă cu specificațiile tehnice din caietul
+de sarcini (a se vedea în acest sens Hotărârea din 29 martie 2012, SAG ELV
+Slovensko și alții, C 599/10, punctele 36 și 37).
+32 Curtea a precizat însă că articolul 2 din Directiva 2004/18 nu se
+opune ca datele referitoare la ofertă să poată fi corectate sau completate
+punctual, în special întrucât necesită în mod vădit o simplă clarificare sau
+pentru a înlătura erori materiale evidente (Hotărârea SAG ELV Slovensko și
+alții, citată anterior, punctul 40).
+
+33   Curtea   a   formulat   în   această   hotărâre   anumite   cerințe   care
+delimitează această posibilitate de a solicita în scris ofertanților o clarificare a
+ofertei lor.
+34 Mai întâi, o cerere de clarificare a unei oferte, care poate interveni
+numai   după   ce   autoritatea   contractantă   a   luat   cunoștință   de   ansamblul
+ofertelor, trebuie, în principiu, adresată în mod echivalent tuturor ofertanților
+care se află în aceeași situație (a se vedea în acest sens Hotărârea SAG ELV
+Slovensko și alții, citată anterior, punctele 42 și 43).
+35 În continuare, cererea trebuie să privească toate punctele ofertei care
+impun o clarificare (a se vedea în acest sens Hotărârea SAG ELV Slovensko și
+alții, citată anterior, punctul 44).
+36 În plus, această cerere nu poate conduce la prezentarea de către un
+anumit ofertant a ceea ce în realitate ar fi o nouă ofertă (a se vedea în acest
+sens Hotărârea SAG ELV Slovensko și alții, citată anterior, punctul 40).
+37 În sfârșit, în general, în cadrul exercitării puterii de apreciere de care
+dispune în ceea ce privește posibilitatea de a solicita candidaților să își clarifice
+oferta, autoritatea contractantă trebuie să trateze candidații în mod egal și
+loial, astfel încât să nu se poată considera, la finalizarea procedurii de selecție
+a ofertelor și în raport cu rezultatul acesteia, că solicitarea de clarificare a
+favorizat sau a defavorizat nejustificat candidatul sau candidații cărora le a fost
+adresată (Hotărârea SAG ELV Slovensko și alții, citată anterior, punctul 41)”. 
+În cauza C 42/13 CJUE la considerentele 42  - 44 a reținut că:
+ „42. Or, Curtea a hotărât deja că unei autorități contractante îi revine
+sarcina de a respecta cu strictețe criteriile pe care ea însăși le-a stabilit, astfel
+încât   aceasta   ar   avea   obligația   să   excludă   de   la   o   achiziție   un   operator
+economic care nu a comunicat un înscris sau o informație a cărei prezentare
+era impusă în documentele acestei achiziții sub sancțiunea excluderii (a se
+vedea în acest sens Hotărârea Manova, C 336/12, EU:C:2013:647, punctul
+40). 
+43. Această obligație strictă ce revine autorităților contractante derivă
+din principiul egalității  de tratament  și din obligația de transparență  care
+decurge de aici, cărora le sunt supuse autoritățile contractante, în temeiul
+articolului 2 din Directiva 2004/18. 
+44. Astfel, pe de o parte, principiul egalității de tratament impune ca
+ofertanții să dispună de aceleași șanse în formularea ofertelor lor și implică,
+așadar, ca aceste oferte să fie supuse acelorași condiții pentru toți ofertanții.
+Pe de altă parte, obligația de transparență are ca scop să garanteze absența
+riscului de favoritism și de arbitrar din partea autorității contractante. Aceasta
+implică formularea tuturor condițiilor și modalităților procedurii de atribuire în
+mod clar, precis și neechivoc în anunțul de participare sau în caietul de sarcini,
+astfel încât, în primul rând, să permită tuturor ofertanților informați în mod
+rezonabil  și obișnuit  de  diligenți  să le  înțeleagă   conținutul  exact  și  să le
+interpreteze   în   același   mod   și,   în   al   doilea   rând,   să   permită   autorității
+contractante să verifice efectiv dacă ofertele prezentate de ofertanți corespund
+criteriilor care guvernează contractul în cauză”.
+Pagina 45 din 51
+
+În ceea ce privește restul criticilor sesizate de către ......... SA cu
+privire la oferta Asocierii ......... SRL, Consiliul apreciază ca fiind de
+prisos   analiza   acestora,   atâta   vreme   cât,   din   cauza   motivelor
+antemenționate, nu poate fi înlăturat caracterul de neconformitate al
+acestei oferte, rezultatul fiind același.
+Luând   în   considerare   aspectele   de   fapt   și   de   drept   expuse   în
+considerente, în temeiul  art. 26 alin. (2) și alin. (5) din Legea nr.
+101/2016, Consiliul va admite contestația formulată de ......... SA în
+contradictoriu cu ...., iar, pe cale de consecință, va respinge cererea de
+
+intervenție formulată de ... SRL, va anula raportul procedurii și oricare
+alte documente subsecvente acestuia, în partea care privește oferta
+Asocierii ......... SRL și va dispune reevaluarea acestei oferte, de la etapa
+evaluării propunerilor tehnice, cu respectarea considerentelor prezentei,
+a documentației de atribuire și a legislației specifice în materia achizițiilor
+publice, în termen de 10 zile de la primirea prezentei.
+Ca   urmare   a   admiterii   contestației   formulată   de   .........   SA   și
+observând   că   există   cheltuieli   avansate   de   acesta   în   soluționarea
+contestației, Consiliul consideră întemeiată și admite, în conformitate cu
+art. 26 alin. (9) din Legea nr. 101/2016, solicitarea contestatorului de
+obligare a autorității contractante, aflată în culpă, la plata cheltuielilor
+efectuate de acesta în cursul soluționării contestației.
+Cheltuielile reclamate sunt în sumă de 96.781,68 lei și reprezintă
+„onorariu” avocat prestat de ......... facturate cu factura  nr. SCA880 din
+21.08.2025, în cuantum de 44.046,33 lei, însoțită de ordinul de plată
+aferent și factura  nr. SCA911 din 15.09.2025, în cuantum de 52.735,35
+lei, însoțită de ordinul de plată aferent.
+Analizând   temeinicia   pretențiilor   contestatorului,   referitor   la
+cuantumul cheltuielilor de judecată solicitate, reprezentând „onorariu”
+avocat, Consiliul apreciază că se impune reducerea onorariului de avocat
+care,   conform   înscrisurilor   depuse   la   dosar,   însumează   suma   de
+96.781,68 lei, la suma de 5.000 lei, din următoarele considerente: 
+Având   în   vedere   faptul   că   procedura   de   soluționare   este   o
+procedură  scrisă,  potrivit  art.  21  alin.  (1) din Legea  nr.  101/2016,
+facultativă și gratuită potrivit art. 24 alin. (4) din Constituția României și
+având în vedere faptul că în speță nu s-au dispus audieri sau depunerea
+de concluzii orale, rezultă că, cheltuielile de judecată cuprind orice alte
+cheltuieli pe care partea care a câștigat procesul va dovedi că le-a făcut,
+cum sunt onorariile de avocat, costul dactilografierii actelor depuse la
+dosar etc., dar, numai cele strict necesare pentru buna desfășurare a
+soluționării contestației. 
+Potrivit prevederilor art. 68 din Legea nr. 101/2016 coroborat cu
+art. 451 alin. (2) C.p.c., „Instanța poate, chiar și din oficiu, să reducă
+motivat   partea   din   cheltuielile   de   judecată   reprezentând   onorariul
+avocaților, atunci când acesta este vădit disproporționat în raport cu
+valoarea   sau   complexitatea   cauzei   ori   cu   activitatea   desfășurată   de
+avocat,   ținând   seama   și   de   circumstanțele   cauzei.   Măsura   luată   de
+instanță nu va avea niciun efect asupra raporturilor dintre avocat și
+clientul său” și, ținând seama de serviciile prestate de Ungureanu Iulia –
+Cabinet de avocat, Consiliul, analizând prin prisma textului reprodus
+cererea de plată a sumei de 96.781,68 lei, reprezentând  „onorariu”
+avocat suportat de contestator cu ocazia soluționării contestației sale la
+Pagina 47 din 51
+
+Consiliu, apreciază că respectiva sumă este nepotrivit de mare în raport
+de munca depusă de avocat, dar și de complexitatea cauzei.
+  Astfel fiind, raportat la gradul relativ scăzut de complexitate a
+aspectelor reclamate în această cerere și la volumul de muncă pe care l-
+a presupus redactarea ei, Consiliul urmează a reduce cuantumul sumei
+pretinse cu titlu de cheltuieli de soluționare la 5.000 lei, față de care
+autoritatea contractantă va fi obligată la plată către contestator.
+Consiliul   va   da   eficiență   dispozițiilor   art.   451   alin.   (2)   C.p.c.
+coroborat cu art. 68 din Legea nr. 101/2016, în sensul că va reduce
+
+onorariul de avocat, considerând că prin aceasta nu se intervine în
+convenția încheiată între contestator, în calitate de client, și avocat,
+pentru că în acest fel ar fi încălcate dispozițiile art. 1270 C civil.
+Se apreciază, totodată, că nu se aduce atingere nici dispozițiilor
+Legii nr. 51/1995, potrivit cărora avocații sunt liberi ca prin înțelegere cu
+clienți lor să stabilească onorarii, întrucât Consiliul nu face altceva decât
+să stabilească, în cadrul raportului juridic procesual civil, cheltuielile de
+judecată, astfel că, prin aplicarea dispozițiilor art. 68 din Legea nr.
+101/2016 raportat la art. 451 alin. (2) C.p.c., Consiliul nu cenzurează
+contractul de asistență juridică, ci doar stabilește în mod corespunzător
+cuantumul   cheltuielilor   de   judecată,   în   raport   de   munca   depusă   de
+avocat,   complexitatea   cauzei,   valoarea   pricinii,   proporționalitatea
+onorariului față de volumul de muncă presupus de pregătirea apărării în
+această cauză. 
+Referitor la munca depusă de avocat, s-a constatat că, în acest
+stadiu procesual, volumul de muncă al avocatului, presupus de pregătire
+a apărării, a constat în formularea unei contestații pe care a înaintat-o
+prin corespondență și formulat concluzii scrise cu privire la punctul de
+vedere   al   autorității   contractant;   astfel,   în   opinia   Consiliului   este
+inechitabil ca, la aprecierea onorariului ce se cuvine avocatului, să nu se
+aibă în vedere și munca depusă de acesta în raport cu pregătirea sa
+profesională. 
+Pentru   aceste   considerente,   Consiliul   apreciază   că   reducerea
+onorariului   de   la   96.781,68     lei   la   5.000   lei,   este   mai   mult   decât
+suficientă, fiind în concordanță cu elementele mai sus arătate, respectiv,
+complexitatea cauzei și, nu în ultimul rând, munca depusă de avocat, în
+condițiile   art.   451   C.p.c.,   contestatorul   fiind   îndreptățit   să   solicite
+cheltuielile de judecată, care în ceea ce privește onorariul de avocat, în
+prezenta cauza, poate fi diminuat de către Consiliu, în condițiile art. 68
+din Legea nr. 101/2016 coroborat cu art. 451 alin. (2) C.p.c. 
+Dispozițiile art. 451 C.p.c. care reglementează posibilitatea părții
+căreia   i   s-a   admis   cererea   să   solicite   părții   în   culpă   cheltuielile   de
+judecată, sunt în concordanță și cu jurisprudența CEDO, conform căreia
+un reclamant poate obține rambursarea cheltuielilor sale de judecată în
+măsura   în   care   li   s-au   stabilit   realitatea,   necesitatea   și   caracterul
+rezonabil.
+Consiliul reține că, prin angajarea unui apărător, nu trebuie să se
+urmărească împovărarea părților căzute în pretenții, scopul exercitării
+dreptului la apărare fiind acela de a se valorifica pretențiile legale, iar, nu
+suplimentarea cheltuielilor de judecată.
+Totodată, se reține că reducerea cheltuielilor de soluționare la suma
+de 5.000 lei este în concordanță cu Hotărârea nr. 230/12.06.2025 a
+Uniunii Naționale a Barourilor din România care stabilește, la punctul
+Pagina 49 din 51
+
+2.6.7, că onorariul minimal recomandat în cauzele care au ca obiect
+contestații în fața CNSC este 3.200 lei.
+Pentru aceste motive
+în baza documentelor depuse de părți,
+CONSILIUL NAȚIONAL DE SOLUȚIONARE A CONTESTAȚIILOR
+DECIDE: 
+
+Admite contestația formulată de ......... SA în contradictoriu cu
+JUDEȚUL [localitate], iar, pe cale de consecință, respinge cererea de
+intervenție formulată de ... SRL, anulează raportul procedurii și oricare
+alte documente subsecvente acestuia, în partea care privește oferta
+Asocierii ......... SRL și dispune reevaluarea acestei oferte, de la etapa
+evaluării propunerilor tehnice, cu respectarea considerentelor prezentei,
+a documentației de atribuire și a legislației specifice în materia achizițiilor
+publice, în termen de 10 zile de la primirea prezentei.
+Obligă   autoritatea   contractantă   la   plata   sumei   de   5.000   lei,
+reprezentând cheltuieli de soluționare.
+Obligatorie.
+Împotriva prezentei decizii se poate formula plângere în termen de
+10 zile de la comunicare.
+ 
+Complet de soluționare a contestațiilor 
+în domeniul achizițiilor publice:
+Consilier de soluționare
+.........
+PREȘEDINTE
+.........
+Consilier de soluționare
+.........
+                       Redactat practicaua
+deciziei
+                                                                                                                       ...
+Redactată în 5 (cinci) exemplare originale, conține 29 (douăzecișinouă) pagini
+Pagina 51 din 51

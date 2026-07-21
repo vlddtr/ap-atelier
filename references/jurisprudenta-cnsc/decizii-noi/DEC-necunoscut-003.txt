@@ -1,0 +1,936 @@
+DECIZIE CNSC (din dosarele firmei, anonimizată; staging — neindexată încă)
+Sursă: BO2025_3812 decizie 4579_C5_2025 (ID 39741).pdf
+
+În conformitate cu prevederile art. 14 alin. (2) și ale art. 27
+alin. (1) din Legea nr. 101/2016 privind remediile și căile de atac
+în   materie   de   atribuire   a   contractelor   de   achiziție   publică,   a
+contractelor sectoriale și a contractelor de concesiune de lucrări
+și   concesiune   de   servicii,   precum   și   pentru   organizarea   și
+funcționarea Consiliului Național de Soluționare a Contestațiilor,
+cu   modificările   și   completările   ulterioare,   Consiliul   adoptă
+următoarea
+DECIZIE
+Nr. .../.../... 
+Data: ...
+Prin contestația înregistrată la Consiliul Național de Soluționare a
+Contestațiilor   cu   nr.   ...,   formulată   de  ...SRL,   cu   sediul   social   în  ...,
+înregistrată   la   Registrul   Comerțului   sub   nr.  ...,   având   CUI  RO   ...,
+reprezentată legal prin administrator ... și convențional prin avocat ..., cu
+sediul în ..., unde își alege sediul și solicită comunicarea tuturor actelor,
+împotriva rezultatului procedurii de atribuire, comunicat prin adresa nr.
+66255/07.11.2025,   și   a   raportului   procedurii   nr.   66251/07.11.2025,
+emise de  ...,  cu sediul în  ...,  în calitate de autoritate contractantă, în
+cadrul licitației deschise, organizată în vederea atribuirii contractului de
+achiziție   publică   de   furnizare   având   ca   obiect  «Creșterea   eficienței
+energetice   și   a   gestionării   inteligente   a   energiei   în   infrastructura
+sistemului de iluminat public a ..., zona Sud, jud. ... pentru „Furnizarea
+aparatelor de iluminat stradal cu Led printr-un sistem de telegestiune”»,
+s-au solicitat următoarele: 
+-   anularea   comunicărilor   rezultatului   procedurii   și   a   raportului
+procedurii,   din   care   rezultă   că,   în   mod   nelegal,   oferta   depusă   de
+asocierea   ...   SA   –   ...   SRL   a   fost   declarată   admisibilă,   conformă   și
+câștigătoare,   a   tuturor   actelor   care   au   stat   la   baza   emiterii   acestor
+documente, precum și a actelor subsecvente;
+-   anularea   deciziei   din   care   rezultă   că,   în   mod   nelegal,   oferta
+depusă de asocierea ... SA – ... SRL a fost declarată admisibilă, conformă
+și câștigătoare;
+-   anularea   comunicărilor   rezultatului   procedurii   și   a   raportului
+procedurii, din care rezultă că, în mod nelegal, a fost acordat punctaj
+maxim asocierii ... SA – ... SRL pentru factorul eficiența energetică a
+proiectului,   a   tuturor   actelor   care   au   stat   la   baza   emiterii   acestor
+documente, precum și a actelor subsecvente;
+Pagina 1 din 20
+
+-   obligarea   autorității   contractante   la   reluarea   procedurii   prin
+reevaluarea ofertei depusă de asocierea ... SA – ... SRL;
+-   anularea   deciziei   din   care   rezultă   că,   în   mod   nelegal,   oferta
+contestatoarei a fost clasată pe locul II;
+-   obligarea   autorității   contractante   la   plata   cheltuielilor   pentru
+soluționarea contestației.
+Prin adresa nr. ..., înregistrată la CNSC sub nr. ..., asocierea ... SA
+&   ...  SRL,   prin   liderul  asocierii  ...   SA,  cu   sediul   în   ...,  înregistrată  la
+Registrul Comerțului sub nr. ..., având CUI RO ..., reprezentată legal de
+director general ... și convențional de SCA ..., cu sediul în ..., a formulat
+cerere de intervenție accesorie în sprijinul autorității contractante și a
+solicitat:
+-   în   principal,   respingerea   ca   tardivă   a   contestației   formulată   de
+...SRL;
+- în subsidiar, respingerea ca neîntemeiată a contestației formulată
+de ...SRL;
+- obligarea ...SRL la plata cheltuielilor de judecată ocazionate de
+prezenta cerere de intervenție.
+Contestația și cererea  de intervenție  vor fi soluționate împreună,
+având în vedere dispozițiile art. 67 alin. (1) și art. 123 alin. (1) din Codul
+de procedură civilă. 
+CONSILIUL NAȚIONAL DE SOLUȚIONARE A CONTESTAȚIILOR,
+asupra cauzei de față, constată următoarele:
+Consiliul a fost legal sesizat și este competent, potrivit dispozițiilor
+art.   12   alin.   (1)   din   Legea   nr.   101/2016,   să   soluționeze   contestația
+înregistrată la Consiliu cu nr. 81150/18.11.2025, prin care ...SRL solicită
+cele menționate în partea introductivă a deciziei. 
+Contestatoarea   realizează   un   istoric   al   procedurii   și   detaliază
+motivele  de  nelegalitate  și netemeinicie cu privire  la evaluarea  ofertei
+depusă de asocierea ... (LEADER) – ....
+Arată   că   oferta   depusă   de   asocierea   ...   este   neconformă   prin
+raportare la prevederile documentației de atribuire.
+Din cuprinsul comunicării privind rezultatul procedurii de atribuire,
+înregistrată   cu   nr.   66255/07.11.2025   și   din   raportul   procedurii,
+înregistrat cu nr. 66255/07.11.2025, rezultă următoarele neconformități:
+Oferta depusă de asocierea câștigătoare se impunea a fi declarată
+ca   fiind   neconformă,   în   temeiul   art.   137   alin.   (3)   lit.   a)   din   HG   nr.
+395/2016   pentru   neîndeplinirea   unor   cerințe   din   documentația   de
+atribuire   -   oferta   asocierii   ...   nu   respectă   puterile   maxime   instalate
+impuse prin documentația de atribuire.
+Prezintă un extras din fișa de date, respectiv, secțiunea IV. 4. 1
+modul de prezentare al propunerii tehnice, din care rezultă că ofertanții
+2
+
+aveau obligația de a prezenta calculele pentru fiecare stradă din anexa
+nr. 1.
+Pentru   fiecare   tip   de   echipament,   ofertanții   au   obligația   de   a
+completa formularele F5, fișele tehnice (anexate la caietul de sarcini), în
+formulare   se   va   face   o   descriere   completă   a   echipamentelor   care
+urmează   a   fi   furnizate,   nu   se   acceptă   expresii   precum   „Conform"
+„Identic",   „Da",   sau   copierea   integrală   a   cerinței   pentru   fiecare
+specificație, în caz contrar, oferta va fi declarată neconformă. Ofertanții
+au   fost   obligați   să   atașeze   fișele   tehnice/paginile   de   catalog   ale
+producătorului   și   să   demonstreze   corespondența   cu   cerințele   tehnice.
+Ofertele, ale căror formulare F5 nu conțin descrierea completă sau nu
+răspund   cerințelor   minime   ale   echipamentelor   solicitate   precum   și   a
+modului lor de completare, vor fi declarate neconforme.
+Autoritatea   contractantă   avea   obligația   respectării   propriei
+documentații   de   atribuire,   respectiv   prevederile   fișei   de   date   care
+impuneau: ofertele, ale căror formulare F5 nu conțin descrierea completă
+sau nu răspund cerințelor minime ale echipamentelor solicitate precum și
+a modului lor de completare, vor fi declarate neconforme.
+Oferta depusă de asocierea câștigătoare se impunea a fi declarată
+ca   fiind   neconformă,   în   temeiul   art.   137   alin.   (3)   lit.   a)   din   HG   nr.
+395/2016   pentru   neîndeplinirea   unor   cerințe   din   documentația   de
+atribuire - oferta asocierii ... nu respectă prevederile caietului de sarcini
+cu privire la puterile minime utilizate pentru aparatele de iluminat.
+Conform paginii 11/26 a caietului de sarcini, document obligatoriu a
+fi   respectat   în   întocmirea   ofertei   tehnice   este   stipulat:   aparatele   de
+iluminat propuse vor avea un design modem, cu posibilitatea de selecție
+a mărimii carcasei pentru wattaje diferite. Nu se vor oferta și nu se vor
+utiliza în calcule aparate cu puteri mai mici de 20W indiferent de cât de
+performant este fluxul luminos al acestora.
+Așa cum poate fi observat, cu ușurință, încă din analiza efectuată cu
+ocazia criticii numărul 1, oferta asocierii ... – ... conține aparate cu puteri
+instalate   de   16.2   și   18.7W   inferioare   pragului   minim   stabilit   de   20W,
+maxim   145.5   W   pentru   aparatul   de   iluminat   echipat   cu   modul   de
+telegestiune (1.5W fiind puterea instalată a controllerului).
+În   mod   logic,   aritmetic,   scăderea   puterii   instalate   nominale   sub
+pragul minim stabilit de 20W a atras un coeficient De superior ofertei
+depuse   de   asocierea   ...,   prin   comparație   directă   cu   oferta   depusă   de
+societatea sa, care a utilizat un aparat de iluminat cu puterea de 20W
+(Referinta   Urbio   Mesina   20W   din   oferta   sa   tehnică)   și   pentru   care
+prezentă mai jos un extras din raportul de testare fotometrică emis de un
+organism acreditat.
+Ori, acceptarea unor aparate de iluminat cu puteri instalate mai mici
+decât pragul minim stabilit reprezintă o evidentă încalcare a principiului
+tratamentului   egal,   oferta   depusa   de   societatea   sa   neputând   fi
+competitivă   în   raport   cu   coeficientul   De,   tocmai   pentru   ca   aceasta
+respectă documentația de atribuire. 
+Pagina 3 din 20
+
+În mod artificial și cu încălcarea documentației de atribuire, oferta
+depusă de asocierea ... propune aparate de iluminat cu puteri instalate
+inferioare pragului minim stabilit cu scopul de a obține un coeficient De
+superior   și,   implicit,   obținerea   unui   punctaj   superior   al   criteriului   de
+evaluare.
+Pe   cale   de   consecință,   autoritatea   contractantă   era   obligată   să
+respecte   propria   documentație   de   atribuire,   care   a   dobândit   forța
+obligatorie   atât   pentru   aceasta,   cât   și   pentru   ofertanți,   respectiv
+prevederile   caietului   de   sarcini   care   stipulau:   ofertele   care   nu
+demonstrează   îndeplinirea   tuturor   parametrilor   luminotehnici   pentru
+datele de intrare din Anexa nr. 1, vor fi declarate neconforme, din punct
+de vedere tehnic.
+Oferta depusă de asocierea câștigătoare se impunea a fi declarată
+ca   fiind   neconformă,   în   temeiul   art.   137   alin.   (3)   lit.   a)   din   HG   nr.
+395/2016   pentru   neîndeplinirea   unor   cerințe   din   documentația   de
+atribuire - oferta asocierii ... nu respectă modalitatea de prezentare a
+calculelor   luminotehnice.   Implicit,   coeficientul   De   calculat,   criteriu   de
+evaluare   în   cadrul   procedurii,   este   diminuat   în   mod   artificial,   cu
+nerespectarea   documentatiei   de   atribuire.   Practic,   punctajul   a   fost
+acordat în baza unor informații eronate.
+Caietul   de   sarcini   stabilește   regulile   de   întocmire   ale   calculelor
+luminotehnice,   de   a   caror   rezultate   este   strâns   legată   calcularea
+coeficientului De, factor de evaluare în cadrul procedurii de atribuire.
+Punctul 4.2.1 din Caietul de sarcini stabilește: Ofertanții au obligația
+de a prezenta calculele pentru fiecare stradă din anexa nr. 1, realizate de
+către un speclalist în iluminat (Conform cod COR 214237), pentru regimul
+de funcționare 100% cât și pentru regimurile de funcționare în dimming.
+Clasele de iluminat sunt caracteristice claselor de drum M5 și M6, așa
+cum   sunt   definite   în   standardul   SR   EN13201   -   2/2015.   Aparatele   de
+iluminat tip LED vor funcționa în regim de 100 % pentru un număr de
+1900 ore, iar pentru un număr de 2250 ore vor fi dimate în regim de 70
+% a fluxului luminos.
+Preliminar,   arătă   faptul   că   autoritatea   contractantă   a   stabilit,   cu
+exactitate, regimul de funcționare al aparatelor de iluminat: 1900 de ore
+în regim de funcționare la puterea instalată nominală (100%) și 2250 de
+ore în regim dimat, cu 30% mai puțin față de puterea instalată nominală
+(70%).
+Prin   comunicarea   privind   rezultatul   procedurii   66255/07.11.2025,
+autoritatea contractantă îi comunică faptul că oferta asocierii ... a fost
+declarată câștigătoare, obținând un punctaj superior ofertei depuse de
+societatea sa.
+Ori,   contrar   celor   impuse,   în   mod   ferm   și   explicit   de   caietul   de
+sarcini, din analiza documentului emis de autoritatea contractantă rezulta
+următoarele:
+4
+
+Aparatul   de   iluminat   AIL   12   ofertat   are   două   puteri   instalate   în
+regim de funcționare 100%, fapt imposibil din punct de vedere tehnic.
+În   mod   artificial,   prin   calculele   luminotehnice   efectuate,   ...   a
+diminuat regimul de funcționare al aparatului de iluminat AIL 12 pe unele
+tronsoane, de la 18.7W la 16.2W cu scopul de a obține un coeficient De
+superior.   Ori,   aceasta   practică   este   interzisă   prin   documentația   de
+atribuire,  care  a impus ca simulările luminotehnice  să fie efectuate  în
+regim de funcționare 100% pentru 1900 ore și 70% pentru 2250 ore.
+Prin diminuarea artificială a puterii instalate nominale (regimul de
+funcționare   100%),   calculul   luminotehnic   este   efectuat   pe   acele
+tronsoane   cu   doar   86.63%   din   puterea   nominală,   în   contradicție   cu
+documentația de atribuire care a impus ca simulările luminotehince să fie
+efectuate în regim de funcționare 100%.
+În mod implicit, pentru aceleași tronsoane, calculele luminotehnice
+care   trebuiau   efectuate   în   regim   de   funcționare   dimat   (70%   din
+capacitatea   nominală)   sunt   efectuate   cu   doar   60.64%   din   capacitatea
+nominală, în totală contradicție cu documentația de atribuire.
+În mod similar, AIL 7 are două puteri instalate nominale (în regim
+100%) respectiv 38.8W și 47W. Cu aceeași ignorare a documentației de
+atribuire, pentru tronsonul de strada Traian Mosoiu este utilizat aparatul
+AIL 7  cu o putere  instalată  de 38.8W  în regim de  funcționare  100%,
+putere redusă de la 47W, cât este, de fapt, puterea nominală a aparatului
+de  iluminat  AIL 7  ofertat.  Astfel, în loc de 100%,  cât era  impus prin
+documentația de atribuire, calculele luminotehnice au fost efectuate cu
+doar 82.55%, în regim nedimat, puterea instalată nominală fiind redusă
+artificial   cu   scopul   de   a   obține   un   coeficient   De   superior,   factor   de
+evaluare cu punctaj în cadrul procedurii de atribuire.
+Deși solicitarea explicită a autorității contractante a fost ca regimul
+de funcționare pentru 1900 ore să fie de 100%, oferta ... prezintă, pentru
+acest regim de funcționare, aparate deja dimate, pe care le mai dimează
+odată, în simulările luminotehnice pentru regim dimat cu 70%.
+Aceasta practică a condus implicit la calcularea unui coeficient De
+superior celei calculat prin oferta sa, dar calculat eronat și pe fundamente
+false, pervertite, în contradicție cu documentația de atribuire.
+Prin acceptarea  acestei oferte,  autoritatea contractantă  încalcă în
+mod   grav   principiul   tratamentului   egal   al   ofertanților,   în   raport   cu
+societatea   sa,   care   a   înțeles   să   respecte   integral   documentația   de
+atribuire.
+În probațiune, au fost depuse înscrisuri. 
+Punctul de vedere nr. ..., a fost înregistrat la CNSC cu nr. ..., iar
+dosarul achiziției a fost înregistrat la Consiliu cu nr. ....
+Prin   punctul   de   vedere,  ...  a   solicitat   respingerea   contestației
+formulată de ..., în temeiul art. 26 aliniat (6) din Legea 101/2016, pentru
+următoarele motive: 
+Subliniază că demersul actual reprezintă astfel, o nouă sesizare a
+Consiliului cu privire la aspecte ce decurg din aceeiași procedură, fapt pe
+care l-a adus la cunoștința Consiliului.
+Pagina 5 din 20
+
+Arată că în urma reevaluării ofertei depuse de asocierea ... SA & ...
+SRL   sub   aspectul   informațiilor   contestate   și   ținând   cont   de   cele
+consemnate de comisia de evaluare în procesul verbal de evaluare nr. 6/
+35214/02.06.2025, comisia de evaluare a decis în unanimitate că oferta
+este conformă din punct de vedere tehnic și are un punctaj de 60 pct.
+pentru factorii de evaluare de natură tehnică.
+Referitor la critica faptului că oferta  asocierii ... - ...  nu respectă
+puterile   maxime   instalate   impuse   prin   documentația   de   atribuire,
+precizează următoarele:
+În data de 03.04.2025 autoritatea contractantă a publicat răspunsul
+consolidat   2   cu   nr.   22017/03.04.2025   la   solicitările   de   clarificare
+formulate   de   un   operator   economic   prin   adresa   21343/01.04.2025,
+răspuns în cadrul căruia „vă solicitam să clarificați, daca pentru realizarea
+calculelor luminotehnice este impus un fluxul luminos /puterea aparatelor
+de iluminat (minim/maxim), ținând cont că în Anexa 1, în format. excel,
+aceste   date   nu   sunt   completate,   sau   rămâne   la   latitudinea   fiecărui
+ofertant   să-și   dimensioneze   propria   ofertă   tehnică,   atât   timp   când
+respectă clasele de iluminat minim solicitate în cadrul acestei ANEXA și
+nedepășind valoarea de 399MWh/an, pentru consumul de energie.
+Autoritatea contractantă susține că a răspuns următoarele:
+„În   Anexa   nr.   1   nu   sunt   impuse   fluxurile,   puterile   aparatelor   de
+iluminat. Acestea vor rezulta în urma realizării calculelor luminotehnice,
+atât   timp   cât   energia   consumată   per   întreaga   investiție   nu   depășește
+valoarea de 399 MWh/an și sunt respectate clasele de iluminat minim
+solicitate în cadrul Anexei nr. 1."
+Prin răspunsul consolidat la pct nr. 1, a menționat că nu am impus
+valori prestabilite  în Anexa  nr.  1  - parte  a documentației  de  atribuire
+privind puterea sau fluxul luminos pentru aparatele de iluminat. Valorile
+acestor parametrii sunt determinate pe baza calculelor luminotehnice, cu
+condiția ca să fie respectate clasele de iluminat minim solicitate, respectiv
+să   nu   fie   depășit   consumul   de   399   MWh/an   pentru   întreg   sistem   ce
+urmează implementat pe baza acestui proiect.
+În aceasta situație sunt valabile orice valori ale puterii aparatelor
+inclusiv valoarea de 157,1 W putere nominală pentru aparatul de iluminat
+Izylum   3/5308   cu   80   LED-uri,   amperaj   670mA,   produs   prezentat   în
+documentația tehnică la pag. 819 (pag. 58, Vol. II).
+Coloana AU "Consum energie (MWh/an)" din Anexa nr. 1 indică un
+consum total anual sub limita maxim admisă de 399 MWh/an.
+Solicită respingerea contestației.
+Referitor   la   critica   care   vizează   oferta   ...,   care   nu   respectă
+prevederile   caietului   de   sarcini   cu   privire   la   puterile   minime   utilizate
+pentru aparatele de iluminat, precizează următoarele:
+Și   în   aceasta   situație   se   aplică   efectul   răspunsului   publicat   de
+autoritatea   contractantă   în   cadrul   răspunsuri   consolidate   cu   nr.
+6
+
+22017/03.04.2025 la solicitările de clarificare formulate de un operator
+prin   adresa   nr.   21343/01.04.2025,   prin  care   s-a  menționat,   că  nu  se
+impun   valori   privind   puterea   sau   fluxul   luminos   pentru   aparatele   de
+iluminat.
+Valorile   acestor   parametrii   sunt   determinate   pe   baza   calculelor
+luminotehnice, cu condiția ca să fie respectate clasele de iluminat minim
+solicitate,  respectiv să nu fie depășit consumul de 399MWh/an pentru
+întreg sistem ce urmează implementat pe baza acestui proiect, astfel este
+acceptată și valoarea de:
+- 16,2W putere nominală pentru aparatul de iluminat Izylum 1/5301
+cu   25   LED-uri,   amperaj   200mA,   produs   prezentat   în   documentația
+tehnică la pag. 799 (pag. 38 din vol. II) -18,7W putere nominală pentru
+aparatul   de   iluminat   Izylum   1/5301   cu   20   LED-uri,   amperaj   300mA,
+produs prezentat în documentația tehnică la pag. 779 (pag. 18 din vol.
+II)
+Remarcă   că   și   contestatoarea   s-a   folosit   de   această   prevedere,
+propunând  pentru   mai multe  străzi  valoarea  puterii   de  19,3W  valoare
+care în mod clar este mai mică decât cea de 20W prevăzută în caietul de
+sarcini.
+Nefiind specificat faptul ca răspunsul publicat în cadrul sesiunii de
+clarificări face referire numai la fluxurile și puterile maxime sau minime,
+efectul   acestuia   se   aplica   la   toate   cerințele   privind   valorile   puterilor
+menționate în oferte, motiv pentru care solicită respingerea contestației.
+Referitor  la critica vizând aparatul de iluminat nr. 12  care  are  o
+putere   instalată   nominală   declarată   de   18.7   W   pe   unele   dintre
+tronsoanele de stradă modernizate și de 16.2W pe alte tronsoane (...),
+precizează următoarele:
+Analiza   ofertelor   s-a   efectuat   în   mod   corect   respectând   cerințele
+documentației   de   atribuire,   documentație   din   care   fac   parte   conform
+legislației,   pe   lângă   documentele   publicate   inițial   și   răspunsurile   la
+clarificări și eventualele măsuri de remediere.
+Aspectul analizat a fost tranșat și prin Decizia nr. 377/CA/2025-R
+din data de 30.09.2025, pronunțată de Curtea de Apel Oradea, în dosarul
+nr.   439/35/CA/2025,   care   a   stabilit   că   atât   analiza   autorității,   cât   și
+calculele prezentate de ofertant sunt corecte.
+Aprecierile   contestatoarei   privind   utilizarea   aceluiași   aparat   cu   2
+puteri diferite sunt apreciate ca forțate deoarece se poate vedea foarte
+ușor în secțiunea "Denumire aparat de iluminat" că este vorba de două
+aparate diferite. Arată că și în privința ultimei critici, contestatoarea face
+o serie de aprecieri privitoare  la aparatele ofertate. Ofertanții au avut
+libertatea de a optimiza puterile aparatelor astfel încât să obțină o soluție
+eficientă energetic care să respecte condițiile impuse de standard pentru
+străzile prezente în procedură.
+Prin adresa nr. ...., înregistrată la CNSC sub nr. ..., asocierea ... SA
+& ... SRL, prin liderul asocierii ... SA,  a formulat  cerere de intervenție
+accesorie în sprijinul autorității contractante și a solicitat cele indicate în
+partea introductivă.
+Pagina 7 din 20
+
+Susține   tardivitatea   contestației   ...SRL   Arată   că   termenul   de
+contestare este expres prevăzut expres de legiuitor și începe să curgă de
+la data luării la cunoștință a actului autorității contractante considerat
+nelegal, respectiv data comunicării adresei de comunicare a rezultatului
+și a raportului procedurii.
+Având în vedere faptul că legiuitorul nu a prevăzut nicio excepție de
+la   modalitatea   de   calcul   a   acestui   termen,   contestatoarea   nu   poate
+invoca ulterior, alte critici cu privire la modul de evaluare, pe care nu a
+înțeles să le conteste în cadrul contestației nr. ....
+Invocarea   criticilor   ce   fac   obiectul   prezentei   contestații,   pentru
+prima   dată   (nefiind   critici   prezentate   în   cadrul   Contestației   nr.   ...),
+reprezintă un demers judiciar tardiv, exercitat cu depășirea termenului
+legal prevăzut de art. 8 alin. (1) din Legea 101/2016.
+Referitor la puterile minime/maxime utilizate pentru aparatele de
+iluminat (punctele 1 și 2 din contestație) în cadrul procedurii nu sunt
+impuse   puteri   minime   sau   maxime   ale   aparatelor   de   iluminat,   cum
+susține în mod netemeinic contestatoarea.    
+Prin   răspunsul   la   solicitările   de   clarificări   nr.   22017/03.04.2025,
+autoritatea contractantă a stabilit în mod expres și fară echivoc că „nu
+sunt impuse fluxurile, puterile aparatelor de iluminat" și că acestea vor
+rezulta „în urma realizării calculelor luminotehnice".
+Autoritatea   a   arătat:   „în   Anexa   nr.   1   nu   sunt   impuse   fluxurile,
+puterile   aparatelor   de   iluminat.   Acestea   vor   rezulta   în   urma   realizării
+calculelor luminotehnice, atât timp cât energia consumată per întreagă
+investiție   nu   depășește   valoarea   de   399   MWh/an   și   sunt   respectate
+clasele de iluminat minim solicitate în cadrul Anexei nr. 1".
+Răspunsul   la   solicitările   de   clarificări   nr.   22017/03.04.2025   face
+parte   din   documentația   de   atribuire   și   este   obligatoriu   atât   pentru
+autoritatea contractantă cât și pentru ofertanți.
+Prin urmare, în cadrul documentației de atribuire nu există nicio
+cerință tehnică privind o putere minimă (ex. 20W) și nicio cerință tehnică
+privind o putere maximă, iar puterea aparatelor de iluminat nu este o
+condiție   de   conformitate,   ci   un   rezultat   al   calculelor   luminotehnice
+efectuate conform SR EN 13201.
+Puterile   aparatelor   ofertate   de   asociere   rezultă   din   calculele
+luminotehnice și respectă integral cerințele SR EN 13201.
+Arată   că   în   lipsa   unor   praguri   minime/maxime   impuse,   puterea
+aparatelor   de   iluminat   devine   un   parametru   variabil,   determinat   de
+parametrii   luminotehnici   necesari   fiecărei   străzi,   în   funcție   de
+caracteristicile   acesteia   (lățime   strada,   distanță   între   stâlpi,   înălțime
+montaj AIL etc.) și clasa de iluminat.
+Toate   aparatele   ofertate   îndeplinesc   parametrii   luminotehnici
+solicitați pe toate străzile, conform claselor de iluminat impuse, în cadrul
+8
+
+ofertei Asocierii fiind transmise calcule luminotehnice valide, verificabile
+și prezentate conform cerințelor din documentația de atribuire. 
+Cerință  esențială  impusă prin clarificări este  de un  consum  total
+anual < 399 MWh, iar oferta asocierii se încadrează mult sub limită.
+Clarificarea   stabilește   că   singura   limită   obligatorie   pentru   puteri
+este încadrarea în consumul energetic maxim admis de 399 MWh/an per
+întreaga investiție, iar oferta asocierii are un consum calculat de 239,09
+MWh/an (doar 60% din consumul maxim admis).
+Prin   urmare,   consumul   anual   rezultat   este   net   inferior   valorii
+maxime admise, iar oferta asocierii este complet conformă documentației
+din punct de vedere energetic.
+Rezultă din cele de mai sus că această critică este neîntemeiată,
+contestatoarea invocând cerințe ce nu erau în vigoare la data depunerii
+ofertelor,   fiind   înlăturată   prin   răspunsul   la   solicitările   de   clarificări   nr.
+22017/03.04.2025.
+Formulează apărări referitoare la calculele luminotrehnice (punctul
+3 din contestație).
+Profilul de calcul pentru fiecare tronson este diferit, iar utilizarea
+aceleiași   variante   de   aparat   pe   toate   străzile   ar   fi   condus   la
+subdimensionare și ar încalcă standardul SR EN 13201.
+Nu exista nicio dispoziție legală sau cerință tehnică care să impună
+ca   un   aparat   de   iluminat,   folosit   pe   o   anumită   stradă,   să   aibă   exact
+aceeași   putere   utilizată   pe   altă   stradă,   atât   timp   cât   calculele
+luminotehnice confirmă respectarea standardului SR EN 13201.
+Toate calculele luminotehnice din oferta asocierii sunt realizate în
+regimul impus prin documentație (100% și 70% din fluxul nominal), fără
+nicio   abatere,   utilizând   fișiere   fotometrice   aferente   fiecărui   aparat   de
+iluminat distinct și demonstrând încadrarea în clasele de iluminat impuse.
+Coeficientul De a fost calculat exclusiv pe baza acestor rezultate,
+fară nicio ajustare artificială, iar valorile utilizate provin din configurații
+distincte ale produselor, nu din modificarea parametrilor nominali ai unui
+singur aparat.
+Oferta   a   fost   optimizată   pentru   a   obține   eficiența   energetică
+maximă,   motiv   pentru   care   pe   fiecare   tronson   au   fost   utilizate
+configurații diferite de putere, astfel încât fiecare aparat să livreze exact
+fluxul necesar clasei de iluminat, fără supradimensionare.
+Rezultă că și această critică a contestatoarei este neîntemeiată.
+Prin  adresa  nr.  16064/10.12.2025,  înregistrată  la  Consiliu  cu  nr.
+87201/10.12.2025, intervenienta a formulat „Concluzii scrise” prin care a
+reiterat solicitările sale cuprinse în cererea de intervenție.
+Referitor  la puterile minime/maxime  utilizate pentru  aparatele  de
+iluminat (punctele 1 și 2 din contestație) formulează următoarele apărări:
+Prin   răspunsul   la   solicitările   de   clarificări   nr.   22017/03.04.2025,
+autoritatea contractantă a stabilit în mod expres și fară echivoc că „nu
+sunt impuse fluxurile, puterile aparatelor de iluminat" și că acestea vor
+rezulta „în urma realizării calculelor luminotehnice".
+Pagina 9 din 20
+
+Autoritatea   a   arătat:   „în   Anexa   nr.   1   nu   sunt   impuse   fluxurile,
+puterile   aparatelor   de   iluminat.   Acestea   vor   rezulta   în   urma   realizării
+calculelor luminotehnice, atât timp cât energia consumata per întreagă
+investiție   nu   depășește   valoarea   de   399   MWh/an   și   sunt   respectate
+clasele de iluminat minim solicitate în cadrul Anexei nr. 1".
+Prin  urmare,   în  cadrul  documentației  de   atribuire  nu   există  nicio
+cerință tehnică privind o putere minimă (ex. 20W) și nicio cerință tehnică
+privind o putere maximă, iar puterea aparatelor de iluminat nu este o
+condiție   de   conformitate,   ci   un   rezultat   al   calculelor   luminotehnice
+efectuate conform SR EN 13201.
+Acest aspect a fost confirmat și de către autoritatea contractantă
+prin punctul de vedere transmis.
+Subliniază și aspectul redat de autoritatea contractantă prin punctul
+de vedere formulat, prin care se arată că inclusiv contestatoarea ...SRL s-
+a   prevalat   de   această   prevedere,   propunând   pentru   mai   multe   străzi
+valoarea puterii de 19,8 W valoare care în mod clar este mai mică decât
+cea de 20W prevăzută în caietul de sarcini.
+Puterile   aparatelor   ofertate   de   asociere   rezultă   din   calculele
+luminotehnice și respectă integral cerințele SR EN 13201.
+În lipsa unor praguri minime/maxime impuse, puterea aparatelor de
+iluminat   devine   un   parametru   variabil,   determinat   de   parametrii
+luminotehnici necesari fiecărei străzi, în funcție de caracteristicile acesteia
+(lățime strada, distanta intre stâlpi, înălțime montaj AIL etc.) și clasa de
+iluminat.
+Subliniază   că   cerință   esențială   impusă   prin   clarificări   este   de   un
+consum total anual < 399 MWh, iar oferta asocierii se încadrează mult
+sub limită.
+Clarificarea stabilește că singura limită obligatorie pentru puteri este
+încadrarea   în   consumul   energetic   maxim   admis   de   399   MWh/an   per
+întreagă   investiție,   iar  oferta  asocierii   sale   are   un   consum   calculat   de
+239,09 MWh/an (doar 60% din consumul maxim admis).
+Prin   urmare,   consumul   anual   rezultat   este   net   inferior   valorii
+maxime admise, iar oferta asocierii este complet conformă documentației
+din punct de vedere energetic.
+Referitor   la   calculele   luminotrehnice   (punctul   3   din   contestație)
+formulează următoarele apărări:
+Aparatele de iluminat AIL7/AIL12 utilizate în calculele luminotehnice
+nu reprezintă același aparat modificat sau dimat, ci configurații tehnice
+diferite ale aceluiași tip constructiv, fiecare având puteri, număr de LED-
+uri (20 LEDs/ 25 LEDs) sau configurații distincte ale curentului pe driver
+(200mA/300mA, 500mA/600mA), în funcție de cerințele fiecărei străzi.
+Selecția acestor configurații s-a făcut în funcție de situația concretă
+a   fiecărei   străzi   (geometrie,   lățime,   înălțime   montaj   AIL,   clasa   de
+iluminat).
+10
+
+Profilul de calcul pentru  fiecare tronson este diferit, iar utilizarea
+aceleiași   variante   de   aparat   pe   toate   străzile   ar   fi   condus   la
+subdimensionare și ar încalcă standardul SR EN 13201.
+Nu exista nicio dispoziție legală sau cerință tehnică care să impună
+ca   un   aparat   de   iluminat,   folosit   pe   o   anumită   strada,   să   aibă   exact
+aceeași   putere   utilizată   pe   altă   stradă,   atât   timp   cât   calculele
+luminotehnice confirmă respectarea standardului SR EN 13201.
+Toate calculele luminotehnice din oferta Asocierii sunt realizate în
+regimul impus prin documentație (100% și 70% din fluxul nominal), fără
+nicio   abatere,   utilizând   fișiere   fotometrice   aferente   fiecărui   aparat   de
+iluminat distinct și demonstrând încadrarea în clasele de iluminat impuse.
+Coeficientul De a fost calculat exclusiv pe baza acestor rezultate,
+fară nicio ajustare artificiala, iar valorile utilizate provin din configurații
+distincte ale produselor, nu din modificarea parametrilor nominali ai unui
+singur aparat.
+Oferta   a   fost   optimizată   pentru   a   obține   eficiența   energetică
+maximă, motiv pentru care pe fiecare tronson au fost utilizate configurații
+diferite   de   putere,   astfel   încât   fiecare   aparat   să   livreze   exact   fluxul
+necesar clasei de iluminat, fără supradimensionare.
+Apreciază că și această critică a contestatoarei este neîntemeiată.
+...SRL a constituit cauțiunea în sumă de  109.529,00 lei, conform
+art.   61
+1
+  alin.   (1)   din   Legea   nr.   101/2016,   fiind   depusă   recipisa   de
+consemnare nr. 211861191/1 din 19.11.2025, eliberată de [OPERATOR ECONOMIC].
+Din analiza susținerilor părților și a documentelor existente
+la dosarul cauzei, Consiliul reține cele ce urmează:
+...  a inițiat o  licitație  deschisă în vederea atribuirii contractului de
+achiziție   publică   având   ca   obiect  «Creșterea eficienței energetice și a
+gestionării inteligente a energiei în infrastructura sistemului de iluminat
+public a ..., zona Sud, jud. ... pentru „Furnizarea aparatelor de iluminat
+stradal cu Led printr-un sistem de telegestiune”», prin publicarea în SEAP
+a anunțului de participare nr.   ...din 24.12.2024, valoarea estimată a
+contractului de furnizare fiind de 5.476.406,07 lei, fără TVA, iar criteriul
+de atribuire aplicat fiind „cel mai bun raport calitate-preț”. 
+Împotriva  unui prim   rezultat  al procedurii,  ce i-a  fost  comunicat
+prin adresa nr. ...,  ...SRL  a formulat  contestația înregistrată la Consiliul
+Național   de   Soluționare   a   Contestațiilor   cu   nr.   ....   De   asemenea,
+împotriva modului în care oferta ...SRL a fost evaluata, asocierea ... SA –
+...   SRL   a   formulat   contestația   înregistrată   la   Consiliu   cu   nr.
+50718/29.07.2025. Cele   doua   contestații   au   fost   conexate   de   către
+Consiliu și soluționate prin decizia nr. ... din data de 22.08.2025, astfel:
+„Admite contestația depusă de ...SRL în contradictoriu cu ....
+Anulează actele autorității contractante privind desemnarea câștigătoare
+a ofertei asocierii ... SA – ... SRL, precum și comunicările privind rezultatul
+procedurii.
+Pagina 11 din 20
+
+Obligă autoritatea contractantă ca, în termen de 15 zile de la primirea
+deciziei   Consiliului,   cu   respectarea   prevederilor   legale,   să   facă   aplicarea
+aspectelor de fapt și de drept, stabilite de Consiliu prin motivarea sa, în ceea
+ce privește oferta asocierii ... SA – ... SRL, să stabilească ofertele admisibile,
+să aplice acestora criteriul de atribuire ales și sa comunice rezultatul procedurii
+de atribuire cu respectarea dispozițiilor art. 215 din Legea nr. 98/2016.
+Obligă autoritatea contractantă la plata către ...SRL a sumei de 6.000 lei,
+reprezentând cheltuieli de soluționare.
+Încuviințează în principiu și respinge cererea de intervenție depusă de
+asocierea ... SA – ... SRL, prin liderul său ... SA.
+Respinge cererea ... SA de obligare a ...SRL la plata cheltuielilor de
+judecată.
+Admite în parte contestația depusă de asocierea ... SA – ... SRL, prin
+liderul sau ... SA, în contradictoriu cu ....
+Anulează actele autorității contractante privind desemnarea admisibilă a
+ofertei ...SRL, precum și comunicările privind rezultatul procedurii.
+Obligă autoritatea contractantă ca, în termen de 15 zile de la primirea
+deciziei   Consiliului,   cu   respectarea   prevederilor   legale,   să   facă   aplicarea
+aspectelor de fapt și de drept, stabilite de Consiliu prin motivarea sa, în ceea
+ce privește oferta ...SRL, să stabilească ofertele admisibile, să aplice acestora
+criteriul de atribuire ales și sa comunice rezultatul procedurii de atribuire cu
+respectarea dispozițiilor art. 215 din Legea nr. 98/2016.
+Respinge ca nefondată cererea asocierii ... SA – ... SRL, prin liderul
+sau ... SA, vizând obligarea autorității contractante la constatarea caracterului
+neconcludent   a   răspunsului   ...SRL   la   solicitarea   de   clarificări   nr.
+33551/26.05.2025 și respingerea ofertei ca inacceptabilă, conform art. 134
+alin. (5) din HG nr. 395/2016.
+Încuviințează   în   principiu   și   respinge   cererea   de   intervenție   depusă
+de ...SRL.
+Respinge cererea ...SRL de obligare a ... SA la plata cheltuielilor de
+judecată.”
+Decizia Consiliului nr. ... din data de 22.08.2025 a fost atacata cu
+plângere   de   către   asocierea   ...   SA   –   ...   SRL,  Curtea   de   Apel   Oradea
+pronuntand decizia nr. 377/CA/2025-R din data de 30.09.2025, astfel:
+„Admite plângerea formulată de petenta Asocierea ... SA & ... SRL, prin
+liderul asocierii ... SA. [...] în contradictoriu cu intimații ... [...] și ...SRL [...],
+împotriva Deciziei nr. ..., ... din 22.08.2025 pronunțată de Consiliul Național de
+Soluționare a Contestațiilor, pe care o modifică în parte, în sensul că:
+Inlătură dispoziția de admitere a contestației depusă de asocierea ... SA
+- ... SRL, de anulare a actelor autorității contractante privind desemnarea
+admisibilă a ofertei ...SRL și de obligare a autorității contractante ca, în termen
+de 15 zile de la primirea deciziei Consiliului, cu respectarea prevederilor legale,
+să facă aplicarea aspectelor de fapt și de drept, stabilite de Consiliu prin
+motivarea   sa,   în   ceea   ce   privește   oferta   ...SRL,   să   stabilească   ofertele
+admisibile,   să   aplice   acestora   criteriul   de   atribuire   ales   și   sa   comunice
+rezultatul procedurii de atribuire cu respectarea dispozițiilor art. 215 din Legea
+nr. 98/2016.
+12
+
+Admite   cererea   de   intervenție   accesorie   formulată   de   intervenienta
+...SRL în favoarea autorității contractante.
+Menține în rest decizia CNSC.
+Obligă petenta la plata în favoarea intimatei ...SRL a sumei de 13.915
+lei, reprezentând cheltuieli de judecată în plângere.
+DEFINITIVĂ.”
+Activitatea   ulterioara   a   autorității   contractante   s-a   finalizat   prin
+emiterea raportului procedurii nr. 66251 din 07.11.2025.
+Noul rezultat al procedurii de atribuire a fost comunicat ...SRL prin
+adresa nr. 66255 din 07.11.2025, potrivit căreia oferta sa admisibila s-a
+situat   pe   locul   al   doilea   în   clasamentul   ofertelor,   cu   82,19   puncte,
+câștigătoare fiind oferta asocierii ... SA – ... SRL cu 93,50 de puncte și
+prețul de 4.548.176,35 lei, fără TVA.
+Împotriva acestei decizii a autorității contractante,  ...SRL  a depus
+contestația în analiza, solicitând urmatoarele:
+-   anularea   comunicărilor   rezultatului   procedurii   și   a   raportului
+procedurii,   din   care   rezultă   că,   în   mod   nelegal,   oferta   depusă   de
+asocierea   ...   SA   –   ...   SRL   a   fost   declarată   admisibilă,   conformă   și
+câștigătoare,   a   tuturor   actelor   care   au   stat   la   baza   emiterii   acestor
+documente, precum și a actelor subsecvente;
+-   anularea   deciziei   din   care   rezultă   că,   în   mod   nelegal,   oferta
+depusă de asocierea ... SA – ... SRL a fost declarată admisibilă, conformă
+și câștigătoare;
+-   anularea   comunicărilor   rezultatului   procedurii   și   a   raportului
+procedurii, din care rezultă că, în mod nelegal, a fost acordat punctaj
+maxim asocierii ... SA – ... SRL pentru factorul eficiența energetică a
+proiectului,   a   tuturor   actelor   care   au   stat   la   baza   emiterii   acestor
+documente, precum și a actelor subsecvente;
+-   obligarea   autorității   contractante   la   reluarea   procedurii   prin
+reevaluarea ofertei depusă de asocierea ... SA – ... SRL;
+-   anularea   deciziei   din   care   rezultă   că,   în   mod   nelegal,   oferta
+contestatoarei a fost clasată pe locul II;
+-   obligarea   autorității   contractante   la   plata   cheltuielilor   pentru
+soluționarea contestației.
+Ca o chestiune prealabilă, Consiliul reține că asocierea ... SA – ...
+SRL, prin liderul sau ... SA, a formulat o cerere de intervenție pe care o
+încuviințează în principiu, în conformitate cu art. 64 Cod procedură civilă,
+dat   fiind   faptul   că   autoarea   ei,   în   calitate   de   ofertantă   câștigătoare,
+dovedește un interes legitim propriu în pricina prin promovarea ei.
+Având a se pronunța  cu întâietate  asupra excepțiilor invocate în
+cauza, potrivit art. 26 alin. (1) din Legea nr. 101/2016, Consiliul retine
+ca   intervenienta   susține   tardivitatea   contestației   formulata   de  ...SRL,
+motivat de faptul ca aspectele supuse analizei Consiliului prin prezenta
+contestație nu au fost reclamate și prin prima contestație formulata de
+aceeași societate împotriva rezultatului procedurii ce i-a fost comunicat
+prin adresa nr. 40708 din 01.07.2025.
+Pagina 13 din 20
+
+În   soluționarea   acestei   excepții,   Consiliul   notează   considerentele
+sale din pronunțarea deciziei  nr. ... din data de 22.08.2025, astfel:
+«Verificând   prin   prisma   celor   reclamate   de   contestatoare   decizia
+autorității contractante de a declara câștigătoare oferta asocierii ... SA – ...
+SRL, Consiliul notează ca o prima critica vizează modul în care achizitoarea a
+înțeles sa comunice rezultatul acestei proceduri prin adresa nr. 40708 din
+01.07.2025.
+In analiza acestei critici, Consiliul retine ca, potrivit art. 215 alin. (1) din
+Legea   nr.   98/2016,   „Autoritatea   contractantă   informează   fiecare
+candidat/ofertant cu privire la deciziile luate în ceea ce privește rezultatul
+selecției, rezultatul procedurii, respectiv atribuirea/încheierea contractului de
+achiziție   publică/acordului-   cadru  sau  admiterea  într-un   sistem   dinamic   de
+achiziții, inclusiv cu privire la motivele care stau la baza oricărei decizii de a nu
+atribui un contract, de a nu încheia un acord-cadru, de a nu implementa un
+sistem dinamic de achiziții ori de a relua procedura de atribuire, cât mai curând
+posibil, dar nu mai târziu de 3 zile de la emiterea deciziilor respective.”, în
+cadrul acestei comunicări, în acord cu dispoziția art. 215 alin. (2) lit. c) din
+Legea nr. 98/2016, autoritatea contractantă având obligația de a transmite
+„fiecărui ofertant care a depus o ofertă admisibilă, dar care nu a fost declarată
+câștigătoare,   caracteristicile   și   avantajele   relative   ale   ofertei/ofertelor
+desemnate   câștigătoare   în   raport   cu   oferta   sa,   numele   ofertantului   căruia
+urmează să i se atribuie contractul de achiziție publică...”
+In adresa nr. 40708 din 01.07.2025, autoritatea contractanta a inserat
+denumirea asocierii a cărei oferta a fost desemnata câștigătoare, prețul ofertei
+și punctajul total obținut de aceasta, alături de prețul ofertei contestatoarei și
+punctajul total al acesteia.
+Raportând   acest   conținut   al   comunicării   rezultatului   procedurii   către
+...SRL   la   regula   legala   a   transmiterii   unei   astfel   de   comunicări,   Consiliul
+stabilește ca aceste demers al autorității este unul deficitar. Astfel, potrivit
+legii, ...SRL trebuia sa fie informata cu privire caracteristicile și avantajele
+relative ale ofertei desemnate câștigătoare în raport cu oferta sa, alături de
+prețul   comunicat  al   ofertei,   adresa  nr.  40708   din 01.07.2025   trebuind  sa
+cuprindă   și   celelalte   aspecte   ale   ofertei   câștigătoare   care   au   contribuit   la
+aplicarea criteriului de atribuire „cel mai bun raport calitate-preț”  și care au
+condus la obținerea punctajului transmis societății aflate pe locul secund în
+aceasta   competiție.   Contrar   opiniei   autorității   contractante,   transmiterea
+punctajului total al ofertelor nu echivalează cu îndeplinirea obligației legale de
+comunicare a rezultatului procedurii, punctajul total al ofertei fiind rezultatul
+caracteristicilor și avantajelor relative ale ofertei câștigătoare, care trebuiau sa
+facă, în realitate, obiectul comunicării în acord cu dispoziția art. 215 alin. (2)
+lit. c) din Legea nr. 98/2016.
+În aceste condiții, Consiliul admite aceasta prima critica din contestație.
+În  ceea   ce  privește   criticile   aduse   de  ...SRL   ofertei  câștigătoare  din
+perspectiva   calculelor   luminotehnice   și   a   consumului   de   energie,   Consiliul
+notează ca acestea sunt:
+14
+
+- aparatele utilizate de câștigătoare în calculele luminotehnice nu sunt
+aceleași cu cele ofertate și nu au aceleași caracteristici dimensionale, electrice,
+luminotehnice cu aparatele ofertate;
+- valoarea calculata de câștigătoare a fost pentru consumul de energie la
+funcționarea 30%;
+- calculele câștigătoarei au fost raportate la un număr de 1900 de ore,
+nu și la numărul de 2250 de ore.
+In apărare, autoritatea contractanta arata ca susținerile contestatoarei
+nu sunt probate, aspect asupra căruia Consiliul subliniază ca, declarata fiind
+confidențială,   oferta   asocierii   câștigătoare   nu   a   putut   fi   studiata   de   către
+...SRL, astfel încât sa poată fi în măsură sa depună și eventuale probe în
+susținerea afirmațiilor sale. Alăturat acestei apărări, autoritatea contractanta
+arata ca oferta câștigătoare a fost analizata de către comisia de evaluare și s-a
+constatat   conformitatea   ei   cu   toate   cerințele   documentației   de   atribuire,
+executarea calculelor luminotehnice fiind corecta și conforma normativelor,
+aparatele ofertate fiind aceleași cu cele utilizate în calcule.
+Verificând daca aceste apărări generale ale autorității contractante sunt
+susținute de actele de lucru ale comisiei de evaluare, Consiliul notează ca
+informații privind evaluarea tehnica a ofertei asocierii  ... SA – ... SRL, din
+perspectiva aspectelor contestate, se regăsesc în procesul-verbal nr. 33014 din
+22.05.2025, astfel:
+«Cerința minimă din Fișa de date/ Caietul de sarcini
+1.Calcule luminotehnice Ofertanții au obligația de a prezenta calculele
+pentru  fiecare strada din  Anexa Nr. 1, realizate de către un Specialist în
+Iluminat (Conform cod COR 214237), pentru regimul de funcționare 100% cat
+și pentru regimurile de funcționare în dimming conform prevederilor caietului
+de sarcini.
+Informații prezentate în propunerea tehnică pentru
+demonstrarea îndeplinirii cerinței minime
+Ofertantul   în   cadrul   propunerii   tehnice   a   prezentat   următoarele
+documente:
+-Memoriul tehnic calcule luminotehnice, în cadrul căruia a menționat că,
+"(...)Calculele   luminotehnice   sunt   prezentate   în   cadrul   propunerii   tehnice
+pentru   fiecare   stradă/profil   (așa   cum   se   regăsesc   în   Anexa   nr.l.   Calcule
+luminotehnice) realizate de Specialist în iluminat (Conform COR 214237), atât
+pentru regimul de funcționare 100% cât și pentru treapta de dimare de 70% " 
+(Pag.30-31 din fișierul propunere tehnică vol.l).
+-Calculele luminotehnice pentru străzile din Anexa Nr. 1, atât pentru
+regimul de funcționare 100% cât și pentru regimul de funcționare de 70%.
+(Pag 32-748 din fișierul propunere tehnică vol.l).
+-Declarație pe propria răspundere dată de ATASIEI GEORGIAN- specialist
+în iluminat, privind realizarea calculelor luminotehnice . 
+(Pag 749 din fișierul propunere tehnică vol.l).
+In acest sens, Ofertantul a prezentat certificatul de absolvire nr.172 din
+09.05.2016   pentru   Atasiei   Georgian,   având   specializarea   -   specialist   în
+iluminat.
+Conform raportului  de salariat din 04.04.2025, Atasiei Georgian este
+angajatul Ofertantului. 
+(Pag. 1654-1656 din fișierul tehnic voi .4).
+Totodată,   în   cadrul   propunerii   tehnice,   Ofertantul   a   menționat   că,
+"Asocierea ... SA - ... SRL, prezină anexat calculele luminotehnice, pentru
+Pagina 15 din 20
+
+flecare   stradă   din   Anexa   nr.   1,   realizate   de   către   un   specialist   în
+iluminat(Conform cod COR 214237), pentru regimul de funcționare 100% cât
+și pentru regimurile de funcționare în dimming(...) "
+(Pag. 17 din fișierul propunere tehnică vol.1).
+Evaluarea informațiilor prezentate în propunerea tehnică în
+raport cu cerința minimă solicitată în documentația de atribuire
+In   urma   analizării   documentelor   prezentate   privind   calculele
+luminotehnice, comisia de evaluare a decis în unanimitate faptul că, acestea
+corespund cu cerințele solicitate în cadrul caietului de sarcini.»
+«Cerința minimă din Fișa de date/ Caietul de sarcini
+17. P2 - Eficienta energetică a proiectului
+Punctajul factorului de evaluare „Eficiența energetică a proiectului - P2" -
+cu o valoare de 30 de puncte din valoarea totală de 100 de puncte și cu o
+pondere de 30% în totalul criteriului de atribuire va fi acordat după cum
+urmează:   Ofertanții   au   obligația   să   calculeze   și   să   completeze   rezultatele
+obținute, pentru: [...]
+Informații prezentate în propunerea tehnică pentru
+demonstrarea îndeplinirii cerinței minime
+Ofertantul   în   cadrul   propunerii   tehnice   a   prezentat   documentul   cu
+denumirea Factori de evaluare, unde la eficiența energetică a proiectului a
+menționat că, Indicatorul Energie Specifică (De)= 51,20
+Totodată, Ofertantul a prezentat Anexa nr. 1 cu centralizatorul situației
+propuse, de unde rezultă calculul De.
+(Pag. 1926-1929 din fișierul propunere tehnică voi. 5)
+Evaluarea informațiilor prezentate în propunerea tehnică în
+raport cu cerința minimă solicitată în documentația de atribuire
+In urma analizării documentelor prezentate privind factorul de evaluare,
+eficiența   energetică   a   proiectului,   comisia   de   evaluare   a   constatat   că,
+Indicatorul Energie Specifică (De)= 51,20.»
+Văzând acestea, Consiliul notează ca din actele de lucru ale comisiei de
+evaluare nu rezulta analiza pe care aceasta sa o fi făcut asupra conținutului
+ofertei contestate, analiza care sa susțină decizia asupra conformității ofertei și
+a declarării ei câștigătoare, dar și sa sprijină Consiliul în activitatea sa de
+verificare a legalității actelor autorității contractante. Consiliul constata ca o
+analiza temeinica și consemnarea ei se impunea în aspectele contestate cu atât
+mai mult cu cat ele au contribuit, potrivit criteriului de atribuire, la punctarea
+ofertelor   și   desemnarea   celei   câștigătoare.   În   acest   caz,   evidențierea
+caracteristicilor și avantajelor ofertelor contribuie atât la conturarea concluziei
+ca activitatea de analiza și evaluare a comisiei de evaluare a fost temeinica și
+obiectiva, dar și la posibilitatea verificării legalității acesteia.
+Or,   în   situația   în   care   actele   de   lucru   ale   comisiei   de   evaluare   nu
+consemnează aspectele de analiza și evaluare, Consiliul notează ca nu exista
+elemente obiective raportat la care sa poată decide daca conformitatea ofertei
+câștigătoare și superioritatea tehnica a acesteia sunt reale și au fost analizate
+de comisia de evaluare din cadrul autorității contractante. Orice verificare pe
+care Consiliul ar întreprinde-o în privința conținutului ofertei contestate ar
+reprezenta   o   substituire   a   comisiei   de   evaluare   de   către   organismul   de
+16
+
+soluționare, demers incompatibil cu verificarea legalității deciziilor autorității
+contractante, stabilita de lege în sarcina Consiliului.
+În atari condiții, Consiliul reține că, în exercitarea atribuțiilor conferite de
+legiuitor,   membrii   comisiei   de   evaluare   sunt   ținuți   să   efectueze   o   analiză
+riguroasă a ofertelor  primite în cadrul procedurii, modul de desfășurare al
+procesului de analizare fiind necesar să rezulte în mod clar din documentele
+întocmite de aceștia.
+Consiliul reține că, potrivit dispozițiilor art. 133 din HG nr. 395/2016,
+comisia de evaluare are obligația de a analiza și de a verifica fiecare ofertă atât
+din punct de vedere al elementelor tehnice propuse, cât și din punct de vedere
+al aspectelor financiare pe care le implică (alin. 1), iar propunerea tehnică
+trebuie să corespundă cerințelor minime prevăzute în caietul de sarcini (alin.
+2).
+Evident că o astfel de verificare trebuie să fie reală și temeinică, or, din
+actele   emise   în   aplicarea   procedurii   și   depuse   la   dosarul   cauzei   de   către
+autoritatea contractantă, nu rezultă îndeplinirea acestei obligații a comisiei de
+evaluare.
+Este de notorietate că evaluarea ofertelor depuse într-o procedură de
+achiziție publică reprezintă o activitate complexă a comisiei de evaluare care
+este ținută la a se edifica pe deplin, atât ca urmare a analizării ofertelor, cât și
+ca urmare a eventualelor solicitări de clarificări cerute autoarelor acestora,
+asupra caracterului  admisibil al ofertelor,  respectiv asupra modului în care
+acestea răspund întru-totul necesitaților de achiziție ale autorității contractante,
+așa cum sunt descrise în documentația de atribuire. Evaluarea ofertelor nu este
+un proces formal, în care, eventual, comisia de evaluare constată existența
+ofertelor și retine conformitatea acestora, fără a face o analiză temeinică a
+conținutului   lor.   Or,   în   cauza   aflata   în   soluționare,   tocmai   derularea   unei
+asemenea verificări temeinice a propunerii tehnice aparținând câștigătoarei nu
+a fost realizata.
+Alături de toate acestea, Consiliul are în vedere și necesitatea respectării
+de către autoritate și a principiilor transparenței și asumării răspunderii. Astfel,
+procesul de evaluare a ofertelor, alături de rigurozitate și legalitate trebuie să
+fie și transparent, respectiv să poată fi facil verificată respectarea drepturilor și
+obligațiilor părților angrenate în procesul de achiziție publică. Or, prin lipsa a
+unei veritabile verificări și evaluării a propunerii tehnice a asocierii amintite,
+autoritatea   contractantă   nu   asigură   tocmai   acest   caracter   transparent   al
+activității sale.
+În   concluzie,   Consiliul   stabilește   în   sarcina   autorității   contractante
+obligația   de   a   analiza   și   de   a   evalua   oferta   asocierii  ...   SA   –   ...   SRL,
+consemnând   în   actele   de   lucru   ale   comisiei   de   evaluare   aspectele   ofertei
+esențiale în  analiza, si, mai ales, a celor care contribuie la aplicarea criteriului
+de   atribuire,   precum   și   obligația   de   comunicare   ulterioara   a   rezultatului
+procedurii   cu   respectarea   regulilor   instituite   la   art.   215   din   Legea   nr.
+98/2016.»
+Aceste considerente au fost păstrate de Curtea de Apel Oradea în
+judecarea plângerii depuse împotriva deciziei Consiliului.
+Prin urmare, Consiliul retine ca aspectele pe care contestatoarea le
+reclama   în   prezent   au   fost   cunoscute   acesteia   prin   cea   de-a   doua
+comunicare   a   rezultatului   procedurii,   realizata   de   catre   autoritatea
+Pagina 17 din 20
+
+contractanta   în   executarea   celor   decise   de   Consiliu   și   de   instanta   de
+judecata. 
+În aceste condiții, nu se poate discuta despre tardivitatea prezentei
+contestații, excepția fiind respinsa.
+Analizând contestația înaintată de ...SRL, prin care societatea ataca
+decizia achizitoarei de a stabili câștigătoare oferta asocierii  ... SA – ...
+SRL, Consiliul notează ca susținerile acesteia vizează:
+-   nerespectarea    puterilor   maxime   instalate   impuse   prin
+documentația de atribuire, Anexa 1;
+-  nerespectarea puterilor   minime   utilizate   pentru   aparatele   de
+iluminat, impuse prin documentația de atribuire, Anexa 1;
+-   nerespectarea   modalității   de   prezentare   a   calculelor
+luminotehnice,   coeficientul   De   calculat,   criteriu   de   evaluare   în   cadrul
+procedurii,   fiind   diminuat   în   mod   artificial,   cu   nerespectarea
+documentației de atribuire, corespunzător aparatelor de iluminat nr. 12 și
+nr. 7.
+În   privința   primelor   doua   critici,   vizând   respectarea   de   catre
+câștigătoare a puterilor minime și maxime utilizate pentru aparatele de
+iluminat, Consiliul retine trimiterile autorității contractante la Răspunsul
+consolidat   2,   înregistrat   cu   nr.   22017   din   03.04.2025,   la   solicitări   de
+clarificare privind documentația de atribuire, astfel:
+„Intrebare 1
+Va solicitam sa clarificați, daca pentru realizarea calculelor luminotehnice
+este impus un fluxul luminos /puterea aparatelor de iluminat (minim / maxim),
+tinand cont ca în ANEXA 1, în format excel, aceste date nu sunt completate,
+sau ramane la latitudinea fiecărui ofertant sa-si dimensioneze propria oferta
+tehnica, atat timp cat respecta clasele de iluminat minim solicitate în cadrul
+acestei ANEXA și nedepasind valoarea de 399MWh/an, pentru consumul de
+energie.
+Raspuns 1
+In Anexa nr. 1 nu sunt impuse fluxurile, puterile aparatelor de iluminat.
+Acestea vor rezulta în urma realizarii calculelor luminotehnice, atat timp cat
+energia   consumata   per   întreaga   investiție   nu   depășește   valoarea   de   399
+MWh/an și sunt respectate clasele de iluminat minim solicitate în cadrul Anexei
+nr. 1."
+Prin   urmare,   arata   achizitoarea,   susținerile   contestatoarei   sunt
+nefondate   în  contextul  existentei  acestei  clarificări   la   documentația  de
+atribuire. Mai mult, precizează autoritatea contractanta, chiar societatea
+contestatoare   a   utilizat   posibilitatea   oferita   de   clarificarea   citata   și   a
+propus pentru mai multe străzi valoarea puterii de 19,8W, valoare mai
+mica decât cea de 20W prevăzută în caietul de sarcini.
+Consiliul constata ca, deși achizitoarea a făcut dovada transmiterii
+punctului   sau   de   vedere   și   contestatoarei,   aceasta   din   urma   nu   a
+reacționat   la   apărările   exprimate,   prin   urmare   se   vădește   caracterul
+nefondat   al   primelor   doua   susțineri   din   contestație,   contrazise   de
+18
+
+documentația de atribuire, așa cum ea a fost clarificata anterior depunerii
+ofertelor.
+În   ceea   ce   privește   puterea   instalata   nominala   a   aparatului   de
+iluminat nr. 12 din oferta câștigătoare, Consiliul retine apărarea autorității
+contractante  potrivit  căreia  speculațiile  contestatoarei  privind  utilizarea
+aceluiași aparat cu 2 puteri diferite sunt forțate, deoarece se poate vedea
+foarte ușor în secțiunea „Denumire aparat de iluminat" că este vorba de
+două   aparate   diferite.   Astfel,   arata   autoritatea,   aparatul   AIL   12   are   o
+putere de 18,7W și aparatul AIL13 are o putere de 16,2W, fiind o eroare
+materială minoră a ofertantei care a tastat „2” în loc de „3” într-una din
+situații,   însă   denumirile   diferite   ale   celor   doua   aparate   de   iluminat
+lămuresc pe deplin existenta acestei erori care au condus contestatoarea
+către   concluzia   ca   asocierea   câștigătoare   a   propus   utilizarea   aceluiași
+aparat cu 2 puteri diferite.
+În ceea ce privește aparatul de iluminat nr. 7, achizitoarea arata ca
+și în privința acestei critici este incidenta clarificarea la documentația de
+atribuire   citata   mai   înainte,   ofertanții   având   libertatea   de   a   optimiza
+puterile aparatelor astfel încât să obțină o soluție eficientă energetic care
+să   respecte   condițiile   impuse   de   standard   pentru   străzile   prezente   în
+procedură. Mai arata achizitoarea ca documentația de atribuire, așa cum
+era formulată, nu impunea pentru fiecare tip de aparat o anumită putere,
+codificările   AIL   1-13   având   rol   orientativ   pentru   ofertanți   vizând
+dimensiunile și greutatea aparatelor, iar în urma răspunsului publicat în
+Răspunsul consolidat 2 era clar că nu există o impunere privind puterile
+aparatelor   denumite   AIL   1-13,   denumiri   care   au   fost   preluate   din
+proiectul tehnic în care proiectantul a folosit în calcule aparate neutre,
+nespecifice   unui   anumit   furnizor.   Mai   mult,   precizează   autoritatea
+contractanta, situația reclamata se regăsește și în oferta contestatoarei
+care folosește în cazul aparatului AIL 4 puteri diferite (52,1W, respectiv
+74W).
+Nici în privința acestui subiect autoarea contestației nu reacționează
+la   apărările   autorității   contractante   ce   conferă   caracter   nefondat
+susținerilor sale.
+Consiliul   constata   ca   în   adresa   de   comunicare   a   rezultatului
+procedurii,   autoritatea   contractanta   a   indicat   avantajele   ofertei
+câștigătoare   fata   de   oferta   contestatoarei,   aspect   recunoscut   chiar   de
+aceasta din urma.
+Luând în considerare aspectele de fapt și de drept evocate, în baza
+art. 26 alin. (6) din Legea nr. 101/2016 privind remediile și căile de atac
+în materie de atribuire a contractelor de achiziție publică, a contractelor
+sectoriale   și   a   contractelor   de   concesiune   de   lucrări   și   concesiune   de
+servicii, precum și pentru organizarea și funcționarea Consiliului Național
+de   Soluționare   a   Contestațiilor,   Consiliul   urmează   să   respingă   ca
+nefondată contestația depusă de ...SRL.
+În   baza   dispozițiilor   art.   26   alin.   (9)   din   Legea   nr.   101/2016,
+Consiliul va respinge cererea ...SRL de obligare a autorității contractante
+la plata cheltuielilor de judecată.
+Pagina 19 din 20
+
+Față   de   cele   reținute   mai   sus   cu   ocazia   soluționării   contestației,
+Consiliul va admite cererea de intervenție depusă de asocierea ... SA – ...
+SRL, prin liderul sau ... SA.
+În   baza   dispozițiilor   art.   26   alin.   (9)   din   Legea   nr.   101/2016,
+Consiliul va respinge cererea ... SA de obligare a contestatoarei la plata
+cheltuielilor de judecată, deoarece până la  pronunțarea deciziei, nu au
+fost   prezentate   Consiliului   cuantumul,   detalierea   și   documentele
+doveditoare ale cheltuielilor efectuate.
+Pentru aceste motive,
+în baza legii și a mijloacelor de probă aflate la dosar,
+CONSILIUL DECIDE:
+Respinge excepția tardivității contestației invocată de intervenientă.
+Respinge   ca   nefondată   contestația   depusă   de   ...SRL   în
+contradictoriu cu ....
+Respinge   cererea  ...SRL  de  obligare   a   autorității   contractante   la
+plata cheltuielilor de judecată.
+Încuviințează în principiu și admite cererea de intervenție depusă de
+asocierea ... SA – ... SRL, prin liderul sau ... SA.
+Respinge   cererea  ...   SA  de  obligare   a   contestatoarei   la   plata
+cheltuielilor de judecată.
+Prezenta   decizie   este   obligatorie   pentru   părți,   în   conformitate   cu
+dispozițiile art. 28 alin. (1) din Legea nr. 101/2016. 
+Împotriva ei se poate formula plângere, în termen de 10 zile de la
+comunicare pentru părțile cauzei, respectiv de la data luării la cunoștință
+de   către   alte   persoane   vătămate,   în   temeiul   art.   29   din   Legea   nr.
+101/2016.
+       PREȘEDINTE,        MEMBRU,   MEMBRU,
+...         ...  ...
+Redactată în 5 exemplare, conține 20 pagini.
+Redactată practicaua deciziei ...
+20

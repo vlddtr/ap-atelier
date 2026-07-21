@@ -1,0 +1,395 @@
+HOTĂRÂRE CURTEA DE APEL
+
+Asupra — considerente integrale (anonimizat: nume părți/persoane mascate, considerentele neatinse).
+
+Cod ECLI ECLI:RO:CAALB:2026:059.######
+
+Dosar nr. ###/57/2026
+
+R O M Â N I A
+
+CURTEA DE APEL #### #####
+
+SECTIA DE CONTENCIOS ADMINISTRATIV SI FISCAL
+
+DECIZIE Nr. ###/2026
+
+Ședința publică de la 09 ##### 2026 
+
+Completul compus din:
+
+PREȘEDINTE ##### ###### #####
+
+Judecător ##### ##### ########
+
+Judecător ######## ######
+
+Grefier ###### ####
+
+Pe rol se află judecarea cauzei de contencios administrativ și fiscal privind pe petenta ###### ######## SRL, în contradictoriu cu intimata [instituție publică][OPERATOR ECONOMIC] SA, având ca obiect litigiu privind achizițiile publice, Dec nr.1288/C4/951/23.04.2026 emisă de CNSC.
+
+Mersul dezbaterilor și concluziile părților au fost consemnate în încheierea de amânare a pronunțării din data de 02.06.2026, care face parte integrantă din prezenta decizie.
+
+CURTEA DE APEL
+
+Asupra plângerii de față
+
+I. Decizia CNSC
+
+Prin Decizia nr. #### / C4 # #### ##.04.2026, Consiliul Național de Soluționare a Contestațiilor a respins contestația depusă de ###### ######## SRL, în contradictoriu cu [instituție publică]Transport Gaze Naturale „[operator economic public]" SA.
+
+Pentru a pronunța această decizie, CNSC a reținut că prin anunțul de participare nr. CN1088116, publicat în Sistemul Electronic de Achiziții Publice -SEAP la 10.12.2025, entitatea contractantă [instituție publică]Transport Gaze Naturale „[operator economic public]" SA a inițiat o procedură de licitație deschisă online în vederea procurării a 126 de contoare cu turbină cu funcționare orizontală, estimate valoric la 2.524.853,28 lei, fără TVA. Documentația de atribuire a fost postată pe portalul SEAP la 10.12.2025, alături de anunțul de invitare la competiție.
+
+La procedură s-au prezentat ###### ######## SRL, a cărei ofertă, cu prețul de 2.306.000 lei, fără TVA, a fost clasată pe locul secund, și ######## ####### SRL, a cărei ofertă a fost desemnată câștigătoare, cu prețul de 2.295.324 lei, fără TVA, prin raportul procedurii nr. 18469/05.03.2026. Împotriva acestui rezultat, ###### ######## SRL a învestit Consiliul, în termenul legal, cu soluționarea contestației care formează obiectul prezentei cauze.
+
+Forul administrativ de jurisdicție a apreciat că, în ecuația diferendului de față, esențiale sunt clauzele caietului de sarcini, la care urmează a fi efectuată raportarea ofertei ######## ####### SRL din perspectiva conformității tehnice, clauze potrivit cărora contoarele trebuiau să aibă următoarele caracteristici, printre altele:
+
+- temperatura mediului: min. - 25°C ~ max. -f55°C;
+
+- temperatura gazului: - 25°C -F + 50°C.
+
+Entitatea contractantă a pus la dispoziția viitorilor ofertanți, în SEAP, un formular specific - „formular de propunere tehnică privind îndeplinirea cerințelor minime din caietul de sarcini contoare cu turbină cu poziția de funcționare orizontală”, potrivit căruia:
+
+Așadar, entitatea a stabilit ca fiind suficientă descrierea de către ofertanți „în mod concret și în nume propriu" a modalității de îndeplinire a cerințelor, nefiind impusă acestora obligația aducerii anumitor certificări privind plaja temperaturilor de funcționare. În acest sens este și apărarea [operator economic public], care afirmă în punctul de vedere că a fost impus „un interval de funcționare pentru echipament (temperatură gaz și temperatură mediu) fără a specifica un document anume din care să rezulte îndeplinirea cerinței".
+
+Documentația de atribuire nu conține nicio prevedere expresă care să impună identitatea intervalelor de temperatură între diferitele certificări si nici corelarea formală a acestora în sensul susținut de contestatar.
+
+[...] afirmația potrivit căreia „toate cele 3 tipuri de certificare trebuie să aibă în vedere această cerință esențială de securitate", nu are suport nici în legislația aplicabilă, nici în documentația de atribuire, in caietul de sarcini neexistând cerințe stipulate în acest sens.
+
+Cerința privind intervalul de temperatură vizează conservarea performanțelor metrologice ale echipamentului în exploatare, iar nu structura sau conținutul fiecărei certificări în parte. A interpreta în sens contrar ar echivala cu introducerea unor cerințe suplimentare față de cele prevăzute inițial în documentația de atribuire, contrar principiilor transparenței și tratamentului egal.
+
+Diferențele dintre intervalele de temperatură declarate în cadrul certificărilor MID și PED reflectă natura distinctă a acestor reglementări și nu constituie o neconformitate.
+
+În absența unei prevederi exprese în documentația de atribuire care să impună identitatea acestor intervale, contestația formulată a fost respinsă ca neîntemeiată.
+
+Se mai arată că, fiind beneficiara produselor ce fac obiectul achiziției și pe care urmează a le exploata, precum și autoarea caietului de sarcini, entitatea contractantă organizatoare este cea mai în măsură să cunoască propriile necesități și adecvarea contoarelor la acestea prin prisma complianței cu specificațiile impuse în caiet.
+
+CNSC a reținut jurisprudența Curții Europene de Justiție în această materie, din care rezultă că este extrem de important a se observa că niciunul dintre ofertanți nu este ținut să facă dovada respectării unor cerințe care nu erau prevăzute în documentația de atribuire. ######### de transparență are ca scop în special să garanteze că este înlăturat riscul de arbitrar din partea autorității/entității contractante (Hotărârea Curții de Justiție a Uniunii Europene în cauza SAG ELV Slovensko și alții, C-599/10, EU:C:2012:191, punctul 25, precum și jurisprudența acolo citată). Principiul egalității de tratament și obligația de transparență interzic autorității contractante să respingă o ofertă care îndeplinește cerințele prevăzute în cererea de ofertă pe baza unor motive care nu au fost prevăzute în cererea de ofertă menționată (Hotărârea Medipac-Kazantzidis, C-6/05, EU:C:2007:337, punctul 54). 
+
+Deosebit de relevantă este concluzia pe care aceeași instanță de la Luxemburg a statuat-o în Hotărârea din 16 aprilie 2015, £11:0:2015:228, cauza C-278/14, având ca obiect o cerere de decizie preliminară formulată de Curtea de Apel #### #####, în procedura SC ########## ####### ######### SRL împotriva Spitalului ######## de Urgenta #### #####.
+
+Recapitulând și concluzionând, în raport de clauzele exprese ale caietului de sarcini elaborat de [operator economic public], niciunuia dintre ofertanți nu îi revenea obligația de a include în ofertă anumite certificări legate de plaja de temperaturi evocată mai sus, fiind suficiente descrierea în propunerea tehnică și asumarea prin semnătură a îndeplinirii parametrilor tehnici, afirmația contestatarului conform căreia "comisia de evaluare nu a observat că ofertantul Smartech nu a făcut dovada existenței certificatului PED pentru temperatura de -25°C, împrejurare față de care nu a solicitat operatorului economic să depună clarificări și nici fila 2 din certificatul PED", este lipsită de fundament deoarece, prin documentația de atribuire nu s-a solicitat decât dovada conformității cu legislația aplicabilă si nicidecum identificarea in cadrul acestui document a intervalului de temperatură.
+
+În cazul ofertei ######## ####### SRL, aceasta prevede, în propunerea tehnică, temperatura mediului și a gazului, iar manualul la care se face trimitere acoperă intervalul impus.
+
+####### actului atacat al entității contractante, din punctul de vedere al legalității și temeiniciei, s-a efectuat prin prisma motivelor invocate de societatea contestatoare, în acord cu principiul disponibilității care guvernează și procedura administrativ-jurisdicțională în fața Consiliului - art. 26 alin. (2) partea introductivă din legea remediilor și art. 9 alin. (2) C. proc. civilă - obiectul și limitele procesului sunt stabilite prin cererile și apărările pârților. Cu privire la aspectele care nu au format obiectul contestației, răspunderea juridică pentru declararea câștigătoare a unei anumite oferte revine entității contractante, ținută de lege să verifice și să stabilească modul de îndeplinire de către ofertant/ofertă a tuturor cerințelor de calificare și specificațiilor tehnice stabilite în documentația de atribuire.
+
+Pentru aceste motive, Consiliul a respins, ca nefondată, contestația ###### ######## SRL nr. 18307/16.03.2026, în contradictoriu cu [instituție publică]Transport Gaze Naturale „[operator economic public]" SA, inclusiv capătul de cerere de obligare a acesteia la acoperirea cheltuielilor de „judecată".
+
+ II. Plângerea formulată 
+
+Prin plângerea înregistrată pe rolul acestei instanțe la data de 13.05.2026, sub dosar nr. ###/57/2026 petenta SC ###### ######## SRL a solicitat:
+
+-anularea Deciziei Consiliului Național pentru Soluționare a Contestațiilor nr. 1288/C4/951/24.03.2026, admiterea contestației astfel cum a fost formulată;
+
+-anularea procesului-verbal din data de 18.02.2026 privind evaluarea conformității propunerilor tehnice cu prevederile caietului de sarcini și, după caz, cu factorii de evaluare;
+
+-anularea raportului procedurii nr. 18469/05.03.2026 în ceea ce privește reținerea caracterului conform și acceptabil al ofertei declarate câștigătoare depuse de societatea ######## ####### SRL;
+
+-anularea Comunicării rezultatului procedurii nr. DASC 18475/05.03.2026,
+
+- obligarea autorității contractante la reluarea procedurii din etapa evaluării ofertelor cu respectarea următoarelor limite:
+
+- constatarea caracterului neconform al ofertei depuse de ######## ####### SRL, întrucât aceasta nu corespunde cerințelor din caietul de sarcini;
+
+- constatarea faptului că oferta depusă de ofertantul ###### ######## SRL este singura admisibilă conform condițiilor de participare, cât și din punct de vedere tehnic și financiar;
+
+- obligarea autorității contractante la acoperirea cheltuielilor de judecată ocazionate de prezentul demers judiciar.
+
+În susținerea plângerii arată următoarele:
+
+I. Procedura de achiziție, motivele contestației și apărările formulate de autoritatea contractantă ######## S.A.
+
+În fapt, prin publicarea anunțului de participare nr. CN1088116 din data de 10.12.2025, ######## S.A. a inițiat procedura de achiziție publică având ca obiect încheierea contractului sectorial având ca obiect contoare cu turbina cu poziția de funcționare orizontală, cod CPV ######### # Debimetre (Rev.2).
+
+Conform raportului procedurii nr. 18469/05.03.2026, în cadrul acestei proceduri de achiziție au depus oferte 2 operatori economici, respectiv Smartech Solutions și Vestra Industry.
+
+În urma desfășurării procesului de evaluare, autoritatea contractantă a decis că au fost îndeplinite cerințele minime din Caietul de Sarcini ofertele depuse de către ambii ofertanți.
+
+Sub acest aspect, arată că din analiza specificațiilor tehnice din cuprinsul caietului de sarcini, rezultă că intervalele de temperatură în care contoarele achiziționate trebuie să funcționeze sunt următoarele: (i) min: -25°C - max: +55 °C temperatura mediului și (ii) - 25°C - max: +55 °C temperatura gazului.
+
+Potrivit pct. s3.1 din caietul de sarcini, se va asigura legalitatea metrologică a introducerii pe piață și punerea în funcțiune a contoarelor ce vor fi livrate, în conformitate cu legislația română metrologică aplicabilă, în vigoare, fiind necesar ca ofertantul să înainteze toate documentele și certificatele prevăzute de procedurile aplicate pentru evaluarea conformității.
+
+De asemenea, în condițiile cerințelor de la pct. s.6.2., s.6.3. și s.6.4. ofertele tehnice înaintate de ofertanții participanți la procedură vor conține (i) documentele necesare care atestă conformitatea cu legislația română metrologică aplicabilă, (ii) toate documentele necesare care atestă conformitatea cu legislația română privind introducerea pe piață a echipamentelor sub presiune și (iii) toate documentele necesare care atestă certificarea pentru utilizarea în siguranță în medii cu atmosferă explozivă.
+
+#### de observat că cerința relativă la intervalele de temperatura nu este circumscrisă unei anumite certificări dintre cele 3 enumerate mai sus, de unde rezultă faptul că toate cele 3 tipuri de certificare trebuie să aibă în vedere această cerință esențială de securitate.
+
+Anterior depunerii efective a contestației, petenta a solicitat autorității contractante să îi permită accesul la dosarul cauzei.
+
+Odată cu studierea ofertei depuse de operatorul economic declarat câștigător a observat că debimetrele pe care ofertantul Smartech urma să le livreze autorității contractante sunt produse de [OPERATOR ECONOMIC], iar potrivit informațiilor furnizate de însăși producătorul există doar certificare metrologică - MID -pentru funcționarea la temperaturi cuprinse între - 25°C și +55°C, precum și certificare ATEX, care atestă îndeplinirea condițiilor de punere pe piață a contoarelor destinate utilizării în atmosfere potențial explozive, pentru același interval de temperaturi, însă certificarea contoarelor ca echipamente sub presiune - PED - este efectuată pentru temperaturi cuprinse între -20°C și +60°C. Prin urmare, certificarea PED, conform informațiilor oferite de producătorul contoarelor IGTM-CT nu acoperă intervalul de temperaturi specificat clar în caietul de sarcini, în partea referitoare la temperatura minimă, în sensul că deși cerința tehnică face referire la temperaturi de -25°C, certificarea PED pentru produsul ofertat de Smartech este de -20°C.
+
+Totodată, a sesizat că certificarea PED pentru debimetrele Smartech este depusă doar parțial, în sensul în care lipsește pagina 2, cea care conține intervalele de temperaturi pentru care s-a eliberat certificarea.
+
+Sub acest aspect, atât Smartech, cât și Vestra Industry au depus certificări PED eliberate de același organism de acreditare: DVGW CERT.
+
+Or, analizând certificatul PED depus de Vestra Industry, eliberat tot de către DVGW CERT se observă faptul că acesta conține un număr de 2 pagini, iar la finele paginii nr. 2 se regăsesc menționate în mod expres temperaturile certificate, cu respectarea limitelor minime și maxime specificate în caietul de sarcini.
+
+Prin urmare, fila 2 din PED nu a fost depusă de către Smartech nu din eroare, ci cu știință, întrucât, astfel cum indică chiar producătorul contoarelor ofertate de acest operator, cerificarea PED este doar pentru temperatura minimă de -20°C, împrejurare față de care produsul nu corespunde cerințelor tehnice din cuprinsul caietului de sarcini.
+
+#### de considerentele indicate mai sus, s-a formulat contestația care a fost înregistrată la CNSC sub nr. de dosar 951/C4/2026.
+
+Suplimentar față de motivele la care a făcut referire mai sus, petenta a subliniat faptul că deținerea unei certificări emise de un organism autorizat european care să ateste că echipamentul a fost testat și este certificat a fi utilizat atât în intervalul de presiune, cât și în cel de temperatură sunt necesare pentru a garanta și asigura utilizatorul că echipamentul va funcționa corect și nu va pune în pericol viața și sănătatea utilizatorului în condițiile de lucru din teren la intervalele de temperatură pentru care este necesară certificarea.
+
+Prin decizia ####/C4/951/24.06.2026, CNSC a dispus respingerea contestației formulată de Vestra Industry ca nefondată.
+
+#### de motivarea CNSC, în discuție este dacă ofertanții din cadrul procedurii de achiziție erau obligați sau nu să depună anumite tipuri de certificări pentru intervalele de temperatură impuse de către autoritatea contractantă, iar în caz afirmativ care erau respectivele certificări.
+
+De asemenea, în discuție este și dacă dovada certificărilor privind intervalul de temperaturi putea fi efectuată prin simpla declarație a ofertantului.
+
+Din analiza conținutului documentației de atribuire solicită instanței să rețină că motivarea CNSC sub aspectul lipsei vreunei obligații de a prezenta un anumit tip de certificări, respectiv sub aspectul probării încadrării în cerințele tehnice impuse de autoritatea contractantă prin simpla declarație a ofertantului, nu pot fi primite.
+
+În acest sens, arată că prin caietul de sarcini, despre care CNSC arată că nu s-ar referi la niciuna dintre obligațiile la care a făcut referire mai sus, autoritatea contractantă, în termeni expliciți și lipsiți de echivoc, a stabilit următoarele:
+
+Cerințe metrologice:
+
+Se va asigura legalitatea metrologică pentru introducere pe piață și punere în funcțiune a contoarelor ce vor fi livrate, în conformitate cu legislația română metrologică aplicabilă, în vigoare. Trebuie furnizate toate documentele și certificatele prevăzute de procedurile aplicate pentru evaluarea conformității
+
+Contoarele trebuie să aibă toate documentele, marcajele și sigiliile necesare pentru asigurarea legalității metrologice conform pct.s3.1.
+
+Documentele pentru asigurarea legalității metrologice trebuie să aibă la livrare valabilitatea astfel încât să permită punerea în funcțiune într-o perioadă de cel puțin 12 luni de la data recepției s3.4. Verificarea (testarea) contoarelor necesară pentru asigurarea legalității metrologice trebuie să fie recentă (maxim 9 luni înainte de livrare), fapt ce va fi confirmat și de declarațiile de conformitate ale producătorului/rapoartele de testare/buletinele de verificare metrologică inițială. Se vor livra ######## de testare pentru fiecare contor. 
+
+Legalitatea metrologică a contorului livrat nu va fi afectată de lucrările ulterioare de montaj în teren și punerea în funcțiune a contorului (cuplare inductori depresiune și temperatură la linia de măsurare, conectare la convertorul de volum, etc).
+
+Condiții constructive:
+
+#### de protecție mecanică adecvat funcționării în instalații tehnologice exterioare pentru indexul mecanic totalizator gradul de protecție va fi IP 65 sau mai bun.
+
+Respectarea condițiilor de introducere pe piață a echipamentelor sub presiune, directiva europeană 2014/68/UE, transpusă în ####### prin HG 123/2015.
+
+Certificare generatoare de impulsuri pentru utilizare în siguranță în medii cu atmosferă potențial explozivă, zona 2 (gaze naturale) conform clasificării IEC/CENELEC/EUROPE.
+
+Respectarea cerințelor din încercările de tip și a condițiilor de proiectare, construcție și materiale din SR EN 12261.
+
+Așadar, cerințele, iar nu dezideratele de la care se poate face rabat, astfel cum au fost enunțate în mod expres de către autoritatea în cuprinsul caietului de sarcini, sunt următoarele:
+
+■ ofertanții vor asigura legalitatea metrologică pentru introducerea pe piață și punere în funcțiune a contoarelor ce vor fi livrate, în conformitate cu legislația română aplicabilă, în vigoare. Trebuie furnizate toate documentele si certificatele prevăzute de procedurile aplicabile pentru evaluarea conformității.
+
+Autoritatea contractantă stipulează în termeni imperativi că documentele și certificatele trebuie furnizate. Prezentarea lor nu este enunțată în termeni dispozitivi - pot fi prezentate.
+
+■ respectarea condițiilor de introducere pe piață a echipamentelor sub presiune: directiva europeană 2014/68/UE, transpusă în ####### prin HG 123/2015.
+
+HG ######## reglementează condițiile pentru introducerea pe piață a echipamentelor sub presiune și obligațiile pe care organismele de evaluare a conformității le au la momentul certificării echipamentelor care fac obiectul reglementării, respectiv atenționările și obligațiile pe care le pot impune producătorului în vederea certificării, și, pe cale de consecință, a punerii pe piață.
+
+Respectarea condițiilor de introducere pe piață a echipamentelor sub presiune presupune deținerea certificării specifice în acest scop, respectiv certificarea PED.
+
+Consecvența impune a se concluziona, până în acest punct, în sensul că plaja de temperaturi trebuie respectată de către ofertanți atât din punct de vedere metrologic (MID), cât și constructiv (PED).
+
+Prin urmare, concluzia CNSC cu privire la lipsa vreunei obligații de a prezenta certificări nu pare să fie acoperită de chiar actul analizat pentru a se ajunge la această concluzie neîntemeiată, respectiv caietul de sarcini.
+
+Concluzia la care a ajuns CNSC se sprijină în integralitatea pe ceea ce autoritatea contractantă, în încercarea de a mistifica conținutul clar al caietului de sarcini.
+
+Punctul de vedere depus nu este relevant din perspectiva specificațiilor tehnice, importanță prezentând ceea ce autoritatea contractantă a solicitat prin caietul de sarcini. Din această perspectivă, trimiterile CNSC la regulile de drept in dubio pro reo și nemo auditur propria turpitudinem allegans sunt improprii. Ceea de CNSC ar fi trebuit să aibă în vedere, cu aplicabilitate în cauză, este regula mai generală de logică potrivit căreia nimeni nu se poate contrazice pe sine însuși.
+
+În concret, prin motivare, CNSC girează conduita autorității contractante care, prin punctul de vedere depus la dosarul cauzei, a încercat, cu succes, să modifice cerința intervalului de temperaturi și a obligației existenței certificărilor reglementate de lege, în sensul de o a face insignifiantă.
+
+De asemenea, pentru ipoteza în care ar accepta tezele CNSC, ar însemna că, în egală măsură, să se accepte că autoritatea contractantă, iresponsabilă fiind, a urmărit să exploateze echipaje fără certificările necesare, apreciind ca fiind suficiente declarațiile producătorului sau ale ofertantului cu privire la respectarea cerințelor metrologice și constructive, astfel cum acestea sunt stipulate în termeni imperativi prin caietul de sarcini elaborat de autoritatea contractantă.
+
+În această privință, CNSC a acordat prioritate, în mod neîntemeiat, unor simple alegații ale autorității contractante din punctul de vedere depus la dosarul cauzei, care sunt, prin însăși natura lor, enunțate pro causa. 
+
+CNSC, preluând respectivele afirmații, fără a le verifica coerența în raport de caietul de sarcini, a interpretat voința reală a autorității contractante, voință contrazisă prin caietul de sarcini.
+
+Chiar dacă ar aprecia o astfel de interpretare a voinței autorității contractante ca fiind acceptabilă, solicită instanței să aibă în vedere că potrivit normelor interne elaborate de autoritatea contractantă pentru achiziția de instalații tehnologice de tip SRM - stație reglare măsurare-„toate echipamentele mecanice aferente instalației tehnologice trebuie să funcționeze corect indiferent de condițiile de mediu ambiant în intervalul de temperatură - 29C și + 55C. Se acceptă contorul și dispozitivul de conversie la condiții de mediu -25C și +55C, cu luarea tuturor măsurilor care să asigure funcționarea acestora în condițiile cerute prin prezentele cerințe. Echipamentele electrice și de autorizare montate în camera de operare și control vor avea specificații pentru intervalul de temperatură OC și +50C.
+
+De altfel, astfel cum a arătat și prin concluziile depuse în etapa contestației, funcționarea optimă a acestor echipamente de măsurare sub presiune este atent monitorizată de stat prin legislația europeană și națională, acesta fiind motivul pentru care entitatea a introdus în caietul de sarcini obligația de a face dovada conformității cu legislația aplicabilă, respectiv prezentarea certificărilor MID, PED și a altor reglementări aplicabile.
+
+Or, pentru emiterea acestor certificate, organismele de certificare analizează un set de cerințe esențiale de securitate, printre care se numără și intervalul de temperatură de funcționare a echipamentelor. Așadar, chiar dacă entitatea vrea să privească separat cele două cerințe, ele sunt indisolubil legate conform reglementărilor legale incidente la care caietul de sarcini trimite expres.
+
+Astfel, în privința certificării PED, în legislația internă există HG nr. 123/2015 privind stabilirea condițiilor pentru punerea la dispoziție pe piață a echipamentelor sub presiune, elaborată în conformitate cu Directiva 2014/68/UE/15-mai-2014. La art. 2 din HG ######## este prezentată o definiție de interes pentru prezenta speță, după cum urmează: temperatură minim/maxim admisibilă TS - temperaturile minime și maxime pentru care este proiectat echipamentul, așa cum sunt specificate de producător.
+
+Termenul TS se referă la temperatura de serviciu, iar o explicație mai clară a definiției de mai sus ar fi aceea că TS minimă este cea mai mică temperatură la care echipamentul poate funcționa în siguranță, iar TS maximă este cea mai mare temperatură admisibilă în exploatare.
+
+#### evident așadar că temperatura este un element esențial care face obiectul analizei cu ocazia certificării unui echipament sub presiune.
+
+Mai departe, în Anexa 1 la HG ######## în cadrul căreia sunt analizate cerințele esențiale de securitate există următoarele prevederi importante pentru prezenta speță. Așadar, certificarea PED atestă, printre altele, că echipamentul poate fi folosit în siguranță în anumite intervale de temperatură ambientală și de funcționare, fiind avute în vedere toate combinațiile posibile de temperatură și presiune care survin în condițiile de funcționare a echipamentului.
+
+Prin urmare, argumentația entității contractante în sensul că temperaturile de funcționare/ambientale și certificările MID și PED nu se coroborează ci trebuie privite ca două cerințe independente este lipsită de fundament. Atâta vreme cât, conform cerințelor de funcționare, temperatura minimă ambientală și/sau a gazului poate ajunge până la -25 grade C, certificarea echipamentului sub presiune trebuie să cuprindă un interval de temperatură corespunzător primei cerințe. Altfel, intervalul de temperatură ce excedă certificării ridică probleme de siguranță în exploatare.
+
+Prin reducere la absurd, dacă s-ar admite teza entității contractante potrivit căreia temperatura prevăzută în certificarea PED nu trebuie să coincidă cu temperatura minimă de funcționare impusă prin caietul de sarcini, ar însemna că entitatea poate declara conform un produs pentru utilizare la -25°C deși documentul de conformitate relevant pentru echipamentul sub presiune îl acoperă doar de la -20°C în sus. În acest raționament, segmentul -25°C/-20°C rămâne în afara domeniului certificat, astfel încât cerința de prezentare a certificării PED devine lipsită de utilitate practică pentru verificarea îndeplinirii cerinței tehnice minime. Or, o interpretare care golește de conținut o cerință a caietului de sarcini este inadmisibilă, întrucât transformă o condiție tehnică obligatorie într-una pur formală. Prin urmare, pentru produsul ofertat, documentele de conformitate nu pot fi apreciate izolat și contradictoriu: nu este suficient ca manualul să afirme funcționarea la -25°C, dacă certificarea PED a aceluiași echipament nu acoperă această limită minimă.
+
+Petenta arată că manualul este o declarație a producătorului privind utilizarea, în timp ce certificarea este dovada evaluării conformității echipamentului cu cadrul legal aplicabil. A admite că declarația din manual prevalează asupra limitelor din certificare, exact pentru zona contestată, înseamnă a substitui proba de conformitate cu o simplă afirmație comercială. Prin urmare, pentru același produs ofertat, destinat să funcționeze potrivit caietului de sarcini la -25°C, entitatea nu poate considera suficientă o documentație contradictorie, în care manualul prezentat de ofertantul declarat câștigător declară utilizarea la -25°C, dar certificarea PED limitează utilizarea în condiții de siguranță la -20°C. O astfel de interpretare nesocotește caracterul obligatoriu al cerinței tehnice minime și lipsește de efect util cerința privind prezentarea certificării PED.
+
+Entitatea contractantă a susținut că cerința privind intervalul de temperatură vizează strict conservarea performantelor metrologice ale echipamentului în exploatare, iar nu structura sau conținutul fiecărei certificări.
+
+Certificarea PED presupune testarea funcționării echipamentului în anumite condiții de temperatură în raport de care se poate stabili apoi că echipamentul poate fi folosit în condiții de siguranță, din punct de vedere constructiv, iar nu metrologic. Așadar, nu se poate susține că diferențele intervalelor de temperatură din cadrul certificărilor MID și PED nu constituie o neconformitate.
+
+Identitatea dintre intervalele de temperatură avute în vedere pentru emiterea certificărilor și temperaturile de funcționare reiese și din modalitatea în care aceste elemente sunt prezentate în documentele depuse de ofertantul declarat câștigător în susținerea ofertei sale, documente din care entitatea extrage paragrafe în cadrul punctului de vedere.
+
+În condițiile în care chiar producătorul corelează, în mod expres, intervalul de temperatură cu certificările MID și PED. În documentația tehnică, susținerea entității contractante potrivit căreia temperatura de certificare ar fi irelevantă față de temperatura de funcționare apare ca fiind lipsită de fundament, întrucât contrazice modul în care produsul este definit și certificat de către producătorul însuși.
+
+Nu în ultimul rând, obligația de a depune ambele certificări, despre care CNSC a apreciat că nu ar exista, a fost înțeleasă ca atare și de către ofertanți, în sensul că atât petenta, cât și Smartech au depus cele trei certificări necesare pentru acest tip de echipamente, respectiv certificările MID, PED și ATEX.
+
+#### important de reținut că CNSC a omis să analizeze certificarea PED depusă de către ofertantul declarat câștigător conținea o singură pagină, lipsind fila 2, al cărei scop este să ateste intervalul de temperaturi pentru care echipamentul a fost primit certificarea constructivă.
+
+În concluzie, singura concluzie legală și temeinică pe care CNSC o putea formula este în sensul că certificările MID și PED erau obligatorii pentru intervalul de temperatură stabilit de autoritatea contractantă, iar în lipsa acestora, în speță sunt incidente dispozițiile art. 228 alin. (5) din Legea nr. 99/2016 și art. 143 alin. (3) din HG nr. 394/2016 
+
+#### de toate considerentele expuse solicită admiterea plângerii astfel cum a fost formulată, cu obligarea autorității contractante la acoperirea cheltuielilor de judecată ocazionate de prezentul demers judiciar.
+
+III Poziția intimatei
+
+[instituție publică]Transport Gaze Naturale „[operator economic public]" S.A. prin întâmpinarea la plângere a solicitat respingerea plângerii formulate de petenta ###### ######## S.R.L. ca nefondată, menținerea ca legală și temeinică a Deciziei CNSC nr. 1288/C4/951 și a actelor emise de autoritatea contractantă ca fiind întocmite cu respectarea dispozițiilor legale incidente în materia achizițiilor publice, cu obligarea petentei la plata cheltuielilor de judecată ocazionate de prezentul litigiu.
+
+În susținerea concluziilor din întâmpinare arată următoarele:
+
+Prin contestația formulată în fața Consiliului Național de Soluționare a Contestațiilor, petenta ###### ######## S.R.L. a criticat rezultatul procedurii de achiziție publică organizate de autoritatea contractantă ######## S.A., solicitând anularea actelor emise în cadrul procedurii și reevaluarea ofertelor.
+
+Prin Decizia CNSC nr. 1288/C4/951, Consiliul a analizat criticile formulate și a dispus respingerea contestației, reținând legalitatea conduitei autorității contractante și conformitatea evaluării realizate în cadrul procedurii.
+
+Cu privire la inadmisibilitatea motivelor noi invocate prin plângere.
+
+În măsura în care petenta înțelege să invoce prin plângerea formulată motive noi, care nu au fost supuse analizei CNSC, solicită instanței să constate inadmisibilitatea acestora. Potrivit dispozițiilor Legii nr. 101/2016, controlul exercitat de instanță în cadrul plângerii formulate împotriva deciziei CNSC vizează verificarea legalității și temeiniciei deciziei raportat la criticile deduse soluționării în fața Consiliului, iar nu formularea unor apărări ori motive complet noi.
+
+Art. 31 alin. 3 din Legea nr. 101/2016, interzice în mod clar prezentarea unor probe noi față de cele care au fost depuse în cadrul contestației.
+
+Cu privire la netemeinicia plângerii.
+
+Plângerea formulată de petentă este nefondată, întrucât Decizia CNSC nr. 1288/C4/951 este legală și temeinică, fiind pronunțată cu interpretarea și aplicarea corectă a dispozițiilor legale incidente.
+
+Autoritatea contractantă a respectat principiile transparenței, tratamentului egal, proporționalității și utilizării eficiente a fondurilor publice pe tot parcursul procedurii de atribuire.
+
+Evaluarea ofertelor s-a realizat exclusiv în raport de cerințele documentației de atribuire și de documentele depuse de operatorii economici participanți, fără încălcarea dispozițiilor legale în materia achizițiilor publice.
+
+Criticile formulate de petentă reprezintă, în realitate, simple nemulțumiri față de rezultatul procedurii, fără a evidenția existența unor vicii de legalitate care să atragă anularea actelor contestate.
+
+În mod corect, CNSC a reținut că autoritatea contractantă și-a exercitat dreptul de apreciere în limitele conferite de lege și cu respectarea documentației de atribuire.
+
+#### de considerentele expuse, solicită respingerea plângerii formulate de petenta Vestra Industry ca nefondată și menținerea ca legală și temeinică a Deciziei CNSC nr. 1288/C4/951, precum și a tuturor actelor emise de autoritatea contractantă în cadrul procedurii de atribuire.
+
+IV. Decizia instanței
+
+Analizând plângerea formulată, Curtea constată următoarele:
+
+Prin anunțul de participare nr. CN1088116, publicat în Sistemul Electronic de Achiziții Publice -SEAP la 10.12.2025, entitatea contractantă [instituție publică]Transport Gaze Naturale „[operator economic public]" SA a inițiat o procedură de licitație deschisă online în vederea procurării a 126 de contoare cu turbină cu funcționare orizontală, estimate valoric la 2.524.853,28 lei, fără TVA. Documentația de atribuire a fost postată pe portalul SEAP la 10.12.2025, alături de anunțul de invitare la competiție.
+
+La procedură s-au prezentat petenta ###### ######## SRL, a cărei ofertă, cu prețul de 2.306.000 lei, fără TVA, a fost clasată pe locul secund, și ######## ####### SRL, a cărei ofertă a fost desemnată câștigătoare, cu prețul de 2.295.324 lei, fără TVA, prin raportul procedurii nr. 18469/05.03.2026.
+
+ Împotriva acestui rezultat, ###### ######## SRL a formulat contestație care a fost respinsă de Consiliul Național prin Decizia ce formează obiectul plângerii pendinte. 
+
+Petenta susține în esență că oferta depusă de ######## ####### SRL nu respectă cerințele caietului de sarcini referitoare la intervalul de temperatură, motivat de faptul că intervalele declarate în certificările aferente echipamentului, în special cele aferente MID și PED, nu coincid, iar certificatele MID și PED sunt indisolubil legate și că temperatura este un element esențial în certificare.
+
+Pentru a analiza criticile petentei, Curtea va reține cerințele caietului de sarcini, la care urmează a fi efectuată raportarea ofertei ######## ####### SRL din perspectiva conformității tehnice, care prevăd următoarele caracteristici tehnice, 
+
+- temperatura mediului: min. - 25°C ~ max. 55°C;
+
+- temperatura gazului: - 25°C + 50°C.
+
+Conform pct. s.6.2 oferta tehnică va conține documentele necesare care atestă conformitatea cu legislația română metrologică aplicabilă. Se va prezenta modul în care va fi asigurată legalitatea metrologică a contoarelor ce vor fi livrate. S.6.3 – Oferta tehnică va conține toate documentele necesare care atestă conformitatea cu legislația română privind introducerea pe piață a echipamentelor sub presiune.
+
+Entitatea contractantă a pus la dispoziția viitorilor ofertanți, în SEAP, un formular specific - „formular de propunere tehnică privind îndeplinirea cerințelor minime din caietul de sarcini contoare cu turbină cu poziția de funcționare orizontală”, potrivit căruia:
+
+Informațiile prezentate de către ofertant pentru demonstrarea îndeplinirii cerinței minime din caietul de sarcini - ”Ofertantul va descrie în mod concret și în nume propriu modalitatea de îndeplinire a cerinței din caietul de sarcini. De asemenea va indica, pentru fiecare cerință, pagina din fișa tehnică (manual sau specificație tehnică) în care se regăsește îndeplinirea acesteia”.
+
+#### de modalitatea expresă impusă de autoritatea contractantă pentru îndeplinirea cerinței din caietul de sarcini, susținerea petentei referitoare la obligația aducerii anumitor certificări privind plaja temperaturilor de funcționare este o adăugare la cerințele autorității contractante, ce nu poate fi primită de instanță, așa cum corect a reținut și Consiliul Național. În mod evident, [operator economic public] a impus un interval de funcționare pentru echipament (temperatură gaz și temperatură mediu), care trebuia dovedit de către ofertanți, însă nu a specificat un document anume din care să rezulte îndeplinirea cerinței.
+
+Contrar susținerilor petentei, documentația de atribuire nu conține nicio prevedere expresă care să impună identitatea intervalelor de temperatură intre diferitele certificări si nici corelarea formală a acestora în sensul susținut de aceasta. În acest context, nu era necesară depunerea pag. 2 din certificatul PED, întrucât acesta nu ar fi adus elemente suplimentare care să consolideze îndeplinirea cerinței.
+
+De asemenea, susținerea petentei potrivit căreia „toate cele 3 tipuri de certificare trebuie să aibă în vedere această cerință esențială de securitate", nu va fi primită de instanță deoarece nu are suport nici în legislația aplicabilă, nici în documentația de atribuire, in caietul de sarcini neexistând cerințe stipulate în acest sens.
+
+Verificând propunerea tehnică a ofertantului Smartech, autoritatea contractantă a constatat că acesta a răspuns cerințelor caietului de sarcini, fiind indicate anumite pagini din manual, în ceea ce privește intervalul de temperatură, și fiind depuse totodată și Certificate de examinare de tip UE unde la paragraful Mediu – gaz, ambient, temperatură de depozitare, se regăsește menționat intervalul de temperatură -25°C + 55°C, care corespunde cerințelor caietului de sarcini (filele ### #### și 147 – 163 din oferta Smartech).
+
+Prin urmare, atâta timp cât documentația de atribuire nu prevede expres că trebuie să existe o identitate între intervalele de temperatură menționate la cerința s2 și intervalele de temperatură menționate în certificatele ce fac obiectul cerinței s6, înseamnă că această corelare între cerințe în maniera prezentată de petentă reprezintă o adăugare la cerințele documentației, de atribuire, care nu poate fi primită de instanță.
+
+Curtea reține și faptul că este deosebit de relevantă împrejurarea că, fiind beneficiara produselor ce fac obiectul achiziției și pe care urmează a le exploata, precum și autoarea caietului de sarcini, entitatea contractantă organizatoare este cea mai în măsură să cunoască propriile necesități și adecvarea contoarelor la acestea prin prisma complianței cu specificațiile impuse în caiet.
+
+#### extrem de important a se observa că niciunul dintre ofertanți nu este ținut să facă dovada respectării unor cerințe care nu erau prevăzute în documentația de atribuire. ######### de transparență are ca scop în special să garanteze că este înlăturat riscul de arbitrar din partea autorității/entității contractante (Hotărârea Curții de Justiție a Uniunii Europene în cauza SAG ELV Slovensko și alții, C-599/10, EU:C:2012:191, punctul 25, precum și jurisprudența acolo citată). Principiul egalității de tratament și obligația de transparență interzic autorității contractante să respingă o ofertă care îndeplinește cerințele prevăzute în cererea de ofertă pe baza unor motive care nu au fost prevăzute în cererea de ofertă menționată (Hotărârea Medipac-Kazantzidis, C-6/05, EU:C:2007:337, punctul 54). 
+
+De asemenea, instanța de la Luxembourg a statuat că autoritățile contractante dispun de libertatea de a determina, în conformitate cu nevoile lor, nivelul de calitate tehnică pe care trebuie să îl asigure ofertele depuse în funcție de caracteristicile și de obiectul contractului în cauză și de a stabili un prag minim pe care aceste oferte trebuie să îl respecte din punct de vedere tehnic. Aceste criterii trebuie, astfel cum rezultă din art. 67 alin. 4 al Directivei 2014/24, să asigure respectarea principiilor trasnparenței, nediscriminării și egalității de tratament cu scopul de a asigura o comparație obiectivă a valorii relative a ofertelor și deci o concurență efectivă. 
+
+Din jurisprudența Curții rezultă de asemenea că, în principiu, entitatea contractantă nu poate modifica în cursul procedurii de atribuire conținutul condițiilor esențiale ale contractului, printre care figurează specificațiile tehnice, precum și criteriile de atribuire, pe care s-au întemeiat în mod legitim operatorii economici interesați pentru a adopta decizia de pregătire a prezentării unei oferte sau, dimpotrivă, pentru a renunța la participarea la procedura de atribuire a contractului în cauză (a se vedea în acest sens Hotărârea din 5 aprilie 2017, #####, C-298/15, EU:C:2017:266, punctul 70, Hotărârea din 10 mai 2012, #######/Țările de Jos, C-368/10, EU:C:2012:284, punctul 55, și Hotărârea din 16 aprilie 2015, Enterprise Focused Solutions, C-278/14, EU:C:2015:228, punctele 27-29).
+
+Se mai arată că și raționamentul Curții din Hotărârea din 26 ianuarie 2023, NV Construct, C-403/21, EU:C:2023:47, din care cităm (extras), poate fi valorificat, prin analogie (în loc de criterii de calificare se va face trimitere la specificații tehnice):
+
+59. Prin intermediul primei întrebări, instanța de trimitere solicită în esență să se stabilească dacă articolul 58 din Directiva 2014/24 coroborat cu principiile proporționalității și transparenței garantate la articolul 18 alineatul (1) primul paragraf din această directivă trebuie interpretat în sensul că autoritatea contractantă are posibilitatea de a impune drept criterii de selecție obligații rezultate din reglementări speciale aplicabile unor activități care sunt susceptibile să trebuiască să fie realizate în cadrul executării unui contract de achiziții publice și care nu au o importantă semnificativă.
+
+60. Fiind cel mai bine plasată pentru a evalua propriile nevoi, autorității contractante i s-a recunoscut de către legiuitorul Uniunii o largă putere de apreciere cu ocazia stabilirii criteriilor de selecție, fapt demonstrat în special de utilizarea recurentă a verbului „a putea" la articolul 58 din Directiva 2014/24. Astfel, în conformitate cu alineatul (1) al acestui articol, aceasta beneficiază de o anumită marjă de apreciere pentru definirea condițiilor de participare la o procedură de atribuire a unui contract pe care le consideră ca având legătură și fiind proporționale cu obiectul contractului și de natură să garanteze că un candidat sau un ofertant dispune de capacitate juridică și financiară, precum și de competențele tehnice și profesionale necesare pentru executarea contractului care urmează să fie atribuit. Mai precis, potrivit alineatului (4) al articolului menționat, autoritatea contractantă apreciază în mod liber condițiile de participare pe care le consideră proprii, din punctul său de vedere, pentru a garanta în special executarea contractului la un nivel de calitate pe care îl estimează ca adecvat
+
+(Hotărârea din 31 martie 2022, Smetna paiața na Republika ########, C-195/21, EU:C:2022^239, punctul 50).
+
+61. În exercitarea acestei largi puteri de apreciere, autoritatea contractantă poate decide să includă, printre criteriile de selecție menționate într-un anunț de participare sau într-un caiet de sarcini, obligații rezultate din reglementări speciale aplicabile unor activități care sunt susceptibile să trebuiască să fie realizate în cadrul executării unui contract de achiziții publice și care nu au o importantă semnificativă.
+
+62. Invers, autoritatea contractantă poate utiliza deopotrivă această largă putere de apreciere pentru a considera că nu este necesar ca aceste obligații să figureze printre criteriile de selecție. O atare alegere s-ar putea explica în special prin faptul că obligațiile respective nu au o importanță semnificativă sau prin caracterul eventual al realizării activităților cărora li se aplică obligațiile în cauză. Autoritatea contractantă ar putea prefera de asemenea să menționeze aceleași obligații în cadrul condițiilor de executare a contractului pentru a nu impune respectarea acestora decât ofertantului câștigător (a se vedea prin analogie Hotărârea din 7 septembrie 2021, Klaipedos regiono atliekii tvarkymo centras, C-927/19, EU:C:2021:700, punctele 88 și 89).
+
+63. Astfel, Directiva 2014/24 nu exclude ca cerințe tehnice să poată fi reținute în același timp ca fiind criterii de selecție care au legătură cu capacitățile tehnice și profesionale, ca specificații tehnice și/sau drept condiții de executare a contractului, în sensul articolului 58 alineatul (4), al articolului 42 și, respectiv, al articolului 70 din această directivă (Hotărârea din 7 septembrie 2021, Klaipedos regiono atliekn. tvarkymo centras, C-927/19, EU:C:2021:700, punctul 84). În mod reciproc, o autoritate contractantă poate decide să opteze pentru una singură dintre aceste calificări.
+
+64. În această privință, o autoritate contractantă poate stabili, în temeiul articolului 70 din Directiva 2014/24, cerințe speciale privind executarea unui contract, cu condiția ca acestea să fie legate de obiectul contractului, în sensul articolului 67 alineatul (3) din această directivă, și să fie indicate în invitația la procedura concurențială de ofertare sau în documentele achiziției.
+
+65. În plus, a constrânge ofertanții să îndeplinească toate condițiile de executare a contractului încă de la prezentarea ofertei lor constituie o cerință excesivă, care riscă să descurajeze acești operatori să participe la procedurile de achiziții publice și încalcă prin aceasta principiile proporționalității și transparenței garantate la articolul 18 alineatul (1) din directiva menționată (Hotărârea din 8 iulie 2021, Sanresa, C-295/20, EU:C:2021:556, punctul 62).
+
+66. În consecință, este necesar să se răspundă la prima întrebare că articolul 58 din Directiva 2014/24 coroborat cu principiile proporționalității și transparenței garantate la articolul 18 alineatul (1) primul paragraf din această directivă trebuie interpretat în sensul că autoritatea contractantă are posibilitatea de a impune drept criterii de selecție obligații rezultate din reglementări speciale aplicabile unor activități care sunt susceptibile să trebuiască să fie realizate în cadrul executării unui contract de achiziții publice și care nu au o importanță semnificativă.
+
+Cu privire la a doua întrebare
+
+67. Prin intermediul celei de a doua întrebări, instanța de trimitere solicită în esență să se stabilească dacă principiile proporționalității și transparenței garantate la articolul 18 alineatul (1) primul paragraf din Directiva 2014/24 trebuie interpretate în sensul că se opun ca documentele achiziției să fie completate de drept cu criterii de calificare rezultate din reglementări speciale aplicabile unor activități legate de contractul ce urmează să fie atribuit care nu au fost prevăzute în aceste documente și pe care autoritatea contractantă nu a intenționat să le impună operatorilor economici în cauză.
+
+68. Astfel cum reiese din răspunsul dat la prima întrebare, pentru a nu a lipsi de substanță larga putere de apreciere de care dispune autoritatea contractantă pentru a stabili criteriile de selecție pe care intenționează să le impună operatorilor economici drept condiții de participare la o procedură de atribuire a unui contract de achiziții, obligațiile rezultate din reglementări speciale aplicabile unor activități legate de un contract de achiziții publice care urmează să fie atribuit nu se pot adăuga de drept în calitate de criterii de selecție la criteriile menționate expres în documentele acestui contract.
+
+69. Prin urmare, este necesar să se răspundă la a doua întrebare că principiile proporționalității și transparenței garantate la articolul 18 alineatul (1) primul paragraf din Directiva 2014/24 trebuie interpretate în sensul că se opun ca documentele achiziției să fie completate de drept cu criterii de calificare rezultate din reglementări speciale aplicabile unor activități legate de contractul ce urmează să fie atribuit care nu au fost prevăzute în aceste documente și pe care autoritatea contractantă nu a intenționat să le impună operatorilor economici în cauză.
+
+Se mai arată că și raționamentul Curții din Hotărârea din 26 ianuarie 2023, NV Construct, C-403/21, EU:C:2023:47, din care cităm (extras), poate fi valorificat, prin analogie (în loc de criterii de calificare se va face trimitere la specificații tehnice):
+
+59. Prin intermediul primei întrebări, instanța de trimitere solicită în esență să se stabilească dacă articolul 58 din Directiva 2014/24 coroborat cu principiile proporționalității și transparenței garantate la articolul 18 alineatul (1) primul paragraf din această directivă trebuie interpretat în sensul că autoritatea contractantă are posibilitatea de a impune drept criterii de selecție obligații rezultate din reglementări speciale aplicabile unor activități care sunt susceptibile să trebuiască să fie realizate în cadrul executării unui contract de achiziții publice și care nu au o importantă semnificativă.
+
+60. Fiind cel mai bine plasată pentru a evalua propriile nevoi, autorității contractante i s-a recunoscut de către legiuitorul Uniunii o largă putere de apreciere cu ocazia stabilirii criteriilor de selecție, fapt demonstrat în special de utilizarea recurentă a verbului „a putea" la articolul 58 din Directiva 2014/24. Astfel, în conformitate cu alineatul (1) al acestui articol, aceasta beneficiază de o anumită marjă de apreciere pentru definirea condițiilor de participare la o procedură de atribuire a unui contract pe care le consideră ca având legătură și fiind proporționale cu obiectul contractului și de natură să garanteze că un candidat sau un ofertant dispune de capacitate juridică și financiară, precum și de competențele tehnice și profesionale necesare pentru executarea contractului care urmează să fie atribuit. Mai precis, potrivit alineatului (4) al articolului menționat, autoritatea contractantă apreciază în mod liber condițiile de participare pe care le consideră proprii, din punctul său de vedere, pentru a garanta în special executarea contractului la un nivel de calitate pe care îl estimează ca adecvat
+
+(Hotărârea din 31 martie 2022, Smetna paiața na Republika ########, C-195/21, EU:C:2022^239, punctul 50).
+
+61. În exercitarea acestei largi puteri de apreciere, autoritatea contractantă poate decide să includă, printre criteriile de selecție menționate într-un anunț de participare sau într-un caiet de sarcini, obligații rezultate din reglementări speciale aplicabile unor activități care sunt susceptibile să trebuiască să fie realizate în cadrul executării unui contract de achiziții publice și care nu au o importantă semnificativă.
+
+62. Invers, autoritatea contractantă poate utiliza deopotrivă această largă putere de apreciere pentru a considera că nu este necesar ca aceste obligații să figureze printre criteriile de selecție. O atare alegere s-ar putea explica în special prin faptul că obligațiile respective nu au o importanță semnificativă sau prin caracterul eventual al realizării activităților cărora li se aplică obligațiile în cauză. Autoritatea contractantă ar putea prefera de asemenea să menționeze aceleași obligații în cadrul condițiilor de executare a contractului pentru a nu impune respectarea acestora decât ofertantului câștigător (a se vedea prin analogie Hotărârea din 7 septembrie 2021, Klaipedos regiono atliekii tvarkymo centras, C-927/19, EU:C:2021:700, punctele 88 și 89).
+
+63. Astfel, Directiva 2014/24 nu exclude ca cerințe tehnice să poată fi reținute în același timp ca fiind criterii de selecție care au legătură cu capacitățile tehnice și profesionale, ca specificații tehnice și/sau drept condiții de executare a contractului, în sensul articolului 58 alineatul (4), al articolului 42 și, respectiv, al articolului 70 din această directivă (Hotărârea din 7 septembrie 2021, Klaipedos regiono atliekn. tvarkymo centras, C-927/19, EU:C:2021:700, punctul 84). În mod reciproc, o autoritate contractantă poate decide să opteze pentru una singură dintre aceste calificări.
+
+64. În această privință, o autoritate contractantă poate stabili, în temeiul articolului 70 din Directiva 2014/24, cerințe speciale privind executarea unui contract, cu condiția ca acestea să fie legate de obiectul contractului, în sensul articolului 67 alineatul (3) din această directivă, și să fie indicate în invitația la procedura concurențială de ofertare sau în documentele achiziției.
+
+65. În plus, a constrânge ofertanții să îndeplinească toate condițiile de executare a contractului încă de la prezentarea ofertei lor constituie o cerință excesivă, care riscă să descurajeze acești operatori să participe la procedurile de achiziții publice și încalcă prin aceasta principiile proporționalității și transparenței garantate la articolul 18 alineatul (1) din directiva menționată (Hotărârea din 8 iulie 2021, Sanresa, C-295/20, EU:C:2021:556, punctul 62).
+
+66. În consecință, este necesar să se răspundă la prima întrebare că articolul 58 din Directiva 2014/24 coroborat cu principiile proporționalității și transparenței garantate la articolul 18 alineatul (1) primul paragraf din această directivă trebuie interpretat în sensul că autoritatea contractantă are posibilitatea de a impune drept criterii de selecție obligații rezultate din reglementări speciale aplicabile unor activități care sunt susceptibile să trebuiască să fie realizate în cadrul executării unui contract de achiziții publice și care nu au o importanță semnificativă.
+
+Cu privire la a doua întrebare
+
+67. Prin intermediul celei de a doua întrebări, instanța de trimitere solicită în esență să se stabilească dacă principiile proporționalității și transparenței garantate la articolul 18 alineatul (1) primul paragraf din Directiva 2014/24 trebuie interpretate în sensul că se opun ca documentele achiziției să fie completate de drept cu criterii de calificare rezultate din reglementări speciale aplicabile unor activități legate de contractul ce urmează să fie atribuit care nu au fost prevăzute în aceste documente și pe care autoritatea contractantă nu a intenționat să le impună operatorilor economici în cauză.
+
+68. Astfel cum reiese din răspunsul dat la prima întrebare, pentru a nu a lipsi de substanță larga putere de apreciere de care dispune autoritatea contractantă pentru a stabili criteriile de selecție pe care intenționează să le impună operatorilor economici drept condiții de participare la o procedură de atribuire a unui contract de achiziții, obligațiile rezultate din reglementări speciale aplicabile unor activități legate de un contract de achiziții publice care urmează să fie atribuit nu se pot adăuga de drept în calitate de criterii de selecție la criteriile menționate expres în documentele acestui contract.
+
+69. Prin urmare, este necesar să se răspundă la a doua întrebare că principiile proporționalității și transparenței garantate la articolul 18 alineatul (1) primul paragraf din Directiva 2014/24 trebuie interpretate în sensul că se opun ca documentele achiziției să fie completate de drept cu criterii de calificare rezultate din reglementări speciale aplicabile unor activități legate de contractul ce urmează să fie atribuit care nu au fost prevăzute în aceste documente și pe care autoritatea contractantă nu a intenționat să le impună operatorilor economici în cauză.
+
+Concluzionând, Curtea constată că principiile egalității de tratament și obligația de transparență, astfel cum au fost puse în aplicare prin Directiva 2004/18, au fost respectate de entitatea contractantă ######## SA, iar aceleași principii se opun acceptării poziției petentei în sensul sancționării unui ofertant care nu ar fi îndeplinit o anumită obligație care nu era prevăzută expres în caietul de sarcini. Această obligație de transparență implică formularea tuturor condițiilor și modalităților procedurii de atribuire în mod clar, precis și neechivoc în anunțul de participare sau în caietul de sarcini, astfel încât să permită tuturor ofertanților informați în mod rezonabil și obișnuit de diligenți să le înțeleagă conținutul exact și să le interpreteze în același mod și, în al doilea rând, să permită autorității contractante să verifice efectiv dacă ofertele prezentate de ofertanți corespund criteriilor care guvernează contractul în cauză (Hotărârea din 2 iunie 2016, Pizzo, C-27/15).
+
+Pentru aceste motive, în temeiul art. 34 alin. 5 din Legea 101/2016, Curtea va respinge ca nefondată, plângerea formulată de petenta ###### ######## SRL împotriva Deciziei CNSC nr. 1288/C4/951/23.04.2026, în contradictoriu cu intimata [instituție publică]Transport Gaze Naturale „[operator economic public]" SA.
+
+În temeiul art. 453 alin. 1 Cod pr. civilă, Curtea va respinge și cererea de obligare a intimatei la plata cheltuielilor de judecată.
+
+PENTRU ACESTE MOTIVE,
+
+ÎN NUMELE LEGII
+
+DECIDE
+
+Respinge  plângerea formulată de petenta SC ###### ######## SRL cu sediul în Cătămărești ####, Comuna ##### ########, nr. 85, jud. ######## și sediul procesual ales  la cabinet de avocat ####### ######### ### #### cu sediul profesional în București, #### ###### ### ##, parter, ### #, sector 2 împotriva Deciziei nr. ####/C4/951/23.04.2026  pronunțată de Consiliul Național de Soluționare a Contestațiilor, în contradictoriu cu intimata:
+
+[instituție publică]######### #### ######## ######## SA cu sediul în ######, str. C.I. #####, nr. 1, #### #####.
+
+Respinge cererea petentei privind obligarea intimatei la plata cheltuielilor de judecată.
+
+Definitivă.
+
+Pronunțată azi, 09 iunie 2026  prin punerea soluției la dispoziția părților de către grefa instanței.
+
+Președinte,
+
+##### ###### #####
+
+Judecător,
+
+##### ##### ########
+
+Judecător,
+
+######## ######
+
+Grefier,
+
+###### ####
+
+Red./Tehnored. ###
+
+4 ex./ 15.06.2026

@@ -1,0 +1,21 @@
+# Directiva 2014/25/UE — achiziții sectoriale (utilități)
+
+- **Tip:** Directivă UE
+- **Emitent:** Parlamentul European și Consiliul Uniunii Europene
+- **Dată / nr:** 26 februarie 2014; Directiva 2014/25/UE. Publicată în Jurnalul Oficial al Uniunii Europene **JO L 94, 28.3.2014, p. 243–374**.
+- **Obiect:** Stabilește normele privind atribuirea contractelor de achiziție de către entitățile contractante care își desfășoară activitatea în sectoarele **apei, energiei, transporturilor și serviciilor poștale** (sectoare „de utilități"). Normele se construiesc pe cele din Directiva 2014/24/UE, dar țin cont de natura specifică a acestor sectoare (entități publice și private cu drepturi speciale/exclusive). Abrogă Directiva 2004/17/CE.
+- **Activități vizate (sectoarele de relevanță):** gaze și energie termică, energie electrică, apă; servicii de transport (feroviar, tramvai, troleibuz, autobuz, sisteme automate, telecabină); porturi și aeroporturi; servicii poștale; extracția de petrol și gaze și prospectarea/extracția de cărbune și alți combustibili solizi.
+- **Structură pe scurt:**
+  - **Titlul I — Domeniu de aplicare, definiții și principii generale** (art. 1–28): obiect, praguri, definiții, entități contractante, activitățile sectoriale (art. 8–14), praguri și metode de calcul, contracte mixte, excepții, principii.
+  - **Titlul II — Norme aplicabile contractelor** (art. 44–106): proceduri de atribuire (deschisă, restrânsă, negociere cu invitație prealabilă, dialog competitiv, parteneriat pentru inovare), tehnici și instrumente electronice și agregate, pregătirea procedurii și specificații tehnice, publicarea și transparența, selecția calitativă (sisteme de calificare, criterii), atribuirea contractelor (criterii, oferte anormal de mici), executarea, modificarea și încetarea contractelor.
+  - **Titlul III — Regimuri speciale: servicii sociale și concursuri de proiecte**.
+  - **Titlul IV — Guvernanță** (asigurarea respectării normelor, raportare).
+  - **Titlul V — Competențe delegate și dispoziții finale**; termen de transpunere 18 aprilie 2016.
+  - **Anexe** detaliate privind activitățile și cerințele de publicare.
+- **Praguri (revizuite bienal prin regulamente delegate):** orientativ, la 1 ianuarie 2026 — cca 432 000 EUR (produse/servicii și concursuri), cca 5 404 000 EUR (lucrări), cca 1 000 000 EUR (servicii sociale și alte servicii specifice). A se verifica versiunea consolidată în vigoare pentru valorile exacte.
+- **Transpunere în RO:** **Legea nr. 99/2016** privind achizițiile sectoriale (norme de aplicare: HG nr. 394/2016).
+- **Sursă oficială:**
+  - Text integral RO: https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0025
+  - Versiune consolidată RO: https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:02014L0025-20220101
+  - Rezumat oficial RO: https://eur-lex.europa.eu/legal-content/RO/LSU/?uri=celex:32014L0025
+- **Status:** VERIFICAT (EUR-Lex, versiune RO)

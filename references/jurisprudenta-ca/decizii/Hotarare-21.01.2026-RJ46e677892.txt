@@ -1,0 +1,1422 @@
+Decizie nr. RJ 46e677892/2026 din 21-ian-2026, Curtea de Apel Bucuresti, litigiu privind achizitiile publice (Contencios administrativ si fiscal)
+
+Decizie
+
+din 21 Ianuarie 2026 
+
+46677892/2026
+
+Text speță
+
+Societate comercială, Societate comercială vs Persoană fizică
+
+Cod ECLI ECLI:RO:CABUC:2026:197.######
+
+Dosar nr. ####/2/2025(conexat ####/2/2025)
+
+R O M Â N I A
+
+CURTEA DE APEL BUCUREȘTI
+
+SECTIA A X-A DE C_________ ADMINISTRATIV SI FISCAL SI PENTRU ACHIZITII PUBLICE
+
+DECIZIE Nr. ##/2026
+
+Ședințapublică din data de 21 ######## 2026
+
+Curtea constituită din:
+
+PREȘEDINTE: ######### ####
+
+Judecător: ######### #####
+
+Judecător: ###### ######
+
+Grefier: ##########-####### #####
+
+Pe rol se află soluționarea plângerilor conexe formulate de petentele #### ########## ############ SRL și ### ####### ########### SRL-SMART BUSINESS&############ ######### SRL PRIN #####, împotriva Deciziei nr. ####/C1/2806,3042,3463,3499 din data de 15.10.2025, pronunțată de Consiliul Național de Soluționare a Contestațiilor, în contradictoriu cu intimatul JUDEȚUL #######, având ca obiect litigiu privind achizițiile publice - contestație atribuire.
+
+Dezbaterile au avut loc în cadrul ședinței publice de la 16.01.2026, fiind consemnate în cuprinsul încheierii de la acea dată, care face parte integrantă din prezenta, când instanța, având nevoie de timp pentru a delibera, a amânat pronunțarea pentru astăzi, 21.01.2026, hotărând următoarele:
+
+CURTEA,
+
+Deliberând asupra plângerilor formulate în prezenta cauză constată următoarele:
+
+Prin Decizia nr. ####/C1/2806,3042,3463,3499 din data de 15.10.2025, Consiliul Național de Soluționare a Contestațiilor a pronunțat următoarea soluție:
+
+"Respinge, ca nefondată, excepția lipsei de interes a contestatorului #### ########### ############ SRL, invocată de ### ####### ########### SRL în dosarul nr. 2806/2025.
+
+Respinge, ca nefondată, excepția tardivității contestației formulate de ### ####### ########### SRL ulterior studierii dosarului cauzei, invocată de intervenientul #### ########### ############ SRL în punctul de vedere depus în dosarul nr. 3499/2025.
+
+Respinge, ca tardivă, contestația formulată de ### ####### ########### SRL, care face obiectul dosarului nr. 3042/2025.
+
+Admite cele 2 contestații formulate de #### ########### ############ SRL și contestația formulată de ### ####### ########## SRL, ulterior consultării dosarului cauzei, toate în contradictoriu cu autoritatea contractantă JUDEȚUL #######, iar, pe cale de consecință, respinge, ca nefondate, cererile de intervenție accesorie, formulate de ### ####### ########## SRL și #### ########### ############ SRL, anulează raportul procedurii în partea aferentă ofertei desemnată câștigătoare și obligă autoritatea contractantă la reevaluarea ofertei asocierii ### ####### ########## SRL - SMART BUSINESS & ############ ######## SRL cu respectarea documentației de atribuire, a prevederilor legale și a considerentelor prezentei în termen de 10 zile de la comunicare.
+
+Obligatorie.
+
+Împotriva prezentei decizii se poate formula plângere în termen de 10 zile de la comunicare."
+
+Împotriva acestei soluții, petenta #### ########## ############ SRL a formulat plângere, înregistrată pe rolul Curții de Apel București Secția a X-a C_________ Administrativ și Fiscal și pentru Achiziții Publice la data de 01.11.2025, sub nr. de dosar ####/2/2025, solicitând:
+
+"1. Admiterea plângerii;
+
+2. Modificarea în parte a Deciziei nr. ####/C1/2806,3042,3463,3499 din 15.10.2025, în sensul:
+
+a. în principal, respingerea contestației formulate de [OPERATOR ECONOMIC] - SMART BUSINESS & ############ ######### S.R.L., în dosarul nr. 3499/2025, ca fiind tardiv formulată;
+
+b. iar în subsidiar, respingerea contestației formulate de [OPERATOR ECONOMIC] - SMART BUSINESS & ############ ######### S.R.L., în dosarul nr. 3499/2025, ca fiind nefondată;
+
+c. admiterea contestațiilor formulate de [OPERATOR ECONOMIC];
+
+d. anularea Raportului procedurii nr. _____/17.07.2025 și a tuturor comunicărilor ulterioare;
+
+e. reținerea conformității ofertei #### ########## ############ S.R.L.;
+
+f. constatarea neconformității ofertei depuse de [OPERATOR ECONOMIC] - SMART BUSINESS & [OPERATOR ECONOMIC]
+
+3. Obligarea [OPERATOR ECONOMIC] - SMART BUSINESS & [OPERATOR ECONOMIC] la plata cheltuielilor de judecată.
+
+În motivare, petenta a arătat că, în fapt, Autoritatea contractantă - Județul ####### - a inițiat o procedură simplificată online, având ca obiect atribuirea contractului "Servicii de proiectare și asistență tehnică, furnizare și execuție de lucrări, instalare și montaj pentru proiectul: Construire stații electrice pentru reîncărcare autovehicule", cod CPV ##########.
+
+Procedura a fost derulată cu respectarea prevederilor Legii nr. 98/2016 privind achizițiile publice și HG nr. 395/2016, prin intermediul platformei SEAP.
+
+Până la termenul limită de depunere, au fost depuse două oferte:
+
+• #### ########## ############ SRL (denumită în continuare NGT);
+
+• ######### ### ####### ########### SRL - SMART BUSINESS & ############ ######### SRL.
+
+Prin Raportul procedurii nr. _____/17.07.2025, autoritatea contractantă a respins oferta NGT ca neconformă, motivând lipsa includerii resurselor umane și materiale în graficul Gantt, și a declarat câștigătoare oferta depusă de ######### ### ####### ########### SRL - SMART BUSINESS & ############ ######### SRL.
+
+În consecință, părțile au formulat mai multe contestații:
+
+• NGT - contestația nr. 711/24.04.2025 (dos. 2806/2025), prin care a solicitat anularea raportului procedurii, declararea propriei oferte ca admisibilă și a ofertei AGO ca inadmisibilă;
+
+• AGO - contestația recalificată nr. _____/05.08.2025 (dos. 3042/2025), prin care a cerut respingerea contestației NGT și menținerea rezultatului procedurii;
+
+• NGT - contestația nr. 826/19.09.2025 (dos. 3463/2025), formulată după studierea dosarului achiziției la sediul CNSC, prin care a reiterat cererea de anulare a raportului procedurii și reevaluarea ofertelor;
+
+• AGO - contestația nr. 1041/04.09.2025 (dos. 3499/2025), prin care a solicitat anularea parțială a raportului procedurii și reevaluarea ofertei NGT;
+
+• NGT a formulat intervenție în dos. 3499/2025, invocând tardivitatea contestației AGO.
+
+II. CU PRIVIRE LA TARDIVITATEA CONTESTAȚIEI AGO obiect al dosarului CNSC nr. 3499/2025
+
+1) Precizări preliminare
+
+La data de 17.07.2025, autoritatea contractantă a publicat în Sistemul Electronic de Achiziții Publice (SEAP) Raportul procedurii nr. _____/17.07.2025, prin care a stabilit rezultatul procedurii si a desemnat oferta depusă de #### ########## ############ S.R.L. drept conformă și admisibilă. Acest raport reprezintă actul vătămător în sensul art. 8 din Legea nr. 101/2016, fiind actul administrativ individual care produce efecte juridice directe față de toți participanții la procedură.
+
+În urma publicării raportului, ### ####### ########### S.R.L. nu a formulat o contestație în termenul legal de 10 zile, ci a transmis doar o cerere de intervenție în cadrul unei contestații formulate anterior de #### ########## ############ S.R.L., fără a contesta în mod propriu și direct actul autorității contractante.
+
+Ulterior, la data de 18.07.2025, AGO a solicitat autorității contractante acces la dosarul achiziției, primind parțial documentele solicitate, însă fără oferta depusă de NGT. La 28.08.2025, Consiliul N_______ de Soluționare a Contestațiilor a pus la dispoziția ambilor operatori economici - NGT și AGO - documentele aferente dosarului, inclusiv ofertele depuse în procedură.
+
+La 04.09.2025, ### ####### ########### S.R.L. a formulat o nouă contestație, înregistrată distinct la Consiliu, susținând că termenul legal de contestare ar fi început să curgă de la data studierii dosarului la CNSC (29.08.2025).
+
+Prin Decizia CNSC nr. 3090/C1/3499 din 15.10.2025, Consiliul a respins excepția tardivității invocată de #### ########## ############ S.R.L., apreciind că, întrucât AGO a obținut acces la dosar abia la 29.08.2025, termenul de 10 zile ar fi fost respectat. Contestația a fost astfel analizată pe fond, deși ### ####### ########### S.R.L. nu formulase nicio contestație în termenul legal și își exercitase dreptul procedural doar printr-o cerere de intervenție, fără a ataca în mod direct Raportul procedurii.
+
+În acest context, tardivitatea contestației AGO rezultă din succesiunea obiectivă a actelor:
+
+- publicarea Raportului procedurii la 17.07.2025;
+
+- lipsa unei contestații proprii până la 28.07.2025 (data expirării termenului legal);
+
+- formularea contestației abia la 04.09.2025, după 49 de zile de la publicarea actului vătămător.
+
+Din analiza cronologică a actelor procedurii rezultă că contestația formulată de ### ####### ########### S.R.L., înregistrată la Consiliul N_______ de Soluționare a Contestațiilor la data de 04.09.2025, a fost depusă cu depășirea vădită a termenului legal prevăzut de art. 8 alin. (1) lit. b) din Legea nr. 101/2016, raportat la data publicării Raportului procedurii din 17.07.2025. Acest raport constituie actul vătămător în sensul legii, fiind singurul act administrativ care produce efecte juridice directe asupra ofertanților și care poate fi supus controlului de legalitate. în consecință, termenul de exercitare a căii de atac a început să curgă de la data publicării raportului în SEAP, iar nu de la un moment ulterior invocat subiectiv de contestator.
+
+2) Determinarea actului vătămător și începutul curgerii termenului
+
+Petenta a invodat prevederile art. 8 alin. (1) și 16 alin. (1) din Legea 101/2016.
+
+Jurisprudența constantă a Consiliului N_______ de Soluționare a Contestațiilor și a instanțelor de contencios administrativ este unanimă în sensul că Raportul procedurii reprezintă actul vătămător ce poate fi atacat, întrucât doar acesta reflectă rezultatul evaluării ofertelor și stabilește clasamentul final.
+
+Nicio altă corespondență sau împrejurare procedurală- inclusiv limitarea accesului la dosarul achiziției - nu poate constitui, în sine, un act susceptibil de a genera un termen distinct de contestare. ##### temporară a accesului la dosar poate afecta conținutul motivării unei contestații, dar nu momentul de la care aceasta trebuie formulată. Operatorul economic are obligația de a contesta în termen actul vătămător și, ulterior, de a-și completa argumentele în funcție de informațiile obținute ulterior.
+
+Astfel, publicarea raportului în SEAP la data de 17.07.2025 a fost momentul obiectiv de la care ### ####### ########### S.R.L. a luat sau trebuia să ia cunoștință de actul pretins nelegal, iar termenul de 10 zile pentru formularea contestației s-a împlinit la 28.07.2025. După această dată, dreptul de a formula contestație s-a stins prin efectul decăderii, iar orice cerere ulterioară are caracter tardiv.
+
+3) ##### unei contestații inițiale și imposibilitatea repunerii în termen
+
+În speță, ### ####### ########### S.R.L. nu a formulate contestație în termenul legal împotriva Raportului procedurii, ci a ales să intervină, ulterior, în calitate de parte accesorie într-un alt dosar aflat pe rolul Consiliului.
+
+Această conduită procesuală exclude orice posibilitate de a invoca ulterior repunerea în termen. Repunerea este concepută exclusiv pentru situațiile în care partea a exercitat o cale de atac în termen, dar nu a putut să o motiveze integral, nu pentru cazul în care nu a fost sesizată deloc jurisdicția competentă în intervalul legal.
+
+Obținerea ulterioară a accesului la dosarul achiziției, la data de 28-29.08.2025, nu poate relansa termenul de contestare, întrucât actul vătămător - raportul - era deja public, iar lipsa cunoașterii detaliilor tehnice din oferta concurentului nu modifică momentul obiectiv al luării la cunoștință despre actul pretins nelegal.
+
+Orice interpretare contrară ar lipsi de conținut dispozițiile art. 8 alin. (1) lit. b) și art. 16 alin. (1) din Legea nr. 101/2016 și ar transforma termenele legale de decădere în simple orientări, contrar principiilor de celeritate și securitate juridică.
+
+Nimic nu a împiedicat ### ####### ########### S.R.L. să conteste modul de evaluare a ofertei depuse de #### ########## ############ S.R.L. încă de la momentul publicării Raportului procedurii din 17.07.2025.
+
+În măsura în care considera că evaluarea ofertei NGT a fost nelegală sau că aceasta ar fi trebuit respinsă, ### ####### ########### S.R.L. avea obligația de a manifesta diligență procedurală și de a formula contestația în termenul prevăzut de art. 8 alin. (1) lit. b) din Legea nr. 101/2016, raportat la data luării la cunoștință de actul vătămător - respectiv data publicării raportului în SEAP.
+
+D___ prin exercitarea promptă a dreptului de contestare s-ar fi putut atinge scopul Legii nr. 101/2016, consacrat la art. 1 alin. (3), acela de a asigura "mecanisme și proceduri efective, rapide și eficiente de sesizare și remediere a neregulilor, care să garanteze respectarea dispozițiilor legale privind atribuirea contractelor de achiziție publică".
+
+Or, mecanismul legal instituit de această normă, fundamentat pe celeritate și eficiență, este incompatibil cu situația din speță, în care [OPERATOR ECONOMIC] a ales să nu conteste raportul procedurii în termenul legal, ci să formuleze o cerere de intervenție, iar ulterior, la peste 45 de zile de la publicarea raportului, să depună o contestație proprie.
+
+Această conduită procesuală nu poate fi interpretată ca o exercitare legitimă a dreptului de contestare, ci dimpotrivă, ca o încălcare a principiului celerității consacrat de lege. Termenul de 10 zile prevăzut de art. 8 din Legea nr. 101/2016 are natura juridică a unui termen de decădere, iar nerespectarea lui atrage, de drept, pierderea posibilității de a contesta actul autorității contractante.
+
+Prin urmare, chiar admițând că operatorul economic a obținut acces efectiv la dosarul achiziției abia la 29.08.2025, acest fapt nu poate conduce la relansarea termenului de contestare, întrucât actul vătămător era public și accesibil încă din 17.07.2025, iar ### ####### ########### S.R.L. nu a formulat o contestație inițială în termen.
+
+În consecință, contestația formulată la 04.09.2025 nu poate fi considerată decât tardiv introdusă, fiind exercitată cu mult după momentul obiectiv al luării la cunoștință despre actul pretins nelegal.
+
+4) Principiile de drept aplicabile și jurisprudența europeană
+
+Această concluzie este consolidată de jurisprudența Curții de Justiție a Uniunii Europene, care a consacrat în mod constant principiul potrivit căruia termenele pentru exercitarea căilor de atac trebuie să fie ferme, previzibile și rezonabile, în scopul garantării unui sistem de remedii rapide și eficiente.
+
+Astfel, în cauza C####### # Uniplex (UK), Curtea a statuat că termenele de contestare "încep să curgă de la data la care reclamantul a luat cunoștință sau ar fi trebuit să ia cunoștință despre actul care îl vatămă", iar nu de la momentul la care acesta obține informații suplimentare, în același sens, C JUE, C-532/20, a reținut că eficiența căilor de atac nu poate fi asigurată decât dacă termenele de exercitare a acestora sunt previzibile și nu depind de factori subiectivi, precum momentul obținerii accesului la documente.
+
+De altfel, însăși Curtea a precizat expres că noțiunea de "a lua cunoștință" vizează actul autorității contractante care produce efecte juridice și care poate fi identificat din momentul publicării sale, fără a fi condiționată de accesul integral la conținutul dosarului de achiziție.
+
+Petenta a apreciat relevantă în prezenta speță, cauza C-532/20, ###### ######### SA împotriva Companiei Naționale de ### ###### ### SA, [OPERATOR ECONOMIC] - Sucursala București, [OPERATOR ECONOMIC] Linz - Sucursala București.
+
+În aplicarea standardului CJUE din cauza Alstom, termenul curge de la comunicarea rezultatului procedurii, nu de la primirea ulterioară a documentelor.
+
+Sintagma "ar fi trebuit să ia cunoștință", consacrată în jurisprudența CJUE (C-406/08 Uniplex, C-532/20 Alstom), se raportează la diligenta obiectivă pe care un operator economic trebuie să o manifeste în contextul unei proceduri de achiziție. Ea nu echivalează cu un drept de a amâna momentul curgerii termenului până la data la care ofertantul obține efectiv acces la dosar, ci desemnează momentul la care acesta ar fi putut lua cunoștință de pretinsa nelegalitate prin utilizarea mecanismelor legale de informare.
+
+În ordinea juridică națională, art. 217 alin. (6) din Legea nr. 98/2016 transpune art. 55 alin. (2) din Directiva 2014/24/UE și stabilește că, la cererea candidatului sau ofertantului interesat, autoritatea contractantă comunică, în termen de 15 zile, informațiile privind evaluarea ofertelor. Cu alte cuvinte, legea instituie un drept la informare cu termen predictibil, nu o condiție suspensivă pentru curgerea termenului de contestație.
+
+Prin urmare, chiar dacă AGO a formulat cerere de acces la dosar, termenul de 10 zile prevăzut de art. 8 alin. (1) din Legea nr. 101/2016 nu se suspendă și nu se reia la momentul la care CNSC i-a acordat accesul efectiv.
+
+Jurisprudența CJUE confirmă că termenele de decădere pot fi calculate numai de la comunicarea actului vătămător, iar eventualul refuz sau întârziere a accesului la documente nu amână debutul termenului, decât dacă actul însuși nu conține un rezumat al motivelor pertinente (C-532/20, par. 37).
+
+În speță, Raportul procedurii conținea motivarea pertinentă minimală astfel încât AGO "ar fi trebuit să ia cunoștință" despre eventualele nelegalități încă de la publicarea acestuia în SEAP. Faptul că accesul la dosar i-a fost permis ulterior de CNSC nu generează un nou termen.
+
+Consecința este una univocă: termenul de 10 zile a început să curgă de la data publicării raportului, iar contestația formulată ulterior este tardivă, neputând fi salvată prin invocarea momentului la care a fost efectiv consultat dosarul.
+
+Prin urmare, contestația formulată de ### ####### ########### S.R.L. la 04.09.2025 este tardivă. Prin urmare, actul vătămător este și rămâne Raportul procedurii, iar lipsa accesului la documente nu echivalează cu inexistența actului sau cu imposibilitatea de a-1 contesta.
+
+5) Principiul securității juridice și jurisprudența națională
+
+În plan intern, Înalta ##### de Casație și Justiție, prin Decizia nr. ##/2018, a consacrat principiul potrivit căruia, după finalizarea unei etape procedurale și expirarea termenelor de contestație, autoritatea contractantă și părțile implicate dobândesc o așteptare legitimă de stabilitate juridică. A relansa termenul de contestare la mai bine de 45 de zile de la publicarea raportului ar însemna nu doar eludarea termenului legal, ci și afectarea gravă a principiului securității raporturilor juridice, precum și a obiectivului de celeritate care guvernează materia achizițiilor publice.
+
+Aceste raționamente au fost reafirmate și de Curtea de Apel Timișoara, prin hotărârile nr. 1182/24.09.2021 și nr. 1250/20.12.2022, potrivit cărora termenele de contestare nu pot fi repornite artificial ca urmare a unor evenimente procedurale ulterioare, întrucât acest lucru ar compromite finalitatea procesului de achiziție.
+
+5. Concluzie
+
+În lumina celor expuse, petenta a apreciat că rezultă fără echivoc că ### ####### ########### S.R.L. nu a contestat în termen actul vătămător - Raportul procedurii din 17.07.2025 - și, prin urmare, nu poate invoca repunerea în termen în baza pretinsei lipse de acces la dosar. ##### unei contestații inițiale exclude orice analiză asupra unei eventuale reparații procedurale, iar dreptul său de a formula contestație s-a stins prin efectul decăderii.
+
+În consecință, petenta a învederat nelegalitatea deciziei CNSC prin care a fost respinsă excepția tardivității, întrucât aceasta contravine jurisprudenței CJUE (cauza C####### # Alstom), care stabilește că termenul de contestare curge de la comunicarea deciziei autorității contractante, nu de la obținerea ulterioară a documentelor.
+
+În temeiul art. 16 alin. (1) coroborat cu art. 8 alin. (1) lit. b) din Legea nr. 101/2016, a solicitat admiterea excepției tardivității și respingerea contestației formulate de [OPERATOR ECONOMIC] ca fiind tardiv introdusă, cu aplicarea principiilor de celeritate și securitate juridică consacrate de jurisprudența CJUE și ÎCCJ.
+
+III. CU PRIVIRE LA CONFORMITATEA E OFERTEI NGT
+
+Petenta a apreciat că Consiliul a reținut în mod eronat că certificatul OCA.0016.0926.CS prezentat de #### ########## ############ S.R.L. ar viza exclusiv un model de stație AC de 14 kW, distinct de cele ofertate în prezenta procedură (82 kW, AC/DC). În realitate, această interpretare pornește de la o confuzie tehnică privind natura testului OCPP și semnificația codului produsului înscris pe certificat.
+
+1. Ce este OCPP și ce se certifică în realitate
+
+OCPP (Open Charge Point Protocol) este un limbaj de comunicare între stația de încărcare și platforma care o controlează (software-ul de management).
+
+Certificarea OCPP nu privește carcasa stației, prizele, cablurile sau componentele electrice, ci verifică dacă sistemul informatic care controlează stația poate comunica corect cu orice platformă care folosește acest limbaj comun.
+
+Protocolul OCPP (Open Charge Point Protocol) este un standard de comunicație deschis, conceput pentru a permite stațiilor de încărcare să "vorbească" cu platformele de control și monitorizare (Charging Station Management Systems - CSMS). El nu reglementează nici tensiunea, nici tipul curentului (altemativ/continuu), ci doar interfața digitală de comunicare.
+
+Pe scurt:
+
+• nu se certifică obiectul fizic (stația), ci programul care o face să comunice;
+
+• certificatul OCPP este emis pentru software, nu pentru producătorul echipamentului.
+
+Conform documentației publice disponibile direct pe site-ul Open Charge Alliance (OCA), rolul OCPP și scopul programului de certificare sunt clar definite-și niciunul nu are legătură cu partea electrică a stației. Testul OCPP nu are nicio legătură cu modul de alimentare electrică al stației - fie că funcționează în curent alternativ (AC) sau curent continuu (DC). Aceste aspecte țin exclusiv de partea electrică a echipamentului, în timp ce testul OCPP verifică doar partea software, adică dacă stația comunică corect cu platforma de management.
+
+În termeni simpli, testul OCPP urmărește dacă stația "vorbește aceeași limbă informatică" cu sistemul central care o controlează: dacă trimite mesajele corecte ("pornire", "autentificare utilizator", "oprire"), dacă le transmite în ordinea potrivită și dacă reacționează corect la eventuale erori.
+
+Acest test nu implică măsurători de tensiune, curent, siguranță sau putere - adică nu verifică nimic din ceea ce ține de AC sau DC.
+
+Prin urmare, a susține că certificarea OCPP depinde de tipul de curent (AC/DC) este o confuzie tehnică. Certificatul OCPP este emis doar după ce se confirmă compatibilitatea software a echipamentului, indiferent de modul în care acesta furnizează curentul electric.
+
+OCA descrie OCPP ca pe un protocol deschis de comunicație, destinat exclusiv asigurării interoperabilității între o stație de încărcare (Charging Station) și un sistem de management (CSMS).
+
+Nicăieri, în niciuna dintre descrierile oficiale, nu se face vreo referire la tipul de curent (alternativ sau continuu), la numărul de faze, la tensiune, la standardul fizic al conectorului (CCS, CHAdeMO, Type 2) sau la specificațiile hardware ale stației.
+
+Instrumentul oficial de testare - OCTT (OCPP Compliance Test Tool) - este definit clar ca o platformă software utilizată pentru verificarea implementării protocolului OCPP, nu pentru testarea caracteristicilor electrice ale echipamentului.
+
+Cu alte cuvinte, OCA confirmă chiar prin propria sa documentație că OCPP se referă exclusiv la comportamentul software și la schimbul de mesaje dintre entitățile de sistem. Procesul de certificare OCPP este un demers formal de validare a conformității implementării software, derulat în laboratoare independente autorizate, care rulează teste prin OCTT.
+
+#### ar fi existat vreodată o relevanță a tipului de conector, a curentului de încărcare sau a interfeței fizice, aceasta ar fi fost explicit menționată în descrierea scopului de certificare.
+
+OCA nu dezvoltă, nu testează și nu validează componente fizice sau electrice ale stațiilor de încărcare.
+
+Tot ceea ce ține de putere, curent, tensiune, conectori, sau arhitecturi AC/DC depășește mandatul lor.
+
+2. Ce a cerut autoritatea în caietul de sarcini
+
+Autoritatea contractantă nu a cerut "stații certificate OCPP", ci a cerut: "Certificare OCPP - posibilitatea înrolării în orice platformă care utilizează protocolul OCPP."
+
+Aceasta este o cerință software, nu una legată de construcția echipamentului. Scopul ei este ca viitoarele stații cumpărate să poată funcționa în orice sistem de operare existent pe piață.
+
+Stațiile de încărcare pot funcționa fie cu curent alternativ (AC), fie cu curent continuu (DC).
+
+Diferența ține de modul de transfer al energiei către vehicul, dar nu afectează comunicarea digitală dintre stație și sistemul central.
+
+În cazul de față, toate stațiile din gama ofertată (atât AC cât și DC) utilizează același modul software care asigură comunicarea conform protocolului OCPP. Acest modul este, din punct de vedere tehnic, un "plugin" - adică o componentă programată separat, care se poate instala atât în stații AC cât și în stații DC.
+
+Mai exact:
+
+• Modulul de comunicare este independent de curentul electric.
+
+• #### identic ca program, versiune, cod sursă și funcționalitate în ambele tipuri de stații.
+
+• #### instalat pe același echipament hardware relevant pentru comunicație (ex. controlerul principal).
+
+Într-un limbaj simplificat, acest modul este ca un sistem de operare (precum Windows sau Android), care poate rula pe mai multe tipuri de dispozitive - telefon, tabletă, laptop - atâta timp cât dispozitivele au componentele compatibile.
+
+Stațiile de încărcare din gama ofertată (atât AC, cât și DC) sunt echipate cu un modul de comunicație OCPP implementat sub forma unui "plugin" software reutilizabil, instalabil identic pe ambele tipuri de stații. Acest modul:
+
+• funcționează independent de tipul de curent livrat (AC/DC);
+
+• este identic din punct de vedere al codului sursă, versiunii, funcționalității și configurației software;
+
+• rulează pe același tip de echipament hardware relevant pentru comunicație (ex. controller și interfață de rețea).
+
+Prin urmare, certificarea OCPP emisă pentru acest modul este valabilă pentru orice echipament în care acesta este utilizat, indiferent de natura curentului electric furnizat.
+
+Documentul "Open Charge Point Protocol 1.6 Edition 2", publicat de Open Charge Alliance (OCA) în septembrie 2017, reprezintă versiunea consolidată a protocolului OCPP, incluzând toate clarificările și corecturile aduse versiunii 1.6 finale din 2015.
+
+Acesta definește un standard deschis de comunicație între stațiile de încărcare (Charge Points) și sistemele centrale (Central Systems), conceput pentru a permite interoperabilitate completă între echipamente și platforme software provenite de la producători diferiți.
+
+#### din capitolul 3 - Introduction, documentul precizează clar că OCPP este un protocol software de comunicație și că a fost proiectat să funcționeze cu "any type of charging technique" - adică orice tip de metodă de încărcare.
+
+Această formulare stabilește fără echivoc faptul că protocolul nu depinde de tehnologia electrică utilizată de stație și nu face nicio diferență între stațiile care furnizează energie în curent alternativ (AC) sau în curent continuu (DC).
+
+3. Ce documente a depus NEXT GENERATION TECHNOLOGIES
+
+Ofertantul a depus certificatul oficial OCA. emis de Open Charge Alliance, care atestă că platforma implementează corect protocolul OCPP 1.6.
+
+Acest software este integrat în stațiile de încărcare ofertate, motiv pentru care cerința de interoperabilitate este pe deplin îndeplinită.
+
+În cadrul Raportului de constatare tehnico-științifică, expertul atestă că certificarea emisă de Open Charge Alliance (OCA) vizează exclusiv componenta software de comunicare a stației de încărcare, respectiv conformitatea implementării protocolului OCPP 1.6 JSON.
+
+Testarea realizată de OCA constă în verificarea fluxurilor de mesaje (BootNotification, Authorize, StartTransaction, MeterValues, StopTransaction etc.) între stația de încărcare și sistemul de management (CSMS), pentru a asigura interoperabilitatea și stabilitatea comunicației.
+
+Raportul subliniază că:
+
+• certificarea nu depinde de tipul de curent utilizat (AC sau DC) și nu are legătură cu puterea nominală a echipamentului;
+
+• toate modelele care utilizează același firmware certificat sunt considerate conforme, indiferent de configurația hardware;
+
+• diferențele de putere sau conectori nu modifică implementarea software certificată.
+
+Prin urmare, rezultatele certificării OCA se aplică întregii familii de stații BSEC, iar certificatul OCA.0016.0926.CS rămâne valabil pentru toate variantele care rulează aceeași versiune de firmware V/9b/STDOF, conform concluziilor științifice formulate de dr. ing. ####### #####-######.
+
+4. Inexistența obligației de certificare separată pentru stații AC și DC
+
+Toate testele OCPP sunt identice, indiferent de tipul de curent, întrucât privesc exclusiv schimbul de date și funcțiile de control, nu transferul energiei.
+
+Acest aspect este confirmat Raportului de constatare tehnico-științifică.
+
+A impune ex post o cerință suplimentară ("certificat separat pentru DC") ar însemna o modificare nepermisă a documentației în timpul evaluării, contrar principiilor transparenței și tratamentului egal consacrate de art. 2 alin. (2) din Legea nr. 98/2016.
+
+Prin urmare:
+
+• cerința a fost îndeplinită prin prezentarea certificatului OCA valabil;
+
+• a solicita un "certificat separat pentru DC" înseamnă a adaugă o cerință nouă, neprevăzută în caietul de sarcini, ceea ce contravine art. 2 alin. (2) lit. b) din Legea nr. 98/2016 (principiul transparenței și tratamentului egal).
+
+În subsidiar, trebuie reținut un aspect elementar de logică tehnică, ușor de înțeles chiar fără cunoștințe de specialitate: dacă un echipament funcționează corect pe curent alternativ (AC), el va funcționa cu atât mai sigur și pe curent continuu (DC). Curentul alternativ este mai dificil de gestionat, deoarece implică variații permanente de frecvență și tensiune, în timp ce curentul continuu are un flux stabil și constant. Prin 16 urmare, un sistem care poate comunica și funcționa fără erori în regim AC va funcționa, cu siguranță, și în regim DC, care este mai simplu din punct de vedere electric. în acest sens, dacă modulul software certificat OCPP funcționează pe AC, el este automat compatibil și cu DC, pentru că partea de comunicație nu se modifică - vorbim de același limbaj digital, aceleași comenzi și aceleași funcții.
+
+5. Validitatea certificatului emis anterior modificării procedurii OCA
+
+Certificatul OCA fost emis la 04.11.2024, conform metodologiei aplicabile la acel moment.
+
+Noua procedură internă OCA, publicată la 27.03.2025, iar cea mai recent pe site este din 30.09.2025 din nou modificat din nu poate afecta retroactiv validitatea certificatelor emise anterior. Principiul neretroactivității este unul fundamental al dreptului (art. 15 alin. 2 din Constituție, aplicabil mutatis mutandis și normelor tehnice).
+
+Nicio procedură ulterioară nu poate restrânge valabilitatea unui certificat deja emis, în lipsa unei dispoziții exprese de retragere de către organismul emitent.
+
+Această interpretare, potrivit căreia o nouă procedură nu poate produce efecte asupra certificatelor deja emise anterior intrării sale în vigoare, este susținută inclusiv de jurisprudența recentă a Consiliului N_______ de Soluționare a Contestațiilor. Astfel, în Decizia nr. ####/C3/1241 din 28.05.2025, la pagina 48, CNSC a reținut în mod expres că nu pot fi aplicate condiții sau standarde noi unor documente sau situații anterioare publicării oficiale a acestora, reținând că ar însemna o încălcare a principiului securității raporturilor juridice.
+
+Prin urmare, certificatul OCPP prezentat de NEXT GENERATION TECHNOLOGIES rămâne valabil, suficient și pe deplin aplicabil ofertei.
+
+Astfel la momentul emiterii Certificatului, 04.11.2024, erau in vigoare regulile de certificare prevăzute în Certification Procedure din 12.01.2024 v2.0.3.
+
+Textul oficial precizează expres că menționarea tipului de tensiune (AC/DC) este relevantă doar pentru certificările OCPP 2.0.1, ceea ce înseamnă că această cerință nu se aplică certificărilor pentru OCPP 1.6. în cazul versiunii OCPP 1.6, recertificarea este necesară numai atunci când se modifică elemente care influențează comunicarea software, precum conectorii, cititoarele de token-uri sau tehnologiile de comunicație, și nu atunci când se modifică puterea electrică sau tipul de tensiune a stației.
+
+Totodată, nota de subsol nr. 4 din document confirmă că dacă o versiune cu mai multe puncte de încărcare (EVSE/conectori) este certificată, nu este necesară o recertificare pentru o versiune cu un singur punct de încărcare, în măsura în care aceasta este identică din punct de vedere funcțional. Acest aspect demonstrează că certificarea OCPP vizează exclusiv componenta software, respectiv implementarea protocolului OCPP, și nu caracteristicile hardware ale echipamentului electric.
+
+De asemenea, paragraful procedural privind procesul de certificare prevede că: "Pe parcursul procesului de certificare a unei stații de încărcare, a unui CSMS sau a unui pachet software al stației de încărcare, versiunea este furnizată de către producător și se presupune că aceasta nu va fi modificată pe durata procesului de certificare. Testerul laboratorului de certificare va compara versiunea software OCPP raportată de producător cu numărul versiunii afișat în/pe echipamentul testat (### - Device Under Test). "
+
+Interpretarea juridico-tehnică a acestui pasaj este clară: laboratorul verifică doar corespondenta versiunii software OCPP declarate cu cea instalată efectiv, fără a evalua specificațiile electrice (putere, tensiune, curentj.Prin urmare, certificarea OCPP 1.6 are un caracter exclusiv software, vizând conformitatea firmware-ului și a implementării protocolului de comunicație, nu a elementelor hardware ale stației.
+
+Aspect este confirmat Raportului de constatare tehnico-științifică.
+
+6.Cu privire la succesiunea procedurilor OCA și aplicarea eronată a versiunii de certificare de către CNSC
+
+Certificatul OCA.0016.0926.CS prezentat de #### ########## ############ S.R.L. a fost emis la data de 04.11.2024, în baza OCA Certification Procedure v2.0.3/12.01.2024, care era singura versiune aplicabilă la acel moment.
+
+Această versiune reglementa în mod expres condițiile de certificare pentru OCPP 1.6, stabilind că procesul vizează exclusiv implementarea software a protocolului de comunicație, iar elemente precum tipul de curent (AC/DC) sau puterea nominală nu sunt relevante pentru menținerea valabilității certificatului.
+
+Ulterior emiterii certificatului, OCA a modificat succesiv metodologia internă:
+
+• 27.03.2025 - publicarea unei noi proceduri privind certificarea pe "product families", în scopul simplificării procesului;
+
+• 30.09.2025 - adoptarea unei versiuni revizuite, care a introdus clarificări suplimentare privind condițiile de re-certificare.
+
+Aceste versiuni ulterioare nu pot afecta retroactiv certificatele emise anterior intrării lor în vigoare, întrucât ar încălca principiul neretroactivității normelor (art. 15 alin. 2 din Constituție) și ar contraveni jurisprudenței constante privind securitatea raporturilor juridice.
+
+În mod eronat, CNSC a raportat analiza sa la procedura OCA modificată în martie 2025, care la acel moment nu era în vigoare la data emiterii certificatului (04.11.2024) și nici la data limită de depunere a ofertelor (16.01.2025).
+
+Această confuzie rezultă din faptul că, în motivarea sa, Consiliul citează un articol publicat de OCA în noiembrie 2024 privind intenția de modificare a programului de certificare "starting February 1, 2025", însă nu distinge între anunțul de politică viitoare și aplicarea efectivă a noilor reguli.
+
+în plus, CNSC face referire la un material publicat pe site-ul OCA ("Easier Testing & Product Family Certification"), care nu era o procedură aplicabilă, ci o comunicare informativă. Pe baza acesteia, Consiliul a dedus eronat că certificatul prezentat de NEXT GENERATION TECHNOLOGIES ar fi limitat la o stație AC de 14 kW, deși în noiembrie 2024 programul de certificare pe familii de produse nu era implementat, iar certificările se realizau individual, conform metodologiei v2.0.3/12.01.2024.
+
+Mai mult, după soluționarea contestației, OCA a publicat, la 30.09.2025, o nouă procedură de certificare . Această evoluție demonstrează că CNSC a raportat soluția sa la o procedură instabilă și nerelevantă temporal, ceea ce face raționamentul său juridic și tehnic lipsit de fundament.
+
+Prin urmare, Consiliul a aplicat o metodologie ulterioară datei emiterii certificatului și chiar depășită la momentul actual, ignorând cadrul normativ în vigoare la 04.11.2024 și principiul că valabilitatea unui act tehnic se apreciază ratione temporis, potrivit regulilor existente la momentul emiterii sale.
+
+Rezultă deci că analiza CNSC este nelegală și nepertinentă, fiind întemeiată pe o procedură OCA adoptată ulterior, cu efecte imposibil de aplicat retroactiv. Certificatul OCA.0016.0926.CS rămâne valid, aplicabil și suficient, iar orice interpretare contrară încalcă art. 15 alin. (2) din Constituție, principiile securității juridice și neretroactivității, precum și practica CNSC (Decizia nr. ####/C3/1241/28.05.2025).
+
+7. Cu privire la chestiunea familiei de produse
+
+Petenta a arătat că, în contradicție cu interpretarea reținută de CNSC, trebuie precizat că procedura de certificare OCA v2.0.3, în baza căreia a fost emis certificatul OCA.0016.0926.CS, nu conținea noțiunea de "familii de produse" introdusă ulterior abia prin versiunea v3.0.1 (2025).
+
+Totuși, absența acestei noțiuni nu însemna că era necesară testarea separată a fiecărui model de stație, așa cum în mod eronat a presupus Consiliul.
+
+În cadrul versiunii v2.0.3, procedura de testare viza implementarea software a protocolului OCPP 1.6J, iar certificarea se acorda pe baza unui echipament reprezentativ, considerat suficient pentru întreaga gamă de produse care utilizează același firmware.
+
+Cu alte cuvinte, procedura era mai simplă și mai puțin costisitoare, neimpunând testarea fizică a fiecărui model hardware distinct, întrucât scopul certificatului era exclusiv confirmarea conformității software, nu evaluarea caracteristicilor electrice ale stației (putere, tensiune, conectori).
+
+Faptul că în versiunile ulterioare (v3.0.1) OCA a introdus noțiunea de "product family" și restricțiile legate de specificațiile hardware nu schimbă regimul certificărilor emise anterior. Aceste modificări au avut rolul de comercializare extinsă a serviciilor de re-certificare, nu de reinterpretare retroactivă a certificărilor deja emise.
+
+Acest aspect este confirmat si de Raportului de constatare tehnico-științifică.
+
+Procedura OCA v2.0.3, aplicabilă la momentul certificării stațiilor BSEC, nu prevedea nicio limitare privind puterea, tipul de curent sau conectorii echipamentului testat. Prin urmare, certificatul emis acoperă întreaga gamă de stații care rulează același firmware, iar raționamentul CNSC potrivit căruia certificarea ar fi valabilă doar pentru o anumită configurație (ex. 14 kW AC) este neîntemeiat și contrar versiunii reale a procedurii de testare aplicabile la data obținerii certificatului.
+
+8. Concluzie juridică
+
+• Cerința din documentație este de interoperabilitate software, nu de certificare a echipamentului fizic.
+
+• Certificatul OCA prezentat de NEXT GENERATION TECHNOLOGIES atestă exact acest aspect și este valabil și suficient.
+
+Astfel, petenta a apreciat că, în mod nelegal oferta a fost respinsa ca neconforma.
+
+IV. CU PRIVIRE LA NECONFORMITATEA OFERTEI AGO
+
+#### Cu privire la motivarea CNSC privind funcția de "Director de proiect" echivalată cu cea de "Manager de proiect"
+
+Consiliul reține eronat că experiența în calitate de "director de proiect" ar fi similară cu cea de "manager de proiect", în temeiul unei interpretări extinse a caietului de sarcini, care ar permite prezentarea unei experiențe "pe o poziție similară (nu identică)".
+
+Această concluzie este nelegală și contravine regulilor de transparență, proporționalitate și tratament egal consacrate de art. 2 alin. (2) din Legea nr. 98/2016, precum și principiului lex specialis derogat legi generali, aplicabil cerințelor expres formulate în documentația de atribuire.
+
+a)Cerința expresă din documentația de atribuire
+
+Documentația a impus în mod explicit ca Managerul de proiect să dețină autorizare ANRE valabilă și experiență specifică demonstrată ca manager/coordonator de proiect, condiție distinctă de orice altă funcție generică de conducere.
+
+Formularea din fișa de date și caietul de sarcini este una imperativă, nu orientativă:
+
+"Experiența specifică solicitată pentru Manager de proiect/Coordonator de lucrări trebuie demonstrată cu documente relevante. Sunt necesare diploma de absolvire studii superioare, autorizații ANRE, CV-ul datat și semnat de acesta."
+
+Prin urmare, cerința viza identitatea funcției, nu similitudinea generică a poziției.
+
+Interpretarea CNSC, potrivit căreia se poate substitui managerul cu un "director de proiect", rescrie cerința autorității contractante, ceea ce excede competenței sale de control, conform art. 26 alin. (6) din Legea nr. 101/2016.
+
+b)Diferența juridică între funcțiile " director de proiect " și " manager de proiect"
+
+Conform Clasificării Ocupațiilor din ####### (###):
+
+• "Director de proiect" - cod ### ###### # funcție de conducere, categoria "directori generali și funcții de management strategic".
+
+• "Manager de proiect" - cod ### ###### # funcție de execuție specializată, categoria "specialiști în management și consultanță".
+
+Aceste două ocupații sunt reglementate distinct, au standard ocupațional diferit, iar atribuțiile lor nu se suprapun.
+
+"Directorul de proiect" stabilește direcția strategică și are rol de supervizare macro, în timp ce "managerul de proiect" coordonează implementarea efectivă a activităților tehnice și administrative.
+
+Astfel, echivalarea acestor funcții de către CNSC este nefundamentată normativ. Conform art. 134 alin. (3) din HG 395/2016, autoritatea contractantă nu poate considera îndeplinită o cerință tehnică prin analogie sau prin prezumții, ci numai pe baza documentelor care atestă conformitatea exactă cu cerința impusă.
+
+c)##### autorizației ANRE valabile
+
+Managerul de proiect propus de AGO PROIECT ENGINEERING avea autorizația ANRE expirată la 22.10.2020, conform documentului din propunerea tehnică.
+
+Aceasta reprezintă o neconformitate obiectivă - lipsa unei condiții de valabilitate pentru calificare. Nicio dispoziție din documentația de atribuire nu permitea substituirea cerinței privind autorizarea ANRE cu experiența anterioară sau cu o funcție de altă natură.
+
+În aceste condiții, comisia de evaluare nu putea declara oferta admisibilă, iar CNSC nu putea repara o lipsă de conformitate printr-o interpretare extensivă.
+
+Concluzie
+
+Prin echivalarea abuzivă a funcției de "director de proiect" cu cea de "manager de proiect", CNSC:
+
+• a încălcat cerințele explicite ale fișei de date și caietului de sarcini;
+
+• a deturnat scopul cerinței de experiență specifică (care vizează aptitudinea practică de coordonare a lucrărilor, nu atribuții strategice);
+
+• a ignorat efectul juridic al autorizației ANRE expirate;
+
+• a depășit limitele controlului de legalitate, înlocuind evaluarea factuală a conformității cu o apreciere de oportunitate.
+
+Rezultă că oferta AGO PROIECT ENGINEERING trebuia declarată neconformă, întrucât expertul propus nu deținea calificările cerute și nu a demonstrat experiență specifică în funcția cerută, iar soluția CNSC este nelegală, contrară art. 133 aiin. (2) și art. 137 alin. (1) din HG nr. 395/2016.
+
+#### Critica privind lipsa de analiză a neconformităților tehnice din oferta ### ####### ########### S.R.L. - nemotivarea Deciziei CNSC
+
+Decizia contestată este nemotivată sub aspectul neconformității tehnice a ofertei câștigătoare, întrucât Consiliul nu a analizat deloc motivele detaliate în contestația inițială, referitoare la lipsa unor elemente obligatorii din propunerea tehnică.
+
+Astfel, contestatoarea a invocat expres, cu indicarea paginilor și a cerințelor din documentația de atribuire, că oferta depusă de ### ####### ########### SRL nu respectă conținutul minimal obligatoriu al propunerii tehnice, impus prin fișa de date și caietul de sarcini.
+
+Mai exact, s-a arătat că lipsesc următoarele elemente, a căror prezentare era imperativă, conform secțiunii tehnice a documentației:
+
+• schema de principiu a stațiilor de reîncărcare;
+
+• lista preliminară a materialelor și echipamentelor;
+
+• documentul care să ateste competențele personalului privind instalarea și întreținerea stațiilor.
+
+Aceste cerințe erau formulate la modul imperativ ("trebuie să conțină") și nu ca simple recomandări. Prin urmare, lipsa lor atrage automat neconformitatea propunerii tehnice, conform art. 137 alin. (1) din HG nr. 395/2016, care prevede că oferta este declarată neconformă atunci când "nu respectă cerințele caietului de sarcini și specificațiile tehnice minimale".
+
+#### aceste critici au fost formulate punctual, cu trimitere la documente din dosarul achiziției, CNSC nu le-a analizat în niciun paragraf al deciziei, limitându-se la a trata generic conformitatea ofertei, fără nicio referire la conținutul propunerii tehnice și fără să indice documentele examinate. Această omisiune echivalează cu lipsa motivării în sensul art. 425 alin. (1) lit. b) C. proc. civ. raportat la art. 26 alin. (6) din Legea nr. 101/2016, întrucât instanța administrațiv-jurisdicțională nu a răspuns nici măcar sumar unuia dintre motivele principale de nelegalitate invocate.
+
+În realitate, din studierea dosarului achiziției rezultă neechivoc că propunerea tehnică depusă de AGO PROIECT ENGINEERING nu conține documentele menționate, ceea ce confirmă caracterul întemeiat al criticii formulate.
+
+Prin omisiunea de a verifica aceste aspecte obiective, Consiliul a pronunțat o soluție nefundamentată factual, cu încălcarea principiului examinării efective a criticilor relevante, consacrat de jurisprudența CJUE (cauzele C-222/86 Heylens și C-249/13 #####).
+
+Consecința este lipsa caracterului motivat al deciziei și imposibilitatea de a exercita un control judecătoresc efectiv, motiv pentru care se impune anularea deciziei CNSC ca nemotivată și nelegală, iar cauza trebuie reanalizată în substanță, prin raportare la lipsurile efective ale ofertei câștigătoare.
+
+#### Bunurile ofertate in oferta criticata nu îndeplinesc cerințele minime tehnice
+
+Criticile formulate de petentă sunt întemeiate, însă CNSC nu a analizat neconformitatea tehnică a ofertei din acest punct de vedere.
+
+Ofertantul declarat câștigător nu a prezentat toate documentele solicitate, oferta depusă fiind incompletă. Lipsesc documente esențiale prevăzute la Secțiunea 2 a fișei tehnice, iar completarea lor ulterioară era interzisă conform instrucțiunilor din fișa de date a achiziției.
+
+Rapoartele LVD depuse sunt false, după cum se va demonstra detaliat, întrucât nu corespund produselor ofertate și prezintă discrepanțe evidente între modelul certificat și cel propus în ofertă. 
+
+Pentru toate cerințele tehnice minimale ale stațiilor de încărcare electrică, ofertanții aveau obligația de a le dovedi prin documente de conformitate, certificate și rapoarte de testare.
+
+Din analiza dosarului achiziției reiese în mod clar că oferta depusă de ofertantul declarat câștigător nu conține aceste documente, iar produsele ofertate nu îndeplinesc cerințele tehnice minime, motiv pentru care consideră critica sa este pe deplin întemeiată și solicită constatarea neconformității ofertei.
+
+###### Neconformitatea tehnică a ofertei depuse de [OPERATOR ECONOMIC] - SMART BUSINESS & [OPERATOR ECONOMIC] privind cerința referitoare la displayul TFT touchscreen antivandal
+
+Conform documentației de atribuire, stațiile trebuiau să fie echipate cu display TFT touchscreen antivandal de minimum 7 inch, poziționat între 0,9 m și 1,3 m înălțime, pentru a asigura accesibilitatea persoanelor cu dizabilități. Cerința era expresă, clar formulată și ușor de verificat, iar documentația impunea obligația ofertanților de a prezenta dovezi concrete privind îndeplinirea tuturor cerințelor tehnice minime, inclusiv prin rapoarte de testare, certificate de conformitate și documente justificative relevante.
+
+########## ### ####### ########### S.R.L. nu a menționat în oferta depusă faptul că displayul propus este touchscreen și nu a anexat niciun document probator care să ateste această caracteristică. Din informațiile publice disponibile și din analiza dosarului achiziției, rezultă că echipamentul ofertat nu deține această funcționalitate, nefiind prevăzut cu tehnologie tactilă, ceea ce contravine în mod direct cerinței impuse prin fișa tehnică.
+
+În ciuda acestei omisiuni evidente, comisia de evaluare a apreciat în mod nejustificat că cerința este îndeplinită, fără a solicita clarificări și fără a verifica documentar conformitatea efectivă a echipamentului ofertat. O astfel de abordare denotă lipsă de rigoare și aplicare neuniformă a criteriilor de evaluare, în condițiile în care ofertele celorlalți participant - inclusiv cea a petentei - au fost analizate detaliat și supuse unor cerințe de probare stricte.
+
+Documentația de atribuire impunea, pentru probele ce certifică conformitatea tehnică, prezentarea de rapoarte de testare care să ateste conformitatea la standarde aplicabile (IP, IK, EMC, LVD).
+
+În speță, ofertantul câștigător a depus rapoarte de testare identificate sub numerele ZRC2411295XY-IK10-R1 (carcasă) și ZRC2411296XY-IK10-R1 (ecran). ####### comparativă a acestor documente relevă multiple elemente de natură să pună în discuție autenticitatea și relevanța lor ca probe de conformitate: 
+
+a. Dimensiuni contradictorii - raportul care vizează ecranul indică măsurători aproximative ce corespund unui display cu diagonală ~8,8 inch (20x10 cm), adică un ecran de cca. 9 inch, în timp ce oferta declară explicit un display de 10 inch. Diferența este obiectiv măsurabilă și relevantă: un ecran de 10 inch are dimensiuni semnificativ superioare (~22* 13 cm). Această discrepanță indică fie o eroare materială nejustificată, fie o declarație neconformă cu realitatea echipamentului propus.
+
+Mai mult, analiza dimensiunilor indicate în raport arată că displayul testat are o diagonală de aproximativ 8,8 inch, corespunzătoare unei laturi mari de 20 cm și unei laturi mici de 10 cm, ceea ce nu corespunde unui ecran de 10 inch declarat în ofertă. Diferența este semnificativă și obiectiv verificabilă, ceea ce confirmă caracterul neconform al produsului ofertat.
+
+b. Identitate structurală a rapoartelor - conținutul, structura și elementele grafice ale raportului pentru carcasă și ale celui pentru ecran sunt practic identice, singura diferență aparentă fiind inserarea unei fotografii distincte și modificarea cu o poziție a unei cifre în numărul de raport. ##### unor rezultate concrete de testare (de exemplu: urme ale impactului, măsurători post-impact, parametri măsurați, metodologie detaliată) face ca aceste rapoarte să nu atingă standardul probator necesar pentru a demonstra conformitatea tehnică invocată.
+
+Rapoartele tehnice depuse de ofertant pentru a demonstra conformitatea - în special rapoartele ZRC2411295XY-IK10-R1 și ZRC2411296XY-IK10-R1 - prezintă elemente concrete care le afectează autenticitatea și relevanța. Cele două documente sunt aproape identice ca structură, conținut și prezentare grafică, diferența constând doar în fotografia inserată și într-o cifră modificată în numărul de raport. Niciunul dintre acestea nu conține rezultate măsurabile ale testării efective (cum ar fi urmele impactului sau comportamentul ecranului după loviturile aplicate), ceea ce indică faptul că rapoartele nu reflectă o testare reală.
+
+c. Absența probelor prag: deși cerința prevedea ecran antivandal (implicit testare mecanică relevantă), documentele depuse nu conțin dovezi practice și verificabile ale încercărilor efective (fotografii post-test, scheme de încercare, măsurători efective), ceea ce subminează utilitatea lor ca probe de conformitate.
+
+Prin urmare, oferta depusă de ### ####### ########### S.R.L. nu respectă cerințele tehnice minime
+
+###### Neconformitatea dintre modelele ofertate și documentele de testare prezentate
+
+Conform fișei tehnice anexate documentației de atribuire, ofertanții aveau obligația expresă de a prezenta rapoarte de testare care să ateste conformitatea cu cerințele impuse pentru IP, IK (carcasă), EMC și LVD/IEC. Această cerință are caracter imperativ, fiind o condiție de eligibilitate tehnică minimă, fără de care oferta nu poate fi evaluată ca admisibilă.
+
+Din analiza Raportului procedurii (filele 32 și 35), rezultă că modelele efectiv ofertate de ### ####### ########### S.R.L. sunt:
+
+• PEVC3017-SBTS
+
+• PEVC3017U-SBTS
+
+Producătorul declarat al acestor modele este ZHUHAI PIWIN NEW ENERGY CO., LTD.
+
+Or, examinând documentele de testare și declarațiile de conformitate depuse în ofertă, se constată în mod cert că niciunul dintre aceste două modele nu este identificat nominal în vreun raport de testare, certificat de conformitate sau document tehnic depus. Toate rapoartele anexate fac trimitere generică la alte produse sau la versiuni similare, fără identificarea exactă a modelelor PEVC3017-SBTS și PEVC3017U-SBTS.
+
+Această lipsă de corespondență între echipamentele ofertate și documentele depuse pentru demonstrarea conformității constituie o neconformitate majoră, întrucât nu se poate stabili dacă produsele propuse respectă cerințele minime impuse de autoritatea contractantă. In lipsa dovezii testării efective a modelelor ofertate, comisia de evaluare nu avea temei legal să considere cerința îndeplinită.
+
+Acceptarea unor documente generale, care nu fac referire directă la produsele ofertate, echivalează cu o evaluare formală și nefundamentată, contrară principiilor de transparență și tratament egal între ofertanți prevăzute de art. 2 alin. (2) lit. a) și b) din Legea nr. 98/2016. într-o procedură de achiziție publică, proba conformității tehnice nu poate fi substituită de o simplă declarație de intenție sau de documente generice ale producătorului.
+
+Prin urmare, oferta depusă de ### ####### ########### S.R.L. trebuia respinsă ca neconformă, întrucât nu face dovada verificabilă a respectării cerințelor IP, IK, EMC și LVD pentru modelele efectiv ofertate, astfel cum este prevăzut în mod explicit de documentația de atribuire.
+
+###### ##### individualizării modelelor - imposibilitatea de a avea configurații diferite sub aceeași denumire comercială
+
+În domeniul echipamentelor electrice și electronice, nomenclatura produsului (denumirea de model, codul tehnic sau codul SKU) are rolul esențial de a asigura trasabilitatea produsului pe întregul lanț de producție, certificare și comercializare. Conform standardelor industriale (de exemplu ISO/IEC ###### # și ISO 9001), fiecare produs sau configurație tehnică distinctă trebuie să poarte o identificare unică, care permite corelarea precisă între:
+
+- documentația tehnică și modelul comercializat;
+
+- rapoartele de testare și produsul testat efectiv;
+
+- certificările emise și echipamentul livrat beneficiarului.
+
+În practică, aceasta înseamnă că două produse cu specificații diferite nu pot purta același nume de model, deoarece ar genera confuzie în raport cu testările, aprobările și fișele tehnice aferente.
+
+În speță, ### ####### ########### S.R.L. a prezentat două stații de încărcare cu configurații diferite - una cu 3 conectori și una cu 2 conectori - dar cu același nume de model: PEVC3108E-SBTS. Această abordare este inacceptabilă din punct de vedere tehnic și juridic, întrucât elimină trasabilitatea dintre echipamente, rapoartele de testare și certificările anexate.
+
+Diferențele între cele două configurații nu sunt minore sau estetice, ci afectează direct funcționarea echipamentului (numărul de circuite, tipul de protecție electrică, distribuția de sarcină, sistemul de răcire, firmware-ul de control). Or, testarea și certificarea de conformitate (ex. IP, IK, EMC, LVD) se efectuează asupra unui produs concret, nu asupra unui concept general.
+
+#### un raport de testare este emis pentru o stație cu 2 conectori, acesta nu poate fi extins automat la varianta cu 3 conectori, deoarece structura electrică, disiparea termică și protecțiile diferă - ceea ce schimbă parametrii de conformitate.
+
+Folosirea aceleiași denumiri pentru echipamente diferite denotă fie o lipsă de transparență intenționată, fie o prezentare neglijentă a informațiilor tehnice, ambele ipoteze fiind incompatibile cu cerințele de claritate și exactitate impuse de art. 134 alin. (2) și art. 137 alin. (1) din HG nr. 395/2016.
+
+Din punct de vedere juridic, această practică împiedică autoritatea contractantă să verifice realitatea datelor și să coreleze certificările cu produsul livrat, ceea ce constituie motiv de respingere a ofertei pentru lipsa conformității. In doctrină și jurisprudență (de exemplu, C-27/15 - ##### Pizzo), CJUE a subliniat că autoritatea contractantă trebuie să verifice dacă documentele depuse corespund exact produsului ofertat, iar orice ambiguitate sau lipsă de identificare clară a produsului atrage excluderea ofertei.
+
+De asemenea, documentul prezentat de ofertant sub forma unei așa-zise declarații de garanție din partea producătorului nu poate fi considerat valid. Acesta nu respectă niciun standard minim de conformitate pentru un angajament oficial, întrucât nu conține elemente esențiale precum data emiterii, condițiile concrete ale garanției, modalitatea de aplicare, limitările sau excluderile acesteia. Textul este extrem de general și vag, limitându-se la o simplă frază de tip declarație informală, fără valoare juridică și fără caracter obligatoriu. În aceste condiții, documentul nu poate fi acceptat ca probă valabilă.
+
+Concluzie:
+
+În condițiile în care ofertantul a utilizat aceeași denumire de model pentru două produse diferite din punct de vedere tehnic, lipsa de individualizare a echipamentelor face imposibilă verificarea conformității. Nu se poate ști ce produs a fost testat, ce produs este certificat și ce produs urmează să fie livrat. Această situație echivalează cu o denaturare a informațiilor tehnice și justifică respingerea ofertei ca neconformă.
+
+###### ##### certificatului OCPP 1.6J și confuzia privind identitatea producătorului
+
+Cerința tehnică prevăzută în documentația de atribuire era clară: ofertanții trebuiau să depună un certificat de conformitate emis de Open Charge Alliance (OCA) care să ateste faptul că stațiile ofertate sunt efectiv certificate pentru protocolul OCPP 1.6J.
+
+Acest certificat este emis numai de Open Charge Alliance, organismul oficial care validează compatibilitatea echipamentelor cu standardul internațional OCPP.
+
+În oferta depusă, SMART BUSINESS & ############ ######### S.R.L. a indicat doar mențiunea generică:"OCPP 1.6 JSON".
+
+####### de evaluare a considerat automat cerința îndeplinită, fără a solicita certificatul propriu-zis, deși documentația de atribuire impunea expres prezentarea acestuia, nu doar a unei declarații de conformitate.
+
+Documentul depus în susținerea acestei cerințe este o simplă declarație unilaterală a producătorului, în care se afirmă: "Declarăm că produsul nostru suportă protocolul OCPP 1.6J."
+
+Această declarație nu echivalează cu un certificat OCA, nefiind emisă de organismul de certificare, neavând număr, dată, versiune software testată, laborator sau semnătura unui reprezentant acreditat.
+
+####### documentelor arată neconcordanțe majore privind producătorul real:
+
+- toate documentele tehnice (rapoarte LVD, declarații de conformitate) indică ZHUHAI PIWIN NEW ENERGY CO., LTD. drept producător;
+
+- însă, pe site-ul oficial al Open Charge Alliance (https://openchargealliance.org/certificationocpp/), nu există nicio certificare emisă pe numele PIWIN;
+
+- singurul certificat OCPP 1.6J valabil pentru un model similar (PEVC3108E) este emis pe numele ZHUHAI SINO ENERGY TECHNOLOGY CO., LTD. - o altă entitate juridică.
+
+Această discrepanță nu este o simplă eroare formală, în materie de conformitate tehnică, certificarea se referă strict la produsul testat și la producătorul care a obținut certificarea.
+
+Certificatul emis pe numele SINO ENERGY nu poate fi utilizat pentru un produs fabricat de PIWIN,
+
+întrucât:
+
+- fiecare certificat este emis pentru un model precis (identificat prin cod unic);
+
+- fiecare producător are responsabilitatea exclusivă pentru calitatea și testarea produselor proprii;
+
+- certificatul OCA nu este transferabil și nu poate fi invocat de o altă entitate.
+
+Mai mult, în documentele depuse de ofertant apare același model PEVC3108E, folosit alternativ atât în documentele emise de PIWIN, cât și în cele emise de SINO ENERGY. Această suprapunere între două entități juridice diferite, fără nicio dovadă de legătură între ele (contract de licență, preluare, parteneriat), creează o confuzie evidentă privind originea reală a echipamentelor și autenticitatea documentelor depuse.
+
+Din punct de vedere juridic, această situație echivalează cu prezentarea unui document lipsit de relevanță pentru produsul ofertat, întrucât:
+
+- certificatul nu se referă la producătorul declarat;
+
+- produsul ofertat nu este identificat ca fiind cel testat;
+
+- nu există niciun element care să permită verificarea veridicității documentelor.
+
+Consecința este clară: oferta nu îndeplinește cerința obligatorie privind certificarea OCPP 1.6J. Acceptarea unei simple declarații în locul unui certificat valid reprezintă o încălcare directă a documentației de atribuire și a principiilor prevăzute de art. 2 alin. (2) lit. c) și f) din Legea nr. 98/2016 - legalitate, transparență și tratament egal.
+
+Prin jurisprudența Curții de Justiție a Uniunii Europene (de ex. C-27/15 ##### Pizzo, C-496/99 CAS Succhi di Frutta), s-a statuat că autoritatea contractantă nu poate interpreta extensiv documentele depuse pentru a suplini lipsa conformității, iar cerințele tehnice trebuie respectate în mod strict, pentru a evita favorizarea nelegală a unui ofertant.
+
+Concluzie:
+
+Ofertantul SMART BUSINESS & ############ ######### S.R.L. nu a dovedit conformitatea produselor sale cu standardul OCPP 1.6J, întrucât:
+
+• nu a depus certificatul emis de Open Charge Alliance;
+
+• a prezentat o simplă declarație neprobantă;
+
+• a invocat un certificat emis pentru o altă companie (SINO ENERGY) și un alt produs.
+
+Aceasta reprezintă o neconformitate materială de fond, care impunea respingerea ofertei, întrucât nu există nicio dovadă că echipamentele ofertate respectă cerința tehnică esențială privind comunicarea prin protocolul OCPP 1.6J.
+
+Validarea unei asemenea oferte echivalează cu acceptarea unui produs neverificat, contrar principiilor de legalitate și egalitate de tratament între participant.
+
+###### ##### conformității cu standardele IEC _____ și _____
+
+Documentația de atribuire impunea prezentarea certificatului de conformitate IEC _____-1 și IEC #############, emis de un organism acreditat, ca dovadă a respectării cerințelor minime privind siguranța și interoperabilitatea stațiilor.
+
+Ofertantul SMART BUSINESS & ############ ######### S.R.L. a depus doar o declarație generală de conformitate și câteva teste LVD și EMC, care nu fac nicio trimitere la standardele IEC solicitate și nu menționează modelele ofertate (PEVC3017-SBTS și PEVC3017U- SBTS).
+
+Prin urmare, nu există nicio dovadă tehnică că aceste echipamente au fost efectiv testate conform standardelor impuse.
+
+În mod nejustificat, comisia de evaluare a apreciat cerința ca fiind îndeplinită, ignorând obligația de a verifica prezentarea documentelor tehnice relevante. Această abordare contravine art. 134 și art. 137 din HG nr. 395/2016 și principiului tratamentului egal între ofertanți.
+
+Mai mult, conform informațiilor publice disponibile pe site-ul producătorului (https ://sinoevse. com/dc- ev-chargers/
+
+###### ##### documentelor probante și falsificarea celor prezentate
+
+În documentația tehnică depusă de ofertant, au fost atașate mai multe rapoarte de testare pretins emise de entitatea ZRC TESTING (www.zrc-lab.com). Conținutul acestora este însă profund viciat. În sprijinul afirmațiilor, a contactat în mod direct laboratorul menționat, pentru a verifica autenticitatea acestor rapoarte.
+
+În urma corespondenței purtate, laboratorul ZRC TESTING a confirmat în mod explicit, în scris, următoarele aspecte:
+
+• Fișierele transmise de ofertant sunt documente compuse, adică combinații/editări neautorizate ale unor fișiere originale;
+
+• Nu există nicio evidență internă care să corespundă exact documentelor prezentate de ofertant;
+
+• Fotografiile și alte elemente grafice incluse în rapoartele transmise "nu par să facă parte dintr-un raport oficial emis de ZRC";
+
+• În concluzie, rapoartele prezentate în ofertă an fost modificate, iar laboratorul a confirmat în mod expres: "Aceste rapoarte au fost modificate. Sunt documente alterate. #### deja un raport fals".
+
+Această concluzie este fără echivoc și provine chiar de la emitentul pretins al acestor rapoarte. În lipsa unor documente autentice, conforme cu originalele emise de o entitate autorizată, nu se poate considera că ofertantul a dovedit îndeplinirea cerinței esențiale privind certificarea IK10 pentru ecranul display.
+
+Raportul de testare privind rezistența mecanică IK10 este profund neconform și trebuie calificat drept document fals. #### în conținutul raportului de testare este menționat în mod expres modelul ofertat, acesta nu se regăsește deloc în certificatul de conformitate atașat raportului, ceea ce denotă o lipsă evidentă de coerență între documentele depuse și conduce la concluzia că raportul nu poate fi considerat autentic sau valabil pentru demonstrarea conformității tehnice a echipamentului ofertat.
+
+####### documentației tehnice relevă multiple incoerențe în ceea ce privește raportul de testare EMC, care ridică serioase suspiciuni asupra veridicității și autenticității acestuia. Astfel:
+
+• Data solicitării testării EMC este indicată ca fiind 25.07.2024,
+
+• Iar perioada de testare menționată este 25.07._______________24,
+
+• #### raportul de încercare apare ca emis chiar în data de 25.07.2024, adică exact în ziua în care ar fi fost formulată solicitarea, anterior finalizării oricărei testări efective.
+
+Această contradicție temporală fundamentală - între data emiterii raportului și perioada presupusă de desfășurare a testelor - contravine procedurilor standard de evaluare și certificare și anulează credibilitatea documentului.
+
+Un raport de testare nu poate fi emis înainte de încheierea testelor, iar lipsa oricărei justificări pentru această abatere cronologică denotă, cel puțin, o redactare formală neglijentă, iar în cel mai grav caz, o posibilă falsificare a documentului.
+
+Prin urmare, raportul EMC nu poate fi considerat probant și nu îndeplinește cerințele minime de verificabilitate tehnică impuse de documentația de atribuire.
+
+######## Confirmarea neconformității prin fișa tehnică a producătorului
+
+Mai mult, fișa tehnică semnată de producător confirmă faptul că modelul PEVC3107E (cel pentru care aparent există un raport real) este identic tehnic și structural cu modelul PEVC3107U - SBTS. Acest fapt susține concluzia că:
+
+• raportul depus nu se referă la produsul ofertat în procedură;
+
+• și chiar dacă s-ar accepta analogia, raportul depus este falsificat și nu provine de la emitentul oficial.
+
+######## Neconformități grave în Raportul LVD - document lipsit de valabilitate tehnică și procedurală
+
+Raportul LVD depus de ofertant este marcat de incongruențe cronologice flagrante care îl descalifică atât din punct de vedere tehnic, cât și procedural. Potrivit mențiunilor din document, raportul a fost emis la data de 24.06.2024. Această dată de emitere ridică două probleme majore și de netolerat într-o procedură de achiziție publică:
+
+• Raportul este emis înaintea începerii efective a testărilor - conform informațiilor furnizate de ofertant, testarea echipamentelor s-ar fi desfășurat în perioada 25.07._______________24. Cu alte cuvinte, raportul a fost emis cu o lună înainte de începerea testelor, aspect care contravine oricărei logici tehnice sau norme de acreditare.
+
+• Raportul este emis anterior solicitării oficiale de testare, care, potrivit documentelor depuse în ofertă, ar fi avut loc abia la data de 25.10.2024. Astfel, nu doar că raportul este anterior perioadei de testare, dar este și anterior solicitării, ceea ce încalcă în mod grav ordinea logică și procedurală în materie de certificare.
+
+Aceste discrepanțe nu pot fi justificate prin erori de redactare sau omisiuni administrative - ele reflectă o inconsistență fundamentală ce anulează în mod obiectiv valoarea probatorie a raportului LVD. în lipsa unui raport întocmit în conformitate cu cerințele documentației și normelor de testare recunoscute la nivel european, acest document nu poate fi luat în considerare la evaluarea tehnică și trebuie calificat ca fiind nul și lipsit de efecte juridice.
+
+######## Inconsistențe și indicii de fals în Raportul de testare IK10 - lipsă de corelare între modelul testat și certificatul de conformitate
+
+Raportul de testare privind rezistența mecanică IK10 este, de asemenea, profund neconform și trebuie considerat lipsit de valabilitate. în cuprinsul test report-ului este menționat explicit modelul PEVC3107U-SBTS ca fiind testat pentru rezistență IK10. Totuși, o analiză atentă a CERTIFICATULUI DE CONFORMITATE aferent relevă că acest model nu este menționat deloc în cuprinsul certificării.
+
+Această lipsă de corespondență între documentele emise pentru același produs nu este o simplă omisiune formală, ci o contradicție gravă care subminează fundamentul juridic și tehnic al documentației de conformitate. Potrivit normelor internaționale de certificare (inclusiv standardul EN _____ privind clasificarea IK), orice model testat trebuie să se regăsească în mod expres în certificatul de conformitate, iar în lipsa acestei mențiuni, raportul de testare își pierde valabilitatea.
+
+Această omisiune reprezintă fie o eroare gravă, fie o posibilă intenție de inducere în eroare cu privire la reala conformitate a produsului. în oricare dintre situații, rezultatul este același: documentația nu poate fi validată, iar oferta devine neconformă. în plus, în contextul suspiciunilor de fals asupra unor documente din ofertă (confirmate inclusiv de emitentul raportului, ZRC Testing), această inconsecvență devine un indiciu suplimentar de falsificare intenționată.
+
+Prin urmare, atât raportul IK10, cât și certificatul de conformitate aferent nu pot fi luate în considerare în cadrul evaluării tehnice, iar lipsa de corelare dintre ele compromite grav credibilitatea ofertei și legalitatea procedurii de atribuire.
+
+Se poate observa că mențiunea modelului PEVC3107-SBTS nu respectă același form și format tipografic cu restul conținutului din documentul în care apare. Caracteristicile vizibile precum stilul fontului, dimensiunea, alinierea sau distanțarea față de celelalte elemente sugerează că această denumire a fost adăugată ulterior redactării inițiale a documentului.
+
+Această modificare este vizibilă în mai multe locuri, ceea ce indică o intervenție repetată, intenționată, asupra unui document oficial. într-un document tehnic sau juridic, orice adăugire ulterioară neasumată oficial și fără trasabilitate clară este considerată o încălcare gravă a integrității documentului.
+
+Se poate observa foarte clar că denumirea PEVC3107-SBTS a fost adăugată ulterior și nu face parte din redactarea originală a documentului. Diferențele evidente de font, dimensiune și aliniere față de restul textului indică fără echivoc o intervenție manuală sau digitală, neautorizată.
+
+Din punct de vedere logic și editorial, dacă textul ar fi depășit spațiul disponibil, acesta ar fi fost redirecționat automat pe rândul următor, în mod coerent cu restul structurii documentului. În schimb, se poate observa că acest model a fost înghesuit într-un spațiu deja completat, cu un font diferit, disproporționat și fără respectarea formatului standard.
+
+Această inserție forțată nu este o simplă neglijență, ci un indiciu clar al unei modificări intenționate, care ridică suspiciuni de fals.
+
+Mai mult, Raportul de testare depus de ofertant nu poate fi considerat valid, întrucât chiar informațiile înscrise pe plăcuța de identificare atașată documentului contrazic cerințele tehnice și standardele aplicabile. ####### indică o alimentare de AC 400 V, 102 A, corespunzătoare unei puteri maxime de aproximativ 70 kW, dar declară simultan o ieșire DC de 240 kW, ceea ce reprezintă o contradicție tehnică evidentă și imposibil de susținut din punct de vedere electric, întrucât pentru a livra 240 kW ar fi necesar un curent de intrare de cel puțin 370 A la 400 V, mult peste valoarea înscrisă.
+
+Totodată, plăcuța conține o enumerare de puteri ("60 kW, 80 kW, 90 kW... până la 240 kW"), reprezentând o marcare de _________________ conform EN/B__ ##########, care impune indicarea valorilor nominale aferente modelului efectiv testat, nu listarea tuturor variantelor posibile. Mențiunea suplimentară "AC c________: 32 A, 380 V ±15%" accentuează incoerența, întrucât o astfel de configurație asigură o putere de aproximativ 22 kW, incompatibilă cu o stație DC de 240 kW.
+
+Mai mult, raportul este emis exclusiv pentru componenta LVD, fără a acoperi cerințele legale obligatorii privind EMC (2014/30/UE), RoHS (2011/65/UE) și standardele EN/IEC ########## și _____-24, aplicabile echipamentelor DC de mare putere. ##### acestor elemente face ca documentul să fie incomplet și inadecvat scopului de certificare.
+
+Neconcordanțele sunt accentuate de datele înscrise la secțiunea "#### of equipment", unde este declarată o greutate de 23,5 kg. O asemenea valoare este incompatibilă cu specificul tehnic al unei stații de încărcare DC de mare putere, întrucât chiar și modelele compacte de 20-30 kW depășesc 80-100 kg, iar cele de 100-200 kW ating frecvent 200-400 kg. Greutatea declarată corespunde unui wallbox AC de putere redusă, nu unei stații DC de 240 kW, contrazicând atât datele tehnice declarate, cât și imaginile oficiale din ofertă.
+
+Prin urmare, raportul de testare depus nu poate fi considerat un document valid de conformitate, întrucât conține date autocontradictorii, o marcare neconformă și informații fizic imposibile, ceea ce demonstrează că echipamentul ofertat nu respectă cerințele tehnice minime prevăzute în documentația de atribuire.
+
+Pe baza neconformităților de mai sus, oferta tehnica depusa de ofertant nu putea fi declarata CONFORMA.
+
+În cadrul Decizie CNSC se reține că nu ar fi de competenta CNSC sa analizeze falsurile.
+
+Această constatare confirmă că verificarea autenticității documentelor depuse de AGO nu poate fi realizată în etapa administrativ-jurisdicțională, ci revine în mod exclusiv instanței de judecată, în temeiul art. 34 alin. (2) din Legea nr. 101/2016, coroborat cu art. 301-305C.proc.civ.
+
+Or, întrucât cele două rapoarte contestate reprezintă înscrisuri esențiale pentru demonstrarea conformității tehnice a produsului ofertat, suspiciunea de fals planează direct asupra validității ofertei în ansamblu. întrucât conformitatea trebuie dovedită prin documente autentice și verificabile la momentul depunerii ofertei, orice alterare ori lipsă de credibilitate afectează legalitatea participării ofertantului la procedură.
+
+În acest context, petenta a solicitat instanței:
+
+• Să dispună depunerea în original, de către ### ####### ########### S.R.L., a Raportului de testare nr. ZRC2410209XY-LVD-R.2 și a Raportului de testare pentru rezistența IK10, respectiv fișierele electronice originale (PDF), generate și transmise de laborator, însoțite de toate certificatele digitale, elementele de validare și metadatele aferente;
+
+• Să dispună declanșarea procedurii de verificare de scripte, în temeiul art. 301-302C.proc.civ., având în vedere existența unor indicii clare de alterare a documentelor contestate;
+
+• Să ia act că petenta denunță înscrisurile ca fiind false, în temeiul art. 304-305C.proc.civ., și să aplice procedura de verificare a falsului, cu toate consecințele legale, respectiv constatarea nevalabilității și respingerea ofertei depuse de- ### ####### ########### S.R.L.
+
+Concluzii
+
+##### în vedere:
+
+• încălcarea dreptului la apărare prin restrângerea nejustificată a accesului la oferta depusă de asocierea AGO contrar art. 22 alin. (2)-(3) din Legea nr. 98/2016 și jurisprudenței CJUE (cauza C-450/06, Varecy,
+
+• lipsa de autenticitate și caracterul neconcludent al documentelor depuse pentru demonstrarea conformității tehnice, inclusiv rapoartele de testare ZRC (LVD și IK10), cu privire la care laboratorul emitent a confirmat în scris că au fost modificate/falsificate;
+
+• inconsecvențele flagrante și contradicțiile temporale din documentele de testare depuse (rapoarte emise anterior solicitării și efectuării testărilor), ceea ce anulează valoarea lor probatorie;
+
+• lipsa de coerență între rapoartele de testare și certificatele de conformitate aferente, ceea ce demonstrează că produsul ofertat nu respectă cerințele esențiale ale documentației de atribuire;
+
+• constatarea CNSC, potrivit căreia verificarea autenticității documentelor nu intră în competența sa, revenind instanței de judecată, conform art. 34 alin. (2) din Legea nr. 101/2016 coroborat cu art. 301-305C.proc.civ.,
+
+În probațiune, a solicitat:
+
+1) Să dispună depunerea în original, de către ### ####### ########### S.R.L., a Raportului de testare nr. ZRC2410209XY-LVD-R.2 și a Raportului de testare pentru rezistența IK10, respectiv fișierele electronice originale (PDF) generate și transmise de laboratorul ZRC Testing, însoțite de toate certificatele digitale, elementele de validare și metadatele aferente.
+
+2) Să dispună solicitarea unei adrese oficiale către laboratorul ZRC Testing, prin care acesta să confirme în mod expres:
+
+• dacă Raportul de testare nr. ZRC2410209XY-LVD-R.2 și Raportul de testare pentru rezistența IK10 au fost efectiv emise de laborator;
+
+• dacă documentele depuse în ofertă au fost modificate sau alterate ulterior emiterii lor;
+
+• care este forma autentică în care aceste rapoarte au fost comunicate clientului (inclusiv fișierele electronice originale, cu certificate digitale și metadate aferente);
+
+• dacă rapoartele pot fi descărcate printr-un portal oficial securizat al laboratorului și, în caz afirmativ, să indice link-ul exact și modalitatea de acces.
+
+3) Să dispună declanșarea procedurii de verificare de scripte, în temeiul art. 301-302C.proc.civ., având în vedere indiciile clare de alterare a documentelor contestate.
+
+4) Să ia act că petenta denunța înscrisurile ca fiind false, în temeiul art. 304-305C.proc.civ., și să aplice procedura de verificare a falsului, cu toate consecințele legale ce decurg din aceasta, inclusiv constatarea nevalabilității și respingerea ofertei depuse de către ### ####### ########### S.R.L.,
+
+5) Constatare tehnico-științifica întocmită de Dr. Ing. ####### ##### ###### Director proiect ICSI: Stații de încărcare inteligente fixe si mobile pentru mașini electrice
+
+6) Certification Procedure din 12.01.2024 v2.0.3.
+
+7) Certification Procedure din 27.03.2025 v3.0.1.
+
+Judecata în lipsă: în temeiul art. 223 alin. (3) C. Pr. Civ., a solicitat judecarea cauzei și în eventualitatea lipsei din cadrul dezbaterilor.
+
+La data de 07.11.2025, intimatul JUDEȚUL ####### a formulat întâmpinare, prin care a solicitat respingerea plângerii formulate de petentă, împotriva Deciziei nr.####/Cl/2806,3042,3463,3499, pronunțată în data de 15.10.2025 de Consiliul N_______ de Soluționare a Contestațiilor ca neîntemeiată.
+
+În motivare, intimatul a arătat că criticile și motivele invocate în plângere sunt neîntemeiate, decizia fiind temeinică și legală, întrucât CNSC a realizat o interpretare corectă a materialului probator, oferind o fundamentare justificată a raționamentului său.
+
+Intimatul a arătat că, în fapt, Județul ####### a organizat procedura de licitație deschisă organizată pentru atribuirea contractului de achiziție publică având ca obiect "Servicii de proiectare și asistență tehnică, furnizare și execuție de lucrări, instalare și montaj" pentru proiectul "Construire stații electrice pentru reîncărcare autovehicule" inițiată prin publicarea în S.E.A.P a anunțului de participare simplificat numărul SCN1156063/18.11.2024.
+
+Autoritatea contractantă a organizat procedura de achiziție de tipul "procedură simplificată online" pentru atribuirea contractului având ca obiect "Servicii de proiectare și asistență tehnică, furnizare și execuție de lucrări, instalare și montaj" pentru proiectul "Construire stații electrice pentru reîncărcare autovehicule", cu o valoare estimată a contractului de 469.671,01 lei fără TVA, iar criteriul aplicat pentru atribuirea contractului de achiziție publică stabilit prin documentația de atribuire este "cel mai bun raport calitate-preț".
+
+În cadrul procedurii au fost depuse oferte de următorii operatori economici:
+
+- #### ###### #### ############ SRL
+
+- ######### ### ####### ########### SRL (lider de asociere) - SMART BUSINESS & ############ ######### SRL
+
+În corespondența cu informațiile aferente Raportului procedurii nr. _____/17.07.2025, în urma întocmirii proceselor-verbale de evaluare a ofertelor, situația ofertanților participanți la procedură a fost următoarea:
+
+Calificarea ofertanților/candidaților
+
+####### de evaluare a verificat îndeplinirea condițiilor de participare și a cerințelor minime asociate, prin verificarea informațiilor preliminare prezentate de ofertanți în DUAE și în documentele ce îl însoțeau identificate în ofertele/solicitările de participare prezentate în raport cu condițiile de participare și cerințele minime asociate din anunțul de participare și documentația de atribuire.
+
+Procesul de verificare a fost detaliat în procesul-verbal privind evaluarea garanției de participare, a informațiilor din DUAE și a documentelor care îl însoțesc nr. 2531 din 11.02.2025, care este parte a dosarului achiziției.
+
+Evaluarea propunerilor tehnice
+
+În urma desfășurării procesului de evaluare, au îndeplinit cerințele minime din caietul de sarcini propunerile tehnice prezentate de următorii ofertanți:
+
+1. Asocierea AGO PROIECT ENGINEERING (Leader), SMART BUSINESS & ############ ######### SRL,
+
+În urma evaluării propunerilor tehnice au fost declarate inacceptabile/ neconforme/ neadecvate de către comisia de evaluare ofertele depuse de următorii ofertanți:
+
+#### ########## ############ S.R.L.
+
+În continuare, intimatul a prezentant în întâmpinare motivele pentru care a fost declarată inacceptabilă/ neconformă/neadecvată de către comisia de evaluare oferta #### ########## ############ S.R.L..
+
+Propunerile tehnice au fost evaluate de comisia de evaluare în raport cu cerințele minime din caietul de sarcini pe baza informațiilor prezentate în propunerea tehnică, iar rezultatul evaluării se regăsește în procesul-verb al nr. 8695/09.05.2025 (anexa 2), care este parte a dosarului achiziției.
+
+Concluzionând, având la bază procesul de evaluare al ofertelor și incluzând cele enumerate anterior, comisia de evaluare a stabilit atribuirea contractului către Asocierea AGO PROIECT ENGINEERING (Leader), SMART BUSINESS & ############ ######### SRL
+
+Ulterior aprobării Raportului procedurii cu nr. _____/17.07.2025 s-a comunicat ofertanților participanti la procedură, rezultatul procedurii de atribuire, prin Comunicările publicate în SEAP.
+
+Comunicăriile fiind transmise astfel în SEAP prin intermediul Secțiunii disponibile "Comunicări" în data de 17.07.2025, în acest fel fiind respectate de către autoritatea contractantă prev. art. 215 alin (1) din Legea nr 98/2016.
+
+Intimatul a învederat faptul că prevederile din Caietul de sarcini și întreaga documentație de atribuire aferentă prezentei proceduri și-au dobândit caracterul obligatoriu, atât pentru ofertanți care, potrivit prevederilor art. 123 alin. (1) din H.G. nr. 395/2016, au obligația de a elabora ofertele în conformitate cu prevederile documentației de atribuire, cât și pentru comisia de evaluare care, în conformitate cu art. 133 alin. (1) și (2) din același act normativ, are obligația de a analiza și de a verifica fiecare ofertă atât din punct de vedere al elementelor tehnice propuse, cât și din punct de vedere al aspectelor financiare pe care le implică, în condițiile în care propunerea tehnică trebuie să corespundă cerințelor minime prevăzute în caietul de sarcini.
+
+Prin urmare, trebuie reținut faptul că prin depunerea ofertelor la procedură, se presupune că ofertanții și-au însușit documentația de atribuire fără rezerve, ceea ce înseamnă că nu li se poate scuza nicio abatere de la prescripțiile ei, opozabile în cel mai mic detaliu (relevantă în acest sens este decizia nr. #### din 6 martie 2012 a Curții de Apel #######, Secția de contencios administrativ și fiscal). Astfel cum un contract constituie legea părților, și documentația de atribuire, întovărășită de clarificările postate în SEAP, are aceeași valoare pentru părți, iar niciuna dintre ele nu îi poate ignora sau nesocoti clauzele.
+
+B. REFERITOR LA CONFORMITATEA OFERTEI CONTESTATOAREI
+
+Prin plângerea formulată petenta susține: "oferta depusă de subscrisa este conformă și admisibilă, motivele de respingere fiind neîntemeiate."
+
+Intimatul a prezentat motivele pentru care oferta petentei a fost respinsă, motive care de altfel au fost comunicate prin adresa nr _____/17.07.2025 (Anexa 9), respectiv:
+
+"Răspunsul petentei: documentația de atribuire nu indică că graficul trebuie să conțină încorporat resursele umane și materiale, ci oferta să conțină grafic și alături de grafic să conțină informații despre resursele umane și materiale.
+
+A fost considerat neconcludent, deoarece, documentația de atribuire, prevede:
+
+- fisa de date -Cap IV.4.1 Modul de prezentare al propunerii tehnice (...) Cerințele prevăzute în caietul de sarcini sunt obligatorii și minimale. In aceste condiții, Autoritatea contractantă va lua în calcul toate propunerile tehnice care asigură un nivel calitativ și tehnic cel puțin egal cu cel solicitat prin caietul de sarcini.
+
+Graficul fizic de prestare a serviciilor de proiectare și execuție lucrări, centralizat pe întreaga investiție, va fi elaborat pe luni, cu evidențierea tuturor activităților de proiectare, furnizare, execuție lucrări de montaj și punere în funcțiune a stațiilor de reîncărcare, probe și teste, recepția lucrărilor.
+
+Graficul de execuție a lucrărilor se va întocmi pentru fiecare obiect în parte (stație de reîncărcare), prin includerea tuturor categoriilor de lucrări necesare pentru realizarea la timp și în bune condiții a investiției. Vor fi prezentate în mod obligatoriii și resursele materiale și umane propuse pentru realizarea activităților.
+
+-caietul de sarcini
+
+La faza de ofertare vor fi prezentate următoarele documentații, fără a se limita la acestea:
+
+(...)
+
+• termenul de execuție a lucrărilor și de montare a echipamentelor (utilajelor), se va prezenta graficul de execuție;(...)
+
+Graficul fizic de prestare a serviciilor de proiectare și execuție lucrări, centralizat pe întreaga investiție, va fi elaborat pe luni, cu evidențierea tuturor activităților de proiectare, furnizare, execuție lucrări de montaj si punere în funcțiune a stațiilor de reîncărcare, probe si teste, recepția lucrărilor.
+
+Graficul de execuție a lucrărilor se va întocmi pentru fiecare obiect în parte (stație de reîncărcare), prin includerea tuturor categoriilor de lucrări necesare pentru realizarea la timp și în bune condiții a investiției. Vor fi prezentate în mod obligatoriu si resursele materiale și umane propuse pentru realizarea activităților.
+
+Pe parcursul lucrărilor, graficele pentru fiecare obiect vor fi actualizate în permanență în funcție de situația din teren. Această formulare nu lasă loc de interpretare: includerea resurselor materiale și umane este obligatorie și trebuie prezentată alături de graficul fizic de execuție pentru fiecare obiect în parte."
+
+Din acest motiv, comisia de evaluare a considerat că un grafic care nu respectă această cerință nu poate fi considerat conform cu prevederile documentației de atribuire.
+
+Totodată, a precizat că solicitarea nu a fost o modificare sau extindere a cerințelor, ci o solicitare justificată de clarificare, în contextul în care documentele transmise de către contestatoare nu reflectau această componentă obligatorie.
+
+În același timp, intimatul a precizat că: Potrivit prevederilor art. 209 alin.(l) din Legea 98/2016, în cadrul procedurii comisia de evaluare a uzat de instituția solicitărilor de clarificări cu respectarea principiilor tratamentului egal și nediscriminării, față de toți participanții la procedură, iar retransmiterea unei noi solicitări de clarificări doar către un anumit ofertant privind aspecte care deja oricum au fost solicitate a se clarifica, este de natură a conduce la încălcarea principiilor tratamentului egal și nediscriminării.
+
+Luând în considerare cele mai sus menționate este evident că, petenta nu a înțeles cerințele din documentația de atribuire, ori că încearcă să inducă în eroare instanță.
+
+Așadar, răspunsul prezentat de către petentă s-a dovedit a fi încadrat ca răspuns neconcludent, cu consecința încadrării a ofertei ca fiind inacceptabilă și neconformă, întrucât nu demonstrează îndeplinirea cerințelor menționate mai sus.
+
+##### în vedere aceste motive de respingere/neconformitate ale ofertei depuse de către #### ########## ############ S.R.L., comisia de evaluare a reținut faptul că cerințele au fost clar stabilite la nivelul cerințele regăsite în cadrul documentației de atribuire a prezentei proceduri, în vederea atribuirii contractului având ca obiect «Servicii de proiectare și asistență tehnică, furnizare și execuție de lucrări, instalare și montaj pentru proiectul "Construire stații electrice pentru reîncărcare autovehicule"» conform anunțului de participare simplificat Nr. SCN1156063 /18.11.2024, tocmai pentru a nu se încălca principiul transparenței se rețin incidența următoarelor prevederi legale:
+
+- art. 154 alin (1) din Legea 98/2016;
+
+- art. 20 alin (1) din HG 395/2016;
+
+Documentația de atribuire a fost elaborată în conformitate cu prevederile legale în vigoare, având în componență caietului de sarcini, iar conform prevederilor HG ######## cu modificările și completările ulterioare, art. 20, alin. (10), iar astfel s-a procedat la evaluarea ofertelor în conformitate cu prevedere art. 65, alin (2) din HG 395/2016, coroborate cu cele ale art. 133, alin (1) și (2) din HG 395/2016, cu modificările și completările ulterioare.
+
+Astfel, comisia de evaluare a considerat faptul că omisiunea de prezentare, în cadrul ofertei depuse, a unor documente din propunerea tehnică trebuie analizată în raport cu dispozițiile art. 209 din Legea nr. 98/2016. În acest scop au fost solicitate clarificări.
+
+Raportat la cerințele solicitate prin documentația de atribuire, documentele în cauză au fost solicitate prin caietul de sarcini și fișa de date a achiziție tocmai pentru a nu se încălca principiul transparenței, reținându-se astfel incidența prevederilor art. 154 din Legea 98/2016 și a art. 20 din HG 395/2016.
+
+În consecință, operatorii economici ofertanți au obligația de a depune o ofertă, care conform art. 3, lit. hh) din Legea nr. 98/2016, iar propunerea tehnică și documentele aferente acesteia reprezintă modalitatea concretă prin care ofertantul demonstrează îndeplinirea cerințelor solicitate de autoritatea contractantă prin documentația de atribuire.
+
+Prin propunerea tehnică proprie, depusă la data depunerii ofertelor, ofertanții trebuiau să prezinte modul de realizare a lucrărilor, soluțiile tehnice, inclusiv graficul de realizare a investiției vizate prin prezenta procedură, care răspunzând cerințelor din caietul de sarcini și documentației de atribuire, ar fi făcut posibilă realizarea obiectivului ce face obiectul licitației și, implicit, al viitorului contract de achiziție publică. Omisiunea de prezentare a unui grafic confirm cerințelor în cadrul ofertei depuse de ofertant, a documentelor propunerii tehnice antemenționate trebuie analizată în raport de dispozițiile art. 209 din Legea nr. 98/2016. Cerințele minime impuse prin documentația de atribuire nu sunt îndeplinite întrucât o parte din documentele solicitate în mod expres de către autoritatea contractantă nu conțin toate informațiile solicitate, referindu-ne în mod special la Graficul gantt prezentat, iar pe de altă parte nu este în sarcina comisiei de evaluare să deducă ea însăși elemente ale documentelor prezentate de ofertant, pe baza unor informații insuficiente sau nerelevante, să le coreleze, să le integreze/interpreteze în mod global și distinct în cadrul unui înscris (înscris care a fost solicitat în mod expres de autoritatea contractantă prin cadrul documentației de atribuire).
+
+Astfel, propunerea tehnică a tuturor ofertanților trebuie întocmită într-o manieră organizată și fundamentată pentru fiecare dintre activitățile și cerințele contractului, cuprinzând descrierea punct cu punct a modului de îndeplinirea a specificațiilor/ caracteristicilor tehnice solicitate prin caietul de sarcini/ documentația de atribuire.
+
+În acest sens, în evaluarea ofertelor, s-a avut în vedere responsabilitatea de a analiza în cunoștință de cauză, cu încadrarea situațiilor apărute în categoria abaterilor tehnice minore sau în cadrul celor care pot conduce la modificări substanțiale ale ofertei depuse inițial, în sensul în care aceasta poate fi considerată o nouă ofertă, prin crearea unui avantaj evident în favoarea ofertantului respectiv.
+
+În urma evaluării propunerilor tehnice, a răspunsului la solicitările de clarificări și pe baza informațiilor prezentate de ofertant, s-au concluzionat următoarele:
+
+- se înțelege că graficul putea fi întocmit având în vedere și respectând cerințele care se regăsesc în documentația de atribuire/caietul de sarcini;
+
+- ofertantul avea obligația de a include toate datele și informațiile solicitate în conținutul graficului depus, însă în lipsa prezentării tuturor informațiilor care demonstrează concret îndeplinirea cerințelor solicitate pentru derularea corespunzătoare a contractului, intervine imposibilitatea de a accepta propunerea tehnică depusă de către ofertant.
+
+- prin răspunsul prezentat, precum și prin propunerea tehnică depusă inițial, ofertantul demonstrează că nu cunoaște care erau datele concrete pe care trebuia să le furnizeze în conținutul propunerii tehnice și care trebuia să le furnizeze pe calea răspunsului la clarificări și nici care sunt informațiile clare, concrete și verificabile care să corespundă cerințelor din fișa de date a achiziției/ caietul de sarcini și care nu au fost cuprinse în propunerea tehnică depusă.
+
+- totodată, se constată că ofertantul nu a adus clarificări concludente față de cele prezentate în propunerea tehnică inițial depusă, astfel neclaritățile semnalate prin solicitarea de clarificări nu au fost clarificate, iar oferta nu cuprinde informațiile/datele/documentele doveditoare, care să răspundă la cerințele fișei de date/caietului de sarcini în ceea ce graficul prezentat, astfel cum s-a solicitat prin documentația de atribuire.
+
+#### de toate aceste aspecte detaliate în cadrul paragrafelor prezentate mai sus, se constată faptul că informațiile/datele/ documentele din cadrul Propunerii tehnice prezentate, în fapt nu cuprinde integral modul concret în care ofertantul a înțeles să respecte cerințele din cadrul documentației de atribuire, ci este incompletă, fără elementele obligatorii asumate, rezultând astfel că ofertantul nu a depus toate diligențele pentru a întocmi o ofertă conformă, încălcând astfel prevederile art. 123 alin (1) din HG 395/2016.
+
+În concluzie, comisia de evaluare a constat neconformitatea ofertei depuse de către #### ########## ############ S.R.L. în cadrul prezentei proceduri - Anunțul de participare simplificat Nr. SCN1156063/ 18.11.2024 deoarece răspunsurile prezentate sunt neconcludente și ca atare oferta nu satisface în mod corespunzător cerințele documentației de atribuire, iar în raport cu prevederile legale aplicabile în materia achizițiilor publice intervine obligativitatea respingerii ofertei ca neconformă și inacceptabilă, astfel cum prevăd următoarele articole:
+
+- prevederile art. 133 art. (2) din HG nr 395/2016, cu modificările si completările ulterioare;
+
+- prevederile art. 215, alin. 5 din Legea nr 98/2016, cu modificările si completările ulterioare;
+
+-prevederile art. 137 alin. (3) lit. a) din HG nr 395/2016, cu modificările si completările ulterioare;
+
+- prevederile art. 134 alin (5) din HG nr 395/2016, cu modificările si completările ulterioare.
+
+A mai precizat intimatul că, având în vedere prevederile art. 209 alin.(1) din Legea 98/2016, în cadrul prezentei proceduri comisia de evaluare a uzat de instituția solicitărilor de clarificări cu respectarea principiilor tratamentului egal si nediscriminării, față de toți participanții la procedura. Retransmiterea unei noi solicitări de clarificări doar către un anumit ofertant privind aspecte care deja oricum au fost solicitate a se clarifica, este de natura a conduce la încălcarea principiilor tratamentului egal și nediscriminării.
+
+În consecință, oferta a fost stabilita inacceptabilă și neconformă în baza prevederilor art. 134, alin. (5) din HG nr. 395/2016 cu modificările și completările ulterioare, coroborate cu cele ale art. 215, alin. (5) din Legea nr. 98/2016 cu modificările și completările ulterioare și cu cele ale art. 137 alin. (3) lit. a) din HG nr 395/2016, cu modificările și completările ulterioare și au devenit aplicabile prevederile art. 137 alin. (1) din HG nr. 395/2016, cu modificările și completările ulterioare, în care se menționează că ####### de evaluare are obligația de a respinge ofertele inacceptabile, neconforme și neadecvate.
+
+##### în vedere cele de mai sus, intimatul a solicitat respingerea plângerii formulate de petentă, împotriva Deciziei nr.####/C1/2806,3042,3463,3499, pronunțată în data de 15.10.2025 de Consiliul N_______ de Soluționare a Contestațiilor ca neîntemeiată.
+
+În drept, a invocat Legea nr. 101/2016 privind remediile și căile de atac în materie de atribuire a contractelor de achiziție publică, a contractelor sectoriale și a contractelor de concesiune de lucrări și concesiune de servicii, precum și pentru organizarea și funcționarea Consiliului N_______ de Soluționare a Contestațiilor.
+
+La data de 05.12.2025 intimata ### ####### ########### SRL-SMART BUSINESS&############ ######### SRL PRIN #####, a depus la dosar note scrise prin care a solicitat respingerea în integralitate a plângerii, cu menținerea caracterului legal și temeinic al Decizie CNSC în privința dezlegărilor privind neconformitatea ofertei Next Generation Technologies. Cu obligarea petentei la suportarea cheltuielilor de judecată ocazionate cu prezentul demers.
+
+În motivare, intimata a arătat că față de data de 29.08.2025, moment în care i-a fost permis accesul în mod nerestricționat la dosarul achiziției prezenta contestație este formulată cu respectarea termenului de 7 zile impus de Legea 101/2016.
+
+În acest sens a redat jurisprudența CJUE, Hotărârea pronunțată în cauza în C-54/21, spre exemplu Hotărârea Curții (Camera a patra) din 17 noiembrie 2022 (cerere de decizie preliminară formulată de Krajowa Izba Odwolawcza - #######) - ##### ###### S.A., Pectore-Eco sp. z o.o., Instytut Ochrony Srodowiska - Panstwowy Instytut Badawczy/Panstwowe Gospodarstwo Wodne Wody Polskie.
+
+Prin urmare, momentul de la care curge termenul de a formula o contestație este împotriva raportului procedurii este acela al luării la cunoștință despre motivele de neconformitate ale ofertei pe care o contestăm. Iar acest moment este ziua în care ### ####### ########### SRL a avut acces la dosarul achiziției, la sediul Consiliului, la oferta NGT.
+
+Cu această ocazie, intimata a avut posibilitatea de a vizualiza oferta, procesele verbale de evaluare precum și solicitările de clarificări pe care i le-a adresat autoritatea contractantă acestui ofertant, dar și răspunsurile pe care acesta le-a formulat.
+
+Intimata a mai arătat că, contrat poziției petentei, calea de atac pe care o avea este cererea de intervenție principală, iar nu contestația.
+
+Petenta își structurează, în fapt, criticile privind presupusa tardivitate a contestației pe împrejurarea că intimata, ulterior publicării Raportului procedurii, nu a formulat o contestație împotriva acestuia, ci doar o Cerere de intervenție principală prin intermediul căreia a solicitat acces la dosarul achiziției - oferta depusă de NGT - demers urmat de formularea unei contestații, cu respectarea termenului de 10 zile, care curge de la momentul vizualizării dosarului achiziției - a ofertei NGT.
+
+Ipoteza de la care pleacă petenta este eronată, dat fiind faptul că intimata, fiind ofertant desemnat câștigător, nu justifică interes, la momentul publicării în SEAP a Raportului procedurii, să conteste acest act. Cu alte cuvinte, dreptul material la acțiune al nu s-a născut la momentul publicării raportului procedurii, ci la momentul publicării în SEAP a contestației formulate de NGT.
+
+Or, la data de 04.08.2025, ### ####### ########### SRL a formulat, în dosarul CNSC nr. 2806/C1/2025, atât o cerere de intervenție accesorie, cât și o cerere de intervenție principală, îndeplinind, subsecvent, inclusiv obligația de a consemna o cauțiune în vedere judecării cererii de intervenție principale.
+
+Chestiunea momentului nașterii interesului legitim de a contesta o ofertă clasată pe un loc inferior în clasamentul entității contractante a fost tranșată prin ###### întâlnirii președinților secțiilor specializate ale ICCJ și curților de Apel dedicată unificării practicii judiciare în domeniul contencios administrativ și fiscal din 5-6 mai 2022, ####- ######.
+
+Pronunțându-se în principal asupra momentului nașterii interesului legitim al ofertantului câștigător de a ridica critici față de modalitatea în care a fost evaluat o ofertă clasată pe o poziție inferioară în clasament sau neconformă, în cadrul întâlnirii a fost subliniată încă o dată pârghia procedurală la îndemâna ofertantului câștigător de a contesta modalitatea de evaluare a unui alt ofertant (pe poziție inferioară sau neconform), și anume formularea unei cereri de intervenție principale care, într-adevăr, este asimilată, din punct de vedere al efectelor, unei contestații, inclusiv din punct de vedere al necesității constituirii unei cauțiuni.
+
+Cu alte cuvinte, nu s-a stabilit că ofertantul desemnat câștigător are la îndemâna posibilitatea formulării unei contestații, ci doar posibilitatea formulării unei cereri de intervenție principală în termen de 10 zile de la data publicării contestației în SEAP.
+
+Fiind sesizată cu o cerere de pronunțare a unul RIL, în data de 17.11.2025, prin Decizia ##/17.11.2025, pronunțată în dos. nr. ####/1/2025, ICCJ a stabilit faptul că, în interpretarea și aplicarea unitară art. 3 alin. (1) lit. a), art. 8 și art. 17 alin. (3) din Legea nr. 101/2016 privind remediile și căile de atac în materie de atribuire a contractelor de achiziție publică, a contractelor sectoriale și a contractelor de concesiune de lucrări și concesiune de servicii, precum și pentru organizarea și funcționarea Consiliului N_______ de Soluționare a Contestațiilor, cu modificările și completările ulterioare.
+
+Soluția Înaltei ##### este absolut firească, dar fiind faptul că un ofertant care este desemnat câștigător nu poate fi obligat ca, pentru a-și păstra poziția de câștigător, să formuleze, în mod pur preventiv, contestații împotriva tuturor celorlalți participanți clasați pe locuri inferioare sau neconformi.
+
+Așadar, unica modalitate prin care un ofertant desemnat câștigător poate ataca, sub aspectul neconformității, într-o primă etapă, un alt participant clasat pe loc inferior sau neconform este cererea de intervenție principală, care îi conferă acestui ofertant o poziție similară celei de apelant sau recurent incident. Ulterior vizualizării ofertei acestuia la sediul CNSC, ### ####### ########### SRL avea deschisă pârghia procedurală de a formula o contestație în acord cu cele reținute de CJUE în Hotărârea pronunțată în cauza ##### Polska.
+
+#### de aceste aspecte, intimata a apreciat că a acționat corect din punct de vedere procedural, excepția tardivității contestației ### ####### ########### SRL fiind în mod corect respinsă de Consiliu. 
+
+Cu privire la neconformitatea ofertei NGT, intimata a arătat următoarele:
+
+Contrar opiniei petentei, Certificarea OCPP (prin OCA - Open Charge Alliance) nu se acordă unei companii sau unui brand în ansamblu, ci unui model specific de stație de încărcare și unei versiuni precise de software care rulează pe acea stație.
+
+Iar această chestiune are următoarele consecințe practice:
+
+• #### un producător are mai multe modele de stații (ex: 7 kW, 14 kW, 22 kW), fiecare model trebuie testat și certificat separat, chiar dacă folosește același hardware sau același firmware de bază.
+
+• Totuși, dacă producătorul folosește exact același software (același firmware certificat) pe mai multe modele, atunci poate fi valabilă certificarea și pentru celelalte modele - dar doar dacă producătorul a declarat acest lucru în cadrul procesului de certificare OCA.
+
+NGT invocă neconformitatea altor oferte prin expunerea faptului că, certificarea OCA nu este valabilă decât pentru producătorul și produsul menționat în Certificat, cu caracteristicile aferente, dar aclamă conformitatea ofertei proprii pe baza aceluiași subiect, în mod contradictoriu, fapt pentru care în situația convenabilă acestuia, în speța dată pentru produsele ofertate de ea, s-ar extinde Certificarea și pentru alte categorii de produse, bazându-se pe simplul fapt că este "doar un limbaj de comunicare".
+
+Tot acesta mai afirmă faptul că OCA "este o organizație ONG nesemnificativa care are costuri astronomice":
+
+În raport cu oferta ### ####### ########### SRL are o valoare incomensurabilă pentru determinarea unei presupuse "neconformități", iar pentru oferta depusă de el, la fel, în declararea conformității unui alt produs, prin posibilitatea extinderii Certificării față de un alt produs care nu este certificat. - Open Charge OCA extinde certificarea si asupra altor produse ale aceluiași producător, în baza unei proceduri operaționale atente, rezultând emiterea unei certificări distincte pentru fiecare produs, cu un cod aferent acestuia, nicidecum din oficiu, sub simple considerente ale NGT.
+
+Sub acest aspect, Consiliul reține în mod corect faptul că "certificatul OCA.0016.0926.CS prezentat de #### ########## ############ S.R.L. vizează exclusiv un model de stație AC de 14 kW, distinct de cele ofertate în prezenta procedură (82 kW, AC/DC)." - aspect de neconformitate.
+
+La pagina 920 a propunerii tehnice depuse de NGT se regăsește Certificatul de conformitate nr. 2720-CT-_____.A2, însă acesta nu menționează codurile produselor/ stațiilor ofertate, respectiv NGT-82K(A/D)2(CCS2/T2)400/1000S-7CRHP-V2-WIFI/4G și/sau NGT-82K(A/D)3(CCS2/CHA/T2)400/1000S-7CRHP-V2-WIFI/4G, mai exact la pagina 921 a propunerii tehnice nu se regăsește în codul produsului și denumirea "CRHP".
+
+În mod evident, certificatul prezentat nu este aferent stației ofertate, NGT încercând, prin depunerea unui certificat emis pentru o altă stație, inducerea în eroare a comisiei de evaluare.
+
+#### de acest aspect, autoritatea contractantă în mod nelegal a concluzionat că NGT respectă cerința de a fi depus în oferta sa documente care să probeze îndeplinirea cerințelor de natură tehnică. Singura concluzie legală ar fi fost cea de respingere a ofertei depuse de NGT, dat fiind faptul că acesta nu a depus documente solicitate expres prin documentația de atribuire.
+
+La pagina 960 a propunerii tehnice, ofertantul NGT a depus Documentul/ Certificatul OCA (Open Charge Alliance), prezentat în partea dreaptă în imaginea de mai jos (certificatul regăsit în oferta NGT), însă se observă ca a fost ștearsă intenționat denumirea produsului pentru care a fost realizat certificarea OCA.
+
+În partea stânga a imaginii de mai jos, se regăsește certificatul OCA original, descărcat de pe site-ul oficial la OCA https://openchargealliance.org/, mai exact din următorul link de acces: https://openchargealliance.org/participants/wenzhou-bluesky-energy- technology-co-ltd/
+
+Chiar dacă în cel descărcat de pe site-ul oficial (partea stângă), apare că este un update al celui din partea dreaptă, nu este posibil ca certificarea sa fie făcută pentru o stație AC de 14 kW, iar în urma update-ului, să se transforme într-o stație DC de 82 kW, conform cerinței solicitate de CJ #######.
+
+Mai mult, acest lucru se adeverește întocmai și din pagina 3 a certificatului descărcat de pe site-ul oficial, unde la secțiunea HARDWARE FEATURE SET, la poziția a 4 a reiese cu claritate faptul că stația nu are suport DC și că este prevăzută cu e conectori de curent AC - cType2.
+
+Comparând certificatul original descărcat, cu următoarea imagine/captură de ecran de mai jos, extrasă tot din Certificatul OCA din oferta NGT - la pagina 962 (a propunerii tehnice) se poate observa faptul că:
+
+- se menține mențiunea "No" de la poziția a patra din tabel;
+
+- iar stația certificata OCA are 2 conectori CCS2, nicidecum Type 2 și/sau ChadeMo, așa cum se regăsește în certificatul original și cum s-a solicitat în prezenta procedură prin documentația de atribuire.
+
+Din aceste considerente reiese cu claritate faptul că certificatul OCA depus în cadrul prezentei proceduri a fost modificat intenționat, prin ștergerea codului de produs, astfel încât prin această alterare a documentului să reiasă faptul că stațiile ofertate de 82 kW dețin această certificare OCA.
+
+Certificarea OCA se realizează pentru fiecare model de stație în parte, motiv pentru care documentul prezentat în cadrul acestei proceduri este unul alterat ca și conținut, adică modificat în mod intenționat de ofertantul NGT, care cunoștea foarte bine faptul că certificarea OCA de care se prevalează este emisă pentru o altă stație, iar nu pentru stația ofertată în prezenta procedură.
+
+În orice caz, atât față de caracterul fals al documentului de mai sus, cât și față de faptul că acesta nu atestă certificarea OCA a modelelor ofertate, documentul nu putea fi avut în vedere de autoritatea contractantă cu ocazia evaluării.
+
+Toate aceste chestiuni au fost confirmate întocmai și în mod oficial de către OCA (Open Chaerge Alliance), care confirmă faptul că acest Certificat se aplică doar produsului denumit "BSEC-14K(A)2(CCS2)220S" , respectiv doar pentru "un încărcător de curent alternativ cu doi conectori de tip 2 si fără capacitate DC/CCS" (adică încărcare în curent continuu - astfel cum este stația ofertată de de 82 kW formată din 60kW DC + 22kW AC - ID Produs: BSEC-82K(A/D)2(CCS)400/1000S / BSEC- 82K(A/D)3(CCS)400/1000S ).
+
+#### de alterarea intenționată a conținutului acestui document, având în vedere că la data depuneri ofertei (16.01.2025) acesta nu mai era valabil, înțelege să le denunțe ca fals.
+
+În eventualitatea în care Curtea de Apel ar considera că certificarea emisă de un Organism de Evaluare a Conformității (OCA) poate fi extinsă asupra unor produse diferite de cele efectiv prezentate în procedura de evaluare - în speță, asupra unei stații de încărcare având o putere nominală diferită, caracteristici tehnice distincte - o astfel de soluție ar contraveni în mod direct cadrului juridic european privind evaluarea conformității și supravegherea pieței.
+
+Conform Regulamentului (CE) nr. 765/2008 și Deciziei #########CE, evaluarea conformității trebuie efectuată exclusiv asupra produsului prezentat, iar certificarea nu poate fi extinsă la un produs care prezintă diferențe tehnice esențiale. Orice extindere nejustificată ar încălca:
+
+- principiul trasabilității tehnice a certificării (Reg. 765/2008, art. 18-20);
+
+- obligația OCA de a evalua numai modelul supus examinării (Decizia #########CE, Modulul B - Examinare UE de tip);
+
+- obligația operatorilor economici de a supune evaluării orice modificare de proiectare sau construcție (Decizia #########CE, secțiunea 3.2);
+
+- cerințele esențiale din Directiva 2014/35/UE (LVD), Directiva 2014/30/UE (EMC) și, după caz, Directiva 2014/53/UE (RED);
+
+- standardele tehnice aplicabile stațiilor de încărcare, precum EN _____, care impun verificarea conformității pentru fiecare configurație tehnică distinctă.
+
+Un produs având altă putere, altă arhitectură electronică nu poate fi considerat identic cu cel certificat, iar aplicarea marcajului CE fără o nouă evaluare este contrară art. 30 alin. (1)-(3) din Reg. 765/2008, generând un fals nivel de conformitate.
+
+Admiterea unei astfel de practici ar crea un precedent grav, afectând:
+
+- credibilitatea organismelor de evaluare a conformității,
+
+- eficiența sistemului de supraveghere a pieței,
+
+- protecția consumatorilor, a infrastructurii și a operatorilor economici corecți,
+
+- funcția marcajului CE de garanție a unui nivel uniform de siguranță la nivelul UE.
+
+Pentru aceste motive, intimata a considerat esențial ca procedura de evaluare a conformității să rămână limitată strict la produsul examinat. Orice altă abordare reprezintă o abatere de la legislația europeană și de la standardele internaționale aplicabile.
+
+Situația descrisă reprezintă un risc major pentru integritatea sistemului de conformitate și pentru siguranța utilizatorilor finali.
+
+Decizia prin care s-ar admite că certificarea emisă de un Organism de Evaluare a Conformității (OCA) poate fi extinsă asupra unor produse care nu au fost supuse evaluării, care prezintă caracteristici tehnice diferite, puteri diferite sau software diferit, produce consecințe grave nu doar asupra sistemului de conformitate, ci și asupra credibilității și autorității atât a OCA, cât și a autorității de supraveghere a pieței.
+
+Organismele de Evaluare a Conformității sunt instituții desemnate și notificate la nivel european tocmai pentru a garanta că:
+
+- produsele sunt evaluate strict conform caracteristicilor tehnice declarate,
+
+- procesul de certificare este obiectiv, imparțial și riguros,
+
+- marcajul CE este aplicat doar produselor care îndeplinesc cerințele esențiale.
+
+#### un OCA este considerat, printr-o decizie instanțială, "valabil" pentru modele pe care nu le-a examinat, atunci:
+
+- se anulează autoritatea tehnică a OCA,
+
+- se creează impresia că evaluarea de conformitate este formală și nu tehnică,
+
+- se golește de conținut procesul de evaluare de tip (Modulul B),
+
+- se pune în discuție competența profesională a organismului,
+
+- se afectează reputația organismului în rețeaua europeană #####.
+
+Mai mult, OCA poate deveni ținta unor acuzații de: certificare necorespunzătoare, lipsă de imparțialitate, nerespectarea mandatului tehnic pentru care a fost notificat.
+
+Acest lucru poate conduce la: suspendarea sau retragerea notificării, pierderea statutului de organism notificat, pierderea încrederii producătorilor și importatorilor care se bazează pe evaluări corecte.
+
+Autoritatea de supraveghere a pieței are obligația legală, conform Regulamentului 765/2008, de a: controla produsele introduse pe piață, verifica autenticitatea și validitatea certificărilor, interveni atunci când produsele nu respectă standardele aplicabile.
+
+#### se creează un precedent în care un produs este considerat conform fără a fi evaluat, atunci autoritatea de supraveghere a pieței devine:
+
+- lipsită de instrumentele necesare aplicării legii,
+
+- împiedicată să asigure siguranța utilizatorilor,
+
+- expusă criticilor pentru lipsa de intervenție în situații de neconformitate,
+
+- vulnerabilă în fața oricăror litigii sau investigații europene.
+
+În esență, autoritatea de supraveghere a pieței este pusă într-o poziție imposibilă: să valideze produse care nu au fost evaluate și să tolereze încălcarea cadrului legislativ european, ceea ce contravine mandatului său legal.
+
+C_____ legislativ european (Reg. 765/2008, Decizia #########CE, directivele sectoriale) este construit pe: trasabilitate, verificare tehnică, responsabilitatea fiecărui actor, și verificare independentă.
+
+O decizie care ignoră aceste principii: distruge logica întregului sistem, creează un precedent utilizabil în orice domeniu tehnic (electrice, medicale, mașini, echipamente industriale, etc.), favorizează introducerea pe piață a produselor nesigure, compromite standardele europene și disciplina conformității.
+
+În aceste condiții, situația analizată: lezează grav Organismul de Evaluare a Conformității, subminează autoritatea legală a autorității de supraveghere a pieței, afectează credibilitatea întregului sistem de evaluare și supraveghere, pune în pericol siguranța utilizatorilor și funcționarea corectă a pieței.
+
+În concluzie, oferta este neconformă pentru lipsa certificării OCA a stațiilor ofertate, după cum corect a reținut și CNSC.
+
+Referitor la conformitatea ofertei Ago, intimata a arătat următoarele:
+
+Concluzia Consiliului este corectă în sensul că experiența în calitate de "director de proiect" poate fi considerată similară cu cea de "manager de proiect", în temeiul unei interpretări rezonabile și conforme cu dispozițiile caietului de sarcini, care permit prezentarea unei experiențe "pe o poziție similară (nu identică)".
+
+Această interpretare este în concordanță cu principiile proporționalității și liberei concurențe, consacrate de legislația achizițiilor publice, conform cărora cerințele de calificare trebuie interpretate în mod care să nu restrângă nejustificat participarea operatorilor economici.
+
+În practică, denumirea poziției poate varia în funcție de structura organizațională a fiecărui operator economic, însă atribuțiile aferente funcției de "director de proiect" corespund în mod substanțial celor specifice "managerului de proiect", implicând coordonarea echipei, planificarea activităților, monitorizarea implementării și asumarea rezultatelor proiectului.
+
+Prin urmare, experiența în calitate de "director de proiect" reprezintă o experiență echivalentă și relevantă, care îndeplinește cerințele caietului de sarcini, conform interpretării corecte și rezonabile reținute de Consiliu.
+
+Funcția de manager de proiect este, prin natura sa, superioară ierarhic celei de director de proiect, întrucât implică atât responsabilitățile de coordonare generală ale proiectului, cât și activități suplimentare legate de planificare strategică, monitorizare, raportare și asumarea directă a rezultatelor.
+
+Prin urmare, experiența în calitate de manager de proiect include, în mod implicit, competențele și atribuțiile specifice funcției de director de proiect, extinzându-se însă și asupra unor domenii decizionale și operaționale de o complexitate mai mare.
+
+În consecință, această experiență trebuie considerată cel puțin echivalentă, dacă nu superioară, celei de "director de proiect", respectând cerințele caietului de sarcini care permit prezentarea unei experiențe "pe o poziție similară (nu identică)".
+
+În materia achizițiilor publice, principiul proporționalității și cel al tratamentului egal impun ca autoritatea contractantă să nu respingă o ofertă care îndeplinește cerințele minime impuse prin documentația de atribuire, chiar dacă aceasta depășește nivelul solicitat - atât timp cât respectă scopul și obiectul procedurii.
+
+Astfel, atunci când un operator economic prezintă o experiență sau o calificare superioară cerinței minime (de exemplu, experiență ca manager de proiect, în loc de director de proiect), autoritatea nu poate considera această ofertă ca fiind neconformă, întrucât ea nu diminuează, ci depășește standardul cerut.
+
+Această abordare este susținută de jurisprudența constantă a CNSC și a instanțelor de contencios administrativ, care au statuat că:
+
+"O ofertă ce demonstrează o capacitate tehnică, profesională sau o experiență superioară celei solicitate prin caietul de sarcini nu poate fi respinsă pe motiv că nu corespunde întocmai cerinței, întrucât aceasta respectă și chiar depășește exigențele autorității contractante. "
+
+Prin urmare, aplicarea principiului proporționalității și a celui al utilizării eficiente a fondurilor publice conduce la concluzia că o ofertă superioară calitativ sau o experiență profesională mai complexă trebuie acceptată și valorizată pozitiv, nu sancționată.
+
+#### pozițiile aparțin unor grupe diferite ###, relația dintre ele este una de suprapunere funcțională și ierarhică în favoarea managerului de proiect, întrucât acesta exercită responsabilități directe, concrete și verificabile, pe întreg parcursul de implementare a proiectului, în timp ce directorul de proiect exercită, în mod obișnuit, o funcție de supervizare strategică, fără implicare în gestionarea operațională.
+
+Prin urmare:
+
+• experiența în calitate de manager de proiect include competențele de conducere, planificare și coordonare asociate funcției de director de proiect,
+
+• iar din perspectiva relevanței pentru implementarea efectivă a proiectelor, funcția de manager de proiect este cel puțin echivalentă, dacă nu superioară celei de director de proiect.
+
+În consecință, conform principiilor proporționalității și tratamentului egal din legislația achizițiilor publice, experiența în funcția de manager de proiect (### ______) trebuie acceptată și recunoscută ca fiind relevantă și validă pentru cerința vizând experiența în calitate de director de proiect (### ______), întrucât aceasta depășește nivelul minim solicitat prin caietul de sarcini.
+
+În privința presupusei lipsei a autorizației ANRE valabile a Managerului de proiect propus, respectiv lipsa autorizației ##### dlui. ########## #### #######, în primul rând a adus în vedere că acesta este autorizat încă de la data 07.05.2015, astfel cum reiese în mod public și oficial din portalul/ spațiul virtual al ANRE, care poate fi accesat al următorul link de acces: https://spv.anre.ro/autorizatii-electricieni/
+
+Iar de la data de 07.05.2015, dl. ########## #### ####### a deținut autorizare ANRE valabilă si în formă continuă, fără întrerupere, singura diferență între perioada 07.05._____________20 și perioada 22.10._____________25 este dată de faptul că în prima perioadă (07.05._____________20) a deținut legitimație.
+
+Iar începând cu data de 22.10.2020, conform normelor proprii ale ANRE, aceasta nu mai eliberează legitimații, ci emite Adeverințe, drept pentru care autorizația dlui. ########## a fost prelungită prin Adeverința nr. #############oct.-20 (depusă și în cadrul procedurii).
+
+Aceste modificări - "trecere de la legitimație la adeverință", au apărut în conformitate cu normele de aplicare ale ANRE, însă aceste modificări nu presupun întreruperea valabilității unei autorizări, acestea fiind prelungite o dată la 5 ani, prin vizarea periodică a adeverințelor de către ANRE.
+
+Astfel cum se denotă din adeverința prezentată mai sus, termenul de valabilitate a acesteia este din data de 22-oct.-20 până la următorul termen de vizare, respectiv data de 22-oct.-25 (5 ani), după care este necesară o nouă avizare pt. următoarea perioadă de 5 ani, lucru care s-a și întâmplat între timp, conform conform următoarei capturi de ecran (și astfel cum reiese de pe site-ul oficial al ANRE).
+
+##### în vedere toate aceste chestiuni, dl. ########## #### ####### deține autorizare ANRE din data de 07.05.2015 până în prezent, fără întreruperi, lucru care poate fi confirmat prin vizitarea site-ului oficial al ANRE sau confirmare scrisă din partea acesteia.
+
+Totodată, conform documentelor doveditoare depuse în cadrul Propunerii Tehnice pentru dl. ########## #### #######, se denotă că acesta a deținut atât autorizarea ANRE, cât și certificarea de Manager de Proiect conform cod ### (______ - cod vechi# ###### # cod nou) în toată perioada implicării acestuia în cadrul Contractelor prezentate drept ca experiență similară.
+
+Sub aceste considerente, rezultă fără putință de tăgadă faptul că expertul propus deținea/ deține calificările cerute și a demonstrat experiența specifică în funcția cerută, iar soluția CNSC este legală.
+
+Criticele neanalizate de CNSC:
+
+Afirmă petenta în plângerea sa faptul că - Ofertantul declarat câștigător nu a prezentat toate documentele solicitate, oferta depusă fiind incompletă. Lipsesc documente esențiale prevăzute la Secțiunea 2 a fișei tehnice, iar completarea lor ulterioară era interzisă conform instrucțiunilor din fișa de date a achiziției.
+
+Nu se identifică o lipsă expresă cu subiect și predicat a vreunui document anume din oferta ### ####### ########### SRL, pe care să nu îl fi depus în cuprinsul ofertei, astfel că, argumentul este superficial și lipsit de justificare concretă.
+
+O altă critică vizează faptul că -Rapoartele LVD depuse sunt false, după cum se va demonstra detaliat, întrucât nu corespund produselor ofertate și prezintă discrepanțe evidente între modelul certificat și cel propus în ofertă. "
+
+Afirmațiile și interpretările formulate în acest sens nu pot fi primite, fiind lipsite de forță probantă și neavând caracter de constatare oficială.
+
+În lipsa unei expertize autorizate sau a unei confirmări din partea emitentului documentului, susținerile contestatorului reprezintă simple aprecieri subiective, care nu pot fundamenta o concluzie de neconformitate.
+
+Se solicită, așadar, excluderea și respingerea acestor argumente, sub rezerva lipsei oricărei competențe tehnice, juridice sau instituționale a contestatorului în materia verificării autenticității documentelor emise de terți.
+
+A atașat dovada emitentului documentelor invocate pentru înlăturarea oricăror suspiciuni sau discuții pe tema dată, care confirmă autenticitatea și veridicitatea acestora. Aceste documente au fost depuse, de altfel, și în fața CNSC.
+
+(Mai critică petenta faptul că "Neconformitatea tehnică a ofertei depuse de ######### ### ####### ########### S.R.L. - SMART BUSINESS & ############ ######### S.R.L. privind cerința referitoare la displayul TFT touchscreen antivandal. Dimensiuni contradictorii - raportul care vizează ecranul indică măsurători aproximative ce corespund unui display cu diagonală ~8,8 inch (20*10 cm), adică un ecran de cca. 9 inch, în timp ce oferta declară explicit un display de 10 inch."
+
+Autoritatea contractantă solicită un ecran de minim 7 inch, ### ####### ########### SRL va furniza în eventualitatea câștigării contractului un ecran de 10 inch, însă chiar și un display cu diagonală de aproximativ 8,8 inch (~ 20 x 10 cm) - cum precizeaza NGT în plângerea înaintată.
+
+Prin urmare, se poate considera conform și echivalent cu un display de 10 inch, din moment ce: - îndeplinește cerința minimă (>7 inch); - diferența față de 10 inch nu afectează funcționalitatea;- oferă o suprafață de afișare suficientă pentru scopul tehnic urmărit prin atribuirea contractului.
+
+Oferta depusa îndeplinește cu succes cerintele impuse de catre autoritatea contractanta, ba chiar propune un echipament net superior. ####, într-adevăr, semnificativ faptul că oferta ### ####### ########### SRL a devenit obiectul unei contestații nu pentru motive de neconformitate sau lipsă de îndeplinire a cerințelor, ci pentru caracteristicile sale superioare față de cele minime solicitate.
+
+Această situație confirmă, de fapt, nivelul de calitate și performanță propus de ### ####### ########### SRL, care a urmărit nu doar respectarea cerințelor tehnice, ci și asigurarea unei soluții superioare, eficiente și durabile, în deplină concordanță cu principiile proporționalității, tratamentului egal și utilizării eficiente a fondurilor publice.
+
+O altă critică vizează o presupusă neconformitatea dintre modelele ofertate și documentele de testare prezentate
+
+Din analiza Raportului procedurii (filele 32 și 35), rezultă că modelele efectiv ofertate de ### ####### ########### S.R.L. sunt: • PEVC3017-SBTS • PEVC3017U-SBTS Producătorul declarat al acestor modele este ZHUHAI PIWIN NEW ENERGY CO., LTD.
+
+Produsele sunt identice din punct de vedere tehnic și funcțional, diferența de codificare provenind exclusiv din sistemul intern de identificare utilizat pentru comanda specifică destinată Smart Business & ############ ######### S.R.L.
+
+Terminația "SBTS" reprezintă o simplă prescurtare a denumirii beneficiarului - Smart Business & Technologies Solutions - și nu reflectă nicio modificare a caracteristicilor tehnice, constructive sau de performanță ale produsului.
+
+Prin urmare, cele două coduri desemnează același produs, cu aceleași specificații tehnice și parametri de funcționare, diferența fiind pur administrativă și neavând impact asupra conformității ofertei.
+
+NGT: "##### individualizării modelelor - imposibilitatea de a avea configurații diferite sub aceeași denumire comercială În domeniul echipamentelor electrice și electronice, nomenclatura produsului (denumirea de model, codul tehnic sau codul SKU) are rolul esențial de a asigura trasabilitatea produsului pe întregul lanț de producție, certificare și comercializare. "
+
+Aceste aspecte sub doar cu titlu de paranteza având in vedere faptul ca: în cadrul ofertei tehnice ### ####### ########### SRL a ofertat stația de încărcare PEVC3108E-SBTS, cu configurație 3 conectori, cu posibilitatea configurabilă și cu doar 2 conectori.
+
+Intimata a mai precizat că acest fapt derivă din modul de configurare software a aceluiași echipament. Modelul PEVC3108E-SBTS este proiectat constructiv pentru a susține până la 3 conectori activi, însă sistemul permite dezactivarea unuia dintre aceștia, conform cerinței formulate în caietul de sarcini.
+
+Astfel, pentru a respecta cerința procedurii, unul dintre conectori va fi dezafectat (inactivat) din punct de vedere funcțional la momentul livrării, fără a aduce atingere conformității produsului. Important este faptul că echipamentul rămâne integral conform specificațiilor tehnice solicitate, iar prezența fizică a conectorului suplimentar nu afectează performanța sau siguranța echipamentului.
+
+Mai mult, această configurație reprezintă o caracteristică tehnică superioară față de cerința minimă impusă, întrucât oferă autorității contractante posibilitatea de extindere ulterioară - cu titlu gratuit - prin simpla activare software a conectorului momentan inactiv. Această opțiune permite creșterea capacității de încărcare a stației, fără costuri suplimentare, fără intervenții hardware și fără a afecta garanția produsului.
+
+În acest context, soluția propusă de nu doar că este pe deplin conformă cerințelor caietului de sarcini, dar demonstrează și un nivel superior de performanță, flexibilitate și valoare adăugată, în deplină concordanță cu principiile achizițiilor publice - în special principiul proporționalității, al tratamentului egal și al utilizării eficiente a fondurilor publice.
+
+Prin urmare, prezentarea modelului PEVC3108E-SBTS în ambele configurații trebuie interpretată nu ca o inconsecvență, ci ca o manifestare a calității tehnice superioare a produsului ofertat, care oferă autorității contractante o soluție mai completă și mai avantajoasă pe termen lung.
+
+A amintit că oferta sa a devenit obiectul unei contestații nu ca urmare a unor pretinse neconformități sau neîndepliniri ale cerințelor minime impuse, ci, dimpotrivă, pentru caracteristicile sale tehnice superioare față de specificațiile minimale prevăzute în documentația de atribuire.
+
+Această situație nu evidențiază o deficiență a ofertei, ci dimpotrivă, confirmă nivelul înalt de calitate, performanță și complexitate tehnică al soluției propuse de ### ####### ########### SRL. În mod firesc, principiile care guvernează domeniul achizițiilor publice - în special principiul proporționalității, al tratamentului egal și al utilizării eficiente a fondurilor publice - impun ca o ofertă ce depășește cerințele minime să fie apreciată ca un element de valoare adăugată, nu ca un motiv de excludere.
+
+Prin urmare, faptul că oferta ### ####### ########### SRL este contestată exclusiv din perspectiva caracteristicilor sale superioare confirmă, în mod obiectiv, calitatea și conformitatea acesteia, precum și angajamentul operatorului economic de a furniza autorității contractante o soluție performantă, durabilă și avantajoasă din toate punctele de vedere, inclusiv aduce beneficii pecuniare pe termen lung prin posibilitatea extinderii funcționalităților fără costuri suplimentare. 
+
+O altă critică vizează presupusa ##### a certificatului OCPP 1.6J și confuzia privind identitatea producătorului
+
+Intimata a prezentat Certificatul OCA și Declarația producătorului care atestă faptul ca Zhuhai ##### Technology Co., Ltd., Zhuhai Sino Energy Technology Co., Ltd. și Zhuhai Piwin New Energy Co., Ltd. fac parte din același grup organizațional, având ca entitate mamă ##### Group (Zhuhai ##### Technology Co., Ltd.):
+
+##### în vedere că Zhuhai ##### Technology Co., Ltd., Zhuhai Sino Energy Technology Co., Ltd. și Zhuhai Piwin New Energy Co., Ltd. fac parte din același grup organizațional - ##### Group - certificările tehnice, de conformitate sau de calitate emise pentru PRODUSELE acestui grup sunt reciproc valabile, întrucât privesc același produs, realizat în cadrul aceleiași structuri industriale, prin aceleași procese de producție, control și testare.
+
+#### important de subliniat că, în cazul de față, certificarea VIZEAZĂ PRODUSUL în sine, și nu persoana juridică ce figurează ca solicitant sau plătitor al serviciului de certificare.
+
+Prin urmare, emitentul certificatului (fie că acesta este #####, Sino sau Piwin) nu modifică valabilitatea tehnică a documentului, atât timp cât produsul, specificațiile și standardele de conformitate sunt aceleași.
+
+În practică, autoritățile de certificare emit documentația în funcție de entitatea comercială care solicită procedura, însă valabilitatea și recunoașterea certificării este valabilă și aplicabilă PRODUSULUI, întrucât acesta atestă conformitatea - nu producătorul ori persoana care a solicitat si achitat taxa de certificare.
+
+Orice societate X poate solicita certificarea produsului dacă îi este necesară, Certificatul urmând să fie pe numele solicitantului și a plătitorului testărilor în cauză. Chiar și asa, ### ####### ########### SRL demonstrează faptul că cele două entități Sino și Zhuhai sunt parte a aceleiași organizații. A reiterat faptul că, Certificarea este a produsului și doar a produsului testat, nu a familiei de produse, contrar susținerilor NGT, independent de solicitantul certificării pentru care se emite acesta.
+
+#### de critica de la punctul 4.3.6. ##### documentelor probante și falsificarea celor prezentate a arătat următoarele:
+
+Afirmațiile privind pretinsa falsificare a documentelor prezentate de ### ####### ########### SRL sunt neîntemeiate și lipsite de orice fundament probatoriu.
+
+Un fals nu poate fi dovedit prin simple capturi de ecran ori prin pretinse conversații private, care nu conțin elemente de autentificare - precum semnătură, antet, ștampilă, dată certă sau orice alt element care să poată fi asociat în mod verificabil cu emitentul real al documentului contestat.
+
+În plus, numărul de telefon, identitatea interlocutorului și sursa conversației prezentate nu pot fi asociate, în mod obiectiv, cu laboratorul de testare sau cu entitatea emitentă a rapoartelor de certificare. Prin urmare, asemenea materiale nu îndeplinesc cerințele minime pentru a constitui înscrisuri probatorii, nefiind semnate, datate sau asumate oficial de către nicio parte competentă.
+
+În consecință, orice pretinsă dovadă bazată pe astfel de capturi ori conversații nu poate fi reținută ca probă în sens juridic, iar susținerea unui presupus fals pe baza unor asemenea mijloace contravine principiilor de autenticitate și verificabilitate a probelor consacrate de legislația în vigoare.
+
+Intimata invocă, cu titlu prealabil, excepția procedurală a inadmisibilității probelor depuse de contestator în susținerea presupusei falsificări a documentelor prezentate, întrucât acestea nu îndeplinesc condițiile minime de autenticitate și verificabilitate impuse de legislația aplicabilă.
+
+Contestatorul își întemeiază susținerile exclusiv pe capturi de ecran ale unor pretinse conversații private, care nu prezintă elemente de identificare verificabile (nume complet, calitate oficială, semnătură, antet, dată certă sau sursă confirmabilă), neputând fi asociate, în mod obiectiv, cu laboratorul de testare, emitentul certificatelor ori cu oricare alt organism notificat implicat în procedura de certificare. 
+
+Or, potrivit principiilor generale de drept și prevederilor art. 249Cod procedură civilă, sarcina probei și credibilitatea mijlocului de probă revin celui care le invocă, iar probele trebuie să aibă forță probantă și proveniență certă. Simpla reproducere a unei conversații nedeterminate, fără semnătură ori fără legătură dovedită cu emitentul documentului contestat, nu poate constitui mijloc de probă valabil și nu poate susține o acuzație de fals.
+
+În consecință, a solicitat excluderea acestor materiale din ansamblul probator și neluarea lor în considerare la analiza plângerii, întrucât nu provin de la o sursă verificabilă și nu au valoare juridică, fiind simple capturi digitale fără autenticitate sau valoare probatorie.
+
+Totodată, a solicitat ca, în ipoteza admiterii plângerii formulate de NGT, în temeiul art. 34 (4) din Legea 101/2016, să fie reținute spre judecare motivele de neconformitate invocate, însă neanalizate de Consiliu, care se regăsesc în contestația formulată.
+
+În concluzie, pentru toate aceste motive, a solicitat respingerea plângerii formulate de NGT.
+
+În drept: dispozițiile art. 31 alin. (2) din Legea ######## privind remediile și căile de atac în materie de atribuire a contractelor de achiziție publică, a contractelor sectoriale și a contractelor de concesiune de lucrări și concesiune de servicii, precum și pentru organizarea și funcționarea Consiliului N_______ de Soluționarea a Contestațiilor, și orice alt text de lege invocat în cuprinsul său ori incident în cauză.
+
+În probațiune: proba cu înscrisuri, precum și de orice alt mijloc de probă a cărui necesitate de administrare va reieși din dezbateri.
+
+Împotriva Deciziei nr. ####/C1/2806,3042,3463,3499 din data de 15.10.2025, pronunțată de Consiliul Național de Soluționare a Contestațiilor, a formulat plângere petenta ### ####### ########### SRL-SMART BUSINESS&############ ######### SRL, înregistrată pe rolul Curții de Apel București Secția a X-a C_________ Administrativ și Fiscal și pentru Achiziții Publice la data de 04.11.2025, sub nr. de dosar ####/2/2025, prin care a solicitat:
+
+1. Admiterea plângerii și modificarea în parte a deciziei CNSC în sensul:
+
+#### Admiterea cererii de intervenție principală în dosarul ######### cu consecința Anulării Raportului Procedurii nr. _____/17.07.2025 în partea care vizează evaluarea ofertei depuse de Next Generation Technologies și obligarea autorității contractante la reevaluarea ofertei depuse de #### ########## ############ S.R.L. - ofertant lider și la continuarea procedurii în conformitate cu prevederile legale în vigoare aplicabile în materia achizițiilor publice, precum și cu principiile consacrate de art. 2 al Legii 98/2016;
+
+#### Respingerea contestației #### ########## ############ S.R.L. ce formează obiectul dosarului ######### cu consecința menținerii ca legal și temeinic a raportului Procedurii nr. _____/17.07.2025 cu privire la oferta #### ########## ############ S.R.L.;
+
+#### Respingerea contestației #### ########## ############ S.R.L. ce formează obiectul dosarului #########, ######### cu privire la oferta AGO PROIECT ENGINERING SI SMART BUSINESS & ############ ######### SRL cu consecința menținerii ca legal și temeinic a raportului Procedurii nr. _____/17.07.2025 cu privire la oferta ### ####### ########### SRL.
+
+2. Cu obligarea intimatei la suportarea cheltuielilor de judecată ocazionate cu prezentul demers.
+
+În motivare, a arătat cu privire la interesul legitim în formularea prezentei contestații, acesta este reprezentat de păstrarea poziției de câștigătoare a procedurii.
+
+####### ### ####### ########### SRL a apreciat că, în mod nelegal CNSC a recalificat cererea de intervenție principală ca fiind contestație supusă termenului de 7 zile reglementat de art. 8 alin. 1 lit. b din Legea ######## cu data de referință pentru calcul 17.07.2025- data publicării în SEAP a raportului procedurii.
+
+Cererea de intervenție este în mod legal formulată în termenul de 10 zile în care se înaintează o cerere de intervenție, termen calculat de la data la care contestatoarea a înaintat contestație împotriva raportului procedurii, aceasta fiind data la care se naște interesul ofertantului situat pe locul I. Astfel, de la data de 25.07.2025, calculând 10 zile, rezultă că ultimă zi pentru înregistrarea cererii de intervenție principală a ofertantului clasat pe locul I vizavi de contestația ofertantului clasat pe locul II, este data de 05.08.2025.
+
+Astfel, Contrar opiniei Consiliului, ### ####### ########### SRL nu putea justifica interes legitim în contestarea unei oferte neconforme (aparținând NGT) anterior publicării în SEAP, de către entitatea contractantă, a contestației formulate de acest ofertant neconform.
+
+Hotărârea CJUE pronunțată în cauza C 532/20, ALSTOM , evocată de Consiliu și care ar reprezenta baza Hotărârii de unificare a practicii administrativ- jurisdicționale din data de 16.03.2025 a Plenului CNSC nu este aplicabilă speței de față, deoarece, astfel cum reține chiar CJUE, la punctul 26, #### atât instanța de trimitere, în cererea sa de decizie preliminară, cât și părțile din litigiul principal și ####### Europeană, în observațiile lor scrise respective, abordează condiția interesului de a exercita acțiunea, trebuie să se constate că această instanță a ales să își limiteze întrebarea numai la problema momentului de la care începe să curgă termenul de introducere a căii de atac.
+
+Prin urmare, CJUE s-a raportat în mod abstract la momentul de la care curge termenul în care adjudecatarul poate formula o cale de atac prin care să învestească Consiliul cu analizarea unor motive suplimentare de neconformitate ale ofertei depuse de un alt ofertant, fără a analiza momentul de la care adjudecatarul poate ataca oferta unui ofertant neconform și cu luarea în considerare a momentului nașterii dreptului material la acțiune al acestuia.
+
+Chestiunea momentului nașterii interesului legitim de a contesta o ofertă clasată pe un loc inferior în clasamentul entității contractante a fost tranșată prin ###### întâlnirii președinților secțiilor specializate ale ICCJ și curților de Apel dedicată unificării practicii judiciare în domeniul contencios administrativ și fiscal din 5-6 mai 2022, ####- ######.
+
+Pronunțându-se în principal asupra momentului nașterii interesului legitim al ofertantului câștigător de a ridica critici față de modalitatea în care a fost evaluat o ofertă clasată pe o poziție inferioară în clasament sau neconformă, în cadrul întâlnirii a fost subliniată încă o dată pârghia procedurală la îndemâna ofertantului câștigător de a contesta modalitatea de evaluare a unui alt ofertant (pe poziție inferioară sau neconform), și anume formularea unei cereri de intervenție principale care, într-adevăr, este asimilată, din punct de vedere al efectelor, unei contestații, inclusiv din punct de vedere al necesității constituirii unei cauțiuni.
+
+Cu alte cuvinte, nu s-a stabilit că ofertantul desemnat câștigător are la îndemâna posibilitatea formulării unei contestații, ci doar posibilitatea formulării unei cereri de intervenție principală în termen de 10 zile de la data publicării contestației în SEAP.
+
+Concluzia este confirmată inclusiv la nivel jurisprudențial, sens în care a evocat cele reținute de Curtea de Apel ###### în Decizia nr. ###/CA/2025, pronunțată în data de 14.07.2025 în dosarul 264/CA/2025.
+
+Așadar, chiar dacă, din punct de vedere al efectelor, cererea de intervenție principală este identică unei contestații, rămâne mijlocul procedural unic aflat la dispoziția ofertantului desemnat câștigător de a critica o ofertă aflată pe o poziție inferioară în clasament sau neconformă.
+
+Poziția este cel puțin firească, dat fiind faptul că, precum în cazul oricărei acțiuni, și în cazul intervenției principale, reclamantul trebuie să justifice un interes, momentul nașterii interesului legitim de a contesta fiind același cu momentul nașterii dreptului material la acțiune. În speța de față, atât interesul ### ####### ########### SRL cât și dreptul material la acțiune s-au născut în momentul publicării în SEAP a contestației formulate de NGT.
+
+#### de prevederile art. 17 alin 3 din Legea 101/2016, ### ####### ########### SRL a formulat, în prezentul dosar, o cerere de intervenție voluntară principală, respectând atât termenul de 10 zile de la publicarea în SEAP a contestației NGT, cât și obligația inerentă unei intervenții principale de a consemna, în termen de 5 zile, pe seama și la dispoziția Consiliului, o cauțiune conform prescripțiilor art. 611 din același act normativ.
+
+Elementele caracteristice ale acestui tip de cerere rezultă din cuprinsul textului în cauză, care nu distinge față de existența unui/a sau a două tip/uri de intervenție, ci trimite la prevederile Codului de procedură civilă, însă, concomitent cu impunerea unui termen unic de formulare a cererii, raportat la data luării la cunoștință a contestației, dar și cu precizarea celor ce ar avea interes în a o formula, respectiv operatorii economici interesați să participe/participanți la procedura de atribuire (... "pot formula cerere de intervenție voluntară în litigiu, potrivit prevederilor Legii nr. 134/2010 privind Codul de procedură civilă, republicată, cu modificările ulterioare, în termen de 10 zile de la data publicării în SEAP a contestației" ...). Or, termenul de exercitare a acțiunii specifice și calificarea ope legis a persoanelor cu vocație în formularea ei sunt diferite față de reglementarea din procedura civilă ordinară, care nu ar trebui să afecteze caracterul general permisiv amintit.
+
+Practic, prin trimiterea expresă la prevederile Codului de procedură civilă, textul asigură dreptul de alegere a tipului de cerere de intervenție pe care să o promoveze persoanele interesate, în concordanță cu poziția procesuală cea mai favorabilă situației de fapt rezultând în procedura de atribuire. De altfel, chiar și în lipsa acestei trimiteri exprese a textului art. 17 din Legea nr. 101/2016, posibilitatea alegerii, anterior amintite, este asigurată de prevederile art. 68 al legii, care statuează că "Dispozițiile prezentei legi se completează cu prevederile (...) Legii nr. 134/2010, republicată, cu modificările ulterioare".
+
+De remarcat este faptul că prevederile din Legea nr. 101/2016 nu introduc alte condiții (de formă/fond) ale admisibilității de principiu a cererilor de intervenție, față de cele care rezultă din dispozițiile Codului de procedură civilă.
+
+O apreciere precum cea a Consiliului din prezenta speță pare să ignore, cel puțin, și dreptul operatorului economic interesat de a formula o intervenție principală bazat pe dispozițiile tezei a 2-a a alineatului 2 al art. 61 din Codul de procedură civilă, conform cărora, acesta poate pretinde pentru sine un drept strâns legat de dreptul dedus judecății; ceea ce poate fi asimilat situației în care, după contestarea actului de adjudecare, cel în favoarea căruia s-a adjudecat formulează intervenția voluntară, prin care pretinde, strâns legat de obiectul contestației, dreptul de a rămâne, după reevaluarea ofertelor, singurul ofertant admisibil. Aceasta este un drept subiectiv, care aparține exclusiv ofertantului desemnat câștigător, dar care nu ar fi avut o vocație reală de a pune la îndoială anterior situația contracandidaților săi printr-o acțiune distinctă si directă, nefiind certă vreo vătămare a sa, câtă vreme era câștigătorul competiției, necontestat încă.
+
+Acesta este raționamentul fundamental pentru care, în fapt, cererea de intervenție este pendinte de o contestație principală, neputând fi inițiată distinct de aceasta, pentru a-i fi opozabil și același termen de formulare (10 zile de la cunoașterea rezultatului, după raționamentul din decizia atacată). în literatura de specialitate, această dependență a intervenției față de acțiunea principală este considerată definitorie, stabilindu-se caracterul incident al intervenției (apreciată ca fiind o cerere/acțiune conexă acțiunii principale).
+
+Prin urmare, în situația ofertantului câștigător al cărui drept este negat printr-o contestație, este evident interesul acestuia de a formula o cerere de intervenție principală, iar nu una exclusiv accesorie, tocmai pentru a-și consolida situația de drept, și prin invocarea dreptului de a rămâne singurul competitor acceptat.
+
+În același timp, termenul de formulare a acestei intervenții în interes propriu trebuie să fie raportat la momentul inițierii acțiunii principale, nu la momentul nașterii dreptului subiectiv pus în discuție. O acțiune formulată de câștigătorul procedurii împotriva stabilirii de către achizitor a ofertanților excluși, indiferent dacă s-ar numi contestație sau intervenție principală, ar pune în discuție stabilirea existenței unei vătămări efective a inițiatorului, cu prioritate.
+
+Încercarea de excludere din clasament a unui ofertant (indiferent de locul ocupat), care nu a inițiat încă nicio acțiune împotriva rezultatului procedurii, nu prezintă caracteristicile unei acțiuni (aparținând câștigătorului) de înlăturare a unei vătămări efective. În același timp, nu se poate aprecia similar asupra interesului acestuia din urmă de a menține status quo-ul procedurii, în cazul în care a fost inițiată o acțiune din partea unui ofertant exclus sau a unuia necâștigător împotriva deciziei autorității contractante. Situația nu prezintă caracteristici similare nici dacă acțiunea respectivă nu privește exclusiv propria ofertă a inițiatorilor acțiunii, ci și oferta desemnată câștigătoare.
+
+Astfel, în lipsa altor impedimente de admisibilitate de principiu a unui asemenea demers, soluția corectă trebuia să conducă la admisibilitatea cererii de intervenție principală, contrar celor reținute de Consiliu.
+
+Cu privire la contestația #### ########## ############ S.R.L. ce formează obiectul dosarului #########, a solicitat respingerea acesteia, cu consecința menținerii ca legal și temeinic a raportului Procedurii nr. _____/17.07.2025 cu privire la oferta #### ########## ############ S.R.L.
+
+Autoritatea contractantă a apreciat în mod corect faptul că oferta depusă de Next Generation Technologies este neconformă.
+
+Prin contestația pe care a formulat-o, NGT a denaturat sensul unor cerințe clare ale documentația de atribuire, cum ar fi cea privind obligația ofertanților de a întocmi un grafic de execuție în care să fie evidențiate resursele propuse pentru fiecare activitate în parte. CNSC a îmbrățișat acest raționament ignorând în schimb documentele achiziției, anume pagina 13 din caietul de sarcini unde s-a solicitat în mod expres ca graficul de execuție propus de ofertanți să cuprindă inclusiv resursele care vor fi utilizate.
+
+Așa cum CNSC nu se poate substitui autorității contractante și să declare anumite oferte câștigătoare sau neconforme cu excluderea din procedură, nici în gândirea autorității nu poate interveni și să adauge sau să elimine cerințe și/sau solicitări exprese: dacă AC nu ar fi dorit în grafic resursele, atunci mențiunea nu s-ar fi aflat printre cerințele graficului de execuție, ci ar fi fost plasată de autoritate între cerințele referitoare la personal/ resurse, care fac obiectul unui alt capitol al caietului de sarcini.
+
+Așadar, fiind poziționată în secțiunea dedicată graficului de execuție a lucrărilor, este evident că ofertanții avea obligația de a include, în graficul de execuție a lucrărilor pe care l-au propus, și resursele. Cerința nu este "în contextul modului de prezentare a propunerii tehnice", ci în contextul clar al cerințelor referitoare la graficul de execuție a lucrărilor.
+
+#### cerința ar fi fost una referitoare pur și simplu la resurse, autoritatea ar fi plasat-o la pagina 12 a caietului de sarcini, printre cerințele specifice resurselor, iar nu la pagina 13, unde, cu bold, evidențiate între alte două categorii de cerințe și clar delimitate de acestea, sunt cerințele referitoare la modalitatea de prezentare a graficului de execuție a lucrărilor.
+
+Practic, la acest moment, contestatoarea critică, în fapt, solicitarea de clarificare pe care i-a adresat-o autoritatea contractantă, însă astfel de critici sunt tardive, ofertantul având posibilitatea ca, la momentul la care i-a fost adresată solicitarea de clarificare, să o conteste. însă o astfel de contestație nu a fost formulată. Sau, avea oricând posibilitatea de a solicita o clarificare autorității contractante referitoare la această cerință.
+
+Fiind clar formulată cerința și încadrată în capitolul graficului, toate motivările CNSC legate de principiul egalității de tratament și de transparență nu subzistă. Din contră, i se creează ofertantului NGT privilegiul de a avea o ofertă conformă, cu încălcarea principiului egalității de tratament față de noi, prin neobservarea intenționată și neînlăturarea motivată, de către CNSC, a susținerilor legate de tardivitatea acestor critici care puteau fi clarificate cel puțin dacă nu contestate la momentul publicării.
+
+Astfel, cerințele autorității au devenit obligatorii atât pentru ea cât și pentru ofertanți, în acord cu art. 127 alin 1 din HG 395/2016, iar interpretarea CNSC de la paginile 42-44 din Decizie este nepotrivită în contextul lipsei vreunei solicitări de clarificări din partea NGT, la fel cum este și reținerea că oferta a fost declarată neconformă pe motiv formal; nu există un motiv formal aici: actualizarea graficului nu înseamnă completarea lui cu resursele materiale și umane, chestiunea fiind inadmisibilă, jurisprudența CJUE fiind constantă în sensul interdicției, pentru autoritățile contractante, de a solicita unui ofertant să completeze o ofertă pe care o consideră neconformă, cu atât mai puțin să o completeze pe parcursul execuției.
+
+Cu privire la oferta ### ####### ########### SRL, petenta a apreciat că Decizia CNSC este nelegală pentru următoarele motive:
+
+Cu privire la acest aspect in mod eronat CNSC retine că oferta ### ####### ########### SRL nu respectă cerințele din documentație de atribuire pentru că în fișa tehnică 2 nu au fost precizate documentele din care să reiasă conformitatea platformei de management fișierul 13.1. Voltrelli de pe CD neconținând informații privind: rezervarea stației, durata de încărcare rămasă în timp real comunicată de vehicul și afișarea stațiilor sub formă de listă.
+
+Afișarea stațiilor sub formă de listă este îndeplinită, CNSC însuși, cu 2 paragrafe mai sus reținând că stațiile sunt afișate în tabel. Or, un tabel înseamnă o listă în care produsele sunt enumerate într-un chenar. Reținerea este total superficială, solicitând cenzurarea acesteia, putând fi ușor încadrată la vicii de formă în baza art. 135 alin.3 din HG ######## deși, cerința este îndeplinită, existând lista. Formatul listării stațiilor a fost ales de echipa tehnica de dezvoltare astfel încât sa fie cat mai prietenos vizual pentru utilizatori si sa se încadreze in limitările ecranelor telefoanelor si sa fie cat mai ușor de accesat.
+
+Cât privește rezervarea stației, durata de încărcare rămasă în timp real comunicată de vehicul, a menționat că, astfel cum a reținut și CNSC, în documentația de atribuire Autoritatea Contractantă a prevăzut la #### Tehnică 2 mențiunea: Ofertanții vor putea dovedi la cererea autorității funcționalitatea platformei prin acces gratuit la un cont demo al acesteia. Motiv pentru care este suficientă susținerea celor două funcțiuni în oferta tehnică deoarece rezervarea stației și durata de încărcare rămasă în timp real comunicată de vehicul sunt elemente care se verifică în timp real pe aplicație. Astfel, presupusa neconformitate NU există.
+
+Capturile de ecran pe care CNSC nu le-a luat în considerare cu motivația că ar fi probe ce trebuiau să existe în propunerea tehnică NU sunt probe în sensul dat de CNSC. Capturile demonstrează ce însemană aplicația Voltrelli- white label , aplicație impusă prin caietul de sarcini și susține fișierul platformei de management.
+
+De asemenea, în calitate de producători ai soluției software orice declarație a petentei ### ####### ########### SRL., semnata si asumata, inclusive chiar F5, poate fi considerate fisa produs, documentație suport, ori documentație tehnica a producătorului. Petenta este producătorul aplicației, demonstrat cu CERTIFICAT DE ÎNREGISTRARE - OFICIUL UNIUNII EUROPENE PENTRU PROPRIETATE INTELECTUALĂ si DOVADA ##### ÎNREGISTRATA ####, sens în care, a reiterat faptul ca orice declarație se considera documentație tehnica, fiind emisa de însuși producător.
+
+Producătorul însuși care participă la o procedură de achiziție sau licitație are avantajul că poate furniza documentația tehnică originală și completă a produselor/serviciilor oferite.
+
+Documentele tehnice furnizate direct de producător sunt considerate surse autorizate și de încredere pentru a susține conformitatea produsului. 
+
+Acesta este și motivul pentru care autoritatea nu a avut nevoie de o clarificare sau completare în sensul prevederilor art. 213 alin. 2 din Legea 98/2016 (când autoritatea are obligația de a solicita operatorilor clarificări sau completări fără a permite modificarea propunerii tehnice) și nici acces la cont demo, înțelegând faptul că producătorul, prin declarația sa care semnifică fișă de producător, certifică existența cerințelor. 
+
+Aplicația Voltrelli permite prin facilitățile pe care le are activarea sau dezactivarea anumitor funcții, pentru personalizare in funcție de cerințe. Realizarea unei aplicații white label se poate face la cererea beneficiarului in baza unei solicitări scrise exprese a acestuia.
+
+În cazul de față s-a cerut ca: Ofertantul va pune la dispoziție, platforma de operare/administrare a stafiilor prin care autoritatea contractanta sa poata gestiona stațiile, cu aplicație pentru ios si android, tip "white label". Prin "white label" se intelege crearea unei aplicații de sine statatoare pentru dispozitive Ios si Android, publicata individual in galeriile online ale ##### store si Google Store sub insemnele beneficiarului, personalizata conform cerințelor acestuia si/sau respectând manualul de identitate vizuala.
+
+Deoarece în cadrul documentației de atribuire nu s-au pus la dispoziție însemnele beneficiarului si nu s-a cerut prezentarea in mod detaliata îndeplinirii cerinței nu au fost prezentate documente explicative.
+
+Aplicația Voltrelli ##### și Voltrelli ###### App este 100% personalizabilă în regim white-label, conform practicii industriei de software OCPP.
+
+Această caracteristică este esențială în toate implementările pentru parteneri instituționali din #######, ######, Mexic și ####, și este prevăzută în documentația tehnică internă ("Voltrelli Branding and ##### Labeling Guide", disponibilă la cerere).
+
+Funcționalitatea permite:
+
+- înlocuirea integrală a siglei, denumirii și culorilor cu elementele vizuale ale beneficiarului (logo, paletă cromatică, favicon, ecrane splash și titluri aplicație),
+
+- personalizarea domeniului web (de tipul evbeneficiar.ro),
+
+- afișarea siglei beneficiarului pe interfața de mobil și pe harta web în contul CPO (Charge Point Operator).
+
+Această arhitectură este standard pentru sistemele OCPP bazate pe cloud și se realizează prin interfața Voltrelli ##### Console, fără nicio modificare de cod.
+
+Prin urmare, cerința privind personalizarea aplicației este îndeplinită tehnic în totalitate, iar lipsa capturilor demonstrative nu înseamnă neconformitate.
+
+Totodată, trebuie reținut faptul că statele membre ale Uniunii Europene sunt obligate să se conformeze principiului respectării dreptului la apărare, care, în calitate de principiu fundamental al dreptului uniunii din care face parte integrantă dreptul de a fi ascultat în orice procedură, își găsește aplicarea în cazul în care administrația intenționează să adopte împotriva unei persoane un act cauzator de prejudicii, precum o decizie de excludere dintr-o procedură de atribuire (Hotărârea din 14 ianuarie 2021, RTS Infra și Aannemingsbedrijf Norre-Behaegel). În sensul că statele membre ale Uniunii și, în special, autoritățile contractante trebuie să respecte nu numai principiile aplicabile achizițiilor, enunțate Ia articolul 18 al Directivei 2014/24, printre care și principiul proporționalității, ci și principiul respectării dreptului la apărare care, în calitate de principiu fundamental al dreptului Uniunii, din care face parte integrantă dreptul de a fi ascultat în orice procedură, își găsește aplicarea în cazul în care administrația intenționează să adopte împotriva unei persoane un act cauzator de prejudicii, cum ar fi o decizie de excludere dintr-o procedură de atribuire sunt și Hotărârea din 20 decembrie 2017 Presqu ######, C-276/16, punctele 45 și 46, și Hotărârea din 3 iulie 2014, Kamino Internațional Logistics și ###### Hallmann Worldwide Logistics, C-129/12 și C130/13, punctul 28, precum și jurisprudența citată acolo, concluzii incidente și în speța de față.
+
+Pentru toate aceste motivă, a solicitat admiterea plângerii formulate, cu constatarea invalidării deciziei Consiliului în ceea ce privește soluția de declarare drept neconformă a ofertei pe care a depus-o ### ####### ########### SRL.
+
+De asemenea, raportat la contestațiile formulate de ### ####### ########### SRL, având în vedere faptul că și ofertantul NGT a formulat plângere împotriva aceleiași decizii, a solicitat aplicarea dispozițiilor art. 34 alin. (4) din Legea 101/2016.
+
+În drept, și-a întemeiat plângerea pe dispozițiile art. 29 și următoarele din Legea ######## privind remediile și căile de atac în materie de atribuire a contractelor de achiziție publică, a contractelor sectoriale și a contractelor de concesiune de lucrări și concesiune de servicii, precum și pentru organizarea și funcționarea Consiliului N_______ de Soluționare a Contestațiilor, pe dispozițiile Codului de Procedură Civilă, pe dispozițiile art. 1 din Legea nr. ### # ####, precum și pe celelalte prevederi legale invocate.
+
+Probe: în susținerea prezentei plângeri, a solicitat încuviințarea probei cu înscrisurile aflate la dosarul achiziției publice și orice alte probe a căror necesitate va reieși din desfășurarea procedurii.
+
+La data de 07.11.2025 intimata JUDEȚUL ####### a formulat întâmpinare față de plângerea formulată de petenta ### ####### ########### SRL, solicitând respingerea plângerii formulate de petentă, împotriva Deciziei nr.####/C1/2806,3042,3463,3499, pronunțată în data de 15.10.2025 de Consiliul N_______ de Soluționare a Contestațiilor ca neîntemeiată.
+
+Intimata a invocat excepția conexității, arătând că pe rolul Curții de Apel București se află înregistrat dosarul nr. ####/2/2025, cu termen de judecată la data de 05.12.2025, dosar în care părți sunt reclamanta SC #### ########## ############ SRL și pârâtul Județul #######, obiectul acestuia fiind același cu cel din prezenta cauză.
+
+##### în vedere faptul că Dosarul nr.####/2/2025 are ca obiect tot plângere împotriva Deciziei nr. ####/Cl/2806,3042,3463,3499 pronunțată în data de 15.10.2025 de Consiliul N_______ de Soluționare a Contestațiilor, rezultă fără putință de tăgadă că este admisibilă excepția conexității celor două dosare. Astfel, a solicitat admiterea excepției și conexarea la dosarul nr.####/2/2025, în temeiul art. art.139 alin.(l) Cod Procedură Civilă.
+
+În motivarea întâmpinării, intimatul a reluat argumentele prezentate prin întâmpinarea depusă în dosarul nr. ####/2/2025, față de plângerea petentei #### ########## ############ SRL.
+
+La data de 04.12.2025, petenta a formulat note scrise prin care a invocat excepția conexității, solicitând conexarea plângerii obiect al prezentului dosar la dosarul nr. ####/2/2025, ca primă instanță învestită în sensul art. 139 alin. 3 Cod Procedură Civilă.
+
+Prin încheierea din data de 04.12.2025, Curtea de Apel București Secția a X-a C_________ Administrativ și Fiscal și pentru Achiziții Publice a admis excepția conexității și a conexat cauza nr. ####/2/2025 la dosarul nr. ####/2/2025, cu termen de judecată la data de 05.12.2025.
+
+Analizând actele si lucrările dosarului, Curtea reține următoarele:
+
+În fapt, JUDEȚUL #######, în calitate de autoritate contractantă, a organizat procedura simplificată online, în vederea atribuirii contractului având ca obiect: "Servicii de proiectare si asistenta tehnica, furnizare si execuție de lucrări, instalare și montaj pentru proiectul: Construire stații electrice pentru reîncărcare autovehicule", cod CPV: ##########, elaborând, în acest sens, documentația de atribuire aferentă și publicând, în SEAP, anunțul de participare nr. SCN1156063/18.11.2025, conform căruia valoarea estimată a procedurii este 469.671,01 lei fără TVA. Conform cap. II.2.5) din anunț, criteriul de atribuire al contractului este "cel mai bun raport calitate preț".
+
+Prin Raportul procedurii nr. _____/17.07.2025, autoritatea contractantă a respins oferta #### ########## ############ SRL ca neconformă, motivând lipsa includerii resurselor umane și materiale în graficul Gantt, și a declarat câștigătoare oferta depusă de ######### ### ####### ########### SRL - SMART BUSINESS & ############ ######### SRL.
+
+Ca urmare a contestațiilor formulate de către cei doi agenți economici participanți la procedură, Consiliul, prin Decizia nr. ####/C1/2806, 3042, 3463, 3499 din data de 15.10.2025 a respins, ca nefondată, excepția lipsei de interes a contestatorului #### ########### ############ SRL, invocată de ### ####### ########### SRL în dosarul nr. 2806/2025, a respins, ca nefondată, excepția tardivității contestației formulate de ### ####### ########### SRL ulterior studierii dosarului cauzei, invocată de intervenientul #### ########### ############ SRL în punctul de vedere depus în dosarul nr. ######### a respins, ca tardivă, contestația formulată de ### ####### ########### SRL, care face obiectul dosarului nr. ######### și a admis cele 2 contestații formulate de #### ########### ############ SRL și contestația formulată de ### ####### ########## SRL, ulterior consultării dosarului cauzei, toate în contradictoriu cu autoritatea contractantă JUDEȚUL #######. Pe cale de consecință, a respins, ca nefondate, cererile de intervenție accesorie, formulate de ### ####### ########## SRL și #### ########### ############ SRL, a anulat raportul procedurii în partea aferentă ofertei desemnată câștigătoare și a obligat autoritatea contractantă la reevaluarea ofertei asocierii ### ####### ########## SRL - SMART BUSINESS & ############ ######## SRL cu respectarea documentației de atribuire, a prevederilor legale.
+
+Atât asocierea ### ####### ########## SRL - SMART BUSINESS & ############ ######## SRL cât și #### ########### ############ SRL au formulat plângere împotriva deciziei CNSC.
+
+În temeiul dispozițiilor art. 248 alin 1 C pr civ: "Instanța se va pronunța mai întâi asupra excepțiilor de procedură, precum și asupra celor de fond care fac inutilă, în tot sau în parte, administrarea de probe ori, după caz, cercetarea în fond a cauzei."
+
+Referitor la excepția tardivității plângerii formulate de către petenta ### ####### ########### SRL, excepție invocată de către petenta #### ########## ############ SRL, Curtea reține că potrivit dispozițiilor art. 27 alin 8 din Legea nr. 101/2016 : "(8)Decizia motivată se comunică în scris părților, în termen de 3 zile de la pronunțare" iar potrivit disp. art. 29 din același act normativ: "Deciziile Consiliului privind soluționarea contestației pot fi atacate de către autoritatea contractantă și/sau de către orice persoană vătămată de măsurile dispuse de Consiliu cu plângere la instanța de judecată competentă, atât pentru motive de nelegalitate, cât și de netemeinicie, în termen de 10 zile de la comunicare pentru părțile cauzei, respectiv de la data luării la cunoștință de către alte persoane vătămate". Prin urmare, întrucât termenul de 10 zile în care poate fi formulată plângerea curge pentru părțile cauzei de la data comunicării deciziei CNSC și nu de la momentul publicării acesteia în SEAP, rezultă că plângerea ### ####### ########### SRL este formulată în termenul legal, iar excepția tardivitățiii este neîntemeiată și va fi respinsă ca atare.
+
+Cu privire la fondul plângerilor formulate în cauză, în esență, petenta asocierea ### ####### ########## SRL - SMART BUSINESS & ############ ######## SRL a criticat respingerea ca tardivă a cererii sale de intervenție principală precum și soluția de admitere a contestației formulate de către #### ########### ############ SRL iar petenta #### ########### ############ SRL a criticat decizia CNSC sub aspectul admiterii contestației ### ####### ########## SRL ce face obiectul dosarului nr. 3499/2025.
+
+În drept, Curtea reține dispozițiile art 57 alin 1 și 4 din Legea nr. 98/2016 "(1)Fără a aduce atingere celorlalte prevederi ale prezentei legi sau dispozițiilor legale privind liberul acces la informațiile de interes public ori ale altor acte normative care reglementează activitatea autorității contractante, autoritatea contractantă are obligația de a nu dezvălui informațiile din propunerea tehnică, elementele din propunerea financiară și/sau fundamentări/justificări de preț/cost transmise de operatorii economici indicate și dovedite de aceștia ca fiind confidențiale întrucât sunt: date cu caracter personal, secrete tehnice sau comerciale sau sunt protejate de un drept de proprietate intelectuală. Caracterul confidențial se aplică doar asupra datelor/informațiilor indicate și dovedite ca fiind date cu caracter personal, secrete tehnice sau comerciale sau sunt protejate de un drept de proprietate intelectuală...(4)Operatorii economici indică și dovedesc în cuprinsul ofertei care informații din propunerea tehnică, elemente din propunerea financiară și/sau fundamentări/justificări de preț/cost sunt confidențiale întrucât sunt: date cu caracter personal, secrete tehnice sau comerciale sau sunt protejate de un drept de proprietate intelectuală. Informațiile indicate de operatorii economici din propunerea tehnică, elemente din propunerea financiară și/sau fundamentări/justificări de preț/cost ca fiind confidențiale trebuie să fie însoțite de dovada care le conferă caracterul de confidențialitate, dovadă ce devine anexă la ofertă, în caz contrar nefiind aplicabile prevederilealin. (1)." De asemenea, potrivit art. 217 alin 6 din același act normativ "prin excepție de la prevederilealin. (5), după comunicarea rezultatului procedurii de atribuire, autoritatea contractantă este obligată să permită, la cerere, într-un termen care nu poate depăși o zi lucrătoare de la data primirii cererii, accesul neîngrădit al oricărui ofertant/candidat la raportul procedurii de atribuire și la informațiile care nu fac parte din propunerile tehnice, propunerile financiare și/sau fundamentările/justificările de preț/cost. Autoritatea contractantă este obligată să permită, la cerere, într-un termen care nu poate depăși o zi lucrătoare de la data primirii cererii, accesul neîngrădit al oricărui ofertant/candidat și la informațiile din cadrul propunerilor tehnice și/sau la fundamentările/justificările de preț/cost care nu au fost declarate și probate de către ofertanți ca fiind confidențiale."
+
+Conform art. 19 alin 1 din Legea nr. 101/2016 "(1)La cerere, părțile cauzei au acces la documentele dosarului constituit la Consiliu, în aceleași condiții în care se realizează accesul la dosarele constituite la instanțele de judecată potrivit prevederilorLegii nr. 134/2010, republicată, cu modificările ulterioare, cu excepția documentelor pe care operatorii economici le declară și probează ca fiind confidențiale, întrucât cuprind, fără a se limita la acestea, secrete tehnice și/sau comerciale, stabilite conform legii, iar dezvăluirea acestora ar prejudicia interesele legitime ale operatorilor economici, în special în ceea ce privește secretul comercial și proprietatea intelectuală."
+
+Potrivit art. 209 alin 2 din Legea nr. 98/2016 "(2)Autoritatea contractantă nu are dreptul ca prin clarificările/completările solicitate să determine apariția unui avantaj evident în favoarea unui ofertant/candidat."
+
+Analizând plângerea petentei #### ########### ############ SRL, Curtea reține că o primă critică privește respingerea excepției tardivității referitor la contestația ### ####### ########## SRL ce face obiectul dosarului nr. 3499/2025. Critica este nefondată. Astfel, în mod nelegal și cu încalcarea dispozițiilor art 57 alin 1 și 4 și art. 217 alin 6 din Legea nr. 98/2016, autoritatea contractantă a îngrădit accesul petentei #### ########### ############ SRL la oferta celuilalt ofertant în procedură, deși acesta din urmă nu a făcut dovada caracterului confidențial al ofertei sale. De altfel, asa cum a reținut și Consiliul, deși ambii ofertanți au formulat declarații de confidențialitate, niciunul nu a probat confidențialitatea ofertelor. Prin urmare, în mod corect, în aplicarea dispozițiilor art. 19 din Legera nr. 101/2016, CNSC a permis accesul petentei #### ########### ############ SRL la oferta asocierii ### ####### ########## SRL - SMART BUSINESS & ############ ######## SRL la data de 29.08.2025, iar cea de-a doua contestație transmisă către CNSC la data 04.09.2025 (care a făcut obiectul dosarului nr. 3499/2025), este formulată în termenul legal. Astfel, deși actul atacat este raportul procedurii, calea de atac formulată de către petenta ### ####### ########## SRL nu poate fi considerată ca fiind efectivă decât în condițiile respectării dispozițiilor art 217 alin 6 din Legea nr. 101/2016. Prin urmare, în prezenta cauză, față de încălcarea dispozițiilor art 217 alin 6 din Legea nr. 101/2016 de către entitatea contractantă, termenul de contestare prevăzut la art. 8 alin 1 din Legea nr. 101/2016 curge de la momentul la care petenta ### ####### ########## SRL a luat cunoștință efectiv de oferta #### ########### ############ SRL.
+
+În ceea ce privește conformitatea ofertei petentei #### ########### ############ SRL prin raportare la certificatul OCA.0016.0926.CS și cerințele caietului de sarcini, Curtea reține că sunt neîntemeiate criticile formulate de către petentă. Astfel, în acord cu motivarea CNSC, se reține că în anexa certificatului menționat anterior, aflată la pag. 962 în fișierul pdf cu propunerea tehnică aparținând #### ########### ############ SRL se menționează că certificarea OCPP (Open Charge Point Protocol - în traducere: Protocol Deschis pentru Stații de Încărcare) a fost acordată de OCA pentru o stație care încarcă doar în curent alternativ (nu și în curent continuu) si are doi conectori prin care se pot încărca vehiculele.
+
+Or, stațiile ofertate de #### ########### ############ SRL în cadrul prezentei proceduri sunt diferite de cea pentru care a fost emis certificatul, atât din perspectiva tipului de curent și puterii de încărcare cât și din perspectiva conectorilor. În acest sens, din analiza fișelor tehnice 1.1 și 1.2 aflate la pag. 81-85 în propunerea tehnică aparținând #### ########### ############ SRL, reiese că primul model ofertat are 1 conector tip Combo 2 pentru încărcare la 60W în curent continuu și 1 conector Type 2 pentru încărcare la 22Kw în curent alternativ iar al doilea model ofertat are, în plus, încă un conector CHAdeMO pentru încărcare în curent continuu cu putere de 50 KW.
+
+Ceea ce este relevant în cauză este faptul că această certificare, reprezentând un limbaj de comunicare între stația de încărcare și platforma pe care o controlează (software), se acordă în mod specific cu referire la o anume stație (hardware) și nu poate fi emisă o certificare separat de stația de încărcare ofertată, întrucât rolul certificării este de a asigura comunicarea optimă între stația de încărcare și platforma. Cu privire la acest aspect nu se pot reține concluziile petentei în sensul că cerința de certificare este strict un limbaj de programare (software) fără a avea legătură cu construcția echipamentului (hardware).
+
+Prin urmare, după cum în mod corect a reținut Consiliul, la data limită de depunere a ofertelor, respectiv 16.01.2025, nu existau certificări OCPP pe familii de produse, ci doar pe produse individuale, cum era stația de 14Kw cu încărcare în curent alternativ, la care se referă certificatul OCA.0016.0926.CS.
+
+Concluzionând, întrucât puterea stației de reîncărcare din certificatul OCA.0016.0926.CS este de 14 Kw, iar, cea a stațiilor ofertate de petenta #### ########### ############ SRL în procedură este de peste 50Kw oferta acesteia este neconformă deoarece omisiunea prezentării cerificării OCPP pentru stațiile de reîncărcare ofertate se încadrează în situația prevăzută la art. 137 alin. (3) lit. a) din HG nr. 395/2016.
+
+În ceea ce privește soluția de respingere ca tardivă a cererii de intervenție voluntară formulată în fața CNSC de către asocierea ### ####### ########### SRL-SMART BUSINESS&############ ######### SRL Curtea reține că în mod corect Consiliul a calificat cererea de intervenție principala ca fiind în fapt o veritabilă contestație și a constatat tardivitatea formulării ei. Prin urmare, petenta ### ####### ########### SRL nu avea posibilitatea de a ignora termenul prevăzut de art. 8 alin 1 lit b din Legea nr. 101/2016 doar prin intermediul formulării unei cereri de intervenție principală. În acest sens s-a pronunțat CJUE în Hotărârea din cauza C-532/## ###### ######### SA împotriva Companiei Naționale de ### ###### ### SA, în sensul că "termenul în care adjudecatarul unui contract poate introduce o cale de atac împotriva unei decizii a entității contractante prin care se declară admisibilă, în cadrul deciziei de atribuire a contractului respectiv, oferta unui ofertant necâștigător poate fi calculat luând ca punct de referință data primirii acestei decizii de adjudecare de către acest adjudecatar, chiar dacă, la acea dată, ofertantul respectiv nu introdusese sau nu introdusese încă o cale de atac împotriva acesteia. În schimb, în cazul în care, cu ocazia notificării sau a publicării deciziei menționate, un rezumat al motivelor pertinente ale acesteia, precum informațiile referitoare la modalitățile de evaluare a ofertei menționate, nu a fost, conform articolului 2c amintit, adus la cunoștința adjudecatarului menționat, termenul respectiv trebuie calculat luând ca punct de referință comunicarea unui astfel de rezumat către același adjudecatar"
+
+Referitor la oferta petentei asocierea ### ####### ########### SRL-SMART BUSINESS&############ ######### SRL, Curtea reține că în mod just Consiliul a reținut neconformitatea ei prin raportare la neîndeplinirea cerințelor caietului de sarcini. Astfel, în documentația de atribuire, respectiv în modelul fișei tehnice nr. 2, elaborată de către proiectant pe modelul formularului F5 din Anexa 10 la HG nr. 907/2016 privind etapele de elaborare și conținutul-cadru al documentațiilor tehnico-economice aferente obiectivelor/proiectelor de investiții finanțate din fonduri publice, aflat în fișierul "#### tehnica nr 2 - aplicatie_platforma administrare.pdf" din arhiva publicată în SEAP, în anexa anunțului de participare, sub identificatorul "[SCN1156063/_____] doc tehnice.rar.p7s" se regăsește următoarea notă: "În completarea fișei tehnice se vor preciza documentele din care reiese îndeplinirea conformității produselor ofertate cu specificațiile tehnice, pentru fiecare cerință în parte. Nu se acceptă completarea fișelor tehnice cu formulări de tipul : Da, Identic, Îndeplinit, Conform, Similar sau altele de acest gen. Nu se accepta copierea textului cu cerințe fără a da detalii despre produsul ofertat. Ofertele care nu îndeplinesc această cerință vor fi declarate neconforme. Ofertanții vor putea dovedi la cererea autorității funcționalitățile platformei prin acces gratuit la un cont demo al acesteia". Cu privire la acest aspect, oferta petentei ### ####### ########## SRL nu respectă cerințele din documentația de atribuire, motivat de faptul că respectivul ofertant nu a precizat în fișa tehnică nr. 2 documentele din care reiese îndeplinirea conformității produselor ofertate cu specificațiile tehnice, pentru fiecare cerință în parte iar unicul document identificat cu privire la platforma de management, respectiv fișierul "13.1 Voltrelli1.pdf.p7s" de pe CD, nu conține informații privind rezervarea stației, durata de încărcare rămasă în timp real, comunicată de vehicul și afișarea stațiilor sub formă de listă. Faptul că aplicația din oferta petentei ### ####### ########## SRL poate fi personalizată cu sigla beneficiarului, conform cerințelor acestuia, nu conduce automat la concluzia că aplicația respectivă ar avea, într-adevăr, caracteristicile solicitate prin modelul fișei tehnice nr. 2 din anexa anunțului de participare, câtă vreme nu au fost depuse probe în acest sens, astfel cum a solicitat autoritatea contractantă în nota din finalul modelului respectivei ####. #### de cerințele specifice ale documentației de atribuire menționate deja și care nu au fost contestate ("Nu se accepta copierea textului cu cerințe fără a da detalii despre produsul ofertat. Ofertele care nu îndeplinesc această cerință vor fi declarate neconforme") Curtea va înlătura criticile petentei ### ####### ########## SRL ca nefondate. Petenta asocierea ### ####### ########## SRL - SMART BUSINESS & ############ ######## SRL a completat modelul fișei tehnice nr. 2 exact sub această modalitate despre care entitatea contractantă a precizat că va conduce la respingerea ofertei, respectiv prin simpla copiere a cerințelor stabilite de proiectant, cu unica modificare a timpului la care sunt conjugate anumite verbe, fără, însă, a completa fișa tehnică cu documentele din care reiese îndeplinirea conformității produselor ofertate cu specificațiile tehnice, pentru fiecare cerință în parte. Pe de altă parte acceptarea completării respectivei oferte cu informații care nu se regăseau în ea la data limită de depunere a ofertelor ar fi de natură să determine apariția unui avantaj evident în favoarea petentei ### ####### ########## SRL, cu încălcarea prevederilor art. 209 alin. (2) din Legea nr. 98/2016
+
+Întrucât din considerentele expuse a rezultat neconformitatea ambelor oferte privind petentele asocierea ### ####### ########### SRL-SMART BUSINESS&############ ######### SRL și #### ########## ############ SRL Curtea nu va mai analiza celelalte critici întrucât acestea nu sunt de natură de schimbe caracterul neconform al celor două oferte.
+
+În consecință, față de argumentele expuse, constatând caracterul legal și temeinic al deciziei pronunțată de CNSC, Curtea urmează a respinge plângerile conexate, ca nefondate.
+
+PENTRU ACESTE MOTIVE,
+
+ÎN NUMELE LEGII
+
+DECIDE:
+
+Respinge excepția tardivității formulării plângerii, ca neîntemeiată.
+
+Respinge plângerile conexate formulate de petentele #### ########## ############ SRL având sediul social în Municipiul ####, #### ### ######## ### #, ##### lași, Cod unic de înregistrare ________, Număr de ordine în registrul comerțului J22##########, cu sediul procesual ales la Cabinet avocat ####### ###### ##### în ####-######, B-dul 1 Decembrie 1918 nr. 34A, etaj III, județul #### și ### ####### ########### SRL-SMART BUSINESS&############ ######### SRL PRIN #####, cu sediul în Municipiul ####-######, #### ###### ### #, Jud. ####, având număr de ordine în Registrul Comerțului J############# și CUI: [CUI], cu sediul ales pentru comunicarea actelor de procedură la SCPA ###, ######### și Asociații, în ####-######, str. G-ral ###### ###### nr. 50, ## ##, jud. ####, împotriva Deciziei nr. ####/C1/2806,3042,3463,3499 din data de 15.10.2025, pronunțată de Consiliul Național de Soluționare a Contestațiilor, în contradictoriu cu intimatul JUDEȚUL #######, cu sediul în ########## #######, B-dul București, nr. 10, ####### #######, cod fiscal _______, ca neîntemeiate.
+
+Definitivă.
+
+Pronunțată astăzi, 21.01.2026, prin punerea soluției la dispoziția părților prin mijlocirea grefei instanței.
+
+Președinte,
+
+######### ####
+
+Judecător,
+
+######### #####
+
+Judecător,
+
+###### ######
+
+Grefier,
+
+##########-####### #####
+
+Red./Tehnored/D.Ș./
+
+2 ex. originale/3 ex. pt. comunicare
+
+1 ex. #### ####### ##. au fost comunicate la data de _____________________ – semnătură grefier _____________________
+
+Sursa www.rejust.ro Cod RJ: 46e677892
+

@@ -1,0 +1,26 @@
+
+Cauza C-472/19 
+Conseil d'État -Vert Marine SAS/Premier ministre, Ministre de l'Économie et des Finances
+Hotărârea Curții (Camera noua)
+din 11 iunie 2020
+
+Identificator ECLI: ECLI:EU:C:2020:468
+EUR-Lex: 62019CJ0472
+Tip procedură: cerere pentru pronunţarea unei hotărâri preliminare
+Materie: libertatea de reglementare, libera prestare a serviciilor, armonizare legislativă 
+Subiect (cuvinte cheie): „trimitere preliminară, procedură de atribuire a unor contracte de concesiune, Directiva 2014/23/UE, art. 38 alin. (9), regimul măsurilor corective destinate să dovedească restabilirea fiabilității unui operator economic vizat de un motiv de excludere, reglementare națională prin care se interzice operatorilor economici care fac obiectul unui motiv de excludere obligatorie să participe la o procedură de atribuire a unor contracte de concesiune timp de cinci ani, imposibilitatea unor asemenea operatori de a face dovada măsurilor corective adoptate”
+Instanţa de trimitere: Conseil d’État (Consiliul de Stat, Franța)
+Părţi în procedura principală:
+Reclamantă: Vert Marine SAS
+Pârâți: Premier ministre, Ministre de l'Économie et des Finances
+Obiectul cauzei: Conseil d’État (Consiliul de Stat, Franța) a formulat o cerere de decizie preliminară în litigiul Vert Marine SAS împotriva Premier ministre (prim‑ministrul) și ministre de l’Économie et des Finances (ministrul economiei și finanțelor, Franța) având ca obiect solicitarea de abrogare a anumitor dispoziții ale Decretului nr. 2016-86 din 1 februarie 2016 privind contractele de concesiune prezentat de această societate.
+Cadrul juridic: Considerentul (71), art. 38 alin. (4), (9) și (10), art. 51 din Directiva 2014/23/UE
+Întrebări preliminare:
+”Directiva 2014/23/UE a Parlamentului European și a Consiliului din 26 februarie 2014 privind atribuirea contractelor de concesiune trebuie interpretată în sensul că se opune ca legislația unui stat membru, în cadrul unui obiectiv de moralizare a achizițiilor publice, să nu dea unui operator economic condamnat printr-o hotărâre definitivă pentru o infracțiune de o gravitate deosebită și care face, din acest motiv, obiectul unei măsuri de interzicere a participării la o procedură de atribuire a unui contract de concesiune pentru o perioadă de cinci ani, posibilitatea de a furniza probe care să ateste că măsurile pe care le-a luat sunt suficiente pentru a demonstra fiabilitatea sa autorității contractante, în pofida existenței acestui motiv de excludere?
+Dacă Directiva 2014/23/UE a Parlamentului European și a Consiliului din 26 februarie 2014 permite statelor membre să încredințeze altor autorități decât autoritatea contractantă în cauză competența de a aprecia dispozitivul de conformare a operatorilor, o astfel de posibilitate permite încredințarea acestui dispozitiv unor autorități jurisdicționale? În cazul unui răspuns afirmativ, mecanisme precum dispozitivele din dreptul francez de ridicare a unei sancțiuni, de reabilitare judecătorească și de excludere a mențiunii condamnării în buletinul nr. 2 din cazierul judiciar pot fi asimilate unor dispozitive de conformare în sensul directivei?”
+
+
+
+Soluţie:
+”1) Articolul 38 alineatul (9) din Directiva 2014/23/UE a Parlamentului European și a Consiliului din 26 februarie 2014 privind atribuirea contractelor de concesiune trebuie să fie interpretat în sensul că se opune unei reglementări naționale care nu acordă unui operator economic condamnat definitiv pentru una dintre infracțiunile prevăzute la articolul 38 alineatul (4) din această directivă și supus, pentru acest motiv, unei interdicții de drept de a participa la procedurile de atribuire a unor contracte de concesiune posibilitatea de a face dovada că a luat măsuri corective care pot demonstra fiabilitatea sa.
+2) Articolul 38 alineatele (9) și (10) din Directiva 2014/23 trebuie să fie interpretat în sensul că nu se opune ca examinarea caracterului adecvat al măsurilor corective luate de un operator economic să fie încredințată autorităților judiciare, cu condiția ca regimul național instituit în acest scop să respecte toate cerințele prevăzute la articolul 38 alineatul (9) din această directivă și ca procedura aplicabilă să fie compatibilă cu termenele impuse de procedura de atribuire a contractelor de concesiune. Pe de altă parte, articolul 38 alineatul (9) din Directiva 2014/23 trebuie să fie interpretat în sensul că nu se opune unei reglementări naționale care permite autorităților judiciare să ridice, pentru o persoană, o interdicție de drept de a participa la procedurile de atribuire a unor contracte de concesiune ca urmare a unei condamnări penale, să anuleze o asemenea interdicție sau să excludă orice mențiune cu privire la condamnare în cazierul judiciar, cu condiția ca astfel de proceduri judiciare să îndeplinească efectiv condițiile impuse și obiectivul urmărit de acest regim și în special atunci când un operator economic dorește să participe la o procedură de atribuire a unor contracte de concesiune, să permită ridicarea în timp util a interdicției care îl afectează, exclusiv în considerarea caracterului adecvat al măsurilor corective invocate de operatorul respectiv și evaluate de autoritatea judiciară competentă în conformitate cu cerințele prevăzute de această dispoziție, aspect a cărui verificare este de competența instanței de trimitere.”

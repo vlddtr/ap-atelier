@@ -1,0 +1,16 @@
+# C-41/18 — Meca
+- Instanță: CJUE (Camera a patra)
+- Data: 2019-06-19
+- ECLI: ECLI:EU:C:2019:507
+- Părți: Meca Srl împotriva Comune di Napoli, cu participarea Sirio Srl
+- Temă: excludere opțională; rezilierea/încetarea anticipată a unui contract anterior pentru deficiențe semnificative; efectul contestării în instanță a rezilierii asupra aprecierii fiabilității
+- Cadru juridic: Directiva 2014/24/UE, art. 57 alin. (4) lit. (c) și (g)
+- Instanța de trimitere: Tribunale amministrativo regionale della Campania (Tribunalul Administrativ Regional din Campania, Italia)
+- Întrebarea preliminară: Se opun principiile dreptului UE și Directiva 2014/24 unei reglementări naționale care, atunci când operatorul economic a contestat în instanță rezilierea unui contract de achiziții anterior, suspendă/paralizează puterea autorității contractante de a aprecia fiabilitatea acelui operator în cadrul unei noi proceduri, până la soluționarea definitivă a litigiului civil?
+- Soluția (ratio): „Articolul 57 alineatul (4) literele (c) și (g) din Directiva 2014/24/UE [...] trebuie interpretat în sensul că se opune unei reglementări naționale în temeiul căreia introducerea unei acțiuni în justiție împotriva deciziei de reziliere a unui contract de achiziții publice [...] împiedică autoritatea contractantă care lansează o nouă cerere de ofertă să facă vreo apreciere [...] cu privire la fiabilitatea operatorului vizat.”
+- Text-cheie verbatim:
+  - „deficiențele semnificative sau persistente la îndeplinirea unei cerințe de fond [...] care au dus la încetarea anticipată a respectivului contract anterior” (art. 57 alin. (4) lit. (g))
+  - „puterea de apreciere [...] este paralizată prin simplul fapt al introducerii de către un candidat [...] a unei acțiuni îndreptate împotriva rezilierii”
+- Relevanță achiziții RO: relevantă pentru motivul de excludere opțional de la art. 167 alin. (1) lit. g) din L. 98/2016 (operatorul s-a făcut vinovat de încălcări grave/repetate ale obligațiilor dintr-un contract anterior, care au dus la încetarea anticipată a acelui contract, daune-interese sau alte sancțiuni comparabile). Cauza confirmă că AC își păstrează puterea autonomă de apreciere a fiabilității ofertantului și nu poate fi împiedicată să o exercite prin simplul fapt că rezilierea contractului anterior este contestată în instanță și nu este încă definitivă. Aprecierea AC rămâne supusă controlului proporționalității; operatorul poate invoca, în paralel, măsuri de remediere (art. 171 L. 98/2016) pentru a-și dovedi credibilitatea.
+- Sursă oficială: https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62018CJ0041
+- Status: VERIFICAT

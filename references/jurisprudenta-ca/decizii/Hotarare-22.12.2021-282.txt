@@ -1,0 +1,606 @@
+Sentinta nr. 282/2021 din 22-dec-2021, Curtea de Apel Constanta, litigiu privind achizitiile publice (Contencios administrativ si fiscal)
+
+Sentinta
+
+din 22 Decembrie 2021 
+
+282/2021
+
+Text speță
+
+Societate comercială vs Spital
+
+Cod ECLI ECLI:RO:CACTA:2021:016.______
+
+Operator de date cu caracter personal 3170
+
+Dosar nr. ___________
+
+R O M Â N I A
+
+CURTEA DE APEL C________
+
+SECȚIA A II-A CIVILĂ,
+
+DE C_________ ADMINISTRATIV ȘI FISCAL
+
+SENTINȚA CIVILĂ Nr. 282/CA
+
+Ședința publică din data de 22 Decembrie 2021
+
+Completul compus din:
+
+PREȘEDINTE C_____ D___
+
+Judecător A________ L____ N_____
+
+Judecător O______-I______ L______
+
+Grefier C_______ M_____
+
+S-a luat în examinare plângerea împotriva deciziei CNS nr.2626/C2/2874 din data de 24.11.2021, formulată de petenta societatea ZIP E_________, cu sediul în C________, _______________________, jud. C________, înregistrată în Registrul Comerțului sub nr.j____________, CUI _______ și cu sediul procesual ales pentru comunicarea actelor de procedură la cabinet avocat S______ D_____ în C________, ____________________________.5, ____________________, în contradictoriu cu pârâtul B_______ B_____ B_______ de Urgență „ Sfântul A______ A_____" C________, CUI _______ cu sediul în C________, _________________, jud. C________, având ca obiect litigiu privind achizițiile publice.
+
+La apelul nominal, făcut în ședința publică, se prezintă, pentru petentă av. S______ D_____ în baza împuternicirii avocațiale nr._______/09.12.2021 depusă la dosar (fila 4) și pentru pârât, răspunde av. N_____ L_______ A__, conform împuternicirii avocațiale nr._______/20.12.2021 – fila 177 dosar
+
+Procedura de citare este legal îndeplinită, conform disp. art. 153 alin. 1 și urm. Cod pr. Civilă .
+
+Plângerea formulată este scutită de la plata taxei judiciare de timbru.
+
+S-a făcut referatul cauzei de către grefierul de ședință, prin care s-au evidențiat părțile, obiectul litigiului, mențiunile privitoare la modalitatea de îndeplinire a procedurii de citare, stadiul procesual, precum și faptul că s-a solicitat judecata în lipsă, conform art. 223Cod procedură civilă .
+
+Totodată se menționează că a fost atașat dosarul de la CNSC.
+
+Curtea întreabă reprezentanții părților dacă mai au alte probe sau cereri de formulat.
+
+Av. S______ D_____, pentru petentă având cuvântul, solicită în prealabil cuvântul asupra probatoriilor, cele solicitate în finalul plângerii, respectiv comunicarea de către autoritatea contractantă a unor informații apreciate ca fiind relevante în economia întregului litigiu, menționând că insistă în această probă apreciind că este cheia de boltă în întreg eșafodajul deciziei de anulare a procedurii. Este la curent cu practica Curții de Apel în sensul că în astfel de litigii probatoriile care se încuviințează sunt minime, dar, în speță nu se poate discuta de o eventuală soluționare a cauzei cu maximă celeritate, pentru că această contestație nu vizează o procedură pendinte, ci vizează anularea unei proceduri inițiate la un moment dat, drept pentru care, în opinia sa pentru că vizează fondul plângerii se pot solicita înscrisurile menționate de la autoritatea contractantă.
+
+Av. N_____ L_______ A__, pentru pârât, având cuvântul se opune cu privire la această solicitare de probatorii, menționând că în speță este vorba despre o decizie de anulare care are la bază o anexă și un referat justificativ. Apreciază că acestea nu au fost anexate în mod aleatoriu, ele vin să susțină decizia de anulare.
+
+În ceea ce privește caracterul urgent al soluționării cauzei, îl contrazice pe colegul său, în sensul că se vorbește despre o procedură pendinte și se poate afla în situația ipotetică în care plângerea formulată de Zip Escort va fi admisă și se va ajunge în situația retroactivă în care va trebui reluată o procedură din vară.
+
+S-a început o altă procedură iar data limită la care se vor deschide ofertele este de 27.12.2021 pentru că, contractul de pază pendinte va expira la data de 31.12.2021. În mod cert, dacă soluția din acest dosar va fi răsturnată de soluția dată de CNSC, va trebui reluată în două zile procedura din vară, deci, în mod clar este vorba de o urgență.
+
+Av. S______ D_____, pentru petentă având cuvântul, susține că argumentele părții adverse nu pot fi primite pentru că aceeași autoritate contractantă la un moment dat a inițiat o procedură de negociere directă, fără publicare de anunț prealabil și de această manieră a atribuit serviciile către un anumit ofertant care s-a prezentat la această procedură la care societatea reclamantă nu a fost invitată și a atribuit o perioadă de valabilitate a contractului care într-adevăr expiră la data de 31.12.2021.
+
+Astfel, retoric se întreabă ce ar împiedica-o pe autoritate, chiar admițând prin absurd că s-ar putea regăsi într-o situație ciudată de admitere a plângeri, să inițieze din nou o procedură de negociere fără publicare prealabilă și astfel să își asigure continuitatea serviciilor de pază.
+
+Curtea întreabă dacă probele solicitate în finalul plângerii au fost cerute și în fața CNSC, dacă nu a avut acces la aceste înscrisuri .
+
+Av. S______ D_____, pentru petentă având cuvântul precizează că le-a solicitat și au fost respinse, menționând că nu a avut acces la înscrisuri întrucât autoritatea contractantă nu a înțeles să le depună alăturat achiziției.
+
+Curtea întreabă dacă motivele contestației vizează modalitatea în care au fost apreciate aceste cote ca să se ajungă la decizia de anulare din perspectiva costurilor.
+
+Av. S______ D_____, pentru petentă având cuvântul răspunde afirmativ, susținând că prin decizia nr.1999 a CNSC, intrată în autoritate de lucru judecat după ce a trecut și prin filtrul Curții de Apel, a instituit în sarcina autorității contractante recalcularea valorii estimate a achiziției, stabilindu-se în acest sens un număr de trei criterii. Autoritatea contractantă a modificat un al patrulea criteriu și a mărit valoarea estimată intenționat.
+
+Curtea precizează că există o notă justificativă nr._____/27.10.2021, și întreabă dacă acesteia nu i-au fost atașate înscrisurile care au stat la baza emiterii acestei note în momentul formulării contestației la CNSC, reclamantul nu a avut acces cu privire la această documentație.
+
+Av. S______ D_____, pentru petentă având cuvântul susține că nu a avut acces cu privire la această documentație, deși a solicitat.
+
+Av. N_____ L_______ A__, pentru pârât, având cuvântul precizează că nota justificativă și decizia de anulare au în spate o anexă, un tabel în care se stabilește punctual care sunt cheltuielile, inclusiv cota de profit de 10%.
+
+Av. S______ D_____, pentru petentă având cuvântul, față de susținerile reprezentantului părții adverse, în referire la anexa la decizia de anuare a procedurii, menționează că aceasta cuprinde cota de profit de 10 %. Autoritatea contractantă în referire la postul cu program de 12/24 ore/zi conform expertizei căreia și CNSC și Curtea de Apel C________ i-au dat relevanță, tariful orar fără cotă de profit și fără cotă de cheltuieli indirecte pentru acest tip de post, este de 15,82 lei/oră. În anexa la decizia de anulare a procedurii, acest tarif este prevăzut la nivelul a 2025 lei, însemnând o cotă de profit și de cheltuieli indirecte de 21 %. Peste această cotă de profit și cheltuieli indirecte, se mai aplică o cotă de profit tocmai în scopul de a identifica faptul că nu poate continua procedura, determinând o valoare estimată mai mare decât pragul stabilit de legea nr.98.
+
+Av. N_____ L_______ A__, pentru pârât, având cuvântul, crede că partea adversă tinde la o expertiză contabilă, dar mascată sub forma unor solicitări în acest moment.
+
+Curtea întreabă dacă s-a înțeles acest calcul și această adăugare care ajunge să mărească artificial prețul, de ce ar mai fi nevoie de aceste înscrisuri.
+
+Av. S______ D_____, pentru petentă având cuvântul precizează că are în vedere atitudinea abordată de autoritatea contractantă de a nu se circumscrie nicidecum obligațiilor instituite în sarcina sa prin decizia CNSC nr.1999.
+
+Av. N_____ L_______ A__, pentru pârât, având cuvântul, apreciază că sunt aspecte ce țin de fondul plângerii, din punctul său de vedere.
+
+Curtea, apreciază că aceste aspecte urmează să fie verificate la analizarea plângerii formulate, considerând că nu este necesară suplimentarea probatoriilor cu aceste înscrisuri și că se poate soluționa plângerea cu înscrisurile existente la dosar.
+
+Reprezentanții părților învederează instanței că nu mai au alte probe sau cereri de formulat solicitând acordarea cuvântului asupra cauzei:
+
+Curtea, față de susținerile reprezentanților părților precum că nu mai au alte probe de administrat sau cereri de formulat, nici excepții de invocat, apreciind cauza în stare de judecată, acordă cuvântul pentru dezbateri:
+
+Av. S______ D_____, pentru petentă având cuvântul, solicită admiterea plângerii, anularea deciziei contestate, cu consecința admiterii contestației așa cum a fost formulată, obligarea autorității contractante la refacerea valorii estimate a achiziției, în strictă concordanță și cu respectarea obligațiilor instituite în sarcina acesteia, prin decizia CNSC nr.1999. Prin această decizie s-a instituit în sarcina autorității contractante obligația de a recalcula valoarea estimată a achiziției prevăzută undeva la nivelul sumei de 2600000. lei, instituind în sarcina autorității contractante obligația de a recalcula această valoare raportându-se la un număr de trei criterii pe care la momentul determinării inițiale a valorii le aruncase în derizoriu.
+
+CNSC a enumerat în mod restrictiv care sunt acele trei criterii, documentația de atribuire, drepturile și obligațiile salariaților și ale angajatorilor, conform Codului Muncii și salariul minim brut garantat în plată. Autoritatea contractantă, în desconsiderarea acestor obligații, stabilite în mod clar în sarcina sa prin decizia CNSC, procedează la recalcularea valorii estimate pe care o mărește artificial, tocmai în scopul de a identifica o valoare estimată a achiziției superioară celei prag și de această manieră, în opinia sa, a procedat la o anulare artificială a procedurii, tocmai în scopul de a nu-și îndeplini și celelalte obligații, care au fost institute în sarcina sa, prin acea decizie a CNSC nr.1999.
+
+Este vorba de un număr de nouă remedieri pe care CNSC le-a impus în ceea ce privește documentația de atribuire folosită la momentul inițierii procedurii în august 2021.
+
+Ulterior anulării procedurii, autoritatea contractantă a inițiat o procedură de consultare a pieții. A constatat că nici una dintre cele opt remedieri impuse în sarcina autorității contractante de către CNSC nu se regăsea în documentația care a fost supusă procedurii de studiu de către ofertanți. Cu cheltuieli pe cale separată.
+
+Av. N_____ L_______ A__, pentru pârât, având cuvântul solicită respingerea plângerii ca nefondată. Într-adevăr, decizia de anular a procedurii de achiziție a fost luată ca urmare a măsurii impuse de CNSC prin decizia nr.1999.
+
+În opinia sa, decizia CNSC este clară, în sensul că stabilește că la momentul la care valoarea estimată a fost realizată au fort avute în vedere doar cheltuielile salariale, deși autoritatea contractantă trebuia să aibă în vedere și cheltuielile indirecte, profitul și celelalte elemente de cost.
+
+Autoritatea contractantă a procedat în consecință și a actualizat această valoare estimată. Prin actualizarea ei s-a observat că valoarea prag prevăzută de art.7 din Legea nr.98 era depășită. Acest lucru înseamnă că procedura inițială care a fost bazată pe un anunț publicitar, trebuia preschimbată în sensul că, la acest moment se impunea un anunț de intenție valabil în mod continuu, sau un anunț de participare, respectiv, obligația de a publica un anunț de atribuire a contractului. Ori, în această situație, când procedura se derula, un anunț de participare clar nu putea fi republicat, pentru că la acel moment avea chiar ofertanți ce depuseseră oferte în plic închis.
+
+În aprecierea sa, singura posibilitate a autorității contractante a fost aceea de a anula procedura. Ca strategie, personal, ar fi apelat la aceeași strategie, sensul că ar fi solicitat lămurirea deciziei CNSC nr.1999, reclamanta a solicitat și a întrebat CNSC dacă autoritatea contractantă, la momentul la care trebuia să actualizeze valoarea estimată, putea să aibă în vedere profitul și cheltuielile indirecte. CNSC a respins această solicitare, în opinia sa, în mod întemeiat, motivat de faptul că reclamanta nu a investit Consiliul cu obligarea autorității contractante la momentul la care realizează noul calcul al valorii estimate, să mențină marja de profit.
+
+Mai mult decât atât, astfel cum se reține în decizia contestată, contractele de achiziție publică sunt contracte cu titlu oneros. Ține de managementul autorității contractante să stabilească care este marja de profit pe care și-o permite. De asemenea, reclamanta nu a indicat prevederi legale potrivit cărora autoritatea contractantă era ținută de niște limite ale marjei de profit. Este o marjă de profit de 10 %, în opinia sa nu este mărită artificial, iar în ceea ce privește acele actualizări ale tarifelor orare, ele vin prin raportare la faptul că s-a avut în vedere salariul actualizat prin noua Hotărâre de Guvern.
+
+Concluzii de respingere a plângerii, cu cheltuieli de judecată pe cale separată.
+
+Av. S______ D_____, pentru petentă având cuvântul în replică, arată că ceea ce a solicitat Zip Escort CNSC –ului nu a fost nicidecum obligarea autorității contractante să aibă în vedere o anumită cotă de profit, un procent anume; Ce a solicitat a fost să fie respectată decizia nr.1999, în sensul menținerii cotelor de profit și de cheltuieli indirecte avute în vedere inițial. În raport de cele trei criterii impuse de CNSC, acestea e regăsesc și sunt extrem de clare. În cuprinsul paragrafului nr.4 de la fila 16 din decizia nr.1999 – citează: „Autoritatea contractantă nu a determinat cu maximă rigurozitate valoarea estimată a contractului ce urmează a fi prestat prin raportare pe de o parte la cerințele documentației de atribuire, precum și la drepturile și obligațiile ce decurg din prevederile Codului Muncii și a salariului minim brut în plată".
+
+Nu se regăsește nicăieri posibilitatea autorității contractante de a modifica valoarea estimată a achiziției punând o cotă de profit peste o altă cotă de profit.
+
+Av. N_____ L_______ A__, pentru pârât, având cuvântul în replică, încheie tot cu un citat din decizia CNSC : în sensul „ Calculele contabile de mai sus nu au avut în vedere cheltuielile indirecte și profitul, ci doar cheltuiala salarială", deci, lasă liber autorității contractante să aibă în vedere aceste cheltuieli, ceea ce s-a și întâmplat.
+
+Av. S______ D_____, pentru petentă având cuvântul în replică, arată că se face referire a tarifele expuse prin expertiza contabilă depusă la dosar.
+
+Curtea constată că au fost lămurite toate împrejurările de fapt și temeiurile de drept ale cauzei și în conformitate cu art. 394NCPC închide dezbaterile și reține cauza pentru deliberare și pronunțare .
+
+CURTEA
+
+Asupra plângerii de față, constată următoarele:
+
+Prin cererea adresată Curții de Apel C________ și înregistrată sub nr. ______/13.12.2021 petenta societate ZIP E_________ a formulat plângere împotriva deciziei CNSC nr. 2626/C2/2874 din data de 24.11.2021, în contradictoriu cu pârâtul B_______ B_____ B_______ de Urgență „Sfântul A______ A_____" C________ în temeiul art. 29 și urm. din Legea nr.101/2016 solicitând instanței ca prin hotărâre judecătorească să se dispună admiterea căii de atac, modificarea în tot a deciziei ce face obiectul plângerii, în sensul admiterii contestației cu următoarele consecințe: în principal - Obligarea autorității contractante la recalcularea valorii maxime a achiziției prin aplicarea aceleiași marje de profit avută în vedere la determinarea valorii maxime inițiale a achiziției și astfel continuarea procedurii inițiate prin intermediul anunțului publicitar ADV1231225/05.08.2021, cu respectarea întocmai a obligațiilor impuse în sarcina acesteia prin decizia CNSC nr. 199/C2/2080 din 08.09.2021; în secundar - Obligarea autorității contractante la continuarea procedurii cu respectarea obligațiilor suplimentare instituite de art. 111 alin. 2 din Legea nr. 98/2016 dar și a celor impuse în sarcina acesteia prin decizia CNSC nr. 1999/C2/2080 din 08.09.2021.
+
+Motivând plângerea a susținut petenta că prin intermediul anunțului publicitar nr. ADV1231225 / 05.08.2021 autoritatea contractantă a inițiat procedura de atribuire a acordului cadru vizând achiziționarea de Servicii de pază și intervenție pentru obiectivele [spital] "Sf, A______ A_____" C________ pentru o perioada de 12 (uni conform caietului de sarcini - Cod CPV ________-5 Servicii de pază .
+
+În referire la documentația de atribuire (Instrucțiuni pentru ofertanți, Caiet de sarcini, Contract subsecvent de prestări servicii - model) Zip E___________, susține că a înaintat spre soluționare către CNSC o contestație înregistrată la data de 11.08.2021, formându-se astfel dosarul nr.2080/2020 .
+
+Prin contestația formulată a solicitat obligarea autorității contractante la adoptarea unei pleiade de măsuri de remediere, astfel :
+
+- stabilirea unei valori estimate maximale a serviciilor ce fac obiectul procedurii superioare valorii de 2692481,48 lei, fără TVA, noua valoare reprezentând numai costurile angajate cu forța de muncă (marjă de profit de 0% și cheltuieli directe și indirecte de 0%) de către prestator;
+
+- înlocuirea modalității în care se face dovada raportului contractual din prezentarea contractelor individuale de muncă în prezentarea unui extras din aplicația ReviSal (Registrul general de evidență a salariaților);
+
+- înlocuirea formularului 8.2 cu cele 3 formulare (Calculații de preț pentru tarif unitar ofertat pentru : un post cu program de 24/24 ore/zi, un post cu program de 12/24 ore/zi și un post cu program de 8/24 ore/zi), anexate contestației ;
+
+- suplimentarea localităților în care ofertanții trebuie să asigure intervenția cu echipaje mobile, respectiv introducerea și a Secției exterioare Năvodari și a UPU Băneasa, după cum urmează :
+
+- completarea categoriilor de personal necesare realizării activităților cu șeful de obiectiv servicii de securitate (cod C__ ______ - fost ______), deținător ai unui certificat de competențe profesionale emis de un furnizor de formare profesională autorizat de Autoritatea Națională pentru Calificări,
+
+- înlocuirea calificării educaționale sau profesionale a șefului de tură din atestat de agent de securitate cu certificat de competențe profesionale emis de un furnizor de formare profesională autorizat de Autoritatea Națională pentru Calificări,
+
+- eliminarea condiției ca agenții utilizați în activitatea de control acces să aibă minim studii liceale cu diplomă de bacalaureat și cunoștințe de limba engleză;
+
+- eliminarea cerinței conform cu care pentru agenții de securitate să se facă dovada deținerii certificatelor de absolvire a cursului;
+
+- suplimentarea localităților în care contractantul trebuie să asigure intervenția cu echipaje mobile, respectiv introducerea și a UPU Băneasa;
+
+- eliminarea obligativității cesiunii în favoarea achizitorului a poliței de asigurare de răspundere civilă a societății de pază, pentru prejudicii provocate beneficiarilor serviciilor sale sau terților păgubiți;
+
+- suplimentarea localităților în care prestatorul trebuie să asigure intervenția cu echipaje mobile, respectiv introducerea și a Secției exterioare Năvodari și a UPU Băneas;.
+
+- eliminarea obligativității prezentării unei polițe de asigurare cu valabilitate pentru o perioadă mai mare cu 14 zile decât perioada de valabilitate a contractului subsecvent, a obligativității menționării în cuprinsul poliței a obiectivelor Achizitorului și a obligativității cesiunii poliței în favoarea Achizitorului pe perioada derulării contractului subsecvent;
+
+- eliminarea obligativității cesiunii în favoarea achizitorului a poliței de asigurare de răspundere civilă a societății de pază, pentru prejudicii provocate beneficiarilor serviciilor sale sau terților păgubiți;
+
+- eliminarea posibilității asignării în posturile de pază a personalului în curs de calificare.
+
+Prin Decizia nr. 1999/C2/2080 din 08.09.2021 CNSC a admis în parte contestația Zip E___________. și a dispus obligarea autorității contractante la adoptarea unui număr de 9 dintre cele 11 măsuri de remediere a documentației de atribuire expuse supra, cu excepția celor de la punctele 2 și 9 .
+
+Prin decizia nr.196/CA/08.10.2021 pronunțată de Curtea de Apel C________ în dosarul nr. ___________ s-a dispus respingerea căii de atac a plângerii exercitată de autoritatea contractantă împotriva Deciziei CNSC aceasta întrând astfel sub puterea autorității de lucru judecat.
+
+Prin Decizia înregistrată la autoritatea contractantă sub nr. _____/28.10.2021, dându-se relevanță Notei justificative înregistrată la autoritatea contractantă sub nr. _____/27.10.2021 (eronat 27.09.2021) s-a dispus anularea procedurii inițiate prin intermediul anunțului publicitar ADV1231225 din data de 05.08.2021 .
+
+La data de 04.11.2021 pe rolul CNSC s-a înregistrat contestația formulată de Zip E___________. împotriva Deciziei înregistrată la autoritatea contractantă sub nr. _____/28.10.2021 și a Notei justificative înregistrată la autoritatea contractantă sub nr. _____/27.10.2021 (eronat 27.09.2021), formându-se astfel dosarul înregistrat sub nr. 2874/2021, soluționat prin Decizia nr. 2626/C2/2874 din data de 24.11.2021, în sensul respingerii contestației, Decizie supusă controlului instanței de judecată de către Zip E___________. prin plângere .
+
+În referire la fondul cauzei și, în egală măsură, la decizia supus controlului judiciar se arată următoarele:
+
+Atunci când a solicitat CNSC a dispune în sensul obligării autorității contractante la recalcularea valorii maxime a achiziției prin reaprecierea marjei de profit avută în vedere către un nivel corect și rezonabil și astfel continuarea procedurii inițiate prin intermediul anunțului publicitar ADV1231225/05.08.2021, cu respectarea obligațiilor impuse în sarcina acesteia prin decizia CNSC nr.1999/C2/2080 din 08.09.2021, au avut în vedere după cum urmează :
+
+Conform dispozițiilor art. 9 alin.1 din Legea nr. 98/2016 autoritatea contractantă calculează valoarea estimată a unei achiziții având în vedere valoarea totală de plata, fără TVA, estimată de autoritatea contractantă, luând în considerare orice eventuale forme de opțiuni și prelungiri ale contractului menționate în mod explicit în documentele achiziției.
+
+Una dintre obligațiile instituite în sarcina autorității contractante prin Decizia CNSC 1999/C2/2080 din 08.09.2021, pronunțată în dosarul nr.2080/2021, și poate cea mai importantă, este aceea de a proceda, în termen de 15 zile de la data comunicării acesteia, la refacerea calculului valorii maxime estimate a achiziției prin raportare, pe de o parte, la cerințele documentației de atribuire și, pe de altă parte, la drepturile și obligațiile ce decurg din prevederile Codului muncii dar si la salariul minim brut (alineat 4, fila 16 Decizie) .
+
+Din simpla lecturare a considerentelor avute în vedere de către CNSC se poate lesne observa aceea că autoritatea contractantă era ținută a reface calculul valorii maxime estimate a achiziției numai prin raportare la cele 3 criterii expuse în considerentele Deciziei, respectiv: cerințele documentației de atribuire; drepturile și obligațiile statuate de Codul muncii și salariul minim brut garantat în plată la nivel național aplicabil.
+
+Și, pe cale de consecință, cu obligația menținerii celorlalte elemente de cost (procentul de cheltuieli indirecte și cota de profit) avute în vedere la stabilirea valorii maxime estimate a achiziției la nivelul sumei inițiale de 2634460,72 lei, fără TVA ("Referatul de necesitate" înregistrat sub nr._____/26.07.2021 și "Strategia de contractare" înregistrată sub nr._____/ 04.08.2021). Se impune a se observa, în același sens, și Decizia nr.196/CA/08.10.2021 pronunțată de Curtea de apel C________ în dosarul nr.___________, în considerentele căreia se identifică aceleași aspecte avute în vedere de către CNSC (paragrafele 3 și 4, fila 14 Decizie) .
+
+Cu totală desconsiderare a obligației instituite în sarcina sa prin Decizia CNSC nr. 1999/C2/ 2080 din 08.09.2021, atunci când a procedat la recalcularea valorii maxime estimate a achiziției, stabilind-o la nivelul sumei de 3627115,67 lei și anulând procedura, autoritatea contractantă a pervertit și a aruncat în derizoriu Decizia CNSC 1999/C2/2080 din 08.09.2021 dar și Decizia nr. 196/CA/08.10.2021 pronunțată de Curtea de Apel C________ în dosarul nr. ___________ .
+
+Astfel, autoritatea contractantă a procedat la o "umflare" artificială și total nepermisă a marjei de profit stabilind-o astfel la nivelul a 10%, scopul urmărit fiind unul mai mult decât evident anume acela de a forța aplicarea dispozițiilor art. 212 alin.1 lit.d) din Legea nr.98/2016 în condițiile în care acestea nu-și găsesc nicidecum aplicabilitatea.
+
+Procedând de această manieră autoritatea contractantă a încălcat de o manieră flagrantă prevederile art. 28 alin. 1 din Legea nr. 101/2016 care consacră caracterul obligatoriu al Deciziilor organului cu atribuții administrativ - jurisdicționale iar când spune aceasta are în vedere și aceea că, dând relevanță prevederilor art. 68 din aceiași Lege nr.101/2016, sunt pe deplin aplicabile prevederile art. 430 alin. 2 Cod de procedură civilă (autoritatea de lucru judecat privește dispozitivul, precum și considerentele pe care acesta se sprijină, inclusiv cele prin care s-a rezolvat o chestiune litigioasă.).
+
+În egală măsură, opinează că se impune a se observa susținerile petentei, în sensul că atunci când a determinat noua valoare maximă a achiziției la nivelul sumei de 3627115,67 lei autoritatea contractantă a aplicat în două rânduri cota de profit sunt unele mai mult decât întemeiate, iar când spune aceasta are în vedere următoarele:
+
+Pornind de la tarifele orare consacrate de expertiza contabilă căreia i s-a dat relevanță de către CNSC dar și de către onorata Curte și raportându-le la tarifele orare precizate în coloana (f) a Anexei la Decizia autorității contractante nr. _____ /28.10.2021 este lesne de observat că, la stabilirea acestora din urmă, au fost luate în considerare cote de cheltuieli indirecte și profit .
+
+În concluzie, deși atunci când a stabilit noile tarife orare, plecând de la tarifele orare stabilite conform expertizei contabile, autoritatea contractantă a aplicat o cotă medie de cheltuieli indirecte și profit de 13,745% (7,323% + 21,877% + 12,035% : 3), în finalul calculului valorii maxime estimate a achiziției a aplicat, din nou, o cotă de profit de această dată uriașă, anume 10% .
+
+În opinia petentei, prin anularea procedurii autoritatea contractantă urmărește un singur scop anume acela de a se sustrage de la obligația de aducere la îndeplinire a celorlalte măsuri instituite în sarcina sa prin Decizia CNSC nr.1999/C2/2080 din 08.09.2021 în sensul de a modifica documentația de atribuire, în concordanță cu aceasta, respectiv: de a înlocui formularului 8.2 cu cele 3 formulare (Calculații de preț pentru tarif unitar ofertat pentru : un post cu program de 24/24 ore/zi, un post cu program de 12/24 ore/zi și un post cu program de 8/24 ore/zi); de a suplimenta localitățile în care ofertanții trebuie să asigure intervenția cu echipaje mobile prin introducerea Secției exterioare Năvodari și a UPU Băneasa; de a completa categoriile de personal necesare realizării activităților cu șeful de obiectiv servicii de securitate, deținător al unui certificat de competențe profesionale emis de un furnizor de formare profesională autorizat de Autoritatea Națională pentru Calificări; de a înlocui calificarea educațională sau profesională a șefului de tură din atestat de agent de securitate cu certificatul de competențe profesionale emis de un furnizor de formare profesională autorizat de Autoritatea Națională pentru Calificări; de a elimina condiția ca agenții utilizați în activitatea de control acces să aibă minim studii liceale cu diplomă de bacalaureat și cunoștințe de limba engleză; de a elimina cerința ca pentru agenții de securitate să se facă dovada deținerii certificatelor de absolvire a cursului, de a elimina obligativitatea cesiunii în favoarea achizitorului a poliței de asigurare de răspundere civilă a societății de pază, pentru prejudicii provocate beneficiarilor serviciilor sale sau terților păgubiți; de a elimina obligativitatea cesionării în favoarea achizitorului a poliței de asigurare de răspundere civilă a societății de pază, pentru prejudicii provocate beneficiarilor serviciilor sale sau terților păgubiți; de a elimina posibilitatea asignării în posturile de pază a personalului în curs de calificare .
+
+Autoritatea contractantă, deși a fost obligată a adopta măsuri de remediere și de a modifica documentația de atribuire în sensul celor stabilite prin Decizia CNSC, confirmată în totalitate prin Decizia Curții de apel, nu a înțeles a se conforma în consecință.
+
+Această stare de lucruri transpare cu suficiență din aceea că în cadrul procedurii de consultare a pieței, inițiată prin anunțul postat în SEAP sub nr. MC1017579/23.11.2021, autoritatea contractantă a dus la dispoziția persoanelor interesate în a formula opinii, sugestii și recomandări o nouă documentație de atribuire (Caiet de sarcinii în care regăsim, reluate în aceeași formă, acele prevederi cu privire la care CNSC a dispus remedierea. În acest sens Zip E___________, evocând Decizia CNSC nr.1999/C2/2020 din 08.09.2021, a transmis autorității contractante un punct de vedere prin care a atras atenția cu privire la faptul că, printre altele, așa-zisa nouă documentație de atribuire nu este altceva decât vechea documentație care nu a fost modificată în concordanță cu decizia în cauză.
+
+Apare cel puțin de neînțeles atitudinea autorității contractante care, deși se găsește în posesia unei decizii intrată în puterea autorității de lucru judecat și prin care a fost obligată a opera numeroase remedieri și modificări ale documentației de atribuire, solicită persoanelor interesate formularea de opinii, sugestii și recomandări pe marginea unor dispoziții cu privire la care CNSC a impus modificarea.
+
+Atunci când au solicitat obligarea autorității contractante la continuarea procedurii cu respectarea obligațiilor suplimentare instituite de art. 111 alin. 2 din Legea nr. 98/2016 dar și a celor impuse în sarcina acesteia prin decizia CNSC nr. 199/C2/2080 din 08.09.2021 au avut în vedere următoarele considerente de fapt și de drept :
+
+După cum arată dispozițiile art. 212 alin.1 din Legea nr.98/2016 autoritatea contractantă are obligația de a anula procedura de atribuire a contractului de achiziție publică/acordului-cadru în următoarele cazuri :
+
+- dacă nu a fost depusă nici o ofertă/solicitare de participare sau dacă nu a fost depusă nici o ofertă admisibilă;
+
+- dacă au fost depuse oferte admisibile care nu pot fi comparate din cauza modului neuniform de abordare a soluțiilor tehnice și/ori financiare;
+
+- dacă încălcări ale prevederilor legale afectează procedura de atribuire sau dacă este imposibilă încheierea contractului.
+
+- Consiliul N_______ de Soluționare a Contestațiilor sau instanța de judecată dispune modificarea/eliminarea unor specificații tehnice/cerințe din caietul de sarcini ori din alte documente emise în legătură cu procedura de atribuire astfel încât nu mai poate fi atins în mod corespunzător scopul achiziției, iar autoritatea contractantă se află în imposibilitatea de a adopta măsuri de remediere, fără ca acestea să afecteze principiile achizițiilor publice reglementate la art. 2 alin. (2);".
+
+- Dacă contractul/acordul-cadru nu poate fi încheiat cu ofertantul a cărui ofertă a fost stabilită câștigătoare din cauza faptului că ofertantul în cauză se află într-o situație de forță majoră sau în imposibilitatea fortuită de a executa contractul/acordul-cadru și nu există o ofertă clasată pe locul următor admisibilă.
+
+Autoritatea contractantă își justifică decizia de anulare a procedurii prin prisma unor prevederi din Procedura operațională P71-21 conform cu care : "instanța de judecată dispune modificarea/eliminarea oricăror specificații tehnice din caietul de sarcini ori din alte documente emise în legătură cu procedura de atribuire, iar autoritatea contractantă se află în imposibilitatea de a adopta măsuri de remediere, fără ca acestea să afecteze principiile achizițiilor publice reglementate la art. 2 , alin. (2) din Legea nr. 98 / 2016."
+
+Sub aspect factual, justificarea deciziei de anulare este după cum urmează : "Cum obligațiile suplimentare specifice procedurii de achiziție a unui serviciu cu o valoare estimată mai mare decât pragul prevăzut la art. 7 alin. (1) lit. d) din Legea nr. 98/2016 nu au fost respectate la momentul inițierii procedurii a cărei anulare se dispune prin prezenta decizie, iar respectarea acestora era obligatorie încă de la momentul incipient al demarării procedurii, de natură să permită respectarea principiului transparenței, autoritatea contractantă se află în imposibilitatea de a adopta măsuri de remediere, fără ca acestea să afecteze principiile achizițiilor publice reglementate ia art. 2 , alin. (2) din Legea nr. 98/2016. "
+
+Urmează a se observa:
+
+a) Dispozițiile din Procedura operațională P71-21 evocate dar și cele ale art. 212, alin. 1, lit. d) din Legea nr. 98 / 2016, transpuse într-o oarecare măsură în cuprinsul celor din Procedura operațională, sunt mai presus de orice interpretare în sensul că se face trimitere :
+
+- în cazul Procedurii operaționale, la "specificații tehnice din caietul de sarcini ori din alte documente emise în legătură cu procedura de atribuire";
+
+- în cazul dispoziției legale, la "specificații tehnice/cerințe din caietul de sarcini ori din alte documente emise în legătură cu procedura de atribuire".
+
+Ori a asimila noțiunile de "specificații tehnice" sau "specificații tehnice/cerințe" din caietul de sarcini ori din alte documente emise în legătură cu procedura de atribuire cu situația de fapt anume modificarea valorii estimate maxime a achiziției este, crede petenta, una care nu numai că frizează absurdul dar denotă, din partea autorității, o evidentă rea-credința și o încercare puerilă de a-și justifica din punct de vedere legal decizia de anulare a procedurii.
+
+Admițând, prin absurd, că noua valoare estimată maximă a achiziției (3627115,67 lei) ar putea fi avută în vedere, trecându-se peste argumentele expuse pe larg supra cu privire la modalitatea forțată în care s-a ajuns la aceasta, trebuie spus că, în ciuda tuturor eforturilor depuse, nu au reușit să identifice, în concret, considerentul factual ce ar putea determina o imposibilitate efectivă a autorității contractante de a se conforma prevederilor art. 111, alin. 2 din Legea nr.98/ 2016 în sensul de :
+
+- a-și face cunoscută intenția de a achiziționa respectivele servicii prin publicarea unui anunț de participare, evident după aducerea la îndeplinire a obligațiilor ce-i incumba și care au fost instituite în sarcina sa prin decizia CNSC nr.199/C2/2080 din 08.09.2021.
+
+- a publica un anunț de atribuire a contractului, după finalizarea procedurii,respectând astfel întocmai principiul transparenței consacrat de art. 2 , alin.2, lit. d) din Legea nr.98/2016 .
+
+Prin Decizia cu privire la care a înțeles a exercita prezenta cale de atac, s-a dispus respingerea contestației reținându-se, în esență, un număr de 3 aspecte :
+
+a) - faptul că prin Decizia nr.1999/C2/2080 din 08.09.2021 CNSC nu a impus autorității contractante, în recalcularea valorii estimate, o anumită marjă de profit, ci stabilirea unei valori estimate cu luarea în considerare a cerințelor documentației de atribuire, precum și a drepturilor și obligațiilor ce decurg din prevederile Codului muncii și a salariului minim brut garantat.
+
+Urmează a se observa că:
+
+- se confirmă de către CNSC, în modul cel mai expres cu putință, cele susținute de petentă anume că autoritatea contractantă era ținută a reface calculul valorii maxime estimate a achiziției numai prin raportare la cele 3 criterii expuse în considerentele Deciziei nr.1999/C2/2020 din 08.09.2021 (cerințele documentației de atribuire, drepturile și obligațiile statuate de Codul muncii și salariul minim brut garantat în plată la nivel național), cu obligația menținerii celorlalte elemente de cost (procentul de cheltuieli indirecte și cota de profit) avute în vedere la stabilirea valorii maxime estimate a achiziției la nivelul sumei inițiale de 2634460,72 lei, fără TVA ("Referatul de necesitate" nr. _____/26.07.2021 și "Strategia de contractare" nr. _____/ 04.08.2021):
+
+- atunci când a formulat contestația, dedusă spre competentă soluționare organului cu atribuții administrativ - jurisdicționale, Zip E___________. nu a solicitat nicidecum a se impune în sarcina autorității contractante obligația de a avea în vedere o anumită cotă de profit la calculul noii valori maxime estimate a achiziției ci cu totul altceva, anume a se constata că la determinarea acestei noi valori (3506625 lei, plus TVA) și care a atras după sine anularea procedurii a fost desconsiderată Decizia nr. 1999 / C2 / 2020 din 08.09.2021 prin :
+
+- încălcarea obligației de a menține celelalte elemente de cost (procentul de cheltuieli indirecte și cota de profit) avute în vedere la stabilirea valorii maxime estimate a achiziției la nivelul sumei inițiale de 2634460,72 lei, fără TVA;
+
+- aplicarea unei cote de profit de 10% asupra valorii totale în condițiile în care la stabilirea tarifelor orare fusese avută deja în vedere o cotă de profit cel puțin semnificativă .
+
+b) Zip E___________, nu a dus niciun argument care să demonstreze prejudiciul ce i s-a produs prin dispunerea măsurii anulării procedurii, în condițiile în care nu a depus ofertă.
+
+Urmează a se observa alineatul 1, teza a – II - a din dispozitivul Deciziei nr. 1999/C2/2020 din 08.09.2021 (fila 28 Decizie) : "Modificările vor fi aduse la cunoștința operatorilor economici, în cadrul aceluiași termen (15 zile de la data primirii Deciziei - mm), prin publicarea lor în SEAP și stabilirea unui nou termen de depunere a ofertelor, care să permită elaborarea ofertelor în mod corespunzător".
+
+În condițiile în care autoritatea contractantă, în loc să stabilească, după cum a statuat CNSC, un nou termen de depunere a ofertelor, a procedat la anularea intempestivă și eminamente forțată a procedurii, orice reproș ce i s-ar aduce Zip E___________., în sensul că nu a depus ofertă și astfel că nu ar fi suferit un prejudiciu, apare ca unul neavenit .
+
+c) Temerea Zip E___________. privind inițierea unei noi proceduri în temeiul acelorași documente de achiziție, fără ca acestea să fie remediate, nu ar fi una justificată și aceasta deoarece, într-o astfel de situație, ar putea declanșa un nou litigiu în fața CNSC sau a instanței de judecată .
+
+Un astfel de considerent nu poate fi primit din două motive :
+
+- presupune să fie de acord că Decizia nr.1999/C2/2020 din 08.09.2021 ar avea un caracter facultativ iar autoritatea contractantă ar putea să o respecte sau nu ; inacceptabil date fiind, pe de o parte, prevederile art. 28 , alin.1 din Legea nr.101/2016 ("Decizia Consiliului este obligatorie pentru părțile cauzei.") și, pe de altă parte, chiar mențiunea din dispozitivul Deciziei ("Prezenta decizie este obligatorie pentru părți, în conformitate cu dispozițiile art. 28 alin.(1) din Legea nr.101/2016 ").
+
+- presupune demararea unui nou litigiu, cu același obiect anume obligarea autorității contractante la adoptarea acelorași remedieri, chiar intrate în puterea autorității de lucru judecat, soluționat printr-o nouă decizie, în mod evident în același sens, decizie pe care autoritatea contractantă să o desconsidere utilizând, din nou, aceeași documentație de atribuire, generând astfel un nou litigiu cu același obiect ; și tot așa, la infinit ; sub acest aspect de-a dreptul simptomatic este faptul că autoritatea contractantă a inițiat procedura de consultare a pieței prin punerea ia dispoziția persoanelor interesate o documentație de atribuire (Caiet de sarcinii în care regăsim, reluate în aceeași formă, acele prevederi cu privire la care CNSC a dispus remedierea).
+
+Prin întâmpinarea formulată și depusă la dosar la data de 20.12.2021 pârâtul B_______ B_____ B_______ de Urgență Sf. A______ A_____ C________, în calitate de autoritate contractantă, în temeiul dispozițiilor art. 205 și urm. Cod Procedură Civilă , a solicitat respingerea ca nefondată a plângerii îndreptată împotriva Deciziei CNSC nr. 2626/C2/2874 din data de 24.11.2021 pronunțată în Dosarul nr. 2874/2021.
+
+În apărare, a susținut intimata că în vederea atribuirii Contractului având ca obiect ,,Servicii de pază și intervenție pentru obiectivele Spitalului B_____ B_______ de Urgență Sf. A______ A_____ C________" pentru o perioadă de 12 luni, a fost inițiată o procedură de licitație prin publicarea în SEAP a Anunțului publicitar cu nr. ADV1231225, după cum urmează:
+
+- versiunea 1/05.08.2021 - cu dată limită de depunere 16.08.2021; versiunea 2/11.08.2021 - cu dată limită de depunere 23.08.2021; versiunea 3/19.08.2021 - cu dată limită de depunere 01.10.2021; versiunea 4/17.09.2021 - cu dată limită de depunere 15.10.2021; versiuni 5,6/27.09.2021 - cu dată limită de depunere 30.11.2021.
+
+Procedura a fost inițiată în conformitate cu Procedura Operațională proprie P 71-21, Rev.0.
+
+Societatea Zip E_________ a contestat documentația de atribuire (contestație înregistrată la CNSC cu nr. _____/11.08.2021), iar CNSC pronunță în Dosarul nr. 2080/2021, Decizia nr.1999/C2/2080 din 08.09.2021.
+
+Soluția CNSC este menținută prin Decizia civilă nr. 196/CA/08.10.2021 pronunțată de Curtea de Apel C________ în Dosarul nr.___________ prin care se respinge ca nefondată plângerea Spitalului B_____ B_______ de Urgență "Sf. A______ A_____" C________ îndreptată împotriva Deciziei CNSC nr.1999/C2/2080 din 08.09.2021 pronunțată în Dosarul nr. 2080/2021, menținându-se soluția CNSC prin care s-a admis în parte contestația formulată de Zip E_________, iar autoritatea contractantă a fost obligată a remedia documentația de atribuire, cu respectarea celor dispuse în motivarea deciziei CNSC, în sensul:
+
+1. Refacerii calculului valorii estimate, prin stabilirea unei valori estimate maximale a serviciilor ce fac obiectul procedurii, superioare celei estimată inițial (la stabilirea tarifelor urmând a fi luate în considerare toate cheltuielile necesare aducerii la îndeplinire a contractului de achiziție publică, ca spre exemplu cheltuielile rezultate din prevederile Codului Muncii , cheltuielile directe, cheltuielile indirecte, profitul etc.) .
+
+2. Înlocuirii formularului 8.2 cu cele 3 formulare indicate de societatea Zip E_________ (calculații de preț pentru tarif unitar ofertat pentru: un post cu program 24/24 ore/zi, un post cu program de 12/24ore/zi și un post cu program de 8/24 ore/zi).
+
+3. Suplimentării localităților în care ofertanții trebuie să asigure intervenția cu echipaje mobile, respectiv introducerea și a secției exterioare Năvodari și a UPU Băneasa.
+
+4. Completării categoriilor de personal necesare realizării activităților cu șeful de obiectiv servicii de Securitate (cod C__ ______ - fost ______), deținător al unui certificat de competențe profesionale emis de un furnizor de formare profesională autorizat de Autoritatea Națională pentru Calificări.
+
+5. Înlocuirii atestatului de agent de securitate solicitat pentru șeful de tură, cu certificatul de competențe emis de un furnizor de formare profesională autorizat de Autoritatea Națională pentru Calificări.
+
+6. Eliminării condiției ca agenții utilizați în activitatea de control acces să aibă minim studii liceale cu diploma de bacalaureat și cunoștințe de limba engleză.
+
+7. Eliminării cerinței ca pentru agenții de securitate să se facă dovada deținerii certificatelor de absolvire a cursului, dovada deținerii atestatului fiind suficientă.
+
+8. Suplimentării localităților în care prestatorul trebuie să asigure intervenția cu echipaje mobile, respectiv introducerea și a Secției exterioare Năvodari și a UPU Băneasa.
+
+9. Eliminării cerinței privind cesiunea în favoarea achizitorului a poliței de asigurare de răspundere civilă a societății de pază, pentru prejudicii provocate beneficiarilor serviciilor sale sau terților păgubiți.
+
+10. Eliminării posibilității asignării în posturile de pază a personalului în curs de calificare.
+
+Măsurile de remediere la care a fost obligată autoritatea contractantă, respectiv a celor descrise anterior la punctele 1,3,4 și 8, au fost de natură să conducă la refacerea calculului valorii estimate, în sensul că aceasta trebuie să cuprindă:
+
+- cheltuielile necesare aducerii la îndeplinire a contractului de achiziție publică (cheltuieli salariale, cheltuielile directe, cheltuielile indirecte, profit etc.);
+
+- cheltuielile cu suplimentarea localităților în care ofertanții trebuie să asigure intervenția cu echipaje mobile:
+
+- cheltuielile cu suplimentarea posturilor cu postul de șef de obiectiv.
+
+În încercarea de a aplica Decizia CNSC nr. 1999/C2/2080 din 08.09.2021, autoritatea a procedat la determinarea unei noi valori estimate maximale a acordului - cadru, identificată ca fiind superioară celei prag dictată de disp. art. 7 alin. (1) lit. d) din Legea nr. 98/2016, astfel cum a acesta fost revizuit conform art. 8 din același act normativ, și, întrucât s-a stabilit că autoritatea contractantă a inițiat o procedură proprie specifică unei achiziții cu o valoare estimată mai mică decât pragul prevăzut la art. 7 alin. (1) lit. d) din Legea nr. 98/2016, iar prin determinarea noii valori se conturează specificul unei proceduri de achiziție a unui serviciu cu o valoarea estimată mai mare decât pragul prevăzut la art. 7 alin. (1) lit. d) din Legea nr. 98/2016, ce impune obligații suplimentare, iar angajarea cheltuielilor cu depășirea limitelor creditelor bugetare aprobate este interzisă, s-a procedat la anularea procedurii.
+
+Se emite astfel Decizia nr. _____/27.10.2021 (eronat 27.09.2021) prin care se dispune anularea procedurii inițiată în baza Anunțului publicitar cu nr. ADV1231225.
+
+Nemulțumită de soluția de anulare, Zip E_________ formulează contestație în fața CNSC, luând astfel naștere Dosarul nr. 2874/2021.
+
+Prin Decizia CNSC nr. 2626/C2/2874 din data de 24.11.2021 pronunțată în Dosarul nr. 2874/2021Consiliul a respins contestația ca nefondată.
+
+Împotriva acestei decizii Zip E_________ a formulat plângerea ce formează obiectul cauzei deduse judecății.
+
+Se arată că printre obligațiile stabilite în sarcina autorității contractante prin Decizia CNSC nr. 1999/C2/2080 din 08.09.2021 se regăsea și cea a:
+
+- Refacerii calculului valorii estimate, prin stabilirea unei valori estimate maximale a serviciilor ce fac obiectul procedurii, superioare celei estimată inițial (la stabilirea tarifelor urmând a fi luate în considerare toate cheltuielile necesare aducerii la îndeplinire a contractului de achiziție publică, ca spre exemplu cheltuielile rezultate din prevederile Codului Muncii , cheltuielile directe, cheltuielile indirecte, profitul etc.)
+
+Realizând actualizarea valorii estimate, conform Anexei la Decizie de anulare nr. _____/28.10.2021 contestată, noua valoare estimată se situează la valoarea de 3626875,67 lei, valoare superioară valorii-prag de 3506625 lei.
+
+Valoarea-prag anterior indicată, de 3506625 lei, este valabilă și aplicabilă tuturor procedurilor lansate după data de 1 ianuarie 2020, conform Regulamentelor delegate (UE) nr. 2019/1827, nr.2019/1828, nr.2019/1829 și nr.2019/1830 ale Comisiei Europene de modificare a Directivelor 2014/23/UE, 2014/24/UE, 2014/25/UE și 2009/81/CE, ale Parlamentului European și ale Consiliului, privitor la cuantumul noilor praguri valorice aplicabile în cadrul procedurilor de achiziție publică la nivel național, regulamente publicate în Jurnalul Oficial al Uniunii Europene nr. L279/2019.
+
+Practic, prin actualizarea valorii estimate, se depășește valoarea-prag dictată de dispozițiile art. 7 alin.(1) lit. d) din Legea nr. 98/2016, astfel cum a acesta fost revizuit conform art. 8 din același act normativ.
+
+În atare condiții, prevederile Procedurii Operaționale P 71-21 stabilesc următoarele:
+
+„ Dispozițiile art. 111 alin. (2) din Legea nr. 98/2016 impun autorității contractante, în cazul achizițiilor a căror valoare estimată este egală sau mai mare decât pragul valoric prevăzut la art.7 alin. (1) lit. d), următoarele obligații suplimentare din perspectiva regulilor de publicitate și transparență:
+
+(...) - de a-și face cunoscută intenția de a achiziționa respectivele servicii fie prin publicarea unui anunț de participare, fie prin intermediul unui anunț de intenție valabil în mod continuu;
+
+- de a publica un anunț de atribuire a contractului. (...)"
+
+În aceeași ordine de idei, Procedura Operațională P 71-21 stabilește următoarele:
+
+„În ceea ce privește achizițiile de servicii sociale și alte servicii specifice cu valori estimate mai mici decât pragul prevăzut la art. 7 alin. (1) lit. d) din Legea nr.98/2016, autoritatea contractantă va proceda conform procedurii proprii elaborate, având posibilitatea de a asigura publicitatea achiziției la nivel național, în mod similar achizițiilor de peste prag. "
+
+Depășirea pragului valoric prevăzut la art. 7 alin. (1) lit. d) din Legea nr. 98/2016 impune obligații suplimentare în sarcina autorității contractante, distincte de cele specifice procedurii proprii ce vizează achiziția de servicii cu valori estimate mai mici decât pragul prevăzut la art. 7 alin. (1) lit. d) din Legea nr. 98/2016, aceasta din urmă având la bază anunțul publicitar, iar nu un anunț de participare sau de intenție valabil în mod continuu.
+
+Practic, autoritatea contractantă a inițiat o procedură proprie specifică unei achiziții cu o valoare estimată mai mică decât pragul prevăzut la art. 7 alin. (1) lit. d) din Legea nr. 98/2016, iar la acest moment se conturează specificul unei proceduri de achiziție a unui serviciu cu o valoarea estimată mai mare decât pragul prevăzut la art. 7 alin. (1) lit. d) din Legea nr. 98/2016, ce impune obligații suplimentare.
+
+Cum obligațiile suplimentare specifice procedurii de achiziție a unui serviciu cu o valoarea estimată mai mare decât pragul prevăzut la art. 7 alin. (1) lit. d) din Legea nr. 98/2016 nu au fost respectate la momentul inițierii procedurii a cărei anulare s-a dispus, iar respectarea acestora era obligatorie încă de la momentul incipient al demarării procedurii, de natură să permită respectarea principiului transparenței, autoritatea contractantă s-a aflat în imposibilitatea de a adopta măsuri de remediere fără ca acestea să afecteze principiile achizițiilor publice reglementate la art. 2 , alin. (2) din Legea 98/2016.
+
+În acest sens, au devenit incidente prevederile Procedurii Operaționale P 71-21, Rev. O, cu următorul conținut:
+
+"Anularea procedurii
+
+Circumstanțele în care autoritatea contractantă are dreptul de a anula procedura de achiziție sunt limitativ prevăzute de Normă, astfel: (...)
+
+- instanța de judecată dispune modificarea/eliminarea oricăror specificații tehnice din caietul de sarcini ori din alte documente emise în legătură cu procedura de atribuire, iar autoritatea contractantă se află în imposibilitatea de a adopta măsuri de remediere, fără ca acestea să afecteze principiile achizițiilor publice reglementate la art. 2 , alin. (2) din Legea 98/2016.
+
+Mai mult decât atât, actualizarea valorii estimate, ce depășește valoarea-prag prevăzută la art. 7 alin. (1) lit. d) din Legea nr. 98/2016, este de natură a depăși limita creditelor bugetare aprobate pentru demararea procedurii de achiziție în cauză, angajarea cheltuielilor cu depășirea limitelor creditelor bugetare deja aprobate fiind interzisă.
+
+Devin incidente prevederile art. 4 și 61 din Legea nr.500/2002 privind finanțele publice, în sensul că veniturile și cheltuielile se autorizează anual, sumele aprobate reprezintă limite ce nu pot fi depășite, iar angajarea cheltuielilor din buget se face numai în limita creditelor aprobate, depășirea acestora fiind interzisă.
+
+În absența unui credit bugetar acoperitor aprobat, nu se pot angaja cheltuieli suplimentare derivate din măsurile de remediere impuse în sarcina autorității contractante, neexistând la momentul anulării sursa de finanțare a acestora.
+
+Sintetizând apărările autorității contractante, cu trimitere strictă la criticile Zip E_________, concluzionează următoarele aspecte:
+
+- prin Decizia CNSC nr. 1999/C2/2080 din 08.09.2021, autorității contractante nu i s-a impus o anumită marjă de profit, respectiv un procent de sine stătător ce avea să fie respectat, ci s-a impus a se reface calculul valorii estimate, prin stabilirea unei valori estimate maximale a serviciilor ce fac obiectul procedurii, superioare celei estimată inițial (la stabilirea tarifelor urmând a fi luate în considerare toate cheltuielile necesare aducerii la îndeplinire a contractului de achiziție publică, ca spre exemplu cheltuielile rezultate din prevederile Codului Muncii , cheltuielile directe, cheltuielile indirecte, profitul etc.)
+
+Chiar și CNSC, prin decizia contestată, arată că în domeniul achizițiilor publice legiuitorul nu impune o anumită marjă de profit, fiecare autoritate contractantă fiind liberă a indica cota de profit pe care o consideră, contractul de achiziție publică fiind unul cu titlu oneros, iar nici societatea Zip E_________ nu a fost în măsură a indica norma legală care să impună o anumită cotă de profit sau intervale de cote de profit.
+
+De altfel, inclusiv prin decizia atacată pe calea prezentei, se reține deopotrivă că, prin decizia Consiliului din 08.09.2021, în recalcularea valorii estimate, nu s-a impus autorității contractante o anumită marjă de profit.
+
+Relevantă în cauză este și încheierea CNSC nr. 3128/C2/2080 din data de 06.12.2021, prin care se respinge ca nefondată cererea Zip E_________ privind lămurirea dispozitivului Deciziei CNSC nr.1999/C2/2080 din 08.09.2021,lămurire ce viza strict modul în care autoritatea contractantă avea obligația de a reface calculul valorii estimate.
+
+Prin cererea de lămurire dispozitiv formulată, Zip E_________ a solicitat consiliului a preciza dacă, la refacerea calcului valorii estimate maximale a achiziției:
+
+- se impunea refacerea calculului, cu posibilitatea modificării și a celorlalte elemente de cost (procentul de cheltuieli indirecte și cota de profit) sau se impunea refacerea calculului numai prin raportare la cerințele documentației de atribuire, drepturile și obligațiile statuate de Codul Muncii și salariul minim brut garantat în plată la nivel național, cu menținerea celorlalte elemente de cost (procentul cheltuieli indirecte și cota de profit).
+
+CNSC, prin încheierea nr. 3128/C2/2080 din data de 06.12.2021, respinge cererea de lămurire dispozitiv ca nefondată, apreciind că justificarea cererii privește în realitate considerentele deciziei, neputându-se reține o neclaritate a celor reținute în dispozitiv, iar analiza actului atacat s-a realizat prin prisma motivelor invocate de societatea contestatoare, în acord cu principiul disponibilității, printre criticile sale neregăsindu-se cerința obligării autorității contractante a reface calculul valorii estimate prin raportare la o anumită cotă a profitului.
+
+Adițional celor anterior expuse, redă din considerentele Deciziei CNSC nr. 1999/C2/2020 pasajele relevante, prin intermediul cărora Consiliul explică modul în care trebuie realizat calculul valorii estimate: Paragraful ultim, pagina 13 Decizie:
+
+„Mai mult, în cazul în care autoritatea contractantă nu poate estima valoarea contractului ce urmează a se atribui, are la îndemână dispozițiile art. 139 alin. (1) și (2) din Legea nr. 98/2016 care stipulează că: (l)înainte de inițierea procedurii de atribuire, autoritatea contractantă are dreptul de a organiza consultări ale pieței în vederea pregătirii achiziției, prin raportare la obiectul contractului de achiziție publică, și pentru a informa operatorii economici cu privire la planurile de achiziție și cerințele avute în vedere în legătură cu acestea, făcând cunoscut acest lucru prin intermediul SEAP, precum și prin orice alte mijloace. (2)în cadrul consultărilor prevăzute la alin. (1), autoritatea contractantă are dreptul de a invita experți independenți, autorități publice sau operatori economici, inclusiv organizații reprezentative ale acestora. "
+
+-alin. 3, pagina 14 din Decizie: „În plus față de cele prezentate, Consiliul apreciază că natura serviciilor solicitate de autoritatea contractantă (ținând cont că sunt și 16 posturi permanente 24h/24h), impunea luarea în considerare, în stabilirea tarifelor a tuturor cheltuielilor necesare ducerii la îndeplinire a contractului de achiziție publică, cum ar fi spre exemplu: cheltuielile rezultate din prevederile Codului Muncii , cum ar fi spre exemplificare ore suplimentare, sporul de noapte, sporul de sărbători legale, sporul de repaus săptămânal, etc.; cheltuielile directe cum ar fi spre exemplificare dotările (costum, ecuson, tonfa de atac sau apărare, lanternă, pulverizator, mijloc de comunicare, stații portabile pentru emisie-recepție, etc.), costurile de medicina muncii, protecția și securitatea în muncă, costurile de pregătire profesională/instruire a personalului; cheltuielile indirecte; profit, etc."
+
+- alin. 2, pag. 15 din Decizie: „Prin urmare, expertiza contabilă a relevat costuri superioare celor stabilite de autoritatea contractantă și asta, în condițiile în care calculele contabile de mai sus nu au avut în vedere cheltuielile indirecte și profitul, ci doar cheltuiala salarială.''
+
+Analizând considerentele deciziei CNSC din data de 08.09.2021 apreciază că acestea au fost lămuritoare, în sensul că, la refacerea calcului valorii estimate maximale a achiziției, autoritatea contractantă trebuia să aibă în vedere toate cheltuielile necesare ducerii la îndeplinire a contractului de achiziție publică, printre care și cheltuielile indirecte și cota de profit, putând chiar opta la procedura consultării pieței în vederea pregătirii achiziției dictată de prevederile art. 139 din Legea nr. 98/2016, oferind chiar posibilitatea autorității contractante a apela la experți independenți, operatori economici etc.
+
+Decizia de anulare a procedurii se subscrie ipotezei de anulare dictate de Procedura Operațională proprie P 71-21, Rev. O, cu următorul conținut:
+
+"Anularea procedurii
+
+Circumstanțele în care autoritatea contractantă are dreptul de a anula procedura de achiziție sunt limitativ prevăzute de Normă, astfel:
+
+(...)
+
+- instanța de judecată dispune modificarea/eliminarea oricăror specificații tehnice din caietul de sarcini ori din alte documente emise în legătură cu procedura de atribuire, iar autoritatea contractantă se află în imposibilitatea de a adopta măsuri de remediere, fără ca acestea să afecteze principiile achizițiilor publice reglementate la art. art. 2 , alin. (2) din Legea 98/2016.
+
+S-a evidenția în mod expres, atât în decizia de anulare, cât și în nota justificativă aferentă, împrejurarea că, prin implementarea măsurilor de remediere impuse de CNSC, se conturează procedura specifică procedurii de achiziție a unui serviciu cu o valoarea estimată mai mare decât pragul prevăzut la art. 7 alin. (1) lit. d) din Legea nr. 98/2016, ce implică publicarea unui anunț de participare sau a unui anunț de intenție valabil în mod continuu, iar nu a unui anunț publicitar cum s-a procedat în cauză, cu afectarea principiului transparenței dictat de disp. art. 2 alin. (2) lit. d) din Legea nr. 98/2016.
+
+Deopotrivă, există implicații în ceea ce privește sursa de finanțare și limita creditului bugetar aprobat pentru demararea procedurii de achiziție în cauză, în contextul în care prevederile art. 4 și 61 din Legea nr. 500/2002 privind finanțele publice stabilesc că veniturile și cheltuielile se autorizează anual, iar angajarea cheltuielilor cu depășirea limitelor creditelor bugetare aprobate este interzisă.
+
+Imposibilitatea autorității contractante de a se conforma prevederilor art. 111 alin. 2 din Legea nr. 98/2016 ține de faptul că s-a inițiat o procedură ce implică un anunț publicitar, iar prin noua valoare estimată se impune a se urma o procedură ce implică un anunț de participare sau un anunț de intenție valabil în mod continuu (ce nu poate fi publicat la acest moment și considerat a aven efecte retroactive, anunțurile corecte fiind necesar a reprezenta debutul oricărei proceduri) și se impune a se urma procedura proprie specifică unui astfel de proceduri, ce nu a fost urmată încă de la momentul inițierii procedurii anulată prin actele contestate.
+
+Analizând actele și lucrările dosarului, Curtea constată că plângerea este nefondată.
+
+B_______ B_____ B_______ de Urgență SF. A______ A_____, în calitate de autoritate contractantă, a organizat o procedură proprie în vederea încheierii unul acord-cadru pe o perioadă de 12 luni pentru Servicii de pază și intervenție pentru obiectivele Spitalului B_____ B_______ de Urgență "Sf. A______ A_____" C________, sens în care a elaborat documentația de atribuire aferentă.
+
+Potrivit anunțului de publicitate ADV1231225, valoarea estimată a acordului-cadru este cuprinsă între 2634337,68 lei și 2634460,72 lei, iar criteriul de atribuire este prețul cel mai scăzut.
+
+ZIP E_________ a depus contestație solicitând adoptarea măsurilor de remediere, iar prin decizia nr. 1999/C2/2080 din 08.09.2021 CNSC a admis contestația și a obligat unitatea spitalicească la remedierea documentației de atribuire, respectiv cu refacerea calculului valorii estimate cu luarea în considerare a cerințelor documentației de atribuire, precum și a drepturilor și obligațiilor ce decurg din prevederile Codului Muncii și a salariului minim brut garantat, suplimentarea localităților în care ofertanții trebuie să asigure intervenția cu echipaje mobile, completarea personalului cu șeful de obiectiv.
+
+Prin decizia civilă nr. 196/CA/08.10.2021 pronunțată de Curtea de Apel C________ în dosarul nr. ___________ s-a dispus respingerea plângerii exercitată de autoritatea contractantă împotriva Deciziei CNSC.
+
+Ulterior, autoritatea contractantă a procedat la determinarea unei noi valori estimate maximale a acordului - cadru identificată ca fiind superioară celei dictată de disp. art. 7 alin. (1) lit. d) din Legea nr. 98/2016, astfel prin Decizia nr. _____/27.10.2021 a dispus anularea procedurii inițiată în baza Anunțului publicitar cu nr. ADV1231225.
+
+Prin Decizia nr. 2626/C2/2874 din data de 24.11.2021 s-a respins ca nefondată, contestația formulată de societatea Zip E_________ în contradictoriu cu B_______ B_____ B_______ de Urgență Sf. A______ A_____, în calitate de autoritate contractantă.
+
+Pentru a pronunța această decizie CNSC a avut în vedere următoarele:
+
+În considerarea obligațiilor instituite în sarcina sa de către Consiliu, autoritatea contractantă a procedat la determinarea unei noi valori estimate maxime a acordului cadru stabilită conform Anexei la decizia înregistrată sub nr. _____/ 28.10.2021, la nivelul sumei de 3627115,67 lei. Pe cale de consecință s-a identificat faptul că această nouă valoare ar fi una superioară celei statuate de art. 7 alin. 1 lit. d) din Legea nr. 98/2016 (3506625 lei) și astfel, autoritatea contractantă nu ar mai fi în măsură a continua procedura de atribuire a acordului - cadru de maniera în care aceasta este reglementată de art. 111 alin. 1 din Legea nr. 98/2016.
+
+Prin decizia înregistrată sub nr. _____/28.10.2021 s-a dat relevanță concluziilor expuse în Nota justificativă înregistrată sub nr. _____ /27.10.2021 sens în care s-a dispus de către achizitoare anularea procedurii de atribuire.
+
+A reținut Consiliul că B_______ B_____ B_______ de Urgență Sf. A______ A_____, în calitate de autoritate contractantă, a organizat o procedură proprie în vederea încheierii unui acord-cadru pe o perioadă de 12 luni pentru Servicii de pază și intervenție pentru obiectivele Spitalului B_____ B_______ de Urgență "Sf. A______ A_____" C________, sens în care a elaborat documentația de atribuire aferentă. Potrivit anunțului de publicitate ADV1231225, valoarea estimată a acordului-cadru este cuprinsă între 2634337,68 Ron și 2634460,72 Ron, iar criteriul de atribuire este prețul cel mai scăzut.
+
+Zip E_________ a depus contestație împotriva modului de determinare a valorii estimate și a cerințelor documentației de atribuire, soluționată prin decizia nr, 1999/C2/2080 din 08.09,2021, în sensul admiterii contestației și obligării unității spitalicești la remedierea documentației de atribuire și publicării măsurilor de remediere în SEAP.
+
+Împotriva deciziei Consiliului, a fost înregistrată pe rolul Curții de Apel C________, plângerea depusă de către B_______ B_____ B_______ de Urgență Sf. A______ A_____, soluționată în sensul respingerii acesteia.
+
+Ulterior punerii în aplicare a deciziei Consiliului nr. 1999/C2/2080 din 08.09.2021/ rămasă definitivă/ autoritatea contractantă a comunicat noul rezultat, fiind decisă anularea procedurii de atribuire.
+
+Nemulțumit fiind de acest rezultat, Zip E_________ a învestit Consiliul cu o nouă contestație, ce face obiectul prezentei cauze, consemnând și cauțiunea aferentă.
+
+În precedenta sa decizie, Consiliul a dictat o ________ remedieri, printre care refacerea calculului valorii estimate cu luarea în considerare a cerințelor documentației de atribuire, precum și a drepturilor și obligațiile ce decurg din prevederile Codului Muncii și a salariului minim brut garantat, suplimentarea localităților în care ofertanții trebuie să asigure intervenția cu echipaje mobile, completarea personalului cu șeful de obiectiv.
+
+Procedând la actualizarea valorii estimate, potrivit celor trasate de Consiliu, autoritatea contractantă a estimat valoarea de 3627115,67 lei, valoare superioară pragului stabilit la art. 7 alin. (1) lit. d) din Legea nr. 98/2016, aspect rezultat din înscrisul intitulat servicii de pază estimare 12 luni, aflat la dosarul cauzei.
+
+În justificarea măsurii de anulare, potrivit celor consemnate la nivelul deciziei nr. _____/28.10.2021 autoritatea contractantă a făcut trimitere la prevederile Procedurii Operaționale P71-21, Rev.0 privind achizițiile serviciilor sociale și a altor servicii specifice cuprinse în Anexa 2 la Legea nr. 98/2016, aplicabilă la nivelul unității spitalicești, potrivit cu care:
+
+Circumstanțele în care autoritatea contractantă are dreptul de a anula procedura de achiziție sunt limitativ prevăzute de Normă, astfel: instanța de judecată dispune modificarea/eliminarea oricăror specificații tehnice din caietul de sarcini ori din alie documente emise în legătură cu procedura de atribuire, iar autoritatea contractantă se află în imposibilitate de a adopta măsuri de remediere, fără ca acestea să afecteze principiile achizițiilor publice reglementate la ort. 2 alin. (2) din Legea nr. 98/2016.
+
+În cuprinsul aceleiași decizii sunt arătate următoarele:
+
+Practic, prin actualizarea valorii estimate, se depășește valoarea-prag dictată de dispozițiile art. 7 alin. (1) lit. d) din Legea nr. 98/2016.
+
+Problema de drept esențială dedusă judecății este dacă situația de față relatată de autoritate, ca justificare pentru decizia de anulare, și expusă mai sus, se încadrează sau nu în ipotezele prevăzute de legislația în materia achizițiilor publice.
+
+Relativ la situația factuală, prezintă relevanță, în principal, prevederile Legii nr. 98/2016 : art. 7 - (1) Autoritatea contractantă are obligația publicării unui anunț de participare și/sau de atribuire în Jurnalul Oficial al Uniunii Europene în cazul achizițiilor a căror valoare estimată, fără TVA, este egală sau mai mare decât următoarele praguri valorice;
+
+d) 3506625 lei, pentru contractele de achiziție publică/acordurile-cadru de servicii care au ca obiect servicii sociale și alte servicii specifice, prevăzute în anexa nr. 2.
+
+Art. 11.- (1 ) Autoritatea contractantă nu are dreptul de a utiliza metode de calcul al valorii estimate a achiziției cu scopul de a evita aplicarea procedurilor de atribuire prevăzute de prezenta lege.
+
+Art.69. - (1) Autoritatea contractantă atribuie contractele de achiziție publică/acordurile-cadru, în cazul în care valoarea estimată este mai mare sau egală cu pragurile valorice prevăzute la art. 7 alin. (1), prin aplicarea procedurilor de licitație deschisă sau licitație restrânsă.
+
+(6) Prin excepție de ia prevederile alin. (1), autoritatea contractantă atribuie contractele de achiziție publică/acordurile - cadru având ca obiect servicii sociale și alte servicii specifice în condițiile prevăzute la art. 111 și 112.
+
+- Art. 111.- (1) Procedura de atribuire prevăzută la art. 68 alin. (1) lit. h), aplicabilă în cazul serviciilor sociale și al altor servicii specifice prevăzute în anexa nr. 2. este o procedură proprie, autoritatea contractantă având obligația respectării principiilor prevăzute la art. 2 alin. (2).
+
+În aplicarea dispozițiilor alin. (1), în cazul achizițiilor a căror valoare estimată este egală sau mai mare decât pragul valoric prevăzut la art. 7 alin, (1) iit. d), autoritatea contractantă are următoarele obligații suplimentare:
+
+- de a-și face cunoscută intenția de a achiziționa respectivele servicii fie prin publicarea unui anunț de participare, fie prin intermediul unui anunț de intenție valabil în mod continuu;
+
+- de a publica un anunț de atribuire a contractului.
+
+Anunțurile prevăzute la alin. (2) se publică cu respectarea formularului standard stabilit de Comisia Europeană în temeiul dispozițiilor art. 51 din Directiva 2014/24/UE a Parlamentului European și a Consiliului din 26 februarie 2014 privind achizițiile publice și de abrogare a Directivei 2004/18/CE și conțin informațiile prevăzute în anexa V, respectiv în partea 11.1 sau J din respectiva directivă.
+
+Alternativ publicării unor anunțuri de atribuire individuale, autoritatea contractantă are dreptul de a grupa trimestrial anunțurile de atribuire prevăzute la alin. (2) lit. h), caz în care autoritatea contractantă are obligația de a transmite spre publicare anunțurile de atribuire astfel grupate în termen de 30 de zile de la încheierea fiecărei trimestru.
+
+Prin excepție de la prevederile alin. (1) și alin. (2) lit. a), în cazurile și condițiile prevăzute la art. 104, autoritatea contractantă are dreptul de a aplica procedura de negociere ară publicare prealabilă pentru achiziția de servicii sociale și alte servicii specifice, prevăzute în anexa nr. 2, a căror valoare estimată este egală sau mai mare decât pragul valoric prevăzut la art. 7 alin. (1) lit. d); obligația prevăzută la alin. (2) lit. b) rămâne aplicabilă.
+
+Criteriile de atribuire utilizate pentru atribuirea contractelor de achiziție publică/acordurilor-cadru având ca obiect servicii sociale și alte servicii specifice, prevăzute în anexa nr. 2, și a căror valoare estimată este egală sau mai mare decât pragul valoric prevăzut la art. 7 alin. (1) lit. d) sunt cei mai bun raport calitate-preț sau cel mai bun raport calitate-cost, prevăzute la art. 187 alin. (3) lit. c) și d) ținându-se seama de criteriile de calitate și de sustenabilitate ale serviciilor sociale.
+
+Art. 142 - Autoritatea contractantă arc obligația de a asigura transparența procedurii de atribuire a contractelor de achiziție publică/acordurilor-cadru prin publicarea, în conformitate cu dispozițiile prezentei legi, a anunțurilor de intenție, anunțurilor de participare și a anunțurilor de atribuire.
+
+Art. 212. - (1) Autoritatea contractantă are obligația de a anula procedura de atribuire a contractului de achiziție publică/acordului-cadru in următoarele cazuri:
+
+d) Consiliul N_______ de Soluționare a Contestațiilor sau instanța de judecată dispune modificarea/eliminarea unor specificații tehnice/cerințe din caietul de sarcini ori din alte documente emise în legătură cu procedura de atribuire astfel încât nu mai poate fi atins în mod corespunzător scopul achiziției, iar autoritatea contractantă se află în imposibilitatea de a adopta măsuri de remediere, fără ca acestea să afecteze principiile achizițiilor publice reglementate la art. 2 alin. (2).
+
+Așadar, din economia celor mai sus prezentate, rezultă că legiuitorul a stabilit în sarcina autorităților contractante anumite obligații în cazul achizițiilor a căror valoare estimată, fără TVA, este egală sau mai mare decât pragul valoric de 3506625 lei, pentru contractele de achiziție publică/acordurile-cadru de servicii care au ca obiect servicii sociale și alte servicii specifice, prevăzute în anexa nr. 2. Printre aceste obligații, se identifică cele privind publicarea unui anunț de participare și/sau de atribuire cu respectarea formularului standard stabilit de Comisia Europeană în temeiul dispozițiilor art. 51 din Directiva 2014/24/UE, stabilirea criteriilor de atribuire constând în cel mai bun raport calitate - preț sau cel mai bun raport calitate-cost.
+
+Cum, în speță, valoarea estimată de 3627115,67 lei, recalculată de autoritate, urmare a celor dispuse de Consiliu, a depășit pragul valoric de 3506,625 lei, unității spitalicești îi revine obligația conformării rigorilor aplicabile situației și evocate în cele ce preced. Procedura proprie organizată, pentru servicii cu valoare estimată mai mică decât pragul de la art. 7 alin. (1) lit. d), ce a implicat publicarea unui anunț de publicitate, nu mai poate continua în contextul nou apărut, fără încălcarea principiilor ce guvernează achizițiile publice, reglementate la art. 2 alin. (2) din Legea nr. 98/2016, în special pe cei al transparenței, care obligă autoritatea contractantă la asigurarea regulilor de publicitate, mai cu seamă că încălcarea regulilor de publicitate și transparență este sub sancțiunea amenzii contravenționale, sub imperiul art.224 din lega nr.98/2016 iar nerespectarea obligaților referitoare la publicarea unui anunț de participare, constituie motiv de nulitate a contractului, potrivit art. 58 alin. (2) lit. a) din Legea nr. 101/2016.
+
+Astfel, Consiliul a stabilit că, în mod corect, autoritatea contractantă a dat eficiență dispozițiilor din procedura operațională P71-21, privind anularea procedurii, dispoziții care își găsesc corespondentul în art. 212 alin, (l) lit. d) din lege, anterior citat.
+
+Norma art. 212 alin, (1) lit. d) din lege este incidență situației, contrar interpretării autoarei contestației, cum că exprimarea specificații tehnice/cerințe din caietul de sarcini sau din alte documente emise în legătură cu procedura de atribuire nu poate fi asimilată situației de fapt constând în modificarea valorii estimate.
+
+În ceea ce privește marja de profit de 10%, inclusă de autoritate în structura de tarif, asupra căreia contestatoarea dorește o reapreciere către un nivel corect și rezonabil, Consiliul a reținut că nu există vreo normă legală, și nici autoarea contestației nu invocă, care să impună autorităților contractante/ofertanților cote de profit sau intervale de cote de profit, cu caracter obligatoriu.
+
+Faptul că, în practica economică dintr-un anumit domeniu, este considerat ca fiind uzual un interval procentual al cotei de profit, este irelevant, fiecare autoritate fiind liberă să indice cota de profit pe care o consideră, la fel cum fiecare societate este liberă să își stabilească profitul pentru o anumită activitate desfășurată, aceste aspecte ținând de strategia managementului agentului economic respectiv, ceea ce nu poate fi cenzurat de organismul administrativ-jurisdicțional. Contractul de achiziție publică este un contract cu titlu oneros, potrivit definiției legale - art. 1172 C, Civ.: (1) Contractul prin care fiecare parte urmărește să își procure un avantaj în schimbul obligațiilor asumate este cu titlu oneros.
+
+Voința legiuitorului în acest domeniu impune ofertarea în scopul obținerii de profit, însă, nu impune o anumită cotă, vorbind de un profit rezonabil (Art. 3 alin. (1): p) contract pe termen lung - contractul de achiziție publică încheiat pe o durată de cel puțin 5 ani care cuprinde durata de execuție a lucrărilor ori a construcției, dacă acesta are o componentă care constă în execuție de lucrări ori a unei construcții, precum și durata de prestare a serviciilor, stabilite astfel încât contractantul să obțină un profit rezonabil).
+
+De subliniat este faptul că, prin decizia sa anterioară, Consiliul nu a impus autorității contractante, în recalcularea valorii estimate, o anumită marjă de profit, ci stabilirea unei valori estimate cu luarea în considerare a cerințelor documentației de atribuire, precum și a drepturilor și obligațiile ce decurg din prevederile Codului Muncii și a salariului minim brut garantat.
+
+În raport de cele de mai sus, Consiliul a constatat că solicitarea contestatoarei de a fi anulată decizia de anulare și continuată procedura proprie nu se bazează pe o argumentare care să determine achiesarea la aceasta.
+
+Pe de altă parte, autoarea contestației nu aduce niciun argument clar care să demonstreze prejudiciul ce i s-a produs prin dispunerea măsurii anulării procedurii, în condițiile în care nu a depus ofertă.
+
+Temerea contestatoarei privind inițierea unei noi proceduri în temeiul acelorași documente de achiziție, fără ca acestea să fie remediate, nu este justificată, la acest moment, mai cu seamă că, în situația, în care se consideră nemulțumită de noile cerințe impuse de organizatoarea achiziției, nimic nu o împiedică în declanșarea demersului în fața Consiliului sau instanței de judecată.
+
+Pe cale de consecință, Consiliul, luând în considerare argumentele expuse în cele ce preced și determinând că nu există motive pentru infirmarea deciziei autorității contractante constând în anularea procedurii, a respins, ca nefondată, contestația Zip E_________.
+
+Potrivit art. 29 din legea nr. 101/2016 „Deciziile Consiliului privind soluționarea contestației pot fi atacate de către autoritatea contractantă și/sau de către orice persoană vătămată de măsurile dispuse de Consiliu cu plângere la instanța de judecată competentă, atât pentru motive de nelegalitate, cât și de netemeinicie, în termen de 10 zile de la comunicare pentru părțile cauzei, respectiv de la data luării la cunoștință de către alte persoane vătămate", iar art. 30 alin. 2 din aceeași lege prevede că „ (2) În plângere, contestatorul nu poate invoca alte motive împotriva actelor autorității contractante decât cele cuprinse în contestația adresată Consiliului."
+
+Procedând la actualizarea valorii estimate, potrivit celor trasate de Consiliu, autoritatea contractantă a estimat valoarea de 3627115,67 lei, valoare superioară pragului stabilit la art. 7 alin. (1) lit. d) din Legea nr. 98/2016.
+
+Pentru a ajunge la această valoare, autoritatea contractantă a refăcut calculul valorii estimate maximale a achiziției, a avut în vedere toate cheltuielile necesare ducerii la îndeplinire a contractului de achiziție publică, printre care și cheltuielile indirecte și cota de profit.
+
+Reține Curtea că prin decizia nr. 1999/C2/2080 din 08.09.2021, menținută prin decizia civilă nr. 196/CA/08.10.2021 pronunțată de Curtea de Apel C________ în dosarul nr. ___________ s-a stabilit că, raportat la salariul minim pe economie și numărul de posturi necesar potrivit caietului de sarcini, valoarea estimată maximală stabilită de autoritatea contractantă nu acoperă toate cerințele menționate în mod explicit în cadrul documentației de atribuire. Astfel autoritatea contractantă a fost obligată să aibă în vedere cheltuielile rezultate din prevederile Codului Muncii , orele suplimentare, sporul de noapte, sporul de sărbători legale, sporul de repaus săptămânal, etc.; cheltuielile directe, dotările (costum, ecuson, tonfă de atac sau apărare, lanternă, pulverizator, mijloc de comunicare, stații portabile pentru emisie-recepție, etc.), costurile de medicina muncii, proctecția și securitatea în muncă, costurile de pregătire profesională/instruire a personalului; cheltuielile indirecte; profit, etc.
+
+Nu se pot reține susținerile reclamantei, în sensul că autoritatea contractantă era ținută a reface calculul valorii maxime estimate a achiziției numai prin raportare la cele 3 criterii expuse în considerentele Deciziei, respectiv: cerințele documentației de atribuire; drepturile și obligațiile statuate de Codul muncii și salariul minim brut garantat în plată la nivel național aplicabil întrucât s-a stabilit în mod neechivoc împrejurarea că în cuprinsul expertizei ce a fost avută în vedere a pronunțarea deciziei nr. 1999/C2/2080 din 08.09.2021 nu au fost menționate cheltuielile indirecte și profitul ci numai cheltuielile cu forța de muncă, respectiv drepturile reglementate de codul muncii .
+
+De altfel, chiar reclamanta, în plângerea anterioară, a menționat că la valoarea maximă de 2634460,72 lei nu au fost avute în vedere cheltuielile indirect și profitul, valoarea estimată având cota de 0 % profit și 0% cheltuieli indirecte.
+
+Pentru stabilirea valorii estimate sunt aplicabile dispozițiile art. 9 alin. 1 din legea nr. 98/2016 „(1) Autoritatea contractantă calculează valoarea estimată a unei achiziții având în vedere valoarea totală de plată, fără TVA, estimată de autoritatea contractantă, luând în considerare orice eventuale forme de opțiuni și prelungiri ale contractului menționate în mod explicit în documentele achiziției".
+
+Este evident că pentru calcularea valorii estimate a achiziției trebuie avute în vedere toate cheltuielile, inclusiv cele indirecte și profitul.
+
+Stabilirea procentului de profit este o chestiune de oportunitate a autorității contractante și nu de legalitate, iar procentul de 10% nu este exagerat, astfel încât nu se poate concluziona în sensul că depășirea valorii maxime s-a datorat numai cotei de profit.
+
+Nu se poate reține că prin stabilirea unei valori estimate de 3627115,67 lei autoritatea contractantă se sustrage de la obligația de aducere la îndeplinire a celorlalte măsuri instituite în sarcina sa prin Decizia CNSC nr.1999/C2/2080 din 08.09.2021 în sensul de a modifica documentația de atribuire, în concordanță cu aceasta.
+
+Având în vedere că valoarea estimată a contractului, de 3376500 lei, este superioară pragului stabilit la art. 7 alin. (1) lit. d) din Legea nr. 98/2016, în mod corect a apreciat CNSC că decizia de anulare a procedurii este legală.
+
+În acest sens, C____ reține dispozițiile art. 212 alin. 1 lit. d „(1) Autoritatea contractantă are obligația de a anula procedura de atribuire a contractului de achiziție publică/acordului-cadru în următoarele cazuri: d) Consiliul N_______ de Soluționare a Contestațiilor sau instanța de judecată dispune modificarea/eliminarea unor specificații tehnice/cerințe din caietul de sarcini ori din alte documente emise în legătură cu procedura de atribuire astfel încât nu mai poate fi atins în mod corespunzător scopul achiziției, iar autoritatea contractantă se află în imposibilitatea de a adopta măsuri de remediere, fără ca acestea să afecteze principiile achizițiilor publice reglementate la art. 2 alin. (2);".
+
+Este evident că în condițiile actualizării valorii estimate a achiziției devin aplicabile dispozițiile art. 7 alin. 1 lit. d și art. 212 alin. 1 lit. d din Legea nr. 98/2016, neputându-se aprecia că au fost încălcate prevederile art. 28 alin. 1 din Legea nr. 101/2016.
+
+Față de considerentele enunțate, apreciind asupra temeiniciei și legalității deciziei contestate, Curtea va respinge ca nefondată plângerea.
+
+PENTRU ACESTE MOTIVE,ÎN NUMELE LEGII
+
+HOTĂRĂȘTE
+
+Respinge ca nefondată plângerea împotriva deciziei CNS nr.2626/C2/2874 din data de 24.11.2021, formulată de petenta societatea ZIP E_________, cu sediul în C________, _______________________, jud. C________, înregistrată în Registrul Comerțului sub nr.j____________, CUI _______ și cu sediul procesual ales pentru comunicarea actelor de procedură la cabinet avocat S______ D_____ în C________, ____________________________.5, ____________________, în contradictoriu cu pârâtul B_______ B_____ B_______ de Urgență „ Sfântul A______ A_____" C________, CUI _______ cu sediul în C________, _________________, jud. C________.
+
+Definitivă.
+
+Pronunțată azi, 22.12.2021 prin punerea soluției la dispoziția părților prin grefa instanței.
+
+Ptr. Președinte, Judecător, Judecător,
+
+C_____ D___ A________ L____ N_____ O______-I______ L______
+
+aflată în concediu de odihnă
+
+semnează conform
+
+art. 426 alin.4 C.pr.civ .,
+
+Vicepreședinte instanță,
+
+C______ R______
+
+Ptr. Grefier,
+
+C_______ M_____
+
+aflată în concediu de odihnă
+
+semnează conform art. 426
+
+alin.4 C.pr.civ .,
+
+Grefier șef secție,
+
+L______ S______
+
+Red.hot.jud.A.L.N_____/27.12.2021
+
+Gref.C.M_____
+
+23 Decembrie 2021
+
+R O M Â N I A
+
+CURTEA DE APEL C________
+
+SECȚIA A-II-A CIVILĂ,
+
+DE C_________ ADMINISTRATIV ȘI FISCAL
+
+DOSAR NR.___________
+
+C Ă T R E
+
+AUTORITATEA NAȚIONALĂ PENTRU
+
+REGLEMENTAREA ȘI MONITORIZAREA
+
+ACHIZIȚIILOR PUBLICE –
+
+București, sect.1, ______________________.38, ______________________>
+
+Vă comunicăm alăturat copia Deciziei civile nr.282/CA/22.12.2021 pronunțată de Curtea de Apel C________ în dosar nr.___________ plângerea împotriva deciziei CNS nr.2626/C2/2874 din data de 24.11.2021, formulată de petenta societatea ZIP E_________, cu sediul în C________, _______________________, jud. C________, înregistrată în Registrul Comerțului sub nr.j____________, CUI _______ și cu sediul procesual ales pentru comunicarea actelor de procedură la cabinet avocat S______ D_____ în C________, ____________________________.5, ____________________, în contradictoriu cu pârâtul B_______ B_____ B_______ de Urgență „ Sfântul A______ A_____" C________, CUI _______ cu sediul în C________, _________________, jud. C________.
+
+Vă mulțumim pentru colaborare.
+
+GREFIER,
+
+C_______ M_____
+
+Acest document este preluat și procesat de o aplicație realizată gratuit de Wolters Kluwer Romania pentru Fundatia RoLII.
+
+Conținutul său poate fi preluat și utilizat cu citarea sursei: www.rolii.ro
+

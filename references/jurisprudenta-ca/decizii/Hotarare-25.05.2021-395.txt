@@ -1,0 +1,246 @@
+Decizie nr. 395/2021 din 25-mai-2021, Curtea de Apel Bacau, litigiu privind achizitiile publice (Contencios administrativ si fiscal)
+
+Decizie
+
+din 25 Mai 2021 
+
+395/2021
+
+Text speță
+
+Societate comercială vs Persoană fizică
+
+Cod ECLI ECLI:RO:CABAC:2021:011.______
+
+Operator de date cu caracter personal nr. 3666.
+
+Dosar nr. ___________
+
+R O M Â N I A
+
+CURTEA DE APEL BACĂU
+
+SECȚIA A II-A CIVILĂ, DE C_________ ADMINISTRATIV ȘI FISCAL
+
+Decizia nr. 395/2021
+
+Ședința publică de la 25 Mai 2021
+
+Completul constituit din:
+
+PREȘEDINTE: C______ Ș_____ - judecător
+
+Judecător: M____ V______ C______
+
+Judecător: L_______ A______
+
+Grefier: L_____-D______ D______
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+Pe rol a venit spre pronunțare plângerea formulată de petenta [OPERATOR ECONOMIC] București, împotriva Deciziei nr. 696/C9/519 din 6 aprilie 2021 pronunțată de Consiliul N_______ de Soluționare a Contestațiilor, în contradictoriu cu intimata-autoritate contractantă Municipiul R____, având ca obiect litigiu privind achizițiile publice.
+
+Dezbaterile asupra fondului cauzei au avut loc în ședința publică din 19 mai 2021, prezența și susținerile părților fiind consemnate în încheierea din acea dată, ce face parte integrantă din prezenta și în care s-a dispus amânarea pronunțării pentru 25 mai 2021, când:
+
+C U R T E A
+
+- deliberând -
+
+Asupra plângerii de față constată următoarele:
+
+Prin decizia nr. 696/C9/519 din 6.04.2019 Consiliul N_______ de Soluționare a Contestațiilor a respins ca nefondată contestația formulată de [OPERATOR ECONOMIC] București în contradictoriu cu autoritatea contractantă Municipiul R____.
+
+În motivarea deciziei Consiliul a reținut următoarele:
+
+Municipiul R____, în calitate de autoritate contractantă, a inițiat procedura simplificată, organizată pentru atribuirea contractului având ca obiect Proiectare și execuție lucrări pentru investiția „Creșterea eficienței energetice și extinderea sistemului de iluminat public dinMunicipiul R____", cod CPV ________-9-Instalare de echipamente de iluminare stradală(Rev.2), prin publicarea în SEAP a anunțului de participare simplificat nr. SCN1069327/04.06.2020, data limită de depunere a ofertelor fiind stabilită prin anunț pentru 30.06.2020, ora1500. Valoarea estimată a contractului este 14.914.815,15 lei, fără TVA. Vizavi de motivele de neconformitate a ofertei, Consiliul a constatat că un prim aspect privește depunerea unui număr de 4 mostre în loc de 8.
+
+Astfel, prin contestație, s-a explicat că, spre exemplu, mostra 1 - aparat Izylum 2/40led/400 mA a fost prezentată pentru aparate de tip 1 și 2, fiind diferit doar curentul din driver care se poate programa la orice valoare în intervalul 200 mA-1050 mA.
+
+De altfel, contestatoarea a depus în cadrul contestației copia specificațiilor mostrei prezentate în care apare indicat și intervalul 200mA-1050 mA la care se face referire.
+
+De asemenea, s-a explicat că mostra 2 este pentru tipul 3, mostra 3 pentru tipul 4, 5 și 6 și mostra 4 pentru tipul 8.
+
+Se constată că, astfel cum a susținut autoritatea contractantă, aufost prezentate 4 mostre pentru - 4 produse. Într-adevăr, pe baza mostrelor depuse, având în vedere că produsele puteau fi programate pentru orice valoare a curentului, seputeau verifica specificațiile tehnice ale produselor, însă nu și funcționalitatea lor la puterea cerută pentru fiecare dintre acestea.
+
+Cu toate acestea, față de cele prezentate în contestație, relevanță prezintă faptul că, prin caietul de sarcini s-au precizat următoarele: Atenție: pe durata evaluării ofertei comisia de evaluare poate solicita oricăruia dintre ofertanți (respectând principiul transparentei si tratamentului egal), în cazul în care fișele, pozele sau descrierile prezentate în ofertă nu sunt edificatoare, pentru o evaluare corectă a ofertei, să prezinte comisiei de evaluare eșantioane constând în câte, un aparat de iluminat pentru fiecare tip solicitat, demonstrându-se prin prezentarea funcționarii acestora îndeplinirea tuturor cerințelor tehnice și funcționalităților solicitate prin prezentul caiet de sarcini. Mostrele se vor depune la sediul autorității contractante în termen de 3 zile de la solicitarea scrisă a comisiei. Mostrele depuse pot fi folosite la o probă practică, organizată de autoritatea contractantă, prin care se va demonstra funcționarea aparatelor de iluminat și a funcțiilor sistemului de telegestiune.
+
+Mențiunea că mostrele pot fi folosite la o probă practică putea duce la concluzia contestatoarei că detaliile suplimentare pentru justificarea depunerii unui singur tip de aparat pentru mai multe tipuri puteau fi aduse și demonstrate în cadrul probei practice. O decizie de respingere a ofertei pentru motivul depunerii unui număr redus de mostre nu putea fi luată anterior solicitării de clarificări, vizavi de lipsa mostrelor pentru toate tipurile de aparate. O astfel de clarificare ar fi fost justificată, cu atât mai mult cu cât, din modul de elaborare a ofertei, rezultă că petenta a înțeles să oferteze toate tipurile de aparate de iluminat.
+
+Măsura autorității contractante este disproporționată, având în vedere rolul mostrelor de demonstrare a specificațiilor tehnice, astfel că, în cauză se impunea o clarificare suplimentară și invitarea ofertantei la desfășurarea unei probe practice.
+
+Referitor la cel de-al doilea motiv de respingere a ofertei ca neconformă, respectiv nu este prezentat modulul de gestiune, în punctul său de vedere, autoritatea contractantă a explicat că motivul nu privea neprezentarea modulului, ci imposibilitatea verificării funcționalității lui. Or, vizavi de acest aspect rămân valabile cele de mai sus, în sensul că, în cadrul unei probe practice, putea fi verificat acest aspect. Eroarea autorității contractante vizavi de comunicarea motivului concret de respingere devine lipsită de relevanță, raportat la cele reținute.
+
+În ce privește modalitatea de îndeplinire a cerinței ca, la deschiderea compartimentului de conexiuni, să se întrerupă alimentarea cu energie, operatorul economic a explicat că produsele corespund cerinței, în sensul că aparatele sunt prevăzute cu disconectorul de tip Wieland cu 3 poli și 5 poli.
+
+Consiliul are în vedere că cerința din fișa tehnică nr. 1 existentă în documentația de atribuire privea necesitatea ca aparatul de iluminat să fie prevăzut cu clema de deconectare de la alimentarea cu energia electrică în momentul deschiderii compartimentului pentru ase asigura protecția în momentul mentenanței.
+
+Analizând criticile din contestație și explicațiile aduse de autoritatea contractantă în punctul său de vedere, se constată că trebuie lămurit modul de interpretarea a cerinței, contestatoarea apreciind că putea prezenta și un alt sistem pentru întreruperea manuală a alimentării cu energie, în timp ce achizitoarea consideră că cerința a fost foarte clară, respectiv aparatul trebuia să prezinte o clemă de deconectare.
+
+Față de modul în care a fost redactată cerința și de explicațiile și pozele produselor prezentate în punctul de vedere și contestație, se poate determina concluzia că specificația tehnică presupunea existența unei cleme pentru deconectarea alimentării cu energie în momentul deschiderii compartimentului aparataj, nu ulterior. Însă, ca și în cazurile mai sus cercetate, lămurirea îndeplinirii acestei cerințe se putea realiza în cadrul unei probe practice.
+
+Referitor la neîndeplinirea cerinței ca, „la toate corpurile de iluminat să existe separare între cele două incinte", societatea contestatoare a susținut că o astfel de cerință nu există în fișa tehnică 2, iar autoritatea contractantă a invocat faptul că ofertanta nu a ținut cont de răspunsul consolidat nr. _____/23.06.2020. prin care s-a solicitat ca toate corpurile de iluminat să îndeplinească cerințele FT1.
+
+În răspunsul consolidat invocat, la întrebarea nr, 20, urmare unei solicitări de clarificări, achizitoarea a răspuns: Având în vedere că toate aparatele sunt destinate iluminatului rutier și al trotuarelor, o variantă ar fi ca toate aparatele să fie în conformitate cu fișa tehnică FT1: A) toate aparatele de iluminat vor fi destinate iluminatului public stradal - rutier și pietonal (...).
+
+Se observă că răspunsul autorității contractante nu a fost în sensul impunerii cerinței de a fi respectată fișa tehnică FT1 pentru toate echipamentele, exprimarea fiind o alternativă acordată operatorilor economici (o variantă ar fi). Pentru lipsa de claritate a cerinței, nu se poate considera că era obligatorie specificația „la toate corpurile de iluminat să existe separare între cele două incinte", pentru echipamentele din fișa tehnică FT2.
+
+În ce privește motivul de respingere a ofertei ca inacceptabilă, Consiliul, analizând răspunsul la clarificări nr. 1539/18.12.2020, constată că, astfel cum a reținut și autoritatea contractantă, acesta cuprinde referiri la faptul că fișa tehnică a producătorului prezintă gama de produse și nu întreaga posibilitate de configurare. Specificațiile extrase de către autoritatea contractantă apar în fișa de catalog unde puterea este informativă și poate suferi modificări ca urmare a procesului continuu de îmbunătățire a tehnologiei și performanțelor acestora conform mențiunii din subsolul acestuia: „Specificațiile au caracter informativ și pot fi modificate fără notificare prealabilă..."
+
+Un astfel de răspuns nu putea fi considerat concludent, ofertanta nerăspunzând concret la solicitările exprese și exacte ale autorității contractante, ci prezentând informații pentru specificații tehnice ale unor produse prin analogie cu alte produse ale aceluiași producător.
+
+Contrar susținerilor societății contestatoare, specificațiile tehnice ale produselor nu puteau fi demonstrate prin analogii și invocat motivul că au caracter informativ și pot fi modificate prin notificare prealabilă.
+
+Fiind o procedură de achiziție publică, oferta depusă trebuie să fie fermă, inclusiv sub aspectul propunerii tehnice (anexă la contract), neputând fi admise explicații de tipul celor aduse de contestatoare.
+
+Vizavi de aspectele aduse în discuție prin notele scrise, legate de faptul că, fiind o procedură care urmărește atribuirea unui contract de proiectare și execuție, nu trebuia impusă o anumită soluție tehnică, stabilită de autoritatea contractantă, se reține că, prin caietul de sarcini,au fost prevăzute între altele:
+
+1.6.3 - Cerințe minimale pentru componentele sistemului Cerințele tehnice exprimate în cadrul prezentului capitol reprezintă cerințe minime referitoare la caracteristicile/capabilitătile funcționale ale soluțiilor/echipamentelor ofertate de către participanții la procedura de achiziție publica. Toate cerințele descrise în prezentul Caiet de sarcini sunt obligatorii - ofertanții trebuie să prezinte în detaliu modul în care soluția propusă îndeplinește toate cerințele din prezentul Caiet de sarcini. Ofertanții trebuie să prezinte, în cadrul propunerii tehnice, un răspuns detaliat la cerințele referitoare la caracteristicile solicitate.
+
+Echipamentele vor respecta caracteristicile minime solicitate prin Studiul de fezabilitate, sintetizate în fișele atașate caietului de sarcini. Documentația solicitată pentru atestarea conformității echipamentelor cu cerințele minimale va fi anexată propunerii tehnice în copie conformă cu originalul. Pentru demonstrarea conformității cu directiva RoHS, ofertanții vor anexa ofertei copie, conformă cu originalul, a certificatului sau a declarației de conformitate.
+
+Pentru fiecare tip de echipament, ofertanții au obligația de a completa fișele tehnice anexate prezentului Caiet de sarcini, în rubrica destinată conformității cudocumentația de atribuire. În formulare se va face o descriere completă a echipamentelor care urmează a fi furnizate, nu se acceptă expresii precum „Conform", „Identic", „Da". Ofertele ale căror fișe tehnice nu conțin descrierea completă sau nu răspund cerințelor minime ale echipamentelor solicitate, vor fi declarate neconforme. Fișele tehnice vor fi însoțite de documentele solicitate în cadrul acestora.
+
+În oferta depusă, fiecare ofertant are obligația ca pe lângă cerințele și descrierile solicitate, să prezinte Fișe de catalog ale echipamentelor. De asemenea, pentru aparatele de iluminat, se vor depune licențele de utilizare a mărcii de conformitate, emise de organisme acreditate.
+
+Notă: Nerespectarea condițiilor tehnice impuse, sau utilizarea unor aparate de iluminat care nu se încadrează în specificațiile tehnice, vor duce la invalidarea calculelor luminotehnice și la nerespectarea nivelului de iluminare impus, respectiv la declararea ofertelor ca fiind neconforme.
+
+Așadar, cerința autorității contractante de a fi respectate întocmai specificațiile din fișele tehnice anexate caietului de sarcini era foarte clară, interpretarea contestatoarei neputând fi admisă. Societatea contestatoarea nu a criticat documentația de atribuire, în sensul de a o aprecia nelegală vizavi de nerespectarea întocmai a unor specificații tehnice, deși contractul presupune proiectare și execuție.
+
+Referitor la invocarea de către contestatoare a deciziei Curții de Apel A___ I____, Secția C_________ administrativ și fiscal, nr. 143/2021 (dosar nr. __________), prin aceasta, a fost respinsă ca nefondată plângerea formulată împotriva deciziei Consiliului nr.4/C7/2698 din 04.01.2021, în care s-a concluzionat, în referire la dimensiunile stâlpilor, că argumentele care au stat la baza modificării cerinței referitoare la înălțimea stâlpilor de beton, de la 5 m la 10 m, a avut la bază motive pertinente și corelarea acestei specificații tehnice cu informațiile deja existente în Certificatul de Urbanism nr. 27/06.03,2020, privind lucrările Sistemului de iluminat public, rețeaua electrică de iluminat pentru străzile 21 Decembrie 1989, M____ Viteazul și Râul M__, în DALI-Raport de audit energetic și luminotehnic.pdf cu cele dindocumentația de atribuire, motiv pentru care Consiliul nu poate lua în considerareargumentele contestatorului conform cărora ar fi vorba despre o modificare substanțială a conținutului documentației de atribuire ci, mai degrabă, o corelare a informațiilor deja existente în documentele puse la dispoziție de către achizitoare operatorilor economici interesați.
+
+Se poate observa că decizia invocată privește o neconcordanță existentă la nivelul documentației de atribuire, apreciată a fi nesubstanțială, neavând vreo similitudine cu modul de interpretare a cerinței din documentația pentru procedura în cauză, referitoare la obligativitatea respectării specificațiilor din fișele tehnice puse la dispoziție anexat caietului de sarcini.
+
+Întrucât în mod corect a fost reținut ultimul motiv de respingere a ofertei, o reevaluare nu se mai impune, caracterul inacceptabil al acesteia neputând fi înlăturat.
+
+Împotriva deciziei a formulat plângere petenta Flash Lighting Services, criticile formulate vizând următoarele:
+
+1. Contrar celor reținute de CNSC. oferta petentei este conformă.
+
+Astfel, mostrele prezentate au acoperit întreagă gamă de aparate de iluminat propuse, fiind suficiente pentru verificarea îndeplinirii tuturor cerințelor tehnice și a funcționalităților solicitate prin caietul de sarcini. Sensul prezentării de mostre/eșantioane, așa cum este descris și în cerință, este de a demonstra îndeplinirea tuturor cerințelor tehnice și funcționalităților solicitate. Prin prezentarea mostrelor menționate mai sus autoritatea contractantă putea identifica toate cerințele tehnice și funcționalitățile solicitate.
+
+Diferențele între aparatele de iluminat descrise în fișa tehnică nr. 1 fiind doar puterea instalată și implicit fluxul luminos emis, autoritatea contractantă trebuia să realizeze măsurători energetice sau luminotehnice ce ar fi putut-atesta neconformitatea mostrelor. Nu au fost prezentate astfel de documente.
+
+Autoritatea contractantă avea posibilitatea, în cazul în care era interesată de existența mai multor oferte competitive conforme, de a solicita clarificări și suport dinpartea ofertantului în vederea probei practice.
+
+Deși autoritatea contractantă a susținut faptul că nu a fost prezentat modulul de telegestiune, în cuprinsul Procesului verbal de predare a mostrelor nr. 1040/8.01.2021 este făcută mențiunea cu privire la predarea a 3 modele de telegestiune.
+
+La toate corpurile de iluminat prezentate, la deschiderea compartimentului de conexiuni se întrerupe alimentarea cu energie, însă dispozitivul de întrerupere presupune acțiunea umană, iar în documentația de atribuire nu se precizează că întreruperea trebuiesă fie automată.
+
+Autoritatea contractantă a susținut că în conformitate cu fișele tehnice anexate la documentația de atribuire, era obligatoriu ca la toate corpurile de iluminat, la deschidereacompartimentului de conexiuni să se întrerupă alimentarea cu energie. La mostreleprezentate, la deschiderea compartimentului de conexiuni, nu se întrerupe alimentarea cu energie. Conform cerințelor din fișa tehnică 2, din documentația de atribuire, nu exista această cerință pentru acest tip de aparat. Aceste lămuriri au fost prezentate foarte clar în răspunsul nr. 14 la solicitarea de clarificări nr. 1539/18.12.2020.
+
+Procedura din Caietul de Sarcini prevedea o probă practică cu invitarea ofertanților, care însă nu s-a realizat deși ofertanții aveau obligația să asigure personalul specializat pentru probe. Or, în condițiile în care autoritatea contractantă însăși și-a încălcat obligația sa principală referitoare la modul de evaluare a ofertelor tehnice, autoritatea contractantă însăși nu poate pretinde o înlăturare conformă documentației și legală.
+
+II.B. Oferta este acceptabilă.
+
+În cadrul ofertei au fost prezentate toate informațiile relevante pentru a demonstra îndeplinirea cerințelor minimale pentru componentele sistemului solicitate în documentația de atribuire.
+
+Răspunsurile solicitărilor de clarificări au fost concludente, indicându-se în modconcret paginile din propunerea tehnică pentru a clarifica în mod punctual solicitările autorității contractante.
+
+Pentru edificare au fost prezentate extrase din clarificările nr. 1539/18.12.2020 cu detalii punctuale la solicitarea de clarificări nr. _____ din 16.12.2020 pentru întrebările prezentate în cadrul comunicării de respingere a ofertei nr. _____ din 04.03.2021. Soluția CNSC este cu atât mai evident eronată, cu cât însăși autoritatea contractantă și-a recunoscut propria culpă în ceea ce privește evaluarea eronată a ofertelor depuse de către petentă.
+
+În cuprinsul Punctului de vedere emis de către autoritatea contractantă, aceasta își recunoaște propria culpă în evaluarea eronată a ofertei depuse de către petentă în cadrul procedurii de achiziție publică având ca obiect „Proiectare si execuție lucrări pentru investiția „Creșterea eficienței energetice și extinderea sistemului de iluminat public din Municipiul R____", publicat cu anunțul de participare simplificat publicat în SICAP sub nr.SCN1069327 din 04.06.2020: „Este adevărat că la redactarea procesului verbalde evaluare și a raportului procedurii exista o exprimare eronată din care seînțelege faptul că ofertantul nu a prezentat modulul de telegestiune, în realitatemodulul de telegestiune nu a putut fi verificat ca și funcționalități în lipsatuturor mostrelor corpurilor de iluminat solicitate".
+
+Contractul de achiziție publică de lucrări privind realizarea obiectivului de investiții este de proiectare și de execuție, astfel încât SE PERMITE DIVERSIFICAREA CU CONDIȚIA CA REZULTATUL TEHNIC SĂ FIE CEL STABILIT DE AUTORITATE, însă autoritatea contractantă în cuprinsul punctului de vedere a menționat, în mod abuziv, că nu sunt acceptate niciun fel de alte soluții tehnice decât cele indicate în mod restrictiv, chiar dacă rezultatul ar fi similar sau mai benefic din punct de vedere tehnic.
+
+Obiectul contractului îl reprezintă proiectarea și execuția lucrărilor la obiectivul de investiții. Conform Contractului-Cadru, executantul se obligă să proiecteze, să asigure asistență tehnică, să execute, să testeze, să finalizeze lucrările și să remedieze orice defecte rezultate în urma executării contractului. Înlăturarea unei oferte tehnice care conține elemente de dificultate ridicată din punct de vedere tehnic, indiferent de faptul că soluția tehnică prezentată de petentă îndeplinește cerința tehnică, constituie o discriminare și un tratament inegal față de alte oferte, care chiar dacă sunt concepute diferit, în final sunt similare ofertei prezentate atât timp cât aceasta îndeplinește cerința tehnică finală.
+
+În susținerea contestației a fost invocată și încălcarea principiilor nediscriminării, al tratamentului egal, al transparenței și al proporționalității.
+
+Astfel, evaluarea ofertelor de către comisie cu încălcarea atât a legii (art. 126 alin. 3 din Norme) cât și a procedurii asumate (lipsa probei practice), denota atât o lipsă de transparență din partea autorității contractante, dar chiar și o dovadă de rea credință în asumarea înlăturării sau acceptării unei oferte fără baze legale sau tehnice ci doar în baza unei aprecieri subiective a membrilor comisiei.
+
+În același sens, impunerea fără justificare tehnică a unei anumite cerințe tehnice care nu se justifică din punct de vedere al performanței sau din alte necesități de ordin tehnic reprezintă o lipsă de transparență.
+
+Curtea, analizând plângerea, constată că este nefondată pentru cele ce vor fi arătate în continuare.
+
+Cu titlu prealabil, instanța constată că în considerentele deciziei C.N.S.C., au fost reținute ca întemeiate criticile contestatoarei referitoare la respingerea ca neconformă a ofertei sale, Consiliul respingând contestația doar din perspectiva inacceptabilității ofertei.
+
+Astfel, în ceea ce privește motivele de neconformitate privind nedepunerea numărului corect de mostre, neprezentarea modului de telegestiune și deconectării alimentării cu energie în momentul deschiderii compartimentului aparataj, Consiliul a reținut că măsura autorității este disproporționată și că lămurirea îndeplinirii cerințelor se putea realiza în cadrul probei practice prevăzute de documentația de atribuire. Totodată au fost primite și criticile privind neclaritatea documentației în ceea ce privește cerința referitoare la necesitatea existenței separării între incinte, Consiliul considerând că nu se poate aprecia ca obligatorie această cerință.
+
+Totuși, în urma respingerii criticilor privind respingerea ca inacceptabilă a ofertei, C.N.S.C. a concluzionat că nu se impune o reevaluare a ofertei, „caracterul inacceptabil al acesteia neputând fi înlăturat".
+
+Din această perspectivă Curtea se va limita numai la analiza motivelor plângerii referitoare la inacceptabilitatea ofertei, contestatoarea nejustificând un interes în reluarea analizei criticilor privind neconformitatea ofertei.
+
+Clarificările solicitate de autoritatea contractantă care au determinat respingerea ca inacceptabilă a ofertei contestatoarei sunt următoarele:
+
+1. „Vă rugăm să clarificați următoarea neconcordanță: în fișa tehnică nr. 2 puterea aparatului de iluminat este de 37 W iar în fișa tehnică a producătorului este de 40 W".
+
+2. „Vă rugăm să clarificați neconcordanța dintre valoarea eficienței luminoase declarate în Fișa tehnică nr. 1 și cele din fișa tehnică a producătorului. De asemenea vă rugăm să clarificați lipsa aparatelor Tip 4 „IZYLUM 3 80L 400mA 5303 92W _____ Im 155lm/W", Tip 5 „IZYLUM 3 80L 500 mA 5303 115W _____ lm 150lm/W", Tip 6 „IZYLUM 3 80L 600mA 5303 MOW _____ lm 142lm/W din fișa tehnică a producătorului".
+
+3. „Vă rugăm să clarificați neconcordanța dintre valoarea eficienței luminoase declarate în Fișa tehnică nr. 2 (158 lm/W), valoarea din fișa tehnică a producătorului (150 lm/W) și valori care rezultă din fișa tehnică a producătorului (145 lm/W-147,50 lm/W)".
+
+4. „Vă rugăm să clarificați următoarele neconcordanțe privind fluxul luminos al aparatelor de iluminat ofertate:
+
+Tip 1 „IZYLUM 2 40L 300mA WW___________W 5309 lm 143lm/W": 5291 lm în fișa tehnică nr. 1, 4800 lm - 5500 lm în fișa tehnică a producătorului.
+
+Tip 2 „IZYLUM 2 40L 400mA WW___________W 6830 lm 139 lm/W": 6811 lm în fișa tehnică nr. 1, 5900 lm - 7100 lm în fișa tehnică a producătorului.
+
+Tip 3 „IZYLUM 3 50L 500 mA 5303 76W _____ lm 137 lm/W": _____ lm în fișa tehnică nr. 1, 9100 lm - _____ lm în fișa tehnică a producătorului.
+
+Tip 4 „IZYLUM 3 80L 400 mA 5303 92W _____ lm 155lm/W": _____ lm în fișa tehnică nr. 1, neidentificat în fișa tehnică a producătorului.
+
+Tip 5 „IZYLUM 3 80L 500mA 5303 115W _____ lm 150 lm/W": _____ lm în fișa tehnică nr. 1, neidentificat în fișa tehnică a producătorului.
+
+Tip 6 „IZYLUM 3 80L 600mA 5303 140W _____ lm 142lm/W: _____ lm în fișa tehnică nr. 1, neidentificat în fișa tehnică a producătorului.
+
+Tip 7 „TWIXX 2 27L WW730 250mA 6525 37W, 5841 lm 158 lm/W": 5846 lm în fișa tehnică nr. 1, 5800 lm - 5900 lm în fișa tehnică a producătorului.
+
+Tip 8 „IZYLUM 3 80L @500 mA WW730": _____ lm în fișa tehnică nr. 3, neidentificat în fișa tehnică a producătorului.
+
+De asemenea, vă rugăm să clarificați de ce o mare parte din aparatele de iluminat ofertate nu se regăsesc în fișa tehnică a producătorului".
+
+Așa cum a reținut și Consiliul, toate răspunsurile la solicitările de clarificări anterior menționate au avut următoarea formă:
+
+Precizăm că fișa tehnică a producătorului prezintă gama de produse și nu întreaga posibilitate de configurare.
+
+Specificațiile extrase de către autoritatea contractantă apar în fișa de catalog ... unde puterea este informativă și poate suferi modificări ca urmare a procesuluicontinuu de îmbunătățire a tehnologiei și performanțelor acestora conform mențiuniidin subsolul acestuia: "Specificațiile au caracter informativ și pot fi modificatefără notificare prealabilă".
+
+După cum se poate observa din solicitarea de clarificări, autoritatea contractantă a urmărit lămurirea neconcordanțelor existente, în ceea ce privește valoarea eficienței luminoase, între datele completate în fișa tehnică nr. 1 și cele rezultate din fișa tehnică a producătorului, precum și indicarea unora dintre ele, neidentificate în fișa producătorului.
+
+Deși susține că prin răspunsul la clarificări a oferit informații concrete cu privire la pagina din ofertă la care sunt precizate informațiile solicitate, în realitate acestea au fost formulate imprecis, fără specificarea poziției exacte din tabelele în care se regăseau caracteristice aparatelor de iluminat.
+
+Astfel, cu titlu de exemplu, cu privire la aparatul Tip 8 "IZYLUM 3 80L @500mA WW730": _____ lm, indicat în fișa tehnică nr. 3, despre care contestatoarea susține că se regăsește în fișa tehnică a aparatului de la producător la pagina 291, Curtea constată că un astfel de aparat nu se regăsește printre cele cuprinse în tabel. Din fișa producătorului rezultă existența unui singur aparat alimentat cu un curent de 500 mA care să aibă codul de culoare WW730 și o eficiență luminoasă de 150lm/w. Parte din caracteristicile lui se regăsesc în cele ale aparatului Tip 5 "IZYLUM 3 80L 500mA 5303 115W _____ lm 150lm/W, indicat în fișa tehnică nr. 1, cu privire la care autoritatea contractantă solicitase nelămurirea concordanței referitoare la eficacitatea luminoasă. În aceste condiții, susținerile autorității contractante referitoare la neidentificarea aparatului de iluminat în tabel sunt corecte.
+
+De asemenea, în ceea ce privește aparatul Tip 4 "IZYLUM 3 50L 400mA 5303 92W _____ lm 155lm/W, susținerile autorității contractante la neidentificarea aparatului în fișa producătorului, neexistând, contrar celor susținute de contestatoare în răspunsul la clarificări, în tabelul de la pagina 291 din documentația tehnică, niciun aparat care la rubrica led count să aibă înscrisă valoarea 50 (toate au valoarea 80).
+
+Or, în condițiile în care comisia de evaluare a transmis întrebări concrete, lipsite de echivoc contestatoarea trebuia să formuleze răspunsuri clare și concludente, nu prin trimiteri imprecise care au dat răspunsurilor un caracter evaziv. Contestatoarea nu se poate prevala în acest stadiu de apărări privind deficiențele solicitărilor de clarificare, astfel de apărări trebuind invocate într-o eventuală contestație împotriva solicitărilor autorității contractante.
+
+În aceste condiții, concluziile CN.C.C. referitoare la corecta respingere a ofertei de către autoritatea contractantă sunt corecte și în acord cu depozițiile art. 134 alin. 5 din H.G. nr. 395/2016, text conform căruia „în cazul în care comisia de evaluare solicită unui candidat/ofertant clarificări și, după caz, completări ale documentelor prezentate de acesta în cadrul ofertei sau solicitării de participare, potrivit dispozițiilor art. 209 din Lege, iar candidatul/ofertantul nu transmite în termenul precizat de comisia de evaluare clarificările/completările solicitate sau clarificările/completările transmise nu sunt concludente, oferta sa va fi considerată inacceptabilă".
+
+Pe cale de consecință, pentru cele anterior arătate, constatând legală și temeinică decizia contestată, Curtea va respinge ca nefondată plângerea.
+
+PENTRU ACESTE MOTIVE,ÎN NUMELE LEGII
+
+DECIDE
+
+Respinge, ca nefondată, plângerea formulată de petenta [OPERATOR ECONOMIC] București, cu sediul în București, ________________________. 173A, sector 6, cu nr. de înregistrare la Registrul Comerțului J____________ și cod fiscal RO ________ și sediul ales la S. C.P. A. R___ și Asociații din București, ____________________. 16, ______________, ________________, împotriva Deciziei nr. 696/C9/519 din 6 aprilie 2021 pronunțată de Consiliul N_______ de Soluționare a Contestațiilor, în contradictoriu cu intimata-autoritate contractantă Municipiul R____, cu sediul în R____, Piața R____-V___ nr. 1, județul N____.
+
+Definitivă.
+
+Pronunțată în ședință publică, azi, 25 mai 2021.
+
+Președinte,
+
+C______ Ș_____
+
+Judecător,
+
+M____ V______ C______
+
+Judecător,
+
+L_______ A______
+
+Grefier,
+
+L_____-D______ D______
+
+Red./Tehnored. dec. C.Ș./31.05.2021
+
+L.D.D. - ex. 4
+
+L.D.D. - 31 mai 2021
+
+Acest document este preluat și procesat de o aplicație realizată gratuit de Wolters Kluwer Romania pentru Fundatia RoLII.
+
+Conținutul său poate fi preluat și utilizat cu citarea sursei: www.rolii.ro
+

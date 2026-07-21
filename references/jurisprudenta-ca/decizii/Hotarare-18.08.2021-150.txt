@@ -1,0 +1,1338 @@
+Sentinta nr. 150/2021 din 18-aug-2021, Curtea de Apel Constanta, litigiu privind achizitiile publice (Contencios administrativ si fiscal)
+
+Sentinta
+
+din 18 August 2021 
+
+150/2021
+
+Text speță
+
+Societate comercială vs Societate comercială, Societate comercială
+
+Cod ECLI ECLI:RO:CACTA:2021:016.______
+
+Operator de date cu caracter personal 3170
+
+Dosar nr. ___________
+
+R O M Â N I A
+
+CURTEA DE APEL C________
+
+SECȚIA A II-A CIVILĂ,
+
+DE C_________ ADMINISTRATIV ȘI FISCAL
+
+SENTINȚA CIVILĂ NR. 150/CA
+
+Ședința publică din data de 18 august 2021
+
+Completul constituit din:
+
+PREȘEDINTE: A________ L____ N_____
+
+JUDECĂTOR: E________ C______
+
+JUDECĂTOR: C_______ B_______
+
+GREFIER: C_______ I______ S______
+
+S-a luat în examinare plângerea formulată de reclamanta A________ [OPERATOR ECONOMIC] - [OPERATOR ECONOMIC], cu sediul în C________, _____________________ 99, lot 1, județul C________, cu sediul procesual ales la Cabinet avocat G___ C_________ A_____, cu sediul în C________, _________________, ___________, județul C________, împotriva Deciziei nr. 1319/C6/1111/18.06.2021, pronunțată de Consiliul N_______ de Soluționare a Contestațiilor, în contradictoriu cu pârâtele [OPERATOR ECONOMIC], cu sediul în C________, __________________-24, județul C________ și [OPERATOR ECONOMIC], cu sediul în București, _______________________.5-7, Metroffico Building A, ______________, cu sediul procesual ales la Clifford Chance B____ S.P.R.L., cu sediul în București, ____________________ - 30, Excelsior Business Center, _________________ 1, având ca obiect - litigiu privind achizițiile publice / plângere.
+
+Acțiunea este scutită de plata taxei judiciare de timbru, confor art.361 din Legea nr.101/2016 modificată.
+
+La apelul nominal, făcut în ședința publică: pentru reclamantă se prezintă avocat N_____ L_______ în substituire pentru avocat G___ C_________, în baza împuternicirii avocațiale și a delegației de substituire depuse la dosar (filele 54, 169 ); pentru pârâta [OPERATOR ECONOMIC] se prezintă avocat P______ C_____, în baza împuternicirii avocațiale depuse la dosar ( fila 83 ); pentru pârâta [OPERATOR ECONOMIC] se prezintă avocat V_____ A________, în baza împuternicirii avocațiale depuse la dosar ( fila 111 ).
+
+Procedura de citare este legal îndeplinită, conform disp. art. 153 și următoarele NCPC .
+
+S-a făcut referatul cauzei de către grefierul de ședință, prin care s-au evidențiat părțile, obiectul litigiului, mențiunile privitoare la modalitatea de îndeplinire a procedurii de citare, stadiul procesual, precum și faptul că nu s-a solicitat judecata cauzei în lipsa părților.
+
+Menționează că, la data de 17.08.2021, reclamanta a depus note scrise cu privire la excepția inadmisibilității.
+
+Curtea pune în discuție calificarea excepției inadmisibilității, invocată de pârâta [OPERATOR ECONOMIC] prin întâmpinare, ca fiind o apărare de fond, în raport de dispozițiile art. 21 alin.3 din Legea nr.101/2016.
+
+Reprezentantul pârâtei [OPERATOR ECONOMIC], avocat V_____ A________, având cuvântul, menționează că excepția inadmisibilității a fost invocată cu privire la criticile referitoare la modul de evaluare a ofertei societății [OPERATOR ECONOMIC] și nu poate fi calificată ca o apărare de fond la acest moment, pentru că este o excepție procedurală, instituită expres prin art. 21 alin. 3 din Legea nr.101/2016. De altfel, în faza plângerii, prin art. 30 alin. 2 din aceeași lege, se face vorbire despre imposibilitatea petentului de a formula alte critici în afară de cele cuprinse în contestație.
+
+În ceea ce privește inadmisibilitatea invocată cu privire la imposibilitatea contestării documentației de atribuire, consideră că poate fi calificată ca apărare de fond.
+
+Reprezentantul reclamantei, avocat N_____ L_______, având cuvântul, solicită calificarea excepției inadmisibilității ca fiind o apărare de fond, având în vedere că societatea pe care o reprezintă nu a încercat niciun moment a contesta propunerea tehnică a societății interveniente și nu a făcut decât să se apere prin realizarea unui paralelism între oferte.
+
+Apreciază că se impune unirea excepției cu fondul cauzei.
+
+Reprezentantul pârâtei [OPERATOR ECONOMIC], avocat P______ C_____, având cuvântul, menționează că privește afirmațiile societății reclamante ca fiind critici împotriva ofertei societății [OPERATOR ECONOMIC], motiv pentru care achiesează la concluziile reprezentantului acestei din urmă societăți.
+
+Curtea rămâne în pronunțare asupra calificării ca fiind o apărare de fond a excepției inadmisibilității, invocată de pârâta [OPERATOR ECONOMIC] prin întâmpinare.
+
+Curtea, constatând că nu sunt alte cereri, excepții de formulat, apreciază cauza în stare de judecată și acordă cuvântul asupra excepției inadmisibilității, invocată de pârâta [OPERATOR ECONOMIC] prin întâmpinare, precum și pe fondul plângerii.
+
+Reprezentantul reclamantei, avocat N_____ L_______, având cuvântul, solicită admiterea plângerii, cu consecința modificării în parte a deciziei C.N.S.C. atacate, în sensul admiterii contestației astfel cum a fost formulată.
+
+Subliniază că va sintetiza criticile și va face referire exclusiv la solicitările de reluare a procedurii de achiziție de la momentul evaluării propunerii tehnice și reacordării punctajului.
+
+În ceea ce privește modul în care oferta tehnică a reclamantei a fost transmisă autorității contractante, arată că va face referire, punctual, la cei patru sub - factori.
+
+Astfel, referitor la sub - factorul 1.1., cu privire la care se reproșează reclamantei că ar fi depus trei Grafice Gantt în loc de un Grafic Gantt și faptul că ar fi prezentat distinct un program de execuție de lucrări, distinct un program de lucrare instalații și echipamente și altul de alocare resurse umane. În primul rând, arată că este vorba despre un formular unic, concis, care reprezintă un singur formulat Gantt. Într-adevăr, menționează că acest formular Gantt depus de reclamantă are un număr semnificativ de pagini, respectiv 78, însă toate informațiile solicitate de autoritatea contractantă vin succesiv. Dacă în primul rând sunt expuse detalii despre cele trei obiecte principale, respectiv localitatea Poarta Albă, Castelu și Murfatlar, ulterior sunt expuse detaliile despre alocarea de instalații/echipamente și detaliile despre alocarea resurselor umane.
+
+În ceea ce privește detalierea pe activități și sub - activități, pentru fiecare obiect principal în parte s-a arătat, spre exemplu: Poarta Albă este alcătuită din două obiecte, fiecare sub - obiect a fost detaliat pe sub - activități. Precizează că nu a identificat care ar fi fost aceste sub - obiecte nedetaliate pe sub - activități. Astfel, a apreciat că există nemotivare pe aceste aspecte, nemotivare pe care nici C.N.S.C. nu a stabilit dacă se confirmă sau nu din partea autorității contractante la momentul la care s-a realizat punctajul.
+
+În ceea ce privește sub - factorul 1.2, prin care reclamantei i se impută că metodologia de execuție a lucrărilor nu se regăsește în aceeași ordine în Graficul general de realizare a investiției, identificându-se deviații minore, de asemenea solicită să se constate că aceste deviații minore nu au fost detaliate și motivate. Subliniază că metodologia reclamantei are o structură clară și logică și urmărește succesiv fiecare obiect în parte, cu fiecare obiect component, în cuprinsul plângerii fiind redate exemple, în sensul că unele precizări tehnice le înglobează pe celelalte. Consideră că întrucât, atât autoritatea contractantă, cât și intervenienta [OPERATOR ECONOMIC], au cunoștințe tehnice, acest fapt le-a oferit posibilitatea de a răstălmăci susținerile reclamantei, răstălmăcire de natură a conduce la ideea că depunctarea reclamantei a fost corectă. Apreciază însă că, a se proceda astfel, este de o manieră nepermisă.
+
+De asemenea, apreciază că metodologia de execuție se coroborează perfect cu informațiile din Graficul Gantt, în sensul că dacă se explică o lucrare, odată inserată în grafic, acea lucrare cuprinde absolut toate etapele componente și care sunt redate în metodologia de execuție.
+
+În ceea ce privește sub - factorul 1.3, menționează că reclamanta a obținut calificativul bine și s-a stabilit că durata, activitățile și perioadele de derulare sunt corespunzătoare doar complexității activităților, iar nu în totalitate corespunzătoare, apreciere de asemenea nemotivată. Ori, așa cum se observă din conținutul Graficului Gantt depus de reclamantă, acesta cuprinde coloane prestabilite. Astfel, între coloanele 3 și 5, pentru fiecare activitate și perioadă în parte, se stabilește durata activității, durata sub - activității, data de început în format zi / lună / an și data de sfârșit, în același format - zi / lună / an. Cele trei obiecte principale sunt cuantificate în sute de zile, obiectele componente sunt cuantificate în zeci de zile, iar fiecare sub - activitate, în funcție de întindere, pe zile sau pe zeci de zile. Referitor la operațiunile finale, ca de exemplu verificarea presiunii, punerea în funcțiune sau controlul pozării, precizează că în mod cert aceste operațiuni durează câteva minute sau câteva ore, fiind cert că pentru acestea reclamanta nu putea să ofere o zi întreagă sau mai multe zile. Acesta este motivul pentru care ele au fost cuprinse chiar în activitățile anterioare.
+
+Referitor la subfactorul 1.4, arată că i se impută reclamantei că există neconcordanțe între graficul general de realizare, resursele utilizate și metodologia de execuție, autoritatea contractantă apreciind că nu a identificat flexibilitatea șantierului și adaptarea, atât ca lucrări și ca resurse. Subliniază că, atât prin plângerea formulată, dar și prin contestația adresată C.N.S.C., reclamanta a identificat toate aspectele privind flexibilitatea șantierului. Cu titlu de exemplu, face trimitere la faptul că s-a arătat care este modul de acționare în caz de apariție crăpături paralele pe marginea tranșeelor sau gropilor, cum acționează în cazul în care la momentul efectuării săpăturilor se întâlnesc cabluri sau conducte, modul în care se realizează lucrări de sprijinire a malurilor. Precizează că toate activitățile de natură a conduce la flexibilitatea șantierului sunt însoțite de sintagma „în caz de", care este eficientă și vine să arate că există aspecte privind flexibilitatea șantierului și a adaptării atât din perspectiva lucrărilor, cât și din cea a resurselor.
+
+Cu cheltuieli de judecată pe cale separată.
+
+Reprezentantul pârâtei [OPERATOR ECONOMIC], avocat V_____ A________, având cuvântul, solicită respingerea plângerii, în principal ca inadmisibilă raportat la criticile formulate împotriva ofertei formulate de societatea pe care o reprezintă, și în rest ca neîntemeiată.
+
+Cu privire la criticile privind nemotivarea deciziei C.N.S.C. din perspectiva nemotivării acordării punctajului de către autoritatea contractantă, solicită să se observe că aceste critici au fost respinse, Consiliul analizând punctual atât raportul procedurii, cât și procesul - verbal de evaluare nr. _____ din 18.03.2021 și a ajuns la concluzia că autoritatea contractantă și-a motivat decizia, a aplicat corect algoritmul de punctare prevăzut de documentația de atribuire, astfel încât aceste critici au fost respinse ca neîntemeiate.
+
+Pe de altă parte, modul de punctare rezultă din algoritmul prezentat în documentația de atribuire. Acest algoritm prevede modul de punctare al propunerii tehnice, el nu a fost contestat de nicio parte, iar reclamanta nu a solicitat nicio clarificare privind modul de înțelegere a acestui algoritm, astfel încât nu poate acum să solicite sau să conteste terminologia prevăzută de acest algoritm. Astfel, consideră criticile privind nemotivarea deciziei autorității contractante ca nefondate, motiv pentru care solicită să fie respinse.
+
+Menționează că propunerea tehnică a reclamantei a fost punctată în baza algoritmului prevăzut de documentația de atribuire. Acest algoritm a fost introdus în documentația de atribuire conform art.145 alin.1 din H.G. nr.394/2016 (normele metodologice). Pe lângă acest algoritm, autoritatea contractantă a prevăzut prin formularul 10 și modalitatea de întocmire a graficului de execuție, informațiile care trebuie să fie cuprinse în acesta, astfel încât toți ofertanții să aibă în mod transparent posibilitatea de a-și întocmi propunerea tehnică și să obțină punctajul maxim. Cele două documente trebuie privite congruent și interpretate împreună, iar societatea reclamantă nu face absolut deloc referire la formularul 10, formular care, care și algoritmul de punctare, vorbește despre un singur grafic de execuție. Referitor la susținerea reclamantei cum că a depus un singur grafic de execuție, apreciază această afirmație ca fiind falsă, având în vedere că din oferta depusă de petentă se observă existența nu a unui grafic de execuție, ci a șase grafice de execuție, diferite ca structură, conținut și informații. Subliniază că acestea au fost detaliate în întâmpinare, fiind vorba despre un grafic de execuție denumit Grafic Gantt, în care sunt prevăzute mai multe activități principale și sub - activități, un Grafic Gantt - Drum Critic care este incomplet, pe doar două pagini, nefiind detaliate activități și sub - activități, un grafic Program de execuție lucrări Grafic Gantt, în care majoritatea activităților principale de asemenea nu sunt detaliate în sub - actiități, un grafic intitulat Alocare instalații ( echipamente ) în care sunt prezentate doar echipamentele utilizate pe șantier și un grafic similar intitulat Alocare resurse umane în care sunt prezentate doar resursele umane utilizate pe șantier. Ca atare, consideră că se pune retoric întrebarea - la care dintre aceste grafice ar fi trebuit să se raporteze autoritatea contractantă, în condițiile în care societatea reclamantă nu a precizat la niciun moment, în timpul procedurii, ce grafic de execuție ar trebui luat în considerare de autoritatea contractantă. Astfel, consideră că modul de punctare, având în vedere și formularul 10, este de fapt mai degrabă indulgent decât incorect.
+
+Cu privire la sub - factorul 1.1, menționează că reclamanta susține că absolut toate activitățile principale au fost detaliate în sub - activități. Deși nu este adevărat, chiar dacă s-ar considera că este, nu toate activitățile principale, scriptic, din graficul de execuție trebuiau detaliate în sub - activități, ci trebuiau detaliate toate activitățile principale și sub - activitățile din metodologia de execuție trebuiau să se regăsească și în graficul de execuție, astfel încât să existe o corelare între metodologia de execuție și graficul de execuție. Pentru că altfel, strict scriptic, este irelevant pentru autoritatea contractantă să verifice dacă există o corespondență între modul descris în metodologia de execuție a lucrărilor și graficul de execuție, pentru a permite autorității contractante să verifice dacă acel grafic de execuție este fezabil și real.
+
+Cu privire la sub - factorul 1.2, privind succesiunea activităților, de asemenea consideră că punctarea a fost mai degrabă indulgentă decât incorectă. Astfel, petenta susține prin plângere că nu înțelege ce înseamnă deviații minore ale acestor succesiuni. Ori, avea posibilitatea să solicite la momentul fazei de clarificare sau de contestare a documentației de atribuire să solicite clarificări cu privire la această terminologie. Neprocedând astfel, în opinia sa reclamanta și-a asumat depunerea ofertei în concordanță cu documentația de atribuire actuală, astfel încât punctarea făcută de autoritatea contractantă o apreciază ca fiind corectă.
+
+Pe lângă chestiunea definitivării documentației de atribuire, menționează că trebuie avut în vedere că autoritatea contractantă beneficiază de un drept de apreciere care, conform legii contenciosului administrativ, poate fi cenzurat doar în cazul în care există un abuz de drept, ceea ce petenta nu a susținut și nu a dovedit în acest proces. Autoritatea contractantă, în baza acestui drept de apreciere și a principiului asumării răspunderii, a avut posibilitatea și a putut să analizeze propunerea tehnică a societății reclamante și să stabilească, spre exemplu, conform sub - factorului de evaluare 1.2, dacă există sau nu deviații minore sau dacă graficul și metodologia sunt corelate în mod suficient pentru ca autoritatea contractantă să aibă confortul că ofertantul pe care îl alege câștigător va putea să-și îndeplinească obligațiile astfel cum au fost ofertate.
+
+Pentru toate aceste motive, solicită respingerea plângerii.
+
+Cu cheltuieli de judecată pe cale separată.
+
+Reprezentantul pârâtei [OPERATOR ECONOMIC], avocat P______ C_____, având cuvântul, în ceea ce privește excepția inadmisibilității, invocată de pârâta [OPERATOR ECONOMIC], solicită să fie admisă pentru motivele dezvoltate de aceasta în cuprinsul întâmpinării, cu precizarea că în opinia sa nu se puteau aduce critici cu privire la oferta societății [OPERATOR ECONOMIC] și documentația depusă de aceasta, decât dacă pe parcursul procedurii de achiziție publică se aduceau critici sau se solicitau clarificări cu privire la aceasta. Din acest punct de vedere, consideră că la momentul depunerii contestației la C.N.S.C. nu se mai putea critica oferta [OPERATOR ECONOMIC]
+
+În ceea ce privește critica referitoare la nemotivarea de către autoritatea contractantă a motivelor de depunctare a petentei, cât și la nemotivarea de către C.N.S.C. a soluției din această perspectivă, solicită să fie respinsă ca nefondată, pentru motivele pe larg expuse în întâmpinare. Subliniază că în cuprinsul deciziei C.N.S.C. s-a analizat această chestiune și, deși solicită să se aibă în vedere că în dispozitiv nu există o dispoziție expresă de respinge, considerentele fac parte din decizie.
+
+Pe fondul cauzei, solicită să se observe că documentația de achiziție, în întregul ei, nu a fost contestată. Așadar, ofertanții trebuiau să respecte cu strictețe regulile impuse de autoritatea contractantă prin caietul de sarcini.
+
+Referitor la afirmația că formularul 10 este Graficul Gantt, arată că este falsă și greșită. Așa cum a arătat în cuprinsul întâmpinării, Graficul Gantt este o transpunere scriptică, oglinda grafică a lucrărilor, pe parcursul perioadei de timp în care urmează să se desfășoare contractul și că, atât timp cât nu există un singur grafic în care să se poată urmări execuția lucrărilor, nu se poate verifica dacă executantul respectă obligațiile pe care și le-a asumat. Subliniază că oferta tehnică nu este Graficul Gantt, acesta fiind oglindirea ofertei tehnice. De altfel, dacă în oferta tehnică nu există metodologie de lucru, volume de lucrări, număr de personal, volume de utilaje, autoritatea contractantă nu poate urmări dacă executantul este în parcursul pe care și l-a asumat și nu poate să determine la un moment dat drumul critic, în condițiile în care autoritatea contractantă poate și rezilia contractul, însă nu fără a ști unde a început drumul critic. Consideră că reclamanta s-a aflat în confuzie și a depus mai multe grafice în locul graficului unic.
+
+În ceea ce privește chestiunea similarității, precizează că nu este posibilă în operațiunile inginerești și că fiecare operațiune trebuie arătată în oferta tehnică și reprezentată pe Graficul Gantt.
+
+Cu cheltuieli de judecată, sens în care depune dovada achitării onorariului avocațial (factura și ordinul de plată).
+
+Curtea, în temeiul dispozițiilor art. 394NCPC , constată încheiate dezbaterile și rămâne în pronunțare pe aspectul calificării excepției inadmisibilității, invocată de pârâta [OPERATOR ECONOMIC] prin întâmpinare, ca fiind o apărare de fond, asupra excepției inadmisibilității, invocată de pârâta [OPERATOR ECONOMIC] prin întâmpinare, precum și asupra plângerii.
+
+C U R T E A,
+
+Asupra plângerii de față, constată:
+
+Prin cererea înregistrată pe rolul Curții de Apel C________ la data de 08 iulie 2021, sub nr. ___________, petenta A________ _________________ SRL - __________________ [OPERATOR ECONOMIC], [OPERATOR ECONOMIC] fiind liderul de asociere, în contradictoriu cu intimatele [OPERATOR ECONOMIC] C________ - „autoritatea contractantă" și [OPERATOR ECONOMIC], a formulat plângere împotriva Deciziei Consiliului N_______ de Soluționare a Contestațiilor nr. 1319/C6/1111 din 18.06.2021 pentru soluționarea contestației înregistrată la CNSC cu nr. _____/05.05.2021, solicitând admiterea plângerii și modificarea în parte a deciziei atacate, respectiv în ceea ce privește soluția privind respingerea ca neîntemeiată a contestației petentei, cu consecința:
+
+- admiterii contestației și anulării Raportului procedurii înregistrat sub nr. _____/19.04.2021, respectiv a Deciziei de stabilire a ofertei câștigătoare în favoarea societății [OPERATOR ECONOMIC] și de declarare a ofertei petentei ca nefiind câștigătoare, emisă de autoritatea contractantă;
+
+- anulării adresei nr. _____/19.04.2021 a autorității contractante privind rezultatul procedurii de atribuire, ca o consecință a anulării raportului procedurii și a deciziei de stabilire a ofertei câștigătoare;
+
+- obligării autorității contractante la reluarea procedurii de la momentul evaluării și acordării punctajului tehnic în ceea ce o privește pe reclamantă, cu consecința întocmirii unui nou Proces-verbal de evaluare a punctajului tehnic, și ulterior emiterea unui nou raport/rezultat al procedurii, în conformitate cu prevederile legale și în condițiile statuate în hotărârea ce se va pronunța, relativ la rezultatul procedurii de atribuire a Contractului având ca obiect „Rețele apă Poarta Albă, Murfatlar. Rețele apă și canalizare Castelu. Aducțiune Castelu", organizată de autoritatea contractantă în baza Anunțului de participare publicat pe site-ul www.e-licitație.ro cu nr.CN _______/27.10.2020, cât și pe site-ul htttpA/ted.europa.eu, în suplimentul jurnalului Oficial al Uniunii Europene nr. 2020/S 211-______ din 29.10.2020.
+
+În motivarea plângerii arată că prin Anunțul de participare cu nr. CN _______/27.10.2020, Autoritatea contractantă - [OPERATOR ECONOMIC] C________ a demarat procedura de achiziție prin „Licitație deschisă" pentru atribuirea Contractului de achiziție publică de lucrări având ca obiect „Rețele apă Poarta Albă, Murfatlar. Rețele apă și canalizare Castelu. Aducțiune Castelu". Valoarea totala fără TVA estimată a achiziției a fost stabilită la valoarea de 31.054.410 lei. Criteriul de atribuire a fost stabilit ca fiind „cel mai bun raport calitate-preț.
+
+Potrivit Raportului procedurii înregistrat la Autoritatea contractantă sub nr. _____/19.04.2021, au depus oferte 3 operatori economici: A________ ____________________________ SRL-___________ Building lingineering SRL, C_ C___ C________ C__ și subscrisa Asociere _________________ SUL-____________________________ SRL, care justifică astfel un interes direct, personal și actual în susținerea prezentei plângeri.
+
+Rezultatul evaluării ofertelor a fost în sensul declarării ofertei Asocierii ____________________________ SRL-___________ [OPERATOR ECONOMIC] ca inadmisibilă și neconformă în baza disp. art. 143 alin. (3) din HG nr. 394/2016.
+
+Ulterior, aplicând criteriul de atribuire cel mai bun raport calitate-preț, clasamentul ofertanților rămași a fost stabilit astfel:
+
+I. C_ C___ C________ C__ - punctaj total 95,41 puncte (26 puncte punctaj tehnic și 69,41 puncte punctaj financiar).
+
+II. B________ B_ B__ B____ B___ B__ B_ B_____ B______ B_________ B__- punctaj total 90 puncte (20 puncte punctaj tehnic și 70 de puncte punctai financiar).
+
+Prin Adresa nr. _____/19.04.2021, autoritatea contractantă aduce la cunoștință Rezultatul procedurii și Decizia sa de stabilire a ofertei câștigătoare, în sensul că, oferta societății a fost declarată admisibilă, dar necâștigătoare, deoarece s-a clasat pe locul II, cu un punctaj total de 90 puncte. Totodată, încunoștințează că oferta desemnată câștigătoare este oferta prezentată de societatea [OPERATOR ECONOMIC], care s-a clasat pe primul loc și care a obținut un punctaj total de 95,41 puncte.
+
+Împotriva rezultatului procedurii de atribuire a Contractului având ca obiect „Rețele apă Poarta Albă, Murfatlar. Rețete apă și canalizare Castelu. Aducțiune Castelu" și a înscrisurilor indicate în petit, în temeiul disp.art. 10 din Legea nr. 101/2016, societatea asociere a formulat contestație, solicitând anularea raportului procedurii, a deciziei de stabilire a ofertei câștigătoare în favoarea societății [OPERATOR ECONOMIC] și de declarare a ofertei societății ca nefiind câștigătoare, anulării adresei privind rezultatul procedurii de atribuire, obligării autorității contractante la reluarea procedurii de la momentul evaluării și acordării Punctajului tehnic în ceea ce o privește pe societatea contestatoare, cu consecința întocmirii unui nou Proces-verbal de evaluare a punctajului tehnic și ulterior emiterea unui nou raport/rezultat al procedurii, în conformitate cu prevederile legale și hotărârea ce se va pronunța în cauză.
+
+Contestația societății a vizat în principal modul de evaluare și acordare a punctajului de către autoritatea contractantă relativ la oferta tehnică depusă de societatea Asociere _________________ SRL-____________________________ SRL.
+
+Informațiile privind aplicarea factorilor de evaluare din cadrul criteriului de atribuire care privesc aspecte de natură tehnică se regăsesc în Procesul-verbal nr. _____/18.03.2021 care conține rezultatul evaluării propunerilor tehnice și este parte a dosarului de achiziție.
+
+Analizând Fișa individuală de evaluare a ofertei tehnice conforme privind societatea Asociere _________________ SRL-____________________________ SRL - paginile 52-53 din Procesul-verbal nr. _____/18.03.2021, se observă că au fost stabilite 3 repere majore, fiecare cu câte 5 sub-factori de natură a fi utilizați de comisia de evaluare în aprecierea ofertei tehnice.
+
+Se menționează în continuare faptul că: „Comisia de evaluare va acorda punctajul și calificativul luând în considerare liniile directoare prezentate în tabelul de mai jos.
+
+Fiecărui calificativ îi corespunde un punctaj. Punctajul pentru calificativul „foarte bine" pentru fiecare din cei 5 subfactori de la primul reper este de 6 puncte, pentru calificativul „bine" de la al doilea reper este de 4 puncte, iar pentru calificativul „acceptabil" de la al treilea reper este de minim 2 puncte.
+
+Modul de acordare a calificativelor și a punctajului se coroborează cu documentul intitulat Fișa de acordare a punctajului în conformitate cu factorii de evaluare selectați.
+
+Redă în continuare Tabelul privind evaluarea ofertei tehnice a societății Asocieri _________________ SRL-____________________________ SRL (paginile 52-53 din Procesul - verbal nr. _____/18.03.2021):
+
+Ofertant: A________ _________________ SRI.-_____________________________ SRL
+
+În cuprinsul contestației, societatea a analizat punctual primii 4 subfactori de evaluare redați tabular, modul în care s-a realizat evaluarea și punctarea ofertei tehnice de către autoritatea contractantă, alături de criticile aferente acestora.
+
+În procedura de soluționare a contestației intervine și societatea [OPERATOR ECONOMIC] (societatea declarată câștigătoare), ce formulează cerere de intervenție voluntară (accesorie), admisă de CNSC și care formulează concluzii de respingere a contestației societății.
+
+Prin Decizia Consiliului N_______ de Soluționare a Contestațiilor nr. 1319/C6/1111 din 18.06.2021 s-a respins ca neîntemeiată contestația societății.
+
+Consiliul analizează punctual situația depunctării societății asocieri pentru fiecare sub subfactor în parte și concluzionează următoarele:
+
+A) Pentru subfactorul 1.1. se apreciază că depunctarea a fost corectă, motivat de faptul că subactivitățile indicate de autoritatea contractantă în punctul de vedere formulat în fața Consiliului nu se regăsesc în Graficul Gantt existent în propunerea tehnică inițială a societății și nici în cea depusă ca urmare a solicitării autorității contractante de a prezenta „un grafic în care resursele umane și materiale să fie repartizate pe fiecare subactivitate în parte.,,
+
+Se face trimitere la lipsa detalierii și la prezentarea distinctă a unui „Program de execuție lucrări,,, „Alocare instalații/echipamente,, și „Alocare resurse umane,,.
+
+B) Pentru subfactorul 1.2. se apreciază că depunctarea a fost corectă, motivat de faptul că societatea nu a prezentat dovezi potrivit cărora pentru acest subfactor de evaluare trebuia să obțină punctajul maxim.
+
+Se redă din punctul de vedere al autorității contractante, considerându-se că metodologia de execuție a lucrărilor nu se regăsește în aceeași ordine în graficul general de realizare ai investiției emis de societatea asociere.
+
+C) Pentru subfactorul 1.3. se apreciază că depunctarea a fost corectă, motivat de faptul că, deși s-a explicat că unele activități includ per se și alte subactivități, autoritatea contractantă nu era obligată a deduce acest aspect.
+
+D) Referitor la depunctarea pentru subfactorul 1.4, Consiliul nu a mai analizat evaluarea acestui subfactor, întrucât se arată că cele 4 puncte ce ar fi putut fi obținute nu ar schimba poziția în clasament și societatea nu ar fi obținut un punctaj superior intervenientei.
+
+Nu în ultimul rând, apărările redate de societate în notele și concluziile scrise, formulate prin raportare la cele susținute de autoritatea contractantă și intervenienta [OPERATOR ECONOMIC], respectiv cu trimitere în paralel la oferta tehnică a acesteia din urmă, sunt calificate de Consiliu ca fiind inadmisibile, întrucât nu au fost menționate în cuprinsul contestației.
+
+Pentru a demonstra temeinicia plângerii, de natură să atragă admiterea contestației astfel cum a fost formulată, va formula critici în aceeași formă în care Consiliul a redactat decizia atacată, respectiv cu trimitere la fiecare subfactor de evaluare în parte.
+
+Subliniază totuși și două aspecte prealabile:
+
+a) Deși o atare critică se regăsește în cuprinsul contestației, Consiliul nu a motivat dacă decizia de depunctare pentru fiecare subfactor de evaluare în parte este motivată sau nu de autoritatea contractantă.
+
+Se observă astfel un prim motiv de admitere a plângerii, cu trimitere la lipsa motivării criticilor subscrisei privind lipsa motivării deciziei de depunctare, la care vom reveni cu trimitere la fiecare subfactor de evaluare în parte.
+
+b) Cât despre așa-numita inadmisibilitate a apărărilor cu trimitere la documentația de atribuire și graficul Gantt al intervenientei [OPERATOR ECONOMIC], apreciază că o atare sancțiune este neîntemeiată, în contextul în care:
+
+- la data formulării contestației, societatea nu putea cunoaște intenția [OPERATOR ECONOMIC] de a formula cerere de intervenție în cauză;
+
+- ulterior comunicării cererii de intervenție și analizând motivele acesteia, singura opțiune a subscrisei era aceea de a formula apărări corespunzătoare, în sensul de a răspunde punctual cererii de intervenție, inclusiv cu trimitere la paralelismul dintre Graficul Gantt al societății și cel depus de intervenientă;
+
+- apărările formulate în contextul de a răspunde cererii de intervenție, cât și punctului de vedere al autorității contractante, nu pot fi calificate ca fiind inadmisibile, ci trebuie analizate ca expresie a dreptului la apărare.
+
+Reclamanta redă în continuare analiza fiecărui subfactor de evaluare în parte, cu trimitere la soluția CNSC atacată și criticile intimatelor deopotrivă:
+
+3.1. SUBFACTORUL DE EVALUARE 1.1.: Toate activitățile principale sunt incluse în graficul general de realizare a investiției publice, sunt parțial detaliate în subactivități, graficul general de realizare a investiției publice poate fi utilizat așa cum este prezentat ca dată de intrare în cadrul ședințelor de monitorizare a progresului în cadrul Contractului.
+
+Prezentarea subfactorului 1.1.: Ofertantul a prezentat ordinea și derularea în timp a activităților pe care și le propune să le îndeplinească pentru realizarea obiectelor contractului și structurează graficul pe străzi și pe categorii de lucrări/activități.
+
+Activitățile principale sunt incluse în graficul general de realizare a investiției publice și în mare parte acestea sunt împărțite pe subactivități.
+
+Relativ la subfactorul 1.1., societatea asociere a obținut calificativul „bine" și punctaj 4 puncte.
+
+Critici privind modul de evaluate și acordare al punctajului în legătură cu Subfactorul 1.1. și critici cu privire la soluția Consiliului în referire la acest subfactor de evaluare:
+
+Carența pe care autoritatea contractantă o identifică relativ la acest sub ta clor și o preia și Consiliul este aceea că activitățile principale sunt induse în graficul general de realizare a investiției publice și sunt împărțite pe subactivități „în mare parte", respectiv că acestea sunt „parțial detaliate în subactivități".
+
+În primul rând, semnalează aspectele privind nemotivarea deciziei de depunctare.
+
+Activitățile de execuție sunt alcătuite din 3 Obiecte (conf. Secțiunii 11,1.4 din Anunțul de participare), fiecare obiect fiind compus din 2, 3 sau 5 obiecte, după cum urmează:
+
+Obiect 1. Localitatea Poarta Albă
+
+Obiect 1.1. Reabilitare rețea de distribuție
+
+Obiect 1.2. Cămine de debitmetru și traductori de presiune
+
+Obiect 2. Localitatea Murfatlar
+
+Obiect 2.1. Reabilitare rețele de distribuție
+
+Obiect 2.2. Extindere rețea de distribuție apa
+
+Obiect 2.3. Cămine de monitorizare presiune
+
+Obiect 3. Localitatea Castelu
+
+Obiect 3.1. Extindere conductă de aducțiune
+
+Obiect 3.2. Reabilitare rețea de distribuție apă
+
+Obiect 3.3. Extindere rețea de canalizare menajeră
+
+Obiect 3.4. Stații de pompare apă uzată și conducte de refulare aferente
+
+Obiect 3.5. Cămin reglare debit și monitorizare de presiune
+
+Astfel, apreciază că autoritatea contractantă putea și trebuia să identifice care din cele 3 obiecte, cu fiecare din obiectele lor componente, nu a fost împărțit în subactivități de către societatea asociere. Nici Consiliul nu arată dacă o atare motivare există sau nu.
+
+Obligația motivării derivă pe de o parte din natura juridică a actelor emise de orice autoritate contractantă, cât și din interpretarea disp. art. 32 din Normele Metodologice din 2016 de aplicare a prevederilor referitoare În atribuirea contractului sectorial/acordului-cadru din Legea nr. 99/2016 privind achizițiile sectoriale.
+
+În al doilea rând, pentru a argumenta că în realitate societatea nu a depus 3 grafice, ci exclusiv un singur Formular 10-Propunere tehnică, deci un singur grafic, iar autoritatea contractantă încearcă a denatura realitatea obiectivă, realitate preluata și de CNSC, exprimă următoarele:
+
+Alături deși în susținerea contestației, societatea a atașat Formularul 10 - Propunerea tehnică, ce cuprinde în total 78 de pagini (spre deosebire de cel al intervenientei clasată pe poziția I, ce cuprinde 12 pagini), formular/grafic singular și complet, ce cuprinde inclusiv informațiile privind Alocarea de instalații/echipamente și Resursele umane.
+
+Astfel, cuprinsul Formularului 10-Propunerea tehnică, are aspectului unui Grafic Gantt singular și complet și arată după cum urmează:
+
+1. Primele 28 de pagini cuprind detalii privind cele 3 Obiecte principale, subobiectele lor, respectiv activitățile principale și subactivitățile aferente, astfel cum au fost detaliate și în cuprinsul contestației din fața Consiliului
+
+2. Următoarele 28 de pagini cuprind detalii privind Alocarea de instalații/echipamente,
+
+deopotrivă detaliate pe fiecare activitate principală și subactivități, pe fiecare lună în parte și cu precizarea tipului și numărului de instalații/echipamente alocate fiecărei subactivități în parte
+
+3. Ultimele 22 de pagini cuprind detalii privind Alocarea de resurse umane, ce cuprind informații relativ la numărul muncitorilor alocați pentru fiecare lună și subactivitate în parte, respectiv cu privire la tipul și calificarea fiecăruia dintre ei.
+
+În aceste condiții, apreciază că succesiunea grafică a activităților/subactivităților, urmată de prezentarea grafică a alocării de instalații/echipamente și în cele din urmă de prezentarea grafică a alocării de resurse umane este una logică și globală, iar nu cuprinsă în 3 grafice distincte, cum în mod eronat susține autoritatea contractantă și cum eronat a fost preluat în decizia atacată.
+
+În al treilea rând, pentru a contura împrejurarea că societatea, prin graficul Gantt a detaliat în subactivități toate activitățile principale, le va analiza pe rând:
+
+A) Obiectul 1 - Localitatea Poarta Albă, cu 2 obiecte componente (Reabilitare rețea de distribuție și Cămine de debitmetru și traductori de presiune):
+
+La pagina nr. 1 din Grafic, la ID nr. 19 se identifică punctul de plecare pentru Obiectul nr. 1-LocaIitatea Poarta Albă.
+
+În continuare, de la ID nr. 20 până la ID nr. 534 (pe o întindere de 14 pagini) Obiectul 1.1. Reabilitare rețea de distribuție este detaliat în subactivități, în sensul că se redă schema de reabilitare pentru fiecare stradă și alee din localitatea Poarta Albă.
+
+Cu titlu de exemplu, de la ID nr. 21 până la SD nr. 33, se prezintă subactivitățile de Reabilitare rețea de distribuție pe __________________________, compuse din: lucrări de terasamente; recepție săpătură la cota de fundare-natura terenului – conducte; instalații-vane, debitmetre și hidranți; branșamente; controlu1 pozării; proba de presiune; refacere sistem rutier.
+
+De la ID 535 până la ID 540, Obiectul 1.2 Cămine de debitmetru și traductori de presiune este de asemenea detaliat în subactivități, după cum urmează: cămine de debitmetru și traductori de presiune; alimentare cu energie electrica pentru rețea apă (cămin debitmetru și cămine monitorizare presiune); alimentare cu energie electrică pt. cămin debitmetru {record electric de la punctul de record până Ia BMPT, inclusiv BMPT); alimentare cu energie electrică cămine monitorizare presiune (record electric de la punctul de racord până la BMPT, inclusiv BMPT);
+
+B) Obiectul 2-LocaIitatea Murfatlar, cu 3 obiecte componente (Reabilitare rotea de distribuție. Extindere rețea de distribuție apă și Cămine de monitorizare presiune):
+
+La pagina nr. 14 din Grafic, la ID nr. 541 se identifică punctul de plecare pentru Obiectul nr. 2-LocaIitatea Murfatlar.
+
+În continuare, de la ID nr. 542 până la ID nr. 649 (pe o întindere de 3 pagini) Obiectul 2.1. Reabilitare rețea de distribuție este detaliat în subactivități, în sensul că se reda schema de reabilitare pentru fiecare stradă și alee din localitatea Murfatlar.
+
+Cu titlu de exemplu, de la ID nr. 543 până la ID nr. D59, se prezintă subactivitățile de Reabilitare rețea de distribuție pe Calea Dobrogei (DN3), compuse din: lucrări de terasamente; recepție săpătura la cota de fundare-natura terenului; lucrări de construcții – cămine; conducte; instalații - vane, debitmetre și hidranți; supratraversare; branșamente; controlul pozării; proba de presiune; refacere sistem rutier.
+
+De La ID 650 până la ID 680, Obiectul 2,2 Extindere rețea de distribuție apă este de asemenea detaliat în subactivități, după cum urmează: extindere rețea de distribuție pe Drum N_______ DN22C (cu subactivitățile lucrări de terasamente, recepție săpătură la cota de fundare-natura terenului, lucrări de construcții- cămine, conducte, instalații-vane, debitmetre și hidranți, branșamente, controlul pozării, proba de presiune, refacere sistem rutier); extindere rețea de distribuție pe ____________________ subactivitățile lucrări de terasamente, recepție săpăturii la cota de fundare-natura terenului, lucrări de construcții- cămine, conducte, instalații-vane, debitmetre și hidranți, branșamente, controlul pozării, proba de presiune, refacere sistem rutier).
+
+De La ID 681 la ID 686, Obiectul 2.3 Cămine de monitorizare presiune este deopotrivă detaliat în subactivități, după cum urmează: cămin de monitorizare presiune; alimentare cu energie electrică pentru rețea apă (cămin debitmetru și cămine monitorizare presiune); alimentare cu energie electrica pentru cămin debitmetru (record electric de la punctul de record până Ia BMPT, inclusiv BMPT); alimentare cu energie electrică cămine monitorizare presiune (record electric de la punctul de racord până la BMPT, inclusiv BMPT).
+
+C) Obiectul 3 - Localitatea Castelu, cu 5 obiecte componente (Extindere conductă de aductinne, Reabilitare rețea de distribuție apă. Extindere rețea de canalizare menajeră, Stații de pompare apa uzată și conducte de refulare aferente, Cămin debit și monitorizare de presiune):
+
+La pagina nr. 18 din Grafic, la ID nr. 687 se identifică punctul de plecare pentru Obiectul nr. 3-Localitatea Castelu.
+
+În continuare , de la ID nr. 688 până la ID nr. 701, Obiectul 3,1. Extindere conductă de aducțiune este detaliat în subactivități, după cum urmează: lucrări de terasamente; recepție săpătură ia cota de fundare-natura terenului; lucrări de construcții-cămine; conducte; instalații-vane, debitmetre și hidranți; controlul pozării; proba de presiune; refacere sistem rutier.
+
+De la ID 702 până la ID 730, Obiectul 3.2 Reabilitare rețea de distribuție apă este de asemenea detaliat în subactivități, după cum urmează: reabilitare rețea de distribuție pe _____________ 1. (cu subactivitățile lucrări de terasamente, recepție săpătură la cota de fundare-natura terenului, lucrări de construcții- cămine, conducte, instalații-vane, debitmetre și hidranți, branșamente, controlul pozării, proba de presiune, refacere sistem rutier); reabilitare rețea de distribuție pe ______________ (cu subactivitadle lucrări de terasamente, recepție săpătură la cota de fundare-natura terenului, lucrări de construcții-cămine, conducte, instalații-vane, debitmetre și hidranți, branșamente, controlul pozării, proba de presiune, refacere sistem rutier).
+
+De la ID 731 Ia ID 956, Obiectul 3.3 Extindere rețea de canalizare menajeră este deopotrivă detaliat în subactivități, respectiv pentru fiecare stradă și alee în parte.
+
+Cu titlu de exemplu, de la ID 732 la ID 739, pentru Fundătura Nazareen se identifică următoarele subactivități de extindere: lucrări de terasamente; lucrări de construcții-cămine – conducte; controlul pozării; proba de etanșeitate; racorduri; refacere sistem rutier.
+
+De la ID 957 la ID 1025 Obiectul 3.4 Stații de pompare apă uzată și conducte de refulare aferente este și el detaliat în subactivități, după cum urmează: stație de pompare ape uzate menajere SPAU l, inclusiv conductă de refulare aferentă (cu 2 subactivități componente)
+
+- cămin decantare CD1 aferent stației de pompare ape uzate menajere SPAU'l -instalație electrică exterioară aferentă SPAU1; conductă de refulare aferentă SPAU1 (cu 5 subactivități componente); stație de pompare ape uzate menajere SPAU2, inclusiv conductă de refulare aferentă (cu 2 subactivități componente); cămin decantare CD2 aferent stației de pompare ape uzate menajere SPAU2; instalație electrică exterioară aferentă SPAU2; conductă de refulare aferentă SPAU2 (cu 5 subactivități componente); stație de pompare ape uzate menajere SPAU3, inclusiv conductă de refulare aferentă (cu 2 subactivități componente); cămin decantare CD3 aferent stației de pompare ape uzate menajere SPAU3; instalație electrică exterioară aferentă SPAU3; conductă de refulare aferentă SPAU3 (cu 5 subactivități componente); stație de pompare ape uzate menajere SPAU4, inclusiv conductă de refulare aferentă (cu 2 subactivități componente); cămin decantare CD4 aferent stației de pompare ape uzate menajere SPAU4; instalație electrică exterioară aferentă SPAU4; conductă de refulare aferentă SPAU4 (cu 5 subactivități componente); stație de pompare ape uzate menajere SPĂL 5. inclusiv conductă de refulare aferentă (cu 2 subactivități componente); cămin decantare CD5 aferent stației de pompare ape uzate menajere SPAU5; instalație electrică exterioară aferentă SPAU5; conductă de refulare aferentă SPAU6 (cu 8 subactivități componente).
+
+De la ID 1026 la ID 1039 Obiectul 3.5 Cămin debit și monitorizare de presiune este de asemenea detaliat în subactivități, după cum urmează: cămin de monitorizare presiune; alimentare cu energie electrică pt. rețea apă (cămin debitmetru și cămine monitorizare presiune); alimentare cu energie electrică pt. cămin debit metru (record electric de la punctul de record până la BMPT, inclusiv BMPT); alimentare cu energie electrică cămine monitorizare presiune (record electric de la punctul de racord până la BMPT, inclusiv BMPT); activități de interfață cu lucrările existente și operarea acestora; implementarea și menținerea măsurilor SSM, PS1 și mediu (se vor asigura pe toată durata de execuție conform prevederi proiect tehnic și legislație în vigoare); verificări, probe tehnologice și teste (se vor asigura pe toată durata de execuție cf. normativelor aplicabile, procedurilor tehnice de execuție, planul calității etc.); recepție la terminarea lucrărilor.
+
+În al patrulea rând, contraargumentând criticile autorității contractante exprimate în fața Consiliului și preluate prin decizia atacată, arată că:
+
+Subactivitatea denumită Lucrări de terasamente din Graficul Gantt include sau cel mai bine spus este sinonimă cu ceea ce autoritatea contractantă denumește desfacere sistem rutier.
+
+Subactivitatea denumită Conducte din Graficul Gantt include sau cel mai bine spus este sinonimă cu ceea ce autoritatea contractantă denumește execuție pal de nisip, spălare și dezinfecție conducta, umpluturi finale de pământ.
+
+Subactivitatea denumită Branșamente din Graficul Gantt include sau cel mai bine spus este sinonimă cu ceea ce autoritatea contractantă denumește branșarea proprietăților existente la rețeaua nou executată.
+
+De altfel, în ceea ce privește inspecția CCTV, răspunsul la Solicitarea de clarificări nr. 3 este lămuritoare și este după cum urmează: ,,Verificările, probele și testele se vor asigura pe toată durata de execuție în conformitate cu prevederile legale, standardele, regulamentele și normativele aplicabile, specificațiile caietului de sarcini. Efectuarea testelor necesare se va realiza în conformitate cu cerințele contractuale și legale și Planul de Asigurare a Calității și planurile de control pentru toate lucrările propuse. Acest aspect este confirmat în grafic la poziția 814 - Verificări, probe tehnologice și teste (se vor asigura pe toata durata de execuție cf normativelor aplicabile, procedurilor tehnice de execuție, planul calității, etc)., activitate prevăzută a fi realizată de la începutul lucrărilor până la finalizarea acestora, la recepția lucrărilor. Sub această activitate sunt incluse și perioade aferente efectuării probelor video (CCTV-ul)"
+
+Societatea asociere explică autorității contractante că inspecția CCTV este inclusă în activitatea de verificare, probe și teste, ce se va realiza pe toată perioada de execuție, în conformitate cu toate prevederile, standardele, regulamentele și caietul de sarcini.
+
+În aceeași ordine de idei, Metodologia de execuție a lucrărilor oferă aceleași informații complete, în sensul că există sub activități ce cuprind la rândul lor mai multe componente, iar trimiterea la una dintre ele din Graficul Gantt reprezintă trimitere expresă la toate componentele acesteia.
+
+Referitor la aprecierea cum că în graficul de execuție al Asocierii _________________ SRL - __________________ [OPERATOR ECONOMIC] activitățile principale sunt parțial detaliate în subactivități, motiv pentru care acesta a fost depunctată la acest subfactor de evaluare, obținând doar 4 puncte din maximul de 6 puncte, raportat la evaluarea autorității contractante pentru acest subfactor al ofertantului câștigător societatea [OPERATOR ECONOMIC] în comparațiile cu evaluarea reclamantei ofertante, are de făcut și următoarea remarcă: în programul de execuție al Asocierii _________________ SRL - ____________________________ SRL la: Obiectul 3,4 - Stații de pompare apă uzată și conducte de refulare aferente (rândul 957 din grafic), activitatea - Stație de pompare ape uzate menajere SPAU 1, inclusiv conducta de refulare aferentă (rândul 958 din grafic), este detaliată în două subactivități, respectiv subactivitatea Stație de pompare ape uzate menajere SPAU 1, inclusiv conducta de refulare aferente (rândul 959 din grafic) și subactivitatea Probe tehnologice la terminarea montajului echipamentelor și instalațiilor de conducte în conformitate cu prescripțiile proiectului și procedura de lucru a executantului - (rândul 959 din grafic) iar activitatea - Conducta de refulare aferentă SPAU 1 (rândul 965 din grafic), este detaliată în cinci subactivități, respectiv subactivitatea Lucrări de terasamente (rândul 966 din grafic), subactivitatea Conducta de refulare aferentă SPAU 1 (rândul 967 din grafic), subactivitatea Controlul pozării (rândul 968 din grafic), subactivitatea Proba de presiune (rândul 969 din grafic) și subactivitatea Refacere sistem rutier (rândul 970 din grafic).
+
+Spre deosebire de oferta făcută, în programul de execuție al la C_ C___ C________ C__, la Obiectul 3.4 - Stații de pompare apa uzată și conducte de refulare aferente (rândul 782 din grafic), Stație de pompare ape uzate menajere SPAU 1, inclusiv conducta de refulare aferente (rândul 783 din grafic), activitatea este detaliată într-o singură subactivitate, respectiv subactivitatea Stație de pompare ape uzate menajere SPAU 1, inclusiv conducta de refulare aferente (rândul 784 din grafic).
+
+Se observă că la ofertantul câștigător nu este detaliată subactivitatea Probe tehnologice la terminarea montajului echipamentelor și instalațiilor de conducte în conformitate cu prescripțiile proiectului și procedura de lucru a executantului, așa cum aceasta a fost detaliata în Programul de execuție al Asocierii _________________ SRL - ____________________________ SRL iar activitatea - Conducta de refulare aferentă SPAU 1 (rândul 786 din grafic), pentru același ofertant câștigător, nu este detaliată în subactivități, așa cum acesta a fost detaliată în Programul de execuție al Asocierii _________________ SRL - ____________________________ SRL.
+
+În aceste condiții, apreciază că ofertantul câștigător C_ C___ C________ C__ a primit eronat din partea Comisiei de Evaluare a Autorității Contractante maximul de punctaj pentru acest subfactor de evaluare, respectiv 6 puncte, cât timp societatea a demonstrat propriile lor erori.
+
+De asemenea, în Formularul 10 - Program din Documentația de atribuire este specificat: „Ofertantul va prezenta următoarele informații minime:
+
+Un program pentru execuție care să ilustreze succesiunea și derularea în timp a activităților pe care ofertantul propune să le îndeplinească pentru realizarea Lucrărilor, în termenul de execuție ofertat.
+
+Programul va prezenta, în special, următoarele: Lucrări permanente și temporare ce urmează a fi executate, Activități de interfațare cu lucrările existente și operarea acestora, Perioadele pentru examinarea Documentelor Contractorului de către Supervizor, Secvențierea, derularea în timp și durata testelor, Perioadele necesare elaborării de documentații pentru toate permisele și acordurile necesare și pentru aprobarea acestora, Etape esențiale.
+
+Ofertantul va anexa o diagrama a momentelor critice, care sa includă cerințele de mai sus (grafic de execuție) și care să reprezinte programul de execuție al contractului de lucrări. Acesta va trebui să detalieze sectoarele de lucrări, activitățile relevante, datele, alocările de resurse de numea și echipamente pe sectoare de lucrări și activități, etc.
+
+Intrările planificate ale partenerilor asocierii și sub-antreprenorilor vor fi evidențiate de asemenea (în termeni de sectoare de lucrări, activități realizate, timp, etc)".
+
+Niciunde în Formularul 10 - Program, la care face trimitere autoritatea contractantă în punctual său de vedere, nu este precizat nivelul de detaliere al subactivităților de natură să rezulte specificații privind eventualele depunctări. D____ urmare, apreciază că depunctarea relativ la subfactorul 1.1. este neîntemeiată, iar oferta societății este completă și se impunea a primi punctajul maxim.
+
+În ultimul rând, subliniază și apărările relativ la susținerile intervenientei [OPERATOR ECONOMIC], ce nu au fost înlăturate de CNSC și care arată că din graficul de execuție al asocierii au fost omise mai multe subactivități.
+
+Întrucât se repetă pentru fiecare categorie de lucrări în parte, prezintă în continuare corespondența dintre subactivități doar pentru prima activitate, respectiv Reabilitare rețea de distribuție pe _________________________ din cadrul Obiectului I - Poarta Albă, Sub-obiectul 1.1 Reabilitare rețea de distribuție:
+
+Concluzii: Absolut toate activitățile (obiectele) principate sunt incluse în graficul de realizare a investiției și deopotrivă toate sunt detaliate în subactivități, astfel cum s-a precizat și explicat anterior, cu trimitere la graficul Gantt opus de asociere și analizat de autoritatea contractantă, iar depunerea este vădit nejustificată.
+
+3.2. SUBFACTORUL DE EVALUARE 1.2.: Succesiunea activităților în graficul general de realizarea investiției publice este stabilită cu deviații minore prin raportare la metodologia de execuție a lucrărilor.
+
+Prezentarea subfactorului 1.2.: Succesiunea activităților în graficul general de realizare a investiției publice este prezentată, în concordanță cu metodologia de execuție a lucrărilor.
+
+Relativ la subfactorul 1.2., societatea asociere a obținut calificativul „bine" și punctaj 4 puncte, dar critică punctajul, astfel:
+
+Carența pe care autoritatea contractantă o identifică relativ la acest subfactor este aceea ca există „deviații minore" în succesiunea activităților din graficul general de realizare a investiției publice prin raportare la metodologia de execuție a lucrărilor.
+
+În primul rând, redă aceleași critici privind nemotivarea depunctării, în sensul că autoritatea contractantă nu identifică care sunt deviațiile minore în cauză și de ce unele aspecte ar reprezenta deviații de o intensitate minoră. Nici Consiliul nu arată dacă o atare motivare există sau nu.
+
+În al doilea rând, pentru a combate această așa-zis carență a deviațiilor minore, opune pe de o parte conținutul Graficului Gantt și pe de altă parte Metodologia pentru realizarea lucrării - Formularul nr. 8.
+
+Astfel, Metodologia pentru realizarea lucrării - Formularul nr. 8 al societății asocieri cuprinde absolut toate cerințele specifice contracții lui, respectiv:
+
+- abordarea generală și metodologia pentru realizarea lucrărilor, inclusiv descrieri detaliate pentru metodele de lucru pentru componentele majore ale lucrărilor
+
+- metodologia de realizare a lucrărilor pe obiecte
+
+- soluția tehnică, tehnologiile și fluxul tehnologic propus/propuse (în cnf. cu pct.IV.4.1 din fișa de date), abordarea generală, metodologia pentru implementarea lucrărilor, inclusive descrierea detaliată a metodelor de lucru pentru elementele majore ale lucrărilor de construcții și reabilitare, inclusiv programul propus pentru lucrări, planuri sau diagrame pentru a arăta fazele de lucrări propuse și amplasamentul pentru oricare lucrări temporare necesare pentru întreținerea lucrărilor existente în timpul construcției, fișele tehnice completate în conformitate cu cerințele solicitate, însoțite de specificații etc.
+
+Ca structură, Metodologia este clară și urmărește fiecare Obiect în parte, cu fiecare obiect component în parte. Astfel:
+
+- se începe cu expunerea Lucrărilor pregătitoare
+
+- paginile 2-8 din metodologie, se continuă cu:
+
+- obiectul 1.1. și obiectul 1.2.
+
+- pagina 8 din metodologie
+
+- obiectul 2,1. și obiectul 2.2.
+
+- pagina 8 din metodologie
+
+- obiectul 2.3.
+
+- pagina 8 din metodologie
+
+- obiectul 3.2
+
+- pagina 9 din metodologie
+
+- obiectul 3.1 .
+
+- paginile 9-27 din metodologie
+
+- obiectul 3.3, obiectul 3,4 și obiectul 3.5-pagîniîe 27-112 din metodologie și
+
+- se finalizează cu Măsuri de prevenire și de stingere a incendiilor-paginile 112-113 din metodologie în al treilea rând, contraargumentând criticile autorității contractante exprimate în fața Consiliului și preluate prin decizia atacată, evidențiem următoarele:
+
+Cu trimitere la Subfactorul de evaluare 1.2,, Autoritatea Contractantă arată că succesiunea activităților în graficul general de realizare a investiției publice este stabilită eu deviații minore prin raportare la metodologia de execuție a lucrărilor, succesiunea activităților este simplă, pe obiecte și nu este în totalitate raportată la metodologie, că este inconsecventă și fără corelate integrală, cu corelații minore în Grafic, arătând, pe un exemplu concret, că ordinea lucrărilor este diferită în grafic față de ordinea din metodologie.
+
+Contraargumentând, strict cu trimitere la exemplul dat de autoritate prin punctul său de vedere, facem următoarele precizări:
+
+Lucrările de terasamente menționate în grafic acoperă ceea ce autoritatea contractantă denumește linșarea axului canalului și fixarea reperelor de nivelment, desfacerea pavajului existent, executarea săpăturilor și a sprijinirilor.
+
+Activitățile de Conducte menționate în grafic acoperă ceea ce autoritatea contractantă denumește execuția patului de nisip pentru pozarea tuburilor, lansarea și montarea tuburilor și execuția căminelor, execuția umpluturii tranșat, montarea grilei de semnalizare.
+
+Lucrările de Branșamente menționate în grafic sunt sinonime cu ceea ce autoritatea contractantă denumește execuția căminelor.
+
+Proba de presiune menționată de grafic este sinonimă cu ceea ce autoritatea contractantă definește verificarea etanșeității canalului.
+
+Lucrările de Refacere sistem rutier menționate în grafic acoperă ceea ce autoritatea contractantă denumește transportul excedentului de pământ și refacerea pasajului carosabilului.
+
+Practic, Metodologia de execuție a lucrărilor se coroborează perfect cu informațiile și mențiunile din Graficul Gantt, în sensul că se explică în mod clar că o anumită lucrare, odată inserată în grafic, cuprinde absolut toate etapele componente și detaliate în cuprinsul metodologiei, confundându-se practic cu acestea.
+
+Interpretarea autorității contractante în sensul că activitățile sunt prezentate inconsecvent și fără corelare, cu deviații minore în graficul de execuție față de metodologia de execuție este neîntemeiată, mai ales în condițiile în care se înțelege cu ușurință succesiunea și corelarea acestora.
+
+Mai mult decât atât, se precizează în punctul de vedere al autorității contractante faptul că în graficul general de realizare a investiției subscrisei, ordinea subactivităților ar fi următoarea:
+
+- execuția conductei de canalizare și a căminelor de vizitare,
+
+- efectuarea probei de etanșeitate,
+
+- execuția racordurilor.
+
+Comisia de Evaluare omite să menționeze faptul că în graficul general de realizare al investiției al societății suplimentar și complet, sunt explicitate și alte subactivități, precum:
+
+- lucrări de terasamente,
+
+- controlul pozării (conductei de canalizare și a căminelor de vizitare),
+
+- refacere sistem rutier.
+
+Și din această perspectiva, în condițiile în care autoritatea contractantă omite a reda informațiile complete din graficul societății, redându-le trunchiat doar pentru a exprima un punct de vedere, apreciază că depunctarea cu privire la Subfactorul de evaluare 1.2. este de asemenea neîntemeiată.
+
+În ultimul rând, subliniază și apărările relativ la susținerile intervenientei [OPERATOR ECONOMIC], care arată că, la Obiectul 1 - Localitatea Poarta A___, Obiectul 2 - Localitatea Murfatlar, Obiectul 3 - Localitatea Castelu, ordinea pentru derularea lucrărilor de reabilitarea rețelelor de distribuție înscrisă în propunerea tehnică a asocierii redată tabelar ar fi complet nerealistă, însă comentariile noastre sunt după cum urmează.
+
+În continuare, intervenienta redă activități ce nu ar fi menționate în graficul de execuție al societății. Comentariile în apărare sunt redate tabelar pentru corespondentul activității Reabilitare rețea de distribuție pe _________________________ din cadrul Obiectu1ui 1 - Poarta A___, Sub-obiectul 1.1 Reabilitare rețea de distribuție:
+
+Totodată, intervenienta [OPERATOR ECONOMIC], la Obiectul 3.3 - Extindere rețea de canalizare menajeră, apreciază că ordinea firească pentru derularea lucrărilor de execuție ar fi complet nerealistă. Comentariile astfel cum au fost redate, sunt pentru corespondentul activității Extindere rețea de canalizare pe Fundătura Nazarcea din cadrul Obiectului 3 - Castelu, Subobiectul 3.3 Extindere rețea de canalizare:
+
+Pe de altă parte, intervenienta [OPERATOR ECONOMIC] consideră că nu s-ar fi detaliat toate lucrările necesare fi executate pentru realizarea în bune condiții a lucrărilor, indicându-le tabelar pe cele care nu s-ar regăsi. Comentariile referitoare la acesta remarcă sunt redate în tabel.
+
+Concluzii: între succesiunea activităților din graficul general de realizare a investiției publice prin raportare la metodologia de execuție a lucrărilor nu există nici o deviație, ci acestea urmează cursul firesc de la gen la specie, iar depunctarea este vădit nejustificată.
+
+3.3. SUBFACTORUL DE EVALUARE 1.3.: Durata activităților și perioadele de derulare a acestora sunt corespunzătoare complexității activităților (modalitate de realizare, date de intrare, date de ieșire).
+
+Prezentarea sub factorului 1.3.: Durata activităților și perioadele de derulare a acestora sunt corespunzătoare complexității activităților.
+
+Graficul de execuție include pentru fiecare structură detalierea activităților/categoriilor de lucrări punctual cu durată de execuție, data de începere și de finalizare fără a fi menționate resursele necesare. Acestea sunt menționate separat.
+
+Relativ la subfactorul 1.3., reclamanta asociere a obținut calificativul „bine" și punctaj 4 puncte. Critici privind modul de evaluare și acordare a punctajului în legătură cu Subfactorul 1.3. și critici cu privire la soluția Consiliu lui în referire la acest subfactor de evaluare:
+
+Carența pe care autoritatea contractantă o identifică relativ la acest subfactor este aceea că durata activităților și perioadele de derulare a acestora sunt „corespunzătoare,, complexității activităților, iar nu „în totalitate corespunzătoare."
+
+În primul rând, redă aceleași critici privind nemotivarea depunctării, în sensul că autoritatea contractantă nu identifică ce durate și perioade de derulare nu sunt corespunzătoare și de ce acestea ar fi necorespunzătoare. Nici Consiliul nu arată dacă o atare motivare există sau nu.
+
+În al doilea rând, pentru a combate această așa-zisă carență, face trimitere la conținutul Graficului Gantt, care, pentru fiecare activitate în parte și perioadă de derulare a acestora, la coloanele nr. 3-5 stabilește:
+
+- durata activității/subactivității
+
+- data de începere a activității/subactivității („start,,), cu indicarea expresă a zilei calendaristice în format zi/lună/an
+
+- data de sfârșit a fiecărei activități/subactivități („finish,,), cu indicarea expresă a zilei calendaristice în format zi/lună/an
+
+Se observă astfel că cele 3 obiecte principale sunt cuantificate în sute de zile, iar obiectele componente ale acestora (cuprinse în zilele anterioare) sunt cuantificate la rândul lor pe zile sau zeci de zile, în funcție de importanța și complexitatea acestora.
+
+Toate aceste informații se coroborează și cu cele din Metodologia pentru realizarea lucrării, în sensul că se poate observa cu ușurință, ca, acolo unde metodologia cuprinde, pentru o subactivitate, mai multe puncte de execuție, corelativ, pentru acea subactivitate s-au alocat mai multe zile de execuție și invers.
+
+În al treilea rând, contraargumentând criticile autorității contractante exprimate în fața Consiliului și preluate prin decizia atacată, evidențiem următoarele:
+
+Cu trimitere la Subfactorul de evaluare 1.3., autoritatea contractantă arată că resursele materiale și umane nu au fost menționate în propunerea tehnică și că este greu de apreciat pentru acuratețe dacă durata stabilită de reclamantă este sau nu suficientă pentru finalizarea fiecărei subactivități în perioada de timp declarată.
+
+Face trimitere la două exemple, în sensul că pentru efectuarea aceleiași activități, durata este diferită, iar pentru străzi cu lungimi aproximativ egale, durata de execuție este de asemenea diferită.
+
+Strict cu trimitere la exemplele date de autoritate prin punctul de vedere, face următoarele precizări:
+
+Pentru Ob. 1.1.9 - Reabilitare rețea de distribuție pe _____________. crt. 129 din Graficul de Execuție este identificată activitatea Branșamente, ce durează 6 zile, de la data de 19.10.202] până la data de 24.10.2021. Subactivitățile sale sunt lucrări ce se întind de la data de 19.10.2021 până la data de 24.10.2021, respectiv montare cantine de branșament (nr. crt. 130 din grafic) și controlul pozării conductei de branșament ( nr. crt. 131 din grafic), tot ca subactivitate pentru activitatea Branșamente este Proba de presiune, care se va desfășura în data de 25.10.2021, cu o durată de 1 zi, subactivitate care se desfășoară într-un interval de timp separat (25.10.2021) față de celelalte subactivități ale activității Branșamente (19.10.______________21).
+
+Pentru Ob. 1.1.8 - Reabilitare rețea de distribuție pe __________________________. crt. 118 din Graficul de Execuție este identificată activitatea Branșamentele, ce durează 6 zile, de la data de 10.10.2021 până la data de 15.10.2021. Subactivitățile sale sunt lucrări ce se întind de la data de 10.10.2021 până la data de 15.10.2021, și pentru care, în acest interval de timp, se desfășoară toate subactivitățile, respectiv montare cămine de branșament (nr. crt. 117 din grafic), amiralul pozării conductei de branșament ( nr. crt. 118 din grafic) și proba de presiune (nr. crt. 119 din grafic). Proba de presiune se execută în ultima zi din intervalul de timp menționat, respectiv în data de 15.10.2021, dată în care se desfășoară și celelalte subactivități, respectiv montarea ultimului cămin de branșament și controlul pozării conductei. Deoarece cele 6 zile de execuție au fost alocate în grafic pentru subactivitatea Branșamente, pentru Proba de presiune nu s-a alocat o durată de timp suplimentara, acesta urmând a fi executată în ultima zi, respectiv în data de 15.10.2021, acesta fiind explicația pentru care în grafic subactivității proba de presiune îi sunt alocate 0 zile.
+
+Se observă astfel că lucrării denumită controlul pozării îi sunt alocate 0 zile ca durată, iar această explicație este logică și rezultă din simpla analizare a graficului; lucrările de branșamente includ și lucrarea de control a pozării, ele se întind pe întreaga perioadă de 6 zile, iar controlul pozării va fi realizată în ultima zi, ce coincide cu ultima zi a lucrărilor de branșamente. Cum controlul pozării este o operațiune scurtă ca durată, este cert că este absorbită și indusă în activitatea anterioară.
+
+Succesiunea și includerea unei activități în alta este marcată chiar și vizual în Coloana nr. 911 a Graficului Gantt și ajută a înțelege contraargumentele societății.
+
+Spre deosebire de lucrarea controlul pozării (de la poziția 131 din grafic), la punctul 132 din Grafic se regăsește lucrarea proba de presiune, ce durează o zi, cu întindere de la data de 26.10.2021 până la aceeași dată de 26.10.2021. De data aceasta însă, se observă că lucrarea proba de presiune de la punctul 132 nu mai este indusă într-o altă activitate la rândul ei, ci este o lucrare de sine stătătoare, acesta fiind și motivul pentru care îi este alocată o zi completă.
+
+Cât despre împrejurarea că unor străzi cu lungimi aproximativ egale (160,28 m și 160,67 m), societatea a acordat perioade de execuție diferite (de 11, respective 13 zile), urmând a se avea în vedere că în realitate, noțiunea de diferite ar trebui mai degrabă înlocuită cu noțiunea de aproximativ egale.
+
+În aprecierea societății, o diferență de numai două zile între lucrările ce se vor realiza la două străzi cu lungime aproximativ egală nu exprimă carențe în stabilirea perioadelor de execuție, mai ales în contextul în care fiecare stradă în parte, pe lângă distanță are și alte criterii de specificitate, pe care reclamanta le-a avut în vedere, iar diferențele de timp sunt mai mult decât rezonabile, chiar aproximativ egale.
+
+În ultimul rând, subliniază și apărările relativ la susținerile intervenientei [OPERATOR ECONOMIC], comentariile aferente fiind potrivit tabelului.
+
+Concluzii: absolut toate duratele activităților și perioadele de derulare a acestora sunt în totalitate corespunzătoare complexității activităților și sunt detaliate în mod expres în grafic, în corelare cu Metodologia pentru realizarea lucrării, iar depunctarea este vădit nejustificată.
+
+3.4 SUBFACTORUL DE EVALUARE 1.4 Există neconcordanțe minore între graficul general de realizare a investiției publice, resursele utilizate și metodologia de execuție.
+
+Prezentarea subfactorului 1.4.: Ofertantul prezintă un grafic de execuție de tip Gantt în care nu evidențiază resursele alocate (manopera, utilaj și transport). Separat, ofertantul prezintă explicații detaliate de corelare a resurselor cu metodologia de execuție. Din prezentarea activităților nu se poate identifica flexibilitatea adaptării șantierului în cazul unor situații neprevăzute atât ca lucrări, cât și ca resurse.
+
+Relativ la sub factorul 1.4., societatea asociere a obținut calificativul „acceptabil" și punctaj 2 puncte.
+
+Critici privind modul de evaluare și acordare a punctajului în legătură cu Subfactorul 1.4. și critici cu privire la soluția Consiliului în referire la acest subfactor de evaluare:
+
+Carența pe care autoritatea contractantă o identifică relativ la acest subfactor este aceea că din prezentarea activităților „nu se poate identifica flexibilitatea adaptării șantierului în cazul unor situații neprevăzute atât ca lucrări cât și ca resurse,,.
+
+În primul rând, redă aceleași critici privind nemotivarea depunctării, în sensul că autoritatea contractantă nu explică la niciun moment și în nici o cerință, ce ar însemna flexibilitatea adaptării șantierului în cazul unor situații neprevăzute și de ce a________ nu a făcut o atare dovadă. Nici Consiliul nu arată dacă există o atare motivare sau nu.
+
+În al doilea rând, pentru a combate această așa-zis carență, face trimitere la conținutul Metodologiei pentru realizarea lucrării - Formularul nr. 8 al societății asocieri, care, la paginile 2-8 chiar oferă informații privind flexibilitatea șantierului și identifică:
+
+- modul de marcare a lucrărilor
+
+- modul de poziționare a cotelor și a stațiilor de investigare
+
+- obligativitatea verificării periodice a bornelor și stațiilor
+
+- modul de amplasare al bornelor și stațiilor de investigare
+
+- realizarea și supunerea spre aprobare a planurilor ce indică amplasarea, nivelele sau coordonatele bornelor și stațiilor
+
+- realizarea și supunerea spre aprobare a detaliilor complete cu privire la amplasare, împreună cu calculele și planurile suport
+
+- obligația de identificare dimensiuni amplasamente și structuri
+
+- modul de identificare în planuri a pantei colectoare, rețele conducte etc. și necesitatea supunerii spre aprobare
+
+- modul de identificare a locațiilor prin țăruși de oțel bătuți în beton sau alte mijloace de marcaj aprobate
+
+- modul de stabilire a coordonatelor de referință
+
+- modul de stabilire a secțiunii lucrărilor, în scopul facilității intervenției Autorităților care prestează servicii în vederea realizării unor modificări temporare sau permanente la echipamentele sau serviciile pozate îngropat deținute de acestea
+
+- obligația supravegherii investigațiilor și stabilirea acestora prin supervizori calificați și cu experiență
+
+- utilizarea de instrumente de investigație/echipamente moderne și menținute Ia standard de primă clasă
+
+- asigurarea de muncă și materiale necesare pentru a facilita verificarea și aprobarea nivelelor, marcajelor, localizării structurilor
+
+- modul de realizare a lucrărilor de terasamanente și ce tip de echipamente pot fi folosite, dacă va fi necesar: motocompresoare, ciocane pneumatice, buldoexcavatoare
+
+- modul de depozitare a materialelor
+
+- când este necesar, excavația și mișcarea pământului din gropi de împrumut, se va realiza cu senile și excavatoare ce vor avea suportul încărcătoarelor pe pneuri
+
+- modul de pregătire a terasa mentei or pentru legătura structurii existente de drum cu noua structură de drum
+
+- modul de compactare și transport ai solului excavat doar cu utilaje aprobate -verificarea lucrărilor pregătitoare
+
+- modul în care se acordă o atenție specială menținerii stabilității lucrărilor de excavare în imediata apropiere a unor lucrări deja existente care nu trebuie deranjate
+
+- obligația de asigurare că în permanență pe șantier sunt suficiente echipamente, pentru evitarea oricărei întreruperi
+
+- modul de realizare a săpăturilor
+
+- modul de marcare a tranșeelor pe toată durata lucrării
+
+- modul în care se va acționa în cazul în care se constată apariția crăpăturilor paralele pe marginea superioară a tranșeelor sau a gropilor, în sensul că se vor lua măsuri de consolidare suplimentară a malurilor pentru a evita surpările
+
+- modul de semnalizare săpături pe timp de zi și de noapte
+
+- necesitatea de montare parapeți de protecție
+
+- modul de acțiune în caz de întâlnire în săpătură de cabluri, conducte ori protecții, în sensul că se va opri lucrarea din zona, se vor lua măsuri de semnalizare, se va anunța operatorul de rețea și se vor lua măsurile de protejare și protecția muncii
+
+- modul în care se realizează lucrările de sprijinire a malurilor, în cazul în care executarea șanțurilor o impune
+
+- obligativitatea de a se lua măsurile pentru evitarea situațiilor periculoase
+
+- modul de asigurare a condițiilor de circulație și de adaptare la acestea
+
+- modul în care se vor începe lucrările de terasamente, în sensul ca în prealabil se vor efectua toate măsurile de siguranță
+
+- modul de realizare a săpăturilor în zonele cu densitate mare de lucrări ascunse, respective manual
+
+- măsurile de precauție pentru a preveni alunecările de teren și prăbușirea terenului sau a altor material excavate
+
+- măsurile de prevenire și stingere a incendiilor
+
+În al treilea rând, contraargumentând criticile autorității contractante exprimate în fața Consiliului și preluate prin decizia atacată, evidențiază următoarele:
+
+Autoritatea contractantă arată că societatea nu a evidențiat pe graficul de execuție resursele alocate și a prezentat trei grafice de execuție, în loc de unul.
+
+Contraargumentând și întrucât o astfel de critică a autorității contractante este identică cu cea analizată la subfactorul de evaluare 1.1., reiterează apărările expuse la punctul 3.1din prezenta plângere.
+
+În ultimul rând, cu trimitere la afirmațiile intervenientei [OPERATOR ECONOMIC] relativ la Subfactorul de evaluare 1.4, redă următoarele conform tabelului:
+
+Concluzie: flexibilitatea adaptării șantierului în cazul unor situații neprevăzute, atât ca lucrări, cât și ca resurse se identifică în cuprinsul Metodologiei pentru realizarea lucrării -Formularul nr. 8 al societății asocieri, la paginile 2-8, cele mai importante puncte fiind anterior bolduite și subliniate.
+
+Cum societatea asociere a prevăzut adaptarea șantierului: în caz de necesitatea intervenției autorităților în șantier, în caz de nevoie suplimentare forță de muncă și materiale în caz de utilizare echipamente speciale și adiționale pentru anumite lucrări complexe ori neprevăzute, în caz de excavații și mișcare gropi prin utilizarea de pneuri, în caz de necesitate realizare stabilitate lucrări de excavam în imediata apropiere a unor lucrări deja existente, în caz de evitare întrerupere prin depozitare echipamente suplimentare pe toată durata lucrării, în caz de întâlnire în săpături de cabluri, conducte ori protecții, în caz de apariție crăpături și necesități consolidare suplimentară maluri, în caz de prevenire alunecări teren și probii șire teren etc, apreciază și de data aceasta că depunctarea este neîntemeiată.
+
+Pentru toate considerentele anterior indicate, solicită admiterea plângerii astfel cum a fost formulată.
+
+În drept, au fost invocate disp. art. 29 și urm. din Legea nr. 101/2016, coroborate cu textele de lege indicate în cuprinsul plângerii.
+
+[OPERATOR ECONOMIC] a formulat întâmpinare, solicitând respingerea ca nefondată a plângerii, cu următoarea motivație:
+
+[OPERATOR ECONOMIC] a desfășurat procedura de achiziție publică privind Contractul de lucrări CL20 - Rețele apă Poarta Albă, Murfatlar, Rețele apă și canalizare Castelu, Aducțiune Castelu, Anunț de participare: CN _______/27.10.2020.
+
+Așa cum și petenta a afirmat, câștigătoarea procedurii a fost desemnata societatea [OPERATOR ECONOMIC] cu 95,41 puncte, pententa A________ [OPERATOR ECONOMIC]- [OPERATOR ECONOMIC] clasandu-se pe locul doi cu 90 puncte.
+
+Petentei i-a fost comunicat rezultatul procedurii prin adresa nr.343 62/19.04.2021.
+
+Împotriva rezultatului procedurii A________ [OPERATOR ECONOMIC]- [OPERATOR ECONOMIC] a formulat plângere la CNCS, plângere respinsă prin Decizia nr. 1319/C6/1111/18.06.2021.
+
+Împotriva deciziei CNSC s-a formulat plângere, arătându-se, în principal, că consiliul nu ar fi analizat critica potrivit cu care autoritatea contractantă nu și-a motivat modul în care a depunctat-o pe petentă și totodată că ar fi efectuat o eronată analiză a probelor și a apărărilor pententei.
+
+II. De la început trebuie subliniat că documentația de atribuire, alcătuita din fișa de date, caietul de sarcini, formularele necesare și modelul contractului sectorial de lucrări, la care se adaugă clarificările postate în SEAP, nu a fost contestată de nici unul dintre operatorii care au participat la procedura de achiziție publică, drept pentru care toate prevederile ei și-au consolidat forța obligatorie atât față de autoritatea contractantă, cât și față de operatorii participanți la procedură, așa cum s-a reținut și prin decizia CNSC- alin.2, f.23.
+
+Necontestarea documentației de atribuire atrage aplicabilitatea disp. art. 88 din L. nr.99/2016 „Ofertantul depune oferta elaborată în conformitate cu informațiile și cerințele prevăzute în documentația de atribuire, însoțită de DUAE sau alte documente solicitate prin care ofertantul furnizează informații privind îndeplinirea criteriilor de calificare și selecție stabilite de entitatea contractantă." și art. 129 alin. l din HG nr.394/2016 „Ofertantul elaborează oferta în conformitate cu prevederile documentației de atribuire și indică motivat în cuprinsul acesteia care informații din propunerea tehnică și/sau din propunerea financiară sunt confidențiale, clasificate sau sunt protejate de un drept de proprietate intelectuală, în baza legislației aplicabile."
+
+În concluzie, documentația, acceptată de toți participanții la procedura de atribuire, impunea acestora urmărirea cu strictețe a cerințelor, prescripțiilor și a dispozițiilor legale incidente.
+
+Sublinierile făcute sunt utile în contextul în care petenta folosește în repetate rânduri, în fapt își motivează plângerea, pe chestiuni de sinonimitate, arătând că anumite poziții/activități din documentația depusă sunt „sinonime" cu cerințele din documentația de atribuire.
+
+O astfel de apărare, este în fapt o adăugare la lege, fapt nepermis, așa cum este consacrat prin principiul de drept ubi lex non distinguit, nec nos distinguere debemus.
+
+O altă chestiune pe care dorește să o sublinieze este acea potrivit cu care din plângere nu rezultă motive de nelegalitate ale deciziei atacate, ci doar motive de temeinicie și acestea întemeiate pe interpretări subiective și pe aproximări/sinonimie.
+
+Nu în ultimul rând, consideră a fi utile și precizări cu privire la definiția și efectele înscrisurilor denumite ’’Grafic Gantt" și ’’Oferta Tehnică", dat fiind ca petenta, în mai multe rânduri, afirmă că cele două înscrisuri se completează unul pe altul, motiv pentru care dacă în unul se regăsește o anumită categorie de lucrări/activităti/subactivități acestea nu trebuie să se regăsească și în celalalt.
+
+Graficul Gantt, în esență, este un instrument de planificare, elaborat în 1917 de Henry L.Gantt, inginer și sociolog de origine americană. Frecvent utilizata în managementul de proiect, o diagrama Gantt oferă o ilustrare grafica a unui program de activități, care ajută la planificarea, coordonarea și monitorizarea unor sarcini specifice dintr-un proiect. Forma grafică a unui astfel de instrument de planificare constă într-o matrice pe a cărei axa orizontală este reprezentată perioada de timp pe care se întinde proiectul, împărțită în unități de măsură (spre exemplu zile, săptămâni sau luni) și pe a cărei axa verticală sunt reprezentate sarcinile din proiect.
+
+În Anexa nr. l la Ordinul nr. 1017 din 20 februarie 2019 privind aprobarea structurii. conținutului și modului de utilizare a Documentației standard de atribuire a contractului de achiziție publica/sectoriala de produse, precum și a modalității de completare a anunțului de participare/de participare simplificat, publicat în Monitorul Oficial cu numărul 215 bis din data de 19 martie 2019, se regăsesc cerințele impuse a fi respectate la întocmirea „Propunerii Tehnice". Chiar daca acest ordin vizează contractele de achiziție publică de produse, consideră că dispozițiile sale pot fi aplicate și prezentei spețe având în vedere că ordinul este emis în temeiul L. nr. 99/2016, lege aplicabilă și în speță, dar și pentru că ordinul cuprinde instrucțiuni și recomandări cu titlu general aplicabile oricărei proceduri de achiziție publică.
+
+Astfel, în Secțiunea a II-a, pct.3, lit.A, spct.2 se arată că „Ofertanții vor întocmi propunerea tehnică într-o manieră organizată, astfel încât aceasta să asigure posibilitatea verificării în nici un fel a corespondenței cu cerințele/specificațiile prevăzute în cadrul prezentei secțiuni, respectiv cu cele prevăzute în cadrul Caietului de sarcini și a documentelor anexate la acesta, care fac parte integrantă din documentația de atribuire.
+
+În acest scop, pornind de la propria expertiză a ofertantului în domeniul contractului ce urmează să fie atribuit și prin raportare la necesitățile, obiectivele și constrângerile autorității/entității contractante, astfel cum au fost acestea descrise în cadrul Caietului de sarcini, propunerea tehnică va cuprinde informații relevante privind abordarea propusă de ofertant pentru execuția contractului."
+
+În concluzie se poate afirma că Graficul Gantt este transpunerea scriptică/oglinda grafică a perioadelor de timp afectate activităților/lucrărilor menționate în "Propunerea Tehnica" în raport de activitățile/subactivitățile necesare îndeplinirii proiectului în baza metodologii lor specifice execuției fiecăreia dintre activități, așa încât dacă unele activități/lucrări NU sunt prevăzute în ’’Propunerea Tehnică" ele nu pot fi transpuse în Graficul Gantt, altfel s-ar ajunge la situația absurdă de a efectua scriptic planificarea unor lucrări care nefiind prevăzute în „Propunerea Tehnică" nu vor fi vreodată efectuate.
+
+Mai mult, de acuratețea „Propunerii Tehnice" și de posibilitatea verificării, pe parcursul derulării contractului/lucrărilor, a respectării tuturor elementelor conținute în „Propunerea Tehnică" ține chiar existența contractului și implicit posibilitatea de a rezilia contractul pentru neîndeplinirea exactă a cerințelor impuse prin caietul de sarcini.
+
+III. În Documentația de atribuire, respectiv în Volumul „Instrucțiuni pentru ofertanți" la pct.II.2.5 se regăseau „Criteriile de Atribuire"(redate în tabelul inclus în Punctul de Vedere transmis CNSC), iar în Volumul „Formulare" se regăsea Formularul 10- Program.
+
+În Formularul 10- Program din Documentația de atribuire este specificat:
+
+"Ofertantul va prezenta următoarele informații minime:
+
+Un program pentru execuție care să ilustreze succesiunea și derularea în timp a activităților pe care ofertantul propune să le îndeplinească pentru realizarea Lucrărilor, în termenul de execuție ofertat.
+
+Programul va prezenta, în special, următoarele:
+
+Lucrări permanente și temporare ce urmează a fi executate.
+
+Activități de interfațare cu lucrările existente și operarea acestora.
+
+Perioadele pentru examinarea Documentelor Contractorului de către Supervizor.
+
+Secvențierea, derularea în timp și durata testelor.
+
+Perioadele necesare elaborării de documentații pentru toate permisele și acordurile necesare și pentru aprobarea acestora.
+
+Etape esențiale.
+
+Ofertantul va anexa o diagramă a momentelor critice, care să includă cerințele de mai sus (grafic de execuție) și care să reprezinte programul de execuție al contractului de lucrări. Acesta va trebui să detalieze sectoarele de lucrări, activitățile relevante, datele, alocările de resurse de muncă și echipamente pe sectoare de lucrări și activități, etc. Intrările planificate ale partenerilor asocierii și sub-antreprenorilor vor fi evidențiate de asemenea (în termeni de sectoare de lucrări, activități realizate, timp, etc.)".
+
+Precizează că punctajul tehnic s-a acordat luându-se în considerare liniile directoare prezentate în tabelul ce cuprinde „Criterii de Atribuire" și din Formularul 10- Program.
+
+Analizând Graficul Gantt prezentat de A________ [OPERATOR ECONOMIC]-[OPERATOR ECONOMIC] ( în continuare A________), coroborat cu Metodologia pentru realizarea lucrărilor, s-a observat că acesta nu a fost întocmit conform cerințelor Entității contractante, Comisia de evaluare constatând că sunt necesare solicitări de clarificări.
+
+Ofertantul A________ a prezentat 3 grafice, respectiv:
+
+-1 Grafic Gantt pentru lucrări;
+
+-1 tabel privind Alocare instalații/echipamente;
+
+- 1 tabel privind Resurse umane și nu un singur grafic de execuție în care să fie prezentate lucrările detaliate (terasamente, montaj conducta, branșamete/racorduri, etc) ce urmează a fi executate pe fiecare stradă, inclusiv cu resursele umane și materiale aferente acestora, astfel încât să reiasă care sunt resursele (numărul și specialitatea/tipul) necesare realizării fiecărei etape ( activități/ subactivități) în parte așa cum era cerința Entității contractante.
+
+Și ca urmare a solicitării de clarificări transmisă Ofertantului de către Comisia de evaluare, cu privire la prezentarea în grafic a resurselor umane și a echipamentelor alocate, acesta le-a prezentat tot separat, ceea ce a condus la depunctarea propunerii tehnice, prezentarea neunitara demonstrând lacune în abordarea integrală și coordonarea activităților.
+
+În fapt, modalitatea de prezentare de către Asociere a Propunerii Tehnice încalcă disp. art. 139 alin.2 din HG nr. 394/2016 - Normele metodologice de aplicare a L. nr. 99/2016- potrivit cu care „Propunerea tehnică trebuie să corespundă cerințelor minime prevăzute în caietul de sarcini sau în documentul descriptiv."
+
+La fila 21 din plângerea adresată instanței de judecata petenta a arătat că "Practic, Metodologia de execuție a lucrărilor se coroborează perfect cu informațiile și mențiunile din Graficul Gantt, în sensul că se explică în mod clar că o anumita lucrare, inserată în grafic, cuprinde toate etapele componente și detaliate în cuprinsul metodologiei, confundându-se practic cu acestea."
+
+Falsă afirmație dat fiind că "Metodologia de Execuție" nu poate fi coroborată cu Graficul Gantt, sau altfel spus "metodologia" nu poate fi pusă în operă și nu poate cuprinde anumite operațiuni, în raport de Graficul Gantt, ci invers, respectiv Graficul Gantt trebuie întocmit în raport de operațiunile incluse într-o anumită ’’metodologie".
+
+De altfel, chiar definițiile din Dicționarul explicativ român pentru termenii ’'Metoda’' și Metodologie" , exclud afirmațiile petentei, întrucât metodologia este caracterizată printr-un grad de „maximă generalitate", așa încât dacă ea nu cuprinde, în cazul de față, anumite operațiuni/activități/subactivități acestea nu pot fi planificate/transpuse în Graficul Gantt.
+
+În consecință, prezentarea grafică (în Graficul Gantt) a unor operațiuni ce nu sunt incluse/detaliate/specificate în „Metodologia de Execuție" și implicit nu sunt menționate în Propunerea Tehnica, nu este de manieră a respecta cerințele autorității contractante, așa cum acestea au fost prevăzute în Formularul FlO-Program și implicit ale prevederilor legale - art. 88 din L. nr.99/2016, art.129 alin. I și 139 alin.2 din HG nr. 394/2016.
+
+Prin urmare, criticile asupra modului de cuantificare a punctajului tehnic acordat petentei sunt vădit nefondate și în consecință trebuie respinse ca atare.
+
+IV. Așa cum s-a reținut și în decizia atacată în cadrul documentației publicată în SEAP se regăsește și documentul intitulat „Anexa - Fișa de acordare a punctajului în conformitate cu factorii selectați", în cuprinsul căreia s-a realizat analiza subfactorilor, iar în raport de gradul de realizare a acestor subfactori s-a acordat punctajul.
+
+Petenta a criticat modul în care s-a realizat această analiză și implicit modul în care s-a acordat punctajul, clamând și că decizia Comisiei de evaluare ar fi nemotivată.
+
+1. Astfel, petenta a arătat că pentru Subfactor de evaluare 1.1 ar fi îndeplinit integral cerințele autorității contractante, iar autoritatea contractantă "putea și trebuia să identifice care din cele 3 obiecte nu a fost împărțit în subactivități. A arătat petenta și că obligația motivării ar rezida din disp. art.32 din Normele Metodologice din 2016 de aplicare a L.nr.99/2016, criticile fiind nefondate, în primul rând pentru că art.32 NU impune nici un fel de obligație cu privire la motivarea deciziei Comisiei de evaluare.
+
+Potrivit art.32 din HG nr.394/2016 de aprobare a Normelor Metodologice de aplicare a L. nr.99/2016 "(l)Entitățile contractante aplică criterii de calificare și selecție prevăzute la art. 176 din Lege, precum și motivele de excludere prevăzute la art. 177 și 179 din Lege " și "(2) În condițiile art. 175 alin. (2) din Lege, entitățile contractante, altele decât cele prevăzute la art. 4 alin. (1) Ut. a) și b) din Lege, aplică norme și criterii obiective pentru excluderea operatorilor economici care solicită calificarea, care pot include criterii de calificare și selecție prevăzute la art. 176, precum și motivele de excludere prevăzute la art. 177 și 179 din Lege."
+
+Deci, în raport de dispozițiile legale invocate de petenta era de observat daca autoritatea contractanta a aplicat alte criterii de calificare decât cele prevăzute de art. 176 din L. 99/2016, însă cum, etapa calificării ofertanților a fost depășită, în momentul evaluării ofertelor dispozițiile legale invocate de petenta nu-și găsesc aplicarea, așa încât critica se vădește a fi nefondată.
+
+Obligațiile Comisiei de evaluare sunt stipulate, cu titlu general, în disp. art.139 alin.l din HG nr.394/2016 potrivit cu care „Comisia de evaluare are obligația de a analiza și de a verifica fiecare ofertă atât din punctul de vedere al elementelor tehnice propuse, cât și din punctul de vedere al aspectelor financiare pe care le implică.", iar cu titlu special în alin.2 în ceea ce privește propunerea tehnică, care trebuia să respecte cerințele minimale ale caietului de sarcini.
+
+Așa fiind, chiar petentei îi revenea obligația de a întocmi „Propunerea Tehnică" într-o manieră organizată (nu cu 3 grafice ) în scopul de a putea verifica "în mod facil corespondența cu cerințele/specificațiile prevăzute în cadrul Caietului de sarcini și a documentelor anexate la acesta, care fac parte integrantă din documentația de atribuire".
+
+În ceea ce privește o nemotivare a deciziei prin care Comisia de Evaluare a depunctat-o pe petenta este de observat, așa cum a reținut și CNSC în decizia atacată- f.26- că subscrisa atât prin mențiunile cuprinse în Fișa de punctaj individual, cât și prin Punctul de vedere transmis la dosarul cauzei, a motivat depunctarea petentei, ba mai mult consiliul verificând aparările subscrisei a constatat că anumite subactivități prevăzute în metodologia de lucru NU erau prevăzute în Graficul Gantt.
+
+În ceea ce privește nemotivarea Deciziei CNSC cu privire la critica petentei referitoare la nemotivarea deciziei Comisiei de Evaluare solicită respingerea ca nefondată având în vedere că CNSC a soluționat implicit această chestiune prin analiza efectuată începând cu f.26. Chiar dacă nu este pronunțată o soluție expresă pentru chestiunea invocată de petenta, facil se poate observa că CNSC a analizat- o și găsit-o neîntemeiată.
+
+În continuare, petenta a arătat că în mod eronat autoritatea contractantă ar fi reținut că a depus 3 grafice, de vreme ce domniile lor au depus un singur formular 10-Propunere Tehnica.
+
+Eroarea nu aparține intimatei, ci petentei, care nu a înțeles să respecte cerințele impuse prin Caietul de Sarcini, respectiv cele de a depune un singur grafic de execuție, grafic care să cuprindă împreuna atât programul de execuție, cât și resursele alocate.
+
+Or, petenta a depus un grafic pentru cele 3 Obiecte principale și sub-obiectele lor, unul pentru alocarea instalațiilor și echipamentelor și unul pentru Alocarea de resurse umane, manieră ce nu respectă cerințele legale și nici nu permite verificarea facilă a corespondenței Propunerii Tehnice cu cerințele/specificațiile prevăzute în Caietul de sarcini.
+
+Că nu puteau fi depuse trei grafice rezidă și din disp. art. l ale Subcaptilolului VI din Anexa la HG nr. 1/2018 pentru aprobarea condițiilor generale și specifice pentru anumite categorii de contracte de achiziție aferente obiectivelor de investiții finanțate din fonduri publice care prevede ca în contract va fi inserata „Clauza 17. Programul de Execuției7.1. în termen de 30 de zile de la Data de începere, Antreprenorul va transmite Supervizorului, spre analiză și acceptare, un Program de Execuție detaliat al întregului Contract, alcătuit dintr-un grafic de eșalonare calendaristică Gantt (pe suport hârtie și în format electronic editabil) și un raport descriptiv. Acest prim Program de Execuție, inclusiv metodologia de lucru și resursele, va fi elaborat în baza programului de lucrări depus în Ofertă de către Antreprenor."
+
+În ceea ce privește chestiunea detalierii subactivitaților petenta arată că acestea au fost detaliate în Graficul Gantt, însă așa cum anterior s-a afirmat și cum s-a detaliat și în Punctul de Vedere transmis CNSC, o astfel de detaliere trebuia efectuată în Propunerea Tehnică și nu în Graficul Gantt. De altfel, CNSC a reținut la f.26 ca apărările intimatei în acest sens sunt întemeiate.
+
+Nu în ultimul rând, la f. 14-15 din plângere petenta clamează că anumite subactivități „denumite" /menționate în Graficul Gantt "includ, sau mai bine zis sunt sinonime" cu ceea ce subscrisa denumește într-un alt mod.
+
+Spre exemplificare, se arată că subactivitatea-Lucrări de Terasamente include desfacerea sistem rutier, că subactivitatea Conducte include execuție pat de nisip, spălare și dezinfecție conductă, umpluturi finale de pământ, etc.
+
+Arată că în Graficul Gantt nu pot fi prevăzute lucrări cu „caracter general" și nici "lucrări sinonime", întrucât acestea trebuie să se regăsească, mai întâi, în Propunerea Tehnică, care la rândul ei este întocmită în raport de Metodologia de Execuție a fiecărei subactivități în parte. Metodologia de execuție este prevăzută în Caietul de Sarcini, așa încât petenta era obligată să respecte cerințele minimale impuse în caietul de sarcini, nerespectarea acestei obligații atrăgând depunctarea ofertanților.
+
+Nedetalierea subactivităților a condus la depunctarea petentei, întrucât deși activitățile prezentate permit o evaluare adecvată în cadrul ședințelor de monitorizare la nivel de obiect, nu permit o astfel de monitorizare și la nivel de sub-activități, ceea ce ar îngreuna, ba chiar împiedica, autoritatea contractantă în monitorizarea reală a corespondenței Propunerii Tehnice cu cerințele/specificațiile prevăzute în cadrul Caietului de sarcini.
+
+Încă o dată subliniază că, în materia achizițiilor publice, și implicit în domeniul specific de activitate ce privește prezenta procedura de achiziție publica, nu exista „lucrări sinonime", nici măcar la nivel de terminologie, cu atât mai mult la nivel de Metodologie de Execuție, așa încât petenta era obligată să respecte cerințele caietului de sarcini și să elaboreze o Propunere Tehnică în acord cu Metodologia de Execuție impusă de autoritatea contractantă.
+
+CNSC analizând această chestiune a conchis la f.27-28 că petenta nu-și poate susține afirmațiile de vreme ce nu a respectat Metodologia de lucru impusă de intimată prin documentația de atribuire.
+
+Mai mult, este de observat chiar lipsa de consecventa a petentei în descrierea/ explicitarea/ detalierea lucrărilor/ activităților.
+
+Astfel, la f.14-15 explică că subactivitatea - Lucrări de Terasamente include desfacerea sistem rutier, iar la f.20 ca Lucrările de terasament acopera fixarea reperelor de nivelment, desfacerea pavajului existent, executarea săpăturilor și a sprijinilor.
+
+În realitate, Lucrările de terasement includ toate aceste subactivități începând cu trasarea axului sapăturii/șanțului, fixarea reperelor de nivelment, desfacerea sistemului rutier(pavaj), executarea săpăturilor și sprijinirile de mal, etc. , așa cum sunt enumerate în Metodologia de lucru și cum sunt menționate și la f-27-28 din decizia atacată.
+
+Deci, nedetalierea tuturor subactivităților corespunzătoare fiecărui obiect principal de activitate releva nerespectarea condițiilor minimale impuse prin Caietul de sarcini, dat fiind că autoritatea contractanta nu a impus metodologii de execuție diferite pentru același obiect de activitate, dar ce urma să fie executat pe raza altei localități. Cu alte cuvinte, Lucrările de terasament includ aceleași subactivităti atât la Poarta albă, cât și la Murfatlar, dacă lucrările se desfășoară în intravilanul localităților.
+
+Astfel, se poate afirma că necorelarea, strictă, a documentației depuse de ofertant cu cerințele caietului de sarcini reprezintă o încălcare a obligațiilor legale, în speță aceasta încălcare fiind sancționată prin depunctarea ofertantului.
+
+Încă o dată, petenta încearcă a ne lamuri că anumite activități neincluse în Propunerea Tehnică, dar menționate în Graficul Gantt, respectă cerințele caietului de sarcini.
+
+Astfel, la fila 27 din plângere se încearcă a se justifica nealocarea unor perioade de timp pentru anumite activități și subactivități, arătându-se că unele activități le includ pe celelalte.
+
+Este o maniera greșită de abordare, întrucât, cu titlu de exemplu, activitatea de Execuție Branșamente (pentru care s-au alocat 6 zile) NU poate include și activitatea Proba de Presiune (pentru care nu s-a alocat o perioada de timp), întrucât metodologiile de lucru sunt diferite și nu sunt nici măcar complementare.
+
+În aceleași 6 zile de Execuție Branșamente petenta a inclus și „Controlul pozării conductelor", arătând că activitatea de control este una continuuă (pe tot parcursul execuției) motiv pentru care nu i s-a alocat o anume perioadă de timp dar, totuși va fi realizată în ultima zi din cele șase de execuție(???). Atunci ne întrebam, Or este continuuă, ori se desfașoară în ultima zi?
+
+Ultima zi de execuție era anterior programată pentru Proba de Presiune, așa încât nu se poate întrevedea care anume activități vor fi realizate de către petentă în ultima zi din cele șase de execuție, sau altfel spus nu se poate verifica care anume subactivitate nu va fi efectiv îndeplinită.
+
+CNSC a reținut la f.28- 29 că autoritatea contractantă, prin comisia de evaluare nu avea obligația de a „deduce" că anumite activități prezentate grafic ar include și alte subactivități.
+
+De altfel, nici un text normativ nu impune autorității contractante obligația "de a deduce" în baza documentației prezentate de ofertanți, ci ii impune obligația „verificării corespondenței între cerințele caietului de sarcini și cele ale documentației depuse de ofertanți".
+
+Prin urmare și acest motiv de critică se vădește a fi nefondat.
+
+4. Petenta critică și modul de punctare al Subfactorului de evaluare
+
+1.4. În Fișa de acordare a punctajului în conformitate cu factorii selectați pârâta a menționat că „Ofertantul prezintă un grafic de execuție de tip Gantt în care nu evidențiază resursele alocate (manopera, utilaj și transport). Separat, ofertantul prezintă explicații detaliate de corelate a resurselor cu metodologia de execuție. Din prezentarea activităților nu se poate identifica flexibilitatea adaptării șantierului în cazul unor situații neprevăzute atât ca lucrări cât și ca resurse. "
+
+Deși, în Metodologia de execuție a lucrărilor sunt oferite informații privind flexibilitatea șantierului, Graficul general de realizare a investiției publice trebuia să demonstreze tocmai optimizarea utilizării resurselor corelate cu metodologia de execuție."
+
+O fertantul, nici ca urmare a solicitării de clarificări, nu a evidențiat în grafic resursele alocate (forța de munca, utilaj și transport) și a prezentat grafice distincte, motiv pentru care membrii Comisiei de Evaluare nu au putut proba corectitudinea corelării alocării resurselor pentru activități.
+
+Din acest motiv, precum și din prezentarea activităților ( împărțite parțial pe subactivități) nu se poate identifica flexibilitatea adaptării șantierului în cazul unor situații neprevăzute atât ca lucrări, cât și ca resurse.
+
+Astfel, există riscul ca estimările ofertantului să nu fie îndeplinite, în sensul că exista posibilitatea ca resursele să fie subdimensionate raportat la progresul fizic estimat și programat.
+
+Pentru toate aceste motive, precum și pentru cele exprimate în punctul de vedere transmis CNSC, solicită respingerea ca nefondată a plângerii, cu consecința menținerii ca legală și temeinică a deciziei atacate, cu cheltuieli de judecată, invocând disp. art. 31 alin.2 din L. nr. 101/2016 și art. 453C.pr.civ .
+
+[OPERATOR ECONOMIC], în temeiul art. 31 alin.2 din Legea nr.101/2016, a formulat întâmpinare față de plângerea formulată de petentă împotriva Deciziei Consiliului N_______ de Soluționare a Contestațiilornr. 1319/C6/1111 din data de 18.06.2021, prin care solicită în principal, respingerea criticilor împotriva evaluării ofertei sale, în principal, drept inadmisibile, iar în subsidiar, drept neîntemeiate și respingerea, în rest, a plângerii formulate împotriva Deciziei CNSC, drept neîntemeiată, iar într-un prim subsidiar, în măsura în care instanța ar admite plângerea Petentei și ar dispune rejudecarea în fond, solicită respingerea Contestației DAF Trans drept inadmisibilă, iar într-un al doilea subsidiar, solicită respingerea Contestației drept nefondată, pentru următoarele considerente:
+
+DAF Trans nu a formulat Contestație împotriva a ofertei pârâtei. Evaluarea ofertei Porr de către Autoritate Contractantă s-a definitivat, nefiind contestată în termenul legal. Criticile punctuale avansate de Petentă prin concluziile scrise din fața CNSC, respectiv prin Plângere sunt inadmisibile, conform art. 21 alin. (3) și art. 30 alin. (2) din Legea nr. 101/2016.
+
+Consiliul a motivat și a respins expres sau implicit criticile formulate de DAF Trans privind pretinsa nemotivare a modului în care RAJA a punctat propunerea tehnică a Petentei. În orice caz, motivele pentru care Autoritatea Contractantă a punctat propunerea tehnică a Petentei rezultă expres din algoritmul prevăzut de documentația de atribuire.
+
+În realitate, Petenta a contestat nivelul de detaliere sau pretinse neclarități ale algoritmului de punctare și ale documentației de atribuire. Or, aceste critici sunt tardive și inadmisibile la acest moment. Petenta nu a solicitat clarificări și nici nu a contestat documentația de atribuire. Petenta și-a asumat depunerea ofertei, în baza documentației de atribuire actuale, obligatorie pentru toate părțile.
+
+Deși pretinde că Autoritatea Contractantă ar fi trebuit să acorde maximul de puncte propunerii tehnice, în realitate, punctajul acordat Petentei este mai degrabă indulgent, decât incorect. DAF Trans nu a respectat în totalitate condițiile impuse prin documentația de atribuire privind modul de întocmire a graficului de execuție.
+
+Deși Formularul 10 și sub-factorii de evaluare prevăd depunerea unui singur grafic de execuție integrat și complet, din care să rezulte îndeplinirea tuturor condițiilor impuse de Autoritate, DAF Trans a depus în realitate 4 grafice de execuție diferite, plus alte două grafice privind resursele umane și echipamentele.
+
+Petenta nu poate imputa autorității contractante pretinse nereguli în evaluarea propunerii sale tehnice, în condițiile în care responsabilitatea și culpa pentru informațiile incomplete, neclare și contradictorii rezită în sarcina DAF Trans.
+
+După cum detaliază în continuare, CNSC a respins corect toate criticile Petentei privind aplicarea incorectă de către Autoritatea Contractantă a sub-factorilor de evaluare nr. 1.1-1.4 din documentația de atribuire.
+
+Autoritatea Contractantă și-a exercitat dreptul de apreciere privind evaluarea și punctarea ofertei DAF Trans, în limitele legale și ale condițiilor exprese și imperative ale documentației de atribuire.
+
+Dezvoltarea considerentelor:
+
+Prin Anunțul de participare nr. CN1025684 din data de 27.10.2020, Autoritatea Contractantă a lansat procedura de atribuire a contractului de achiziție publică sectorială având ca obiect „Rețele apă Poarta Albă, Murfatlar. Rețele de apă și canalizare Castelu. Aducțiune Castelu (,.Procedura de atribuire").
+
+Valoarea estimată a contractului este de 31.054.410 RON, iar criteriul de atribuire este „cel mai bun raport ca litote-preț, conform art. 209 alin. (3) lit. c) din Legea nr. 99/2016.
+
+Potrivit raportului procedurii nr. 34360din data de 19.04.2021 emis de Autoritatea Contractantă (..Raportul Procedurii'), au depus oferte următorii trei operatori economici:
+
+[OPERATOR ECONOMIC] - oferta a fost declarată conformă și admisibilă, cu un punctaj total de 95,41 de puncte, în urma aplicării criteriului de atribuire;
+
+A________ [OPERATOR ECONOMIC] - ____________________________ SRL - oferta a fost declarată conformă și admisibilă, cu un punctaj total de 90 de puncte, în urma aplicării criteriului de atribuire;
+
+A________ ____________________________ SRL - ___________ [OPERATOR ECONOMIC] - oferta a fost respinsă ca neconformă. Operatorul nu a contestat decizia Autorității Contractante, fiind exclus definitiv din procedură.
+
+Astfel, în urma evaluării ofertelor, Autoritatea Contractantă a întocmit clasamentul și a atribuit contractul Subscrisei, oferta Petentei fiind clasată pe locul secund.
+
+Prin Contestația din data de 29.04.2021 DAF Trans a criticat exclusiv modul în care Autoritatea Contractantă a evaluat și a punctat propunerea tehnică întocmită de Petentă, solicitând: (i) anularea Raportului Procedurii și a adreselor prin care s-a comunicat rezultatul Procedurii de atribuire către pârâtă și DAF Trans; și (ii) obligarea Autorității Contractante să reevalueze propunerea tehnică a DAF Trans.
+
+DAF Trans nu a formulat contestație împotriva evaluării ofertei Subscrisei.
+
+Prin Decizia CNSC, a fost respinsă contestația formulată de DAF Trans, drept neîntemeiată.
+
+Prin prezenta plângere, DAF Trans aduce, în esență, aceleași critici împotriva Deciziei CNSC. în plus, DAF Trans aduce critici punctuale împotriva modului de evaluare a ofertei pârâtei.
+
+II. Criticile împotriva modului de evaluare a ofertei pârâtei sunt inadmisibile
+
+Prin Plângere, DAF Trans critică mai multe aspecte punctuale ale propunerii tehnice a pârâtei.
+
+Or, prin Contestația depusă în fața CNSC, DAF Trans nu a contestat în vreun fel modul de evaluare a ofertei Porr. Contestația DAF Trans a vizat exclusiv modul în care Autoritatea Contractantă a evaluat și a punctat propunerea tehnică a Petentei.
+
+Abia prin concluziile scrise din data de 17.05.2021. DAF Trans a formulat anumite critici împotriva propunerii tehnice a Subscrisei.
+
+Conform art. 21 alin. (3) din Legea nr. 101/201 6:
+
+„Este inadmisibilă prezentarea unor noi motive de contestare și/sau formularea unor noi capete de cerere pe calea concluziilor scrise sau orale ori a precizărilor la contestație ulterior termenului legal de formulare a acesteia. "
+
+În baza acestor prevederi, CNSC a respins corect criticile formulate de DAF Trans, direct prin concluzii scrise, împotriva propunerii tehnica a pârâtei: „în ce privește criticile contestatoarei din cadrul Concluziilor scrise din 17.05.2021, referitoare la propunerea tehnică a ofertantului declarat Câștigător C_ C___ C________ C__. Consiliul, în temeiul dispozițiilor art. 21 al în. (3) din Legea nr. 101/2016. care stipulează ca: (...), le va respinse ca inadmisibile, având în vedere că. acestea nu au fost menționate în cuprinsul contestației depuse la Consiliu la dala de 05.05.2021
+
+Prin plângere, Petenta consideră că această decizie a Consiliului este neîntemeiată, întrucât la data formulării Contestației, DAF Tans nu putea „cunoaște intenția [OPERATOR ECONOMIC] de a formula cerere de intervenție în cauză". Argumentul Petentei este contrar legii.
+
+Pe de-o parte, legea interzice expres formularea de noi motive de contestație după expirarea termenului de contestare prevăzut de art. 8 alin. (1) lit. a) din Legea nr. 101/20 Petenta a luat cunoștință de rezultatul procedurii de atribuire la data de 1 9.04.2021. Petenta avea la dispoziție 10 zile să formuleze contestație împotriva ofertei Subscrisei, dar nu a făcut-o. Criticile aduse prin concluziile scrise din data de 17.05.2021 sunt inadmisibile, conform art. 21 alin. (3) din Legea nr. 101/2016.
+
+Pe de altă parte, este inadmisibilă invocarea altor motive de contestare, altele decât cele cuprinse în Contestația din fața Consiliului. Conform art. 30 alin. (2) din Legea nr. 101/2016 : „plângere, contestatorul nu poate invoca alte motive împotriva actelor autorității contractante decât cele cuprinse în contestația adresată Consiliului."
+
+Astfel, sunt inadmisibile orice critici aduse împotriva propunerii tehnice a pârâtei. Evaluarea ofertei pârâtei s-a definitivat în urma expirării termenului de contestare prevăzut de art. 8 alin. (1) lit. a) din Legea nr. 101/2016.
+
+III. Plângerea DAF Trans împotriva Deciziei CNSC este neîntemeiată
+
+Prin Contestația din fața CNSC, DAF Trans a criticat modul în care Autoritatea Contractantă a acordat punctajul pentru sub-factorii de evaluare 1.1,1.2,1.3 și 1.4, în urma evaluării propunerii tehnice a Petentei. Conform susținerilor DAF Trans. Autoritatea Contractantă ar fi trebuit să acorde un punctaj maxim pentru toți cei patru sub-factori de evaluare.
+
+Prin Decizia CNSC, Contestația formulată de DAF Trans a fost respinsă, ca neîntemeiată, constatându-se că Autoritatea Contractantă a evaluat propunerea tehnică a Petentei în mod legal și în concordanță cu prevederile documentației de atribuire.
+
+Prin plângere, Petenta reia în esență, aceleași critici împotriva modului de punctare a celor patru sub-factori de evaluare de către Autoritatea Contractantă, plângerea fiind neîntemeiată.
+
+a. Evaluarea sub-factorilor de evaluare de către Autoritatea Contractantă
+
+Prin documentația de atribuire, Autoritatea Contractantă a prevăzut expres și clar algoritmul de punctare pentru cei patru sub-factori de evaluare ce fac obiectul contestației (a se vedea Anexa A a prezentei întâmpinări).
+
+Astfel, pentru acordarea punctajului maxim de 6 puncte pretins de Petentă pentru fiecare din cei patru sub-factori de evaluare, DAF Trans trebuia să demonstreze îndeplinirea următoarelor criterii privind propunerea sa tehnică:
+
+1.1 Toate activitățile principale sunt incluse în graficul general de realizare a investiției publice, sunt detaliate în subactivități, graficul general de realizare a investiției publice poate fi utilizat așa cum este prezentat ca dată de intrare în cadrul ședințelor de monitorizare a progresului în cadrul Contractului;
+
+1.2 Succesiunea activităților în graficul general de realizare a investiției publice este foarte bine stabilită prin raportare la metodologia de execuție a lucrărilor;
+
+1.3 Durata activităților și perioadele de derulare a acestora sunt în totalitate corespunzătoare complexității activităților (modalitate de realizare, date de intrare, date de ieșire);
+
+1.4 Graficul general de realizare a investiției publice demonstrează optimizarea utilizării resurselor. Sunt prezentate explicații detaliate iar graficul general de realizare a investiției publice, resursele utilizate sunt corelate cu metodologia de execuție. Planificarea activităților permite flexibilitate pentru situații neprevăzute;
+
+În plus, Formularul 10 Program din documentația de atribuire prevedea instrucțiuni clare privind informațiile care trebuiau cuprinse în programul de execuție, parte a propunerii tehnice:
+
+„Ofertantul va prezenta următoarele informații minime:
+
+Un program pentru execuție care sa ilustreze succesiunea și derularea în timp a activităților pe care ofertantul propune sa le îndeplinească pentru realizarea Lucrărilor în termenul de execuție ofertat.
+
+Programul va prezenta, în special, următoarele:
+
+Lucrări permanente și temporare ce urmează a fi executate.
+
+Toate activitățile de interfațare cu lucrările existente și operarea acestora.
+
+Perioadele pentru examinarea Documentelor Contractorului de către Supervizor.
+
+Succesiunea, timpul și durata activităților, inclusiv a testelor.
+
+Perioadele necesare elaborării de documentații pentru toate avizele și aprobările necesare.
+
+Perioadele prevăzute pentru obținerea autorizației de construire înainte de executarea lucrărilor.
+
+Etape esențiale.
+
+Ofertantul va anexa o diagrama a momentelor critice, care sa includă cerințele de mai sus (grafic de execuție) și care sa reprezinte programul de execuție al contractului de lucrări. Acesta va trebui sa detalieze sectoarele de lucrări, activitățile relevante, datele, alocările de resurse de munca și echipamente pe sectoare de lucrări și activități, etc. intrările planificate ale partenerilor asocierii și sub-antreprenorilor vor fi evidențiate de asemenea (în termeni de sectoare de lucrări, activități realizate, timp, etc.)."
+
+În urma evaluării propunerii tehnice a Petentei, Autoritatea Contractantă a acordat următorul punctaj pentru cei patru sub-factori de evaluare:
+
+(i) 4 puncte pentru sub-factorul de evaluare 1.1;
+
+(ii) 4 puncte pentru sub-factorul de evaluare 1.2;
+
+(iii) 4 puncte pentru sub-factorul de evaluare 1.3; și
+
+(iv)2 puncte pentru sub-factorul de evaluare 1.4.
+
+Prin Decizia CNSC, Consiliul a constatat că punctajul pentru primii trei sub-factori de evaluare au fost acordați în deplină conformitate cu algoritmul și condițiile prevăzute de documentația de atribuire. Sub-factorul de evaluare nr. 4 nu a mai fost analizat, întrucât, chiar și în ipoteza recunoașterii unui punctaj maxim de 6 puncte, tot nu ar fi condus la schimbarea clasamentului Procedurii de atribuire.
+
+b. Criticile avansate de Petentă prin Plângere sunt neîntemeiate
+
+Prin Plângere, DAF Trans aduce două argumente principale împotriva Deciziei CNSC: (i) Consiliul nu ar fi motivat respingerea criticilor Petentei privind nemotivarea acordării punctajului de către Autoritatea Contractantă; și (ii) Consiliul ar fi decis neîntemeiat că Autoritatea Contractantă a aplicat corect punctajul pentru sub-factorii de evaluare 1.1 -1.3.
+
+(i) CNSC a argumentat și a respins corect criticile privind nemotivarea punctajului
+
+Petenta susține că Decizia CNSC nu ar fi motivat respingerea criticilor privind pretinsa nemotivare a ..deciziei de depunctare" în cazul celor 4 sub-factori de evaluare. susținerile Petentei fiind vădit nefondate.
+
+În primul rând. Consiliul a analizat expres acest motiv de contestație:
+
+,,Pentru sub-factorul 1.1 (...) este de reținut că autoarea contestației își susține cauza, prin nemotivarea deciziei de depunctare de către comisia de evaluare a autorității contractante, respectiv „care din cele trei obiecte pentru fiecare, cu fiecare din obiectele lor componente nu a fost împărțit în subactivități ""4
+
+În urma analizării Raportului Procedurii, a procesului-verbal de evaluare nr. 2443 8 din data de 18.03.2021 (pp. 52-53)5 întocmit de comisia de evaluare și a algoritmului de stabilire a punctajului, CNSC a concluzionat că Autoritatea Contractantă a punctat corect și temeinic sub-factorul de evaluare 1.1. Consiliul a respins implicit criticile Petentei privind pretinsa nemotivare din cazul sub-factorilor 1.2-1.4.
+
+În al doilea rând, din procesul-verbal de evaluare nr. _____ din data de 18.03.2021 (pp. 52-53), întocmit de comisia de evaluare, rezultă că RAJA a motivat fiecare punctaj acordat pentru sub- factorii 1.1 - 1.4.
+
+În al treilea rând, rațiunea punctajului acordat rezultă perse din aplicarea de către Autoritatea Contractantă a algoritmului prevăzut de documentația de atribuire (Anexa A). Atât timp cât RAJA a aplicat algoritmul corect, în raport cu sub-factorii de evaluare și cu Formularul 10, atunci punctajul a fost aplicat în mod legal și motivat.
+
+Conformări potrivit art. 145 alin. (1) din HG nr. 394/2016 :
+
+„În cazul în care atribuirea contractului sectorial/acordului-cadru se face pe baza criteriului "cel mai bun raport calitate-preț"sau "cel mai bun raport calitate-cost", evaluarea ofertelor se realizează prin acordarea, pentru fiecare ofertă în parte, a unui punctaj rezultat ca urmare a aplicării algoritmului de calcul stabilit în documentația de atribuire.
+
+În realitate, Petenta contestă nivelul de detaliu sau precizia algoritmului de punctare sau a sub-factorilor de evaluare, acest lucru fiind inadmisibil/tardiv, întrucât Petenta nu a solicitat clarificări și nici nu a contestat documentația de atribuire.
+
+Practica judiciară reține că operatorii economici nu pot să critice nivelul de detaliu al algoritmilor / factorilor de evaluare decât în etapa clarificărilor/contestației la documentația de atribuire:
+
+„Instanța nu va primi nici apărările vizând lipsa de definire din documentația de atribuire a noțiunilor de "detaliu " sau de "încadrare în durată " sau cele privind modalitatea generală de stabilire a subfactorilor, având în vedere natura acestora de veritabile critici aduse documentației și tardivitatea acestora."
+
+Dacă avea neclarități cu privire la modul în care trebuia să întocmească propunerea tehnică, astfel încât să se asigure că obține punctajul maxim, atunci DAF Trans trebuia fie să conteste documentația de atribuire, fie să solicite clarificări Autorității Contractante privind documentația de atribuire.
+
+Nefăcând acest lucru, Petenta și-a asumat să depună oferta, în baza documentații de atribuire actuale, care s-a definitivat și este obligatorie pentru toate părțile, astfel cum a reținut și Consiliul: „Prin depunerea ofertelor la procedură, se presupune că ofertanții și-au însușit documentația de atribuire fără rezerve, ceea ce înseamnă că nu li se poate scuza nicio abatere de la prescripțiile ei, opozabile în cel mai mic detaliu."
+
+Așadar, modul de stabilire a punctajului pentru sub-factorii de evaluare 1.1 — 1.4 este deplin motivat și rezultă din aplicarea algoritmului prevăzut de documentația de atribuire (redat sugestiv în Anexa A din prezenta).
+
+Pretinzând că Autoritatea Contractantă ar fi trebuit să acorde un punctaj mai mare în baza algoritmului și a documentației de atribuire, atunci era obligația Petentei să dovedească în acest proces îndeplinirea întocmai a condițiilor prevăzute de sub-factorii de evaluare și de documentația de atribuire (Formularul 10).
+
+(ii) Autoritatea Contractantă a punctat corect propunerea tehnică a Petentei (a) Graficele de execuție prezentate de DAF Trans
+
+Sub-factorii de evaluare 1.1 - 1.4 (Anexa A) privesc modul de întocmire a graficului de execuție a lucrărilor de către ofertanți. Astfel, îndeplinirea cerințelor sub-factorilor de evaluare trebuie analizată și prin raportare la cerințele Autorității Contractante din Formularul 10.
+
+Graficul de execuție depus inițial de DAF Trans era incomplet, astfel că Autoritatea Contractantă a transmis o solicitare de clarificări, solicitând Petentei să prezinte un grafic în care resursele umane și materiale să fie repartizate pe fiecare subactivitate în parte10.
+
+În răspuns. DAF Trans a redepus graficul inițial de execuție, prin care a prezentat „lucrările detaliate (terasamente montaj conductă, branșamente/racorduri etc) executate pe fiecare stradă", precum și alte două grafice privind ,Alocare de instalații/echipamente" și,Alocare de resurse umane" .
+
+Practic, Autoritatea Contractantă a fost pusă în situația în care a trebuit să analizeze mai multe grafice de execuție, deși Formularul 10 și sub-factorii de evaluare impun depunerea unui singur grafic de execuție complet, care să demonstreze îndeplinirea tuturor cerințelor din documentația de atribuire.
+
+La dosarul achiziției se regăsesc mai multe astfel de grafice (depuse inițial și prin răspunsul la solicitarea de clarificări):
+
+(i) un grafic intitulat ..Program de execuție lucrări (Grafic Gantt) 12 - în care figurează activitățile principale, parțial detaliate în subactivități, însă nu sunt prevăzute alocarea resurselor și a echipamentelor pe străzi/sectoare de lucrări sau lucrările temporare, astfel cum impune Formularul 10.
+
+(ii) un grafic intitulat „Program de execuție lucrări (Grafic Gantt) - Drum Critic" - în care se prezintă drumul critic al proiectului, însă este incomplet, fiind prezentat drumul critic doar pentru obiectul de activitate principal 1.1 ..Reabilitare de rețea de distribuție (Poarta albă).
+
+(iii) un grafic intitulat,,Program de execuție lucrări (Grafic Gantt)" - în care se prezintă din nou drumul critic al proiectului, însă majoritatea activităților principale nu sunt detaliate în subactivități;
+
+(iv) un grafic intitulat „ Alocare instalații (echipamente)" - în care sunt prezentate doar echipamentele utilizate pe șantier ;
+
+(v) un al grafic similar intitulat „ alocare resurse umane" - în care sunt prezentate doar resursele umane utilizate pe șantier .
+
+Având în vedere abordarea neunitară, ambiguă și nerespectarea în parte a prevederilor documentației de atribuire, Autoritatea Contractantă a punctat în mod corespunzător (chiar indulgent) propunerea tehnică a Petentei, în acord cu algoritmul și sub-factorii de evaluare prevăzuți de documentația de atribuire.
+
+Sub-factorul de evaluare 1.1
+
+Pentru a putea fi punctată cu maximul de 6 puncte, DAF Trans trebuia să demonstreze prin propunerea tehnică faptul că: „Toate activitățile principale sunt incluse în graficul general de realizare a investiției publice, sunt detaliate în subactivități, graficul general de realizare a investiției publice poate fi utilizat așa cum este prezentat ca dată de intrare în cadrul ședințelor de monitorizare a progresului în cadrul Contractului
+
+Coroborând cu prevederile Formularului 10, rezultă că ofertantul trebuia să detalieze toate subactivitățile (lucrările permanente și temporare) pe care acesta își propune să le îndeplinească prin metodologia de execuție, partea propunerii tehnice.
+
+În urma evaluării propunerii tehnice, comisia de evaluare a acordat 4 puncte, în baza algoritmului prevăzut de documentația de atribuire (Anexa A a prezentei întâmpinări), constatând că: ,,Ofertantul a prezentat ordinea și derularea în timp a activităților pe care și le propune să le îndeplinească pentru realizarea obiectelor contractului și structurează graficul pe străzi și pe categorii de lucrări/activități.
+
+Activitățile principale sunt incluse în graficul general de realizare a investiției publice și în mare parte acestea sunt împărțite pe subactivități.
+
+Prin Decizia CNSC, s-a constatat că următoarele activități principale nu au fost detaliate în totalitate în sub-activități:
+
+„Obiect 1. Localitatea Poarta Albă;
+
+Obiect II Reabilitare rețea de distribuție
+
+Obiect 2. Localitatea Murfatlar - Obiect 2.1 - Reabilitare rețea de distribuție;
+
+Obiect 3. Localitatea Castelu - Obiect 3.2 - Reabilitare rețea de distribuție''.
+
+Consiliul a reținut corect că următoarele subactivități, deși se regăsesc în metodologia Petentei, acestea nu sunt detaliate în cadrul activităților principale din graficele de execuție depuse de DAF Trans: ,,desfacere sistem rutier, execuție pat de nisip, spălare și dezinfectare conductă, umpluturi finale de pământ, inclusiv determinarea gradului de compactare al acestora, conectare ala rețeaua existentă și punerea în presiune a rețelei de distribuite nou executată, cu menținerea în funcțiune a rețelei ce urmează să se dezafecteze, branșarea proprietăților existente la rețeaua nou executată, dezafectarea rețelei înlocuite. După caz, execuția de lucrări temporare necesare asigurării serviciului de alimentare cu apă pe toată perioada reabilitării conductei existente."
+
+Soluția Consiliului este legală și temeinică, întrucât niciuna din aceste subactivități nu se regăsesc în niciunul din graficele de execuție depuse de DAF Trans, deși sunt prezentate în metodologia Petentei și sunt consumatoare de timp, existând riscul de nerespectare a datei de finalizare a lucrărilor.
+
+Prin plângere, Petenta reia criticile formulate prin Contestație, susținând că:
+
+(i) DAF Trans a depus un singur grafic de execuție, iar nu trei astfel de grafice;
+
+(ii) Din graficul depus rezultă că ar fi detaliat toate activitățile principale;
+
+(iii) Documentația de atribuire nu ar prevedea nivelul de detaliere al subactivităților pe cane graficul de execuție trebuie să le cuprindă;
+
+(iv) Subactivitățile care nu se regăsesc în graficul de execuție sunt „sinonime" cu subactivitățile din graficul de execuție propus de Petentă.
+
+(v) Oferta Petentei ar fi primit incorect doar 4 puncte, prin comparație cu oferta Subscrisei care a fost punctată cu 6 puncte, argumentele Petentei fiind neîntemeiate.
+
+În primul rând. DAF Trans nu a depus un singur grafic. în dosarul achiziției se regăsesc cel puțin 4 grafice de execuție (plus două grafice privind resursele umane și echipamentele), prezentate neunitar și practic imposibil pentru Autoritatea Contractantă să verifice îndeplinirea întocmai a cerințelor prevăzute de Formularul 10 și sub-factorul de evaluare 1.1.
+
+În al doilea rând, nu toate activitățile principale sunt detaliate. în graficul de execuție intitulat ,,Program de execuție lucrări (Grafic Gantt)" majoritatea activităților principale nu sunt detaliate în subactivități20, deși algoritmul de punctare impune ca,,toate" activitățile principale să fie detaliate în subactivități.
+
+Este neclar la care grafic de execuție „singular și complet" se referă Petenta prin Plângere, în momentul în care susține că „absolut toate" activitățile principale au fost detaliate în subactivități 2.1. Petenta a depus în mod evident mai multe grafice de execuție, diferite ca structură și conținut.
+
+Ceea ce este clar este că Formularul 10 și sub-factorii de evaluare impun depunerea unui singur grafic de execuție integrat, în care să figureze toate activitățile principale și subactivitățile aferente pe care Petenta le-a propus prin metodologia de execuție. în lipsa unor dovezi contrare și ținând cont de documentele și informațiile neclare și contradictorii depuse de DAF Trans, evaluarea și punctarea făcute de RAJA sunt prezumate a fi corecte.
+
+În al treilea rând, este irelevant faptul că documentația de atribuire nu ar conține,,nivelul de detaliere" așteptat de DAF Trans, pentru a întocmi graficul de execuție corect și complet Petenta avea posibilitatea să solicite clarificări sau să conteste documentația de atribuire, dar nu a făcut-o.
+
+Astfel, Consiliul a reținut corect:
+
+„Mai mult, Consiliul reține că autoarea contestației menționează, cu referire la formularul 10 - „Program "parte a documentației de atribuire, că ,,documentul nu precizează nivelul de detaliere a sub activităților, de natură să rezulte specificații privind eventualele depunctări ", or, la acest moment criticarea documentației de atribuire este tardivă".
+
+În al patrulea rând, este vădit nefondată teza Petentei, potrivit căreia subactivitățile din metodologia sa, care nu se regăsesc în graficele de execuție, sunt de fapt „sinonime" cu alte sub-activități care se regăsesc în anumite grafice de execuție depuse de DAF Trans. Astfel:
+
+(i) Lucrările de „desfacere sistem rutier" nu sunt sinonime cu „Lucrările de terasa mente". Conform Anexei 1 din Legea nr. 99/2016, lucrările de terasamente reprezintă „excava re a, umplerea, nivelarea șantierelor de construcții, săpare de șanțuri, îndepărtarea rocilor, demolare prin explozie etc.;". Or, în metodologia Petentei, lucrările de „desfacere a pavajului existent" sunt prevăzute a fi executate înainte de excavații și umplere - așadar, chiar Petenta confirmă că aceste două lucrări sunt diferite.
+
+(ii) Lucrările privind „execuție pat de nisip, spălare și dezinfecție conductă, umpleri finale pământ" nu sunt sinonime cu tipul de lucrări denumit general și ambiguu „Conducte". Pe de-o parte, nicăieri în oferta DAF Trans nu se precizează la ce anume lucrări se referă Petenta prin denumirea „Conducte". Pe de altă parte, „execuția patului de nisip pentru pozarea tuburilor" este prevăzută ca subactivitate separată în metodologia Petentei24. care nu se regăsește în niciunul din graficele de execuție ale DAF Trans.
+
+(iii) Lucrările privind „tranșarea proprietăților la rețeaua nou executata’ nu sunt sinonime cu denumirea generală și ambiguă de „Branșamente". Metodologia din propunerea tehnică a Petentei prevede mai multe activități privind ,,branșamentele", diferite față de „branșarea proprietăților la rețeaua nou executată", spre exemplu: „dezafectarea branșamentelor vechi prin umplerea căminelor cu diverse materiale de umplutură și blindarea conductei de branșament vechi.
+
+(5) În al cincilea rând, sunt neîntemeiate susținerile Petentei, potrivit cărora, a fost punctată incorect cu 4 puncte, prin comparație cu oferta pârâtei, care a fost punctată cu 6 puncte, având în vedere următoarele motive principale:
+
+(i) Orice critici ale Petentei împotriva ofertei pârâtei sunt tardive și inadmisibile. Evaluarea ofertei pârâtei s-a definitivat, nefiind contestată în termenul legal de DAF Trans;
+
+(ii) Autoritatea Contractantă nu a evaluat și nu trebuia (conform documentației de atribuire) să evalueze prin comparație propunerile tehnice ale Porr și DAF Trans;
+
+(iii) Sub-factorul de evaluare nr. 1.1 (prin raportare la condițiile Formularului 10) au fost aplicate corect de Autoritatea Contractantă, analizând strict îndeplinirea condițiilor de către oferta DAF Trans și aplicând corect algoritmul de punctare din documentația de atribuire;
+
+(iv) Chiar analizând punctele criticate de DAF Trans privind propunerea tehnică a pârâtei, acestea sunt vădit netemeinice. Astfel, activitatea principală („Obiectul 3.4 - Stații de pompare apă uzată și conducte de refulare") este detaliată în subactivități („Stație de pompare ape uzate menajere SPAU 1. Această subactivitate este mai departe detaliată în alte sub-activități („Probe tehnologice la terminarea montajului echipamentelor și instalațiilor de conducte, în conformitate cu prescripțiile proiectului și procedura de lucru"), în deplină conformitate cu metodologia din propunerea tehnică a Subscrisei în mod inexplicabil. Petenta susține că sub-activitatea „Stație de pompare ape uzate menajere SPAU 1" nu este detaliată, deși chiar ea recunoaște că a fost detaliată.
+
+Nu în ultimul rând, evaluarea și aplicarea punctajului de către Autoritatea Contractantă se încadrează în dreptul de apreciere al acesteia. Conform art. 2 alin. (1) lit. n) din Legea nr. 554/2004, dreptul de apreciere al autorității contractante poate fi cenzurat doar în măsura în care se dovedește un exces de putere — ceea ce Petenta nici nu a susținut și nici nu a dovedit în acest proces.
+
+Practica judiciară a recunoscut constant dreptul de apreciere al autorității contractante în materia evaluării ofertelor, precum și că omisiunile, ambiguitățile sau inconsecvențele din ofertele operatorilor economici nu pot fi imputate autorității: „Nu pot fi primite criticile recurentei sub acest aspect, întrucât instanța de fond a apreciat corect că este la aprecierea autorității contractante, prin comisia de evaluare, dacă justificările primite de la ofertanți sunt suficiente sau relevante în așa măsură încât să facă dovada posibilității de executare corespunzătoare a contractului. Mai mult, tot în mod corect a considerat instanța de fond faptul că, în condițiile în care nu a comunicat toate informațiile în mod expres solicitate, nu poate fi imputat autorității contractante pârâte faptul că a considerat că explicațiile prezentate de reclamanta ofertantă sunt neclare, incomplete și neconcludente, declarând oferta acesteia ca fiind inacceptabilă. Curtea atrage atenția ca în materia achizițiilor publice, operatorii economici înșiși trebuie sa manifeste diligentă sporită în îndeplinirea obligațiilor ce le revin în conformitate cu dispozițiile legale și a le documentației de atribuire, inclusiv din perspectiva prezentării într-o manieră clară și lipsită de echivoc a propunerii financiare".
+
+Spre deosebire de Petentă, autoritatea contractantă a avut un rol activ și a solicitat clarificări operatorului economic. Cu toate acestea, prin răspunsul său, DAF Trans nu doar că nu a lămurit neclaritățile, ci a făcut și mai neclară îndeplinirea întocmai a tuturor cerințelor de calificare și selecție.
+
+În concluzie, sub-factorul de evaluare 1.1 a fost aplicat în mod corect de Autoritatea Contractantă, ținând cont de lacunele și ambiguitatea graficelor de execuție depuse de Petentă prin propunerea tehnică.
+
+Sub-factorul de evaluare 1.2
+
+Pentru a putea fi punctată cu maximul de 6 puncte, DAF Trans trebuia să demonstreze prin propunerea tehnică faptul că: „Succesiunea activităților în graficul general de realizare a investiției publice este foarte bine stabilită prin raportare la metodologia de execuție a lucrărilor".
+
+În urma evaluării propunerii tehnice a Petentei, Autoritatea Contractantă a acordat 4 puncte, conform algoritmului din documentația de atribuire, întrucât: „Succesiunea activităților în graficul general de realizare a investiției publice este stabilită cu deviații minore prin raportare la metodologia de execuție a lucrărilor (Anexa A a prezentei întâmpinări).
+
+În urma analizării probelor din dosar și a susținerilor părților, Consiliul a constatat că Autoritatea Contractantă a evaluat și a punctat corect oferta Petentei, întrucât există „deviații minore" între succesiunea activităților propuse prin metodologia de execuție propusă de Petentă și graficul său de execuție:
+
+„în Metodologia de execuție a lucrărilor
+
+Tehnologia de execuție a canalizării , este următoarea:
+
+-trasarea axului canalului și fixarea reperilor de nivelment, necesari în perioada execuției lucrărilor;
+
+- desfacerea pavajului existent din ampriza rețelelor;
+
+- executarea săpăturilor și a sprijinirilor- excavațiile rezultate urmând a se
+
+depozita (...)
+
+- execuția patului de nisip pentru pozarea tuburilor;
+
+- lansarea și montarea tub urilor canalului și racordurilor;
+
+- execuția căminelor;
+
+- verificarea etanșeității canalului, conform prevederilor STAS 3051-91 ;
+
+- execuția umpluturii tranșe ii cu materia excavat și compactarea acestuia;
+
+- montarea grilei de semnalizare maro;
+
+- transportul excedentului de pământ;
+
+- refacerea pavajului carosabil;
+
+Iar în Graficul general de realizare a investiției, ordinea este următoarea:
+
+- execuția conductei de canalizare și a căminelor de vizitare;
+
+- executarea probei de etanșare;
+
+- execuția racordurilor"
+
+Prin Plângere, DAF Trans aduce, în esență, aceleași critici privind modul de evaluare și punctare de către Autoritatea contractantă:
+
+(i) Metodologia de execuție a Petentei ar conține toate informațiile cerute de Formularul 8 din documentația de atribuire30; iar
+
+(ii) Activitățile despre care Consiliul a reținut că lipsesc d în graficul de execuție, ar fi de fapt „sinonime" cu alte activități care se regăsesc în graficul de execuție31;
+
+În primul rând, argumentele Petentei privind completitudinea metodologiei de execuție sunt irelevante din perspectiva analizării modului de evaluare și punctare a propunerii sale tehnice din cadrul acestui sub-factor de evaluare.
+
+Sub-factorul de evaluare 1.2 privește corespondența dintre succesiunea activităților prezentate în metodologia de execuție, în raport cu graficul de execuție.
+
+În al doilea rând, este vădit nefondată teza Petentei privind caracterul „sinonim" al activităților omise din graficul de execuție:
+
+Nicăieri în oferta DAF Trans nu se precizează că denumirea generală și echivocă de „lucrările de terasamente" menționate în graficul de execuție „acoperă ceea ce autoritatea contractantă de numește trasarea axului canalului și fixarea reperelor de nivelment, desfacerea pavajului existent, executarea săpăturilor și a sprijinirilor".
+
+Or, aceste din urmă activități nu sunt denumite astfel de Autoritatea Contractantă, ci chiar de metodologia DAF Trans. Aceste activități trebuiau să se regăsească în graficul de execuție, pentru a dovedi corelarea foarte bună dintre succesiunea activităților din metodologie, în raport cu graficul de execuție.
+
+Nicăieri în oferta DAF Trans nu se precizează că activitatea denumită general și ambiguu, „Conducte", menționată în graficul de execuție, „acoperă ceea ce autoritatea contractantă denumește execuția patului de nisip pentru pozarea tuburilor, lansarea și montarea tuburilor și execuția căminelor, execuția umpluturii tranșe ii, montarea grilei de semnalizare".
+
+La fel ca în cazul precedent, aceste din urmă activități nu sunt denumite astfel de către RAJA, ci chiar de metodologia DAF Trans. Nici aceste activități nu se regăsesc în graficul de execuție, iar Autoritatea Contractantă a constatat corect existența unor devizații între succesiunea activităților prezentate în metodologia de execuție, în raport cu graficul.
+
+Lucrările denumite „Branșamente" nu sunt sinonime cu ,,execuția căminelor".
+
+Pe de-o parte, se constată o contradicție între argumentele Petentei: (i) pentru sub-factorul de evaluare 1.1, Petenta consideră că lucrările denumite în graficul de execuție .,Branșamente" sunt sinonime cu lucrările privind „branșarea proprietăților la rețeaua nou executată", în timp ce (ii) pentru sub-factorul 1.2. Petenta consideră că Branșamentele" sunt sinonime cu execuția căminelor.
+
+Pe de altă parte, activitățile privind „execuția căminelor" nu se regăsesc în graficul de execuție, deși sunt descrise de metodologia Petentei (confirmând inclusiv netemeinicia criticilor din cadrul sub-factorului 1.1). Evaluarea Autorității Contractante este, așadar, corectă.
+
+Rezultă că Decizia CNSC a reținut întemeiat faptul că mai multe dintre activitățile propuse prin metodologia de execuție nu se regăsesc în graficul de execuție - fapt care nu este contrazis de Petentă.
+
+Metodologia de execuție a Petentei în nici un caz nu „se coroborează perfect cu informațiile și mențiunile din Graficul Gantt", astfel cum susține DAF Trans.
+
+Dimpotrivă, coroborarea succesiunii activităților dintre metodologie și graficul de execuție este mai degrabă „foarte puțin adecvată", evaluarea Autorității Contractante fiind indulgentă în acest caz.
+
+Teza DAF Trans privind presupusa sinonimie sau includerea implicită a acestor activități nu poate fi primită. Autoritatea Contractantă nu putea fi obligată să intuiască intenția Petentei de a include mai multe activități specifice descrise în metodologie în cadrul altor activități denumite cu titlu general și echivoc în graficul de execuție (ex. terasamente, conducte sau branșamente).
+
+Era datoria DAF Trans să asigure o corespondență clară și lipsită de echivoc între metodologie și graficul de execuție. Este clar că Petenta a omis să includă în graficul de execuție mai multe activități importante descrise expres în metodologie. Prin Plângere, Petenta încearcă doar să își justifice propriile omisiuni și inconsecvențe, în ce privește succesiunea activităților din metodologie, în raport cu graficul de execuție.
+
+Evaluarea acestei succesiuni („foarte bună", „cu omisiuni minore’ sau ..foarte puțin adecvată conform algoritmului) ___________________ apreciere al Autorității Contractante. Conform art. 2 alin. (1) lit. n) din Legea nr. 554/2004. Dreptul de apreciere al autorității contractante ar putea fi cenzurat doar în cazul dovedirii unui exces de putere-dar Petenta nici nu a pretins și nici nu a dovedit un astfel de exces din partea autorității.
+
+În concluzie, propunerea tehnică a DAF Trans a fost evaluată legal și în conformitate cu prevederile documentației de atribuire de către Autoritatea Contractantă. în ce privește sub- factorul de evaluare 1.2.
+
+Sub-factorul de evaluare l.2
+
+Pentru a putea fi punctată cu maximul de 6 puncte, DAF Trans trebuia să demonstreze prin propunerea tehnică faptul că:,,Durata activităților și perioadele de derulare a acestora sunt în totalitate corespunzătoare complexității activităților (modalitate de realizare, date de intrare, date de ieșire)".
+
+În plus, pentru verificarea fezabilității, acurateței și seriozității perioadelor de desfășurare a activităților, Autoritatea Contractantă a impus ofertanților (prin Formularul 10) să includă în graficul de execuție și „alocările de resurse de muncă și echipamente pe sectoare de lucrări și activități".
+
+În urma evaluării propunerii tehnice a Petentei, Autoritatea Contractantă a acordat 4 puncte, conform algoritmului din documentația de atribuire, întrucât:,.Durata activităților și perioadele de derulare a acestora sunt corespunzătoare complexității activităților (modalitate de realizare, date de intrare, date de ieșire)" (Anexa A a prezentei întâmpinări).
+
+Prin procesul-verbal de evaluare nr. 7, RAJA a motivat faptul că „Graficul de execuție include pentru fiecare structură detalierea activităților/categoriilor de lucrări punctual cu durată de execuție, data de începere și finalizare fără a fi menționate resursele necesare. Acestea sunt menționate separat."
+
+Practic, în urma evaluării ofertei DAF Trans, Autoritatea Contractantă a reținut că durata activităților și perioadele de derulare a acestora (astfel cum sunt menționate în graficul de execuție) sunt corespunzătoare complexității activităților, dar nu în totalitate, neputându-se verifica fezabilitatea, acuratețea și seriozitatea perioadelor de execuție din graficul Petentei.
+
+Prin Decizia CNSC, s-a reținut că RAJA a evaluat și a punctat corect oferta Petentei. în acord cu prevederile documentației de atribuire.
+
+Prin Plângere, Petenta aduce următoarele două argumente:
+
+Toate activitățile și subactivitățile din graficul de execuție conțin durata activității, respectiv data de începere și de finalizare a acestora;
+
+(ii) Pentru anumite activități/subactivitățile s-au alocat 0 zile/o zi, în funcție de cum sunt/nu sunt incluse în alte activități din graficul de execuție.
+
+În ce pricește primul argument, este irelevant dacă graficul de execuție al Petentei conține în mod formal datele de începere, finalizare și perioadele de execuție ale activităților.
+
+Ceea ce este relevant și ce trebuia să dovedească Petenta (conform sub-factorului de evaluare 1.3), este ca datele de început, finalizare și perioadele de desfășurare alocate activităților prin graficul de execuție să fie „în totalitate corespunzătoare complexității activităților
+
+Astfel, în ce privește al doilea argumentai Petentei, DAF Trans nu a dovedit coroborarea în totalitate între complexitatea activităților care se regăsesc în graficul de execuție și perioadele de executare menționate în dreptul acestor activități.
+
+În primul rând, lipsa unui grafic de execuție unic și complet, incluzând și „alocările de resurse de muncă și echipamente pe sectoare de lucrări și activități", a făcut ca Autoritatea Contractantă să nu poată să identifice dacă termenele de execuție menționate în graficul de execuție sunt realiste, fezabile și în acord cu resursele și cu echipamentele alocate respectivelor activități.
+
+Autoritatea Contractantă a avut un rol activ și a solicitat Petentei să prezinte un grafic de execuție, în care să figureze și alocarea resurselor umane și materiale pentru fiecare activitate în parte.
+
+Petenta a ales să depună două grafice suplimentare, privind Alocare de instalații/echipamente", respectiv privind blocare de resurse umane", diferite față de graficul inițial, deși Formularul 10 și sub-factorii de evaluare impuneau ofertanților să depună un singur grafic integrat și complet.
+
+În acest fel, Autoritatea Contractantă a fost în imposibilitate să verifice acuratețea și fezabilitatea perioadelor de execuție ale activităților menționate în graficul de execuție. Prin Plângere, Petenta nu face nicio mențiune legată de această sincopă majoră a propunerii sale tehnice.
+
+În al doilea rând, similar cu primii doi sub-factori de evaluare, Petenta pretinde că Autoritatea Contractantă ar fi trebuit să intuiască faptul că, pentru anumite activități a fost alocată o perioadă de execuție de 0 zile (Proba cu presiune)!o zi (Controlul pozării), după cum sunt/nu sunt incluse în alte activități anterioare din graficul de execuție (.Branșamente).
+
+Consiliul a reținut corect prin Decizia CNSC faptul că ,,autoritatea contractantă (comisia de evaluare) nu trebuia să „deducă", că în fapt, activitățile grafice ar conține și alte sub activități, detalierea grafică fiind obligația celui care elaborează oferta''.
+
+Nicăieri în oferta DAF Trans nu se precizează nici că activitățile privind Proba cu presiune sau privind Controlul pozării ar fi incluse în lucrările privind Branșamentele, nici ipotezele în care aceste activități trebuie sau nu incluse în alte activități anterioare. Dimpotrivă, din modul în care sunt prezentate aceste activități în graficul de execuție al Petentei, rezultă că sunt activități diferire și independente, neavând o relație de la parte la întreg cum pretinde DAF Trans.
+
+Așadar, și în legătură cu sub-factorul de evaluare 1.3, Autoritatea Contractantă și-a exercitat dreptul de apreciere în limitele legii și ale prevederilor documentației de atribuire.
+
+În concluzie, având în vedere: (i) nedepunerea unui grafic integral și unic, din care să rezulte clar modul de alocare a resurselor umane și a utilajelor pe sectoare/străzi; și (ii) informațiile contradictorii și echivoce din graficul de execuție, rezultă că Autoritatea Contractantă a evaluat și a punctat corect propunerea tehnică a Petentei.
+
+Sub-factorul de evaluare 1.4
+
+Pentru a putea fi punctată cu maximul de 6 puncte, DAF Trans trebuia să demonstreze prin propunerea tehnică faptul că: „Graficul general de realizare a investiției publice demonstrează optimizarea utilizării resurselor. Sunt prezentate explicații detaliate, iar graficul general de realizare a investiției publice, resursele utilizate sunt corelate cu metodologia de execuție. Planificarea activităților permite flexibilitate pentru situații neprevăzute" (Anexa A a prezentei întâmpinări).
+
+În urma evaluării propunerii tehnice a Petentei, Autoritatea Contractantă a acordat 2 puncte, conform algoritmului din documentația de atribuire, întrucât:,,Există neconcordante minore între graficul general de realizare a investiției publice, resursele utilizate și metodologia".
+
+Prin procesul-verbal de evaluare nr.7, RAJA a mai motivat faptul că,.Ofertantul prezintă un grafic de execuție de tip Gantt în care nu evidențiază resursele alocate (manopera, utilaj și transport). Separat, ofertantul prezintă explicații detaliate de corelare a resurselor cu metodologia de execuție. Din prezentarea activităților, nu se poate identifica flexibilitatea adaptării șantierului în cazul unor situații neprevăzute atâtea lucrări, cât și ca resurse."
+
+Prin Decizia CNSC, Consiliul nu a mai analizat criticile cu privire la acest sub-factor de evaluare, ca urmare a faptului că toate criticile anterioare au fost respinse, iar admiterea (chiar integrală) a acestui motiv de contestație tot nu ar fi condus la schimbarea clasamentului Procedurii de atribuire.
+
+Prin Plângere, Petenta susține că (i) RAJA nu a explicat „ce ar însemna flexibilitatea adaptării șantierului în cazul unor situații neprevăzute"', iar (ii) metodologia sa de execuție prezintă informații privind flexibilitatea șantierului, ambele critici fiind vădit nefondate.
+
+În primul rând, clarificarea sau contestarea documentației de atribuire în acest moment este tardivă și inadmisibilă. Necesitatea planificării activităților și a resurselor, astfel încât să se permită flexibilitate în situații neprevăzute, este o cerință a documentației de atribuire, iar clarificarea acesteia nu poate fi făcută prin contestația la rezultatul Procedurii de atribuire.
+
+În al doilea rând, conform sub-factorului de evaluare 1.4 (și Formularului 10), „flexibilitatea pentru situații neprevăzute" trebuie să rezulte din modul de planificare a activităților și de alocare a resurselor în graficul de execuție, iar nu din metodologia de execuție.
+
+Informațiile din metodologie menționate de Petentă,se referă la modul general de execuție a lucrărilor (Formularul 8), care nu face obiectul prezentei contestații. în orice caz, nici măcar din aceste informații nu se poate deduce flexibilitatea resurselor și activităților planificate de Petentă prin graficii /graficele de execuție.
+
+Cauza principală pentru care Autoritatea Contractantă nu a putut să constate flexibilitatea adaptării planificării activităților și a resurselor Petentei la situații neprevăzute este dată de faptul că DAF Trans nu a prezentat un singur grafic integrat (incluzând resursele umane și utilajele). Petenta a ales să prezinte alte două grafice de execuție separate pentru resursele umane, respectiv pentru utilaje.
+
+Nu i se poate imputa Autorității Contractante faptul că nu a suprapus trei grafice de execuție distincte, pentru a „deduce"', (i) planificarea activităților pe sectoare/străzi; (ii) alocarea resurselor umane pe sectoare/străzi; și (iii) alocarea utilajelor pe sectoare/străzi.
+
+Motivul pentru care Autoritatea Contractantă a impus (prin sub-factorii de evaluare și Formularul 10) depunerea unui singur grafic de execuție complet a fost tocmai pentru a permite verificarea, pe de-o parte, a fezabilității și seriozității termenelor de execuție; iar. pe de altă parte, a flexibilității planificării activităților și a resurselor în situații neprevăzute.
+
+DAF Trans și-a asumat consecințele depunerii mai multor grafice de execuție și nerespectarea întocmai a prevederilor documentației de atribuire.
+
+Autoritatea Contractantă și-a exercitat dreptul de apreciere în mod legal și conform cu documentația de atribuire, stabilind că „Există neconcordanțe minore între graficul general de realizare a investiției publice, resursele utilizate și metodologia", iar DAF Trans nu a demonstrat flexibilitatea adaptării șantierului în cazul unor situații neprevăzute atât ca lucrări, cât și ca resurse".
+
+În concluzie, sunt neîntemeiate criticile Petentei privind evaluarea și punctajul acordat de Autoritatea Contractantă în ce privește sub-factorul de evaluare nr. 1.4.
+
+În ipoteza în care instanța ar admite Plângerea și ar dispune rejudecarea în fond Contestației formulate de DAF Trans, solicită rejudecarea inclusiv a excepției inadmisibilității Contestației, invocată de petentă prin cererea de intervenție.
+
+Conform art. 611 alin. (1) C. proc. civ .: „Pentru soluționarea contestației formulate în condițiile art.8 sub sancțiunea respingerii acesteia, persoana care se consideră vătămată trebuie să constituie, în termen de maximum 5 zile de la data sesizării Consiliului, o cauțiune stabilită după cum urmează''.
+
+DAF Trans a sesizat Consiliul la data de 29.04.2021 (dată la care Contestația a fost comunicată și Autorității Contractante prin email).
+
+Termenul de 5 zile prevăzut de art. 611 alin. (1) C.proc.civ . s-a împlinit pe 04.05.2021.
+
+Cauțiunea a fost constituită de către DAF Trans abia în data de 07.05.______ - cu depășirea termenului legal.
+
+Prin Decizia CNSC, excepția inadmisibilității a fost respinsă, ca neîntemeiată, considerându-se că art. 611 alin. (1) C. proc. civ . se referă la data înregistrării la Consiliu a Contestației, iar nu la data formulării Contestației.
+
+Consideră că motivarea Consiliului este eronată în acest caz.
+
+Respectarea termenului prevăzut de art. 611 alin. (1) C. proc. civ . este strict în sarcina petentului contestației. Astfel, termenul de 5 zile trebuie să fie unul clar, determinat și previzibil, astfel încât debitorul obligației legale de a constitui cauțiunea să prevadă în mod sigur data-limită până la care își poate îndeplini obligația.
+
+Interpretarea, potrivit căreia art. 611 alin. (1) C. proc. civ. se referă doar momentul înregistrării administrative a contestației la Consiliul, nu oferă o garanție suficientă debitorului" sarcinii de a constitui cauțiunea, întrucât, după momentul depunerii contestației, acesta pierde controlul datei de începută termenului de 5 zile (fiind incertă data la care contestația va fi înregistrată formal la Consiliu).
+
+Pentru aceste motive, solicită respingerea Contestației drept inadmisibilă.
+
+În măsura în care instanța ar trece peste excepția inadmisibilității Contestației, solicită respingerea acesteia drept nefondată, având în vedere toate motivele exprimate prin cererea de intervenție și concluziile scrise formulate în fața Consiliului, respectiv argumentele din prezenta întâmpinare.
+
+Asupra excepției inadmisibilității invocată de pârâta [OPERATOR ECONOMIC], Curtea constată următoarele:
+
+Art. 21 alin. (3) din Legea nr. 101/2016 dispune expres că "este inadmisibilă prezentarea unor noi motive de contestare și/sau formularea unor noi capete de cerere pe calea concluziilor scrise sau orale ori a precizărilor la contestație ulterior termenului legal de formulare a acesteia."
+
+Pârâta a invocat excepția inadmisibilității criticilor împotriva evaluării ofertei sale pentru că reclamanta nu a formulat contestație la CNSC și cu privire la acest aspect.
+
+Dată fiind motivarea plângerii și faptul că aceasta nu poate fi soluționată decât unitar, față de disp. art. 21 alin. 3 din legea 85/2016 excepția inadmisibilității unor motive ale plângerii, va fi calificată apărare de fond
+
+Analizând plângerea formulată în raport cu actele și lucrările dosarului, Curtea constată că este nefondată, față de următoarele considerente:
+
+[OPERATOR ECONOMIC] CONSTANTA, în calitate de entitate contractantă, a inițiat procedura de licitație deschisă, derulată online, în vederea atribuirii contractului de achiziție sectorială având ca obiect „Rețele apă Poarta Albă, Murfatlar, Rețele apă și canalizare Castelu, Aducțiune Castelu", cod CPV ________-6 - lucrări generale de construcții de conducte (Rev.2), prin publicarea, în S.E.A.P. a anunțului participare CN1025684/27.10.2020, atașat căruia a fost publicată și documentația de atribuire.
+
+La pct. 0,1,5) din cadrul acestuia, se menționează că valoarea estimată a contractului sectorial de lucrări este de 31.054.410 lei, fără TVA, iar la pct. 11.2.5) Criteriul de atribuire - „cel mat bun raport calitate-preț factorii de evaluare și ponderea aferentă acestora fiind următoarea: „Gradul de adecvare al graficului general de realizare a investiției publice (durata, succesiunea activităților șl inter-relaționarea acestora, inclusiv drumul critic, identificare" - 30 % și „prețul ofertei" - 70%.
+
+Potrivit Raportului procedurii nr. _____/19.04.2021, au fost depuse 3 oferte, de către A________ societatea [OPERATOR ECONOMIC] – societatea [OPERATOR ECONOMIC], A________ _________________ SRL - __________________ [OPERATOR ECONOMIC], respectiv C_ C___ C________ C__, toate fiind admisibile.
+
+În etapa evaluării propunerilor financiare, oferta Asocierii ____________________________ SRL – societatea [OPERATOR ECONOMIC] a fost declarată neconformă în baza dispozițiilor art. 143 alin,(3) din H.G, nr. 394/2016,
+
+În urma aplicării criteriului de atribuire și a algoritmului de calcul asociat, autoritatea contractantă a consemnat următorul clasament: [OPERATOR ECONOMIC] – 95,41 punct și _________________ SRL - __________________ [OPERATOR ECONOMIC] – 90 puncte, iar după verificarea documentelor suport DUAE, entitatea contractantă a declarat câștigătoare oferta depusă de către societatea [OPERATOR ECONOMIC], având o valoare a propunerii financiare de 31.024.411,92 lei, fără TVA, la care se adaugă TVA în valoare de 5894638,27 lei și un punctaj total de 95,41 puncte.
+
+Reclamanta a criticat modalitatea de acordare a punctajului pentru propunerea tehnică, respectiv depunctare cu 20 puncte.
+
+Împotriva rezultatului procedurii A________ [OPERATOR ECONOMIC]- [OPERATOR ECONOMIC] a formulat plângere la CNCS, plângere respinsă prin Decizia nr. 1319/C6/1111/18.06.2021.
+
+Potrivit art. 29 din legea nr. 101/2016 „Deciziile Consiliului privind soluționarea contestației pot fi atacate de către autoritatea contractantă și/sau de către orice persoană vătămată de măsurile dispuse de Consiliu cu plângere la instanța de judecată competentă, atât pentru motive de nelegalitate, cât și de netemeinicie, în termen de 10 zile de la comunicare pentru părțile cauzei, respectiv de la data luării la cunoștință de către alte persoane vătămate", iar art. 30 alin. 2 din aceeași lege prevede că „ (2) În plângere, contestatorul nu poate invoca alte motive împotriva actelor autorității contractante decât cele cuprinse în contestația adresată Consiliului."
+
+Reține Curtea că în cadrul plângerii adresată CNSC reclamanta a susținut criticile din cadrul contestației, în principal, prin modul de evaluare și acordare a punctajului pentru propunerea tehnică a asocierii sale.
+
+Ulterior, prin concluziile scrise din data de 17.05.2021, a formulat critici referitoare la propunerea tehnică a ofertantului declarat câștigător societatea [OPERATOR ECONOMIC], critici care au fost apreciate inadmisibile de către CNSC prin prisma dispozițiilor art. 31 alin. 3 din legea nr. 101/2016.
+
+Deși reclamanta a susținut, inclusiv în concluziile formulate în fața instanței, că nu a contestat propunerea tehnică a societății [OPERATOR ECONOMIC] și nu a făcut decât să se apere prin realizarea unui paralelism între oferte, instanța nu va reține acest aspect întrucât prin modul în care au fost formulate apărările, se desprinde concluzia că este contestată și propunerea tehnică a acestei societăți.
+
+Astfel, reținând că reclamanta nu a criticat oferta tehnică a pârâtei decât prin concluziile scrise din 17.05.2021, față de dispozițiile art. 21 alin. 3 din legea nr. 101/2016, în mod corect CNSC a respins ca inadmisibile aceste critici.
+
+Pentru același raționament, văzând și dispozițiile art. 30 alin. 2 din legea nr. 101/2016, Curtea nu va reține criticile reclamantei față de oferta pârâtei.
+
+Nu poate fi reținută critica reclamantei referitoare la nemotivarea de către Consiliu a împrejurării dacă decizia de depunctare pentru fiecare subfactor de evaluare în parte este motivată sau nu de autoritatea contractantă.
+
+Se observă că în cadrul deciziei de soluționare Consiliul a motivat și a respins expres sau implicit criticile formulate dereclamantă, astfel nu se pot reține argumentele reclamantei cu privire la acest aspect.
+
+Nemulțumirea reclamantei vizează mai exact anumite neclarități ale algoritmului de punctare și ale documentației de atribuire, aspecte care nu mai pot fi invocate la acest moment, față de împrejurarea că documentația de atribuire, alcătuită din fișa de date din caietele de sarcini, formularele necesare și modelul contractului sectorial de lucrări la care se adaugă clarificările postate în SEAP, nu a fost contestată de niciun operator economic, drept pentru care toate prevederile ei și-au consolidat forța obligatorie atât pentru autoritatea contractantă, cât și pentru operatorii economici participanți ta procedura de atribuire.
+
+Reține Curtea că la obiectul achiziției la pct. II.1 descriere succintă, sunt precizate activitățile de execuție, cu obiecte, sub-obiecte, iar în fișa de acordare a punctajului, la criterii de atribuire se menționează, la componenta tehnică, gradul de adecvare al graficului general de realizare a investiției publice, stabilindu-se un număr de 3 repere majore, fiecare cu câte 5 sub-factori; fiecărui calificativ îi corespunde un punctaj.
+
+În cuprinsul procesului-verbal privind evaluarea conformității propunerilor tehnice cu prevederile caietului de sarcini se menționează criteriile în baza cărora au fost acordate punctajele.
+
+Pentru a beneficia de punctajul maxim reclamanta trebuia să facă dovada îndeplinirii cerințelor documentației de atribuire, respectiv:
+
+1.1 Toate activitățile principale sunt incluse în graficul general de realizare a investiției publice, sunt detaliate în subactivități, graficul general de realizare a investiției publice poate fi utilizat așa cum este prezentat ca dată de intrare în cadrul ședințelor de monitorizare a progresului în cadrul Contractului;
+
+1.2 Succesiunea activităților în graficul general de realizare a investiției publice este foarte bine stabilită prin raportare la metodologia de execuție a lucrărilor;
+
+1.3 Durata activităților și perioadele de derulare a acestora sunt în totalitate corespunzătoare complexității activităților (modalitate de realizare, date de intrare, date de ieșire);
+
+1.4 Graficul general de realizare a investiției publice demonstrează optimizarea utilizării resurselor. Sunt prezentate explicații detaliate iar graficul general de realizare a investiției publice, resursele utilizate sunt corelate cu metodologia de execuție. Planificarea activităților permite flexibilitate pentru situații neprevăzute, iar Formularul 10 Program din documentația de atribuire prevedea instrucțiuni clare privind informațiile care trebuiau cuprinse în programul de execuție, parte a propunerii tehnice.
+
+Reține Curtea că potrivit Procesului - verbal nr. _____/18.03.2021, privind evaluarea conformității propunerilor tehnice cu prevederile caietului de sarcini și cu factorii de evaluare, oferta reclamantei a fost punctată astfel:
+
+1.1 Ofertantul a prezentat ordinea și derularea în timp a activităților pe care și le propune să le îndeplinească pentru realizarea obiectelor contractului și structurează graficul pe străzi și pe categorii de lucrări/activități.
+
+Activitățile principale sunt induse în graficul general de realizare a investiției publice și în mare parte acestea sunt împărțite pe subactivități - 4 puncte.
+
+1.2 Succesiunea activităților în graficul general de realizare a investiției publice este prezentată în concordanță cu metodologia de execuție a lucrărilor - 4 puncte.
+
+1.3 Durata activităților și perioadele de derulare a acestora sunt corespunzătoare complexității activităților.
+
+Graficul de execuție include pentru fiecare structură detalierea a activităților/categorii lor de lucrări punctual cu durată de execuție, dată de începere și de finalizare fără a fi menționate resursele necesare. Acestea sunt menționate separat - 4 puncte.
+
+1.4 Ofertantul prezintă un grafic de execuție de tip Gantt în care se evidențiază resursele alocate (manoperă, utilaj și transport). Separat, ofertantul prezintă explicații detaliate de corelare a resurselor cu metodologia de execuție. Din prezentarea activităților nu se poate identifica flexibilitatea adaptării șantierului în cazul unor situații neprevăzute atât ca lucrări cât și ca resurse - 2 puncte.
+
+1.5 Raportat la metodologia de execuție a lucrărilor ofertantul prezintă un grafic de execuție tip Gantt cu prezentarea drumului critic, aliniat cu aceasta 6 puncte.
+
+Punctaj total obținut – 20.
+
+Deși Formularul 10 și sub-factorii de evaluare prevăd depunerea unui singur grafic de execuție integrat și complet, din care să rezulte îndeplinirea tuturor condițiilor impuse de Autoritate, DAF Trans a depus în realitate 4 grafice de execuție diferite, plus alte două grafice privind resursele umane și echipamentele.
+
+Graficul Gantt este o transpunere scriptică, oglinda grafică a lucrărilor, pe parcursul perioadei de timp în care urmează să se desfășoare contractul și că, atât timp cât nu există un singur grafic în care să se poată urmări execuția lucrărilor, nu se poate verifica dacă executantul respectă obligațiile pe care și le-a asumat, sub acest aspect, susținerea reclamantei, în sensul că a depus formularul 10, care reprezintă Grafic Gantt, nu este întemeiată.
+
+Reclamanta a prezentat 3 grafice, respectiv un grafic Gantt pentru lucrări și două tabele „Alocare instalații/echipamente", respectiv „Resurse umane", iar ca urmare a solicitării de clarificări transmisă de către comisia de evaluare, cu privire la prezentarea în grafic a resurselor umane și a echipamentelor alocate, le-a prezentat tot separat, ceea ce a condus ia depunctarea propunerii tehnice, prezentarea neunitară demonstrând lacune în abordarea integrată și coordonarea activităților, precizează organizatoarea procedurii.
+
+Reține Curtea că pentru modul de prezentare a Graficului de execuție, reclamanta a fost corect punctată, în condițiile în care pentru subfactorul 1.1 nu a evidențiat subactivitățile ce trebuiau realizate pentru realizarea lucrărilor conform metodologiei de lucru, acestea nu se regăsesc în Graficul Gantt existent în propunerea tehnică a acesteia și nici în cel prezentat ca urmare a solicitării autorității contractante de a prezenta un grafic pe fiecare subactivitate în parte, niciunul dintre acestea nu respectă instrucțiunea din documentația de atribuire referitoare la modul de întocmire și prezentare a graficului de execuție.
+
+Reclamanta a depus distinct Program de execuție lucrări, Grafic Gantt, alocare instalații, iar criticile acesteia cu privire la documentația de atribuire, respectiv formularul 10 – Program nu pot fi primite față de împrejurarea că nu a fost contestată documentația de atribuire.
+
+La subfactorul 1.2 s-a susținut că subactivitățile cuprinse în Graficul Gantt le includ și pe cele menționate de autoritatea contractantă și sunt sinonime cu acestea, însă aceste susțineri nu pot fi avute în vedere față de împrejurarea că a depus în mod evident mai multe grafice de execuție, diferite ca structură și conținut.
+
+Cu privire la detalierea subactivitaților se reține că reclamanta le-a detaliat parțial în graficul Gantt, însă această detaliere trebuia efectuată în Propunerea Tehnică și nu în Graficul Gantt.
+
+La subfactorul 1.3 nu s-au menționat resursele, acestea neputând fi dedus a fi incluse în alte lucrări sau subactivități, detalierea grafică este obligația exclusivă a celui care elaborează oferta.
+
+Se reține că graficul de execuție nu include pentru fiecare structură detalierea activităților sau categoriilor de lucrări punctual cu durată de execuție, dată de începere și de finalizare, iar resursele necesare sunt menționate separat, iar susținerea reclamantei, în sensul că, unele lucrări menționate în graficul Gantt includ, de fapt și alte lucrări/subactivități din cele menționate de autoritatea contractantă, nu pot fi reținute, aceasta având obligația de a respecta întocmai criteriile de prezentare a ofertei.
+
+În ceea ce privește subfactorul 1.4 se reține că au fost constatate neconcordanțe minore între graficul general de realizare a investiției publice, resursele utilizate și metodologia de execuție, având în vedere că în graficl de execuție de tip Gantt nu evidențiază resursele alocate (manoperă, utilaj și transport).
+
+Chiar dacă reclamanta a depus separat explicații detaliate de corelare a resurselor cu metodologia de execuție, din modul de prezentare a activităților nu se poate identifica flexibilitatea adaptării șantierului în cazul unor situații neprevăzute atât ca lucrări cât și ca resurse.
+
+Potrivit caietului de sarcini reclamanta trebuia să depună un singur grafic de execuție, care să cuprindă împreuna atât programul de execuție, cât și resursele alocate, însă aceasta a depus un grafic pentru cele 3 Obiecte principale și sub-obiectele lor, unul pentru alocarea instalațiilor și echipamentelor și unul pentru alocarea de resurse umane, astfel nu a respectat cerințele/specificațiile prevăzute în Caietul de sarcini, fiind în mod corect depunctată și s-a apreciat că modalitatea de prezentare de către Asociere a Propunerii Tehnice încalcă disp. art. 139 alin.2 din HG nr. 394/2016 - Normele metodologice de aplicare a L. nr. 99/2016- potrivit cu care „Propunerea tehnică trebuie să corespundă cerințelor minime prevăzute în caietul de sarcini sau în documentul descriptiv."
+
+Nu trebuie omis faptul că este la aprecierea autorității contractante, prin comisia de evaluare, dacă justificările primite de la ofertanți sunt suficiente sau relevante în așa măsură încât să facă dovada posibilității de executare corespunzătoare a contractului.
+
+Pentru considerentele expuse, apreciind că motivele invocate de reclamantă sunt nefondate, soluția CNSC privind respingerea contestației fiind legală și temeinică, urmează a respinge plângerea ca atare, în baza art. 34 alin. 5 din Legea nr. 101/2016.
+
+PENTRU ACESTE MOTIVE
+
+ÎN NUMELE LEGII
+
+HOTĂRÂȘTE:
+
+Califică excepția inadmisibilității invocată de pârâta [OPERATOR ECONOMIC] ca apărare de fond.
+
+Respinge plângerea formulată de reclamanta A________ [OPERATOR ECONOMIC] - [OPERATOR ECONOMIC], cu sediul în C________, _____________________ 99, lot 1, județul C________, cu sediul procesual ales la Cabinet avocat G___ C_________ A_____, cu sediul în C________, _________________, ___________, județul C________, împotriva Deciziei nr. 1319/C6/1111/18.06.2021, pronunțată de Consiliul N_______ de Soluționare a Contestațiilor, în contradictoriu cu pârâtele [OPERATOR ECONOMIC], cu sediul în C________, __________________-24, județul C________ și [OPERATOR ECONOMIC], cu sediul în București, _______________________.5-7, Metroffico Building A, ______________, cu sediul procesual ales la Clifford Chance B____ S.P.R.L., cu sediul în București, ____________________ - 30, Excelsior Business Center, _________________ 1, ca neîntemeiată.
+
+Obligă reclamanta la plata cheltuielilor de judecată către pârâta [OPERATOR ECONOMIC] C________ în valoare de 2500 lei reprezentând onorariu avocat.
+
+Definitivă.
+
+Pronunțată azi, 18.08.2021 prin punerea soluției la dispoziția părților prin grefa instanței.
+
+Președinte, Judecător, Pt. Judecător,
+
+A________ L____ N_____ E________ C______ C_______ B_______
+
+aflată în CO semnează conf.
+
+art. 426 alin. 4 N.C.P.C .
+
+Președinte complet
+
+A________ L____ N_____
+
+Grefier,
+
+C_______ I______ S______
+
+Tehnored. jud. A.L. N_____/5 ex./26.08.2021
+
+Gref. C.I.S./3 ___________________________ document este preluat și procesat de o aplicație realizată gratuit de Wolters Kluwer Romania pentru Fundatia RoLII.
+
+Conținutul său poate fi preluat și utilizat cu citarea sursei: www.rolii.ro
+

@@ -1,0 +1,1612 @@
+DECIZIE CNSC BO2023_958 — text integral (anonimizat de CNSC la publicare; raționament/considerente complete).
+Citeaz-o prin BO2023_958.
+
+În conformitate cu prevederile art. 12 alin. (1) și ale art. 27
+alin. (1) din Legea nr. 101/2016 privind remediile și căile de atac
+în materie de atribuire a contractelor de achiziție publică, a
+contractelor sectoriale și a contractelor de concesiune de lucrări
+și concesiune de servicii, precum și pentru organizarea și
+funcționarea Consiliului Național de Soluționare a Contestațiilor,
+Consiliul adoptă următoarea
+DECIZIE
+Nr. ..........
+Data: .......
+Prin contestația datată 21.03.2023, înregistrată la Consiliul Național
+de Soluționare a Contestațiilor cu nr. 15391/22.03.2023, formulată de
+către SC ... ... ... SRL, cu sediul social în ..., înregistrată la Oficiul
+Registrului Comertului sub nr. ..., CUI ..., reprezentată legal de ... în
+calitate de administrator și convențional de Societatea Civilă de
+Avocați ..., cu sediul în ..., împotriva documentației de atribuire elaborată
+de către ..., cu sediul în ..., în calitate de autoritate contractantă, în
+cadrul procedurii de atribuire, prin licitație deschisă, a contractului de
+achiziție publică având ca obiect „Clădire laboratoare de cercetare
+inteligență artificială", s-a solicitat:
+1. suspendarea procedurii de atribuire, până la soluționarea cauzei;
+2. remedierea documentației de atribuire, respectiv a fișei de date și
+a caietului de sarcini, conform motivației din contestație;
+3. obligarea autorității contractante la plata cheltuielilor de judecată
+ocazionate de soluționarea contestației.
+Prin Încheierea nr. ... din 28.03.2023, Consiliul s-a pronunţat
+asupra capătului de cerere de suspendare a procedurii de atribuire până
+la soluţionarea contestaţiei, pe care l-a admis.
+CONSILIUL NAȚIONAL DE SOLUȚIONARE A CONTESTAȚIILOR,
+asupra cauzei de față, constată următoarele:
+Consiliul a fost legal sesizat și este competent, potrivit dispozițiilor
+art. 12 alin. (1) din Legea nr. 101/2016, să soluționeze contestația
+formulată de SC ... ... ... SRL, împotriva documentației de atribuire
+Pagina 1 din 32
+
+elaborată de către ..., prin care se solicită adoptarea măsurilor precizate
+mai sus, după cum urmează:
+A. La nivelul criteriilor de calificare și selecție, eliminarea cerințelor
+cu privire la experiența similară a experților cheie din cadrul criteriilor de
+calificare și selecție, prevăzute la:
+- Cap. III.1.1.b) Capacitatea de exercitare a activității profesionale
+și Cap. III.1.3.a) Capacitatea tehnică și/sau profesională din fișa de date
+- Cap. III.1.1) Capacitatea de exercitare a activității profesionale,
+inclusiv cerințele privind înscrierea în registrele profesionale sau
+comerciale și Cap. III.1.3) Capacitatea tehnică și profesională din
+anunțul de participare nr. CN1052930 din 11.03.2023
+- Cerințe minime de calificare, din caietul de sarcini de la pct. 7.2
+Elaborarea ofertei tehnice, pg. 27-39,
+întrucât încalcă dispozițiile art. 32 alin. (4) din HG nr. 395/2016, precum
+și dispozițiile art. 11 din Instrucțiunea ANAP nr. 1/2017.
+B. La nivelul criteriului de atribuire:
+În principal: Eliminarea factorului de evaluare privind experiența
+profesională a experților cheie - proiectare, întrucât încalcă dispozițiile
+art. 32 alin. (8) din HG nr. 395/2016 și ale Instrucțiunii ANAP nr.
+1/2017;
+În subsidiar: Eliminarea criteriului valoric din factorul de evaluare
+privind experiența profesională a experților-cheie (Valoarea contractelor
+luată în considerare pentru acordarea punctajului), prevăzut în anunțul
+de participare, fișa de date și caietul de sarcini, întrucât încalcă
+prevederile art. 13 din Instrucțiunea ANAP nr. 1/2017.
+Cu ocazia lecturării fișei de date și a caietului de sarcini a reieșit că
+documentația de atribuire publicată în SEAP nu este în concordanță cu
+alte norme legislative, încălcând prevederi legale obligatorii.
+Contestatoarea face precizarea că prevederile legale incidente se
+regăsesc în Instrucțiunea nr. 1/2017 a ANAP care stabilește clar modul
+de formulare, în cadrul unei documentații de atribuire, a criteriilor de
+calificare și selecție legate de personalul de conducere al
+ofertantului/candidatului și/sau a cerințelor referitoare la personalul
+propus în cadrul ofertei pentru realizarea obiectului contractului.
+ Aceasta subliniază că regulile de bază ce trebuie avute în vedere la
+elaborarea documentației sunt:
+- autoritatea contractantă nu poate folosi organizarea/calificarea
+și/sau experiența personalului desemnat pentru a efectua activitățile
+contractului, ca parte a procesului de calificare și selecție în cadrul
+procedurii de atribuire a respectivului contract [art. 32 alin. (4) din HG
+nr. 395/2016];
+- calificările educaționale și profesionale ale operatorului economic
+care prestează servicii ori execută lucrări sau ale personalului de
+conducere al operatorului economic nu pot constitui totodată criterii
+minime factori de evaluare (art. 179 lit. g) din Legea nr. 98/2016; 
+- experiența specifică în obiectul contractului se va raporta la
+„servicii similare" (nu la contracte similare), în cadrul unor contracte de
+servicii de proiectare (de elaborare și/sau revizuire și/sau actualizare
+Pagina 2 din 32
+
+SF/DALI/Mixt/PT și/sau DDE) sau în cadrul unor contracte de lucrări
+(proiectare și execuție pe baza proiectul tehnic elaborat de antreprenor).
+Cu privire la nelegalitatea criteriilor de calificare și selecție,
+prevăzute atât în fișa de date cât și în caietul de sarcini, contestatoarea
+învederează:
+c1. Interdicția unei cerințe de calificare sub această formă. 
+Din conținutul fișei de date a achiziției (secțiunile III.1.1.b și
+III.1.3.a), rezultă că experții fac obiectul cerinței de calificare privind
+„Capacitatea de exercitare a activității profesionale" privind „Capacitatea
+tehnică și/sau profesională" cu încălcarea art. 179 lit. g) din Legea nr.
+98/2016.
+Concret, după ce i-a desemnat ca fiind experți cheie, autoritatea
+contractantă a formulat cerințe de calificare și selecție care vizau
+calificarea și/sau experiența profesională a acestor experți.
+În acest sens, consideră că documentația de atribuire încalcă
+dispozițiile art. 32 alin. 4 din HG nr. 395 2016, precum și dispozițiile art.
+11 din Instrucțiunea ANAP nr. 1/2017.
+Astfel, arată că prevederile din documentația de atribuire stipulează:
+Fișa de date:
+III.1.1.b) Capacitatea de exercitare a activității profesionale
+Experiența similară
+A. Pentru proiectare
+a. Exp. profesională specifică a arhitectului șef cu drept de semnătură: Valoarea
+contractelor luată în considerare pentru acordarea punctajului minim este de
+5.000.000 lei pentru fiecare contract în parte;
+Exp. profesională specifică a managerului de proiect: Valoarea contractelor
+luată în considerare pentru acordarea punctajului este de min. 80.000.000 lei pentru
+fiecare contract în parte;
+b. Experiența profesională specifică a inginerului proiectant de structuri
+pentru ...: Valoarea contractelor luată în considerare pentru acordarea punctajului
+este de minim 5.000.000 lei pentru fiecare contract în parte;
+c.Exp. profesională specifică a inginerului în elaborare de proiecte sau stabilire de
+soluții și/sau execuție în domeniul instalațiilor electrice, instalații și sisteme de
+ventilare și climatizare/HVAC, instalații electrice curenți slabi, instalații sanitare,
+instalații gaze naturale: min. un contract.
+III.1.3.a) Capacitatea tehnică și/sau profesională
+Informații și/sau nivel(uri) minim(e) necesare pentru evaluarea respectării
+cerințelor menționate:
+Pentru contractele de achiziție de lucrări: executarea de lucrări de tipul specificat;
+A. Pentru proiectare
+Experiența profesională specifică a arhitectului șef cu drept de semnătură:
+Valoarea contractelor luată în considerare pentru acordarea punctajului minim este de
+5.000.000 lei pentru fiecare contract în parte;
+Experiență profesională specifică a managerului de proiect: Valoarea contractelor
+luată în considerare pentru acordarea punctajului este de minim 80.000.000 lei pentru
+fiecare contract în parte;
+Experiența profesională specifică a inginerului proiectant de structuri pentru ...:
+Valoarea contractelor luată în considerare pentru acordarea punctajului este de minim
+5.000.000 lei pentru fiecare contract în parte;
+Experiența profesională specifică a inginerului în elaborare de proiecte sau
+stabilire de soluții și/sau execuție în domeniul instalațiilor electrice, instalații și
+sisteme de ventilare și climatizare/HVAC, instalații electrice curenți slabi, instalații
+sanitare, instalații gaze naturale: minim un contract.
+Pagina 3 din 32
+
+Contestatoarea mai arată că aceleași prevederi se regăsesc și în
+caietul de sarcini, la pag. 27-39, după cum urmează:
+c2. Dublarea cerinței de calificare la nivel de factor de evaluare.
+Întrucât în caietul de sarcini (pag. 27-39), aceiași experți sunt
+menționați și cu titlu de cerință minimă, pe lângă cea din factorul de
+evaluare, această dublă prevedere încalcă dispozițiile art. 32 alin. (4) din
+HG nr. 395/2016, potrivit cărora autoritatea contractantă nu poate folosi
+organizarea/calificarea și/sau experiența personalului desemnat pentru a
+efectua activitățile contractului, respectiv cel precizat la alin. (3) ca parte
+a procesului de calificare selecție în cadrul procedurii de atribuire a
+respectivului contract.
+Întrucât autoritatea contractantă a utilizat experiența experților
+cheie ca factori de evaluare, cerințele de mai sus cu privire la experții
+cheie nu pot fi criterii de calificare si selecție, aspect interzis prin HG nr.
+394/2016 și Instrucțiunea ANAP nr. 1/2017. 
+Cu referire la dispozițiile art. 179 lit. g) din Legea nr. 98/2016,
+cerințele referitoare la personalul cheie cuprinse în caietul de sarcini și
+fișa de date nu pot constitui decât „cerințe referitoare la studiile,
+pregătirea profesională și/sau calificarea personalului, ca parte a
+condițiilor de implementare a contractului/acordului-cadru ce urmează a
+fi atribuit/încheiat, astfel cum sunt definite de Instrucțiunea ANAP nr.
+1/2017, fiind incidente prevederile Capitolului III din această
+Instrucțiune – „Îndrumări privind utilizarea aspectelor privind
+organizarea, calificarea experiența și profesională ale experților-cheie ca
+factori de evaluare a ofertelor”, în ipoteza prevăzută la art. 10 alin (1),
+lit. a) „în cazul contractelor ce au ca obiect realizarea unor prestații
+intelectuale care presupun o complexitate ridicată”.
+În concluzie, consideră că se impune, ca măsura de remediere,
+eliminarea acestor criterii de selecție.
+d. Cu privire la nelegalitatea utilizării experților cheie - proiectare
+ca factor de evaluare în prezenta procedură, contestatoarea arată că
+factorii de evaluare trebuie să fie o extindere a cerinței/cerințelor
+minime obligatorii din caietul de sarcini, iar această extindere să
+reprezinte o cerință în plus fată de cerința minimă, să fie relevanți și să
+reflecte avantajele economice/financiare rezultate din cadrul ofertelor
+depuse, avantaje care să nu fie anulate sau diminuate pe parcursul
+îndeplinirii contractului. Factorii de evaluare stabiliți trebuie să fie corelați
+cu complexitatea contractului, să se refere în orice mod și în orice stadiu
+al serviciului ce urmează a fi prestat să aibă asociată o metodologie de
+punctare obiectivă care să urmărească aceste elemente calitative
+descrise în propunerea tehnică.
+În speță, factorul de evaluare ce vizează personalul cheie în
+proiectare este identic cu cerința de calificare ce vizează același
+personal. Astfel, nu poate exista o identitate între factorul de calificare și
+cel de evaluare, anulându-se astfel scopul evaluării.
+Separat, valoarea proiectării (din ansamblul contractului) nu
+justifică inserarea unui factor de evaluare privitor la o componentă
+nesemnificativă (5,25 % din valoarea totală).
+Pagina 4 din 32
+
+Așadar, raportat la scopul factorilor de evaluare, este irelevantă
+valoarea contractelor anterioare în care a fost implicat personalul cheie.
+În acest sens, în Instrucțiunea nr. 1/2017 se menționează: „În cazul
+anumitor servicii/activități, este mai important, din punctul de vedere al
+experienței unui expert-cheie, numărul exercițiilor realizate de către
+acesta, relevante în raport cu respective activitate și/sau cu domeniul în
+care se încadrează obiectul contractului, decât experiența exprimat în
+ani sau prin simplă corelare cu durata unui asemenea exercițiu.
+Tot Instrucțiunea nr. 1/2017 prevede că:
+art. 3 alin. (6): „în cazul contractelor ce includ o componentă semnificativă
+de servicii având ca obiect prestații intelectuale care presupun activități cu nivel de
+complexitate ridicat, situație în care calitatea personalului prevăzut la alin. (1) are un
+impact semnificativ asupra calității și executării respectivelor contracte, calificarea,
+experiența profesională și/sau modul de organizare reprezintă caracteristici ale
+ofertei, ce descriu, în fapt, nivelul tehnic sau funcțional al acesteia, fiind considerate
+un avantaj calitativ ce poate fi punctat. În acest caz, calificarea, experiența
+profesională și/sau modul de organizare a personalului-cheie se utilizează ca factori
+de evaluare în cadrul criteriului de atribuire preț calitate/cost calitate. Exemplu de
+experți-cheie:
+a) expert dezvoltare soluție informatică; expert analist procese interne; expert
+baze de date aferenți implementării unui contract de servicii având ca obiect
+realizarea unui sistem informatic;
+ b) ingineri proiectanți responsabili cu implementarea contractelor ce au ca
+obiect prestarea de servicii în domeniul proiectării obiectivelor de investiții";
+art. 10: (1) În conformitate cu dispozițiile art. 3 alin. (6) se identifică două
+situații în care calificarea, experiența profesională și/sau modul de organizare a/ale
+personalului-cheie, după caz, vor fi utilizate ca factori de evaluare în cadrul criteriului
+de atribuire preț-calitate/cost-calitate:
+a) În cazul contractelor ce au ca obiect realizarea unor prestații intelectuale
+care presupun o complexitate ridicată, respectiv care includ activități cu caracter
+intelectual ce au ca rezultat identificarea, elaborarea și dezvoltarea soluției tehnice ce
+stă la baza implementării respectivelor contracte. Exemple în aceste sens sunt: 
+- contractele de servicii ce au ca obiect consultanță/asistență tehnică, elaborare
+studii, proiectare, supervizare sau altele asemenea;
+- contractele de lucrări ce includ, deopotrivă, proiectarea soluției tehnice și
+execuția lucrărilor aferente implementării acesteia; 
+- contractele de servicii ce au ca obiect dezvoltarea unor sisteme informatice
+etc.
+(2) În sensul prezentului ordin, prin activități de complexitate ridicată se înțeleg
+servicii intelectuale care presupun: 
+- un grad ridicat de particularizare și adaptare a activităților la specificul
+obiectului contractului, autorității/entității contractante și/saurespectiv la
+necesitățile - combinarea cunoștințelor expertizei aferente mai multor domenii de
+activitate și/sau - soluționarea unei/unor probleme dificile aferente procesului de
+planificare/implementare a proiectului/contractului”.
+În completare, contestatoarea citează prevederile art. 187 alin. 5
+din Legea 98/2016.
+Din prevederile documentației de atribuire se reține că valoarea
+estimată a contractului de achiziție în cauză este de 96.024.918,84 lei,
+fără TVA, fiind compusă din: 1. Servicii de proiectare - fază proiect
+tehnic, detalii de execuție elaborarea documentațiilor necesare obținerii
+acordurilor, avizelor și autorizațiilor aferente obiectivului de investiție —
+4.641.087,26 lei, fără TVA; 2. Servicii de asistență tehnică din partea
+Pagina 5 din 32
+
+proiectantului pe perioada de execuție a lucrărilor - 405.507,4 lei; 3.
+Execuție de lucrări — 90.978.324,18 lei, fără TVA.
+4.2. Valoarea estimată a achiziției
+Conform devizului general al investiției a bugetului proiectului,
+valoarea totală estimată a investiției este de 96.024.918,84 lei exclusiv
+TVA, fiind compusă din servicii și lucrări.
+Având în vedere cele mai sus menționate, ponderea semnificativă a
+prezentei achiziții publice o reprezintă execuția de lucrări (94,75% din
+valoarea estimată a contractului), serviciile având o pondere de 5,25%.
+Raportat la Instrucțiunea nr. 1/2017 nu se poate institui un astfel
+de factor care contravine prevederii art. 3 alin. (6) care se referă la
+contracte „ce includ o componentă semnificativă de servicii având ca
+obiect prestații intelectuale care presupun activități cu nivel de
+complexitate ridicat", ori în speță serviciile nu reprezintă o componentă
+semnificativă a contractului.
+În concluzie, prin utilizarea factorul de evaluare „experiența
+experților cheie proiectare", autoritatea contractantă nu a respectat
+dispozițiile art. 32 alin. (8) din HG nr. 395/2016, introducând un factor
+de evaluare care nu se justifică prin raportare la „obiectul" contractului
+de achiziție publică aferent prezentei proceduri de atribuire.
+În acest context, prezența acestui factor de evaluare nu-i aduce
+vreun avantaj autorității contractante, ci doar distorsionează concurența,
+fiind disproporționat și conducând atât la îngrădirea concurenței între
+operatorii economici interesați de participarea la procedura de atribuire
+cât și la încălcarea principiilor tratamentului egal, a nediscriminării și
+proporționalității prevăzute la art. 2 alin. (2) din Legea nr. 98/2016.
+Dat fiind că punctarea acestor experți se face prin cerințe care, în
+fapt, sunt cerințe minime și obligatorii, entitatea contractantă nu arată
+care este avantajul adus de acești experți prin prisma unor astfel de
+cerințe. În consecință, consideră că aceste cerințe încalcă dispozițiile art.
+32 alin. (8) lit. b) din HG nr. 394/2016 (atunci când stabilește factorii de
+evaluare a ofertelor, entitatea contractantă nu are dreptul de a utiliza
+factori care nu reflectă un avantaj pe care entitatea contractantă îl poate
+obține prin utilizarea factorului de evaluare respectiv).
+Contestatoarea arată că o altă critică cu privire la acest factor de
+evaluare este cea cu privire la numărului de puncte ce a fost atribuit
+acestui criteriu (20), întrucât consideră că este disproporționată măsura
+stabilirii unui punctaj maxim de 20 de puncte pentru experții ce se vor
+ocupa de faza de proiectare, deoarece lucrările de proiectare au o
+valoare mult inferioară față de valoarea lucrărilor de execuție de lucrări
+și cu toate acestea se obține în ambele același punctaj maxim de 20 de
+puncte.
+Aceasta consideră că nu se poate găsi nicio explicație tehnică
+pentru care autoritatea contractantă să considere că trebuie să acorde
+20 de puncte pentru experiența personalului cheie care se va ocupa în
+mod preponderent de execuția lucrărilor de proiectare.
+Mai mult, consideră că nici din punct de vedere al timpului în care
+aceștia sunt implicați în proiect nu se justifică acordarea unui punctaj
+atât de mare. Așadar, experții cheie vor fi implicați doar la începutul
+Pagina 6 din 32
+
+execuției contractului de achiziție publică, respectiv în primele luni atunci
+când se va realiza proiectul de execuție.
+Astfel, arată că există o disproporție vădită între valoarea
+procentuală a activității de proiectare din totalul valorii estimate a
+contractului valoarea procentuală din totalul punctajului ce poate fi
+obținut de către ofertant.
+În justificarea cerinței de eliminare din cadrul fișei de date și din
+caietul de sarcini a cerinței privind echipa de experți - proiectare, din
+factorul de evaluare, petenta invocă dispozițiile art. 187 alin. (5) lit. b)
+din Legea nr. 98/2016, art. 32 alin. (8) din HG nr. 395/2016, precum și
+cele ale art. 10 din Instrucțiunea ANAP nr. 1/2017
+e. Cu privire la eliminarea criteriului valoric (valoarea contractelor)
+din factorul de evaluare privind experiența profesională a experților-cheie
+arată că, în ceea ce privește criteriul de atribuire utilizat în cadrul
+procedurii, acesta conține factori ce fac referire la experiența similară a
+experților - cheie care includ în același timp ambele elemente de
+cuantificare, cu încălcarea art. 13 din Instrucțiunea nr. 1/2017.
+art. 13 (1) Factorii de evaluare privind calificarea, experiența profesională
+și/sau modul de organizare ale experților-cheie pot fi exprimați atât calitativ, cât și
+cantitativ.
+(2) Procesul de evaluare referitor la aplicarea factorilor calitativi urmărește
+relevanța informațiilor prezentate de ofertanți, în legătură cu aspecte cum ar fi:
+metodologiile, metodele și/sau instrumentele propuse pentru activitățile contractului;
+resursele umane și materiale identificate; interacțiunea între membrii echipei și
+responsabilitățile referitoare la managementul contractului.
+(3) în situația utilizării unor factori de tipul celor exemplificați la alin. (2),
+autoritatea contractantă are obligația de a prezenta potențialilor ofertanți prin
+intermediul formularului de propunere tehnică, parte a documentației de atribuire,
+modul în care trebuie structurată informația în cadrul ofertelor, astfel încât să conducă
+la posibilitatea comparării acestora, facilitând astfel și activitatea de evaluare de o
+manieră care să asigure analiza și acordarea punctajelor, în mod obiectiv, conform
+metodologiei precizate în fișa de date a achiziției; 
+(4) procesul de evaluare referitor la aplicarea factorilor cantitativi are la bază
+elemente cuantificabile, ce pot include, fără a se limita la: numărul de proiecte
+similare în care experții au îndeplinit același tip de activități cu cele pe care urmează
+să le îndeplinească în viitorul contract; experiența similară în domeniul specific aferent
+activităților din cadrul viitorului contract, cuantificată în ani; experiența generală în
+ceea ce privește domeniul studiilor, cuantificată în ani, prevederile art. 6 - 9
+aplicându-se în mod corespunzător.
+NOTĂ: Autoritatea contractantă nu poate formula factori de evaluare referitori
+la experiența similară, care să includă în același timp ambele elemente de
+cuantificare:
+- număr de proiecte similare în care experții au îndeplinit același tip de activități
+cu cele pe care urmează să le îndeplinească în viitorul contract și
+- experiența similară în domeniul specific aferent activităților din cadrul
+viitorului contract cuantificată în ani.
+Contestatoarea este de părere că, în speță, autoritatea
+contractantă folosește în factorii de evaluare „Experiența profesională
+specifică pentru experții cheie PROIECTARE” și "Experiența profesională
+specifică pentru experții cheie în EXECUȚIE”, 2 elemente de cuantificare
+a experienței similare, mai exact:
+Pagina 7 din 32
+
+- număr de proiecte similare în care experții au îndeplinit tip de
+activități cu cele pe care urmează să le îndeplinească în viitorul contract
+și
+- Valoarea contractelor luată în considerare pentru acordarea
+punctajului.
+Algoritm de calcul: 1. pentru punctul a):
+- Pentru experiență constând în implicarea în contracte/proiecte similare
+finalizate mai mult de 5 proiecte – 7 puncte;
+- Pentru experiență constând în implicarea în contracte/proiecte similare
+finalizate de 4, respectiv 5 proiecte – 5 puncte;
+- Pentru experiență constând în implicarea în contracte/proiecte similare
+finalizate de 2, respectiv 3 proiecte – 3 puncte;
+În situația în care ofertantul va face dovada doar a unui contract/proiect similar
+finalizat, punctajul oferit este 0 puncte.
+NOTĂ: Valoarea contractelor luată în considerare pentru acordarea punctajului
+detaliat mai sus este de minim 5.000.000 lei pentru fiecare contract în parte.
+2. pentru punctul b):
+- Experiență cumulată mai mare de 5 contracte - 5 puncte;
+- Experiență cumulată de 4, respectiv 5 contracte - 3 puncte;
+- Experiență cumulată de 2, respectiv 3 contracte - 1 punct;
+Ofertantul trebuie să prezinte documente justificative din care să reiasă
+implicarea personalului nominalizat în contracte similare celui care face obiectul
+achiziției. Din aceste documente trebuie să reiasă: beneficiarul, obiectul contractului și
+valoarea contractului.
+În situația în care ofertantul va face dovada doar a unui contract/proiect similar
+finalizat, punctajul oferit este 0 puncte.
+NOTĂ: Valoarea contractelor luată în considerare pentru acordarea punctajului
+detaliat mai sus este de minim 80.000.000 lei pentru fiecare contract în parte.
+3. pentru punctul c):
+- Experiență cumulată mai mare de 5 contracte - 4 puncte;
+- Experiență cumulată de 4, respectiv 5 contracte - 3 puncte;
+- Experiență cumulată de 2, respectiv 3 contracte - 1 punct;
+- În situația în care ofertantul va face dovada doar a unui contract/proiect
+similar finalizat, punctajul oferit este 0 puncte.
+NOTĂ: Valoarea contractelor luată în considerare pentru acordarea punctajului
+detaliat mai sus este de minim 5.000.000 lei pentru fiecare contract în parte.
+4. pentru punctul d):
+- Experiență cumulată mai mare de 5 contracte - 4 puncte;
+- Experiență cumulată de 4, respectiv 5 contracte - 3 puncte;
+- Experiență cumulată de 2, respectiv 1 contracte - 2 puncte;
+NOTĂ: Valoarea contractelor luată în considerare pentru acordarea punctajului
+detaliat mai sus este de minim 2.000.000 lei pentru fiecare contract în parte.
+Experiența profesională
+specifică pentru experții
+cheie în EXECUȚIE
+a) Experiența profesională
+specifică a ȘEF DE
+ȘANTIER ... 10%
+b) Experiența profesională
+specifică a ȘEF ȘANTIER
+INGINER INSTALAȚII
+AFERENTE CLĂDIRILOR
+(gaze naturale, electrice,
+sanitare și stingere
+incendiu, HVAC etc.) 10%
+20%
+Punctaj maxim factor: 20
+Algoritm de calcul: 1. pentru punctul a):
+- Pentru experiență constând în implicarea în contracte/proiecte similare
+finalizate mai mult de 5 proiecte – 10 puncte;
+- Pentru experiență constând în implicarea în contracte/proiecte similare
+finalizate de 4, respectiv 5 proiecte – 8 puncte;
+Pagina 8 din 32
+
+- Pentru experiență constând în implicarea în contracte/proiecte similare
+finalizate de 2, respectiv 3 proiecte – 6 puncte;
+În situația în care ofertantul va face dovada doar a unui contract/proiect similar
+finalizat, punctajul oferit este 0 puncte.
+NOTĂ: Valoarea contractelor luată în considerare pentru acordarea punctajului
+detaliat mai sus este de minim 5.000.000 lei pentru fiecare contract în parte.
+2. pentru punctul b):
+- Pentru experiență constând în implicarea în contracte/proiecte similare
+finalizate mai mult de 5 proiecte – 10 puncte;
+- Pentru experiență constând în implicarea în contracte/proiecte similare
+finalizate de 4, respectiv 5 proiecte – 8 puncte;
+- Pentru experiență constând în implicarea în contracte/proiecte similare
+finalizate de 2, respectiv 3 proiecte – 6 puncte;
+În situația în care ofertantul va face dovada doar a unui contract/proiect similar
+finalizat, punctajul oferit este 0 puncte.
+NOTĂ: Valoarea contractelor luată în considerare pentru acordarea punctajului
+detaliat mai sus este de minim 2.000.000 lei pentru fiecare contract în parte.
+Punctaj maxim total: 100
+Contestatoarea arată că, similar, aceleași prevederi se regăsesc și
+în caietul de sarcini, pag. 52-55.
+În conformitate cu Instrucțiunea ANAP nr. 1/2017 nu se poate
+solicita și experiență similară constând în număr de contracte/proiecte
+similare și experiență similară constând în valoarea contractelor în care
+au fost implicați, fiind vorba de 2 factori cantitativi.
+Utilizarea a 2 factori cantitativi în aceeași cerință are ca efect
+restrângerea competiției, prin îngrădirea posibilității unor operatori
+economici de a participa la procedura de achiziție, în contradicție cu art.
+189 alin. (1) și (2) din Legea nr. 98/2016.
+Suplimentar, pe lângă experții introduși pentru factorii de evaluare,
+au fost impuse pentru aceștia și cerințe privind studiile, certificarea și
+experiență, astfel că în cauză sunt incidente prevederile art. 32 alin. (3)
+din Norma metodologică aprobată prin HG nr. 395/2016, după cum
+urmează:
+Calificare educațională/profesionalăArhitect cu studii universitare în Arhitectură
+cu diplomă de licență sau echivalent, cu
+drept de semnătură în ... (în conformitate
+cu Legea nr. 184/2001 actualizată) înscris în
+Tabloul Național al Arhitecților.
+Experiență profesională specificăExperiență specifică deținută în cadrul unei
+poziții/funcții similare prin prisma căreia a
+avut responsabilități și sarcini de
+coordonator echipă proiectare sau șef de
+echipă proiectare în cadrul a minim unui
+contract pentru construiri și/sau extinderi
+reabilitări și/sau modernizări a unor ... civile
+sau o construcție cu destinație_ sportivă
+(stadioane, complexuri sportive, săli
+polivalente, clădiri de cercetare similare) cel
+puțin din categoria de importanță C cu o
+complexitate similară în ultimii 5 ani.
+Valoarea totală a unui contract similar în
+care a deținut această poziție să fie de
+minim 5.000.000 lei exclusiv TVA.
+Pagina 9 din 32
+
+(pg. 27 din caietul de sarcini)
+Totuși, respectivele cerințe impuse, mai sus, pentru experți au rolul
+de a demonstra capacitatea tehnică profesională a operatorilor
+economici, neputând fi folosite în acest caz pentru aplicarea factorilor de
+evaluare stabiliți.
+Distinct de această cerință din caietul de sarcini (unde valoarea
+contractului se referă la un contract similar, adică de lucrări — proiectare
+și execuție), factorul de evaluare nu este clar, lăsând a se înțelege că
+valoarea impusă vizează doar proiectarea.
+Separat de natura irelevantă a factorului cantitativ "valoarea
+contractelor", această valoare depășește valoarea proiectării din
+prezentul contract, neavând fundament.
+Totodată, nu este justificat ca experiența profesională a
+personalului să depindă de valoarea contractelor, ca factor de evaluare,
+deoarece natura contractelor poate include doar o specialitate (ex
+arhitectura) sau poate include proiectare generală, diferența valorică
+fiind una foarte mare în acest caz.
+Contestatoarea reiterează că, potrivit poziției ANAP, raportarea se
+face la „servicii similare", nu la contracte similare, pentru a fi relevantă
+valoarea.
+Aceasta consideră că un alt factor care este de luat în considerare
+este faptul că există posibilitatea ca persoanele implicate în proiecte
+(arhitecți/proiectați etc.), fiind angajați ai unor societăți, să nu aibă
+acces la valoarea acestor contracte.
+În susținerea argumentelor de mai sus, petenta citează dispozițiile
+art. 26 din Legea nr. 101/2016.
+Cu adresa nr. 8873/27.03.2023, înregistrată la Consilu sub nr.
+16465/27.03.2023, autoritatea contractantă a transmis punctul său de
+vedere prin care solicită respingerea contestației ca nefondată.
+Preliminar, autoritatea contractantă arată că autoarea contestației
+a apreciat că documentația de atribuire încalcă dispozițiile art. 32 alin.
+(4) din HG nr. 395/2016 și art. 13 din Instrucțiunea ANAP nr. 1/2017,
+însă potrivit prevederilor art. 173, 178 și 179 din Legea nr. 98/2016,
+respectiv art. 29 și 30 din HG nr. 395/2016 este dreptul autorității
+contractante de a stabili cerințele privind capacitatea tehnică și/sau
+profesională, acestea trebuind prevăzute în documentația de atribuire
+(anunțul de participare).
+ Citând dispozițiile art. 29 alin. (1) și art. 29 alin. (2) din HG nr.
+395/2016, aceasta precizează că prin documentația de atribuire au fost
+stabilite criteriile de selecție care să asigure proporționalitatea pe două
+paliere, raportat la gradul de complexitate a obiectului achiziției publice,
+în ceea ce privește avantajul conferit autorității contractante prin
+atribuirea contractului către un anumit ofertant și satisfacerea interesului
+ofertantului declarat câștigător, prin asigurarea unui cadru care să facă
+posibilă executarea eficientă a contractului de achiziție publică și
+încasarea beneficiilor economice care au motivat operatorul să liciteze
+pentru respectivul contract.
+Autoritatea contractantă subliniază că în același sens sunt si
+dispozițiile art. 2 alin. (1) din Instrucțiunea nr. 2/19.04.2014 emisă de
+Pagina 10 din 32
+
+ANAP, conform cărora: „Autoritatea/Entitatea contractantă stabilește
+cerințele minime de calificare și selecție precizate la art. 1, în corelare cu
+principiul proporționalității, cu scopul de a obține o confirmare că
+operatorii economici care demonstrează îndeplinirea respectivelor cerințe
+au capacitatea și experiența necesară pentru a gestiona și duce la bun
+sfârșit, în condițiile de performanță impuse prin caietul de sarcini,
+contractul de achiziție publică/de achiziție sectorială/acordului-cadru ce
+urmează a fi atribuit”.
+Totodată, conform art. 3 alin. (4) din Instrucțiunea nr.
+2/19.04.2014 emisă de ANAP rezultă că nivelul impus cerinței privind
+experiența similară poate depăși plafonul reprezentat de valoarea
+estimată a contractului de achiziție publică ce urmează să fie atribuit, în
+situația în care demonstrarea capacității tehnice și organizatorice a
+candidatului/ofertantului presupune realizarea de către respectivul
+operator economic candidat/ofertant a unui număr mai mare de exerciții
+aferente îndeplinirii unor activități/acțiuni similare, din punctul de vedere
+a complexității, cu contractul în cauză.
+În fișa de date s-a prevăzut criteriul de atribuire cel mai bun raport
+calitate-preț, conform art. 187 alin. (3) lit. a) din Legea nr. 98/2016, iar
+în analiza acestuia se impune a se avea în vedere teza finală a art. 30
+alin. (2) din HG nr. 395/2016, care prevede că aceste criterii de selecție
+„trebuie să se raporteze la criteriile de calificare stabilite prin
+documentația de atribuire".
+Întrucât aceste criterii de calificare pot apărea în orice procedură de
+atribuire, criteriile de selecție trebuie să se raporteze la cele de calificare.
+Astfel, autoritatea contractantă învederează că din cauza acestei
+raportări, dar și a faptului că, de multe ori, este foarte dificil în practică
+să aibă loc o delimitare clară a proceselor de calificare și selecție, cele
+două categorii de criterii sunt confundate.
+Raportarea criteriilor de selecție la cele de calificare presupune, din
+punct de vedere practic, faptul că cerințele de calificare reprezintă criterii
+minime pe care trebuie să le îndeplinească operatorii economici pentru a
+putea ajunge să depună oferte, urmând ca apoi criteriile de selecție să
+fie cele pe baza cărora autoritatea verifică ce candidați sunt cei mai
+potriviți pentru executarea contractului prefigurat.
+Aceasta este de părere că, pentru a evita confuzia și a înțelege
+principala distincție dintre criterii de calificare și criterii de selecție,
+trebuie înțeles scopul celor două categorii de criterii, scop ce este stabilit
+în mod expres de legiuitor, prin art. 29 alin. (1) respectiv alin. (2) din HG
+nr. 395/2016. Criteriile de calificare au ca scop demonstrarea de către
+operatorii economici a posibilității concrete de a finaliza contractul, în
+timp ce criteriile de selecție au rolul de a face o triere dintre operatorii
+economici calificați, în scopul de a-i selecta pe aceia care au cea mai
+bună capacitate economică și financiară, tehnică și/sau profesională.
+O altă observație pe care autoritatea contractantă o consideră utilă
+pentru a înțelege delimitarea dintre criterii de calificare și criterii de
+selecție rezultă din analiza art. 30 alin. (3) din HG nr. 395/2016, care
+stabilește că doar în cazul criteriilor de calificare poate fi avută în vedere
+capacitatea de exercitare a activității profesionale. În opinia sa, acest
+Pagina 11 din 32
+
+lucru este firesc, deoarece în procesul de calificare este necesar ca
+autoritatea să verifice dacă operatorul economic deține toate
+documentele relevante care să îi permită exercitarea activității
+profesionale sau anumite atestate, autorizații speciale etc., pentru a
+putea aprecia dacă acel operator economic este capabil să execute
+contractul prefigurat. Odată finalizat procesul de calificare, ar fi tardiv ca
+autoritatea să verifice aceste elemente de fapt prin intermediul criteriilor
+de selecție, deoarece scopul procesului de selecție nu este de a verifica
+în abstract capacitatea ofertanților, ci de a face o selecție în concret, din
+rândul candidaților care deja au dovedit îndeplinirea criteriilor de
+calificare.
+Conform art. 8 alin. (2) din HG 395/2016 există 3 etape distincte
+ce trebuie parcurse în derularea unei proceduri de achiziții publice: 
+„1. a) etapa de planificare/pregătire;
+ 2. b) etapa de organizare a procedurii și atribuirea
+contractului/acordului-cadru;
+ 3. c) etapa postatribuire contract/acord-cadru, respectiv executarea și
+monitorizarea implementării contractului/acordului-cadru”. 
+Autoritatea contractantă consideră că relevante pentru scopul
+acestui articol sunt primele două etape, deoarece în cadrul acestora
+intervin categoriile de criterii vizate. Stabilirea criteriului de atribuire și a
+criteriilor de calificare și selecție trebuie efectuată în conformitate cu
+natura și complexitatea contractului de achiziție publică și trebuie
+corelată cu cerințele din caietul de sarcini.
+Așadar, criteriile de calificare răspund la întrebarea „cine are
+capacitatea de a executa contractul", criteriile de selecție vin în
+completarea celor de calificare și stabilesc „dintre cei care au capacitatea
+necesară, cine sunt cei care ar trebui să depună oferte în faza
+următoare”, iar criteriile de atribuire răspund la întrebarea „oferta cărui
+operator economic va îndeplini obiectivele achiziției în modul cel mai
+eficient".
+Astfel, în acord cu dispozițiile art. 30 alin. (4) și art. 20 alin. (2) din
+HG nr.395/2016, criteriile de calificare sau selecție trebuie prevăzute în
+documentația de atribuire de așa manieră încât să permită ofertanților să
+aibă o viziune foarte clară asupra nivelului de dificultate a proiectului și a
+capacităților tehnice, profesionale, financiare pe care trebuie să le
+îndeplinească pentru a putea participa la procedură.
+Totodată, potrivit art. 178 alin. (2) din Legea nr. 98/2016,
+autoritatea contractantă poate să impună ofertanților existența „unui
+nivel corespunzător de experiență, prin raportare la contractele
+executate în trecut”. Așadar, legea permite utilizarea experienței similare
+drept criteriu de calificare sau selecție (deoarece oferă posibilitatea de a
+aprecia dacă operatorii economici au mai îndeplinit în trecut cu succes
+sarcini asemănătoare), însă modul în care este cuantificată experiența de
+către autoritatea contractantă poate conduce la încălcări ale principiilor
+ce guvernează achizițiile publice (referite mai sus).
+Totodată, potrivit dispozițiilor art. 31 din HG nr. 395/2016, raportat
+la care criteriile de calificare trebuie să aibă relevanță și să nu fie
+disproporționate în raport cu natura și complexitatea contractului de
+Pagina 12 din 32
+
+achiziție publică ce urmează a fi atribuit, autoritatea contractantă
+apreciază că respectă legislația, în condițiile în care clădirea ce urmează
+a se proiectată și executată are destinație specială, urmând a constitui
+un centru cu laboratoare în inteligență artificială, care presupun
+proiectarea unor instalații ce vizează securitate informatică, pentru care
+este nevoie de pregătire complexă.
+În acest sens, arată că jurisprudența constantă reține că „pentru a
+da eficiență principiului proporționalității, cerințele minime de calificare și
+selecție solicitate prin documentația de atribuire, precum documentele
+care probează îndeplinirea unor astfel de cerințe trebuie să se limiteze
+numai la cele strict necesare pentru a se asigura îndeplinirea în condiții
+optime a contractului respectiv, dar luând în considerare exigențele
+specifice impuse de valoarea, natura și complexitatea acestuia cum de
+altfel s-a și procedat de către autoritatea contractantă”.
+Autoritate contractantă consideră că a respectat prevederile legale
+în materie, acestea fiind în acord cu prevederile art. 3 alin. (5) din
+Instrucțiunea ANAP nr. 1/2017, respectiv: „în sensul alin. (3), în situația
+în care existența certificării specifice nu este suficientă pentru a
+demonstra că respectivul expert are capacitatea de a îndeplini activitățile
+aferente din viitorul contract, datorită complexității ridicate și/sau
+particularității acestora, autoritatea/entitatea contractantă are dreptul de
+a impune în caietul de sarcini și cerințe referitoare la experiența
+profesională a expertului/specialistului în cauză, ce trebuie îndeplinite la
+momentul evaluării ofertei tehnice”.
+Potrivit art. 8 alin. (1): „Ca expresie a deținerii unor competențe ce
+reflectă existența unor calificări profesionale, autoritatea/entitatea
+contractantă poate solicita pentru personalul menționat la art. 2 alin. (1)
+demonstrarea unei experiențe generale și/sau a uneia specifice, acolo
+unde autoritatea responsabilă în domeniul specific nu a stabilit
+descriptori de definire aferenți nivelurilor Cadrului național al calificărilor,
+în conformitate cu prevederile Hotărârii Guvernului nr. 918/2013 privind
+aprobarea Cadrului național al calificărilor, cu modificările ulterioare. (2)
+Experiența generală solicitată de autoritatea/entitatea contractantă în
+ceea ce privește domeniul studiilor absolvite sau, după caz, în
+specializarea necesară poate fi de până la 5 ani, ca regulă generală. (3)
+Prin excepție de la prevederile alin. (2), autoritatea/entitatea
+contractantă poate solicita mai mult de 5 ani vechime în specialitatea
+studiilor absolvite sau, după caz, în specializarea necesară, atunci când
+există reglementări specifice și/sau atunci când autoritatea/entitatea
+contractantă justifică temeinic, la nivelul strategiei de contractare,
+complexitatea deosebită a activităților ce urmează a fi derulate în cadrul
+contractului prin prisma poziției/atribuțiilor respectivei persoane și
+anvergura obiectului contractului”.
+De asemenea, potrivit art. 9 (1) „în situatia în care, prin raportare
+la obiectul contractului, sunt relevante competențele personalului
+menționat la art. 2 alin. (1), autoritatea/entitatea contractantă se poate
+axa, în principal, pe solicitarea demonstrării unei experiențe specifice în
+realizarea unor activități similare celor ce caracterizează obiectul
+principal al contractului ce urmează a fi atribuit, în corelație cu domeniul
+Pagina 13 din 32
+
+în care se încadrează acesta (în situația în care specificul domeniului în
+cauză presupune o particularizare a modului de coordonare a
+implementării contractului în cauză).
+Exemplu: Se poate solicita ca persoana să aibă o experiență
+generală în domeniul studiilor absolvite sau, după caz, în specializarea
+solicitată, de cel puțin 5 ani, indiferent de perioada în care a fost
+realizată această experiență.
+Autoritatea contractantă mai arată că legiuitorul a prevăzut la art.
+10 alin. (1) din Instrucțiunea nr. 1/2017 ANAP că: „În conformitate cu
+dispozițiile art. 3 alin. (6) se identifică două situații în care calificarea,
+experiența profesională și/sau modul de organizare a/ale personalului-
+cheie, după caz, vor fi utilizate ca factori de evaluare în cadrul criteriului
+de atribuire preț-calitate/cost-calitate:
+b) Situația contractelor prevăzute de art. 32 alin. (6) din Hotărârea
+Guvernului nr. 395/2016, cu modificările și completările ulterioare, și
+art. 38 alin. (6) din Hotărârea Guvernului nr. 394/2016, respectiv
+contractele de servicii de natura/tipul celor de consultanță/asistență
+tehnică, elaborare studii, proiectare, supervizare și altele asemenea
+aferente unor proiecte/obiective de investiții de complexitate ridicată”.
+Exemplu: realizarea proiectului tehnic aferent execuției lucrărilor
+de construcție a unei autostrăzi; consultanță în vederea remodelării
+proceselor interne și elaborarea unei noi arhitecturi organizaționale în
+scopul eficientizării activității unei entități cu activitate complexă (cum ar
+fi, de exemplu, reglementare și monitorizare de piață într-un domeniu
+strategic; buget mare de investiții etc.).
+(2)în sensul prezentului ordin, prin activități de complexitate
+ridicată se înțeleg servicii intelectuale care presupun:
+- un grad ridicat de particularizare și adaptare a activităților la
+specificul obiectului contractului, respectiv la necesitățile
+autorității/entității contractante și/sau
+- combinarea cunoștințelor și expertizei aferente mai multor
+domenii de activitate și/sau
+- soluționarea unei/unor probleme dificile aferente procesului de
+planificare/implementare a proiectului/contractului.
+(3)în aplicarea alin. (1) lit. b), autoritatea/entitatea contractantă
+va utiliza, în cadrul criteriului de atribuire preț-calitate, factori de
+evaluare care se referă la experiența profesională a experților-cheie și la
+modul de organizare a activităților de care sunt răspunzători aceștia în
+procesul de implementare a contractului ce urmează a fi atribuit,
+ponderea alocată factorului preț fiind de cel mult 40%.
+NOTĂ: Autoritatea contractantă nu poate formula factori de
+evaluare referitori la experiența similară, care să includă în același timp
+ambele elemente de cuantificare: 
+- număr de proiecte similare în care experții au îndeplinit același tip
+de activități cu cele pe care urmează să le îndeplinească în viitorul
+contract;
+- experiența similară în domeniul specific aferent activităților din
+cadrul viitorului contract, cuantificată în ani.
+Pagina 14 din 32
+
+Autoritatea contractantă subliniază că lucrarea ce se dorește a se
+achiziționa este una de complexitate ridicată având în vedere obiectul
+principal al contractului, dorindu-se a se verifica „modalitatea de
+demonstrare prin intermediul propunerii tehnice a îndeplinirii cerinței în
+cauză prin prezentarea informațiilor în legătură cu modul de asigurare a
+execuției tuturor operațiunilor necesare în conformitate cu
+reglementările legale aplicabile și împrejurarea că dispun de o echipă de
+profesioniști cu expertiză similare” luând în considerare că cerința în
+cauză nu poate fi aplicată unor activități secundare, respective conexe,
+în raport de obiectului principal al contactului.
+Aceasta susține că sub nicio formă nu s-a limitat accesul la
+procedura a achiziție, deoarece nu s-a solicitat ofertanților să
+demonstreze experiență în exact același tip de contracte care ar fi fost o
+condiționare excesiv de restrictivă ce ar încălcat în mod flagrant
+principiul proporționalității, ci s-a avut în vederea complexitatea
+proiectului ce are la bază apoi execuția construcției.
+Totodată, cu privire la experiența managerului de proiect care a
+participat în această calitate la mai mult de un contract similar în valoare
+de minim 80.000.000 lei, arată că urmează a fi punctată în cadrul
+aplicării algoritmului de selecție nu ca o condiție de calificare prin
+raportare la numărul de contracte efective, care atestă experiența sa în
+cadrul unor lucrări de asemenea complexitate, acesta fiind în realitate un
+criteriu de selecție nu unul de atribuire care să impună restricții
+disproporționate, la fel fiind și în cazul celorlalți experți cheie.
+Ca urmare, pentru a se obține punctajul maxim pentru subfactorul
+de evaluare constând în experiența profesională specifică a managerului
+de proiect, este necesară participarea acestuia în calitatea menționată în
+cadrul a 5 sau mai multe contracte similare cu o valoare de minim
+80.000.000 lei fiecare, așa cum s-a menționat și în documentația de
+atribuire.
+Modalitatea de formulare a cerinței privind experiența similară în
+cadrul procedurii de achiziție publică pentru atribuirea unui contract de
+proiectare și execuție lucrări și modalitatea prin care operatorii
+economici, potențial participanți la procedură, pot dovedi îndeplinirea
+cerinței a fost analizată punctual, inclusiv în răspunsul la clarificări,
+reținându-se că modul în care trebuie demonstrată experiența similară în
+cadrul procedurilor de atribuire a unor contracte de lucrări se face prin
+raportare la cerința concretă și explicația aferentă experienței similare,
+astfel cum au fost acestea formulate în cadrul documentației de atribuire
+de autoritatea contractantă.
+Proiectarea clădirii conține îndeplinirea unor condiții specifice având
+în vedere că este vorba de o clădire care va servi ca laboratoare în
+inteligență artificială, care are la bază sisteme speciale informatice, astfel
+că specificitatea este binevenită, atât timp cât este motivată de
+garantarea desfășurării contractului prefigurat în condiții cât mai
+eficiente și la cele mai bune standarde de calitate. 
+Prin urmare, autoritatea contractantă consideră că este justificată
+solicitarea de a se asigura că ofertantul ce ar urma să execute contractul
+Pagina 15 din 32
+
+are experiența necesară pentru a face acest lucru, cum nici nu trebuie
+să favorizeze vechi colaboratori ai autorității.
+Pentru toate aceste considerente, solicită respingerea contestației
+ca nefondată.
+În replică, contestatoarea a formulat răspuns la punctul de vedere,
+transmis cu adresa înregistrată la Consiliu sub nr. 17119/29.03.2023,
+prin care solicită admiterea contestației astfel cum aceasta a fost
+formulată. 
+Cu privire la criteriile de calificare și selecție, solicită reținerea că
+autoritatea contractantă a recunoscut nerespectarea legislației în
+materie, respectiv că este de acord cu criticile din contestație cu privire
+la acest punct sens, în care arată că mențiunile din fișa de date privind
+criteriile de selecție și calificare au fost remediate prin publicarea unei
+erate la documentația de atribuire referitor la punctele III.1.1.b și
+III.1.3.a.
+Astfel, autoritatea contractantă solicită la petitul 4, respingerea
+contestației ca rămasă fără obiect ca urmare a măsurilor de remediere
+luate de aceasta, însă, contrar afirmațiilor autorității contractante,
+conform documentației de pe SEAP nu există nicio erată publicată prin
+care să se remedieze aceste cerințe, astfel că acestea rămân în vigoare
+și aplicabile.
+Raportat la dispozițiile art. 3 lit. d) și art. 9 alin. (1) din Legea nr.
+101/2016, contestatoarea arată că la acest moment autoritatea
+contractantă nu mai poate publica măsuri de remediere, astfel că se
+impune a se reține că autoritatea a fost de acord că este necesară
+remedierea documentației de atribuire în sensul arătat în contestație.
+De asemenea, autoritatea contractantă nu formulează nicio apărare
+cu privire la încălcarea dispozițiilor art. 32 alin. (4) din HG nr. 395/2016
+precum și art. 11 din Instrucțiunea ANAP nr. 1/2017.
+Contestatoarea reiterează că, în legislație, se prevede expres că:
+- Autoritatea contractantă nu poate folosi organizarea, calificarea și
+experiența personalului desemnat pentru a efectua activitățile
+contractului, respectiv cel precizat la alin. (3) ca parte a procesului de
+calificare și selecție în cadrul procedurii de atribuire a respectivului
+contract. 
+- Autoritatea/entitatea contractantă nu poate utiliza drept criteriu
+de calificare și selecție în cadrul unei proceduri de atribuire, calificarea
+și/sau experiența profesională a/ale experților-cheie menționați la art. 3.
+Cu toate acestea, în cuprinsul punctului de vedere nu se regăsește
+nicio poziție cu privire la aplicabilitatea, în speță, a acestor prevederi
+legale.
+Totodată, cu privire la criteriile se calificare și selecție,
+contestatoarea invocă și următoarele prevederi relevante din
+Instrucțiunea nr. 1/2017:
+Art. 3 (1) Sintagma „personalul ce va realiza efectiv activităţile
+care fac obiectul contractului ce urmează a fi atribuit" se referă la
+experţii/personalul-cheie ce răspund(e) de realizarea efectivă a
+proceselor de execuţie aferente implementării respectivului contract,
+calificarea, experienţa profesională şi/sau modul de organizare
+Pagina 16 din 32
+
+influenţând, în mod direct, calitatea rezultatului ce trebuie atins prin
+contractul în cauză, această categorie de personal nefiind considerată
+criteriu de calificare şi selecţie în raport cu operatorul economic ce este
+candidat/ofertant în procedura de atribuire.
+ (2) Prin noţiunea de „personal-cheie" menţionată la alin. (1), se
+înţelege orice expert/specialist a cărui activitate desfăşurată în cadrul
+contractului este reflectată direct fie: (i) într-o proporţie majoritară a
+rezultatului respectivei activităţi şi/sau a întregului contract, atunci când
+există o relaţie direct proporţională între volumul muncii prestate şi
+nivelul calitativ al rezultatului în cauză, iar contribuţia sa are, totodată, o
+pondere ridicată în rezultatul final al contractului; (ii) într-o proporţie
+minoră ca efort depus din punctul de vedere al volumului de muncă, dar
+cu un impact major asupra esenţei rezultatului respectivei activităţi
+şi/sau a întregului contract (de exemplu, în situaţia în care rezultatul
+muncii sale este stabilirea soluţiei tehnice ce face obiectul contractului,
+celelalte activităţi ale acestuia având doar rolul de a clarifica/detalia
+aspectele ce descriu respectiva soluţie şi/sau modul de implementare a
+sa).
+ (4) Pentru tipurile de experţi menţionaţi la alin. (3), pentru care
+existenţa certificării specifice, emisă de un organism abilitat conform
+prevederilor legale incidente domeniului în cauză, reprezintă condiţia
+necesară şi suficientă pentru a putea duce la îndeplinire activităţile ce fac
+obiectul respectivelor certificări, autoritatea/entitatea contractantă nu va
+stabili criterii de calificare şi selecţie, ci va solicita ca în propunerea
+tehnică să fie descris momentul în care vor interveni aceşti experţi în
+implementarea viitorului contract, precum şi modul în care operatorul
+economic ofertant şi-a asigurat accesul la serviciile acestora (fie prin
+resurse proprii, caz în care vor fi prezentate persoanele în cauză, fie prin
+externalizare, situaţie în care se vor descrie aranjamentele contractuale
+realizate în vederea obţinerii serviciilor respective).
+Îndrumări privind criteriile de calificare şi selecţie referitoare la
+personalul cu rol de reprezentare a organizaţiei ce are calitatea de
+candidat/ofertant 
+Art. 4 Atunci când stabileşte criteriile de calificare şi selecţie
+referitoare la personalul menţionat la art. 2 alin. (1),
+autoritatea/entitatea contractantă poate formula cerinţe referitoare la:
+a) calificările educaţionale şi profesionale ale personalului de conducere
+al ofertantului/candidatului; 
+NOTĂ: A se vedea exemplul directorului tehnic/de producţie aferent
+art. 2 alin. (1) lit. a). b) calificările educaţionale şi profesionale ale
+personalului cu rol de coordonare relevant pentru îndeplinirea
+contractului respectiv. 
+NOTĂ: A se vedea exemplele aferente art. 2 alin. (1) lit. b).
+(5) Anii solicitaţi în vederea dovedirii experienţei generale vor fi
+calculaţi prin luarea în considerare a perioadei/perioadelor în care
+persoana respectivă a ocupat posturi/poziţii de tipul celor menţionate la
+art. 2, prin prisma cărora a acumulat experienţa solicitată.
+Pagina 17 din 32
+
+În ceea ce privește prevederile Instrucțiunii nr. 2/2017, nu ale
+Instrucțiunii 2/2014 (cum invoca autoritatea contractantă),
+contestatoarea arată următoarele:
+Similar, HG nr. 395/2016, la art. 32 prevede că: (5) În cazul în
+care, în cadrul unei proceduri de atribuire, autoritatea contractantă
+stabileşte factori de evaluare de natura celor prevăzuţi la (...), precum şi
+criteriile de calificare în condiţiile alin. (3) art. 179 lit. g) din Lege, aceste
+criterii se pot referi doar la calificarea şi experienţa profesională a
+personalului permanent, în special de conducere, al operatorului
+economic candidat/ofertant, care este precizat în DUAE, respectiv la alte
+persoane decât cele desemnate pentru a efectua activităţile contractului
+în cauză. 
+Aceasta arată că din interpretarea acestor prevederi rezultă
+următoarele:
+- nu se pot prevedea criterii de calificare și selecție privind experții
+cheie;
+- criteriile de calificare și selecție privind personal permanent, în
+special de conducere, al operatorului economic pot privi calificările
+educaționale profesionale și nu valoarea și numărul contractelor în care
+aceștia au fost implicați (conform prevederilor din speță).
+Totodată, contestatoarea invocă și prevederile art. 3 alin (5) din
+Instrucțiunea nr. 2/2017: (5) Autoritatea/Entitatea contractantă nu
+poate solicita îndeplinirea cerinţei privind experienţa similară prin
+impunerea atât a unui nivel valoric, cât şi a unui nivel cantitativ, în
+situaţia în care prin aceste niveluri se urmăreşte acelaşi lucru, respectiv
+descrierea, dintr-o singură perspectivă, a complexităţii respectivelor
+cerinţe, raportat la obiectul contractului de achiziţie publică/de achiziţie
+sectorială/acordului-cadru ce urmează a fi atribuit.
+Cu toate acestea, arată că, în speță:
+- Nu s-a solicitat dovedirea experienței similare prin implicarea
+ofertantului în implementarea/realizarea unui/unor contract/contracte
+sau unor activități similare, ci prin implicarea experților cheie ai
+ofertantului (prevedere nelegală conform celor de mai sus); 
+- S-a solicitat si număr de contracte (criteriu cantitativ), cât și nivel
+valoric (valoarea minimă a contractelor luate în considerare).
+Cu privire la factorul de evaluare arată că, similar, nici cu privire la
+criticile de la acest punct autoritatea contractantă nu formulează apărări
+cu privire la încălcarea dispozițiilor art. 32 alin. (8) din HG nr. 395/2016
+și ale Instrucțiunii ANAP nr. 1/2017.
+Mai mult, nu există nicio poziție cu privire la criticile din contestație
+de la acest punct. 
+Astfel, arătă că tipul contractului este unul de lucrări și nu unul de
+servicii, cum susține autoritatea contractantă, astfel că prevederile art.
+10 alin. (1) din Instrucțiunea 1/2017 nu sunt aplicabile.
+Citând prevederile art. 32 alin. (6) din HG nr. 395/2016,
+contestatoarea precizează că ponderea semnificativă a prezentei achiziții
+publice o reprezintă execuția de lucrări (94,75% din valoarea estimată a
+contractului), serviciile având o pondere de 5,25%.
+Pagina 18 din 32
+
+De asemenea, reiterează că autoritatea contractantă folosește 2
+elemente de cuantificare a experienței similare, în cuprinsul factorului de
+evaluare, respectiv:
+- număr de proiecte similare în care experții au îndeplinit tip de
+activități cu cele pe care urmează să le îndeplinească în viitorul contract
+și
+ - valoarea contractelor luată în considerare pentru acordarea
+punctajului.
+Așadar, utilizarea a 2 factori cantitativi în aceeași cerință are ca
+efect restrângerea competiției, prin îngrădirea posibilității unor operatori
+economici de a participa la procedura de achiziție, petenta apreciind ca
+fiind evident că se dorește atribuirea contractului către un anume
+operator economic.
+SC ... ... ... SRL a înaintat Consiliului contestația de față,
+îndeplinind procedura stabilită la art. 61
+1
+ alin. (1) din Legea nr.
+101/2016 și depunând Recipisa de consemnare nr. 1 din 24.03.2023, în
+valoare de ... lei, constituită la ....
+Cauțiunea constituită se va restitui, la cerere, nu mai devreme de
+30 de zile de la data rămânerii definitive a deciziei, în temeiul art. 61
+1
+alin. (5), (6) și (7) din Legea nr. 101/2016.
+Din analiza susținerilor părților și a documentelor existente la
+dosarul cauzei, Consiliul reține cele ce urmează:
+În calitate de autoritate contractantă, ... a inițiat o procedură de
+atribuire, prin licitație deschisă, a contractului de achiziție publică de
+lucrări având ca obiect „Clădire laboratoare de cercetare inteligență
+artificială", prin publicarea în SEAP a anunțului de participare nr.
+CN1052930/11.03.2022, împreună cu documentația de atribuire
+aferentă. 
+Valoarea estimată a contractului este de 96.024.918,84 lei, fără
+TVA, iar criteriul de atribuire a fost „cel mai bun raport calitate-preț”, cu
+factorii de evaluare: prețul ofertei - pondere 50%, garanția suplimentară
+acordată lucrărilor - pondere 10%, Experiența profesională specifică
+pentru experții cheie proiectare - pondere 20%, Experiența profesională
+specifică pentru experții cheie execuție - pondere 20%.
+Împotriva documentației de atribuire, SC ... ... ... SRL a formulat
+prezenta contestație, depunând cauțiunea aferentă, motiv pentru care
+excepția inadmisibilității va fi respinsă.
+Prima critică din această contestație vizează faptul că au fost
+prevăzuți factori de evaluare și criterii de calificare referitoare la
+calificarea și experiența a experților-cheie, încălcând prevederile art. 32
+alin. (4) din HG nr. 395/2016 și art. 11 din Instrucțiunea ANAP nr.
+1/2017.
+Astfel, în conformitate cu anunțul de participare, algoritmul de
+punctare pentru factorii Experiența profesională specifică pentru experții
+cheie proiectare - pondere 20% și Experiența profesională specifică
+pentru experții cheie execuție - pondere 20% este următorul:
+„Experiența profesională specifică pentru experții cheie
+PROIECTARE
+Pagina 19 din 32
+
+a) Experiența profesională specifică a arhitectului şef cu drept de
+semnătură - 7% 
+b) Experiența profesională specifică a managerului de proiect
+constând în inițiere, planificare, monitorizare, controlul și finalizarea
+proiectelor conform cerințelor beneficiarilor (responsabil pentru
+managementul proiectului și organizațional și conceptual) - 5 % 
+c) Experiența profesională specifică a inginerului proiectant de
+structuri pentru ... în elaborare de proiecte sau stabilire de soluții și/sau
+execuție de structură - 4% 
+d) Experiența profesională specifică a inginerului în elaborare de
+proiecte sau stabilire de soluții și/sau execuție în domeniul instalațiilor
+electrice, instalații și sisteme de ventilare și climatizare/HVAC, instalații
+electrice curenți slabi, instalații sanitare, instalații gaze naturale - 4%
+Punctaj maxim total 20
+Algoritm de calcul: 
+1. pentru punctul a): 
+- Pentru experiență constând în implicarea în contracte/proiecte
+similare finalizate mai mult de 5 proiecte - 7 puncte; 
+- Pentru experiență constând în implicarea în contracte/proiecte
+similare finalizate de 4, respectiv 5 proiecte - 5 puncte; 
+- Pentru experiență constând în implicarea în contracte/proiecte
+similare finalizate de 2, respectiv 3 proiecte - 3 puncte;
+În situația în care ofertantul va face dovada doar a unui
+contract/proiect similar finalizat, punctajul oferit este 0 puncte. 
+NOTĂ : Valoarea contractelor luată în considerare pentru acordarea
+punctajului detaliat mai sus este de minim 5.000.000 lei pentru fiecare
+contract în parte. 
+2. pentru punctul b): 
+- Experiență cumulată mai mare de 5 contracte - 5 puncte; 
+- Experiență cumulată de 4, respectiv 5 contracte - 3 puncte; 
+- Experiență cumulată de 2, respectiv 3 contracte - 1 punct;
+Ofertantul trebuie să prezinte documente justificative din care să
+reiasă implicarea personalului nominalizat în contracte similare celui care
+face obiectul achiziției. Din aceste documente trebuie să reiasă:
+beneficiarul, obiectul contractului și valoarea contractului. În situația în
+care ofertantul va face dovada doar a unui contract/proiect similar
+finalizat, punctajul oferit este 0 puncte. 
+NOTĂ : Valoarea contractelor luată în considerare pentru acordarea
+punctajului detaliat mai sus este de minim 80.000.000 lei pentru fiecare
+contract în parte. 
+3. pentru punctul c): 
+- Experiență cumulată mai mare de 5 contracte - 4 puncte; 
+- Experiență cumulată de 4, respectiv 5 contracte - 3 puncte; 
+- Experiență cumulată de 2, respectiv 3 contracte - 1 punct; 
+În situația în care ofertantul va face dovada doar a unui
+contract/proiect similar finalizat, punctajul oferit este 0 puncte. 
+NOTĂ : Valoarea contractelor luată în considerare pentru acordarea
+punctajului detaliat mai sus este de minim 5.000.000 lei pentru fiecare
+contract în parte. 
+Pagina 20 din 32
+
+4. pentru punctul d): 
+- Experiență cumulată mai mare de 5 contracte - 4 puncte; 
+- Experiență cumulată de 4, respectiv 5 contracte - 3 puncte;
+- Experiență cumulată de 2, respectiv 1 contract - 2 puncte; 
+NOTĂ : Valoarea contractelor luată în considerare pentru acordarea
+punctajului detaliat mai sus este de minim 2.000.000 lei pentru fiecare
+contract în parte.
+Experiența profesională specifică pentru experții cheie în EXECUȚIE
+a) Experiența profesională specifică a șef de șantier ... - 10% 
+b) Experiența profesională specifică a șef șantier inginer instalații
+aferente clădirilor (gaze naturale, electrice, sanitare și stingere incendiu,
+HVAC etc.) 10%
+Punctaj maxim total 20
+Algoritm de calcul: 
+1. pentru punctul a): 
+- Pentru experiență constând în implicarea în contracte/proiecte
+similare finalizate mai mult de 5 proiecte - 10 puncte; 
+- Pentru experiență constând în implicarea în contracte/proiecte
+similare finalizate de 4, respectiv 5 proiecte - 8 puncte; 
+- Pentru experiență constând în implicarea în contracte/proiecte
+similare finalizate de 2, respectiv 3 proiecte - 6 puncte; 
+În situația în care ofertantul va face dovada doar a unui
+contract/proiect similar finalizat, punctajul oferit este 0 puncte. 
+NOTĂ : Valoarea contractelor luată în considerare pentru acordarea
+punctajului detaliat mai sus este de minim 5.000.000 lei pentru fiecare
+contract în parte. 
+2. pentru punctul b): 
+- Pentru experiență constând în implicarea în contracte/proiecte
+similare finalizate mai mult de 5 proiecte - 10 puncte; 
+- Pentru experiență constând în implicarea în contracte/proiecte
+similare finalizate de 4, respectiv 5 proiecte - 8 puncte; 
+- Pentru experiență constând în implicarea în contracte/proiecte
+similare finalizate de 2, respectiv 3 proiecte - 6 puncte; 
+În situația în care ofertantul va face dovada doar a unui
+contract/proiect similar finalizat, punctajul oferit este 0 puncte. 
+NOTĂ : Valoarea contractelor luată în considerare pentru acordarea
+punctajului detaliat mai sus este de minim 2.000.000 lei pentru fiecare
+contract în parte.”
+Consiliul mai reține că în anunțul de participare, în fișa de date a
+achiziției și caietul de sarcini, autoritatea contractantă a prevăzut o serie
+de mențiuni considerate de contestatoare cerințe de calificare referitoare
+la experienţa similară a experților, astfel:
+„III.1.3) Capacitatea tehnică și profesională:
+1.) Pentru contractele de achiziție de lucrări: executarea de lucrări
+de tipul specificat
+A. Pentru proiectare
+Experiența profesională specifică a arhitectului şef cu drept de
+semnătură: Valoarea contractelor luată în considerare pentru acordarea
+punctajului minim este de 5.000.000 lei pentru fiecare contract în parte;
+Pagina 21 din 32
+
+Experiența profesională specifică a managerului de proiect:
+Valoarea contractelor luată în considerare pentru acordarea punctajului
+este de minim 80.000.000 lei pentru fiecare contract în parte;
+Experiența profesională specifică a inginerului proiectant de
+structuri pentru ...: Valoarea contractelor luată în considerare pentru
+acordarea punctajului este de minim 5.000.000 lei pentru fiecare
+contract în parte;
+Experiența profesională specifică a inginerului în elaborare de
+proiecte sau stabilire de soluții și/sau execuție în domeniul instalațiilor
+electrice, instalații și sisteme de ventilare și climatizare/HVAC, instalații
+electrice curenți slabi, instalații sanitare, instalații gaze naturale: minim
+un contract.
+B. Pentru executie
+Se solicita dovada realizării și finalizării în ultimii cinci ani a
+maxim 3 contracte de tipul celui care face obiectul achiziției
+( construcție nouă cu destinație de laboratoare de cercetare,
+învățământ) cu o valoare cumulată de cel puțin 80.000.000 lei -
+Se va completa DUAE de către operatorii economici participanți la
+procedura de atribuire cu informațiile aferente situației lor, urmând ca
+documentele justificative enumerate anterior să fie prezentate doar la
+solicitarea A.C de către ofertantul clasat pe primul loc, în clasamentul
+intermediar, după finalizarea evaluării ofertelor
+2.) Pentru contractele de achizitie de lucrari: tehnicieni sau
+organisme tehnice pentru executarea lucrarilor
+A. Pentru proiectare
+a. Experiența profesională specifică a arhitectului şef cu drept de
+semnătură: Valoarea contractelor luată în considerare pentru
+acordarea punctajului minim este de 5.000.000 lei pentru fiecare
+contract în parte;
+b. Experiența profesională specifică a managerului de
+proiect: Valoarea contractelor luată în considerare pentru
+acordarea punctajului este de minim 80.000.000 lei pentru
+fiecare contract în parte;
+c. Experiența profesională specifică a inginerului proiectant
+de structuri pentru ...: Valoarea contractelor luată în considerare
+pentru acordarea punctajului este de minim 5.000.000 lei pentru
+fiecare contract în parte;
+d. Experiența profesională specifică a inginerului în
+elaborare de proiecte sau stabilire de soluții și/sau execuție în
+domeniul instalațiilor electrice, instalații și sisteme de ventilare
+și climatizare/HVAC, instalații electrice curenți slabi, instalații
+sanitare, instalații gaze naturale: minim un contract.
+Cu privire la această mențiune, autoritatea contractantă a publicat
+două erate, cu următorul conținut
+Numarul sectiunii: III.1.1) Capacitatea de exercitare a activitatii
+profesionale, inclusiv cerintele privind inscrierea in registrele
+profesionale sau comerciale Locul textului ce urmeaza sa fie modificat:
+La punctul III.1.1), Cerinta nr. 2, lit. A. Pentru proiectare
+În loc de
+Pagina 22 din 32
+
+"a. Exp. profesionala specifică a arhitectului sef cu drept de
+semnatura: Valoarea contractelor luata în considerare pentru acordarea
+punctajului minim este de 5.000.000 lei pentru fiecare contract în parte;
+b. Exp. profesionala specifica a managerului de proiect: Valoarea
+contractelor luata în considerare pentru acordarea punctajului este de
+min. 80.000.000 lei pentru fiecare contract în parte; c. Experiența
+profesionala specifica a inginerului proiectant de structuri pentru ...:
+Valoarea contractelor luata în considerare pentru acordarea punctajului
+este de minim 5.000.000 lei pentru fiecare contract în parte";
+A se citi:
+"a. Exp. profesională specifica a arhitectului sef cu drept de
+semnatura care face dovada ca a participat la prestarea unor servicii
+similare de proiectare în cadrul unui contract de proiectare si
+execuție/execuție/proiectare cu o valoare de minim 5.000.000 lei-
+exclusiv TVA. b.Experiența profesionala specifica a managerului de
+proiect care face dovada ca a participat la prestarea serviciilor de
+manager de proiect în cadrul a minim un contract avand ca obiect lucrari
+similare de proiectare si execuție/execuție/proiectare cu o valoare
+minima de 80.000.000 lei /contract-exclusiv TVA.; c. Experiența
+profesionala specifica a inginerului proiectant de structuri care face
+dovada ca a participat în calitate de proiectant de structuri pentru ... în
+cadrul a minim un contract de proiectare si execuție/execuție/proiectare
+cu o valoare de minim 5.000.000 lei / contract;"
+Astfel, din coroborarea prevederilor documentației de atribuire,
+rezultă că autoritatea contractantă a solicitat drept criteriu de atribuire
+experiența specifică a experților cheie de minimum un contract, iar ca
+factori de evaluare, aceași experiență a experților cheie punctată de la 2
+contracte în sus, pentru un contract neprimind punctaj, fiind, însă,
+admisibili. 
+Consiliul reține că, dacă inițial, în forma publicată în SEAP a
+documentației de atribuire, putea plana un dubiu dacă experiența
+experților este sau nu criteriu de calificare, din moment ce se făcea
+trimitere la punctaj, ulterior, prin erata publicată, acest dubiu a dispărut,
+fiind clar că existența a minimum un contract pentru fiecare expert
+reprezintă factori de evaluare. 
+Consiliul nu poate lua în considerare vreo eventuală rămânere fără
+obiect a contestației ca urma
+re a măsurilor de remediere, atât pentru că erata publicată în SEAP
+nu face decât să sublinieze faptul că experiența experților cheie cu
+minimum un contract este cerință de calificare, deci exact în sensul
+criticilor contestatoarei, dar și pentru că nimic din susținerile autorității
+contractante nu răspunde susținerilor din contestație, apărările neavând
+legătură cu problemele invocate în contestație, ci reprezintă o serie de
+considerații teoretice referitoare la procedurile într-o etapă, cum este și
+cea de față (licitație deschisă) și procedurile organizate în etape, în care
+anumite criterii de selecție sunt folosite pentru restrângerea numărului
+de participanți (licitație restrânsă), aspect nerelevant în cauză, din
+moment ce în prezenta procedură nu există criterii de selecție în sensul
+art. 29 alin. (2) din Normele metodologice aprobate prin HG nr.
+Pagina 23 din 32
+
+395/2016, ci doar criterii de calificare, astfel cum sunt menționate la
+alin. (1) al aceluiași articol. 
+Ceea ce invocă societatea contestatoare este faptul că nu pot fi
+folosite ca și cerințe de calificare experiența experților cheie, în condițiile
+în care aceeași experiență este folosită și ca factor de evaluare, că
+dispozițiile art. 32 alin. (4) din HG nr. 395/2016 și art. 11 din
+Instrucțiunea ANAP interzic acest lucru, ori cu privire la acest aspect,
+autoritatea contractantă nu a răspuns. 
+Consiliul are în vedere că niciuna dintre părți nu tăgăduiește faptul
+că cerințele de calificare demonstrează potențialul organizatoric al
+operatorilor economici, nu aceasta fiind problema în analiza sa, ci dacă
+modalitatea în care au fost stabilite criteriile de calificare și factorii de
+evaluare răspund cerințelor legale. 
+Ori, sub acest sunt relevante dispozițiile legale în interpretarea lor
+unitară. Sub acest aspect, Consiliul consideră relevante următoarele
+dispoziții legale: 
+-din Legea nr. 98/2016: 
+ Art. 179 - Operatorul economic face dovada îndeplinirii cerinţelor
+privind capacitatea tehnică şi profesională prin prezentarea, după caz, a
+unora sau mai multora dintre următoarele informaţii şi documente: 
+g) calificările educaţionale şi profesionale ale operatorului economic
+care prestează servicii ori execută lucrări sau ale personalului de
+conducere al operatorului economic, dacă acestea nu constituie factori de
+evaluare; 
+-din HG nr. 395/2016: 
+ Art. 32. - (1) În cazul în care criteriul utilizat este criteriul "cel
+mai bun raport calitate-preţ" sau "cel mai bun raport calitate-cost", astfel
+cum este prevăzut la art. 187 alin. (3) lit. c) şi d) din Lege, stabilirea
+ofertei câştigătoare se realizează prin aplicarea unui sistem de factori de
+evaluare pentru care se stabilesc ponderi relative sau un algoritm
+specific de calcul. 
+ (2) Factorii de evaluare a ofertelor, precum şi algoritmul de
+punctare prevăzut la alin. (1) se precizează în mod clar şi detaliat în
+cadrul documentaţiei de atribuire şi vor reflecta metodologia de punctare
+a avantajelor care vor rezulta din propunerile tehnice şi financiare
+prezentate de ofertanţi şi trebuie să aducă un avantaj real, să nu fie
+formali şi să poată fi urmăriţi în cadrul procesului de evaluare a ofertelor
+şi aplicare a criteriului de atribuire. 
+ (3) În aplicarea art. 187 alin. (3) lit. c) şi d) din Lege, în cazul în
+care calitatea personalului ce va realiza efectiv activităţile care
+fac obiectul contractului ce urmează a fi atribuit are un impact
+semnificativ asupra nivelului de executare şi a rezultatului
+acestuia, factorii de evaluare a ofertelor se pot referi şi la
+organizarea/calificarea şi/sau experienţa respectivului personal. 
+ (4) Autoritatea contractantă nu poate folosi
+organizarea/calificarea şi/sau experienţa personalului desemnat
+pentru a efectua activităţile contractului, respectiv cel precizat la
+alin. (3), ca parte a procesului de calificare şi selecţie în cadrul
+procedurii de atribuire a respectivului contract. 
+Pagina 24 din 32
+
+ (5) În cazul în care, în cadrul unei proceduri de atribuire,
+autoritatea contractantă stabileşte factori de evaluare de natura
+celor prevăzuţi la alin. (3), precum şi criteriile de calificare în
+condiţiile art. 179 lit. g) din Lege, aceste criterii se pot referi doar
+la calificarea şi experienţa profesională a personalului
+permanent, în special de conducere, al operatorului economic
+candidat/ofertant, care este precizat în DUAE, respectiv la alte
+persoane decât cele desemnate pentru a efectua activităţile
+contractului în cauză. 
+ (6) În aplicarea art. 187 alin. (8) şi (9) din Lege, în cazul
+contractelor de servicii având ca obiect prestaţii intelectuale, cum ar
+fi cele de consultanţă/asistenţă tehnică, elaborare studii,
+proiectare sau supervizare, aferente unor proiecte de
+complexitate ridicată, criteriul de atribuire prevăzut la alin. (1)
+se aplică în mod obligatoriu, iar ponderea alocată factorului preţ
+nu poate fi mai mare de 40%. 
+ (7) Prin ordin al preşedintelui ANAP se stabilesc categoriile de
+servicii intelectuale, în sensul alin. (6).
+-din Instrucțiunea nr. 1/2017:
+ART. 11
+(1) În sensul art. 32 alin. (4) din Hotărârea Guvernului nr.
+395/2016, cu modificările şi completările ulterioare, respectiv art. 38
+alin. (4) din Hotărârea Guvernului nr. 394/2016, autoritatea/entitatea
+contractantă nu poate utiliza, drept criteriu de calificare şi selecţie în
+cadrul unei proceduri de atribuire, calificarea şi/sau experienţa
+profesională a/ale experţilor-cheie menţionaţi la art. 3.
+(2) Prevederile alin. (1) se aplică şi în situaţia în care calificarea,
+experienţa profesională şi/sau modul de organizare ale experţilor-cheie
+nu constituie factori de evaluare în cadrul procedurii de atribuire a
+respectivului contract.
+ART. 12
+Atunci când stabileşte factorii de evaluare privind calificarea,
+experienţa profesională şi/sau modul de organizare a experţilor-cheie,
+autoritatea/entitatea contractantă se asigură că:
+a) factorii de evaluare sunt asociaţi unei/unor extinderi a
+cerinţei/cerinţelor minime obligatorii stabilite prin caietul de
+sarcini, avantajul urmărit fiind în corelaţie cu valori superioare
+ale nivelurilor de calificare şi/sau experienţă profesională
+prezentate de experţii-cheie, ce fac obiectul factorilor de
+evaluare, faţă de nivelul minim ce trebuie îndeplinit pentru ca
+propunerea tehnică să fie declarată conformă;
+b) factorii de evaluare sunt relevanţi şi reflectă avantajele
+economice/financiare rezultate din cadrul ofertelor depuse, avantaje care
+să nu fie anulate sau diminuate pe parcursul îndeplinirii contractului,
+fiind corelaţi cu specificul activităţilor şi domeniului corespunzătoare
+obiectului respectivului contract.
+Notă: (...)
+ (iii) Pentru experţii-cheie la care experienţa profesională în
+implementarea unor activităţi similare, în cadrul unor proiecte
+Pagina 25 din 32
+
+comparabile, poate influenţa în mod direct calitatea executării
+contractului şi, prin urmare, valoarea economică a ofertei, se pot stabili
+factori de evaluare care să urmărească avantajele competitive
+aduse de o ofertă ce prezintă experţi-cheie superiori, din punctul
+de vedere al experienţei specifice, în raport cu celelalte oferte. 
+(iv) Pentru a nu distorsiona rezultatul aplicării factorului de
+evaluare se recomandă stabilirea unor clase în funcţie de care să fie
+acordat punctajul, fiecare clasă reprezentând un interval (peste nivelul
+minim) în care se încadrează experienţa expertului-cheie ce face obiectul
+factorului de evaluare, măsurată prin numărul de proiecte comparabile la
+care a participat, realizând activităţi similare cu cele ce urmează a le
+implementa în cadrul viitorului contract (de exemplu: între 2 şi 4
+proiecte - 3 puncte; între 5 şi 7 proiecte - 5 puncte; peste 8 proiecte -
+10 puncte). 
+ (v) Nu vor fi utilizaţi factori de evaluare cu titlu general, cum ar fi
+"facilităţi suplimentare oferite", sau care nu aduc valoare adăugată
+deoarece nu influenţează calitatea livrabilelor, cum ar fi: "numărul de
+experţi-cheie suplimentari oferiţi faţă de cel indicat prin caietul de
+sarcini", deoarece activităţile ce stau la baza elaborării respectivelor
+livrabile sunt în responsabilitatea unui număr limitat de experţi-cheie, de
+regulă 5 - 7, rămânând la latitudinea acestora modul în care realizează
+acest lucru;
+ d) există argumente care să arate că ponderile stabilite pentru
+factorii de evaluare nu conduc la distorsionarea rezultatului aplicării
+procedurii şi reflectă importanţa caracteristicii calitative/ tehnice/
+funcţionale, considerate a reprezenta un avantaj competitiv, aspecte
+descrise prin strategia de contractare’’.
+Din interpretarea coordonată a dispozițiilor legale citate, rezultă că
+interdicția de a folosi experiența personalului cheie atât ca factor de
+evaluare, cât și cerință de calificare este doar relativă, având în vedere
+utilizarea acelorași criterii, referindu-se la faptul că o ofertă inacceptabilă
+(care nu îndeplinește cerințele de calificare) nu poate primi punctaj,
+acesta aplicându-se doar ofertelor admisibile. 
+Astfel cum se menționează în cadrul cerinței de calificare în
+varianta modificată prin erată, existența unui contract pentru experții
+cheie reprezintă o cerință de calificare, în lipsa acestor contracte oferta
+fiind inacceptabilă, punctaj acordându-se de la două contracte în sus,
+speța fiind o aplicare întocmai a exemplelor din cadrul notelor citate la
+iii-v de la art. 12 din Instrucțiune și a prevederilor art. 32 alin. (3)-(5)
+din normele metodologice.
+Prin urmare, critica referitoare la cuprinderea experienței experților
+cheie atât ca factor de evaluare cât și ca cerință de calificare va fi
+respinsă, prevederile documentației de atribuire fiind în concordanță cu
+dispozițiile legale, sub acest aspect. 
+Cu privire la nelegalitatea utilizării experților cheie în proiectare ca
+factori de evaluare, Consiliul reține că, dimpotrivă, prevederile art. 32
+alin. (6) din Normele metodologice aprobate prin HG nr. 395/2016
+stabilesc posibilitatea folosirii experienței acestor experți în cadrul
+factorului de evaluare. 
+Pagina 26 din 32
+
+Totodată, art. 10 din Instrucțiune stabilește reguli clare, pe care
+contractul a cărui atribuire se urmărește le îndeplinște cu prisosință: 
+,,(1) În conformitate cu dispoziţiile art. 3 alin. (6) se identifică două
+situaţii în care calificarea, experienţa profesională şi/sau modul de
+organizare a/ale personalului-cheie, după caz, vor fi utilizate ca factori
+de evaluare în cadrul criteriului de atribuire preţ-calitate/cost-calitate:
+a) În cazul contractelor ce au ca obiect realizarea unor prestaţii
+intelectuale care presupun o complexitate ridicată, respectiv care
+includ activităţi cu caracter intelectual ce au ca rezultat identificarea,
+elaborarea şi dezvoltarea soluţiei tehnice ce stă la baza
+implementării respectivelor contracte.
+Exemple în aceste sens sunt:
+- contractele de servicii ce au ca obiect consultanţă/asistenţă
+tehnică, elaborare studii, proiectare, supervizare sau altele asemenea;
+- contractele de lucrări ce includ, deopotrivă, proiectarea
+soluţiei tehnice şi execuţia lucrărilor aferente implementării
+acesteia;
+- contractele de servicii ce au ca obiect dezvoltarea unor sisteme
+informatice etc.
+b) Situaţia contractelor prevăzute de art. 32 alin. (6) din Hotărârea
+Guvernului nr. 395/2016, cu modificările şi completările ulterioare, şi art.
+38 alin. (6) din Hotărârea Guvernului nr. 394/2016, respectiv contractele
+de servicii de natura/tipul celor de consultanţă/asistenţă tehnică,
+elaborare studii, proiectare, supervizare şi altele asemenea aferente
+unor proiecte/obiective de investiţii de complexitate ridicată.
+Exemple în aceste sens: realizarea proiectului tehnic aferent
+execuţiei lucrărilor de construcţie a unei autostrăzi; consultanţă în
+vederea remodelării proceselor interne şi elaborarea unei noi arhitecturi
+organizaţionale în scopul eficientizării activităţii unei entităţi cu activitate
+complexă (cum ar fi, de exemplu, reglementare şi monitorizare de piaţă
+într-un domeniu strategic; buget mare de investiţii etc.).
+(2) În sensul prezentului ordin, prin activităţi de complexitate
+ridicată se înţeleg servicii intelectuale care presupun:
+- un grad ridicat de particularizare şi adaptare a activităţilor la
+specificul obiectului contractului, respectiv la necesităţile
+autorităţii/entităţii contractante şi/sau
+- combinarea cunoştinţelor şi expertizei aferente mai multor
+domenii de activitate şi/sau
+- soluţionarea unei/unor probleme dificile aferente procesului de
+planificare/implementare a proiectului/contractului.
+(3) În aplicarea alin. (1) lit. b), autoritatea/entitatea contractantă
+va utiliza, în cadrul criteriului de atribuire preţ-calitate, factori de
+evaluare care se referă la experienţa profesională a experţilor-
+cheie şi la modul de organizare a activităţilor de care sunt
+răspunzători aceştia în procesul de implementare a contractului
+ce urmează a fi atribuit, ponderea alocată factorului preţ fiind de
+cel mult 40%.
+(4) Ponderea alocată factorului de evaluare care urmăreşte o
+planificare cât mai adecvată a activităţilor şi a resurselor alocate
+Pagina 27 din 32
+
+implementării contractului ce urmează a fi atribuit se va stabili în
+corelaţie cu cea alocată factorului de evaluare aferent experienţei
+profesionale a experţilor-cheie, în aşa fel încât prin aplicarea criteriului
+de atribuire să nu se ajungă la distorsionarea rezultatului procedurii de
+atribuire, luându-se în considerare faptul că probabilitatea de a obţine un
+rezultat de calitate, respectiv valoare adăugată în urma finalizării
+contractului, depinde într-o proporţie importantă de modul de
+interacţiune dintre experţii în cauză şi de felul în care se reflectă prin
+propunerea tehnică o planificare şi gestionare adecvată a activităţilor de
+care sunt responsabili’’. 
+Consiliul nu poate reține ca relevant nici argumentul invocat de
+contestatoare referitor la ponderea scăzută a valorii proiectării, deoarece
+importanța proiectări este esențială pentru succesul proiectului de
+investiție. Așa cum s-a arătat, contratele de proiectare și execuție sunt
+menționate expres în Instrucțiune în sensul corectitudinii utilizării
+factorilor de evaluare care să ia în considerare prestațiile intelectuale,
+critica urmând a fi respinsă ca nefondată. 
+Ceea ce ar fi de remarcat, dar nu s-a criticat, este faptul că în
+cadrul valorii contractului este cuprinsă și valoarea verificării tehnice a
+proiectului, în condițiile în care dispozițiile legale impun angajarea
+verificatorului de către investitor. Consiliul nu poate dispune
+corectarea acestei prevederi, din moment ce nu a fost sesizat cu
+acest aspect, dar va sesiza ANAP în legătură cu această
+inadvertență a documentației de atribuire, în temeiul art. 26 alin.
+(4) din Legea nr. 101/2016. În acest sens, sunt relevante
+următoarele dispoziții legale: 
+- Legea 10/1995 privind calitatea în ...: 
+-art. 13 alin. (1) din Legea nr. 10/1995 „Verificarea proiectelor
+privind respectarea reglementărilor tehnice referitoare la cerinţele
+fundamentale aplicabile se efectuează de către specialişti verificatori
+de proiecte atestaţi pe domenii/subdomenii şi specialităţi, alţii decât
+specialiştii elaboratori ai proiectelor. Verificatorul de proiect
+atestat nu poate verifica şi ştampila proiectele întocmite de el,
+proiectele la a căror elaborare a participat sau proiectele
+pentru care, în calitate de expert tehnic atestat, a elaborat
+raportul de expertiză tehnică”.
+-art. 22 lit. c) „Investitorii sunt persoane fizice sau juridice care
+finanţează şi realizează investiţii sau intervenţii la ...le existente în
+sensul legii şi au următoarele obligaţii principale referitoare la
+calitatea ...lor: (...) c) asigurarea verificării proiectelor prin specialişti
+verificatori de proiecte atestaţi”.
+-art. 23 lit. c) „Proiectanţii de ... răspund de îndeplinirea următoarelor
+obligaţii principale referitoare la calitatea ...lor: (...) c) prezentarea
+proiectelor elaborate în faţa specialiştilor verificatori de proiecte
+atestaţi, stabiliţi de către investitor, precum şi soluţionarea
+neconformităţilor şi neconcordanţelor semnalate;”
+- Regulamentul de verificare și expertizare tehnică de
+calitate a proiectelor, a execuției lucrărilor și a ...lor, aprobat prin
+HG nr. 925/1995 astfel cum a fost modificat prin Hotărârea nr.
+742/2018 privind modificarea Hotărârii Guvernului nr. 925/1995 pentru
+Pagina 28 din 32
+
+aprobarea Regulamentului de verificare şi expertizare tehnică de calitate
+a proiectelor, a execuţiei lucrărilor şi a ...lor:
+-art. 1 alin. (1) „Prezentul regulament privind verificarea şi
+expertizarea tehnică a proiectelor, expertizarea tehnică a execuţiei
+lucrărilor şi a ...lor, precum şi verificarea calităţii lucrărilor executate,
+denumit în continuare regulament, stabileşte şi detaliază activităţile,
+atribuţiile şi modul de exercitare a dreptului de practică al specialiştilor
+cu activitate în ..., în conformitate cu prevederile Legii nr. 10/1995
+privind calitatea în ..., republicată, cu completările ulterioare”.
+-art. 6 „(1) Verificarea tehnică a proiectelor se efectuează de către
+specialist/specialişti cu activitate în ... atestat/atestaţi ca
+verificator/verificatori de proiecte, pe domenii/subdomenii de ... şi
+specialităţi pentru instalaţiile aferente ...lor. 
+-(2) Verificarea tehnică a proiectelor se realizează potrivit legii,
+prin grija şi responsabilitatea investitorului/ proprietarului/
+administratorului, după caz, pe domenii/subdomenii de ... şi
+specialităţi pentru instalaţiile aferente ...lor, corespunzător cerinţelor
+fundamentale aplicabile stabilite de proiectant/proiectanţi şi precizate în
+proiect. 
+-(3) Verificatorul de proiecte este angajat al investitorului/
+proprietarului/administratorului şi efectuează verificări numai
+pentru domeniile/subdomeniile de ... şi specialităţile pentru instalaţiile
+aferente ...lor pentru care este atestat, corespunzător cerinţelor
+fundamentale aplicabile”. 
+- HG nr. 1/2018 pentru aprobarea condiţiilor generale şi specifice
+pentru anumite categorii de contracte de achiziţie aferente obiectivelor
+de investiţii finanţate din fonduri publice:
+-art. 4 „Prezentele prevederi, inclusiv cele din anexele nr. 1 şi 2,
+se aplică cu respectarea întocmai a Legii nr. 98/2016, cu modificările
+şi completările ulterioare, Legii nr. 99/2016 privind achiziţiile sectoriale,
+cu modificările şi completările ulterioare, Legii nr. 100/2016 privind
+concesiunile de lucrări şi concesiunile de servicii, cu modificările şi
+completările ulterioare, şi a Legii nr. 101/2016 privind remediile şi căile
+de atac în materie de atribuire a contractelor de achiziţie publică, a
+contractelor sectoriale şi a contractelor de concesiune de lucrări şi
+concesiune de servicii, precum şi pentru organizarea şi funcţionarea
+Consiliului Naţional de Soluţionare a Contestaţiilor, cu modificările şi
+completările ulterioare, precum şi a legislaţiei în vigoare incidente,
+inclusiv în domeniul disciplinei şi calităţii în ..., care sunt
+prioritare”.
+Chiar dacă în materie există o interpretarea diferită a practicii,
+pornind de la existența, în continuare, în cadrul modelului de contract
+stabilit în anexa nr. 2 a HG nr. 1/2018 a clauzei 19.2, „Prevederile definite
+în continuare în prezenta subclauză se aplică pentru orice fază sau element de
+proiectare elaborat de către Antreprenor. Antreprenorul va transmite Supervizorului
+documentaţia aferentă proiectului, verificată de către un verificator autorizat
+angajat de către Antreprenor, împreună cu o declaraţie privind conformitatea
+proiectului elaborat de el cu ...’’, în condițiile în care Regulamentul a fost
+modificat din 2018, clauza respectivă a fost modificată implicit, prin HG
+nr. 742/2018, această interpretare rezultând expres din art. 4 din HG nr.
+1/2018. Cu privire la acest aspect, a fost stabilită o conduită unitară în
+Pagina 29 din 32
+
+cadrul sesiunii de unificare a practicii administrativ-jurisdicționale și
+judecătorești din 21-23 aprilie 2023, în sensul că autoritatea publică
+investitoare este singura care poate angaja verificatorul de proiect.
+Cu privire la eliminarea criteriului valoric din factorul de evaluare
+referitor la experții cheie, Consiliul reține că societatea contestatoare a
+argumentat temeinic această critică a documentației de atribuire. 
+De regulă, în cadrul documentațiilor de atribuire doar experiența
+similară a operatorului economic se raportează la un anumit cuantum
+valoric, comparabil cu valoarea estimată a contractului. În cazul de față,
+autoritatea contractantă a stabilit o valoare comparabilă cu valoarea
+estimată a contractului (atât pentru partea de proiectare, cât șii pentru
+partea de execuție) pentru experții cheie: 5.000.000 lei pentru fiecare
+contract prezentat ca experiență specifică de arhitectul șef și proiectantul
+de structuri și 80.000.000 lei pentru fiecare contract prezentat de
+managerul de proiect. 
+Așa cum arată contestatoarea, Instrucțiunea ANAP stabilește factori
+de evaluare cantitativi și calitativi, menționând următoarele: 
+ART. 13
+(1) Factorii de evaluare privind calificarea, experienţa profesională
+şi/sau modul de organizare ale experţilor-cheie pot fi exprimaţi atât
+calitativ, cât şi cantitativ.
+(2) Procesul de evaluare referitor la aplicarea factorilor calitativi
+urmăreşte relevanţa informaţiilor prezentate de ofertanţi, în legătură cu
+aspecte cum ar fi: metodologiile, metodele şi/sau instrumentele propuse
+pentru activităţile contractului; resursele umane şi materiale identificate;
+interacţiunea între membrii echipei şi responsabilităţile referitoare la
+managementul contractului.
+(3) În situaţia utilizării unor factori de tipul celor exemplificaţi la
+alin. (2), autoritatea contractantă are obligaţia de a prezenta
+potenţialilor ofertanţi prin intermediul formularului de propunere tehnică,
+parte a documentaţiei de atribuire, modul în care trebuie structurată
+informaţia în cadrul ofertelor, astfel încât să conducă la posibilitatea
+comparării acestora, facilitând astfel şi activitatea de evaluare de o
+manieră care să asigure analiza şi acordarea punctajelor, în mod
+obiectiv, conform metodologiei precizate în fişa de date a achiziţiei.
+(4) Procesul de evaluare referitor la aplicarea factorilor cantitativi
+are la bază elemente cuantificabile, ce pot include, fără a se limita la:
+numărul de proiecte similare în care experţii au îndeplinit acelaşi tip de
+activităţi cu cele pe care urmează să le îndeplinească în viitorul contract;
+experienţa similară în domeniul specific aferent activităţilor din cadrul
+viitorului contract, cuantificată în ani; experienţa generală în ceea ce
+priveşte domeniul studiilor, cuantificată în ani, prevederile art. 6 - 9
+aplicându-se în mod corespunzător.
+NOTĂ:
+Autoritatea contractantă nu poate formula factori de evaluare
+referitori la experienţa similară, care să includă în acelaşi timp ambele
+elemente de cuantificare:
+Pagina 30 din 32
+
+- număr de proiecte similare în care experţii au îndeplinit acelaşi tip
+de activităţi cu cele pe care urmează să le îndeplinească în viitorul
+contract și
+- experienţa similară în domeniul specific aferent activităţilor din
+cadrul viitorului contract, cuantificată în ani. 
+Anii solicitaţi în vederea dovedirii experienţei vor fi calculaţi prin
+prisma duratei proiectului la nivelul căruia a acumulat experienţa
+persoana respectivă, prin corelare cu funcţia/activităţile/atribuţiile pe
+care a avut-o/le-a desfăşurat aceasta, pe bază de documente-suport
+relevante care să ateste experienţa generală, şi nu prin raportare efectiv
+la timpul alocat activităţii respective’’. 
+În cazul de speță, autoritatea contractantă solicită și o valoare,
+care nu se regăsește nicăieri în cadrul articolului respectiv, valoarea
+referindu-se la experiența similară a operatorului, și nu la experiența
+specifică a experților, critica urmând a fi admisă. 
+Consiliul reține că este necesară eliminarea cuantumului valoric din
+experiența experților cheie din conținutul întregii documentații de
+atribuire, fiind necesară corelarea acesteia. 
+Având în vedere cele constatate, în temeiul art. 26 alin. (2) și (5)
+din Legea nr. 101/2016, Consiliul va admite în parte contestația
+formulată de SC ... ... ... SRL, în contradictoriu cu autoritatea
+contractantă ... și va dispune modificarea documentației de atribuire
+prin eliminarea cuantumului valoric al contractelor prezentate ca
+experiență specifică de experții cheie.
+În temeiul alin. (6) al aceleiași legi, respinge ca nefondate restul
+criticilor formulate. 
+Referitor la solicitarea contestatoarei privind obligarea autorității
+contractante la plata de cheltuieli de judecată, Consiliul reține că, potrivit
+art. 26 alin. (9) din Legea nr. 101/2016, „Consiliul poate obliga, la cerere,
+partea în culpă, la plata cheltuielilor efectuate pentru soluționarea
+contestației. Cuantumul, detalierea și documentele doveditoare ale
+cheltuielilor efectuate sunt prezentate în cerere, care trebuie depusă
+înainte de pronunțarea deciziei de soluționare a contestației”.
+Totodată, potrivit prevederilor art. 453 din Codul de Procedură
+Civilă: „(1) Partea care pierde procesul va fi obligată, la cererea părţii care
+a câştigat, să îi plătească acesteia cheltuieli de judecată. (2) Când cererea
+a fost admisă numai în parte, judecătorii vor stabili măsura în care fiecare
+dintre părţi poate fi obligată la plata cheltuielilor de judecată.”
+Cheltuielile reclamate reprezintă servicii de asistare și reprezentare
+contestație, în cuantum de 7614,18 lei facturate cu factura seria BBR nr.
+2971 și achitate cu ordinul de plată din data de 28.03.2023, emis de
+Banca Transilvania.
+Având în vedere că această contestație a fost admisă, în parte,
+complexitatea scăzută a cauzei, precum și faptul că autoritatea
+contractantă este unitate de învățământ, în mod notoriu subfinanțate,
+Consiliul va admite, în parte, și petitul privind obligarea autorității
+contractante la plata către contestatoare a cheltuielilor de judecată,
+acestea fiind reduse la 1000 lei, în temeiul art. 451 alin. (2) și art. 453 din
+Codul de Procedură Civilă.
+Pagina 31 din 32
+
+Pentru aceste motive,
+în baza legii și a mijloacelor de probă aflate la dosar,
+CONSILIUL DECIDE:
+În temeiul art. 26 alin. (2) și (5) din Legea nr. 101/2016, admite în
+parte contestația formulată de SC ... ... ... SRL, în contradictoriu cu
+autoritatea contractantă ... și dispune modificarea documentației de
+atribuire prin eliminarea cuantumului valoric al contractelor prezentate
+ca experiență specifică de experții cheie.
+În temeiul art. 26 alin. (6) din Legea nr. 101/2016, respinge ca
+nefondate restul criticilor formulate de contestatoare. 
+În temeiul art. 26 alin. (9) din Legea nr. 101/2016, obligă
+autoritatea contractantă la plata către contestatoare a sumei de 1000 lei,
+cu titlu de cheltuieli de judecată, în raport de numărul criticilor admise și
+complexitatea scăzută a cauzei. 
+Prezenta decizie este obligatorie pentru părţi, în conformitate cu
+dispozițiile art. 28 alin. (1) din Legea nr. 101/2016.
+Împotriva acesteia se poate formula plângere, în termen de 10 zile
+de la comunicare, în temeiul art. 29 din Legea nr. 101/2016.
+ 
+Redactată în 4 (patru) exemplare originale, conține 32 (treizeci și două) pagini. 
+Pagina 32 din 32

@@ -1,0 +1,329 @@
+HOTĂRÂRE CURTEA DE APEL BUCURE — considerente integrale (anonimizat: nume părți/persoane mascate, considerentele neatinse).
+
+Cod ECLI:RO:CABUC:2026:197.###### 
+
+Dosar nr. ####/2/2026
+
+R O M Â N I A
+
+CURTEA DE APEL BUCUREŞTI
+
+SECTIA A X-A DE CONTENCIOS ADMINISTRATIV SI FISCAL SI PENTRU ACHIZITII PUBLICE
+
+Decizia civilă nr. ###
+
+Şedinţa publică din data de 21.05.2026
+
+Completul compus din:
+
+PREŞEDINTE: #### ##### 
+
+JUDECĂTOR: ###### ##### ####### 
+
+JUDECĂTOR: ##### ######### #####
+
+Grefier: ######## ##### #####
+
+Pe rol se află soluţionarea contestaţiei formulate de către contestatoarea ######### ##### ########### SRL - ECOSYSTEM MANAGEMENT & ########## SRL - ########### ########## ########## SRL împotriva rezultatului procedurii de atribuire şi a raportului procedurii nr. UIP 88 din 19.11.2025/24.11.2025, în contradictoriu cu intimata- autoritatea contractantă AGENŢIA NAŢIONALĂ PENTRU MEDIU ŞI #### PROTEJATE şi intimata- intervenientă #### ########## ### ##### ## ######### #### ########## SRL - ###### ######## SRL - INSTITUTUL NAŢIONAL DE CERCETARE DEZVOLTARE ##### DUNĂRII - INCDDD ###### - #### ############ SRL, cauza având ca obiect litigiu privind achiziţiile publice - contestaţie atribuire.
+
+La apelul nominal făcut în şedinţa publică a răspuns intimata- intervenientă, prin avocat, cu împuternicire avocaţială la fila 85 – vol. II, lipsă fiind celelalte părţi. 
+
+Procedura de citare a fost legal îndeplinită.
+
+În temeiul art. 119 alin. 1 din Regulamentul de ordine interioară al instanţelor judecătoreşti, grefierul de şedinţă a făcut oral referatul cauzei, prezentând pe scurt obiectul pricinii şi stadiul în care se află judecata acesteia, comunicând modul în care s-a îndeplinit procedura de citare a persoanelor chemate la proces, precum şi dacă s-au realizat celelalte măsuri dispuse de instanţă anterior.
+
+Intimata-intervenientă, prin avocat, depune note scrise în susţinerea apărărilor, menţionând că a depus dovada cheltuielilor de judecată la termenul anterior.
+
+Curtea acordă cuvântul pe contestaţia formulată. 
+
+Intimata- intervenientă, prin avocat, solicită respingerea criticilor formulate prin contestaţie ca neîntemeiate. 
+
+În apărare, apreciază că în mod eronat se susține faptul că FLAG ############ nu ar fi prezentat informații și date suficiente în calitatea sa de terţ susținător. A arătat că această companie a depus documentele relevante și, de asemenea că oricum, chiar și dacă nu s-ar aprecia că s-ar fi îndeplinit aceste cerințe, Asocierea sau EPMC, care făcea parte din aceeași asociere, îndeplinea această cerință prin documentația depusă. 
+
+În ce priveşte critica conform căreia ar fi existat un tratament disproporționat și că s-ar fi aplicat criterii diferite de analiză în privința ofertei ##### faţă de oferta EPMC, susţine că nu s-au aplicat criterii distincte, ci s-a aplicat același standard de evaluare. 
+
+Referitor la critica conform căreia autoritatea nu ar fi putut să verifice efortul alocat fiecărui expert și ar fi trebuit să existe o detaliere în documentație, menţionează că s-a depus la autoritate fișierul editabil care cuprinde un program în care se pot verifica elementele privind activitatea fiecărui expert și se pot extrage rapoarte, se pot verifica resursele. 
+
+În ceea ce priveşte critica că ar fi existat o listă a activității A1-9, susţine că această activitate nu făcea parte dintre cele cerute de autoritatea contractantă, astfel că nu poate fi considerată o cerinţă din documentația de atribuire. 
+
+Referitor la critica conform căreia experţii principali, cât şi cei subsidiari, ar fi trebuit să participe la toate activitățile, susţine că nu există o astfel de cerinţă în documentația de atribuire. Mai mult, maniera în care acești experţi participă la activități este și poate fi verificată în instrumentul Microsoft Project depus de către Asocierea EPMC. 
+
+În ceea ce priveşte supra-alocare invocată, susţine că se poate verifica în Microsoft Project că nu există o supra-alocare. 
+
+În final, în ce priveşte solicitarea de reevaluare și reaplicare a criteriilor de evaluare, consideră că nu se poate realiza o astfel de apreciere, pentru că autoritatea contractantă a analizat corect documentaţia de atribuire și a aplicat în mod corect factorii de evaluare. Cu cheltuieli de judecată a căror dovadă se regăseşte la dosar.
+
+În temeiul art. 482 raportat la art. 394 C.pr.civ., Curtea reţine cauza spre soluţionare.
+
+CURTEA,
+
+Asupra contestaţiei de faţă, reţine următoarele:
+
+I. Procedura anterioară în faţa CNSC și a instanței:
+
+1. Soluția CNSC
+
+Prin decizia nr. ###/C5/4814 din data de 09.03.2026, Consiliul Național de Soluționare a Contestațiilor a dispus următoarele:
+
+"Respinge excepțiile invocate în cauza de intervenienta #### ########## SRL.
+
+Admite cererile principale din contestația depusă de ##### ########### SRL în contradictoriu cu AGENȚIA NAȚIONALĂ PENTRU #### NATURALE PROTEJATE.
+
+Anulează actele autorității contractante privind decizia de respingere a ofertei asocierii ##### ########### SRL - ECOSYSTEM MANAGEMENT & ########## SRL - ########### ########## ########## SRL și de stabilire admisibilă și câştigătoare a ofertei asocierii #### ########## SRL - ###### ######## SRL - INSTITUTUL NAȚIONAL DE CERCETARE DEZVOLTARE ##### DUNĂRII, INCDDD ######, precum și comunicările privind rezultatul procedurii.
+
+Obligă autoritatea contractantă ca, în termen de 15 zile de la primirea deciziei Consiliului, cu respectarea prevederilor legale, să facă aplicarea aspectelor de fapt și de drept, stabilite de Consiliu prin motivarea sa, în ceea ce privește oferta asocierii ##### ########### SRL - ECOSYSTEM MANAGEMENT & ########## SRL - ########### ########## ########## SRL și oferta asocierii #### ########## SRL - ###### ######## SRL - INSTITUTUL NAȚIONAL DE CERCETARE DEZVOLTARE ##### DUNĂRII, INCDDD ######, și să continue procedura de atribuire.
+
+Respinge ca nefondat capătul subsidiar de cerere vizând anularea procedurii.
+
+Respinge cererea ##### ########### SRL de obligare a autorității contractante la plata cheltuielilor de soluționare.
+
+Încuviințează în principiu și respinge cererea de intervenție depusă de #### ########## SRL."
+
+Împotriva acestei soluții, a formulat plângere intervenienta #### ########## S.R.L. solicitând modificarea Deciziei CNSC în sensul respingerii contestaţiei formulată de ##### şi admiterii cererii de intervenţie formulată de petentă.
+
+Prin decizia civilă nr. ###/29.04.2026 Curtea de Apel Bucureşti a admis plângerea petentei #### ########## SRL ##### şi a modificat în parte decizia CNSC în sensul că:
+
+A respins contestaţia formulată de #####, cu privire la evaluarea propriei oferte precum şi cu privire la critica ofertei depusă de EPMC –graficul Gantt din propunerea tehnică conţine valori de preţ.
+
+A acordat termen la 21.05.2026, ora 11, cu citarea părţilor, pentru soluţionarea criticilor referitoare la oferta depusă de EPMC, neanalizate de CNSC.
+
+II. Contestaţia:
+
+Prin contestaţia depusă la 5.12.2025 la CNSC, contestatoarea ##### criticat modalitatea de evaluare a ofertei depusă de asocierea #### ########## S.R.L. (#####) - singura ofertă declarată admisibilă și câștigătoare de către ####### de evaluare.
+
+Criticile au fost formulate pe două peliere, astfel:
+
+A.Neconformitatea ofertei depusă de EPMC prin raportare la cerințele de conținut ale Graficului Gantt de ofertant
+
+Contestatoarea a susținut că autoritatea contractantă a aplicat un tratament disproporționat și părtinitor în evaluarea cerinței privind forma de prezentare a Graficului Gantt. Aceasta a arătat că, în cazul propriei oferte, autoritatea contractantă a considerat neconformă utilizarea programului Microsoft Excel și a sugerat că modul de stabilire a interdependențelor dintre activități ar putea constitui motiv de eliminare, deși documentația de atribuire nu impunea utilizarea unui anumit software și nu reglementa expres această modalitate de configurare, aspectul fiind relevant cel mult pentru acordarea punctajului.
+
+Totodată, contestatoarea a susținut că, în cazul asocierii EPMC, autoritatea contractantă s-a limitat la verificarea utilizării programului Microsoft Project, fără a analiza dacă acesta fusese utilizat corect și dacă informațiile prezentate respectau cerințele documentației de atribuire.
+
+De asemenea, contestatoarea a invocat faptul că asocierea EPMC nu ar fi respectat cerința privind evidențierea individualizată a efortului fiecărui expert, întrucât în graficul Gantt ar fi fost menționat generic un grup de „experți suplimentari”, fără indicarea numărului, specialității și efortului alocat fiecărei resurse. #### autoritatea contractantă ar fi constatat această situație în procesul-verbal nr. 4, aceasta nu ar fi solicitat clarificări, spre deosebire de tratamentul aplicat contestatoarei, căreia i s-ar fi refuzat analizarea efortului experților pe motiv că informațiile erau prezentate în Excel.
+
+Contestatoarea a mai susținut că oferta asocierii EPMC era neconformă întrucât nu includea activitatea A.1.9 privind aprobarea planurilor de management de către autoritatea competentă și nu corela etapele din graficul Gantt cu cele din propunerea tehnică, deși această corelare reprezenta o cerință minimă și un element punctabil.
+
+În continuare, contestatoarea a arătat că asocierea EPMC nu ar fi respectat succesiunea cronologică a activităților, programând dezbaterile publice ulterior finalizării etapelor în care acestea trebuiau integrate, cu încălcarea cerințelor caietului de sarcini.
+
+Totodată, s-a susținut că ofertantul nu ar fi respectat cerințele privind alocarea resurselor umane în funcție de responsabilitățile stabilite, fără ca această neconformitate să fi fost verificată de autoritatea contractantă.
+
+B. Neconformitatea cu cerințele de formă ale Graficului Gantt depus de EPMC
+
+Contestatoarea a susținut că autoritatea contractantă a aplicat un tratament neunitar în evaluarea ofertelor, întrucât propria ofertă a fost respinsă pentru considerente de formă referitoare la Graficul Gantt, în timp ce, în cazul asocierii EPMC, verificarea s-ar fi limitat la constatarea utilizării programului Microsoft Project, fără analizarea respectării regulilor de management de proiect.
+
+A arătat că asocierea EPMC ar fi prezentat în mod eronat milestone-urile cu durate de mai multe zile, deși acestea reprezintă repere cu durată zero, precum și că a definit în mod necorespunzător un grup de experți suplimentari ca o singură resursă, contrar regulilor de planificare.
+
+Contestatoarea a mai susținut că această configurare a condus la supraîncărcarea resurselor și la generarea unor valori imposibile privind timpul de lucru al experților, de până la 36–40 ore pe zi, afectând credibilitatea întregului grafic Gantt.
+
+Totodată, s-a invocat faptul că interdependențele dintre activități nu ar fi fost definite corect, fiind indicate doar referințe tehnice la fișiere, ceea ce ar confirma caracterul neconform al graficului și, implicit, al ofertei tehnice a asocierii EPMC în raport cu cerințele minime ale documentației de atribuire.
+
+În subsidiar, contestatoarea a solicitat, în cazul menținerii ofertei asocierii EPMC în procedură, reevaluarea acesteia cu aplicarea corectă a criteriilor de punctaj, susținând că autoritatea contractantă ar fi aplicat eronat penalizările pentru neconcordanțe și ar fi acordat nejustificat punctajul maxim pentru subfactorii Pt2.2 și Pt2.3.
+
+În concluzie, contestatoarea a susținut că evaluarea realizată de autoritatea contractantă nu a respectat criteriile stabilite prin documentația de atribuire și că se impune efectuarea unei reevaluări conforme și obiective.
+
+Poziţia părţii adverse:
+
+Prin cererea de intervenţie depusă la 22.12.2025 ofertanta EPMC a solicitat respingerea contestaţiei.
+
+Examinând contestaţia formulată, răspunzând punctual criticilor formulate, Curtea reţine:
+
+A.Cu privire la criticile vizând pretinsa neconformitate a Graficului Gantt depus de Asocierea EPMC sub aspectul cerințelor de conținut, Curtea reține următoarele:
+
+1.Referitor la pretinsa lipsă a evidențierii efortului individual al experților (E27 - "experți suplimentari")
+
+Curtea constată că susținerea contestatoarei potrivit căreia ofertantul ar fi încălcat cerința de prezentare a efortului individual al fiecărui expert nu poate fi primită, în condițiile în care, potrivit cerințelor din fișa de date a achiziției (IV.4.1 Modul de prezentare al propunerii tehnice), autoritatea contractantă trebuia să poată verifica, din documentele de depuse de ofertant în legătură cu graficul solicitat, respectiv fișierele transmise în legătură cu acesta, printre altele, "Efortul alocat fiecărui expert exprimat în ore sau zile", iar din modalitatea în care ofertantul EPMC a prezentat experții în discuție în graficul Gantt, achizitoarea a fost în măsură să verifice efortul alocat pe fiecare expert, în condițiile în care experții grupați în funcție de domeniu (ex.: experți habitate, experți amfibieni și reptile) au aceleași competențe, iar determinarea efortului alocat fiecăruia presupune împărțire a efortului total al grupului la numărul de membri. 
+
+Astfel, cerința din documentația de atribuire privind evidențierea efortului experților trebuie interpretată în mod rezonabil, în raport de specificul propunerii tehnice și de modul de organizare a resurselor umane de către ofertant, neputând conduce la impunerea unei rigidități formale excesive.
+
+Or, simpla utilizare a unei categorii agregate de resurse ("experți suplimentari") nu echivalează, în sine, cu neîndeplinirea cerinței, în măsura în care din ansamblul propunerii tehnice rezultă capacitatea ofertantului de a asigura resursele necesare și de a executa activitățile contractuale.
+
+În plus, modul de prezentare a efortului experților secundari, prin gruparea acestora pe domenii de competență, nu împiedică verificarea cerinței privind "efortul alocat fiecărui expert", în condițiile în care determinarea efortului individual rezultă printr-o operațiune aritmetică simplă, raportată la numărul de membri ai fiecărui grup
+
+Mai mult, Curtea reține că documentația nu impune, sub sancțiunea excluderii, nominalizarea exhaustivă și individualizată a fiecărui expert în cadrul graficului Gantt, ci permite o marjă de apreciere ofertantului în configurarea resurselor.
+
+În aceste condiții, critica vizează, în realitate, o opțiune de prezentare a ofertei, iar nu o veritabilă neconformitate.
+
+2.Cu privire la pretinsa lipsă a unor activități (A.1.9) și necorelarea etapelor
+
+Curtea constată că această critică are un caracter formal și nu demonstrează existența unei neconformități reale a ofertei.
+
+Astfel, analiza conformității propunerii tehnice nu se realizează prin raportare izolată la un singur document (graficul Gantt), ci prin raportare la ansamblul ofertei, inclusiv la descrierea metodologiei și a etapelor de execuție.
+
+Or, contestatoarea nici nu susţine că activitatea invocată ar fi fost în mod efectiv omisă din oferta tehnică, ci doar că nu ar fi fost reflectată într-o anumită manieră în graficul Gantt.
+
+În absența unei demonstrații că această pretinsă omisiune afectează posibilitatea de executare a contractului sau relevă o neînțelegere a cerințelor, critica nu poate conduce la calificarea ofertei ca neconformă.
+
+3. Cu privire la pretinsa nerespectare a succesiunii cronologice a activităților
+
+Curtea reține că stabilirea succesiunii activităților în cadrul graficului Gantt ține de strategia de implementare propusă de ofertant, în limitele respectării cerințelor minimale din documentația de atribuire.
+
+Or, documentația nu impune un calendar rigid sau o succesiune unică și obligatorie a etapelor, ci stabilește obiectivele și rezultatele urmărite.
+
+În aceste condiții, diferențele de abordare în planificarea temporală nu pot fi asimilate unei neconformități, în lipsa unei demonstrații că acestea contravin în mod direct cerințelor caietului de sarcini sau fac imposibilă executarea contractului.
+
+Cu titlu exemplificativ, arată contestatoarea că ofertantul EPMC nu a îndeplinit cerinţa Caietului de sarcini pag. 26 care impunea ca în cadrul activității A.1.7., elaborarea Planurilor de management să se țină cont de toate sugestiile și propunerile expuse în cadrul dezbaterilor publice pentru Planurile de management (A.2.3.5.), în special în ceea ce privește elaborarea măsurilor de management, cu consecința directă ca dezbaterile publice pentru Planurile de management (rezultatul activității A.2.3.5.) să fie realizate înainte de finalizarea activității A.1.7.
+
+Analizând critica, Curtea reține că, potrivit cerințelor caietului de sarcini, dezbaterile publice au rolul de a fundamenta conținutul planurilor de management, prin preluarea sugestiilor și propunerilor formulate de factorii interesați, fără a se impune însă o succesiune rigidă, exclusiv succesivă, între cele două activități, ci doar asigurarea corelării acestora
+
+Analizând graficul Gantt depus de ofertantul EPMC, Curtea constată că activitatea A.2.3.5 debutează anterior activității A.1.7 și se desfășoară parțial concomitent cu aceasta, ceea ce permite integrarea progresivă a rezultatelor dezbaterilor în elaborarea planurilor de management.
+
+O astfel de abordare este compatibilă cu natura activităților în discuție, care presupun un proces iterativ, în cadrul căruia informațiile obținute pe parcursul dezbaterilor pot fi valorificate pe măsura derulării acestora, fără a fi necesară finalizarea integrală a unei activități înainte de începerea celeilalte.
+
+De asemenea, Curtea reține că existența relațiilor de interdependență între activități este reflectată în graficul Gantt, iar comisia de evaluare a verificat acest aspect, concluzionând asupra conformității modului de planificare.
+
+În aceste condiții, Curtea apreciază că nu se poate reține încălcarea cerințelor documentației de atribuire sub aspectul desfășurării cronologice a activităților, critica fiind întemeiată pe o interpretare restrictivă și formală a acestora.
+
+4.Cu privire la pretinsa nealocare corespunzătoare a resurselor umane
+
+Curtea constată că susținerea potrivit căreia resursele nu ar fi fost alocate conform responsabilităților stabilite este formulată în mod generic și nu este susținută de o analiză concretă a conținutului ofertei.
+
+Simpla afirmație că resursele nu ar fi fost alocate "în mod corespunzător" nu este de natură a demonstra neconformitatea ofertei, în absența identificării unor necorelări efective între activități și resurse sau a imposibilității realizării sarcinilor asumate.
+
+Or, controlul de legalitate exercitat nu poate substitui evaluarea tehnică realizată de autoritatea contractantă, în lipsa unor erori evidente sau a unei încălcări clare a documentației.
+
+5. Cu privire la pretinsa utilizare necorespunzătoare a instrumentului Microsoft Project (milestone-uri, supraîncărcare resurse etc.)
+
+Curtea reține că aceste critici vizează aspecte de ordin tehnic și de prezentare, care nu sunt reglementate în mod expres și imperativ în documentația de atribuire.
+
+Astfel, nici definiția milestone-urilor, nici modul de configurare a resurselor în software-ul utilizat nu sunt stabilite ca cerințe obligatorii a căror nerespectare să atragă sancțiunea neconformității ofertei.
+
+În absența unor prevederi exprese, astfel de aspecte pot avea cel mult relevanță în procesul de punctare, iar nu ca temei de eliminare a ofertei.
+
+În plus, petenta nu demonstrează că eventualele imperfecțiuni de modelare în software ar afecta în mod real executarea contractului.
+
+6. Cu privire la pretinsa evaluare neunitară a ofertelor
+
+Curtea constată că această critică nu este susținută de elemente concrete care să evidențieze un tratament discriminatoriu, ci se întemeiază pe o comparație subiectivă între două oferte distincte.
+
+Or, principiul tratamentului egal nu presupune uniformitate absolută de soluții, ci aplicarea acelorași criterii în mod nediscriminatoriu.
+
+În lipsa dovezii că autoritatea contractantă ar fi aplicat standarde diferite pentru situații identice, critica nu poate fi primită.
+
+În concluzie, Curtea reține că criticile formulate de contestatoare vizează, în principal, aspecte de interpretare și prezentare a ofertei, fără a evidenția încălcări clare și concrete ale cerințelor documentației de atribuire.
+
+În consecință, acestea nu sunt de natură a atrage neconformitatea ofertei depuse de Asocierea EPMC și vor fi respinse ca neîntemeiate.
+
+B.Cu privire la criticile vizând pretinsa neconformitate a Graficului Gantt depus de Asocierea EPMC sub aspectul cerințelor de formă, Curtea reține următoarele:
+
+1. Referitor la pretinsul tratament neunitar al ofertanților (utilizarea Microsoft Project vs. alte instrumente)
+
+Curtea constată că susținerea contestatoarei este neîntemeiată.
+
+Astfel, simpla împrejurare că ofertantul declarat câștigător a utilizat aplicația Microsoft Project nu poate conduce, în sine, la concluzia unei evaluări preferențiale, în lipsa unei prevederi exprese din documentația de atribuire care să condiționeze conformitatea ofertei de utilizarea unui anumit software.
+
+Or, cerințele privind forma de prezentare a graficului Gantt nu pot fi interpretate în sensul instituirii unei obligații implicite de utilizare a unui anumit instrument informatic, în absența unei mențiuni clare, precise și neechivoce în acest sens.
+
+Prin urmare, evaluarea realizată de autoritatea contractantă, prin raportare la conținutul efectiv al graficului, iar nu la instrumentul utilizat pentru elaborarea acestuia, este conformă principiilor nediscriminării și tratamentului egal.
+
+În plus, Curtea constată că diferența de tratament invocată nu derivă din criterii obiective stabilite prin documentația de atribuire, ci din modul diferit de prezentare ales de ofertanți, care nu poate fundamenta o nelegalitate a evaluării.
+
+2. Cu privire la pretinsa nerespectare a regulilor de management de proiect (milestone-uri cu durată nenulă)
+
+Curtea reține că această critică are la bază standarde profesionale de bună practică, însă nu se întemeiază pe cerințe obligatorii prevăzute în documentația de atribuire.
+
+Astfel, deși definiția milestone-urilor invocată de petentă corespunde practicii consacrate în managementul de proiect, aceasta nu poate fi transformată, în absența unei prevederi exprese, într-o condiție de conformitate a ofertei.
+
+Or, în materia achizițiilor publice, evaluarea ofertelor se realizează exclusiv prin raportare la cerințele documentației de atribuire, iar nu la standarde tehnice sau metodologice care nu au fost asumate în mod explicit de autoritatea contractantă.
+
+În aceste condiții, eventualele inadvertențe privind definirea milestone-urilor pot avea, cel mult, relevanță în aprecierea calității propunerii tehnice, iar nu ca temei de excludere pentru neconformitate.
+
+În plus, EPMC a explicat că activitățile pot fi marcate ca jaloane (milestones) chiar dacă au durată > 0, în funcție de rolul lor în proiect (ex. livrabile); durata zero ar implica lipsa costurilor, ceea ce nu corespunde realității execuției. 
+
+Prin urmare, Curtea apreciază că nu orice abatere de la o definiție teoretică a milestone-ului echivalează cu neconformitate, în lipsa unei cerințe exprese. Aspectul invocat ține de metodologia de planificare, nu de conformitatea formală.
+
+3. Cu privire la pretinsa definire eronată a resurselor (E27 - grup tratat ca resursă unică)
+
+Curtea constată că modul de configurare a resurselor în cadrul aplicației utilizate reprezintă o opțiune tehnică a ofertantului, care nu poate fi cenzurată decât în măsura în care contravine în mod direct cerințelor documentației de atribuire.
+
+Or, petenta nu indică existența unei prevederi exprese care să impună o anumită metodologie de definire a resurselor în cadrul aplicației Microsoft Project sau interdicția utilizării unor resurse agregate.
+
+În absența unei asemenea cerințe, Curtea apreciază că aspectele invocate țin de modul de modelare internă a planificării și nu pot fundamenta concluzia neconformității ofertei.
+
+În plus, Curtea constată că această critică este contrazisă chiar de explicațiile tehnice oferite de EPMC.
+
+Astfel, din cererea de intervenţie depusă rezultă că: "ES27" (sau similar - E23 în unele explicații) reprezintă o resursă generică, utilizată în mod legitim în aplicațiile de planificare; aceasta reflectă un grup de persoane suport (logistică, secretariat etc.), nefiind obligatorie individualizarea lor la nivelul graficului; documentația de atribuire nu impune nominalizarea sau individualizarea acestor resurse auxiliare. 
+
+În aceste condiții, Curtea reține că modelarea unei resurse colective nu contravine cerințelor documentației, fiind o opțiune tehnică legitimă.
+
+4. Cu privire la pretinsa supraîncărcare a resursei ES7 (36-40 ore/zi)
+
+Curtea reține că această critică se întemeiază pe interpretarea modului în care aplicația informatică calculează alocările de resurse, în funcție de parametrii introduși de utilizator.
+
+Totuși, aceste aspecte nu sunt de natură a demonstra, în mod direct și necesar, imposibilitatea executării contractului sau nerealismul ofertei, în lipsa unei analize corelate cu ansamblul propunerii tehnice și cu explicațiile ofertantului.
+
+Mai mult, documentația de atribuire nu stabilește indicatori cantitativi sau praguri tehnice privind încărcarea zilnică a resurselor în cadrul graficului Gantt, astfel încât astfel de observații nu pot constitui, în mod autonom, un motiv de neconformitate.
+
+Referitor la acest aspect, EPMC a arătat că valorile ridicate (ex. 800%) reflectă capacitatea cumulată a mai multor persoane, nu supraîncărcarea unui individ; aplicația permite agregarea resurselor, astfel încât orele nu trebuie citite literal ca muncă individuală.
+
+În consecință, Curtea reține că nu este demonstrată existența unei imposibilități reale de executare, ci doar o neînțelegere a modului de reprezentare a datelor în aplicația utilizată.
+
+5. Cu privire la pretinsa lipsă a interdependențelor (predecesorilor) și existența unor elemente nerelevante (cale folder)
+
+Curtea reține că aceste critici sunt lipsite de relevanță juridică.
+
+Pe de o parte, EPMC a explicat că proiectul este structurat pe subproiecte (A1, A2), practică uzuală în aplicațiile de management iar interdependențele există și influențează automat graficul. 
+
+Pe de altă parte, aspecte precum denumiri de fișiere sau directoare (ex. referirea la un anumit utilizator) nu afectează conținutul tehnic al ofertei.
+
+Prin urmare, Curtea constată că nu se poate reține o neconformitate pe baza unor elemente pur formale sau accidentale.
+
+În plus, Curtea constată că susținerile contestatoarei vizează aspecte de detaliu tehnic ale modului de utilizare a aplicației informatice, care nu sunt reglementate în mod expres în documentația de atribuire.
+
+În absența unei cerințe explicite privind configurarea relațiilor de tip predecesor sau a unei anumite structuri a fișierului Gantt, astfel de aspecte nu pot fi asimilate unei neconformități a ofertei.
+
+De altfel, Curtea reține că evaluarea conformității nu se poate fundamenta pe identificarea unor elemente accidentale sau colaterale (precum denumiri de directoare), în lipsa demonstrației că acestea afectează conținutul tehnic al ofertei.
+
+6. Pretinsa inconsecvență între planificare și declarațiile din ofertă (normă întreagă vs. parțială)
+
+Curtea reține că această critică este lămurită de explicațiile EPMC, potrivit cărora: alocarea inițială a experților a fost gândită astfel încât să respecte limitele legale (ex. max. 12 ore/zi cumulat); calendarul din MS Project reflectă organizarea efectivă a activităților, nu neapărat regimul contractual individual al fiecărui expert. 
+
+În lipsa unei prevederi exprese care să impună o anumită reprezentare a normei de lucru în Gantt, Curtea apreciază că nu se poate reține o inconsecvență de natură să atragă neconformitatea ofertei.
+
+7. Cu privire la concluzia generală a contestatoarei privind neconformitatea globală a graficului
+
+Curtea constată că argumentația se bazează, în esență, pe o serie de aprecieri tehnice și standarde de bună practică, fără a evidenția încălcarea unor cerințe clare, precise și obligatorii din documentația de atribuire.
+
+Or, în lipsa unei abateri de la cerințe expres prevăzute, nu se poate reține neconformitatea ofertei.
+
+Curtea observă că apărările EPMC demonstrează că graficul include toate activitățile, interdependențele și alocările necesare; eventualele diferențe invocate de petentă derivă din opțiuni de modelare și prezentare, nu din lipsa conformității. 
+
+Mai mult, EPMC subliniază că critica adversă este bazată pe interpretări tehnice subiective; oferta respectă atât cerințele caietului de sarcini, cât și logica de execuție a proiectului. 
+
+Curtea reține că nu poate substitui propria viziune tehnică celei a ofertantului, în absența încălcării unor cerințe clare din documentație.
+
+În plus, o interpretare contrară ar conduce la transformarea unor criterii de apreciere calitativă în veritabile condiții eliminatorii, ceea ce ar contraveni principiului proporționalității și jurisprudenței constante în materia achizițiilor publice.
+
+Pentru toate aceste considerente, Curtea reține că criticile formulate de contestatoare cu privire la cerințele de formă ale Graficului Gantt nu evidențiază încălcări ale documentației de atribuire, ci exprimă o viziune proprie asupra modului optim de elaborare a unui astfel de instrument.
+
+În consecință, acestea vor fi respinse ca neîntemeiate.
+
+Pentru argumentele expuse, Curtea va respinge în totalitate contestaţia formulată, ca neîntemeiată.
+
+În aplicarea dispoziţiilor art. 453 C.pr.civ, întrucât a căzut în pretenţii, va fi obligată contestatoarea ##### la plata către intimata intervenientă EPMC a cheltuielilor de judecată în cuantum de a cheltuielilor de judecată în cuantum de 18509,01 lei, onorariu de avocat, apreciind că valoarea este rezonabilă şi proporţională cu volumul de muncă presupus de pregătirea apărării în cauză, determinat de elemente precum complexitatea, dificultatea sau noutatea litigiului, şi de natură să asigure un just echilibru între dreptul părţii ce a avut câştig de cauză de a-şi recupera cheltuielile avansate și culpa procesuală a părţii ce a căzut în pretenţii.
+
+PENTRU ACESTE MOTIVE,
+
+ ÎN NUMELE LEGII,
+
+DECIDE:
+
+ Respinge contestaţia formulate de către contestatoarea ######### ##### ########### SRL - ECOSYSTEM MANAGEMENT & ########## SRL - ########### ########## ########## SRL, cu sediul în sector 5, Bucureşti, PAUSA, nr. 52, ### #####, şi cu sediul ales la cabinet de avocat ###### #### în ##### #########, nr. 133, ### #, ### #, sector 1, Bucureşti, împotriva rezultatului procedurii de atribuire şi a raportului procedurii nr. UIP 88 din 19.11.2025/24.11.2025, în contradictoriu cu intimata- autoritatea contractantă AGENŢIA NAŢIONALĂ PENTRU MEDIU ŞI #### PROTEJATE, cu sediul în Splaiul Independenţei nr. 294, sector 6, Bucureşti, şi intimata- intervenientă #### ########## ### ##### ## ######### #### ########## SRL - ###### ######## SRL - INSTITUTUL NAŢIONAL DE CERCETARE DEZVOLTARE ##### DUNĂRII - INCDDD ###### - #### ############ SRL, cu sediul în #### ####### ### ##, ####- ######, ####### #### ## ## ###### #### ## ### ########## ###### ###### & Partners în #### ########## ### ##, sector 2, Bucureşti, ca neîntemeiată. 
+
+Obligă contestatoarea la plata către intimata EPMC a cheltuielilor de judecată în cuantum de 18.509,01 lei, onorariu de avocat. 
+
+Definitivă. 
+
+Pronunţată astăzi, 21.05.2026, prin punerea soluţiei la dispoziţia părţilor de către grefa instanţei.
+
+ PREŞEDINTE JUDECĂTOR JUDECĂTOR
+
+ #### ##### ###### ##### ####### ##### ######### #####
+
+GREFIER
+
+######## ##### #####
+
+Rd./ tehnored./ 6 ex./ CEI/27.05.2026
+
+2 ex. originale/ 4 ex. pt. comunicare
+
+4 ex. au fost comunicate la data de _____________________ – semnătură grefier ____________________

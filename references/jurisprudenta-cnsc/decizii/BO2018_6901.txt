@@ -1,0 +1,288 @@
+DECIZIE CNSC BO2018_6901 — text integral (anonimizat de CNSC la publicare; raționament/considerente complete).
+Citeaz-o prin BO2018_6901.
+
+CONSILIUL NAȚIONAL DE
+SOLUȚIONARE A CONTESTAȚIILOR
+Str. Stavropoleos nr. 6, sector 3, București, cod poștal 030084, România
+Tel: +4 021.310.46.41 Fax: +4 021.890.07.45 și +4 021.310.46.42 www.cnsc.ro
+În conformitate cu prevederile art. 14 alin. (2) și ale art.
+27 alin. (1) din Legea nr. 101/2016 privind remediile și căile
+de atac în materie de atribuire a contractelor de achiziție
+publică, a contractelor sectoriale și a contractelor de
+concesiune de lucrări și concesiune de servicii, precum și
+pentru organizarea și funcționarea Consiliului Național de
+Soluționare a Contestațiilor, Consiliul adoptă următoarea
+DECIZIE
+Nr. ...
+Data: ...
+Prin contestația nr. 415/02.04.2018, înregistrată la Consiliul
+Național de Soluționare a Contestațiilor cu nr. 13142/02.04.2018,
+formulată de SC ... SRL, cu sediul în ..., având CUI RO... și număr
+de ordine la Oficiul Registrului Comerțului ..., reprezentată legal de
+... – administrator, împotriva comunicării finalizare etapă evaluare
+DUAE nr. 6230/28.03.2018, emisă de ..., cu sediul în ..., în cadrul
+procedurii simplificată online - într-o singură etapă, organizată în
+vederea atribuirii contractului de servicii având ca obiect „Servicii de
+proiectare fazele P.T., D.D.E. D.T.A.C., D.T.O.E. documentații avize,
+verificarea tehnică a proiectului și asistență tehnică din partea
+proiectantului pentru obiectivul «Pod pe ...»”, s-a solicitat Consiliului
+admiterea contestației, astfel cum a fost formulată, anularea
+declarării inacceptabile a ofertei SC ... SRL și reluarea procesului de
+evaluare a acesteia.
+CONSILIUL NAȚIONAL DE SOLUȚIONARE A CONTESTAȚIILOR,
+asupra cauzei de față, constată următoarele:
+Consiliul a fost legal sesizat și este competent, potrivit
+dispozițiilor art. 12 alin. (1) din Legea nr. 101/2016, să soluționeze
+contestația de față, prin care SC ... SRL, critică decizia de
+respingere, ca inacceptabilă, a ofertei sale, comunicată prin adresa
+nr. 6230, motivat de faptul că „Au fost depuse în SEAP documente
+care nu sunt semnate cu semnătură electronică extinsă, conform
+cerinței din fișa de date a achiziției, în care se menționa: «În SEAP
+se vor încărca documentele scanate și semnate cu semnătură
+1
+ 
+
+electronică extinsă la secțiunea corespunzătoare pentru fiecare tip
+de document».
+Conform prevederilor art. 123 alin.(3) din HG 395/2016
+«Documentele prevăzute la alin. (2) se semnează cu semnătură
+electronică extinsă, bazată pe un certificat calificat, eliberat de un
+furnizor de servicii de certificare acreditat, reprezentând documente
+originale» oferta, documentele de calificare, răspunsurile la
+solicitările de clarificări și DUAE trebuiesc transmise în format
+electronic însoțite de semnătură electronică extinsă, bazată pe un
+certificat calificat, eliberat de un furnizor de servicii de certificare
+acreditat, reprezentând documente originale”.
+În acest sens, cu respectarea prevederilor art. 6 alin. (1) din
+Legea nr. 101/2016, contestatoarea arată că a formulat notificarea
+nr. 412/28.03.2018, către autoritatea contractantă, prin care o
+informa asupra faptului că toate documentele depuse sunt semnate
+cu semnătură electronică extinsă, solicitând reverificarea
+documentației.
+... a răspuns, prin adresa nr. 6364/29.03.2018, că își menține
+punctul de vedere, transmis prin comunicarea nr. 6230/28.03.2018,
+prezentând aceleași motive care au stat la baza respingerii ofertei,
+la care s-a adăugat faptul că:
+„Pentru a confirma motivele de excludere a ofertei din
+procedura de atribuire mai sus-menționată, atașăm prezentei print
+screen din SEAP și extras din SEAP de unde rezultă că doar
+formularul DUAE a fost semnat electronic cu semnătură p7m.
+Din print screenul atașat se poate observa că Formularul nr. 1,
+oferta tehnică și garanția de participare au fost încărcate în format
+pdf”.
+Drept urmare, SC ... SRL transmite, în data de 29.03.2018, un
+e-mail către autoritatea contractantă, în care îi explică faptul că
+toate documentele depuse sunt semnate cu semnătură electronică
+extinsă chiar dacă acestea au extensii diferite (p7m sau pdf), la care
+aceasta, prin adresa nr. 6488/30.03.2018, precizează că își menține
+punctul de vedere.
+Contestatoarea menționează că orice agent economic care
+semnează documente electronic, prin programul pus la dispoziție de
+furnizorul de servicii de certificare acreditat SC ... SRL, are 2
+posibilități de semnare: 
+- butonul "semnează document", care se folosește pentru orice
+tip de document și generează extensia p7m;
+- butonul "semnează document pdf", care se folosește doar
+pentru documentele tip pdf și păstrează extensia pdf,
+în ambele cazuri, documentele finale vor avea semnătură
+electronică extinsă.
+În consecință, contestatoarea susține că toate documentele
+încărcate pe SEAP au semnătură electronică extinsă, după cum se
+2
+
+poate observa la deschiderea acestora, respectiv, a semnat
+electronic documentul DUAE prin butonul "semnează document" și
+astfel i s-a generat extensia p7m, iar formularul nr. 1, oferta
+tehnică, oferta financiară și garanția de participare au fost semnate
+prin butonul "semnează document pdf" și astfel s-a păstrat extensia
+pdf.
+Contestatoarea menționează că nu există posibilitatea
+achiziționării a două tipuri de semnături electronice diferite:
+semnătură electronică și semnătură electronică extinsă, orice agent
+economic care postează documente pe SEAP, deținând un certificat
+calificat, eliberat de un furnizor de servicii de certificare acreditat,
+semnează doar cu semnătură electronică extinsă.
+De asemenea, SC ... SRL arată că, prin administrator ...,
+deține un certificat calificat, valabil, de semnătură electronică
+extinsă, eliberat de un furnizor de servicii de certificare acreditat
+(certificat nr. seria 42377F1446DD0631 emis de SC ... SRL, valabil
+până la data de 28.04.2018).
+În probațiune, s-au depus, în copie, documente.
+Prin adresa nr. 6928/05.04.2018, înregistrată la Consiliu sub
+nr. 13974/05.04.2018, autoritatea contractantă transmite punct de
+vedere, prin care solicită respingerea contestației ca nefondată și
+menținerea comunicării nr. 6230/28.03.2018 și a răspunsului la
+notificarea prealabilă nr. 6487/30.03.2018, având în vedere
+următoarele considerente:
+În fapt, referitor la documentele depuse de SC ... SRL,
+autoritatea contractantă arată că, în SEAP au fost depuse
+documente care nu au fost semnate cu semnătură electronică
+extinsă, conform cerinței din fișa de date a achiziției, respectiv „în
+SEAP se vor încărca documentele scanate și semnate cu semnătură
+electronică extinsă la secțiunea corespunzătoare pentru fiecare tip
+de document”, și art. 123 alin. (3) din HG nr. 395/2016, care
+prevede că: „Documentele prevăzute la alin. (2) se semnează cu
+semnătură electronică extinsă, bazată pe un certificat calificat,
+eliberat de un furnizor de servicii de certificare acreditat,
+reprezentând documente originale”, astfel, doar formularul DUAE a
+fost semnat electronic cu semnătură p7m, iar formularul nr. 1,
+oferta tehnică și garanția de participare au fost încărcate în format
+pdf.
+În concluzie, autoritatea contractantă consideră nefondată
+contestația, fapt pentru care își menține răspunsul transmis la
+notificarea nr. 6487/30.03.2018,.
+În drept, se invocă prevederile Legii nr. 98/2016 și a HG nr.
+395/2016.
+În probațiune, s-au depus, în copie, documente aflate la
+dosarul achiziției publice.
+3
+
+Din analiza susținerilor părților și a documentelor existente la
+dosarul cauzei, Consiliul reține cele ce urmează:
+... a inițiat procedura de simplificată online - într-o singură
+etapă, organizată în vederea atribuirii contractului de servicii având
+ca obiect „Servicii de proiectare fazele P.T., D.D.E. D.T.A.C.,
+D.T.O.E. documentații avize, verificarea tehnică a proiectului și
+asistență tehnică din partea proiectantului pentru obiectivul «Pod pe
+...»”, prin publicarea, în SEAP, a anunțului de participare simplificat
+nr. .... Valoarea estimată a contractului de servicii este de
+164.037,00 lei, fără TVA, și criteriul de atribuire „cel mai bun raport
+calitate-preț”.
+Decizia privind rezultatul procedurii de atribuire i-a fost
+comunicată SC ... SRL, prin adresa nr. 6230 din 28.03.2018, în care
+se arată că, în urma analizării documentelor depuse în SEAP,
+respectiv în urma finalizării fazei de verificare a formularelor DUAE,
+oferta acestei societăți a fost respinsă ca inacceptabilă, în baza art.
+137 alin. (2) lit. j din HG nr. 395/2016, motivat de faptul că:
+„Au fost depuse în SEAP documente care nu sunt semnate cu
+semnătură electronică extinsă, conform cerinței din fișa de date a
+achiziției, în care se menționa: «în SEAP se vor încărca documentele
+scanate și semnate cu semnătură electronică extinsă la secțiunea
+corespunzătoare pentru fiecare tip de document».
+Conform prevederilor art. 123 alin. (3) din Hg 395/2016
+«Documentele prevăzute la alin. (2) se semnează cu semnătură
+electronică extinsă, bazată pe un certificat calificat, eliberat de un furnizor
+de servicii de certificare acreditat, reprezentând documente originale»
+oferta, documentele de calificare, răspunsurile la solicitările de clarificări și
+DUAE trebuiesc transmise în format electronic însoțite de semnătură
+electronică extinsă, bazată pe un certificat calificat, eliberat de un furnizor
+de servicii de certificare acreditat, reprezentând documente originale.”
+Împotriva acestei decizii a autorității contractante, SC ... SRL a
+înaintat Consiliului contestația de față (îndeplinind procedura
+notificării prealabile, stabilită la art. 6 din Legea nr. 101/2016),
+solicitând admiterea contestației, astfel cum a fost formulată,
+anularea declarării inacceptabile a ofertei sale și reluarea procesului
+de evaluare a acesteia.
+Potrivit susținerilor autorității contractante din răspunsul la
+notificarea prealabilă primită de la SC ... SRL, din răspunsurile la
+demersurile ulterioare ale societății și din punctul de vedere la
+contestație, singurul argument al acesteia în respingerea ofertei
+contestatoarei a fost extensia „pdf” a Formularului 1, ofertei tehnice
+și garanției de participare postate de această societate în SEAP,
+concluzia autorității, nejustificată, de altfel, fiind că semnătura
+electronică existentă pe aceste documente nu este una extinsă, așa
+cum prevede legea.
+4
+
+Ca probă în prezenta speță, SC ... SRL a prezentat adresa nr.
+B 9593 din 30.03.2018, emisă de SC ... SRL pentru SC ... SRL, în
+care se arată următoarele:
+„În urma verificărilor efectuate asupra documentului Formular1.pdf,
+transmis către noi în data de 30.03.2018, s-a constatat faptul că fișierul a
+fost semnat utilizând certificatul cu numărul serial 42377F1446DD0631
+având perioada de valabilitate cuprinsă între 28.04.2017 și 28.04.2018.
+Certificatul cu care a fost semnat documentul este emis pentru
+Burtescu Simona, având funcția: Administrator în cadrul organizației ...
+S.R.L. Acesta este valid și nerevocat fiind emis de ... S.R.L.
+Ora semnării este 15:30:16 în data de 14.03.2018 reprezentând
+ora locală a calculatorului utilizat la semnare.
+Pentru verificarea alterării/modificării unui document s-a aplicat
+asupra documentului algoritmul SHA256 în urma căruia a fost generată o
+sumă de control (checksum) unică, aceasta fiind o metodă sigură pentru
+efectuarea unei evaluări a fișierului transmis.
+Suma de control rezultată este:
+d45d8893a6ec772c24558b5a6ad9601e13bdde403e13017f36d504203a7c
+801b
+Documentul a fost semnat utilizând algoritmul SHA2 iar programul
+cu care s-a efectuat semnarea a fost Easv Sign.
+Considerăm că documentul pe care ni l-ați trimis întrunește
+condițiile unui document valid din punct de vedere al semnăturii și este
+semnat cu o semnătură electronică extinsă.
+Datele certificatelor emise de SC ... SRL sunt publice și pot fi
+verificate pe site-ul: https://ca.....ro/search.aspx
+SC ... SRL este un Prestator de Servicii de încredere emitent de
+certificate digitale calificate în Conformitate cu prevederile
+Regulamentului European eIDAS (910/2014). Semnăturile electronice
+extinse emise de către SC ... SRL, sunt create pe baza unui certificat
+digital calificat și a unei aplicații specializate pentru crearea semnăturii.
+Semnătura atașată astfel unui document are valoare legală și garantează
+autenticitatea, integritatea și nerepudierea datelor semnate electronic.”
+De altfel, Consiliul constată că, la dosarul cauzei, se regăsesc
+depuse de către autoritatea contractantă copii conforme cu
+originalul ale garanției de participare, Formularului nr. 1 și DUAE
+aparținând SC ... SRL, ceea ce reprezintă proba faptului că aceste
+documente au putut fi deschise de către autoritate, chiar dacă
+extensia DUAE era diferită de cea a celorlalte documente.
+Văzând faptul că autoritatea contractantă nu motivează de ce
+a considerat că semnătura electronică existentă pe Formularul nr. 1,
+garanția de participare și propunerea tehnică aparținând SC ... SRL,
+nu este una extinsă, așa cum impun prevederile legale ce
+reglementează semnarea și modalitatea de postare a documentelor
+în SEAP de către operatorii economici participanți la procedura de
+atribuire, și având în vedere probele depuse la dosarul cauzei,
+inclusiv adresa emisă de furnizorul certificatului calificat deținut de
+... (persoana care a semnat electronic documentele aparținând
+5
+
+societății, postate în SEAP), administrator al SC ... SRL, Consiliul
+stabilește că decizia autorității de respingere a ofertei
+contestatoarei, pentru motivul analizat, este lipsită de temei. Astfel,
+nu rezultă din susținerile autorității și nici din probele administrate
+de aceasta, faptul că semnătura electronică existentă pe cele trei
+documente amintite nu este una extinsă, simplul fapt al prezenței
+extensiei „pdf” în forma electronică a celor trei acte neechivalând cu
+lipsa acestei semnături electronice extinse.
+Drept urmare, Consiliul constată că în cazul SC ... SRL nu se
+regăsește verificată ipoteza prevăzută la art. 137 alin. (2) lit. j din
+HG nr. 395/2016, conform căruia „oferta şi documentele care o
+însoţesc nu sunt semnate cu semnătură electronică extinsă, bazată
+pe un certificat calificat, eliberat de un furnizor de servicii de
+certificare acreditat”, astfel încât reține caracterul nelegal al deciziei
+autorității contractante de a respinge oferta SC ... SRL pentru
+motivul analizat.
+Luând în considerare aspectele de fapt și de drept evocate, în
+baza art. 26 alin. (2) din Legea nr. 101/2016 privind remediile și
+căile de atac în materie de atribuire a contractelor de achiziţie
+publică, a contractelor sectoriale și a contractelor de concesiune de
+lucrări și concesiune de servicii, precum și pentru organizarea şi
+funcţionarea Consiliului Naţional de Soluţionare a Contestaţiilor,
+Consiliul urmează să admită contestația depusă de SC ... SRL și să
+anuleze actele autorității contractante privind decizia de respingere
+a ofertei SC ... SRL. 
+În baza art. 26 alin. (2) şi (5) din Legea nr. 101/2016,
+Consiliul va obliga autoritatea contractantă ca, în termen de 15 zile
+de la primirea deciziei Consiliului, să reanalizeze oferta depusă de
+SC ... SRL, cu respectarea prevederilor legale și a celor evocate în
+motivare.
+Pentru aceste motive,
+în baza legii și a mijloacelor de probă aflate la dosar, 
+CONSILIUL DECIDE:
+Admite contestația depusă de SC ... SRL în contradictoriu cu
+....
+Anulează actele autorității contractante privind decizia de
+respingere a ofertei SC ... SRL.
+Obligă autoritatea contractantă ca, în termen de 15 zile de la
+primirea deciziei Consiliului, să reanalizeze oferta depusă de SC ...
+SRL, cu respectarea prevederilor legale și a celor evocate în
+motivare.
+Prezenta decizie este obligatorie, în conformitate cu dispozițiile
+art. 28 alin. (1) din Legea nr. 101/2016.
+6
+
+Împotriva prezentei decizii se poate formula plângere, în
+termen de 10 zile de la comunicare, potrivit art. 29 alin. (1) din
+Legea nr. 101/2016.
+PREȘEDINTE, MEMBRU, MEMBRU,
+ ... ......
+Redactată în ... exemplare, conține ... pagini.
+7

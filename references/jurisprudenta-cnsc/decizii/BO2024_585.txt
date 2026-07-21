@@ -1,0 +1,1365 @@
+DECIZIE CNSC BO2024_585 — text integral (anonimizat de CNSC la publicare; raționament/considerente complete).
+Citeaz-o prin BO2024_585.
+
+În conformitate cu prevederile art. 12 alin. (1) și ale art. 27
+alin. (1) din Legea nr. 101/2016 privind remediile și căile de atac
+în materie de atribuire a contractelor de achiziție publică, a
+contractelor sectoriale și a contractelor de concesiune de lucrări
+și concesiune de servicii, precum și pentru organizarea și
+funcționarea Consiliului Național de Soluționare a Contestațiilor,
+Consiliul adoptă următoarea
+DECIZIE
+Nr. ...
+Data: ...
+Prin contestația nr. 653/02.02.2024, înregistrată la Consiliul
+Național de Soluționare a Contestațiilor cu nr. 6857/05.02.2024,
+formulată de ... SRL, cu sediul în ..., având CUI [CUI],
+reprezentată legal prin domnul .... - director financiar, împotriva
+documentației de atribuire elaborată de ...SA, cu sediul în ..., în calitate
+de entitate contractantă, în cadrul procedurii de licitație deschisă
+privind atribuirea contractului având ca obiect „Implementarea unui
+sistem informatic tip ERP LA CNPR", cod CPV 4800000-8, s-a solicitat:
+- în principal, obligarea entității contractante la remedierea
+aspectelor din documentația de atribuire prezentate în continuare ca
+fiind restrictive, abuzive și nelegale, astfel încât să permită derularea
+procedurii de achiziție publică în condiții de deplină legalitate și
+concurență reală;
+- în subsidiar, în eventualitatea în care nu s-ar mai putea dispune
+măsuri de remediere, solicită anularea procedurii, în conformitate cu
+prevederile art. 224 lit. b) și art. 225 alin. (1) lit. c)-d) din Legea nr.
+99/2016.
+De asemenea, contestatoarea a solicitat suspendarea procedurii
+de atribuire, potrivit prevederilor art. 22 din Legea nr. 101/2016, până
+la soluționarea contestației. Prin Încheierea nr. ..., Consiliul s-a
+pronunțat asupra capătului de cerere de suspendare a procedurii de
+atribuire până la soluționarea fondului contestației, pe care l-a admis.
+CONSILIUL NAȚIONAL DE SOLUȚIONARE A CONTESTAȚIILOR,
+asupra cauzei de față, constată următoarele:
+Pagina 1 din 28
+
+Consiliul a fost sesizat și este competent să soluționeze
+contestația formulată de ... SRL, prin care critică o serie de cerințe
+cuprinse în documentația de atribuire, învederând următoarele: 
+În urma analizei Documentatiei de atribuire a constatat
+următoarele aspecte pe care le consideră abuzive și restrictive:
+1. Nelegalitatea cerinței de la secțiunea III.1.3.a) Capacitatea
+tehnică și/sau profesională
+În fișa de date, la pag. 7, în secțiunea III.1.3.a) Capacitatea
+tehnică și/sau profesională, entitatea contractantă a inclus următoarea
+cerință:
+„Informații și/sau nivel(uri) minim(e) necesare pentru evaluarea respectării cerințelor
+menționate:
+Pentru contractele de achiziție de bunuri: executarea de livrări de tipul specificat 
+Modalitatea de îndeplinire:
+Lista principalelor furnizări de produse similare (ex. Furnizare de licențe pentru un
+sistem informatic integrat organizat astfel încât să asigure fluidizarea circuitului
+informațional, asigurarea interoperabilității, gestionarea resurselor și îmbunătățirea
+managementului, creșterea calității, eficienței și eficacității activităților de contabilitate,
+achiziții publice, logistica și depozitare, producție, vânzări, resurse umane, gestiune flotă)
+efectuate în ultimii 3 ani (calculați până la data limită de depunere a ofertelor), conținând
+valori, perioade de prestare, beneficiari, indiferent dacă aceștia din urmă sunt autorități
+contractante sau clienți privați, din care să rezulte faptul că operatorul economic a prestat
+servicii similare la nivelul a maximum 3 contracte în valoare cumulată de minim 16.000.000
+ron."
+Astfel, în cadrul aceleiași fraze, entitatea contractantă solicită, pe
+de o parte, demonstrarea furnizării de produse similare prin solicitarea
+de a prezenta „Lista principalelor furnizări de produse similare”, iar pe
+de altă parte, demonstrarea prestării de servicii similare prin cerința de
+a prezenta maxim 3 contracte care atestă prestarea de servicii.
+Pentru stabilirea cerințelor privind experiența similară solicitată a
+fi îndeplinită de către potențialii ofertanți, entitatea contractantă are
+obligația de a preciza ce înțelege prin produse/servicii/lucrări similare
+cu cele care fac obiectul viitorului contract de achiziție publică/de
+achiziție sectorială/acordului-cadru, făcându-se trimitere la informații ce
+privesc domeniul/tipologia în care se încadrează acestea și/sau
+corelându-se cu scopul pentru care sunt utilizate, așa cum de altfel este
+prevăzut în cadrul Instrucțiunii 2/2017 a Președintelui ANAP. 
+Produsele furnizate anterior de ofertant nu trebuie să fie identice
+cu produsele ce fac obiectul contractului de achiziție publică, ci similare.
+Experiența similară presupune caracterul asemănător cu cel al livrărilor
+presupuse de contractul ce urmează a fi atribuit, dar, în mod necesar,
+trebuie să conțină și elemente care le diferențiază, prin „experiență
+similară” neînțelegându-se „experiență identică”.
+Mai mult decât atât, în SEAP, în secțiunea aferentă acestei
+proceduri de achiziție, se regăsește Avizul conform condiționat nr.
+907/19.01.2024/DGCECMSS, emis de Agenția Națională pentru Achiziții
+Publice, în cadrul căruia, ANAP solicită ca măsură de remediere,
+reformularea descrierii similarității produselor, într-o manieră care să
+reflecte categoriile/tipurile de produse, utilizând o descriere generală,
+raportată la sectorul/domeniul în care se încadrează acesta.
+2
+
+Însă, entitatea contractantă nu a ținut cont de recomandările
+primite de la ANAP cu privire la această cerință.
+Pe cale de consecință, contestatoarea solicită modificarea cerinței
+de la pag. 7, secțiunea III.1.3.a) Capacitatea tehnică și/sau
+profesională din Fișa de date, în sensul reformulării cerinței, astfel:
+- în ceea ce privește prezentarea Listei de produse similare prin
+definirea „produselor similare" într-o manieră care să reflecte
+categoriile/tipurile de produse, utilizând o descriere generală, raportată
+la sectorul/domeniul în care se încadrează acesta, cum ar fi spre
+exemplu „Furnizarea de licențe de utilizare pentru un sistem informatic
+integrat, inclusiv serviciile/echipamentele conexe".
+- să existe o cerință distinctă pentru demonstrarea experienței
+similare (teza a doua a cerinței actuale, „(...) din care să rezulte faptul
+că operatorul economic a prestat servicii similare la nivelul a maximum
+3 contracte în valoare cumulată de minim 16.000.000 ron" prin
+definirea clară a „serviciilor sau produselor similare" pentru care se
+dorește a se prezenta contractele de experiență similară, într-o
+manieră care să reflecte categoriile/tipurile de produse/servicii,
+utilizând o descriere generală, raportată la sectorul/domeniul în care se
+încadrează acesta”.
+2. Experiența profesională a experților-cheie, ca factori de
+evaluare a ofertelor, în cadrul criteriului de atribuire preț-calitate, este
+nelegală și abuzivă:
+În cadrul Fișei de date, capitolul II.2.5 Criterii de atribuire - Cel
+mai bun raport calitate - preț, se regăsesc factori de evaluare în ceea
+ce privește numărul de ani de experiență a managerului de proiect, a
+consultanților funcționali și a consultanților funcționali seniori.
+Aceeași factori de evaluare se regăsesc detaliați și în caietului de
+sarcini, Capitolul 14.3. Punctaj tehnic - Experți.
+În fișa de date, la capitolul II.1.3 Tip de contract - este menționat
+Furnizare - Cumpărare.
+În același timp, la Capitolul II.1.4 Descrierea succintă a
+contractului sau a achiziției/achizițiilor, entitatea contractantă descrie
+obiectul achiziției, astfel „Scopul prezentului caiet de sarcini este
+achiziția de către Beneficiar a unor licențe de utilizare pentru un sistem
+informatic integrat de tip ERP (software as a service - SaaS). Sistemul
+informatic propus în cadrul proiectului va fi proiectat, fabricat, livrat,
+instalat, testat și pus în funcțiune ca un sistem la cheie, complet
+integrat, scalabil, deschis, extensibil, flexibil, cu atribute înalte de
+securitate și disponibilitate, interoperabil cu alte sisteme
+informaționale, prin interfețe care vor fi descrise în specificațiile tehnice
+de mai jos”.
+Același lucru este reiterat și în cadrul caietului de sarcini, Capitolul
+2 Obiectul achiziției.
+Astfel, în contextul în care tipul de contract este „contract de
+furnizare", raportat la dispozițiile art. 10 din Instrucțiunea nr. 1/2017,
+folosirea experienței profesionale a experților-cheie, ca factori de
+Pagina 3 din 28
+
+evaluare a ofertelor, într-un contract de furnizare, este nelegală și
+abuzivă.
+În consecință, contestatoarea solicită Consiliului dispunerea
+eliminării din documentația de atribuire a factorului de evaluare
+„experiența experților propuși” a experților-cheie, în cadrul criteriului de
+atribuire preț-calitate.
+3. Neconcordanța experților cheie solicitați în caietul de sarcini și
+Anexa 2 la caietul de sarcini este nelegală:
+În cadrul caietului de sarcini, capitolul 14.3. Punctaj tehnic -
+Experți, entitatea contractantă a inclus următoarele cerințe de experți
+cheie:
+Echipa propusă de ofertant va conține următorul număr minim de membri:
+-Manager de proiect (Expert cheie) – 1
+-Arhitect sistem informatic integrat – 1
+-Specialist în instruire – 1
+-Consultant funcțional senior (Experți cheie) – 2
+-Consultant funcțional (Experți cheie) – 5
+-Consultant tehnic – 3
+-Specialist în suport - 2
+În acelasi timp, în Anexa 2 la caietul de sarcini, capitolul 18.
+Cerințe privind experții, cerințele privind experții cheie, sunt
+următoarele:
+Responsabilitățile experților cheie sunt detaliate în continuare.
+Managerul de proiect este persoana care trebuie să aibă cel puțin următoarele
+Coordonatorul tehnic este persoana în ale cărei responsabilități trebuie să intre, cel
+puțin:
+Administratorul de baze de date este persoana în ale cărei responsabilități trebuie să
+intre, cel puțin:
+Consultant implementare ERP și instructor este persoana în ale cărei responsabilități
+trebuie să intre, cel puțin:
+Consultant Business Intelligence și instructor este persoana care trebuie să aibă cel
+puțin următoarele responsabilități:
+Specialist testare și asigurarea calității este persoana în ale cărei responsabilități
+trebuie să intre, cel puțin:
+Analizând aceaste solicitări, a constatat caracterul nelegal al
+acestora, respectiv faptul că experții cheie solicitați în cadrul caietului
+de sarcini, diferă de experții cheie solicitați în Anexa 2 la caietul de
+sarcini. Singurul expert care este menționat atât în caietul de sarcini,
+cât și în Anexa 2 este Managerul de proiect.
+Prin urmare, solicită Consiliului dispunerea modificării cerințelor
+referitoare la experții cheie din Anexa 2 la caietul de sarcini, astfel încât
+să se alinieze cu cerințele referitoare la experții cheie definiți în caietul
+de sarcini, respectiv:
+Echipa propusă de ofertant va conține următorul număr minim de
+membri:
+-Manager de proiect (Expert cheie) – 1
+-Arhitect sistem informatic integrat – 1
+-Specialist în instruire – 1
+-Consultant funcțional senior (Experți cheie) – 2
+-Consultant funcțional (Experți cheie) – 5
+-Consultant tehnic – 3
+4
+
+-Specialist în suport - 2
+4. Nerespectarea de către entitatea contractantă a măsurilor de
+remediere impuse de Agenția Națională pentru Achiziții Publice (ANAP)
+prin Avizul conform conditionat, nr. 907/19.01.2024/DGCECMSS,
+referitoare la impunerea unor cerințe pentru terți care nu sunt implicați
+în procedură - solicitarea unei certificări din partea producătorului.
+În caietul de sarcini, la capitolul 14.1 Criterii de calificare,
+entitatea contractantă solicită ca produsele software din cadrul
+sistemului să fie certificate de către Producător.
+În Avizul conform condiționat nr. 907/19.01.2024/DGCECMSS,
+emis de ANAP, emitentul dispune ca măsuri de remediere eliminarea
+cerințelor referitoare la producătorul produselor software, deoarece se
+impun cerințe pentru terți care nu sunt implicați în procedură.
+Prin urmare, petenta solicită eliminarea cerinței „Produsele
+software ofertate în cadrul sistemului trebuie să fie certificate de către
+producător" de la capitolul 14.1 Criterii de calificare din caietul de
+sarcini, astfel încât să respecte întocmai măsurile de remediere impuse
+de ANAP prin Avizul conform condiționat nr.
+907/19.01.2024/DGCECMSS.
+5. Nerespectarea de către entitatea contractantă a măsurilor de
+remediere impuse de Agenția Națională pentru Achiziții Publice (ANAP)
+prin Avizul conform condiționat nr. 907/19.01.2024/DGCECMSS
+referitoare la solicitarea ca licențele pe care le va prezenta ofertantul să
+fie pentru cea mai recentă și actualizată variantă de software ERP
+disponibilă.
+În caietul de sarcini, la capitolul 14.1 Criterii de calificare,
+entitatea contractantă solicită ca furnizorul să pună la dispozitia
+beneficiarului licențe pentru cea mai recentă și actualizată variantă de
+software ERP disponibilă.
+În Avizul conform condiționat nr. 907/19.01.2024/DGCECMSS,
+emitentul dispune ca măsuri de remediere menționarea în mod concret,
+la nivelul caietului de sarcini, ce anume reprezintă „cea mai nouă
+versiune" (specificații tehnice minime).
+Prin urmare, solicită eliminarea cerinței de la capitolul 14.1 Criterii
+de calificare, respectiv ca „furnizorul să pună la dispoziția beneficiarului
+licențe pentru cea mai recentă și actualizată variantă de software ERP
+disponibilă".
+6. Contestatoarea consideră că cerința ca Modulul Marketing și
+Modulul E-commerce să fie parte din sistemul ERP este restrictivă:
+În fișa de date, Capitolul II.2.5 Criterii de atribuire, entitatea
+contractantă prezintă ca și factori de evaluare, ofertarea a două module
+suplimentare, respectiv Modulul Marketing și Modulul E-commerce, care
+să fie incluse în prețul licenței.
+În caietul de sarcini, Capitolul 14.3. Punctaj tehnic, beneficiu
+suplimentar - modul ecommerce & modul marketing, de la pagina 28,
+entitatea contractantă detaliază atât modalitatea de punctare, cât și
+cerințele minime, care ar trebui să fie îndeplinite de către cele două
+module suplimentare. În cadrul acestor cerințe minime, pe care trebuie
+Pagina 5 din 28
+
+să le îndeplinească cele două module suplimentare, se află și cerința ca
+acestea să fie parte din Sistemul ERP.
+În caietul de sarcini, la capitolul 2. Obiectul achiziției, apare
+cerința ca sistemul să fie complet integrat.
+Cerința minimă și obligatorie pe care operatorii economici trebuie
+să o îndeplinească este ca sistemul să fie complet integrat, în timp ce,
+cerințele pentru cele două module suplimentare sunt prezentate doar
+ca modalitate de acordare a punctajului, absența celor două module din
+oferta operatorilor economici neducând la eliminarea acestora din
+competiție, pe motiv de neconformitate a ofertei tehnice.
+Cerința ca cele două module suplimentare să fie parte din
+Sistemul ERP este abuzivă, restrictivă și restrânge artificial concurența,
+având în vedere că cele două module nu sunt în mod uzual încadrate
+într-un sistem de tip ERP, dându-i astfel posibilitatea entității
+contractante de a alege în mod subiectiv între a puncta sau nu
+suplimentar ofertanții care ofertează o soluție cu toate modulele
+integrate, inclusiv modulul e-commerce & modulul marketing.
+Din punct de vedere tehnic, un sistem informatic complet integrat,
+alcătuit din module/aplicații integrate, este perfect capabil să
+gestioneze eficient diferite aspecte ale proceselor specifice entității
+contractante, permițând acesteia să colecteze, să stocheze, să
+gestioneze și să interpreteze date din multiple activități/fluxururi
+economice/comerciale.
+Nu este nevoie ca un modul/aplicație să fie parte a sistemului,
+deoarece prin interfețe de programare a aplicațiilor (API), acestea pot
+lega în mod direct mai multe aplicații la nivel funcțional, susținând
+crearea de aplicații și servicii dinamice și extrem de adaptabile pentru a
+asigura eficiența, pentru a automatiza fluxurile de lucru și pentru a
+spori interoperabilitatea între diferite departamente și echipe.
+Or, solicitarea ca modulul e-commerce & modulul marketing „să
+fie parte” din sistemul ofertat restrânge artificial concurența, prin
+favorizarea unor operatori economici, de vreme ce practica uzitară pe
+piață este de a prezenta soluții informatice care să acopere necesitățile
+unei entități contractante prin ofertarea unor sisteme integrate și cu
+respectarea principiilor transparenței, proporționalității, nediscriminării
+și asigurarea unui cadrul concurențial corect și transparent.
+Pe cale de consecință, solicită modificarea cerinței în sensul în
+care „Modulul modul e-commerce & modul marketing să fie complet
+integrat cu celelalte module ale sistemului ERP".
+7. Solicitarea unui sistem de tip „One stop solution” este
+restrictivă, conducând la interpretarea diferită a unei soluții integrate:
+În caietul de sarcini, Capitolul 14.3. Punctaj tehnic, „One stop
+solution”, de la pagina 28, entitatea contractantă detaliază modalitatea
+de punctare și descrie ce anume înțelege aceasta prin sistem ERP de tip
+„one-stop solution”. 
+Din analiza acestor cerințe, contestatoarea observă că, de aceasta
+dată, prin formularea acesteia, entitatea contractantă introduce și o
+cerință minimă, nu doar un beneficiu suplimentar, care urmează a fi
+6
+
+punctat, în sensul în care se precizează, în mod expres, că „dacă
+modulele sistemului ERP propus sunt împărțite în mai mult de patru
+platforme /aplicații, oferta va fi considerată neconformă".
+Un Sistem informatic integrat trebuie să asigure transferurile de
+date între modulele și componentele sale trebuie să se facă într-o
+manieră complet automată și transparentă pentru utilizator conform
+cerinței de la secțiunea 2 - Cerințele sistemului din Anexa 2 la caietul
+de sarcini.
+Interpretările pe care le poate avea sintagma „One stop solution”
+pot conduce la descalificarea anumitor operatori economici care
+prezintă în ofertă un sistem informatic perfect integrat, ceea ce ar fi
+contrar chiar propriilor cerințe ale entității contractate, de vreme ce la
+secțiunea 2 din Anexa 2 la caietul de sarcini se precizează în mod
+explicit că sistemul care urmează a fi achiziționat trebuie să fie
+„complet integrat”, iar transferurile de date între modulele și
+componentele sale trebuie să se facă într-o manieră complet automată
+și transparentă pentru utilizator.
+Această cerință, pe lângă faptul că produce confuzie, prin prisma
+faptului că se punctează numărul de aplicații/platforme care sunt
+conținute în sistemul ofertat, este și contradictorie în raport cu celelalte
+cerințe din caietul de sarcini, de vreme ce obiectul contractului este
+tocmai achiziția unui „sistem informatic complet integrat”, fiind de la
+sine înțeles că un sistem informatic integrat conține mai multe aplicații
+perfect integrate între ele.
+În caietul de sarcini sunt solicitate ca și cerințe minime și
+obligatorii componente de tip ERP, DMS, BI, care rulează pe platforme
+tehnologice specializate, iar punctarea diferențiată a Sistemului
+Informatic Integrat pe criteriul platforme/aplicatii, în funcție de câte
+platforme/aplicații sunt cuprinse în sistemul informatic integrat ofertat
+este complet nejustificată, având în vedere că obiectul achiziției este un
+sistem informatic complet integrat.
+În opinia petentei, o astfel de cerință cu scopul de a favoriza ori
+dezavantaja în mod nejustificat anumiți operatori economici, contravine
+dispozițiilor art. 63 din Legea nr. 99/2016, cu modificările și
+completările ulterioare, cât și principiilor privind tratamentul egal și al
+discriminării, statuate la art. 2 alin. (2) lit. a) și b) din Legea nr.
+99/2016.
+Prin urmare, solicită eliminarea factorului de evaluare sistem de
+tip „One stop solution” ca fiind abuziv și restrictiv în raport cu cerințele
+minime și obligatorii privind soluția care se dorește a fi achiziționată.
+8. Nerespectarea întocmai, de către entitatea contractantă, a
+măsurilor de remediere impuse de Agenția Națională pentru Achiziții
+Publice, prin Avizul conform condiționat nr.
+907/19.01.2024/DGCECMSS referitoare la formularul de oferta tehnică.
+În cadrul Avizul conform condiționat nr. 907/19.01.2024/
+DGCECMSS, ANAP a dispus ca măsură de remediere, atașarea în
+secțiunea „Formulare”, pentru o informare completă și corectă a
+Pagina 7 din 28
+
+operatorilor economici, a formularului de propunere tehnică ce trebuie
+completat de către ofertanți.
+Urmare măsurilor de remediere impuse prin aviz, entitatea
+contractantă a prezentat în cadrul secțiunii Formulare, Formularul nr. 1
+- Fișa de date privind conformitatea propunerii tehnice cu prevederile
+caietului de sarcini.
+Analizând Formularul nr. 1 - Fișa de date privind conformitatea
+propunerii tehnice cu prevederile caietului de sarcini, petenta a
+observat că acesta nu conține toate cerințele tehnice specificate în
+caietul de sarcini, Anexa 1 la caietul de sarcini și Anexa 2 la caietul de
+sarcini.
+Pe lângă faptul că entitatea contractantă nu a ținut cont de
+recomandarea ANAP de a include în documentația de atribuire
+formularul de propunere tehnică completat corespunzător cu cerințele
+din caietul de sarcini, Anexa 1 la caietul de sarcini și Anexa 2 la caietul
+de sarcini, aceasta a încălcat și dispozițiile art. 3 lit. s) din Legea nr.
+99/2016 coroborat cu prevederile art. 22 alin. (1) alin. (2) alin. (3) și
+alin. (10) din HG nr. 394/2016, prin lipsa unei informări complete,
+corecte și explicite ale cerințelor și elementelor aferente acestei
+achiziții.
+Pe cale de consecință, contestatoarea solicită obligarea entității
+contractante la modificarea formularului de propunere tehnică astfel
+încât acesta să conțină toate informațiile din caietul de sarcini, Anexa 1
+și Anexa 2 la caietul de sarcini.
+Entitatea contractantă a transmis documentele relevante în
+soluționarea contestației, atașat punctului de vedere înregistrat la
+Consiliu cu nr. 8679/12.02.2024, prin care solicită respingerea
+contestației, motivat de faptul că au fost remediate toate măsurile
+dispuse de ANAP, precizând următoarele:
+Anterior publicării documentației în SEAP, [instituție publică] (Comitetul tehnic
+economic), în vederea obținerii avizului din partea acestuia. CTE a emis
+un aviz condiționat, abaterile identificate fiind aspecte ce țineau de
+regularitate și de calitate. În acord cu avizul CTE, [OPERATOR ECONOMIC] a modificat documentul și a publicat întreaga
+documentație în SEAP în data de 23.01.2024. Adresa înregistrată cu nr.
+907/1257/29.01.2024/CN1064441/DGCECMSS se referă la
+implementarea de către companie a măsurilor de remediere dispuse
+prin avizul conform condiționat nr. 907/19.01.2024. Prin această
+adresă, ANAP comunică faptul că 3 măsuri de remediere (2 măsuri
+aferente fișei de date și caietului de sarcini și 1 măsura aferentă
+strategiei de contractare) au fost preluate parțial de către [instituție publică] și recomandă publicarea de către companie a
+unei clarificări din oficiu, respectiv modificarea strategiei de contractare
+și transmiterea acesteia, prin intermediul email-ului, către un
+reprezentant ANAP.
+Astfel, entitatea contractantă arată că au fost remediate toate
+măsurile dispuse de către CTE, respectiv ANAP. 
+8
+
+1. Referitor la criticile contestatoarei de la punctul 1:
+Entitatea contractantă a adoptat măsurile de remediere
+menționate prin clarificarea din oficiu automată nr.
+101.1/343/02.02.2024, în urma obținerii avizului conform necondiționat
+nr. 907/1652/06.02.2024/CN1064441/DGCECMSS în legătură cu
+clarificarea din oficiu/erată automată transmisă în SEAP în data de
+05.02.2024.
+Astfel, operatorii economici au posibilitatea să vizualizeze în
+cuprinsul fișei de date publicate în SICAP următoarea mențiune:
+„Lista principalelor produse și serviciilor asociate similare (ex.
+sisteme/soluții software/licențe) furnizate în ultimii 3 ani, calculați de la
+termenul limită pentru depunerea ofertelor, din care să rezulte că
+ofertantul a furnizat produse și servicii asociate similare celor care fac
+obiectul contractului pentru care se depune oferta, în valoare cumulată
+de minimum 16.000.000 lei fără TVA, la nivelul a maxim 3 contracte,
+cu indicarea valorilor, datelor și a beneficiarilor publici sau privați,
+conform art. 192 lit. b) din Legea 99/2016 și a Instrucțiunii ANAP Nr.
+2/2017."
+2. Referitor la punctul 4 din contestație, entitatea contractantă
+arată că a implementat măsură de remediere prin publicarea clarificării
+din oficiu nr. 101.1/342/02.02.2024, ulterior primind aviz conform
+necondiționat nr. 907/1578/05.02.2024/CN1064441/DGCECMSS în
+legătură cu clarificarea din oficiu nr. 101.1/342 transmisă în SEAP în
+data de 02.02.2024.
+Măsură dispusă de ANAP se referea la situația în care „nicio
+prevedere legală ... nu specifică faptul că un agent economic ar trebui
+să fie autorizat de un alt agent economic privat, fără atribuții legale în
+acest sens (precum producătorul sau reprezentantul național, în cazul
+de față), iar autorizările și certificările pe care un agent economic le are
+din partea autorităților statului competente sunt întrutotul suficiente
+pentru că acesta să desfășoare activitatea economică pe care o
+dorește...", or entitatea contractantă a formulat cerința strict cu referire
+la produsele ofertate și nu la statut-ul agentului economic:
+„Produsele software ofertate în cadrul sistemului trebuie să fie
+certificate de către producător. Furnizorul va pune la dispoziția
+Beneficiarului licențe pentru cea mai recentă și actualizată variantă de
+software ERP disponibilă”.
+Entitatea contractantă a justificat și a oferit explicații suplimentare
+operatorilor economici în cuprinsul clarificărilor din oficiu, aducând
+lămuriri cu privire la noțiunea de „cea mai recentă și actualizată
+variantă de software ERP disponibilă”. Prin „cea mai recentă și
+actualizată variantă de software ERP disponibilă" se înțelege:
+„Produsele software ofertate în cadrul sistemului trebuie să fie
+certificate de către producător, furnizorul va pune la dispoziția
+beneficiarului licențe pentru cea mai recentă și actualizată variantă de
+software ERP disponibilă.
+Pagina 9 din 28
+
+Producătorii de software publică periodic versiuni noi care nu
+diferă concret din punct de vedere al funcționalităților de versiunile
+anterioare și nu modifică specificațiile tehnice ale soluției furnizate.
+În mod curent aceste versiuni apar deoarece pe măsura utilizării
+programelor informatice de către piață sunt descoperite în cazul tuturor
+produselor software supuse vulnerabilității.
+Companiile producătoare asigură continuarea bunei funcționări a
+proceselor proprii prin adăugarea la acestea a unor fișiere sau prin alte
+modalități care conțin elemente de cont în vederea stopării oricăror
+vulnerabilități identificate.
+Periodic, atunci când se însumează mai multe astfel de fișiere
+(update-uri/actualizări) furnizorii combină aceste fișiere într-un pachet
+mai consistent ce le conțin pe toate, pe care le aplică unitar la procesul
+lor.
+În limbajul uzual momentul aplicării acestui pachet este
+considerat momentul în care se actualizează versiunea, urmând ca
+noile produse vândute de furnizor, deși nu au specificațiile tehnice
+definite, să includă din fabrică acest pachet.
+În acest sens, soluția ofertantului va reprezenta platforma
+software care, va conține cel mai recent pachet de actualizări din
+fabrică.
+Specificațiile tehnice minime în vederea unei evaluări unitare sunt
+cele cuprinse în mod distinct în capitolul 1 din anexă la caietul de
+sarcini, fără ca la acestea să fie adăugat sau modificat ceva.”
+3. În ceea ce privește nelegalitatea de la pct. 2 cu privire la
+cerința experienței profesionale a experților cheie, ca factori de
+evaluare a ofertelor, în cadrul criteriului de atribuire preț-calitate,
+entitatea contractantă arată că a adoptat măsuri de remediere dispuse
+prin AVIZ CONFORM CONDIȚIONAT cu privire la documentația de
+atribuire DF1200776 pregătită de entitatea contractantă, transmisă în
+SICAP în data de 08.01.2024, pentru procedura cu obiectul
+„Implementarea unui sistem informatic tip ERP la CNPR" nr.
+907/19.01.2024/DGCECMSS.
+În acest sens, cu privire la măsurile de remediere adoptate,
+reprezentanții ANAP au consemnat următoarele „Entitatea contractantă
+a operat modificări la caietul de sarcini și la fișa de date, astfel se poate
+observa că la Secțiunea 14.3 din Caietul de sarcini publicat în SICAP
+entitatea contractantă a modificat numărul de ani solicitați de la 5 la 3
+ani." 
+Fișierele se regăsesc publicate în SICAP astfel: Documente de
+atribuire
+[CN1064441/00002] Anexa 1 la Caietul de Sarcini refăcută în
+baza avizului ANAP_signed.pdf 
+[CN1064441/00003] Anexa 2 la caietul de sarcini refăcută în urma
+avizului ANAP_signed.pdf 
+[CN1064441/00004] Caiet de sarcini refăcut în baza avizului ANAP
+signed.pd
+10
+
+Totodată, ca urmare a publicării în SEAP a anunțului
+CN1064441/23.01.2024 și exercitării controlului ex-ante asupra
+documentației DF1200776, ANAP a înaintat adresă privind
+implementarea măsurilor de remediere dispuse prin Avizul conform
+condiționat nr. 907/19.01.2024/DGCECMSS prin care se specifică:
+„AC a reformulat cerințele privind experiența specifică a experților
+în sensul: - fiecare dintre experți să aibă experiența în cadrul a cel
+puțin un proiect de implementare a unui sistem informatic integrat cu
+componente similare cu cele din sistemul ofertat; - și experiența de
+minim 3 ani în domeniul implementării proiectelor de sisteme integrate,
+cu excepția consultantului tehnic la care se solicită o experiență de
+minim 2 ani în domeniul implementării proiectelor de sisteme integrate.
+AC a reformulat modalitatea de îndeplinire a experienței în sensul
+solicitării de documente cum ar fi fișa de post, contractul de muncă,
+recomandarea sau orice alte documente similare.
+AC a menținut cerința privind numărul minim de membri pentru
+fiecare categorie de personal și tipul acestora fără o justificare la nivelul
+strategiei de contractare.”
+Totodată, ANAP a dispus ca măsură de remediere „În cazul
+menținerii cerinței privind impunerea numărului minim de experți, EC
+va justifica acest aspect la nivelul strategiei de contractare. A se avea
+în vedere faptul că la nivelul caietului de sarcini - pag. 26 - se solicită în
+mod corect ofertanților să asigure «numărul de persoane pe care îl
+consideră necesar pentru prestarea serviciilor solicitate». Strategia
+astfel completată va fi transmisă la adresa de email @anap.gov.ro. În
+cazul eliminării cerinței, EC va transmite o Clarificare din oficiu cu
+privire la caietul de sarcini.
+- EC a corectat la nivelul documentației de atribuire (caiet de
+sarcini, Fișa de date, strategia de contractare) metodologia de acordare
+a punctajelor în cadrul factorilor de evaluare;
+- EC a completat în strategia de contractare - pag. 16 - cu
+justificarea factorilor de evaluare și a ponderilor acestora”.
+Entitatea contractantă a justificat solicitarea, inclusiv la nivelul
+strategiei de contractare și a transmis reprezentanților ANAP, prin e-
+mail, strategia refăcută și completată, înregistrată cu nr.
+101.1/341/02.02.2024.
+4. În ceea ce privește critica formulată la punctul 8, entitatea
+contractantă a furnizat în cuprinsul documentației la Secțiunea
+Formulare - Formularul nr. 1, completat corespunzător cu cerințele din
+caietul de sarcini.
+În cuprinsul fișei de date, entitatea contractantă a enumerat
+elementele care vor completa propunerea tehnică, astfel că apreciază
+că operatorii economici au fost informați cu privire la cerințele entității
+contractante și au posibilitatea să depună o ofertă completă.
+5. În ceea ce privește obiectul contractului, raportat la susținerea
+contestatoarei potrivit căreia utilizarea experienței profesionale nu
+poate fi eligibilă ca și factor de evaluare în cadrul criteriului de atribuire
+preț- calitate, entitatea contractantă învederează că, prin clarificarea
+Pagina 11 din 28
+
+din data de 05.02.2024, publicată în SEAP, au fost operate modificări
+asupra documentație de atribuire, respectiv, au fost modificate
+cerințele privind experiența specifică a „personalului cheie”.
+Astfel au fost modificate atât caietul de sarcini, cât și fișa de date,
+respectiv entitatea contractantă a revizuit metodologia de acordare a
+punctajelor în cadrul factorilor de evaluare, conform observațiilor ANAP
+și mențiunile privitoare la experiența dovedită „pentru experții cheie”.
+Pe de altă parte, apreciază că petenta interpretează în mod eronat
+dispozițiile Instrucțiunii ANAP nr. 1/2017. Tipul unui contract de
+achiziție publică se stabilește în funcție de obiectul acestuia, așa cum
+reiese din definițiile contractului de achiziție publică de
+lucrări/produse/servicii reglementate la art. 3 alin. (1) lit. 1), m) și n)
+din Legea nr. 99/2016. Referitor la obiectul contractului precizează că,
+din interpretarea prevederilor art. 17 alin. (2) din anexă la HG nr.
+394/2016, entitatea contractantă trebuie să stabilească obiectul
+achiziției prin raportare la activitatea care caracterizează scopul
+principal al contractului, respectiv la necesitatea identificată la nivelul
+autorității contractante care va fi acoperită prin realizarea achiziției.
+În ceea ce privește contractele care au ca obiect cel puțin două
+tipuri de achiziție publică, respectiv lucrări, servicii sau produse, potrivit
+dispozițiilor art. 32 alin. (1) din Legea nr. 99/2016, acestea vor fi
+atribuite conform dispozițiilor aplicabile tipului de achiziție care
+constituie obiectul principal al contractului în cauză. în cazul în care
+obiectul contractului vizează atât servicii cât și produse (contract mixt),
+conform alin. (2) al aceluiași articol „obiectul principal se determină în
+funcție de cea mai mare dintre valorile estimate ale serviciilor sau
+produselor respective”.
+În obiectul contractului în cauză sunt incluse și servicii, astfel că
+potrivit documentației de atribuire reiese că acest contract are și
+componentă de prestări servicii, precum servicii de găzduire în cloud pe
+3 ani, servicii de instruire pentru personalul entității contractante,
+servicii de testare, implementarea și personalizarea aspectelor tehnice
+ale sistemului ERP, integrarea cu alte aplicații sau sisteme, dezvoltarea
+de module sau componente specifice, suportul post-producție (asistență
+tehnică pe termen scurt pentru sistemul implementat după trecerea în
+producție a acestuia în vederea stabilizării acestuia).
+Astfel, potrivit art. 3 alin. (6) din Instrucțiunile ANAP 1/2017, în
+cazul contractelor ce includ o componentă semnificativă de servicii
+având ca obiect prestații intelectuale care presupun activități cu nivel
+de complexitate ridicat, situație în care calitatea personalului are un
+impact semnificativ asupra calității executării respectivelor contracte,
+calificarea, experiența profesională și/sau modul de organizare
+reprezintă caracteristici ale ofertei, ce descriu, în fapt, nivelul tehnic
+său funcțional al acesteia, fiind considerate un avantaj calitativ ce poate
+fi punctat.
+Situațiile în care calificarea profesională/experiența profesională a
+personalului cheie sunt utilizate ca factor de evaluare în cadrul
+12
+
+criteriului de atribuire calitate/preț, indicate la art. 10 alin 1. lit a) sunt
+indicate cu titlu exeplificativ, și nu limitativ.
+În analiza de piață efectuată, entitatea contractantă nu s-a limitat
+doar la soluțiile oferite de operatorii economici care au participat la
+consultare. Informațiile publice de specialitate au relevat că există mai
+multe soluții, producători de sisteme ERP care se pot încadra în
+cerințele formulate.
+În concluzie, apreciază că o eventuală măsură de anulare a
+procedurii de atribuire este vădit disproporționată prin raportare la
+intenția legiuitorului de a asigura măsuri de salvgardare a procedurilor
+de atribuire, anularea procedurii fiind o sancțiune aplicabilă, în
+extremis, respectiv doar dacă se constată că nu pot fi dispuse măsuri
+de remediere care să permită continuarea legală a procedurii de
+atribuire.
+Urmare punctului de vedere transmis de autoritatea contractantă,
+contestatoarea a transmis concluzii scrise înregistrate la Consiliu cu nr.
+11179/22.02.2024, prin care solicită admiterea contestației, astfel cum
+aceasta a fost formulată, precizând următoarele:
+I. Cu privire primul capăt de cerere din contestație, referitor la
+nelegalitatea cerinței de la secțiunea III.1.3.a) Capacitatea tehnică
+și/sau profesională, entitatea contractantă a adoptat Măsurile de
+remediere comunicate prin adresa
+Clarificare_Oficiu_Erata_Automata_DF1201978 din data de 07.02.2024.
+În urma analizării măsurilor de remediere, petenta consideră că
+sunt îndestulătoare măsurile adoptate, prin urmare renunță la
+soluționarea acestui capăt de cerere.
+II. În ceea ce privește critica de la pct. 4 - nerespectarea de către
+entitatea contractantă a măsurilor de remediere impuse de Agenția
+Națională pentru Achiziții Publice prin Avizul Conform condiționat nr.
+907/19.01.2024/DGCECMSS, referitoare la impunerea unor cerințe
+pentru terții care nu sunt implicați în procedură, solicitarea unei
+certificări din partea producătorului, aceasta a adoptat măsuri de
+remediere parțiale.
+Petenta învederează că, în afară de faptul că a descris ce anume
+se înțelege prin cea mai recentă și actualizată variantă de software ERP
+disponibilă, entitatea contractantă nu a remediat în niciun fel cerința.
+Prin urmare, își menține solicitarea cu privire la acest capăt de cerere
+conform motivelor prezentate în contestație, respectiv eliminarea
+cerinței „Produsele software ofertate în cadrul sistemului trebuie să fie
+certificate de către producător" de la capitolul 14.1 Criterii de calificare
+din caietul de sarcini.
+III. Cu privire la cel de al II-lea capăt de cerere din contestație,
+referitor la experiența profesională a experților-cheie, ca factori de
+evaluare a ofertelor, în cadrul criteriului de atribuire preț-calitate,
+contestatoarea apreciază nerelevante argumentele entității
+contractante, din punctul de vedere, astfel că susține nelegalitatea
+punctării „Experienței experților-cheie” ca și factor de evaluare în cadrul
+criteriului de atribuire preț-calitate.
+Pagina 13 din 28
+
+Factorii de evaluare urmează a fi stabiliți în mod corespunzător,
+ținând cont de toate elementele stabilite prin documentația de atribuire
+și cu respectarea dispozițiilor legale, inclusiv în ceea ce privește
+stabilirea factorilor de evaluare în raport cu tipul contractului, așa cum
+este cazul de față.
+Prin urmare, își menține critica și nelegalitatea acestei cerințe, și
+pe cale de consecință solicită eliminarea din documentatia de atribuire a
+factorului de evaluare „Experiența experților propuși” a experților-cheie,
+în cadrul criteriului de atribuire preț-calitate.
+IV. Cu privire la petitul de la pct. 8 din contestație - nerespectarea
+măsurilor de remediere impuse de ANAP prin Avizul conform condiționat
+nr. 907/19.01.2024/DGCECMSS, referitoare la formularul de ofertă
+tehnică, contestatoarea învederează că a atras atenția asupra faptului
+că Formularul nr. 1 nu conține toate cerințele tehnice specificate în
+caietul de sarcini, Anexa 1 și Anexa 2 la caietul de sarcini.
+Însă, prin punctul de vedere, entitatea contractantă nu a răspuns
+la criticele aduse prin contestație cu privire la acest petit, ci s-a limitat
+la a reitera cele prezentate în cadrul documentației de atribuire.
+Așadar, își menține critica adusă cu privire la conținutul
+Formularului 1, și pe cale de consecință solicită modificarea
+formularului de propunere tehnică astfel încât acesta că conțină toate
+informațiile din caietul de Sarcini, Anexa 1 și Anexa 2 la caietul de
+sarcini.
+În ceea ce privește petitele pentru care entitatea contractantă nu
+a exprimat o opinie prin punctul de vedere, contestatoarea
+menționează că își menține motivele prezentate în contestație.
+Consiliul constată că, pentru a îndeplini obligația stabilită la art.
+61
+1
+ alin. (1) din Legea nr. 101/2016, contestatoarea a înaintat în data
+de 06.02.2024, recipisa de consemnare a cauțiunii nr. 209933784/1, în
+valoare de 220.000 lei, emisă de CEC Bank – Sucursala Ilfov, la data de
+05.02.2024.
+Cauțiunea constituită se va restitui, la cerere, nu mai devreme de
+30 de zile de la data rămânerii definitive a hotărârii, în temeiul art. 61
+1
+alin. (5), (6) și (7) din Legea nr. 101/2016.
+Din analiza susținerilor părților și a documentelor existente la
+dosarul cauzei, Consiliul reține cele ce urmează:
+...SA, în calitate de entitate contractantă, a publicat în SEAP
+anunțul de participare CN1064441 în data de 23.01.2024 privind
+procedura de licitație dechisă organizată pentru atribuirea contractului
+având ca obiect „Implementarea unui sistem informatic tip ERP LA
+CNPR". Valoarea estimată a procedurii de atribuire este de 16.750.000
+lei, fără TVA, termen stabilit pentru depunerea ofertelor 04.03.2024,
+ora 15:00. Criteriul de atribuire „Cel mai bun raport calitate-preț”.
+Împotriva prevederilor documentației de atribuire cât și a
+măsurilor de remediere luate de către entitatea contractantă cu
+nerespectarea de către aceasta a măsurilor de remediere dispuse de
+Agenția Națională pentru Achiziții Publice prin Avizul Conform
+14
+
+Condiționat nr. 907/19.01.2024/DGCECMSS a formulat contestație
+SOTWARE IMAGINATION & [OPERATOR ECONOMIC] prin care solicită obligarea
+autorității contractante la remedierea prevederilor documentației de
+atribuire restrictive, abuzive și nelegale în sensul prezentat în
+contestație, iar în subsidiar, în eventualitatea în care nu se mai pot
+dispune măsuri de remediere, solicită anularea procedurii de atribuire,
+în conformitate cu prevederile art. 244, lit. b) și art. 225 alin. (1), lit.
+c)-d) din Legea nr. 99/2016.
+1.Consiliul constată că este criticată prin contestație cerința
+privind experiența similară, stabilită prin fișa de date a achiziției la Cap.
+III.1.3.a) Capacitatea tehnică și/sau profesională, în speță faptul că în
+cadrul cerinței a fost solicitată atât prezentarea unei Liste a
+principalelor furnizări de produse similare cât și demonstrarea prestării
+de servicii similare prin prezentarea a maxim 3 contracte care atestă
+prestarea de servicii.
+Cu privire la această cerință entitatea contractantă a adoptat
+măsuri de remediere publicate în SEAP prin documentul denumit
+„Clarificare_Oficiu_Erata_Automata_DF1201978”, demers în urma
+căruia contestatoarea a comunicat Consiliului, prin adresa înregistrată
+la CNSC sub nr. 11179/22.02.2024, că înțelege să renunțe la
+soluționarea „acestui capăt de cerere”.
+2.Contestatoarea invocă caracterul nelegal și abuziv al cerinței
+privind experiența profesională a experților-cheie, ca factor de evaluare
+a ofertelor, în cadrul criteriului de atribuire preț-calitate, solicitând
+eliminarea acestuia.
+În susținerea solicitării, contestatoarea arată că în fișa de date a
+achiziției, cap. II.2.5 Criterii de atribuire – Cel mai bun raport calitate –
+preț, se solicită un anumit număr de ani de experiență a managerului
+de proiect, a consultanților funcționali seniori, aceeași factori de
+evaluare regăsindu-se și în caietul de sarcini la punctul 14.3 Punctaj
+tehnic – Experți.
+Este arătat, de asemenea, că potrivit fișei de date, Cap. II.1.3 Tip
+de contract – Furnizare – Cumpărare, Cap. II.1.4 Descrierea succintă a
+contractului sau a achiziției/achizițiilor, Cap. 2 Obiectul achiziției din
+caietul de sarcini, tipul de contract din prezenta procedură este
+„contract de furnizare” iar raportat la dispozițiile art. 10 din
+Instrucțiunea nr. 1/2017 folosirea experienței profesionale a experților-
+cheie, ca factori de evaluare într-un contract de furnizare este nelegal și
+abuziv, singurele situații în care se pot stabili astfel de factori de
+evaluare în cadrul criteriului dea tribuire preț-calitate, sunt:
+- pentru contractele care au ca obiect prestații intelectuale,
+printre acestea fiind contractele de servicii ce au ca obiect
+dezvoltarea unor sisteme informatice, și
+- contractele de servicii de natura/tipul celor de
+consultanță/asistență tehnică, elaborare studii, proiectare, supervizare
+și altele asemenea aferente unor proiecte/obiective de investiții de
+complexitate ridicată.
+Pagina 15 din 28
+
+Analizând documentele depuse la dosarul cauzei, Consiliul
+constată că, așa cum susține și entitatea contractantă prin punctul de
+vedere, a dispus măsuri de remediere conform Avizului conform
+condiționat nr. 907/19.01.2024/DGCECMSS.
+Consiliul constată că în exercitarea controlului ex ante, conform
+OUG nr. 98/2017, Agenția Națională pentru Achiziții Publice a efectuat
+verificări înclusiv cu privire la factorii de evaluare fără a constata o
+încălcarea a legislației privind achizițiile publice, implicit nici încălcarea
+prevederilor Instrucțiunii nr. 1/2017, sub aspectul caracterului nelegal
+sau abuziv al factorilor de evaluare, în speță a factorului de evaluare
+„Experiența experților propuși”.
+Potrivit Avizului nr. 907/19.01.2024/DGCECMSS, printre alte
+măsuri de remediere dispuse de reprezentanții ANAP, au fost
+menționate și următoarele:
+„2) În fapt: Caietul de Sarcini nu furnizează informații clare cu
+privire la experții cheie/non-cheie și cerințele pe care aceștia trebuie să
+le îndeplinească, prin corelarea cu activitățile pe care aceștia le vor
+efectua în cadrul contractului, cu dimensiunea/categoria de produse
+complexe din carul contractului.
+Măsura de remediere: (...)
+-pagina 24 – corectați metodologia de acordare a punctajelor în
+cadrul factorilor de evaluare conf. Observațiilor de mai sus și clarificați
+mențiuni de tipul „penru experții cheie menționați mai sus care au sub
+3 ani experiență dovedită, oferta opeatorului economic va fi considerată
+neconformă având în vedere faptul că pentru anumite categorii de
+personal ați solicitat minim 5 ani experiență specifică – observație
+calitate.
+-având în vedere observațiile de mai sus, veți corecta solicitările
+din fișa de date/secțiunea II.1.5. și veți justifica la nivelul strategiei de
+contractare factorii de evaluare aleși, precum și ponderea alocată,
+evidențiind concret care sunt avantajele de natură
+economică/financiară pe care entitatea contractantă le obține prin
+utilizarea și punctarea acestora – observație de calitate.
+În
+d
+r
+ept: art. 164-166, 209,210, 211 din LG 99/2016, art. 9, 22, 38 din HG
+394/2016, Instrucțiuna ANAP nr. 1/2017”.
+Consiliul reține că în alegerea tipului contractului sunt relevante și
+aplicabile dispozițiile art. 17 din HG nr. 394/2016 potrivit cărora: 
+„(1) Estimarea valorii unei achiziții sectoriale se realizează având
+în vedere obiectul acesteia, în conformitate cu cap. I secțiunea a 5-a
+paragraful 3 din Lege. 
+(2) Obiectul achiziției sectoriale se pune în corespondență
+cu codul/codurile CPV care îl descriu cât mai exact, relevantă în
+acest context fiind activitatea ce caracterizează scopul principal al
+contractului sectorial/acordului-cadru”.
+16
+
+Or, în fișa de date a achiziției și caietul de sarcini obiectul
+procedurii de atribuire este descris astfel:
+„Prin aceste proiect, Beneficiarul urmărește să gestioneze
+procesele operaționale, de aprovizionare, producție, calitate și vânzare
+continuând cu înregistrarea acestora în financiar – contabilitate și în
+sistemul intern de contabilitate managerială.
+Scopul prezentului caiet de sarcini este achiziția de către
+Beneficiar a unor licențe de utilizare pentru un sistem informatic
+integratde tip ERP (software as a service – SaaS). Pentru
+implementarea acestui proiect este nevoie de următoarele
+componente:
+-project management;
+-serviciile de implementare și costumizare (analiza, configurare,
+testare, migrare de date, pregătire și intrare în producție și stabilizare
+după intrarea în producție);
+-licențele ERP și mentenanță aferentă, inclusiv sistemul de bază
+necesar pentru implementare;
+-infrastructură cloud necesară;
+-servicii de asistență tehnică și suport;
+Aceste lucru este necesar pentru ca Beneficiarul să poată estima
+costurile ulterioare cu întreținerea sistemului implementat după
+intrarea în producție, acestea fiind subiectul unui contract separat după
+perioada contractuală a prezentei achiziții.
+Sistemul informatic propus în cadrul proiectului va fi proiectat,
+fabricat, livrat, instalat, testat și pus în fucnțiune ca un sistem la cheie,
+complet integrat, scalabil, deschis, extensibil, flexibil, cu atribute înalte
+de securitate și disponibilitate, interoperabil cu alte sisteme
+informaționale, prin interfețe care vor fi descrise în specificațiile tehnice
+de mai jos. Sistemul informatic integrat va fi implementat într-o
+arhitectură de înaltă disponibilitatea și care să asigure protecția în timp
+a investiției”.
+Din descrierea de mai sus cât și din restul informațiilor cuprinse în
+documentația de atribuire se constată că obiectul achiziției este unul
+complex și nu presupune doar furnizare de produse, cum în mod eronat
+susține contestoarea care se limitează la denumirea contractului
+stabilită conform art. 17 alin. (2) din HG nr. 394/2016, ci, așa cum este
+și denumit obiectul contractului îl constituie „Implementarea unui
+sistem informatic tip ERP la CNPR” și nu doar furnizare de produse.
+Furnizarea de produse are o pondere semnificativă în valoarea estimată
+a contractului, însă în raport cu obiectul întregului contract urmează a fi
+prestate servicii pentru care este necesară impunerea unor cerințe sau
+factori de evaluare cu privire la experiența persoanelor direct
+responsabile de realizarea în parametrii de calitate și funcționali ai
+produsului final, în speță un sistem informatic tip ERP.
+Consiliul reține în soluționare faptul că factorului de evaluare
+„Experiența experților propuși” se încadrează în situațiile prevăzute de
+Instrucțiunea 1/2017 a Agenției Naționale pentru Achiziții Publice, în
+condițiile în care contrcatul are ca obiect prestații intelectuale, respectiv
+Pagina 17 din 28
+
+„Implementarea unui sistem informatic tip ERP” iar complexitatea
+acestuia este ridicată atât ca activitate cât și ca durată, respectiv 60
+luni potrivit Cap. II.2.7) din fișa de date a achiziției.
+În acest context, Consiliul constată că factorul de evaluare a fost
+stabilit cu respectarea actelor normative în materia achizițiilor publice,
+motiv pentru care va respinge ca nefondată solicitarea contestatoarei
+de eliminarea a factorului de evaluare „Experiența experților propuși”.
+3. Este invocată de către contestatoare neconcordața dintre
+experții cheie din caietul de sarcini și experții cheie menționați în Anexa
+2 la caietul de sarcini, și solicită modificarea cerințelor referitoare la
+experții cheie din Anexa 2 a caietului de sarcini care să fie aceeași cu
+cei de la Cap. 14.3 Punctaj tehnic – experți, respectiv:
+Manager de proiect (Expert cheie) – 1
+Arhitect sistem informatic integrat – 1
+Specialist în instruire – 1
+Consultant funcțional senior (Experți cheie) – 2
+Consultant funcțional (Experți cheie) – 5
+Consultant tehnic -3
+Specialist în suport – 2
+Consiliul constată că legat de această solicitare entitatea
+contractantă nu prezintă nici o opinie, cu toate acestea, în finalul
+punctului de vedere, înregistrat la Consiliu sub nr. 8679/12.02.2024,
+afirmă că „Remedierea aspectelor sesizate prin contestație ar fi fost
+posibilă în conformitate cu dispozițiile art. 172 alin. (1) din legea nr.
+99/2016 privind achizițiile sectoriale, respectiv prin formularea unei
+solicitări de clarificări”, fără a dispune astfel de măsuri de remediere ca
+urmare a primirii contestației.
+ În acest sens, Consiliul reține că entitatea contractantă avea
+această posibilitate în conformitate cu dispozițiile art. 9 din Legea nr.
+101/2016, potrivit cărora „(1) După primirea contestației, autoritatea contractantă
+poate adopta măsurile de
+r
+eme
+d
+ie
+r
+e
+ pe care le consideră necesare ca urmare a contestației, în cel mult 3
+zile de la primirea contestației. Măsurile adoptate trebuie comunicate
+contestatorului, celorlalți operatori economici implicați în procedura de
+atribuire, precum și Consiliului, nu mai târziu de o zi de la data
+adoptării lor. Pentru a fi aduse la cunoștința operatorilor economici
+interesați, măsurile adoptate înainte de data-limită de depunere a
+solicitărilor de participare sau, după caz, a ofertelor se publică în
+SEAP”, demers pe care însă nu l-a făcut.
+Din analiza informațiilor cuprinse în caietul de sarcini, Consiliul
+constată că la punctul 14.3 Punctaj tehnic sunt prezentate atât tipul de
+experți solicitați cât și modalitatea de punctare a experienței acestora,
+18
+
+iar în Anexa 2 a caietului de sarcini sunt indicați alți experți, cu excepția
+Managerului de proiect, informații care sunt contradictorii și pot
+conduce la elaborarea unor oferte neconforme.
+Consiliul are în vedere că entitatea contractantă are obligația de a
+respecta la elaborarea documentației de atribuire dispozițiile art. 3 din
+Legea nr. 99/2016 potrivit căreia documentația de atribuire este
+definită astfel:
+ „s) documentația de atribuire - documentul achiziției care
+cuprinde cerințele, criteriile, regulile și alte informații necesare pentru a
+asigura operatorilor economici o informare completă, corectă și
+explicită cu privire la cerințe sau elemente ale achiziției sectoriale,
+obiectul contractului sectorial și modul de desfășurare a procedurii de
+atribuire, inclusiv specificațiile tehnice sau documentul descriptiv,
+condițiile contractuale propuse, formatele de prezentare a
+documentelor de către candidați și ofertanți, informațiile privind
+obligațiile generale aplicabile”. 
+De asemenea, entitatea contractantă este obligată ca la
+elaborarea prevederilor documentației de atribuire să respecte
+dispozițiile art. 22 alin. (1), alin. (2), alin. (3) și alin. (10) din HG nr.
+394/2016, care stabilesc că:
+„(1) Documentația de atribuire este alcătuită din următoarele: 
+a) DUAE și instrucțiunile către ofertanți/candidați; 
+b) caiet de sarcini sau document descriptiv, acesta din urmă fiind
+aplicabil în cazul procedurilor de dialog competitiv, negociere sau de
+parteneriat pentru inovare; 
+c) clauze contractuale obligatorii; 
+d) formulare și modele de documente. 
+(2) Documentația de atribuire conține orice cerință, criteriu,
+regulă și alte informații necesare pentru a asigura
+ofertantului/candidatului o informare completă, corectă și explicită cu
+privire la modul de aplicare a procedurii de atribuire. 
+(3) Instrucțiunile către ofertanți/candidați prevăzute la alin. (1)
+lit. a) conțin detaliile referitoare la formalitățile ce trebuie îndeplinite în
+legătură cu procedura de atribuire în cauză, modul în care operatorii
+economici trebuie să structureze informațiile ce urmează a fi prezentate
+pentru a răspunde cerințelor din anunțul de participare/simplificat/de
+concurs, respectiv detalii procedurale cum ar fi precizări privind
+garanțiile solicitate, modul în care trebuie întocmite și structurate
+propunerea tehnică și cea financiară, criteriul de atribuire ce urmează a
+fi aplicat, precum și termenele procedurale ce trebuie respectate și
+căile de atac ce pot fi utilizate. Toate aceste informații constituie bază
+pentru generarea automată de către SEAP a anunțului de
+participare/simplificat/de concurs. (...)
+(10) Caietul de sarcini conține, în mod obligatoriu, specificații
+tehnice care reprezintă cerințe, prescripții, caracteristici de natură
+tehnică ce permit fiecărui produs, serviciu sau lucrare să fie descris, în
+mod obiectiv, în așa manieră încât să corespundă necesității entității
+contractante”. 
+Pagina 19 din 28
+
+În consecință, având în vedere neconcordanțele dintre informațiile
+existente în caietul de sarcini la punctul 14.3 și cele de la punctul 18.
+Cerințe privind experții din Anexa 2 a caietului de sarcini, Consiliul
+admite criticele și obligă autoritatea contractantă la modificarea Anexei
+2 a caietului de sarcini prin stabilirea aceleași echipe de experți cu cea
+prevăzută în caietul de sarcini ca factor de evaluare.
+4. Contestatoare critică faptul că entitatea contractantă nu a
+respectat măsurile de remediere dispuse de ANAP prin Avizul conform
+condiționat nr. 907/19.01.2024/DGCECMSS, referitoare la impunerea
+unor cerințe pentru terți care nu sunt implicați în procedură, respectiv
+solicitarea unei certificări din partea producătorului.
+În susținerea cricilor contestatoarea arată că la punctul 14.1
+Criterii de calificarea entitatea contractantă a solicitat „Produsele
+sofware ofertate în cadrul sistemului trebuie să fie certificate de către
+producător. Furnizorul va pune la dispoziția Beneficiarului licențe pentru
+cea mai recentă și actualizată variantă de sofware ERP disponibilă”, fără
+a ține seama de măsurile de remediere dispuse de ANAP prin Avizul
+conform condiționat nr. 907/19.01.2024/DGCECMSS prin care se
+solicită eliminarea cerinței privind prezentarea de către ofertanți a unui
+certificat emis de către producător pentru produsele software ofertate,
+menținând cerința „Produsele sofware ofertate ofertate în cadrul
+sistemului trebuie să fie certificate de către producător”. 
+Consiliul reține că este solicitată de către contestatoare eliminarea
+cerinței privind certificarea de la producător, motivat de faptul că
+solicitarea unei autorizări din partea producătorului ar rămâne fără
+efect în ceea ce privește răspunderea angajată în legătură cu furnizarea
+produsului în condițiile în care producătorul nu are calitatea de ofertant
+în procedură, cerința dovedindu-se, în opinia sa, restrictivă și
+nejustificată.
+În soluționarea criticilor, Consiliul constată că prin Avizul conform
+condiționat nr. 907/19.01.2024/DGCECMSS, Agenția Națională pentru
+Achiziții Publice a comunicat entității contractante luarea următoarelor
+măsuri de remediere:
+„1) În fapt: Caietul de sarcini conține cerințe neclare.
+Măsuri de remediere:
+-pag.21 – referitor la solicitarea «ofertanții trebuie să facă
+dovada că sunt partener de tehnologie cu producătorul prin
+prezentarea autorizației de vânzare și implementare a licențelor
+software» - se va elimina având în vedere că impuneți cerințe pentru
+terți care nu sunt implicați în procedură. În acest sens, aveți în vedere
+că, în situația în care producătorul nu participă la procedură, respectiv
+nu are calitatea de ofertant, autoritatea contractantă nu va avea niciun
+raport juridic cu acesta, astfel încât solicitarea unei autorizări din
+partea acestuia rămâne fără efect în ceea ce privește răspunderea
+angajată în legătură cu furnizarea produsului, constituind astfel o
+cerință restrictivă și nejustificată. Totodată aveți în vedere că această
+impunere este excesivă, în sensul că nu are fundament legal.
+Autorizarea operatorului economic pentru comercializarea produselor se
+20
+
+poate realiza numai în baza unei reglementări legale, de către o
+instituție abilitată în acest sens, și nu din partea unui alt operator
+economic. 
+Potrivit Deciziei civile nr. 626 din 21 martie 2011 a Curții de Apel
+București «Nicio prevedere legală ... nu specifică faptul că un agent
+economic ar trebui să fie „autorizat” de un alt agent economic privat.
+Fără atribuții legale în acest sens (precum producătorul sau
+reprezentantul național, în cazul de față), iar autorizările și certificările
+pe care un agent economic le are din partea autorităților statului
+competente sunt întrutotul suficiente pentru ca acesta să desfășoare
+activitatea economică pe care o dorește ...». Observația se va prelua și
+la nivelul secțiunii IV.4.1 unde este formulată o astfel de cerință. –
+observație calitate”. 
+Consiliul constată că autoritatea contractantă a luat măsuri de
+remediere în sensul eliminării de la pagina 21 din caietul de sarcini a
+solicitării „ofertanții trebuie să facă dovada că sunt partener de
+tehnologie cu producătorul prin prezentarea autorizațiie de vânzare și
+implementare a licențelor software”, conform Avizului conform
+condiționat nr. 907/19.01.2024/ DGCECMSS.
+Cerința eliminată privea ofertantul iar cerința criticată de
+contestatoare și a cărei eliminare se solicită privește produsul ofertat,
+respectiv
+„Pr
+o
+dus
+e
+l
+e
+ sofware
+ofer
+t
+ate în cadrul sistemului trebuie să fie certificate de către producător”,
+cerință care nu a făcut obiectul unei măsuri de remediere dispusă de
+Agenția Națională pentru Achiziții Publice, cum în mod greșit susține
+prin contestație.
+Cerința invocată de contestatoare este prevăzută la pagina 23
+din caietul de sarcini, punctul 14 Procesul de achiziție „Sistemul
+informatic va fi achiziționat printr-o procedură de licitație deschisă”,
+punctul 14.1 Criterii de calificare unde a stabilit că:
+„Pr
+o
+dus
+e
+l
+e
+ software
+ofer
+t
+Pagina 21 din 28
+
+ate în cadrul sistemului trebuie să fie certificate de către producător.
+Furnizorul va pune la dispoziția Beneficiarului licențe pentru ce mai
+recentă și actualizată variantă de software ERP disponibilă”.
+Consiliul constată că entitatea contractantă a eliminat cerința așa
+cum era prevăzută ca măsură de remediere în Avizul conform
+condiționat nr. 907/19.01.2024/DGCECMSS, respectând astfel
+dispozițiile acestuia.
+Cu privire la cerința a cărei eliminare se solicită, Consiliul
+constată, așa cum arată și entitatea contractantă prin punctul de
+vedere, prin Avizul conform condiționat, Agenția Națională pentru
+Achiziții Publice a dispus remedierea acesteia doar cu privire la
+următoarea prevedere.
+„-Pag. 21 – Ref la cerința «Furnizorul va pune la dispoziția
+Beneficiarului licențe pentru ce mai recentă și actualizată variantă de
+software ERP disponibilă», vă rugăm să menționați concret ce
+reprezintă «cea mai nouă versiune» (specificațiile tehnice minime), în
+vederea unei evaluări unitare; observație calitate”.
+Cu privire la remedierea dispusă entitatea contractantă a publicat
+în SEAP Clarificare din oficiu cu nr. 101.1/342/02.02.2024, respectând
+întocmai cele decise de Agenția Națională pentru Aciziții Publice prin
+Avizul conform condiționat nr. 907/19.01.2024/DGCECMSS, motiv
+pentru care solicitarea contestatoarei privind eliminarea cerinței
+„Produsele software ofertate în cadrul sistemului trebuie să fie
+certificate de către producător” conform Avizului se dovedește
+nefondată, în condițiile în care nu a făcut obiectul unor remedieri în
+acest sens prin avizul respectiv.
+5. Consiliul va respinge ca nefondată și critica potrivit căreia
+entitatea contractantă nu a respectat măsurile impuse de Agenția
+Națională pentru Achiziții Publice prin Avizul conform condiționat nr.
+907/19.01.2024/DGCECMSS referitoare la solicitarea ca licențele pe
+care le va prezenta ofertantul să fie pentru cea mai recentă și
+actualizată variantă de software ERP disponibilă, în condițiile în care,
+așa cum s-a fost stabilit prin Aviz a publicat în SEAP clarificări în sensul
+„să menționați concret ce reprezintă «cea mai nouă versiune»
+(specificațiile tehnice minime), în vederea unei evaluări unitare”.
+În acest sens, Consiliul reține că prin Clarificare din oficiu nr.
+101.1/342/02.02.2024, entitatea contractantă a publicat în SEAP
+următoarele informații adresate operatorilor economici interesați de
+participarea la procedura de atribuire:
+„14.1 Criterii de calificare
+Entitatea contractantă a prevăzut următoarele:
+«Produsele software ofertate în cadrul sistemului trebuie să fie
+certificate de către producător. Furnizorul va pune la dispoziția
+Beneficiarului licențe pentru cea mia recentă și actualizată variantă de
+software ERP disponibilă»
+Prin «cea mai recentă și actualizată variantă de software ERP
+disponibilă» se înțelege:
+22
+
+Produsele software ofertate în cadrul sistemului trebuie să fie
+certificate de către producător, furnizorul va pune la dispoziția
+beneficiarului licențe pentru cea mia recentă și actualizată variantă de
+software ERP disponibilă.
+Producătorii de software publică periodic versiuni noi care nu
+diferă din punct de vedere al funcționalităților de versiunile anterioare
+și nu modifică specificațiile tehnice ale soluției furnizate.
+În mod curent aceste versiuni apar deoarece pe măsura utilizării
+programelor informatice de către piață sunt descoperite în cazul tuturor
+produselor software supuse vulnerabilității.
+Companiile producătoare asigură continuarea bunei funcționări a
+proceselor proprii prin adăugarea la acestea a unor fișiere sau prin alte
+modalități care conțin elemnete de cont în vederea stopării oricăror
+vulneabilități identificate.
+Perioidc, atunci când se însumează mai multe astfel de fișiere
+(update-uri/actualizări) furnizorii combină aceste fișiere într-un pachet
+mai consistent ce le conțin pe toate, pe care le aplică unitar la procesul
+lor.
+În limbajul uzual momentul aplicării acestui pachet este
+considerat momentul în care se actualizează versiunea, urmând ca
+noile produse vândute de furnizor, deși nu au specificațiile tehnice
+definite, să includă din fabrică acest pachet.
+În acest sens, soluția afertantului va reprezenta platforma
+software care, va conține cel mai recwent pachet de actualizări din
+fabrică.
+Specificațiile tehnice minime în vederea unei evaluări unitare sunt
+cele cuprinse în mod distinct în capitolul 1 din anexa la caietul de
+sarcini, fără ca la acestea să fie adăugat sau modificat ceva”.
+6. ... SRL critică cerința ca Modulul Marketing și Modulul E-
+commerce să fie parte din sistemul ERP invocând caracterul restrictiv al
+acesteia, solicitând modificarea acesteia cu următorul conținut „Modulul
+modul e-commerce & modul marketing să fie complet integrat cu
+celelalte module ale sistemului ERP”.
+În susținerea cererii sale contestatoarea arată că cerința ca cele
+două module suplimentare să fie parte din Sistemul ERP, este abuzivă,
+restrictivă și restânge artificial concurența, în condițiile în care cele
+două module nu sunt încadrate în mod uzual într-un sistem ERP, dându-
+i astfel posibilitatea entității contractante de a alege în mod subiectiv
+între a puncta sau nu suplimentar ofertanții care ofertează o soluție cu
+toate modulele integrate.
+Consiliul constată că entitatea contractantă, susține prin punctul
+de vedere că „În analiza de piață efectuată, Autoritatea Contractantă
+nu s-a limitat doar la soluțiile oferite de operatorii economici care au
+participat la consultare. Informațiile publice de specialitate au relevat
+că există mai multe soluții, producători de sisteme ERP care se pot
+încadra în cerințele formulate”.
+În soluționarea criticilor Consiliul are în vedere dispozițiile art. 209
+din Legea nr. 99/2016 potrivit cărora:
+Pagina 23 din 28
+
+„(1) Fără a aduce atingere dispozițiilor legale sau administrative
+privind prețul anumitor produse ori remunerarea anumitor servicii,
+entitatea contractantă își bazează decizia de atribuire a contractului
+sectorial/acordului-cadru, prin utilizarea criteriului oferta cea mai
+avantajoasă din punct de vedere economic. 
+(2) În sensul dispozițiilor alin. (1), entitatea contractantă
+stabilește oferta cea mai avantajoasă din punct de vedere
+economic pe baza criteriului de atribuire și, după caz, a
+factorilor de evaluare prevăzuți în documentele achiziției. 
+(3) Pentru determinarea ofertei celei mai avantajoase din punct
+de vedere economic în conformitate cu dispozițiile alin. (2), entitatea
+contractantă are dreptul de a aplica unul dintre următoarele criterii de
+atribuire: 
+a) cel mai bun raport calitate-preț; 
+b) cel mai bun raport calitate-cost; 
+c) costul cel mai scăzut; 
+d) prețul cel mai scăzut. 
+(3
+1
+) (...)
+(4) În sensul alin. (3) lit. c) și d), cel mai bun raport calitate-
+preț/calitate-cost se determină pe baza unor factori de evaluare care
+includ aspecte calitative, de mediu și/sau sociale, în legătură cu
+obiectul contractului de achiziție publică/acordului-cadru”. 
+Consiliul reține în soluționare că ofertantul solicită modificarea
+cerinței care să aibă următorul conținut „Modulul modul e-commerce &
+modul marketing să fie complet integrat cu celelalte module ale
+sistemului ERP”, deși nu justifică o vătămare proprie adusă prin
+stabilirea unui astfel de factor de evaluare de către entitatea
+contractantă în condițiile în care poate oferta modulul modul e-
+commerce & modul marketing complet integrat cu celelalte module
+ale sistemului ERP, după cum de altfel și solicită. 
+Potrivit fișei de date a achiziției, Cap. II.2.5 Criterii de atribuire,
+entitatea contractantă a stabilit ca factor de evaluare tehnic 
+„I.b) Beneficiul suplimentar – modul e-commerce & modul
+marketing. Punctaj maxim factor: 15
+Algoritm de calcul: Punctaj pentru modulele suplimentare se va
+acorda astfel:
+- Operatorii economici care vor oferi și modulul de e-commerce
+inclus în prețul licenței și implementării vor primi 7.5 puncte (P.I.b1)
+- Operatorii economici care vor oferi și modulul de marketing
+inclus în prețul licenței și implementării vor primi 7,5 puncte (P.I.b2)
+- Operatorii economici care nu vor oferi niciunul din modulele
+specificate mai sus vor primi 0 puncte.
+-P.I.b = P.I.b1. + P.I.b2”.
+Contrar susținerilor contestatoarei, stabilirea factorului de
+evaluare „Beneficiul suplimentar – modul e-commerce & modul
+marketing”, nu reprezintă favorizarea unor operatori economici și nici
+nu se restrânge artificial concurența ci permite participarea la
+procedura de atribuire a ofertanților care pot oferta cele două module
+24
+
+incluse în prețul licenței și implementării, ofertele fiind punctate
+suplimentar pentru aceste avantaje, situație care nu împiedică
+contestatoarea să participe la procedura de atribuire în condițiile
+stabilite de autoritatea contractantă.
+În acest sens, Consiliul va reține ca relevante dispozițiile art. 22
+alin. (10) din HG nr. 394/2016, potrivit cărora „Caietul de sarcini
+conține, în mod obligatoriu, specificații tehnice care reprezintă cerințe,
+prescripții, caracteristici de natură tehnică ce permit fiecărui produs,
+serviciu sau lucrare să fie descris, în mod obiectiv, în așa manieră încât
+să corespundă necesității entității contractante”. 
+Nu în ultimul rând, Consiliul constată că prezenta procedură de
+atribuire beneficiază de control ex ante în conformitate cu dispozițiile
+OUG nr. 98/2017, iar prin avizele emise de Agenția Națională pentru
+Achiziții Publice nu au fost dispuse măsuri de remediere în sensul
+eliminării sau modificării factorului de evaluare în sensul cerut de
+contestatoare, situație care confirmă legalitatea stabilirii factorului de
+evaluare în forma prezentată în documentația de atribuire.
+Pentru aceste motive, Consiliul va respinge ca nefondată
+solicitarea contestatoarei. 
+7. ... SRL solicită eliminarea factorului de evaluare sistem tip
+„One stop solution”, invocând caracterul abuziv și restrictiv al acestuia
+în raport cu cerințele minime și obligatorii privind soluția care se
+dorește a fi achiziționată.
+Un prim aspect criticat este acela că în modalitatea de punctare a
+factorului de evaluare este inclusă și o cerință, respectiv „dacă
+modulele sistemului ERP propus sunt împărțite în mai mult de patru
+platforme/aplicații, oferta va fi considerată neconformă”.
+Contestatoarea susține, de asemenea, că interpretarea dată de
+sintagma „One stop solution” poate conduce la descalificarea anumitor
+operatori economici care prezintă în oferta depusă un sistem informatic
+perfect integrat, contrar propriilor cerințe ale entității contractante care
+precizează că dorește să achiziționeze un sistem complet integrat, fiind
+de la sine înțeles că un sistem informatic integrat, conține mai multe
+aplicații perfect integrate între ele, iar, în opinia sa, punctarea
+diferențiată a sistemului informatic integral în funcție de câte
+platforme/aplicații sunt cuprinse în sistemul integrat este nejustificată.
+În susținerea cererii sale de eliminare a factorului de evaluare
+„One stop solution”, contestatoarea afirmă că „o astfel de cerință,
+conduce indubitabil la concluzia că acești factori sunt prezentați cu
+scopul evident de a favoriza anumiți operatori economici”, indicând în
+acest sens operatorul economic SAP, fără însă a prezenta dovezi în
+susținerea afirmației.
+Consiliul constată că în documentația de atribuire entitatea
+contractantă a stabilit ca factor de evaluare tehnic „One stop solution”,
+cu un punctaj maxim de 10 puncte, descris astfel:
+I.c) „One stop solution”
+„Componenta tehnică
+Pagina 25 din 28
+
+Un sistem ERP de tip «one stop solution» este o soluție integrată
+care cuprinde mai multe module sau funcționalități într-o singură
+platformă/aplicație, acoperind toate nevoile beneficiarului. Acest tip de
+platformă aduce mai multe avantaje cum ar fi, actualizări uniforme,
+redundanță redusă, implementare simplificată, adopție mai eficientă,
+etc. 10%. Punctaj maxim factor: 10”
+Algoritm de calul: Evaluarea modului de îndeplinire al cerinței de
+către ofertanți se va realiza astfel:
+- Dacă modulele sistemului ERP propus sunt împărțite în mai mult
+de patru platforme/aplicații, oferta operatorului economic va fi
+considerată neconformă,
+- Dacă modulele sistemului ERP propus sunt împărțite în două
+platforme/aplicații, operatorul economic va primi 5 puncte (P.I.c)
+- Dacă toate modulele sistemului ERP propus sunt în aceeași
+platformă/aplicație, operatorul economic va primi 10 puncte (P.I.c)
+TOTAL PUNCTAJ TEHNIC = P.I.a + P.I.b + P.I.c
+Puntaj TOTAL = Punctaj TOTAL FINANCIAR + Punctaj TOTAL
+TEHNIC.
+Puntaj maxim total: 100”.
+Faptul că în conținutul algoritmului de calcul a fost inserată
+prevederea „- Dacă modulele sistemului ERP propus sunt împărțite în
+mai mult de patru platforme/aplicații, oferta operatorului economic va fi
+considerată neconformă” acesta nu constituie un motiv de eliminare a
+factorului de evaluare și nu este de natură a împiedica procesul de
+ofertare sau de evaluare a ofertelor, ci este o prevedere relevantă care
+vine să informeze operatorii economici, în mod clar, cu privire la modul
+în care va fi evaluată și cum va fi punctată propunerea tehnică la acest
+factor de evaluare sau declarată neconformă.
+Consiliul reține că entitatea contractantă își dorește un sistem
+informatic integrat însă cu cât mai puține platforme/aplicații,
+constituind un avantaj numărul cât mai mic de platforme/aplicații
+integrate în sistem motiv pentru care a stabilit prin factorul de evaluare
+punctarea ofertelor care asigură un sistem integrat complet fiind
+depunctate ofertele care prezintă un număr mai mare de 2
+platforme/aplicații și eliminate din cadrul procedurii de atribuire ofertele
+în care modulele sistemului ERP sunt împărțite în mai mult de patru
+platforme/aplicații.
+Prin stabilirea factorului de evaluare „One stop solution” entitatea
+contractantă a urmărit achiziționarea unui sistem informatic complet
+integrat asta fiind și motivul pentru care a considerat un avantaj
+stabilirea unui astfel de factor de evaluare care urmează a fi punctat
+numărul cât mai mic care să tindă spre zero, în speță către un sistem
+informatic complet integrat, așa cum rezultă din conținutul întregii
+documentații de atribuire, fără a îngrădi participarea la procedura de
+atribuire și a altor ofertanți.
+Față de cele reținute anterior, Consiliul va respinge ca nefondată
+solicitarea contestatoarei de a elimina factorul de evaluare „One stop
+solution”.
+26
+
+8. Contestatoarea critică faptul că entitatea contractantă nu a
+respectat Avizul conform condiționat nr. 907/19.01.2024/DGCECMSS cu
+privire la măsurile de remediere dispuse referitor la formularul de ofertă
+tehnică, respectiv atașarea în secțiunea „Formulare” a formularului de
+propunere tehnică ce trebuie completat.
+În susținerea criticilor, contestatoarea arată că entitatea
+contractantă nu a ținut seama de recomandarea Agenției Naționale
+pentru Achiziții Publice de a include în documentația de atribuire
+formularul de propunere tehnică completat corespunzător cu cerințele
+din caietul de sarcini, Anexa 1 la caietul de sarcini și Anexa 2 la caietul
+de sarcini, încălcând astfel dispozițiile art. 3 lit. s) din Legea nr.
+99/2016 coroborat cu prevederile art. 22 alin. (1), alin. (2), alin. (3) și
+alin. (10) din HG nr. 394/2016 prin informarea incompletă, corectă și
+explicită a cerințelor și elementelor aferente acestei achiziții.
+Susține în acest sens, că a prezentat în secțiunea Formulare,
+FORMULARUL NR.1 – Fișa de date privind conformitatea propunerii
+tehnice cu prevedrile caietului de sarcini, care nu conține toate cerințele
+tehnice specificate în caietul de sarcini, Anexa 1 și Anexa 2 la acesta.
+Cu privire la aspectele criticate, Consiliul constată că prin Avizul
+confom condiționat nr. 907/19.01.2024/DGCECMSS Agenția Națională
+pentru Achiziții Publice a dispus luarea următoarelor măsuri de
+remediere:
+„5) În fapt: Sect.IV.4.1 – Nu este clar specificat ce formular de
+propunere tehnică trebuie să completeze operatorii economici.
+Măsura de remediere: pentru o informare completă și corectă a
+operatorilor economici, este necesar să atașați, în secțiunea
+«Formulare», formularul de propunere tehnică ce trebuie completat de
+către ofertanți și să solicitați în această secțiune completarea acestui
+formular.
+Având în vedere utilizarea criteriului «cel mai bun raport calitate-
+preț», este necesar să faceți referire în formular la factorii de evaluare
+utilizați. Observație regularitate.
+În drept: Art. 164 Legea 99/2016; Art. 22(2) și (3) H.G.
+394/2016”.
+Din analiza conținutul Formularului nr. 1 denumit Fișa de date
+privind conformitatea propunerii tehnice cu prevederile caietului de
+sarcini, Consiliul constată că nu se regăsesc toate informațiile din
+caietul de sarcini, luând cu titlu de exemplu, faptul nu se regăsesc
+trimiteri la factorii de evaluare utilizați, așa cum s-a recomandat ca
+măsură de remediere prin Avizul conform condiționat nr.
+907/19.01.2024/DGCECMSS, motiv pentru care va admite criticile și va
+dispune completarea Formularului nr. 1 cu toate informațiile, respectiv
+specificațiile tehnice pe care ofertanții au obligația să le îndeplinească,
+în conformitate cu dispozițiile art. 22 alin. (2) din HG nr. 394/2016
+potrivit cărora „Documentația de atribuire conține orice cerință, criteriu,
+regulă și alte informații necesare pentru a asigura
+ofertantului/candidatului o informare completă, corectă și explicită cu
+privire la modul de aplicare a procedurii de atribuire”.
+Pagina 27 din 28
+
+Având în vedere rezultatul analizei criticilor contestatoarei,
+Consiliul constată caracterul fondat al unora dintre acestea, motiv
+pentru care, în temeiul dispozițiilor art. 26 alin. (2) și (5) din Legea nr.
+101/2016, va admite, în parte, contestația formulată de ... SRL în
+contradictoriu cu ...SA, va obliga entitatea contractantă la publicarea în
+SEAP a remedierii documentației de atribuire corespunzătoare
+considerentelor anterior expuse, cu stabilirea unei noi date-limită de
+depunere a ofertelor, nu mai devreme de opt zile de la data postării în
+SEAP a măsurilor de remediere.
+Prezenta decizie este obligatorie pentru părți, în conformitate cu
+dispozițiile art. 28 alin. (1) din Legea nr. 101/2016.
+Pentru aceste motive,
+în baza legii și a mijloacelor de probă aflate la dosar,
+CONSILIUL DECIDE:
+În temeiul art. 26 alin. (2) și (5) din Legea nr. 101/2016, admite,
+în parte, contestația formulată de ... SRL în contradictoriu cu ...SA.
+Obligă entitatea contractantă la publicarea în SEAP a remedierii
+documentației de atribuire corespunzătoare considerentelor anterior
+expuse, cu stabilirea unei noi date-limită de depunere a ofertelor, nu mai
+devreme de opt zile de la data postării în SEAP a măsurilor de
+remediere.
+Măsurile dispuse vor fi aduse la îndeplinire în termen de 15 zile de
+la comunicarea prezentei.
+Prezenta decizie este obligatorie pentru părți, în conformitate cu
+dispozițiile art. 28 alin. (1) din Legea nr. 101/2016.
+Împotriva prezentei decizii se poate formula plângere în termen de
+10 zile de la comunicare.
+ PREȘEDINTE, MEMBRU,MEMBRU,
+Redactată în 4 exemplare, conține 27(douăzecișișapte) pagini.
+28

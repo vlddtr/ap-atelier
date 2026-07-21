@@ -1,0 +1,14 @@
+# C-470/13 — Generali-Providencia
+
+- Instanță: CJUE (Camera a zecea)
+- Data: 2014-12-18
+- ECLI: ECLI:EU:C:2014:2469
+- Părți: Generali-Providencia Biztosító Zrt împotriva Közbeszerzési Hatóság Közbeszerzési Döntőbizottság (Camera de recurs a Oficiului pentru Achiziții Publice, Ungaria)
+- Temă: excludere; abatere profesională gravă (încălcarea dreptului concurenței ca motiv de excludere)
+- Cadru juridic: Directiva 2004/18/CE, art. 45 alin. (2) primul paragraf lit. (c) și (d) — corespondent astăzi în Directiva 2014/24/UE, art. 57 alin. (4) lit. (c) și (d). Art. 18, 34, 49 și 56 TFUE. Trimitere de la Fővárosi Közigazgatási és Munkaügyi Bíróság (Tribunalul de Contencios Administrativ și pentru Litigii de Muncă din Budapesta, Ungaria).
+- Întrebarea preliminară: (1) Pot statele membre să excludă un operator economic pentru un motiv altul decât cele enumerate la art. 45 din Directiva 2004/18 — în special pentru o încălcare a normelor de concurență constatată printr-o hotărâre cu autoritate de lucru judecat — și este compatibilă o asemenea reglementare cu art. 18, 34, 49 și 56 TFUE? (2) În caz de răspuns negativ, trebuie interpretat art. 45 alin. (2) lit. (c) și (d) din Directiva 2004/18 în sensul că autorizează excluderea operatorului care a săvârșit o încălcare a dreptului concurenței constatată și sancționată de o autoritate de concurență?
+- Soluția (ratio): Săvârșirea unei încălcări a normelor de concurență, mai ales atunci când a fost sancționată cu o amendă, poate constitui o cauză de excludere pentru abatere profesională gravă în sensul art. 45 alin. (2) lit. (d) din Directiva 2004/18. Noțiunea de „abatere profesională" acoperă orice comportament culpabil care afectează credibilitatea profesională a operatorului. Pentru contractele care nu ating pragul de aplicare a directivei, art. 49 și 56 TFUE nu se opun unei reglementări naționale care exclude participarea unui operator ce a săvârșit o astfel de încălcare, constatată printr-o hotărâre definitivă și sancționată cu amendă, cu condiția respectării principiului proporționalității.
+- Text-cheie verbatim: „Noțiunea «abatere profesională» […] acoperă orice comportament culpabil care afectează credibilitatea profesională a operatorului" / „săvârșirea unei încălcări a normelor de concurență constituie o cauză de excludere care intră sub incidența articolului 45 alineatul (2) litera (d)".
+- Relevanță achiziții RO: Hotărârea sprijină includerea încălcărilor dreptului concurenței (carteluri, înțelegeri) în sfera abaterii profesionale grave — motiv de excludere opțional transpus în art. 167 alin. (1) lit. c) L. 98/2016 (excludere până la 3 ani — art. 171 alin. (4)). Se corelează cu motivul distinct de la art. 167 alin. (1) lit. d) (acorduri de denaturare a concurenței) și cu dreptul la măsuri de remediere (self-cleaning) din art. 171 L. 98/2016.
+- Sursă oficială: https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62013CJ0470
+- Status: VERIFICAT

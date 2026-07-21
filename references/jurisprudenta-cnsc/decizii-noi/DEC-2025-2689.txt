@@ -1,0 +1,846 @@
+DECIZIE CNSC (din dosarele firmei, anonimizată; staging — neindexată încă)
+Sursă: DECIZIE CNSC LUCRARI REABILITARE (ID 39167).docx
+
+Consiliul
+
+Național de Soluționare a Contestațiilor
+
+
+
+
+
+
+
+
+
+
+
+str. Stavropoleos nr. 6, sectorul 3, București, România, CP 030084, CUI [CUI],tel. +40-21-3104641, tel. +40-21-3104670, fax. +40-21-3104642,e-mail: [EMAIL], www.cnsc.ro,http://portal.cnsc.ro
+
+în conformitate cu prevederile art. 14 alin. (2) și ale art. 27 alin. (1) din Legea nr. 101/2016 privind remediile și căile de atac în materie de atribuire a contractelor de achiziție publică, a contractelor sectoriale și a contractelor de concesiune de lucrări și concesiune de servicii, precum și pentru organizarea și funcționarea Consiliului Național de Soluționare a Contestațiilor, cu modificările și completările ulterioare, Consiliul adoptă următoarea
+
+Nr. 2689 / C4 / 3205 / 3226Data: 12.09.2025
+
+I. Prin contestația nr. 1507/18.08.2025, înregistrată la Consiliul Național de Soluționare a Contestațiilor cu nr. 57009/18.08.2025 {dosarul nr. 3205/2025}, depusă de [OPERATOR ECONOMIC], cu sediul în str. Căpitan Nedelcu Ilie nr. 45A, sectorul 5, București, CUI [CUI], număr de înregistrare în registrul comerțului 140/4140/ 20121, reprezentată de doamna [persoană] - administrator, privind procedura de licitație deschisă pentru încheierea unui acord-cadru de lucrări de reparații generale și renovare în unitățile Societății de [OPERATOR ECONOMIC], cod CPV principal 4543000-7, cu data-limită de depunere a ofertelor 07.02.2025, anunț de participare nr. CN1076115/09.12.2024, organizată de Societatea de [OPERATOR ECONOMIC], cu sediul în bd. Dinicu Golescu nr. 1, sectorul 1, București, în calitate de entitate contractantă, contestatoarea a solicitat, în esență, anularea respingerii ofertei sale și a declarării câștigătoare a ofertei asocierii [OPERATOR ECONOMIC] - [OPERATOR ECONOMIC], cu obligarea entității la reevaluarea lor.
+
+La 29.08.2025, [OPERATOR ECONOMIC], cu sediul în șos. Colentina nr. 2D, camera 1, bloc 5, scara B, apartament 68, sectorul 2, București, CUI [CUI], număr de înregistrare în registrul comerțului 140/8637/2020, reprezentată de domnul [persoană] - administrator, a înaintat cererea de intervenție voluntară accesorie în interesul entității contractante înregistrată la Consiliu cu nr. 60454/01.09.2025, prin care solicită respingerea contestației [OPERATOR ECONOMIC], ca nefondată, în partea privind rezultatul evaluării ofertei contestatoarei.
+
+Prin contestația nr. 1668/18.08.2025, înregistrată la Consiliu cu nr. 57073/19.08.2025 (dosarul nr. 3226/2025}, depusă de [OPERATOR ECONOMIC], cu datele de identificare antemenționate, privind aceeași procedură de licitație deschisă, contestatoarea a solicitat anularea respingerii ofertei sale și obligarea entității contractante la reevaluarea ofertei.
+
+Pentru soluționarea unitară a contestațiilor, având în vedere că au fost formulate în cadrul aceleiași proceduri de atribuire, și pentru motive care țin de economie procedurală, Consiliul procedează la conexarea lor, în conformitate cu dispozițiile art. 17 alin. (2) din Legea nr. 101/2016. Contestațiile și cererea de intervenție vor fi soluționate împreună, având în vedere dispozițiile art. 67 alin. (1) și art. 123 alin. (1) C. proc. civ.
+
+CONSILIUL NATIONAL DE SOLUȚIONARE A CONTESTAȚIILOR,asupra cauzelor de față, constată următoarele:
+
+Consiliul a fost legal sesizat și este competent, potrivit dispozițiilor art. 12 alin. (1) din Legea nr. 101/2016, să soluționeze contestația ce formează obiectul dosarului nr. 3205/2025, prin care ofertantul [OPERATOR ECONOMIC] reclamă decizia entității contractante Societatea de [OPERATOR ECONOMIC] de a declara inacceptabilă oferta sa și de a declara câștigătoare oferta asocierii [OPERATOR ECONOMIC] - [OPERATOR ECONOMIC], în cadrul procedurii de atribuire menționată în partea introductivă, învederând în motivare că [OPERATOR ECONOMIC] a prezentat dovezi privind experiența specifică a experților nominalizați, a răspuns concludent solicitărilor de clarificare și a inclus în DUAE și în propunerea tehnică toate informațiile cerute de entitate. Totodată, oferta asocierii [OPERATOR ECONOMIC] - [OPERATOR ECONOMIC] trebuia respinsă, întrucât a modificat în mod nepermis experții indicați inițial, și-a completat substanțial propunerea tehnică și nu a prezentat documente care să ateste modul efectiv al îndeplinirii angajamentului terțului susținător. Motivarea integrală a contestației se regăsește în fișierul „[CN1076115/00229] Contestație ALA EXPERT.pdf.p7s", postat de autoritate în SEAP la 19.08.2025, în cadrul documentelor asociate anunțului de participare nr. CN1076115/09.12.2024. Reproducerea în cuprinsul deciziei a ansamblului motivării nu se justifică, din moment ce întreaga contestație poate fi vizualizată liber și gratuit în SEAP de către orice persoană interesată. Consiliul apreciază că sintetizarea de mai sus a celor 21 de pagini ale contestației nu prejudiciază nici părțile și nici terții, din moment ce oricine are la dispoziție spre vizualizare și descărcare, prin intermediul SEAP, întreaga contestație. Dimpotrivă, reproducerea unui volum foarte mare de argumente, întinse pe zeci de pagini, ar încărca excesiv și, astfel, îngreuna parcurgerea prezentei
+
+decizii. Desigur, motivarea completă va fi avută în vedere de membrii completului la adoptarea soluției. Aceste considerente își mențin valabilitatea și față de contestația conexată.
+
+în punctul său de vedere nr. 149314/26.08.2025 asupra contestației ce formează obiectul dosarului nr. 3205/2025, înregistrat la Consiliu cu nr. 59483/27.08.2025, entitatea contractantă susține în apărare că oferta [OPERATOR ECONOMIC] a fost în mod corect respinsă ca inacceptabilă, întrucât DUAE nu a conținut informațiile obligatorii privind experiența specifică a experților, răspunsul la clarificări fiind gol și neconcludent, iar ofertantul declarat câștigător a transmis un răspuns concludent, corectând doar o eroare materială prin alinierea DUAE la propunerea tehnică, a indicat perioada de garanție printr-o completare admisibilă calificată drept abatere tehnică minoră și a prezentat documentele prin care terțul susținător își asumă efectiv angajamentul. Punctul de vedere se regăsește în fișierul „[CN1076115/00230] PDV ALA EXPERT pdf.p7s"r postat de autoritate în SEAP la 27.08.2025, în cadrul documentelor asociate anunțului de participare.
+
+La 29.08.2025, [OPERATOR ECONOMIC] a înaintat cererea de intervenție voluntară accesorie în interesul entității contractante înregistrată la Consiliu cu nr. 60454/01.09.2025, prin care solicită respingerea contestației [OPERATOR ECONOMIC], ca nefondată, apreciind că oferta acesteia a fost respinsă în mod corect, întrucât nu a completat corespunzător DUAE și nici nu a răspuns concludent solicitării de clarificare.
+
+Consiliul a fost legal sesizat și este competent, potrivit dispozițiilor art. 12 alin. (1) din Legea nr. 101/2016, să soluționeze și contestația ce formează obiectul dosarului nr. 3226/2025, prin care ofertantul [OPERATOR ECONOMIC] reclamă, la aceeași licitație, respingerea ca neconformă a ofertei sale, susținând că respingerea pe motiv că nu ar fi prezentat detalierea anumitor articole de lucrări și că ar fi inclus operațiuni nespecificate la articolele 6, 54, 69, 70, 71 și 72 este neîntemeiată, întrucât documentația de atribuire nu conținea asemenea cerințe. în măsura în care ar fi existat neclarități, comisia avea obligația legală de a solicita clarificări, nu de a dispune excluderea, măsură disproporționată, nelegală și contrară principiilor tratamentului egal și proporționalității. Motivarea integrală a contestației se regăsește în fișierul „[CN1076115/00228] Contestație BAICULESCU.pdf. p7s"f postat de autoritate în SEAP la 19.08.2025, în cadrul documentelor asociate anunțului de participare.
+
+VIII. în punctul său de vedere nr. 149315/26.08.2025 asupra contestației care formează obiectul dosarului nr. 3226/2025, înregistrat la Consiliu cu nr. 59485/27.08.2025, entitatea contractantă susține că oferta [OPERATOR ECONOMIC] nu a respectat cerințele obligatorii ale documentației de atribuire, pentru
+
+niciuna dintre categoriile de lucrări nefiind prezentată detalierea, iar la pozițiile 6, 54, 69, 70, 71 și 72 au fost incluse operațiuni care nu erau prevăzute în caietul de sarcini, aspecte ce nu puteau fi clarificate fără a se modifica oferta. Punctul de vedere se regăsește în fișierul „[CN1076115/00228] PDV BAICULESCU.pdf.p7s", postat în SEAP la 27.08.2025, în cadrul documentelor asociate anunțului de participare.
+
+IX. Din examinarea coroborată a materialului probator administrat, aflat la dosarele cauzelor conexate, după verificarea din oficiu a competenței generale, materiale și teritoriale, potrivit art. 131 alin. (1) C. proc. civ., și după deliberare, Consiliul reține că, prin anunțul de participare nr. CN1076115, publicat în Sistemul Electronic de Achiziții Publice - SEAP la 09.12.2024, entitatea contractantă Societatea de [OPERATOR ECONOMIC] a inițiat o procedură de licitație deschisă online în vederea procurării de lucrări de reparații generale și renovare în unitățile sale, estimate valoric la 120.842.608,50 lei, fără TVA. Documentația de atribuire a fost postată în SEAP la 09.12.2024, alături de anunțul de invitare la competiție.
+
+La procedură au fost primite 12 oferte, între care și ale asocierilor [OPERATOR ECONOMIC] - [OPERATOR ECONOMIC] și [OPERATOR ECONOMIC] - [OPERATOR ECONOMIC] - [OPERATOR ECONOMIC], respinse de entitate prin raportul procedurii nr. 149155/ 08.08.2025, iar câștigătoare a fost desemnată^ oferta asocierii [OPERATOR ECONOMIC] - [OPERATOR ECONOMIC] împotriva acestui rezultat, pentru motivele evocate succint mai sus, [OPERATOR ECONOMIC] și [OPERATOR ECONOMIC] a învestit Consiliul, în termenul legal, cu soluționarea contestațiilor care formează obiectul prezentelor cauze, premise ale controlului administrativ- jurisdicțional. Cauțiunea aferentă primei contestații (dosarul nr. 3205/ 2025), în valoare de 1.074.213 lei, a fost constituită prin recipisa de consemnare nr. 211590307/1, emisă de [OPERATOR ECONOMIC], Sucursala Victoria, la data de 19.08.2025, iar cauțiunea aferentă celei de a doua contestații (dosarul nr. 3226/2025), în valoare de 1.074.212,88 lei, a fost constituită prin recipisa de consemnare nr. 211602651/2, emisă de [OPERATOR ECONOMIC], Sucursala Victoria, la data de 22.08.2025.
+
+Entitatea a postat în SEAP nu doar contestațiile, ci și punctele de vedere, exemplu meritoriu de bună practică și de transparență, demn de urmat de toate entitățile/autoritățile contractante.
+
+Preliminar analizării aspectelor sesizate de reclamante, este de remarcat că documentația de atribuire, alcătuită din fișa de date, caietul de sarcini, formularele necesare și modelele acordului-cadru și contractului de lucrări, la care se adaugă clarificările postate în SEAP, nu a fost contestată de niciun operator economic, drept care toate prevederile ei și-au consolidat forța obligatorie atât pentru entitatea contractantă, cât mai ales pentru operatorii economici
+
+participanți la procedura de atribuire, inclusiv pentru asocierea [OPERATOR ECONOMIC] - [OPERATOR ECONOMIC] (relevantă, în acest sens, este, de pildă, decizia civilă nr. 2799 din 19 decembrie 2022 a Curții de Apel Craiova, Secția contencios administrativ și fiscal, cod ReJust de926443g). La acest moment, nu pot fi emise pretenții sau critici vizavi de prevederile documentației de atribuire, întrucât ar fi vădit tardive, raportat la termenul prescris de Legea nr. 101/2016 (a se vedea, cu titlu de exemplu, decizia nr. 692 din 23 octombrie 2024 a Curții de Apel București, Secția a X-a contencios administrativ și fiscal și pentru achiziții publice, cod ReJust 6287ed6e5, și decizia civilă nr. 77 din 7 februarie 2023 a Curții de Apel Galați, Secția contencios administrativ și fiscal, cod ReJust 39g63373e). „Conținutul documentației de atribuire, astfel cum a fost întocmită de entitatea contractantă, este obligatoriu atât pentru agenții economici participanți la procedură, care au obligația de a elabora ofertele în conformitate cu prevederile acesteia, cât și pentru entitatea contractantă, aceasta fiind obligată ca, în desfășurarea procedurii de achiziție, să respecte atât legislația aplicabilă în domeniu, cât și propria sa documentație de atribuire care stabilește regulile ce trebuie respectate de părțile implicate în derularea procesului competitiv." - sentința civilă nr. 113/CA din 11 septembrie 2020 a Curții de Apel Constanța, Secția a II-a civilă, de contencios administrativ și fiscal, cod ReJust 672e8757.
+
+în concluzie, documentația acceptată implicit de toate societățile ofertante le impunea să îi urmeze cu strictețe prescripțiile, sens în care dispune și art. 88 din Legea nr. 99/2016 - ofertantul depune oferta elaborată în conformitate cu informațiile și cerințele prevăzute în documentele achiziției, precum și art. 129 alin. (1) din normele aprobate prin Hotărârea Guvernului nr. 394/2016 - ofertantul elaborează oferta în conformitate cu prevederile documentației de atribuire. Prin depunerea ofertelor la procedură, se presupune că ofertanții și-au însușit documentația de atribuire fără rezerve, ceea ce înseamnă că nu li se poate scuza nicio abatere de la prescripțiile ei, opozabile în cel mai mic detaliu (elocvente în acest sens sunt, ex muitis, decizia nr. 1555 din 6 martie 2012 a Curții de Apel Craiova, Secția de contencios administrativ și fiscal, cod ReJust 4d27ede4, decizia nr. 916/CA/2019-R din 8 noiembrie 2019 a Curții de Apel Oradea, Secția a II-a civilă, de contencios administrativ și fiscal, cod ReJust 7g222g79, decizia nr. 610 din 6 octombrie 2020 a Curții de Apel Brașov, Secția contencios administrativ și fiscal, cod ReJust 6e77d24g, decizia nr. 3.891 din 14 iunie 2023 a Curții de Apel Alba Iulia, Secția de contencios administrativ și fiscal, cod ReJust 72792223d, decizia civilă nr. 176 din 21 august 2023 a Curții de Apel Constanța, Secția contencios administrativ și fiscal, cod ReJust 985333e48, decizia nr. 1.738 din 20 septembrie 2023 a Curții de Apel
+
+Craiova, Secția contencios administrativ și fiscal, cod ReJust g8e8223g8, decizia civilă nr. 288 din 2 noiembrie 2023 a Curții de Apel Constanța, Secția contencios administrativ și fiscal, cod ReJust 597ee7239, și decizia civilă nr. 641 din 3 octombrie 2024 a Curții de Apel București, Secția a X-a contencios administrativ și fiscal și pentru achiziții publice, cod ReJust de79d856e).
+
+Cerințele riguroase în materie de achiziții publice presupun întocmirea documentelor necesare în conformitate cu prevederile documentației de atribuire, cunoscut fiind faptul că garantarea corectitudinii procedurii achizițiilor publice poate justifica respingerea ofertei pentru orice fel de încălcare a dispozițiilor legale în materie, care ar putea fi considerată de ofertant mai puțin importantă (în această direcție s-au pronunțat, de pildă, Curtea de Apel București, în decizia nr. 692 din 23 octombrie 2024, precitată, Curtea de Apel Constanța, Secția de contencios administrativ și fiscal, în sentința civilă nr. 6 din 12 ianuarie 2024, cod ReJust g8789d674, Curtea de Apel Craiova, Secția contencios administrativ și fiscal, în decizia nr. 45 din 12 ianuarie 2023, cod ReJust 39gd8e778, Curtea de Apel București, Secția a IX-a de contencios administrativ și fiscal, în decizia civilă nr. 1589 din 12 august 2021, cod ReJust 736ee28e, în decizia nr. 1405 din 17 iunie 2021, cod ReJust 28993ed2, în decizia nr. 1754 din 8 octombrie 2020, cod ReJust 845de6d9, și în decizia civilă nr. 1417 din 9 septembrie 2020, cod ReJust gg2g5696, și Curtea de Apel Brașov, Secția de contencios administrativ și fiscal, în decizia nr. 468/R din 16 mai 2017, cod ReJust 8988379ej. Raportat la obiectivul general constând în prevenirea și sancționarea încălcării dispozițiilor legale în materia procedurilor de achiziție publică, nu i se poate reproșa autorității contractante că a analizat ofertele participanților la procedură în raport de cerințele minime de participare necontestate, sancționând neîndeplinirea acestora (Curtea de Apel București, Secția a IX-a de contencios administrativ și fiscal, decizia civilă nr. 828 din 1 aprilie 2021, cod ReJust 65ed4d74, și decizia civilă nr. 517 din 4 martie 2021, cod ReJust 65459455, și Curtea de Apel Cluj, Secția a III-a contencios administrativ și fiscal, decizia civilă nr. 2507 din 21 decembrie 2016, cod ReJust 27494445).
+
+Astfel cum a sesizat și Curtea de Apel Ploiești, Secția de contencios administrativ și fiscal, în decizia nr. 123 din 2 februarie 2023, cod ReJust 7239g5386, „rigorile impuse de legislația achizițiilor publice și de cerințele documentației de atribuire impun ca ofertanții sä demonstreze că ofertele lor sunt apte să satisfacă nevoile licitației, iar nu^să vină doar cu simple afirmații în acest sens".
+
+în jurisprudența sa, Curtea de Justiție a Uniunii Europene a stabilit că autoritatea adjudecătoare trebuie să interpreteze criteriile în același fel pe parcursul întregii proceduri. La punctul 34 din Hotărârea din 13 iulie 2017, Ingsteel și Metrostav (C-76/16,
+
+EU:C:2017:549), Curtea a reamintit că „principiul egalității de tratament impune ca ofertanții să dispună de aceleași șanse în formularea ofertelor lor și implică, așadar, ca aceste oferte să fie supuse acelorași condiții pentru toți ofertanții. Pe de altă parte, obligația de transparență, care constituie corolarul principiului egalității de tratament, are ca scop să garanteze absența riscului de favoritism și de arbitrar din partea autorității contractante. Această obligație implică formularea tuturor condițiilor și modalităților procedurii de atribuire în mod clar, precis și neechivoc în anunțul de participare sau în caietul de sarcini, astfel încât, în primul rând, să permită tuturor ofertanților informați în mod rezonabil și normal de diligenți să le înțeleagă conținutul exact și să le interpreteze în același mod și, în al doilea rând, să permită autorității contractante să verifice efectiv dacă ofertele prezentate de ofertanți corespund criteriilor care guvernează contractul în cauză (Hotărârea din 2 iunie 2016, Pizzo, C- 27/15^, EU:C:2016:404, punctul 36, precum și jurisprudența citată)".
+
+în cazul în care, în cadrul unei proceduri de „cerere de ofertă", autoritatea contractantă definește condițiile pe care intenționează să le impună ofertanților, aceasta limitează exercitarea propriei puteri de apreciere și nu poate de altfel să se abată, față de vreun ofertant, de la condițiile pe care le-a definit astfel fără să încalce principiul egalității de tratament între ofertanți (Ordonanța președintelui Tribunalului Uniunii Europene din 4 decembrie 2014, Vanbreda Risk & Benefits/ Comisia, T-199/14 R, EU:T:2014:1024, punctul 96, și Hotărârea Tribunalului Uniunii Europene din 20 martie 2013, Nexans France/ Entreprise commune Fusion for Energy, T-415/10, EU:T:2013:141, punctul 80).
+
+Depășind acest preambul de subliniere a importanței conformării întru totul la regulile impuse de entitatea organizatoare în documentația de atribuire, conformare devenită o axiomă, un truism, și care reprezintă regula în sistemul de atribuire a contractelor de achiziție publică, asupra aspectelor sesizate de reclamanta [OPERATOR ECONOMIC], Consiliul ia act că motivele respingerii ofertei asocierii cu [OPERATOR ECONOMIC], regăsite în comunicarea nr. 149158/08.08.2025, sunt:
+
+[...] oferta dumnevoastră a fost respinsă ca inacceptabilă, în temeiul art. 228 alin (4) din Legea 99/2016 coroborat cu art. 140 alin. (4) si art. 143 alin. (1) și (2), lit. b) din HG nr. 394/2016, deoarece:
+
+Conform cerințelor din Fisa de date, pct. IIL1.3.a) Capacitatea tehnica si/sau profesionala, trebuia sa faceți dovada ca dispuneți cel puțin de următorul personal:
+
+Manager de contract, persoana care sa dețină experiența profesionala, specifica constând in participarea pe parcursul profesional la cel puțin un contract in cadrul caruia sa fi desfasurat activitati specifice de management de contract/conducere/coordonare a unui contract avand ca obiect lucrări de construcții civile.
+
+Responsabil in domeniul securității si sanatatii in munca care sa faca dovada deținerii de competente aferente poziției pentru care este propus in oferta, conform prevederilor art. 21 si 49 din H.G. nr 1425/2006 pentru aprobarea Normelor metodologice de aplicare a prevederilor Legii securității muncii nr. 319/2006, cu modificările ulterioare.
+
+Responsabil managementul calitatii, care sa faca dovada deținerii de competente aferente poziției pentru care este propus in oferta, respectiv care sa dețină experiența specifica constând in participarea pe parcursul profesional la cel puțin un contract avand ca obiect lucrări de construcții civile in cadrul caruia sa fi detinut o poziție similara celei pentru care este propus in oferta prezentata."
+
+Pentru îndeplinirea cerințelor mai sus menționate, Ofertanții trebuiau sa completeze DUAE. In DUAE prezentat inițial de către dumneavoastră nu s-au regăsit toate informațiile in vederea evaluării îndeplinirii cerințelor din documentația de atribuire, fapt pentru care au fost solicitate clarificări.
+
+Trebuie menționat ca nici in cadrul propunerii tehnice nu s-au regăsit documente referitoare la persoanele nominalizate pentru poziția de Manager de contract si Responsabil managementul calitatii.
+
+Deși v-au fost solicitate clarificări in mod punctual, nu ați inclus in răspunsul dumneavoastră informații care sa ateste îndeplinirea cerințelor privind experiența specifica pentru pozițiile Manager de contract si Responsabil managementul calitatii.
+
+In susținerea celor de mai sus, devin incidente, următoarele dispoziții:
+
+art. 140, alin.4 din HG nr. 394/2016, potrivit căruia oferta este inacceptabilă "în cazul în care comisia de evaluare solicită unui candidat/ofertant, în condițiile art. 221 din Lege, clarificări și, după caz, completări ale documentelor prezentate de acesta în cadrul ofertei sau solicitării de participare, iar candidatul/ ofertantul nu transmite în termenul precizat de comisia de evaluare clarificările/completările solicitate sau clarificările/ completările transmise nu sunt concludente, oferta sa va fi considerată inacceptabilă."
+
+art.143, alin. 2, lit. b din HG nr. 394/2016, potrivit căruia, oferta este considerată inacceptabilă întrucât ofertantul nu face dovada că îndeplinește criteriile de calificare stabilite în documentația de atribuire,
+
+art. 228 alin. (4) din Legea nr.99/2016, potrivit căruia oferta este considerată inacceptabilă dacă nu îndeplinește condițiile de formă aferente elaborării și prezentării acesteia.
+
+în ecuația diferendului juridic de față, esențială este identificarea cerințelor organizatoarei, la care urmează a fi raportată oferta asocierii contestatoarei, prin prisma ulterioarelor clarificări.
+
+Niciuna dintre părțile litigante nu tăgăduiește clauzele de la pct. IIL1.3) - „Capacitatea tehnică și profesională" din anunțul de participare:
+
+Ofertantul trebuie sa faca dovada ca dispune cel puțin de următorul personal:
+
+Manager de contract, persoana care sa dețină experiența profesionala specifica constând in participarea pe parcursul profesional la cel puțin un contract in cadrul caruia sa fi desfasurat activitati specifice de management de contract/conducere/coordonare a unui contract avand ca obiect lucrări de construcții civile.
+
+Responsabil in domeniul securității si sanatatii in munca care sa faca dovada deținerii de competente aferente poziției pentru care este propus in oferta, conform prevederilor art. 21 si 49 din H.G. nr 1425/2006 pentru aprobarea Normelor metodologice de aplicare a prevederilor Legii securității muncii nr. 319/2006, cu modificările ulterioare.
+
+Responsabil managementul calitatii, care sa faca dovada deținerii de competente aferente poziției pentru care este propus in oferta, respectiv care sa dețină experiența specifica constând in participarea pe parcursul profesional la cel puțin un contract avand ca obiect lucrări de construcții civile in cadrul caruia sa fi detinut o poziție similara celei pentru care este propus in oferta prezentata.
+
+Se va prezenta DUAE de către toti ofertantii participanti la procedura.
+
+Documentele justificative care probează îndeplinirea celor asumate prin completarea DUAE urmeaza a fi prezentate, la solicitarea entitatii contractante, doar de către ofertantii clasati pe primele 2 locuri, după aplicarea criteriului de atribuire asupra ofertelor admisibile, pana la încheierea raportului procedurii de atribuire, conform prevederilor art. 205 alin (2) din Legea nr. 99/2016.
+
+Documente suport care fac dovada competentelor solicitate: certificate/diploma de studii
+
+Documentul care atesta abolvirea cursului de perfectionare/specializare
+
+Documentele care atesta experiența generala si specifica solicitata : fisa post/contract de munca/recomandare sau orice alte documente similare care sa cuprindă:
+
+titlul proiectului;
+
+contractul cu date de identificare;
+
+calitatea deținuta;
+
+Documente din care reiese modalitatea de dispunere de personalul invocat (contract de munca/acord de angajare/contract de prestare servicii - caz in care devin incidente prevederile legate de subcontractare).
+
+în propriul DUAE, [OPERATOR ECONOMIC] a consemnat:
+
+Pentru contractele de achiziție de lucrări: tehnicieni sau organisme tehnice pentru executarea lucrărilor
+
+Descriere:
+
+Manager proiect -Constantinescu Elena, diploma licența seria IA nr. 0159372, certificat Manager Proiect seria S, nr 0192330, recomandare poziție nominalizata.
+
+Responsabil cu sanatatea si securitatea muncii pe șantier -Dima Livioara, Diploma seria F, nr. 0047763, recomandare poziție nominalizata.
+
+Responsabil managementul calitatii -Manea lonut, certificat Manager al sistemului de management al calitatii nr 597/2022, recomandare poziție nominalizata.
+
+Apreciind că informațiile din DUAE nu permit verificarea punctuală a îndeplinirii cerinței de calificare din anunț redată mai sus, Societatea de [OPERATOR ECONOMIC], prin adresa nr. 148259/ 17.03.2025, i-a solicitat asocierii:
+
+2. Referitor la personalul prezentat pentru îndeplinirea cerinței privind tehnicieni sau organisme tehnice pentru executarea lucrărilor:
+
+Pentru Manager proiect - Constantinescu Elena, va rugam sa transmiteți DUAE revizuit, in care sa se regaseasca următoarele Informații conform cerinței din Fisa de date:
+
+participarea pe parcursul profesional la cel puțin un contract in cadrul caruia sa fi desfasurat activitati specifice de management de contract/conducere/coordonare a unui contract avand ca obiect lucrări de construcții civile.
+
+Pentru Responsabil managementul calitatii - Manea lonut, va rugam sa transmiteți DUAE revizuit, in care sa se regaseasca următoarele informații conform cerinței din Fisa de date:
+
+experiența specifica constând in participarea pe parcursul profesional la cel puțin un contract avand ca obiect lucrări de construcții civile in cadrul caruia sa fi detinut o poziție similara celei pentru care este propus in oferta prezentata.
+
+In cazul în care se modifică/completează informațiile din DUAE prezentat se va avea în vedere depunerea unui DUAE revizuit la nivelul răspunsului la prezenta clarificare.
+
+Răspunsul primit a fost:
+
+Având în vedere solicitarea privind îndeplinirea cerinței privind tehnicienii pentru executarea lucrărilor, avem rugămintea de a regăsi atașat prezentului răspuns DUAE revizuit prin prezentarea informațiilor solicitate.
+
+Pentru contractele de achiziție de lucrări: tehnicieni sau organisme tehnice pentru executarea lucrărilor
+
+Descriere:
+
+Manager proiect -Constantinescu Elena, diploma licența seria IA nr. 0159372, certificat Manager Proiect seria S, nr 0192330, participarea pe parcursul profesional la contracte in cadrul carora a desfasurat activitati specifice de management de contract avand ca obiect lucrări de construcții civile.
+
+Responsabil cu sanatatea si securitatea muncii pe șantier -Dima Livioara, Diploma seria F, nr. 0047763, recomandare poziție nominalizata.
+
+Responsabil managementul calitatii -Manea lonut, certificat Manager al sistemului de management al calitatii nr 597/2022, experiența specifica constând in participarea pe parcursul profesional la contracte avand ca obiect lucrări de construcții civile in cadrul caruia a detinut poziții similare celor pentru care a fost propus in oferta prezentata.
+
+Respingerea ofertei reclamantei a fost întemeiată în fapt pe neconcludența răspunsului și în drept pe aplicarea art. 140 alin. (4) din Normele metodologice de aplicare a prevederilor referitoare la atribuirea contractului sectorial/acordului-cadru din Legea nr.
+
+99/2016 privind achizițiile sectoriale, aprobate prin Hotărârea Guvernului nr. 394/2016: „(4) în cazul în care comisia de evaluare solicită unui candidat/ofertant, în condițiile art. 221 din Lege, clarificări și, după caz, completări ale documentelor prezentate de acesta în cadrul ofertei sau solicitării de participare, iar candidatul/ ofertantul nu transmite în termenul precizat de comisia de evaluare clarificările/completările solicitate sau clarificările/completările transmise nu sunt concludente, oferta sa va fi considerată inacceptabilă." Răspunsul apare a fi, într-adevăr, neconcludent, pe fondul în care DUAE revizuit nu include informațiile adecvate impuse de entitate, context în care Consiliul achiesează la aprecierile comisiei de evaluare.
+
+Răspunsul în care asocierea doar copiază textele:
+
+participarea pe parcursul profesional la cel puțin un contract in cadrul caruia sa fi desfasurat activitati specifice de management de contract/conducere/coordonare a unui contract avand ca obiect lucrări de construcții civile.
+
+experiența specifica constând in participarea pe parcursul profesional la cel puțin un contract avand ca obiect lucrări de construcții civile in cadrul caruia sa fi detinut o poziție similara celei pentru care este propus in oferta prezentata.
+
+este nu doar lipsit de orice relevanță probantă, ci și desconsideră adresa comisiei de evaluare, care nu a pretins copierea textelor, ci prezentarea de informații concrete, conform cerințelor din fișa de date a achiziției.
+
+în acest context factual, ține de culpa exclusivă a asocierii contestatoarei că nu a întocmit propriul DUAE revizuit în acord cu cerințele exprese ale autorității, pe fondul atenționării necesitării furnizării de informații concrete, conform celor două cerințe ale fișei de date, pe care asocierea le cunoștea sau ar fi trebuit să le cunoască. Particularitățile procedurilor de atribuire a contractelor de achiziție publică/sectorială impun o rigoare deosebită atât din partea autorităților/entităților contractante, cât și, mai ales, din partea celor care doresc să obțină aceste contracte finanțate din fonduri publice, inclusiv asocieri^ [OPERATOR ECONOMIC] - [OPERATOR ECONOMIC] în aceste condiții, orice operator economic interesat să participe la o astfel de procedură trebuie să manifeste o diligență sporită, încât să nu existe suspiciuni sau neclarități cu privire la oferta sa și, astfel, să prevină orice risc de respingere a ei. Se prezumă că specialiștii asocierii în cauză au înțeles sau trebuiau să înțeleagă rostul solicitării de clarificare primită de la organizatoare, respectiv de a îi furniza acesteia informațiile necesare verificării preliminare a îndeplinirii celor două cerințe de calificare, nicidecum de a repeta în DUAE revizuit textele de la organizatoare, preluate din fișa de date.
+
+Art. 88 din legea achizițiile sectoriale prescrie că ,r[o]fertantu! depune oferta elaborată în conformitate cu informațiile și cerințele prevăzute în documentația de atribuire, însoțită de DUAE sau alte documente solicitate prin care ofertantul furnizează informatii privind îndeplinirea criteriilor de calificare si selecție stabilite de entitatea
+
+contractantă", însemnând că funcția DUAE este de furnizare de informații concrete necesare verificării îndeplinirii criteriilor, nu de simplă reproducere a cerințelor. Același raționament se desprinde și din art. 138 alin. (1) din normele metodologice de aplicare a legii: „în cazul în care, în cadrul documentației de atribuire, a fost prevăzută obligația îndeplinirii unor criterii de calificare și selecție formulate în baza criteriilor prevăzute la cap. V secțiunea a 6-a paragraful 2 din Lege, comisia de evaluare are obligația verificării modului de îndeplinire a acestora de către fiecare ofertant/candidat în parte prin analizarea conținutului DUAE."
+
+Nici pentru managerul de proiect Constantinescu Elena și nici pentru responsabilul de managementul calității Manea Ionuț, asocierea nu a indicat în DUAE revizuit vreun:
+
+- contract în cadrul căruia să fi desfășurat activități specifice de management de contract/conducere/coordonare a unui contract având ca obiect lucrări de construcții civile, pentru managerul de proiect; respectiv
+
+~ contract având ca obiect lucrări de construcții civile în cadrul căruia să fi deținut poziția de responsabil de managementul calității.
+
+Esențial de observat în speță este că asocierea reclamantei, dincolo de orice aprecieri de ordin legal sau exterioare legii, neatacând solicitarea de clarificare nr. 148259/17.03.2025, era ținută să răspundă strict la obiect acesteia, astfel cum a pretins organizatoarea achiziției. Discuția relativă la existența în propunerea tehnică a unor eventuale documente probante este de prisos, întrucât, în răspunsul său nr. 372/20.03.2025, la solicitarea punctuală a organizatoarei, asocierea nu a invocat niciun document din propunerea tehnică și, pe de altă parte, asocierea putea și trebuia să cunoască faptul că ofertele sumare, incomplete ori nedetaliate trebuie respinse.
+
+■ [OPERATOR ECONOMIC] nu a contestat solicitarea de clarificări, însemnând că a fost de acord cu ea și trebuia să îi răspundă punctual.
+
+Argumente de genul:
+
+6 Mai. mult, informații similare prin care confirmam că cei doi experți au o experiență profesională solidă sunt menționate și cadrul propunerii tehnice (document pe care entitatea contractantă pare că la verificat) după cum urmează:
+
+La pag. .359 - 360 din propunerea tehnică am menționat următoarele:
+
+. „Manager de Contract - Constantinescu Elena
+
+Uri '
+
+Calificări si experiență:
+
+Experiență relevantă (minim 5 ani) în coordonarea de proiecte de construcții / reparații generale și renovări similare."
+
+La pag. 361 din propunerea tehnică am menționat următoarele:
+
+„Responsabil cu Controlul Calității - Manea lonut
+
+Calificări si experiență:
+
+Experiență în activități de control și asigurare a calității, minim 2-3 ani, preferabil în proiecte de construcții civile sau reparații generale."
+
+sunt nu doar neavenite în fața Consiliului, ci și de rea-credință, întrucât, în răspunsul său nr. 372/20.03.2025, [OPERATOR ECONOMIC] nu le-a invocat organizatoarei, pentru ca aceasta să le poată lua în considerare în evaluarea documentelor de calificare.
+
+Faptul că ofertanta „și-a amintit" cu prilejul contestației de unele clauze ale propunerii tehnice și de diverse recomandări nu o exonerează de culpa transmiterii către organizatoare a unui răspuns neconcludent si nici nu îi poate imputa organizatoarei că nu a avut în vedere aceste argumente, din moment ce ele nu i-au fost expuse. Această interpretare este în acord și cu regula nemo audîtur propriam turpitudinem allegans (nimeni nu se poate prevala de propria turpitudine).
+
+Trebuie adăugat că operatorii economici participanți la achizițiile publice/sectoriale sunt considerați a fi profesioniști în domeniul lor de activitate și înțeleg cerințele elaborate de autoritatea/entitatea beneficiară, iar, în caz contrar, reacționează în sensul clarificării lor, astfel încât să dispună de toate informațiile necesare alcătuirii ofertei în sensul dorit de autoritate/entitate. Neînțelegerea clauzelor de participare la procedura competițională nu îi poate scuza sau exonera de obligația respectării lor. De neînțeles este superficialitatea cu care [OPERATOR ECONOMIC] a tratat solicitarea de clarificare primită de la entitate, întrucât era limpede că informațiile din DUAE inițial nu au fost suficiente pentru comisia de evaluare în demonstrarea cerinței ce calificare privind experții, cerință pe care asocierea trebuia să o parcurgă cu atenție cu prilejul întocmirii clarificării cerute.
+
+Consiliul nu poate ignora disciplina căreia trebuie să i se supună operatorii economici interesați în procedura de atribuire, care trebuie să dea dovadă de diligență maximă din moment ce autoritatea/ entitatea contractantă trebuie să se abțină de la orice act prin care poate crea apariția unui avantaj pentru unul dintre ofertanți. Altfel spus, din moment ce toți participanții au acces la documentație și toți trebuie să respecte aceleași condiții de participare, orice derogare ar încălca principiul tratamentului egal, încurajând, totodată, neglijența sau conducând la decizii administrative arbitrare (decizia nr. 691 din 13 iunie 2016, Curtea de Apel Suceava, Secția de contencios administrativ și fiscal). Similar, Curtea de Apel București, Secția a VIII-a contencios administrativ și fiscal, în decizia civilă nr. 3.274 din 24 septembrie 2012, a statuat că, în materia achizițiilor publice, operatorii economici trebuie să manifeste o diligență sporită în privința cerințelor legale și a celor cuprinse în documentația de atribuire, astfel că, în condițiile în care nu au uzat de dreptul de a contesta anumite cerințe precizate în cuprinsul documentației de atribuire, au acceptat să se supună rigorilor acestora. Și decizia civilă nr. 1.095 din 26 aprilie 2010 a aceleiași instanțe își are însemnătate
+
+în fundamentarea concluziei de mai sus - „Curtea reține că, în materia achizițiilor publice, operatorii economici sunt datori, mai mult decât un simplu cetățean diligent, să cunoască dispozițiile legale incidente în formele în vigoare la data exercitării drepturilor procesuale, necunoașterea legii nefiind un motiv pentru eludarea acesteia/'
+
+în considerarea celor evocate, Consiliul determină că temeinic și legal Societatea de [OPERATOR ECONOMIC] a respins oferta asocierii [OPERATOR ECONOMIC] - [OPERATOR ECONOMIC], neexistând motive pentru infirmarea acestei măsuri, pentru anularea raportului procedurii prin care a fost hotărât rezultatul evaluării ei și nici pentru obligarea entității contractante la reevaluarea ofertei contestatoarei. Argumentele legate de redactarea solicitării de clarificare nr. 148259/17.03.2025, de emiterea unei noi solicitări de clarificare și de diferențele de tratament nu sunt valide, în sensul că nu pot elimina neconcludența răspunsului nr. 372/ 20.03.2025, astfel încât oferta asocierii să revină legal în competiție.
+
+Contestatoarea se plânge și de evaluarea ofertei concurente desemnate câștigătoare, pe care o apreciază părtinitoare și nelegală.
+
+Relativ la acceptarea înlocuirii în DUAE aparținând [OPERATOR ECONOMIC] a domnului [PERSOANĂ], cu domnul [persoană]- Lucian, pentru poziția de responsabil cu managementul calității, criticile contestatoarea apar a fi nefondate, întrucât respectiva înlocuire (recunoscută de entitatea contractantă) semnifică o corectare a unui simplu viciu de formă.
+
+Potrivit propunerii tehnice a asocierii [OPERATOR ECONOMIC] - [OPERATOR ECONOMIC], domnul [persoană] nu are nicio legătură cu managementul calității, poziția pe care a fost alocat fiind de șef de șantier, în vreme ce pentru controlul calității apare desemnat domnul [persoană]^Petru-Lucian, în mai multe secțiuni ale propunerii tehnice.
+
+în consecință, este limpede că entitatea a fost în prezența unui viciu de formă reprezentând o eroare de completare a DUAE, viciu definit la art. 141 alin. (3) din normele metodologice anexate Hotărârii Guvernului nr. 394/2016 - „viciile de formă reprezintă acele erori sau omisiuni din cadrul unui document a căror corectare/ completare este susținută în mod neechivoc de sensul și de conținutul altor informații existente inițial în alte documente prezentate de ofertant sau a căror corectare/completare are rol de clarificare sau de confirmare, nefiind susceptibile de a produce un avantaj incorect în raport cu ceilalți partidpanți la procedura de atribuire", a cărui corectare era permisă de dispozițiile legii. Cu alte cuvinte, în discuție este nu o modificare a responsabilului nominalizat în DUAE, ci o corectare permisă a DUAE în acord cu informațiile din propunerea tehnică depusă la licitație (corelare legală între cele două componente ale ofertei, astfel încât informațiile să corespundă realității și asumării ofertantului).
+
+Nefondată este și critica vizând completarea propunerii tehnice a câștigătoarei cu termenul de garanție a lucrărilor de 36 de luni, întrucât această completare nu alterează conținutul inițial al propunerii tehnice, care nu prevedere niciun termen de garanție, context în care judicios organizatoarea a interpelat asocierea pe acest subiect, la care era obligată în temeiul art. 221 alin. (1) din Legea nr. 99/2016 - „în cazul în care informațiile sau documentele prezentate de către operatorii economici sunt incomplete sau eronate, ori în căzui în care lipsesc anumite documente, entitatea contractantă are dreptul de a solicita într-un anumit termen ofertanților/candidaților clarificări și, după caz, completări ale documentelor prezentate de aceștia în cadrul ofertelor/solicitărilor de participare, cu respectarea principiilor tratamentului egal și transparenței." - secondat de art. 140 alin. (1) din normele metodologice de aplicare a legii - „Comisia de evaluare are obligația de a stabili care sunt clarificările și completările formale sau de confirmare, necesare pentru evaluarea fiecărei solicitări de participare/oferte, precum și perioada de timp acordată pentru transmiterea acestora, termenul-limită neputând fi stabilit decât la nivel de zile lucrătoare, fără a fi precizată o anumită oră." Respingerea directă a ofertei nu ar fi în acord nici cu principiul proporționalității, care impune ca autoritățile/entitățile să nu depășească limitele a ceea ce este adecvat și necesar pentru realizarea obiectivelor urmărite, iar atunci când este posibilă o alegere între mai multe măsuri adecvate, ar trebui să se recurgă la cele mai puțin constrângătoare - Hotărârea Tribunalului Uniunii Europene din 27 septembrie 2002, Tideland Signal/Comisia, T-211/02, EU:T:2002: 232. Trebuie să existe un echilibru, o legătură rezonabilă între cauză și efect, respectiv între o potențială deficiență minoră și măsura pe care o poate dispune autoritatea/entitatea contractantă, ca transpunere punctuală a principiului proporționalității ce guvernează materia despre care discutăm. Așadar, asumarea ulterioară de către asociere, prin răspunsul de clarificări nr. 189/30.05.2025, a garanției de 36 de luni nu constituie o modificare interzisă a ofertei, ci o clarificare permisă a ei, informația lipsind inițial. Atașată răspunsului, a fost depusă declarația corespunzătoare privind garanția, asumată prin semnătură atât olografă, cât și electronică.
+
+Jurisprudența de care se prevalează contestatoarea nu este edificatoare în speță, premisa din cauzele invocate fiind că ofertanții au indicat inițiat un termen de garanție pe care ulterior l-au înlocuit cu alt termen, ceea ce nu se verifică în speță.
+
+Se constată a fi nefondată și critica pe care contestatoarea o aduce în privința dovedirii efective a angajamentului de susținere de către terțul [OPERATOR ECONOMIC], critică formulată la modul general si speculativă. în fișierul „DOCUMENTE CALIFICARE STB.pdf', din dosarul achiziției sectoriale depus de entitate la Consiliu, la pag. 41-
+
+43 se identifică angajamentul de susținere cu detalierea modului de implicare. Mai mult, atașată acestui angajament, este o descriere pe cinci pagini a modului efectiv în care se materializează angajamentul. Totodată, sunt anexate registrul de salariați, registrul imobilizărilor și tabelul cu obiectele de inventar ale [OPERATOR ECONOMIC], toate acestea dovedind modalitatea și capacitatea efective de implicare a terțului susținător.
+
+Relativ la completarea contestației cu orice critici și capete de cerere noi prin concluziile scrise nr. 1593/01.09.2025, după așteptarea unei eventuale studieri a dosarului cauzei, ea este supusă inadmisibilității, prin prisma art. 21 alin. (3) din Legea nr. 101/2016, care dispune expres că este inadmisibilă prezentarea unor noi motive de contestare și/sau formularea unor noi capete de cerere pe calea concluziilor scrise sau orale ori a precizărilor la contestație ulterior termenului legal de formulare a acesteia. în Decizia sa nr. 190 din 18 martie 2021, publicată în Monitorul Oficial al României, Partea I, nr. 754 din 3 august 2021, Curtea Constituțională a evidențiat că „nu se poate reține că legiuitorul a afectat dreptul de acces liber la justiție prin faptul că a instituit interdicția formulării unor noi motive de contestare și/sau a formulării unor noi capete de cerere pe calea concluziilor scrise sau orale ori a precizărilor la contestație ulterior termenului legal de formulare a acesteia, precum și a altor motive în plângerea formulată împotriva actelor autorității contractante în afară de cele cuprinse în contestația adresată Consiliului [...]. Cerința respectării unor termene pentru invocarea motivelor de contestație este una firească, ea asigurând celeritatea procedurii specifice în materia achizițiilor publice. [...] Toate aceste aspecte concură la realizarea cu transparență a procedurilor, desfășurarea cu celeritate a proceselor în materia achizițiilor publice, atât în scopul evitării tergiversării, cât și pentru realizarea obiectivului pentru care a fost adoptat cadrul legislativ respectiv, totodată avându-se în vedere antrenarea și responsabiHzarea tuturor celor care au un interes în finalitatea procedurilor de achiziție publică, cu precădere a participanților la procedură - autoritatea contractantă, operatorii economici interesați să participe la procedura de atribuire, respectiv, după caz, operatorii economici participanți la procedura de atribuire." în considerarea celor evocate și în temeiul art. 26 alin. (6) din Legea nr. 101/2016, în limita criticilor formulate, Consiliul va respinge, ca nefondată, contestația [OPERATOR ECONOMIC] nr. 1507/18.08.2025, în contradictoriu cu Societatea de [OPERATOR ECONOMIC]
+
+Se constată și primirea în cauză a cererii de intervenție voluntară aparținând [OPERATOR ECONOMIC], la analiza condițiilor de formulare a căreia, în raport cu prevederile în vigoare ale art. 17 alin. (3) și (4) din Legea nr. 101/2016, se observă admisibilitatea ei în principiu. Intervenienta are calitatea de ofertantă la procedura de atribuire, are calitate și capacitate procesuale și a dovedit un interes legitim propriu în pricină, prin promovarea cererii, constând în șansele de a fi menținută în licitație și de a accede la poziția de câștigătoare, diminuate prin eventuala admitere a contestației [OPERATOR ECONOMIC], motiv pentru care, în conformitate cu art. 65 alin. (1) C. proc. civ., Consiliul încuviințează în principiu cererea de intervenție, formulată în interiorul termenului de 10 zile de la data publicării în SEAP a contestației. Interesul intervenientei de a își păstra calitatea de participantă și de a dobândi contractul licitat este unul legitim, născut, personal și actual (condiții enumerate la art. 33 C. proc. civ.). Din parcurgerea cuprinsului cererii intervenientei, se vădește că este în sensul sprijinirii poziției autorității contractante, fără nicio pretenție diferită de a acesteia (respingerea contestației concurentei), cu privire la actele atacate în prezenta procedură administrativ- jurisdicțională, situație în care Consiliul stabilește că cererea este intervenție voluntară accesorie în favoarea Societății de [OPERATOR ECONOMIC]
+
+Față de cele reținute cu prilejul examinării contestației, Consiliul apreciază fondată cererea de intervenție aparținând [OPERATOR ECONOMIC], motiv pentru care o va admite.
+
+La ordine a venit contestația secundă, înaintată de [OPERATOR ECONOMIC], în care se reclamă respingerea ofertei asocierii cu [OPERATOR ECONOMIC] și [OPERATOR ECONOMIC], contestatoarea apreciind că oferta sa este conformă cerințelor documentației de atribuire.
+
+Potrivit comunicării nr. 149159/08.08.2025, oferta numitei asocieri a fost respinsă după cum urmează:
+
+[...] oferta dumneavoastră a fost respinsă ca neconformă de către comisia de evaluare în temeiul art. 228, alin.5 din Legea nr. 99/2016 coroborat cu art. 143, alin. (1) și alin. (3), lit. a din HG nr. 394/2016, pentru următoarele motive:
+
+La nivelul ofertei nu au fost respectate întocmai indicațiile privind elaborarea propunerii financiare (secțiunea Mod de prezentare a propunerii financiare din fisa de date), pentru niciuna din pozițiile de categorii de lucrări nu s-a prezentat detalierea. Pentru pozițiile de categorii de lucrări 6, 54, 69, 70, 71, 72 fiind incluse operațiuni care nu sunt specificate la nivelul documentelor achiziției, astfel:
+
+Poziția 6. Prețul total rezultat pentru aceasta categorie de lucrări are procurare si operațiuni aferente pentru astereala si invelitoare tabla operațiuni nespecificate in conținutul categoriei de lucrări poziția 6, asa cum este aceasta descrisa in caietul de sarcini pag 6.
+
+Poziția 54. Prețul total rezultat pentru aceasta categorie de lucrări are procurare si operațiuni aferente pentru reparat strat suport sapa operațiune care nu este specificata in conținutul caietului de sarcini la pag 7.
+
+Poziția 69. Prețul total rezultat pentru aceasta categorie de lucrări are procurare si operațiuni aferente pentru profile structura si vata minerala izolare care nu sunt specificate la pag 8 a caietului de sarcini pentru poziția 69 (prețul are componentele pentru compartimentări cu placi gips carton care includ structura si termoizolatii vata minerala).
+
+Poziția 70. Prețul total rezultat pentru aceasta categorie de lucrări are procurare si operațiuni aferente pentru profile structura si vata minerala izolare care nu sunt specificate la pag 8 a caietului de sarcini pentru poziția 70 (prețul are componentele pentru compartimentări cu placi gips carton care includ structura si termoizolatii vata minerala).
+
+Poziția 71. Prețul total rezultat pentru aceasta categorie de lucrări are procurare si operațiuni aferente pentru profile structura si vata minerala izolare care nu sunt specificate la pag 8 a caietului de sarcini pentru poziția 71 (prețul are componentele pentru compartimentări cu placi gips carton care includ structura si termoizolatii vata minerala).
+
+Poziția 72. Prețul total rezultat pentru aceasta categorie de lucrări are procurare st operațiuni aferente pentru profile structura si vata minerala izolare care nu sunt specificate la pag 8 a caietului de sarcini pentru poziția 72 (prețul are componentele pentru compartimentări cu placi gips carton care includ structura si termoizolatii vata minerala).
+
+Față de aspectele precizate mai sus, devin incidente dispozițiile articolelor următoare:
+
+Art. 228, alin. 5 din Legea nr. 99/2016, potrivit căruia: „Oferta este considerată neconformă dacă nu respectă documentele achiziției (...)"
+
+Art. 143, alin. 3 lit. a, conform căruia: "în condițiile art. 228 alin. (5) din Legea nr. 99/2016, oferta este considerată neconformă în următoarele situații: nu satisface în mod corespunzător cerințele caietului de sarcini (...)"
+
+Legat de aserțiunea că „pentru niciuna din pozițiile de categorii de lucrări nu s-a prezentat detalierea" forul administrativ observă că, în fișa de date a achiziției, la pct. IV.4,2 - „Modul de prezentare al propunerii financiare", s-a prevăzut, într-adevăr, „ofertantul va detalia
+
+costurile specifice pentru execuția lucrărilor", însă, din parcurgerea propunerii tehnice a asocierii, reiese că aceste costuri au fost
+
+detaliate. Spre pildă, la categoria de lucrări „Reparatii panou sandwich grosime 5-10 cm", asocierea a detaliat în deviz (formularele F3): Obiectul: 01 Rep. generale si de renovare
+
+Categoria de lucrări: 01 Rep. panou sandwich - 400 mp
+
+l™»l
+
+Nr. capitolul de lucrări	U. M. Cantitatea Prețul unitar
+
+crt. Simbol	a) materiale
+
+Materiale
+
+Manopera
+
+Utilaj
+
+Transport
+
+TOTAL
+
+Denumire resursa	b
+
+Observatii	c
+
+Corectii	d
+
+Liste anexe	T
+
+) manopera
+
+) transport otal(a+o+c+d)
+
+
+
+
+
+
+
+
+
+
+
+SECȚIUNE TEHNICA	|
+
+
+
+SECȚIUNE FINANCIARA
+
+
+
+
+
+0	1	2	3
+
+4
+
+5 = 3 X 4a
+
+6 = 3X4b
+
+7 = 3 X 4c
+
+8 = 3X4d
+
+9 = 3X4
+
+1	RMD07D	02 MP	400,00000
+
+0,00
+
+0,00
+
+
+
+
+
+
+
+
+
+
+
+30,00
+
+
+
+11.999,43
+
+
+
+
+
+
+
+DESFACERE PANOURI SANDWICH
+
+9,00
+
+
+
+
+
+3.600,00
+
+
+
+
+
+
+
+0,00
+
+
+
+
+
+
+
+0,00
+
+
+
+
+
+39,00
+
+
+
+
+
+
+
+
+
+15.599,43
+
+2	CD14D1	82 MP	400,00000
+
+296,15
+
+118.461,00
+
+
+
+
+
+
+
+
+
+
+
+55,44
+
+
+
+22.176,18
+
+
+
+
+
+
+
+PEREȚI DIN PANOURI DE TABLA CUTATA PRINSE CU ȘURUB
+
+13,00
+
+
+
+
+
+6.200,00
+
+0,00
+
+
+
+URI AUTOFILETATE LA H<=7-12M
+
+	0,00
+
+
+
+
+
+
+
+
+
+
+
+364,59
+
+
+
+
+
+
+
+
+
+145.837,18
+
+L:10146 -M -.1500026	-PAMOU SANDWICH 5-10 CM INCL. FLESHINGURI CP.DETALIU
+
+PT
+
+
+
+
+
+
+
+
+
+3	TRA01A10	82 TONE	20,00000
+
+0,00
+
+0,00
+
+
+
+
+
+
+
+
+
+
+
+0,00
+
+
+
+0,00
+
+
+
+
+
+
+
+TRANSPORTUL RUTIER AL MATERIALELOR,SEMIFABRICATELO
+
+0,00
+
+
+
+
+
+0,00
+
+
+
+
+
+R CU AUTOBASCULANTA PE DIST.» 10 KM.	$
+
+12,00
+
+
+
+
+
+
+
+240,00
+
+
+
+
+
+12,00
+
+
+
+
+
+
+
+
+
+240,00
+
+4	TRB05A19	82 TONE	20,00000
+
+0,00
+
+0,00
+
+
+
+
+
+
+
+
+
+
+
+80,00
+
+
+
+1.599,99
+
+
+
+
+
+
+
+TRANSPORTUL MATERIALELOR PRIN PURTAT DIRECT.MATERI
+
+0,00
+
+
+
+
+
+0,00
+
+0,00
+
+
+
+ALE COMODE SUB 25 KG DISTANTA 90M	$
+
+	0,00
+
+
+
+
+
+
+
+
+
+
+
+80,00
+
+
+
+
+
+
+
+
+
+
+
+Din exprimarea autorități nu se înțelege ce anume detaliere
+
+suplimentară dorea și nu a fost furnizată de asociere. Prin urmare,
+
+este nefondat pretextul de respingere a ofertei bizuit pe absența detalierii costurilor specifice pentru execuția lucrărilor. De altminteri, în punctul său de vedere nr. 149315/26.08.2025 asupra contestației, Societatea de [OPERATOR ECONOMIC] nu reușește să indice Consiliului o clauză concretă încălcată de asociere în detalierea
+
+costurilor propunerii sale financiare, în forma devizelor de mai sus. în baza art. 133 alin. (1) din normele metodologice ale Legii nr.
+
+99/2016, comisia de evaluare are următoare atribuții, între altele:
+
+verificarea conformității propunerilor tehnice ale ofertanților cu prevederile caietului de sarcini;
+
+evaluarea propunerilor tehnice ale ofertanților în conformitate cu criteriile de atribuire, dacă este cazul;
+
+elaborarea solicitărilor de clarificări și/sau completări necesare în vederea evaluării solicitărilor de participare și/sau ofertelor;
+
+stabilirea ofertelor inacceptabile și/sau neconforme și a motivelor care stau la baza încadrării acestora în fiecare din aceste categorii;
+
+stabilirea ofertelor admisibile;
+
+elaborarea proceselor-verbale aferente fiecărei ședințe, a rapoartelor intermediare aferente fiecărei etape în cazul procedurilor cu mai multe etape și a raportului procedurii de atribuire.
+
+Art. 137 alin. (4) din aceleași norme stabilește că fiecare decizie a comisiei de evaluare este fundamentată prin identificarea elementelor concrete ale ofertelor \n raport cu cerințele definite prin documentele achiziției și prevederile legale. Așadar, în speța de față, celor șapte membri ai comisiei de evaluare nominalizați în raportul procedurii le revenea obligația de a identifica elementele tehnice concrete ale ofertei evocate, pe care să le raporteze comparativ la cerințele exprese ale caietului de sarcini sau ale formularelor prestabilite, nu la altele. Jurisprudența Consiliului este constantă în sensul că orice decizie a autorității privind admiterea sau respingerea unei oferte trebuie fundamentată pe o evaluare temeinică a ofertei, sub toate aspectele acesteia, și pe probe concludente, iar nu pe simple presupuneri care ar favoriza ori defavoriza ofertanții. Pentru a fi imparțială, evaluarea trebuie să fie completă și temeinică, iar nu să lase loc supozițiilor de favorizare a unei oferte sau, dimpotrivă, de dezavantajare a ei - a se vedea, în acest sens, decizia nr. 646 din 27 mai 2021 a Curții de Apel Cluj, Secția a III-a contencios administrativ și fiscal, cod ReJust 7gegg3dg, și decizia civilă nr. 1267 din 20 noiembrie 2019 a Curții de Apel București, Secția a IX-a contencios administrativ și fiscal, cod ReJust 3g346839.
+
+Dacă specialiștii Societății de [OPERATOR ECONOMIC] au reținut că oferta asocierii [OPERATOR ECONOMIC] - [OPERATOR ECONOMIC] - [OPERATOR ECONOMIC] este neconformă, întrucât nu satisface în mod corespunzător specificațiile caietului de sarcini, le revenea obligația să indice expres și concret care sunt acele specificații nesatisfăcute și în ce sens sunt ele nesatisfăcute de ofertă.
+
+Organizatoarea nu a furnizat Consiliului nicio apărare care să îl convingă că ofertanta s-a abătut de la specificațiile caietului de sarcini, că nu a respectat vreo specificație tehnică a acestuia. Autoritatea nu a indicat ofertantei reclamante care cerință concretă din caietul de sarcini, identificată exact (cerința x de la pagina y), nu a fost respectată. Insuficiența și nelegalitatea actualei justificări este
+
+vădită în contextul în care autoritatea nu indică nicio cerință precisă din documentație care se presupune că a fost încălcată de ofertă. Caietul de sarcini include n cerințe în cele 25 de pagini ale sale cu anexe, fiind obligatoriu a se arăta care sunt acele cerințe de la care s-a abătut oferta, localizate exact de către membrii comisiei de evaluare. Trimiterile la pag. 6-8 din caietul de sarcini sunt lipsite de relevanță, deoarece organizatoarea procedurii, la respectivele pagini, nu a descris în amănunt pozițiile de lucrări pe care le dorește ofertate, descrierile fiind cu titlu general și nu cuprind operațiunile și materialele necesare, după cum au reclamat operatorii economici în etapa preofertare. Mai mult, prin, răspunsurile date acestora, organizatoarea le-a lăsat libertatea de a determina componentele pozițiilor de lucrări: întrebarea nr. 5:
+
+Va rugam sa ne comunicati unde anume in Caietul de sarcini se regăsesc descrise operațiile ce se vor executa, in afara de înșiruirea tipurilor de reparatii si aspectele generale ale lucrărilor:
+
+Reparații panou sandwich grosime 5-10 cm (demontare panouri alaturate, montare panouri noi)
+
+Reparații structură lemn acoperiș (decopertaî învelitoare tablă, demontat structura lemn deteriorat, refacere acoperiș) tara a se modifica structura de rezistență a acestuia 3. Reparații astereală acoperiș (decopertat învelitoare tabla, demont. astereala lemn deteriorat, refacere acoperiș)
+
+Reparații lambriu sageac (demontat lambriu deteriorate, montaj lambriu nou)
+
+Reparatii pazie streasina (demontat pazie deteriorata, montaj pazie noua)
+
+Reparatii folie anticondens (decopertare învelitoare tabla, demontare șipca țigla, montare folie, refacere acoperiș)
+
+Reparatii ignifugam (curatare, amorsare, ignifugare zonele necesare)
+
+Reparatii invelitori țigla (desfacere învelitoare țigla si înlocuire cu țigla noua)
+
+Reparatii invelitori tabla cutata 0,5mm (desfacere fișii de tablă cutată alaturată și reparații locale sau generale)
+
+Reparatii invelitori țigla metalica (desfacere fișii de țiglă metal alaturată și reparații locale sau general)
+
+Reparatii sort table (desfacere învelitoare și reparații șorț tabla local sau general) 12. Reparații jgheaburi (demontare jgheaburi deteriorate si montaj jgheaburi noi cu asigurare pante de scurgere)
+
+Reparatii burlane (demontare burlane deteriorate si montaj burlane noi)
+
+Reparații coloane pluviale (demontare coloane pluviale deteriorate si montaj coloane noi)
+
+Reparatii hidroizolatii bituminoase terase (curatare suprafața, amorsare, montare doua straturi hidro izolație)
+
+Reparatii hidroizolatii bicomponente exterioare (curat suprafața, amorsare, montare 2 straturi hidroizolatie)
+
+Reparatii hidroizolatii cu membrana cauciuc terase (curatare suprafața, montare hidroizolatie cauciuc)
+
+Reparatii plasa de armare (decopertate tencuiala pe zonele alaturate, reparație cu plasa de armare)
+
+Reparatii tencuieli exterioare (Decopertare pina la zidărie, refacere tencuiala) fara a se modifica aspectul arhitectural al construcțiilor
+
+Reparatii tencuieli hidroizolante (decopertare zone afectate si zone alaturate, refacere tencuieli hidroizolante)
+
+Reparatii tinci (decoperetare zone deteriorate,, amorsare si reparatii)
+
+Reparatii zugrăveli exterioare cu vopsea lavabila (degresare, amorsare, zugrăvire cu vopsea lavabila) fara a se modifica aspectul arhitectural al construcțiilor.
+
+			
+
+Pentru întocmirea ofertei financiare pe devize si respective articole de deviz cu extrase de materiale, manopera, utilaje, transport este necesar prezentarea materialelor din care sunt executate lucrările existente pentru a putea oferta același tip de materiale, altfel nu se pot executa lucrări cu materiale diferite.
+
+Răspuns nr. 5:
+
+Conform Cap 4 din Caietul de Sarcini LCM 47 se menționează "Oferta se va prezenta sub forma de preturi unitare pentru fiecare dintre categoriile de lucrări menționate in anexa 2. Aceste preturi vor include toate operațiile, echipamentele, utilajele si manopera necesare executării respectivei categorii de lucrări. Omiterea la calcularea prețului unitar a uneia dintre aceste componente nu poate fi luata in considerare pentru modificarea acestuia ulterior semnării acordului-cadru."
+
+Aceeași formulare se regăsește si la finalul Anexei 2 a Caietului de Sarcini LCM 47.
+
+Executantul lucrării va stabili pentru fiecare categorie de lucrări in parte operațiile ce se vor executa, pe răspunderea sa, cu respectarea normativelor si a legislației specifice precum si cu respectarea planului calitatii conform HG 766/1997.
+
+[-]
+
+La elaborarea propunerii financiare, potrivit prevederilor cap. IV.4.2. din Fișa de date a achiziției, trebuiesc încadrate operațiunile pe articole de deviz, iar încadrările vor trebui să cuprindă toate procurările de materiale necesare și toate operațiile, echipamentele, utilajele și manopera necesare executării respectivelor categorii de lucrări, inclusiv operații de manipulare și transport al materialelor și deșeurilor, descrise în caietul de sarcini, inclusiv organizarea de șantier.
+
+[-]
+
+Se va tine cont de natura si destinația clădirilor unde se vor face intervențiile (in mare măsură hale de producție si birouri atașate acestor hale, platforme de garare autobuze) calitatea materialelor va fi de categorie medie, rezistente la trafic si uzuri mecanice si chimice in funcție de situația constatata.
+
+Calitatea materilalelor va fi cel puțin simalară celor existente care se înlocuiesc.
+
+Alegerea materialelor din punct de vedere a culorilor, formelor si a tipodimensiunilor se va face in funcție de situație de către executant cu avizul conducătorului unitatii unde se intervine pentru reparatii si renovări
+
+Pentru a răspunde exigențelor de legalitate, respingerea ofertei în temeiul art. 137 alin. (3) lit. a) din normele anexate Hotărârii Guvernului nr. 395/2006 - pentru nesatisfacerea în mod corespunzător a cerințelor caietului de sarcini - presupune, fără excepție, identificarea și expunerea acelor cerințe din caietul de sarcini de la care s-a îndepărtat ofertanta, însoțite de o argumentare care să probeze neconformitatea ofertei cu respectivele cerințe. Așadar, sunt nerelevante explicațiile de genul „Poziția 6. Prețul total
+
+rezultat pentru aceasta categorie de lucrări are procurare si operațiuni aferente pentru asterea/a si inve/itoare tabla operațiuni nespecificate in conținutul categoriei de lucrări poziția 6f asa cum este aceasta descrisa in caietul de sarcini pag 6."r întrucât entitatea contractantă nu a stabilit în caietul de sarcini totalitatea de operațiuni ce trebuie cotate, ci doar un minim de ordin general, iar la acest minim trebuia raportată motivarea, nicidecum la operațiuni excedentare sau la deducții ale entității, în contextul în care a răspuns expres operatorilor interesați că executantul lucrării va stabili pentru fiecare categorie de lucrări în parte operațiile ce se vor executa, pe răspunderea sa.
+
+Entitatea contractată avea obligația de a își motiva deciziile, de a își menționa în mod clar și neechivoc raționamentul care le susține, limitat strict la informațiile precare din caietul de sarcini vizând categoriile de lucrări:
+
+CATEGORIILE DE LUCRĂRI DE REPARAȚII GENERALE Șl DE RENOVARE
+
+Reparații panou sandwich grosime 5-10 cm (demontare panouri alaturate, montare panouri noi)
+
+Reparații structură lemn acoperiș (decopertat învelitoare tablă, demontat structura lemn deteriorat, refacere acoperiș) fara a se modifica structura de rezistență a acestuia
+
+Reparații astereală acoperiș (decopertat invelitoare tabla, demont astereala lemn deteriorat, refacere acoperiș)
+
+Reparații lambriu sageac (demontat lambriu deteriorate, montaj lambriu nou)
+
+Reparatii pazie streasina (demontat pazie deteriorata, montaj pazie noua)
+
+Reparatii folie anticondens (decopertare invelitoare tabla, demontare șipca țigla, montare folie, refacere acoperiș)
+
+Reparații ignifugare (curatare, amorsare, ignifugare zonele necesare)
+
+Reparatii invelitori țigla (desfacere invelitoare țigla si înlocuire cu țigla noua)
+
+Reparatii invelitori tabla cutata 0,5mm (desfacere fișii de tablă cutată alaturată și reparații locale sau generate)
+
+Reparatii invelitori țigla metalica (desfacere fișii de țiglă metal alaturată și reparații locale sau general)
+
+Reparații sort table (desfacere invelitoare si reparații sort tabla local sau aeneraD șamd.
+
+Faptul că propunerea financiară a ofertei asocierii [OPERATOR ECONOMIC] - [OPERATOR ECONOMIC] - [OPERATOR ECONOMIC] a inclus unele componente suplimentare descrierilor dintre paranteze de mai sus, componente pe care asocierea le-a apreciat necesare, nu este de natură să conducă la concluzia că oferta sa este neconformă tehnic respectivului caiet de sarcini, mai ales că însăși entitatea contractantă a recunoscut în clarificări libertatea de care se bucură ofertanții în determinarea exactă a componentelor categoriilor de lucrări. De altminteri, prin faptul că nu a delimitat exact aceste componente în caietul de sarcini, entitatea contractantă și-a asumat riscul primirii de oferte înglobând articole sau operațiuni excedentare, oferte care nu pot fi respinse câtă vreme acoperă minimul de informații furnizate în caietul de sarcini.
+
+Obligația de transparență are ca scop în special să garanteze că este înlăturat riscul de arbitrar din partea autorității contractante (Hotărârea Curții de Justiție a Uniunii Europene în cauza SAG ELV Slovensko și alții, C-599/10, EU:C:2012:191, punctul 25, precum și jurisprudența acolo citată). Principiul egalității de tratament și obligația de transparență interzic autorității contractante să respingă o ofertă care îndeplinește cerințele prevăzute în cererea de ofertă pe baza unor motive care nu au fost prevăzute în cererea de ofertă menționată (Hotărârea Medipac-Kazantzidis, C-6/05, EU:C:2007: 337, punctul 54).
+
+Deosebit de relevantă este concluzia la care aceeași instanță de la Luxemburg a statuat-o în Hotărârea din 16 aprilie 2015, cauza C- 278/14, având ca obiect o cerere de decizie preliminară formulată de Curtea de Apel Alba lulia, în procedura [OPERATOR ECONOMIC] împotriva [spital] lulia:
+
+Articolul 23 alineatul (8) din Directiva 2004/18/CE a Parlamentului European și a Consiliului din 31 martie 2004 privind coordonarea procedurilor de atribuire a contractelor de achiziții publice de lucrări, de bunuri și de servicii, astfel cum a fost modificată prin Regulamentul (UE) nr. 1251/2011 al Comisiei din 30 noiembrie 2011, nu este aplicabil unui contract de achiziții publice a cărui valoare nu atinge pragul de aplicabilitate prevăzut de această directivă. în cadrul unui contract de achiziții publice care nu intră sub incidența directivei menționate, dar care prezintă un interes transfrontalier cert, aspect a cărui verificare este de competența instanței de trimitere, normele fundamentale și principiile generale ale Tratatului FUE, în special principiile egalității de tratament și nediscriminării, precum și obligația de transparență care rezultă din acestea trebuie interpretate în sensul că autoritatea contractantă nu poate respinge o ofertă care îndeplinește cerințele anunțului de participare pe baza unor motive care nu sunt prevăzute în anunțul menționat.
+
+Se reține, așadar, că evaluarea ofertei asocierii contestatoarei s-a realizat în mod superficial și cu nerespectarea dispozițiilor legale în vigoare, în privința verificării reale de către entitatea achizitoare a conformității ofertei strict prin prisma specificațiilor evazive regăsite în caietul de sarcini, caiet de sarcini care nu include restricții legate de articolele ce compun cele 77 de categorii de lucrări, actuala respingere neputând fi validată de forul jurisdicțional, sens în care urmează a fi dispusă continuarea achiziției în mod legal. Nu este exclus ca oferta contestatoarei, chiar și incluzând articole sau operațiuni suplimentare, să fie mai avantajoasă financiar pentru societatea achizitoare.
+
+în considerarea celor evocate și în baza art. 26 alin. (2) din Legea nr. 101/2016, Consiliul va admite contestația [OPERATOR ECONOMIC] nr. 1668/18.08.2025 (dosarul nr. 3226/2025}, în contradictoriu cu Societatea de [OPERATOR ECONOMIC], va anula raportul nr. 149155/08.08.2025 și adresa de comunicare a rezultatului procedurii de atribuire nr. 149159/08.08.2025, toate în partea care privește respingerea ofertei contestatoarei. Totodată, va obliga entitatea contractantă la reevaluarea ofertei asocierii [OPERATOR ECONOMIC] - [OPERATOR ECONOMIC] - [OPERATOR ECONOMIC], precum și la emiterea unui nou act de evaluare, cu respectarea celor ce preced, a legislației privind achizițiile sectoriale și a cerințelor din documentația de atribuire. Reevaluarea nu exclude dreptul organizatoarei de a cere clarificări ofertantei asupra unor potențiale neconformități ale ofertei. în baza aceluiași temei legal, va obliga entitatea să comunice ofertanților rămași implicați rezultatul reevaluării, cu respectarea legislației aplicabile.
+
+Anularea și reevaluarea se limitează la oferta contestatoarei, întrucât aceasta din urmă nu a solicitat reevaluarea ofertei admisibile concurente, cauză pentru care forul administrativ de jurisdicție nu se poate pronunța - nu poate dispune anularea actelor de evaluare și nici obliga autoritatea la reevaluarea respectivei oferte.
+
+Analiza actului atacat al entității contractante, din punctul de vedere al legalității și temeiniciei, s-a efectuat prin prisma motivelor invocate de societatea contestatoare, în acord cu principiul disponibilității care guvernează și procedura adminîstrativ- jurisdicțională în fața Consiliului [art. 26 alin. (2) partea introductivă din legea remediilor și art. 9 alin. (2) C. proc. civ. - obiectul și limitele procesului sunt stabilite prin cererile și apărările părților]. Cu privire la aspectele care nu au format obiectul contestației, răspunderea juridică pentru declararea câștigătoare a unei anumite oferte revine entității contractante, ținută de lege să verifice și să stabilească modul de îndeplinire de către ofertant/ofertă a tuturor cerințelor de calificare și. specificațiilor tehnice stabilite în documentația de atribuire. Nota bene, entitatea contractantă este responsabilă pentru modul de atribuire a contractului de achiziție sectorială/acordului-cadru, cu respectarea tuturor dispozițiilor legale aplicabile, deci și a regulilor de elaborare a proceselor-verbale și a rapoartelor comisiei de evaluare, inclusiv în ceea ce privește concluziile verificărilor de ordin tehnic sau financiar.
+
+Pentru aceste motive,în baza legii și a mijloacelor de probă aflate la dosar,CONSILIUL DECIDE:
+
+Respinge, ca nefondată, contestația [OPERATOR ECONOMIC] nr. 1507/18.08.2025, în contradictoriu cu Societatea de [OPERATOR ECONOMIC]
+
+încuviințează, în principiu, și admite pe fond cererea de intervenție voluntară accesorie nr. 60454/01.09.2025, depusă de [OPERATOR ECONOMIC]
+
+Admite contestația [OPERATOR ECONOMIC] nr. 1668/ 18.08.2025, în contradictoriu cu Societatea de [OPERATOR ECONOMIC], și anulează raportul procedurii de atribuire nr. 149155/ 08.08.2025 și comunicarea în baza acestuia nr. 149159/08.08.2025,
+
+toate în partea care privește respingerea ofertei asocierii contestatoarei. Obligă entitatea contractantă la reevaluarea ofertei asocierii [OPERATOR ECONOMIC] - [OPERATOR ECONOMIC] - [OPERATOR ECONOMIC], cu posibilitatea solicitării de clarificări, precum și la emiterea unui nou raport, cu respectarea întocmai a celor consemnate mai sus, a documentației de atribuire și a legislației aplicabile privind achizițiile sectoriale, , în termen de cel mult cincisprezece zile de la data primirii prezentei decizii. După finalizarea reevaluării ofertei și aprobarea raportului procedurii, entitatea va comunica ofertanților rămași implicați rezultatul procedurii, potrivit legislației aplicabile.
+
+Prezenta decizie este obligatorie pentru părți. împotriva ei se poate formula plângere, în termen de zece zile.
+
+
+
+MEMBRU,Dan TRĂSNEA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Redactată în cinci exemplare, conține douăzeci și patru de pagini.

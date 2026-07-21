@@ -1,0 +1,406 @@
+DECIZIE CNSC BO2016_2355 — text integral (anonimizat de CNSC la publicare; raționament/considerente complete).
+Citeaz-o prin BO2016_2355.
+
+CONSILIUL NAȚIONAL DE
+SOLUȚIONARE A CONTESTAȚIILOR
+Str. Stavropoleos nr. 6, sector 3, București, cod poștal 030084, România
+Tel: +4 021.310.46.41 Fax: +4 021.890.07.45 și +4 021.310.46.42 www.cnsc.ro
+În conformitate cu prevederile art. 14 alin. (2) și ale art.
+27 alin. (1) din Legea nr. 101/2016 privind remediile și căile
+de atac în materie de atribuire a contractelor de achiziție
+publică, a contractelor sectoriale și a contractelor de
+concesiune de lucrări și concesiune de servicii, precum și
+pentru organizarea și funcționarea Consiliului Național de
+Soluționare a Contestațiilor, Consiliul adoptă următoarea
+DECIZIE
+Nr. ......... / ......... / .........
+Data: .........
+Prin contestația nr. ........./........., înregistrată la Consiliul
+Național de Soluționare a Contestațiilor cu nr. ........./........., depusă
+de SC ......... SRL, cu sediul în ......... , ........., ........., CUI .........,
+număr de înregistrare în registrul comerțului ........., reprezentată
+de doamna ......... - administrator, privind procedura simplificată
+pentru atribuirea contractului de lucrări de modernizare străzi
+în ........., cod CPV 45233142-6, cu data limită de depunere a
+ofertelor 20.10.........., organizată de ........., prin primăria sa, cu
+sediul în ........., ........., județul ........., în calitate de autoritate
+contractantă, contestatoarea a solicitat ..........
+CONSILIUL NAȚIONAL DE SOLUȚIONARE A CONTESTAȚIILOR,
+asupra cauzei de față, constată următoarele:
+Consiliul a fost legal sesizat și este competent, potrivit
+dispozițiilor art. 12 alin. (1) din Legea nr. 101/........., să soluționeze
+contestația de față, prin care ofertantul SC ......... SRL reclamă
+decizia autorității contractante de respingere, ca inacceptabilă, a
+ofertei sale, în cadrul procedurii de atribuire menționată în partea
+introductivă, învederând în motivare că, după importarea
+formularului DUAE, nu există posibilitatea ca operatorii economici să
+modifice câmpurile prestabilite de autoritate, putând doar să bifeze
+căsuțele aferente sau să completeze secțiunile cu informații proprii.
+Lipsa unui câmp din formularul DUAE predefinit de autoritatea
+contractantă nu se poate datora decât unei erori a sistemului IT,
+1
+ 
+
+eroare ce a fost admisă ca posibilă de Direcția DG GROW, din cadrul
+Comisiei Europene.
+Autoritatea poate solicita operatorului economic revizuirea
+DUAE o singură dată, pentru ca informațiile prezentate de operatorii
+economici să fie complete. Această interpretare este confirmată de
+către Agenția Națională pentru Achiziții Publice prin notificarea
+privind utilizarea DUAE, astfel: „[...] a) Posibilitatea de a solicita
+clarificări cu privire la DUAE atașat ofertei/candidaturii: În
+conformitate cu prevederile art. 209 alin. (1) din Legea nr.
+98/......... privind achizițiile publice, autoritatea/entitatea
+contractantă are dreptul de a solicita clarificări/completări în scopul
+lămuririi unor aspecte determinate de existența unor neconcordanțe
+între informațiile prezentate în cadrul DUAE.”
+Contestatoarea consideră că respingerea ofertei sale este
+abuzivă, excesivă și încalcă principiile ce guvernează achizițiile
+publice, atât timp cât, în urma prezentării formularului DUAE
+revizuit, a îndeplinit toate cerințele din documentația de atribuire.
+În punctul său de vedere nr. 4691/23.12.......... asupra
+contestației, înregistrat la Consiliu cu nr. 39697/23.12..........,
+autoritatea contractantă susține, în apărare, că, în urma analizei
+documentelor de calificare depuse în SEAP, ținând cont de art. 196
+alin. (1) și art. 209 alin. (1) din Legea nr. 98/......... și art. 65 alin.
+(1), art. 132 alin. (1) și art. 134 alin. (1) din normele aprobate prin
+Hotărârea Guvernului nr. 395/........., a solicitat contestatoarei o
+serie de clarificări referitoare la DUAE depus.
+În fișa de date a achiziției, pct. III.2.1.a), s-a solicitat
+îndeplinirea condițiilor: „1. Declarație privind neîncadrarea în
+prevederile art. 164 din Legea nr. 98/......... privind achizițiile
+publice - Modalitatea de îndeplinire: Prezentare DUAE cf. art. 193
+alin. (1) din Legea nr. 98/.........” și „3. Declarație privind
+neîncadrarea în prevederile art. 167 din Legea nr. 98/......... privind
+achizițiile publice - Modalitatea de îndeplinire: Prezentare DUAE cf.
+art. 193 alin. (1) din Legea nr. 98/.........”. În conformitate cu art.
+193 alin. (1) din Legea nr. 98/.........: „Autoritatea contractantă
+acceptă la momentul depunerii solicitărilor de participare sau
+ofertelor DUAE, constând într-o declarație pe propria răspundere
+actualizată, ca dovadă preliminară în locul certificatelor eliberate de
+către autoritățile publice sau de către terți care confirmă că
+operatorul economic în cauză îndeplinește următoarele condiții: a)
+nu se află în niciuna din situațiile de excludere menționate la art.
+164, 165 și 167.”
+A fost publicat în SEAP, în cuprinsul documentației de atribuire,
+un formular DUAE, obligatoriu a fi respectat de către ofertanți,
+formular în care, la partea a III-a, se regăsesc:
+2
+
+A. Motive referitoare la condamnările penale, unde, în baza
+art. 57 alin. (1) din Directiva 2014/24/UE, respectiv a art. 164 din
+Legea nr. 98/........., se regăsesc 6 motive de excludere, cum sunt:
+condamnări, corupție, fraude, activități teroriste, spălare de bani,
+toate acestea fiind nebifate, urmând a fi marcate de către operatorii
+economici, cu „da” sau „nu”, după caz;
+B. Motive legate de plata impozitelor sau a contribuțiilor la
+asigurările sociale, unde, în baza art. 57 alin. (2) din Directiva
+2014/24/UE, respectiv art. 165 din Legea nr. 98/........., se regăsesc
+2 motive de excludere, referitoare la neîndeplinirea obligațiilor
+privind plata impozitelor, taxelor sau a contribuțiilor la bugetul
+general consolidat, toate acestea fiind nebifate, urmând a fi marcate
+de către operatorii economici, cu „da” sau „nu”, după caz;
+C. Motive legate de insolvență, conflicte de interese sau
+abateri profesionale, unde, în baza art. 57 alin. (4) din Directiva
+2014/24/UE, respectiv art. 167 din Legea nr. 98/........., se regăsesc
+15 motive de excludere, cum ar fi: încălcarea obligațiilor în domeniul
+legislației de mediu, încălcarea obligațiilor în domeniul legislației
+sociale, încălcarea obligațiilor în domeniul legislației muncii,
+falimentul etc, toate acestea fiind nebifate, urmând a fi marcate de
+către operatorii economici, cu „da” sau „nu”, după caz.
+În DUAE depus de contestatoare în cadrul ofertei s-au sesizat
+omisiuni ale informațiilor referitoare la condițiile de participare, la
+situațiile de excludere conform art. 164 și 167 din Legea nr.
+98/.......... Nu a completat DUAE partea III - Motive de excludere
+(corespunzătoare art. 164 și 167 din Legea nr. 98/.........). Dată
+fiind această omisiune, nu s-a putut efectua verificarea impusă prin
+Legea nr. 98/........., art. 164 și 167, respectiv fișa de date a
+achiziției.
+Prin adresa de solicitare de clarificări nr. 4296/17.11..........,
+autoritatea nu a solicitat contestatoarei prezentarea unui DUAE
+revizuit, ci să clarifice inexistența declarațiilor privind art. 164 și 167
+din lege în DUAE prezentat, inadvertență care nu este de formă, ci
+de fond. Acceptarea depunerii unui DUAE revizuit ar fi însemnat
+înlocuirea unui document depus inițial în ofertă. La răspunsul său nr.
+1163/22.11.........., contestatoarea a atașat un DUAE revizuit și
+declarații pe propria răspundere privind încadrarea în art. 164, 165
+și 167 din Legea nr. 98/........., însă, în conformitate cu prevederile
+art. 193 alin. (1) din lege, referitoare la definiția DUAE, acest
+document este el însuși o declarație.
+Atât în cadrul notificării sale prealabile, cât și în cadrul
+contestației depuse, reclamanta citează doar un fragment din
+notificarea Agenției Naționale pentru Achiziții Publice nr. 247/.........,
+desprins din contextul general al respectivei notificări. Se poate
+solicita revizuirea DUAE în baza art. 209 din Legea nr. 98/......... în
+3
+
+cazul unor inadvertențe de formă, definite clar prin notificarea nr.
+247/..........
+Ceilalți ofertanți au prezentat DUAE fără erori de genul celor
+invocate de contestatoare. În fapt, contestatoarea nu a efectuat
+verificarea prealabilă a documentului în discuție înainte de a-l
+publica în SEAP, în cadrul ofertei.
+Autoritatea contractantă nu este responsabilă de modul în care
+funcționează serviciile IT ale site-ului https://ec.europa.eu/
+tools/espd, nici de modul contestatoarei propriu de utilizare a
+acestei platforme. Ca fișierul DUAE depus de operatorul economic în
+cadrul ofertei să fie corespunzător cerințelor din documentația de
+atribuire cade în sarcina operatorului economic.
+Pentru o eventuală imposibilitate tehnică de completare a
+DUAE în formatul electronic xml, contestatoarea putea utiliza DUAE
+în format editabil, format disponibil pe SEAP oricărui operator
+economic (cum s-a întâmplat cu DUAE revizuit prezentat ulterior).
+Luând în considerare aspectele enunțate, autoritatea solicită
+Consiliului să respingă contestația formulată în cauză, ca
+neîntemeiată.
+Cu nr. 1304/28.12.........., înregistrate la Consiliu sub nr.
+40049/ 28.12.........., SC ......... SRL a formulat concluzii scrise în
+care afirmă că soluția respingerii ofertei sale, adoptată de
+autoritate, nu respectă prevederile art. 65 și 66 din normele
+anexate la Hotărârea Guvernului nr. 395/.......... Evaluarea
+cerințelor de calificare în detaliu are loc după analiza propunerilor
+tehnică și financiară, pentru ofertantul aflat pe primul loc în
+clasamentul ofertelor admisibile. Au caracter explicit asupra modului
+de evaluare DUAE și prevederile art. 193 și 196 din Legea nr.
+98/..........
+Atât timp cât a dovedit bună-credință și a retransmis autorității
+DUAE revizuit cu toate informațiile solicitate, decizia de respingere a
+ofertei sale este excesivă și abuzivă, mai ales că nu se poate stabili
+dacă eroarea în DUAE a apărut la momentul salvării sau la
+momentul deschiderii documentului, fiind o eroare a sistemului IT.
+Scopul autorității contractante nu este de a căuta motive
+pentru a elimina operatorii economici pentru anumite vicii de formă,
+ci de a evalua ofertele astfel încât să obțină cea mai buna ofertă,
+conform scopului și necesităților sale.
+Din examinarea coroborată a materialului probator
+administrat, aflat la dosarul cauzei, după verificarea din oficiu a
+competenței generale, materiale și teritoriale, potrivit art. 131 alin.
+(1) C. proc. civ., și după deliberare, Consiliul reține că, prin anunțul
+de participare nr. ........., publicat în Sistemul Electronic de Achiziții
+Publice – SEAP la ........., autoritatea contractantă ......... prin
+primăria sa, a inițiat o procedură simplificată în vederea
+4
+
+achiziționării de lucrări de modernizare de străzi în comună, lucrări
+estimate valoric la 5.369.321 lei, fără TVA. Documentația de
+atribuire a fost postată în SEAP la ........., alături de anunțul de
+participare.
+La procedură s-au prezentat șapte operatori economici, între
+care și SC ......... SRL, a cărei ofertă a fost respinsă de autoritate ca
+inacceptabilă și neconformă, întrucât documentul unic de achiziţii
+european – DUAE depus de societate nu a fost completat la toate
+secțiunile obligatorii. Împotriva acestui rezultat, pentru motivele
+evocate mai sus, ulterior notificării prealabile a autorității și primirii
+unui răspuns din partea acesteia considerat nemulțumitor,
+SC ......... SRL a învestit Consiliul, în termenul legal, cu soluționarea
+contestației ce formează obiectul prezentei cauze.
+Preliminar analizării aspectelor sesizate de reclamantă, este de
+remarcat că documentația de atribuire, alcătuită din fișa de date,
+caietul de sarcini (părțile tehnice), formularele necesare și modelul
+contractului de lucrări, la care se adaugă clarificările postate în
+SEAP, nu a fost contestată de niciun operator economic, drept
+pentru care toate prevederile ei și-au consolidat forța obligatorie
+atât pentru autoritatea contractantă, cât mai ales pentru operatorii
+economici participanți la procedura de atribuire, inclusiv pentru
+SC ......... SRL. La acest moment nu pot fi emise pretenții sau critici
+vizavi de prevederile documentației de atribuire, întrucât ar fi vădit
+tardive, raportat la termenul prescris de Legea nr. 101/..........
+În concluzie, documentația acceptată implicit de toate
+societățile ofertante le impunea să îi urmeze cu strictețe
+prescripțiile, sens în care dispune și art. 75 din legea amintită –
+ofertantul depune oferta elaborată în conformitate cu informațiile și
+cerințele prevăzute în documentele achiziției, precum și art. 123
+alin. (1) din normele aprobate prin Hotărârea Guvernului nr.
+395/......... – ofertantul elaborează oferta în conformitate cu
+prevederile documentației de atribuire. Prin depunerea ofertelor la
+procedură, se presupune că ofertanții și-au însușit documentația de
+atribuire fără rezerve, ceea ce înseamnă că nu li se poate scuza
+nicio abatere de la prescripțiile ei, opozabile în cel mai mic detaliu
+(relevantă în acest sens este decizia nr. 1555 din 6 martie 2012 a
+Curții de Apel Craiova, Secția de contencios administrativ și fiscal).
+Astfel cum un contract constituie legea părților, și documentația de
+atribuire, întovărășită de clarificările postate în SEAP, are aceeași
+valoare pentru părți, iar niciuna dintre ele nu îi poate ignora sau
+nesocoti clauzele.
+În aceeași direcție, Curtea de Apel Iași, Secția de contencios
+administrativ și fiscal, a reținut în decizia nr. 2204 din 21 septembrie
+2012 că cerințele riguroase în materie de achiziții publice presupun
+întocmirea documentelor necesare în conformitate cu prevederile
+5
+
+documentației de atribuire, cunoscut fiind faptul că garantarea
+corectitudinii procedurii achizițiilor publice poate justifica
+respingerea ofertei pentru orice fel de încălcare a dispozițiilor legale
+în materie, care ar putea fi considerată de ofertant mai puțin
+importantă. Raportat la obiectivul general constând în prevenirea și
+sancționarea încălcării dispozițiilor legale în materia procedurilor de
+achiziție publică, nu i se poate reproșa autorității contractante că a
+analizat ofertele participanților la procedură în raport de cerințele
+minime de participare necontestate, sancționând neîndeplinirea
+acestora.
+Depășind această introducere de subliniere a importanței
+respectării întru totul a regulilor impuse de autoritate în
+documentația de atribuire, asupra aspectelor sesizate de
+reclamantă, Consiliul ia act că rezultatul evaluării garanțiilor de
+participare și a DUAE a fost stabilit de autoritate prin procesul-
+verbal nr. 4458/09.12.........., rezultat comunicat competitorilor în
+aceeași zi. La 13.12.........., SC ......... SRL s-a plâns autorității de
+nelegalitatea rezultatului evaluării documentelor sale, prin
+notificarea prealabilă nr. 1244/13.12.........., iar ......... i-a răspuns
+petentei cu adresa nr. 4563/15.12.........., în sensul că nu urmează
+să adopte măsuri de remediere a rezultatului evaluării, invocând și o
+decizie pronunțată de Consiliu într-un caz similar (decizia nr.
+1796/C7/2073/20.10..........). Primind acest răspuns, SC ......... SRL
+a reacționat prin formularea contestației la Consiliu, la data
+de ........., în interiorul termenului legal de contestare.
+Referitor la cerința completării DUAE, la pct. III.2.1) - Criterii
+de calificare, Situația personală a operatorilor economici, inclusiv
+cerințele referitoare la înscrierea în registrul comerțului sau al
+profesiei, din anunțul de participare nr. ........./........., autoritatea a
+stabilit, între altele: „1. Declaratie privind neincadrarea in
+prevederile art. 164 din legea nr. 98/......... privind achizitiile
+publice. Modalitatea de indeplinire: Prezentare DUAE cf.art. 193
+alin.1 din Legea 98/.......... [...] 3. Declaratie privind neincadrarea
+in prevederile art. 167 din legea nr. 98/......... privind achizitiile
+publice. Modalitatea de indeplinire: Prezentare DUAE cf.art. 193
+alin.1 din Legea 98/.......... [...].”
+În fişa de date a achiziţiei, la pct. IV.4.3) - Modul de
+prezentare a ofertei, autoritatea a adăugat: „Operatorul economic
+are obligatia de a transmite oferta si DUAE in format electronic si
+numai pana la data si ora limita de depunere a ofertelor prevazuta
+in anuntul de participare. Adresa unde poate fi completat DEAU
+(DUAE) pentru ca apoi sa fie exportat in calculatorul personal si apoi
+incarcat si transmis on line impreuna cu oferta pana la data limita
+stabilita pentru depunerea acestei este: https://ec.europa.eu/
+6
+
+growth/tools-databases/espd/filter. Se va consulta si Ghidul de
+utilizare DUAE postat pe site-ul www.e-licitatie.ro."
+Așadar, autoritatea achizitoare nu numai că a specificat expres
+că ofertanții au obligația de a prezenta DUAE, ci a și furnizat
+informații asupra modalității de completare și transmitere a lui.
+În pofida prevederilor clare și obligatorii redate mai sus,
+SC ......... SRL a înțeles să depună în oferta sa un DUAE ce nu a fost
+completat corespunzător, respectiv care nu avea completată partea
+a III-a Motive de excludere, aferentă situațiilor de la art. 164 și 167
+din Legea nr. 98/........., situații în care autorității îi revine obligația
+de a exclude din competiție ofertantul.
+În urma solicitării de clarificări privind omisiunea semnalată,
+SC ......... SRL a completat un nou DUAE, pe care l-a depus la
+autoritate împreună cu două declarații de neîncadrare în situațiile de
+la art. 164, 165 și 167 din Legea nr. 98/........., pe care autoritatea
+nu le-a luat în considerare, apreciind că omisiunea din documentul
+inițial conduce la respingerea ofertei. Consiliul împărtășește această
+concluzie la care s-a oprit autoritatea, ea având caracter legal și
+temeinic.
+Depunând un DUAE în care nu existau completate informațiile
+în partea a III-a Motive de excludere, după cum recunoaște însăși
+ofertanta contestatoare, aceasta a încălcat cele stabilite de
+autoritate în anunț și fișa de date a achiziției. Depunerea DUAE
+revizuit și a declarațiilor privind situația personală a operatorului
+economic nu are nicio relevanță în speță, cerința fiind aceea a
+prezentării unui DUAE inițial completat corespunzător. După cum s-a
+constatat, SC ......... SRL nu a completat nicio informație la partea a
+III-a Motive de excludere, în DUAE inițial.
+Spre deosebire de SC ......... SRL, ceilalți ofertanți au
+completat partea a III-a din propriile DUAE, ceea ce înseamnă că
+autoritatea contractantă a generat un formular DUAE corect, după
+cum se observă și din anexa nr. 3 la punctul de vedere transmis de
+autoritate Consiliului, cuprinzând modelul DUAE dat de autoritate (în
+care, câmpurile din partea a III-a sunt deschise bifării și completării
+de către ofertanți).
+Toți ofertanții aveau aceeași obligație de a elabora oferta și
+înscrisurile însoțitoare (DUAE) în conformitate cu prevederile din
+documentația de atribuire, iar:
+- comisia de evaluare analizează DUAE în conformitate cu
+prevederile cuprinse în cap. IV secţiunea a 8-a din Legea nr.
+98/.........;
+- comisia de evaluare are obligaţia, în urma finalizării fiecăreia
+dintre fazele de verificare, să introducă în SEAP rezultatul
+admis/respins, să comunice motivele de respingere ofertanţilor
+respinşi, să deschidă în SEAP sesiunea pentru prezentarea
+7
+
+documentelor-suport aferente DUAE depuse de ofertantul de pe
+primul loc, precum şi să acorde un termen de răspuns;
+- oferta câștigătoare se stabilește numai dintre ofertele
+admisibile și numai pe baza criteriului de atribuire precizat în
+documentația de atribuire;
+- comisia de evaluare are obligația de a verifica îndeplinirea
+criteriilor de calificare de către ofertanți;
+- comisia de evaluare are obligația de a respinge ofertele
+inacceptabile și ofertele neconforme.
+În cazul în care, în cadrul documentaţiei de atribuire, a fost
+prevăzută obligaţia îndeplinirii unor criterii de calificare şi selecţie
+formulate în baza criteriilor prevăzute la cap. IV secţiunea a 6-a
+paragraful 1 din lege, comisia de evaluare are obligaţia verificării
+modului de îndeplinire a acestora de către fiecare ofertant/candidat
+în parte prin analizarea conţinutului DUAE, dispune art. 132 alin. (1)
+din normele la lege, obligație pe care comisia evaluatorie desemnată
+de ......... nu a putut să o îndeplinească integral în situația societății
+contestatoare, dat fiind că aceasta nu a completat câmpurile din
+partea a III-a, după cum s-a menționat mai sus.
+Doar pentru ofertantul clasat pe primul loc pot fi acceptate
+documente-suport aferente DUAE, ceea ce nu este cazul
+contestatoarei.
+Consecința lipsei din oferta SC ......... SRL a unui DUAE
+completat corespunzător la toate secțiunile constă în respingerea
+fără ezitare a ofertei, căreia îi sunt incidente dispozițiile art. 137
+alin. (2) lit. b) teza a II-a din normele metodologice aprobate prin
+Hotărârea Guvernului nr. 395/......... (oferta este considerată
+inacceptabilă dacă a fost depusă de un ofertant care nu a completat
+DUAE în conformitate cu criteriile stabilite de autoritatea
+contractantă) și cele ale alin. (1) din același articol (comisia de
+evaluare are obligația de a respinge ofertele inacceptabile) - singura
+decizie legală cu privire la aceasta fiind cea de respingere a ei ca
+inacceptabilă, din cauza expusă. Întocmirea deficitară a ofertei
+(DUAE) este imputabilă societății care a prezentat-o, iar nu
+autorității contractante, a cărei obligație era de a controla
+respectarea întocmai de către ofertanți a prescripțiilor
+documentației. SC ......... SRL putea și trebuia să verifice
+documentul pe care l-a încărcat în SEAP, anterior încărcării lui,
+pentru a preveni eventuale omisiuni și elimina riscul respingerii
+ofertei din cauza lor.
+Mesajul e-mail primit de la DG GROW (GROW-ESPD@
+ec.europa.eu) la 12.12.........., după finalizarea evaluării DUAE și
+respingerea ofertei de către autoritate, nu disculpă cu nimic
+societatea contestatoare, ci dimpotrivă, naște suspiciunea vinovăției
+acesteia, cauzată de inactivitatea ei în completarea DUAE pe mai
+8
+
+mult de o oră. Contrar art. 10 alin. (1), art. 14 alin. (2) şi art. 249
+C. proc. civ., care impun părţilor să susţină cu mijloace de probă
+cele ce afirmă în faţa Consiliului, autoarea contestației nu a reuşit să
+demonstreze că omisiunea completării părții a III-a din propriul
+DUAE ar fi datorată unui terț sau sistemelor/aplicațiilor informatice
+aparținând DG GROW/Comisiei Europene sau operatorului SEAP
+(Agenția pentru Agenda Digitală a României).
+Raționamentul contestatoarei, precum că autoritatea avea
+obligația de a îi accepta aducerea unui nou DUAE, nu este judicios,
+deoarece ar fi încălcat atât textul imperativ al art. 137 alin. (2) lit.
+b) teza a II-a, cât și principiul legal al tratamentului egal între
+ofertanți. În același sens este și decizia Consiliului nr. 1796/C7/
+2073/20.10...........
+În considerarea celor evocate, Consiliul determină că în mod
+legal autoritatea a respins oferta SC ......... SRL, neexistând motive
+pentru infirmarea acestei măsuri, pentru anularea procesului-verbal
+nr. 4458/09.12.........., prin care a fost stabilit rezultatul evaluării
+actelor contestatoarei și nici pentru obligarea autorității contractante
+la reevaluarea acestora. Astfel fiind, în temeiul art. 26 alin. (6) din
+Legea nr. 101/........., Consiliul va respinge, ca nefondată,
+contestația SC ......... SRL nr. ........./........., în contradictoriu
+cu ........., prin primăria sa.
+Pentru aceste motive,
+în baza legii și a mijloacelor de probă aflate la dosar,
+CONSILIUL DECIDE:
+Respinge, ca nefondată, contestația SC ......... SRL
+nr. ........./ ........., în contradictoriu cu ........., prin primăria sa.
+Prezenta decizie este obligatorie pentru părți. Împotriva ei se
+poate formula plângere de către părțile cauzei, în termen de zece
+zile de la comunicare.
+PREȘEDINTE,MEMBRU,MEMBRU,
+...........................
+9
+
+Redactată în patru exemplare, conține nouă pagini.
+10

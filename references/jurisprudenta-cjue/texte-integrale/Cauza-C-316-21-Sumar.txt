@@ -1,0 +1,22 @@
+
+Cauza C - 316/21
+Raad van State - Monumentul Vandekerckhove NV/Stad Gent
+Ordonanța Curții (Camera a noua)
+din 6 octombrie 2021
+Identificator ECLI: ECLI:EU:C:2021:837
+EUR-Lex: 62021CO0316
+Tip procedură: cerere de pronunţare a unei decizii preliminare
+Materie: libertatea de reglementare, libera prestare a serviciilor, armonizare legislativă
+Subiect (cuvinte cheie): „trimitere preliminară, art. 99 din Regulamentul de procedură al Curții, Directiva 2014/24/UE, derularea procedurii, alegerea participanților și atribuirea contractelor, art. 63, ofertantul care folosește capacitățile unei alte entități de a îndeplini cerințele autorității contractante, nerespectarea cerințelor referitoare la capacitățile tehnice și profesionale ale ofertantului de către entitatea ale cărei capacități intenționează să le folosească ofertantul, obligația de a permite ofertantului să înlocuiască respectiva entitate, principiul proporționalității"
+Instanţa de trimitere: Raad van State
+Părţi în procedura principală:
+Reclamantă: Monument Vandekerckhove NV
+Pârât: Stad Gent
+Interveniente: Denys NV, Aelterman BVBA
+Obiectul cauzei: Raad van (Consiliul de stat, Belgia) a formulat o cerere de decizie preliminară în cadrul unui litigiu între Monument Vandekerckhove NV și Stad Gent (orașul Gent, Belgia) cu privire la decizia acesteia din urmă de a nu selecta această societate în cadrul procedurii de atribuire a unui contract de achiziție publică de lucrări și de a atribui acest contract către companiile Denys NV și Aelterman BVBA, constituite ca societate temporară.
+Cadrul juridic: considerentul 84, art. 4, art. 18, art. 19 alin. (2) primul paragraf, art. 57 pct. 6, art. 59, art. 60 alin. (1), art. 63 din Directiva 2014/24/UE
+Întrebare preliminară:
+„ Articolul 63 alineatul (1) al doilea paragraf din Directiva 2014/24/UE1 a Parlamentului European și a Consiliului din 26 februarie 2014 „privind achizițiile publice și de abrogare a Directivei 2004/18/CE”, privit individual și coroborat cu domeniul de aplicare al principiilor dreptului comunitar, și anume principiile egalității, nediscriminării și transparenței în materie de contracte de achiziții publice, trebuie interpretat în sensul că autoritatea contractantă, în cazul în care constată că o entitate pe a cărei capacitate se bazează un operator economic nu îndeplinește criteriile de selecție, este obligată să solicite operatorului economic înlocuirea acelei entități sau dispune de posibilitatea de a solicita această înlocuire dacă operatorul economic dorește să fie selectat?
+Există împrejurări în care autoritatea contractantă, în temeiul principiilor egalității, nediscriminării și transparenței, și în funcție de desfășurarea procedurii de atribuire, nu (mai) trebuie sau nu (mai) poate solicita efectuarea înlocuirii?”
+Soluție: 
+„Articolul 63 (1) al doilea paragraf din Directiva 2014/24/UE a Parlamentului European și a Consiliului din 26 februarie 2014 privind atribuirea de contracte publice și de abrogare a Directivei 2004/18/CE, citită coroborat cu principiile egalitatea de tratament, nediscriminarea și proporționalitatea, astfel cum sunt prevăzute la articolul 18 alineatul (1) din directiva menționată, trebuie interpretate în sensul că, atunci când constată că o entitate cu capacități pe care un operator economic intenționează să le utilizeze nu îndeplinește criteriile de selecție, autoritatea contractantă trebuie să solicite acestui operator să înlocuiască această entitate, dacă nu dorește să fie exclusă din procedura de achiziție în cauză.”

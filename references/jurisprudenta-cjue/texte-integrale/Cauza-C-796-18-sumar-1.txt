@@ -1,0 +1,28 @@
+
+Cauza C-796/18
+Oberlandesgericht Düsseldorf - Informatikgesellschaft für Software-Entwicklung (ISE) mbH/Stadt Köln
+Hotărârea Curții (Camera a patra)
+din 28 mai 2020
+
+Identificator ECLI: ECLI:EU:C:2020:395
+EUR-Lex: nu a fost inca publicata
+Tip procedură: cerere pentru pronunţarea unei hotărâri preliminare
+Materie: libertatea de reglementare, libera prestare a serviciilor, armonizare legislativă 
+Subiect (cuvinte cheie): ”trimitere preliminară, achiziții publice, Directiva 2014/24/UE - art. 2 alin. (1) pct. 5, art. 12 alin. (4), art. 18 alin (1), noțiunea de „contract cu titlu oneros”, contract între două autorități contractante care urmărește un obiectiv comun de interes public, furnizarea unui program software destinat coordonării intervențiilor pompierilor, lipsa contraprestatiei pecuniare, legătura cu un acord de cooperare care prevede furnizarea reciprocă cu titlu gratuit de module suplimentare ale acestui software, principiul tratamentului egal, interzicerea punerii unei întreprinderi private într-o poziție privilegiată comparativ cu concurenții acesteia"
+Instanţa de trimitere: Oberlandesgericht Düsseldorf
+Părţi în procedura principală:
+Reclamantă: Informatikgesellschaft für Software-Entwicklung (ISE) mbH
+Pârâtă: Stadt Köln
+Obiectul cauzei: Oberlandesgericht Düsseldorf (Curtea regională superioară din Düsseldorf, Germania) a formulat o cerere de decizie preliminară în litigiul Informatikgesellschaft für Software-Entwicklung (ISE) mbH împotriva Stadt Köln (orașul Köln, Germania) cu privire la două contracte încheiate între orașul Köln și Land Berlin având ca obiect punerea la dispoziție gratuită a unui software de gestionare a intervențiilor pompierilor și cooperarea în vederea dezvoltării programului respectiv.
+Cadrul juridic: Considerentele (31) și (33), art. 1 alin. (1), art. 2 alin. (1) pct. 5, art. 12 alin. (4), art. 18 alin. (1) din Directiva 2014/24/UE
+Întrebări preliminare:
+”Cesionarea unui software, convenită în scris, de la un organ al administrației publice către alt organ al administrației publice, care este legată de un acord de cooperare, constituie un „contract de achiziții publice” în sensul articolului 2 alineatul (1) punctul 5 din Directiva 2014/24/UE1 sau – în orice caz, în principiu, sub rezerva articolului 12 alineatul (4) literele (a)-(c) – un contract care intră în domeniul de aplicare al directivei, în sensul articolului 12 alineatul (4) din directivă, atunci când, deși cesionarul acelui software nu trebuie nici să plătească un preț, nici să ramburseze costurile pentru software, acordul de cooperare legat de cesionarea acelui software prevede totuși ca fiecare partener de cooperare – și, astfel, și cesionarul acelui software – să pună la dispoziția celuilalt partener toate celelalte dezvoltări proprii ulterioare eventuale ale acelui software, a căror realizare nu este însă obligatorie?
+Potrivit articolului 12 alineatul (4) litera (a) din Directiva 2014/24/UE, obiectul cooperării dintre autoritățile contractante participante trebuie să constea în serviciile publice proprii care trebuie furnizate în comun cetățenilor sau este suficient ca această cooperare să privească orice formă de activități destinate prestării serviciilor publice care trebuie furnizate în același mod, însă nu obligatoriu în comun?
+În cadrul articolului 12 alineatul (4) din Directiva 2014/24/UE, se aplică o așa-numită interdicție nescrisă a plasării într-o poziție privilegiată și, în caz afirmativ, care este conținutul acesteia?”
+Soluţie:
+”1) Directiva 2014/24/UE a Parlamentului European și a Consiliului din 26 februarie 2014 privind achizițiile publice și de abrogare a Directivei 2004/18/CE trebuie interpretată în sensul că un acord care, pe de o parte, prevede că o autoritate contractantă pune gratuit la dispoziția unei alte autorități contractante un software și, pe de altă parte, este obligată de un acord de cooperare în temeiul căruia fiecare parte la acest acord este obligată să pună gratuit la dispoziția celeilalte părți viitoarele dezvoltări ale acestui software pe care lear putea concepe constituie un „contract de achiziții publice”, în sensul articolului 2 alineatul (1) punctul 5 din această directivă, atunci când rezultă atât din termenii acestor acorduri, cât și din reglementarea națională aplicabilă că softwareul menționat va face, în principiu, obiectul unor adaptări.
+2) Articolul 12 alineatul (4) din Directiva 2014/24 trebuie interpretat în sensul că o cooperare între autoritățile contractante poate fi exclusă din domeniul de aplicare al normelor de atribuire a contractelor de achiziții publice prevăzute de această directivă în cazul în care cooperarea menționată privește activități accesorii serviciilor publice care trebuie furnizate, fie și individual, de fiecare membru al acestei cooperări, în măsura în care respectivele activități accesorii contribuie la realizarea efectivă a serviciilor publice menționate.
+3) Articolul 12 alineatul (4) din Directiva 2014/24 coroborat cu considerentul (33) al doilea paragraf și cu articolul 18 alineatul (1) din această directivă trebuie interpretat în sensul că o cooperare între autorități contractante nu trebuie să aibă ca efect, în conformitate cu principiul egalității de tratament, plasarea unei întreprinderi private întro situație privilegiată față de concurenții săi.”
+
+
+
